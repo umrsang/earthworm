@@ -1,11 +1,11 @@
-import { InjectRedis } from "@nestjs-modules/ioredis";
-import { Injectable, Logger } from "@nestjs/common";
-import Redis from "ioredis";
+import { Inject, Injectable, Logger } from "@nestjs/common";
+import { desc, eq, sql } from "drizzle-orm";
 
+import { userRank } from "@earthworm/schema";
+import { DB, DbType } from "../global/providers/db.provider";
 import { UserEntity } from "../user/user.decorators";
 import { UserService } from "../user/user.service";
 
-// 定义周期枚举
 export enum RankPeriod {
   WEEKLY = "weekly",
   MONTHLY = "monthly",
@@ -16,73 +16,73 @@ export type RankPeriodAlias = "weekly" | "monthly" | "yearly";
 
 @Injectable()
 export class RankService {
-  private readonly FINISH_COUNT_KEY = `user:finishCount`;
   private readonly logger = new Logger(RankService.name);
-  private readonly rankKeys = {
-    [RankPeriod.WEEKLY]: `${this.FINISH_COUNT_KEY}`,
-    [RankPeriod.MONTHLY]: `${this.FINISH_COUNT_KEY}:${RankPeriod.MONTHLY}Rank`,
-    [RankPeriod.YEARLY]: `${this.FINISH_COUNT_KEY}:${RankPeriod.YEARLY}Rank`,
-  };
+
   constructor(
-    @InjectRedis() private readonly redis: Redis,
+    @Inject(DB) private readonly db: DbType,
     private readonly userService: UserService,
   ) {}
 
   async userFinishCourse(userId: string) {
     const counts = {};
-    for (const period of Object.keys(this.rankKeys)) {
-      const rankKey = this.rankKeys[period];
-      let count = await this.redis.zscore(rankKey, userId);
-      if (!count) {
-        await this.redis.zadd(rankKey, 1, userId);
+    for (const period of Object.values(RankPeriod)) {
+      const existing = await this.db.query.userRank.findFirst({
+        where: (ur) => eq(ur.userId, userId) && eq(ur.period, period),
+      });
+
+      if (existing) {
+        await this.db
+          .update(userRank)
+          .set({ count: sql`${userRank.count} + 1` })
+          .where(eq(userRank.id, existing.id));
+        counts[period] = existing.count + 1;
       } else {
-        await this.redis.zincrby(rankKey, 1, userId);
+        await this.db.insert(userRank).values({
+          userId,
+          period,
+          count: 1,
+        });
+        counts[period] = 1;
       }
-      count = await this.redis.zscore(rankKey, userId);
-      counts[period] = count;
     }
 
     return counts;
   }
 
-  private convertRankListToObjectArray(rankList: string[]) {
-    const res = [];
-    for (let i = 0; i < rankList.length; i += 2) {
-      const count = parseInt(rankList[i + 1] ?? "-1");
-      res.push({ count, userId: rankList[i] });
-    }
-    return res;
+  private convertRankListToObjectArray(rankList: any[]) {
+    return rankList.map((item) => ({
+      count: item.count,
+      userId: item.userId,
+    }));
   }
 
-  /**
-   * @description  return top 10 and self rank
-   * @param user  current user
-   * @param period  a certain period of time
-   * @returns top 10 and self rank
-   */
   async getRankList(user: UserEntity, period: RankPeriodAlias = RankPeriod.WEEKLY) {
-    // return [member, count, member, count, ...]
     let self = null;
-    const rankPeriod = this.rankKeys[period];
-    const rankList = this.convertRankListToObjectArray(
-      await this.redis.zrevrange(rankPeriod, 0, 24, "WITHSCORES"),
-    );
+    
+    const rankList = await this.db.query.userRank.findMany({
+      where: (ur) => eq(ur.period, period),
+      orderBy: (ur) => desc(ur.count),
+      limit: 25,
+    });
+
+    const convertedList = this.convertRankListToObjectArray(rankList);
 
     if (user) {
-      const userRank = await this.redis.zrevrank(rankPeriod, user.userId);
-      const userCount = await this.redis.zscore(rankPeriod, user.userId);
+      const userRankRecord = rankList.find((r) => r.userId === user.userId);
+      const userRank = rankList.findIndex((r) => r.userId === user.userId);
+      
       self = {
         userId: user.userId,
-        count: userCount === null ? -1 : parseInt(userCount),
-        rank: userRank === null ? -1 : userRank + 1,
+        count: userRankRecord?.count ?? -1,
+        rank: userRank === -1 ? -1 : userRank + 1,
       };
     }
 
-    await this.appendUserNameProperty(self, rankList);
+    await this.appendUserNameProperty(self, convertedList);
 
     return {
       self,
-      list: rankList,
+      list: convertedList,
     };
   }
 
@@ -123,9 +123,8 @@ export class RankService {
   }
 
   async resetRankList(period: RankPeriodAlias = RankPeriod.WEEKLY) {
-    const rankKey = this.rankKeys[period];
     try {
-      await this.redis.del(rankKey);
+      await this.db.delete(userRank).where(eq(userRank.period, period));
       this.logger.verbose(`${period}重置排行榜成功: ${new Date()}`);
     } catch (error) {
       this.logger.error(`${period}重置排行榜时发生错误: ${error}`);

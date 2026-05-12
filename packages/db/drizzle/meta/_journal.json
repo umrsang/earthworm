@@ -71,6 +71,13 @@
       "when": 1722416147800,
       "tag": "0009_typical_xorn",
       "breakpoints": true
+    },
+    {
+      "idx": 10,
+      "version": "7",
+      "when": 1778057747653,
+      "tag": "0010_flat_blonde_phantom",
+      "breakpoints": true
     }
   ]
 }

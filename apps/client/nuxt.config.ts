@@ -18,6 +18,9 @@ function addClarity() {
 
 export default defineNuxtConfig({
   ssr: false,
+  devServer: {
+    port: 3378,
+  },
   // default is true, reference to https://nuxt.com/docs/guide/directory-structure/components
   // components: true,
   imports: {
