@@ -1,6 +1,14 @@
 <template>
   <div class="flex w-full flex-col">
-    <h2 class="mb-4 text-center text-3xl dark:border-gray-600">课程包列表</h2>
+    <div class="mb-4 flex items-center justify-between">
+      <h2 class="text-center text-3xl dark:border-gray-600">课程包列表</h2>
+      <NuxtLink
+        to="/course-pack/upload"
+        class="rounded-lg bg-blue-500 px-4 py-2 text-white hover:bg-blue-600"
+      >
+        上传课程包
+      </NuxtLink>
+    </div>
     <template v-if="isLoading">
       <Loading></Loading>
     </template>

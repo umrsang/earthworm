@@ -1,0 +1,68 @@
+[
+  {
+    "name": "elementary-grade-1-2",
+    "title": "小学 1-2 年级英语",
+    "level": "elementary",
+    "focus": "兴趣启蒙与高频口语"
+  },
+  {
+    "name": "elementary-grade-3-4",
+    "title": "小学 3-4 年级英语",
+    "level": "elementary",
+    "focus": "校园生活与日常问答"
+  },
+  {
+    "name": "elementary-grade-5-6",
+    "title": "小学 5-6 年级英语",
+    "level": "elementary",
+    "focus": "场景表达与基础阅读"
+  },
+  {
+    "name": "junior-grade-7",
+    "title": "初中 7 年级英语",
+    "level": "junior",
+    "focus": "基础句型与日常交流"
+  },
+  {
+    "name": "junior-grade-8",
+    "title": "初中 8 年级英语",
+    "level": "junior",
+    "focus": "时态扩展与比较表达"
+  },
+  {
+    "name": "junior-grade-9",
+    "title": "初中 9 年级英语",
+    "level": "junior",
+    "focus": "中考高频主题与综合表达"
+  },
+  {
+    "name": "senior-grade-10",
+    "title": "高中 10 年级英语",
+    "level": "senior",
+    "focus": "核心词块与复杂句入门"
+  },
+  {
+    "name": "senior-grade-11",
+    "title": "高中 11 年级英语",
+    "level": "senior",
+    "focus": "阅读写作核心结构"
+  },
+  {
+    "name": "senior-grade-12",
+    "title": "高中 12 年级英语",
+    "level": "senior",
+    "focus": "高考冲刺与主题表达"
+  },
+  {
+    "name": "cet4-foundation",
+    "title": "大学英语四级基础",
+    "level": "cet4",
+    "focus": "四级高频词块与校园学术场景"
+  },
+  {
+    "name": "cet6-advanced",
+    "title": "大学英语六级进阶",
+    "level": "cet6",
+    "focus": "六级进阶表达与议论文话题"
+  }
+]

@@ -1,0 +1,11 @@
+[
+  { "chinese": "一", "english": "one", "soundmark": "/wʌn/" },
+  { "chinese": "二", "english": "two", "soundmark": "/tuː/" },
+  { "chinese": "红色", "english": "red", "soundmark": "/red/" },
+  { "chinese": "蓝色", "english": "blue", "soundmark": "/bluː/" },
+  {
+    "chinese": "这只书包是蓝色的",
+    "english": "This schoolbag is blue.",
+    "soundmark": "/ðɪs ˈskuːlbæɡ ɪz bluː/"
+  }
+]

@@ -1,11 +1,13 @@
 import { Inject, Injectable, NotFoundException } from "@nestjs/common";
 import { and, asc, eq, or } from "drizzle-orm";
 
+import { createCoursePack } from "@earthworm/game-data-sdk";
 import { course, coursePack } from "@earthworm/schema";
 import { CourseHistoryService } from "../course-history/course-history.service";
 import { CourseService } from "../course/course.service";
 import { DB, DbType } from "../global/providers/db.provider";
 import { MembershipService } from "../membership/membership.service";
+import { UploadCoursePackDto } from "./dto/upload-course-pack.dto";
 
 @Injectable()
 export class CoursePackService {
@@ -149,5 +151,36 @@ export class CoursePackService {
 
   async completeCourse(userId: string, coursePackId: string, courseId: string) {
     return await this.courseService.completeCourse(userId, coursePackId, courseId);
+  }
+
+  async uploadCoursePack(userId: string, uploadDto: UploadCoursePackDto) {
+    // 转换上传的数据格式为 CreateCoursePack 格式
+    const coursePackData = {
+      title: uploadDto.title,
+      description: uploadDto.description,
+      cover: "", // 可以后续添加封面上传功能
+      uId: userId,
+      shareLevel: "private", // 默认为私有，用户可以后续修改
+      courses: uploadDto.courses.map((courseUnit) => ({
+        title: courseUnit.title,
+        description: courseUnit.description,
+        learningContent: "", // 可以从课程规划文档中提取
+        statements: courseUnit.data.map((item) => ({
+          english: item.english,
+          chinese: item.chinese,
+          phonetic: item.soundmark,
+        })),
+      })),
+    };
+
+    // 调用 game-data-sdk 的 createCoursePack 函数
+    const result = await createCoursePack(coursePackData);
+
+    return {
+      success: true,
+      coursePackId: result.coursePackId,
+      courseIds: result.courseIds,
+      message: "课程包上传成功",
+    };
   }
 }

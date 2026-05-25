@@ -1,8 +1,9 @@
-import { Controller, Get, Param, Post, UseGuards } from "@nestjs/common";
+import { Body, Controller, Get, Param, Post, UseGuards } from "@nestjs/common";
 
 import { AuthGuard, UncheckAuth } from "../guards/auth.guard";
 import { User, UserEntity } from "../user/user.decorators";
 import { CoursePackService } from "./course-pack.service";
+import { UploadCoursePackDto } from "./dto/upload-course-pack.dto";
 
 @Controller("course-pack")
 export class CoursePackController {
@@ -48,5 +49,11 @@ export class CoursePackController {
     @Param("courseId") courseId: string,
   ) {
     return this.coursePackService.completeCourse(user.userId, coursePackId, courseId);
+  }
+
+  @UseGuards(AuthGuard)
+  @Post("upload")
+  async uploadCoursePack(@User() user: UserEntity, @Body() uploadDto: UploadCoursePackDto) {
+    return await this.coursePackService.uploadCoursePack(user.userId, uploadDto);
   }
 }
