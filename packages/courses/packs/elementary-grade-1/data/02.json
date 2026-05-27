@@ -1,0 +1,170 @@
+[
+  {
+    "stage": "word",
+    "chinese": "头",
+    "english": "head",
+    "soundmark": "/hed/",
+    "example": "head"
+  },
+  {
+    "stage": "word",
+    "chinese": "脸",
+    "english": "face",
+    "soundmark": "/feɪs/",
+    "example": "face"
+  },
+  {
+    "stage": "word",
+    "chinese": "眼睛",
+    "english": "eye",
+    "soundmark": "/aɪ/",
+    "example": "eye"
+  },
+  {
+    "stage": "word",
+    "chinese": "耳朵",
+    "english": "ear",
+    "soundmark": "/ɪr/",
+    "example": "ear"
+  },
+  {
+    "stage": "word",
+    "chinese": "鼻子",
+    "english": "nose",
+    "soundmark": "/noʊz/",
+    "example": "nose"
+  },
+  {
+    "stage": "word",
+    "chinese": "嘴",
+    "english": "mouth",
+    "soundmark": "/maʊθ/",
+    "example": "mouth"
+  },
+  {
+    "stage": "word",
+    "chinese": "胳膊",
+    "english": "arm",
+    "soundmark": "/ɑːrm/",
+    "example": "arm"
+  },
+  {
+    "stage": "word",
+    "chinese": "手",
+    "english": "hand",
+    "soundmark": "/hænd/",
+    "example": "hand"
+  },
+  {
+    "stage": "word",
+    "chinese": "腿",
+    "english": "leg",
+    "soundmark": "/leɡ/",
+    "example": "leg"
+  },
+  {
+    "stage": "word",
+    "chinese": "脚",
+    "english": "foot",
+    "soundmark": "/fʊt/",
+    "example": "foot"
+  },
+  {
+    "stage": "word",
+    "chinese": "身体",
+    "english": "body",
+    "soundmark": "/ˈbɑːdi/",
+    "example": "body"
+  },
+  {
+    "stage": "word",
+    "chinese": "摸",
+    "english": "touch",
+    "soundmark": "/tʌtʃ/",
+    "example": "touch"
+  },
+  {
+    "stage": "word",
+    "chinese": "指向",
+    "english": "point",
+    "soundmark": "/pɔɪnt/",
+    "example": "point"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "你的头",
+    "english": "your head",
+    "soundmark": "/jʊr hed/",
+    "example": "your head"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "我的眼睛",
+    "english": "my eyes",
+    "soundmark": "/maɪ aɪz/",
+    "example": "my eyes"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "他的鼻子",
+    "english": "his nose",
+    "soundmark": "/hɪz noʊz/",
+    "example": "his nose"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "她的嘴",
+    "english": "her mouth",
+    "soundmark": "/hər maʊθ/",
+    "example": "her mouth"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "摸你的头",
+    "english": "touch your head",
+    "soundmark": "/tʌtʃ jʊr hed/",
+    "example": "touch your head"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "指向你的鼻子",
+    "english": "point to your nose",
+    "soundmark": "/pɔɪnt tə jʊr noʊz/",
+    "example": "point to your nose"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "摸你的头。",
+    "english": "Touch your head.",
+    "soundmark": "/tʌtʃ jʊr hed/",
+    "example": "Touch your head."
+  },
+  {
+    "stage": "sentence",
+    "chinese": "指向你的鼻子。",
+    "english": "Point to your nose.",
+    "soundmark": "/pɔɪnt tə jʊr noʊz/",
+    "example": "Point to your nose."
+  },
+  {
+    "stage": "sentence",
+    "chinese": "我有两只眼睛。",
+    "english": "I have two eyes.",
+    "soundmark": "/aɪ hæv tuː aɪz/",
+    "example": "I have two eyes."
+  },
+  {
+    "stage": "sentence",
+    "chinese": "这是我的手。",
+    "english": "This is my hand.",
+    "soundmark": "/ðɪs ɪz maɪ hænd/",
+    "example": "This is my hand."
+  },
+  {
+    "stage": "sentence",
+    "chinese": "你有两条腿。",
+    "english": "You have two legs.",
+    "soundmark": "/juː hæv tuː leɡz/",
+    "example": "You have two legs."
+  }
+]

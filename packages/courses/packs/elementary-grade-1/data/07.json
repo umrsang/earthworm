@@ -1,0 +1,170 @@
+[
+  {
+    "stage": "word",
+    "chinese": "苹果",
+    "english": "apple",
+    "soundmark": "/ˈæpl/",
+    "example": "apple"
+  },
+  {
+    "stage": "word",
+    "chinese": "香蕉",
+    "english": "banana",
+    "soundmark": "/bəˈnænə/",
+    "example": "banana"
+  },
+  {
+    "stage": "word",
+    "chinese": "橙子",
+    "english": "orange",
+    "soundmark": "/ˈɔːrɪndʒ/",
+    "example": "orange"
+  },
+  {
+    "stage": "word",
+    "chinese": "面包",
+    "english": "bread",
+    "soundmark": "/bred/",
+    "example": "bread"
+  },
+  {
+    "stage": "word",
+    "chinese": "牛奶",
+    "english": "milk",
+    "soundmark": "/mɪlk/",
+    "example": "milk"
+  },
+  {
+    "stage": "word",
+    "chinese": "米饭",
+    "english": "rice",
+    "soundmark": "/raɪs/",
+    "example": "rice"
+  },
+  {
+    "stage": "word",
+    "chinese": "鸡蛋",
+    "english": "egg",
+    "soundmark": "/eɡ/",
+    "example": "egg"
+  },
+  {
+    "stage": "word",
+    "chinese": "鸡肉",
+    "english": "chicken",
+    "soundmark": "/ˈtʃɪkən/",
+    "example": "chicken"
+  },
+  {
+    "stage": "word",
+    "chinese": "鱼肉",
+    "english": "fish",
+    "soundmark": "/fɪʃ/",
+    "example": "fish"
+  },
+  {
+    "stage": "word",
+    "chinese": "水",
+    "english": "water",
+    "soundmark": "/ˈwɔːtər/",
+    "example": "water"
+  },
+  {
+    "stage": "word",
+    "chinese": "食物",
+    "english": "food",
+    "soundmark": "/fuːd/",
+    "example": "food"
+  },
+  {
+    "stage": "word",
+    "chinese": "喜欢",
+    "english": "like",
+    "soundmark": "/laɪk/",
+    "example": "like"
+  },
+  {
+    "stage": "word",
+    "chinese": "吃",
+    "english": "eat",
+    "soundmark": "/iːt/",
+    "example": "eat"
+  },
+  {
+    "stage": "word",
+    "chinese": "喝",
+    "english": "drink",
+    "soundmark": "/drɪŋk/",
+    "example": "drink"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "我喜欢苹果",
+    "english": "I like apples",
+    "soundmark": "/aɪ laɪk ˈæplz/",
+    "example": "I like apples"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "吃面包",
+    "english": "eat bread",
+    "soundmark": "/iːt bred/",
+    "example": "eat bread"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "喝牛奶",
+    "english": "drink milk",
+    "soundmark": "/drɪŋk mɪlk/",
+    "example": "drink milk"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "有一个鸡蛋",
+    "english": "have an egg",
+    "soundmark": "/hæv ən eɡ/",
+    "example": "have an egg"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "我喜欢苹果。",
+    "english": "I like apples.",
+    "soundmark": "/aɪ laɪk ˈæplz/",
+    "example": "I like apples."
+  },
+  {
+    "stage": "sentence",
+    "chinese": "你喜欢香蕉吗？",
+    "english": "Do you like bananas?",
+    "soundmark": "/duː juː laɪk bəˈnænəz/",
+    "example": "Do you like bananas?"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "我吃米饭。",
+    "english": "I eat rice.",
+    "soundmark": "/aɪ iːt raɪs/",
+    "example": "I eat rice."
+  },
+  {
+    "stage": "sentence",
+    "chinese": "我喝牛奶。",
+    "english": "I drink milk.",
+    "soundmark": "/aɪ drɪŋk mɪlk/",
+    "example": "I drink milk."
+  },
+  {
+    "stage": "sentence",
+    "chinese": "这是什么食物？",
+    "english": "What food is this?",
+    "soundmark": "/wʌt fuːd ɪz ðɪs/",
+    "example": "What food is this?"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "我喜欢鸡肉和鱼肉。",
+    "english": "I like chicken and fish.",
+    "soundmark": "/aɪ laɪk ˈtʃɪkən ənd fɪʃ/",
+    "example": "I like chicken and fish."
+  }
+]

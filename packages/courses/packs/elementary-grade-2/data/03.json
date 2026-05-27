@@ -1,0 +1,134 @@
+[
+  {
+    "stage": "word",
+    "chinese": "语文",
+    "english": "Chinese",
+    "soundmark": "/ˈtʃaɪniːz/"
+  },
+  {
+    "stage": "word",
+    "chinese": "英语",
+    "english": "English",
+    "soundmark": "/ˈɪŋɡlɪʃ/"
+  },
+  {
+    "stage": "word",
+    "chinese": "数学",
+    "english": "math",
+    "soundmark": "/mæθ/"
+  },
+  {
+    "stage": "word",
+    "chinese": "科学",
+    "english": "science",
+    "soundmark": "/ˈsaɪəns/"
+  },
+  {
+    "stage": "word",
+    "chinese": "体育",
+    "english": "PE",
+    "soundmark": "/ˌpiː ˈiː/"
+  },
+  {
+    "stage": "word",
+    "chinese": "美术",
+    "english": "art",
+    "soundmark": "/ɑːrt/"
+  },
+  {
+    "stage": "word",
+    "chinese": "音乐",
+    "english": "music",
+    "soundmark": "/ˈmjuːzɪk/"
+  },
+  {
+    "stage": "word",
+    "chinese": "计算机",
+    "english": "computer",
+    "soundmark": "/kəmˈpjuːtər/"
+  },
+  {
+    "stage": "word",
+    "chinese": "科目",
+    "english": "subject",
+    "soundmark": "/ˈsʌbdʒɪkt/"
+  },
+  {
+    "stage": "word",
+    "chinese": "喜欢",
+    "english": "like",
+    "soundmark": "/laɪk/"
+  },
+  {
+    "stage": "word",
+    "chinese": "最喜欢的",
+    "english": "favorite",
+    "soundmark": "/ˈfeɪvərɪt/"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "我喜欢",
+    "english": "I like",
+    "soundmark": "/aɪ laɪk/"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "她喜欢",
+    "english": "she likes",
+    "soundmark": "/ʃi laɪks/"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "我最喜欢的",
+    "english": "my favorite",
+    "soundmark": "/maɪ ˈfeɪvərɪt/"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "什么科目",
+    "english": "what subject",
+    "soundmark": "/wʌt ˈsʌbdʒɪkt/"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "你喜欢吗",
+    "english": "do you like",
+    "soundmark": "/duː juː laɪk/"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "我喜欢英语。",
+    "english": "I like English.",
+    "soundmark": "/aɪ laɪk ˈɪŋɡlɪʃ/"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "她喜欢数学。",
+    "english": "She likes math.",
+    "soundmark": "/ʃi laɪks mæθ/"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "你最喜欢的科目是什么？",
+    "english": "What is your favorite subject?",
+    "soundmark": "/wʌt ɪz jʊr ˈfeɪvərɪt ˈsʌbdʒɪkt/"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "我最喜欢的科目是体育。",
+    "english": "My favorite subject is PE.",
+    "soundmark": "/maɪ ˈfeɪvərɪt ˈsʌbdʒɪkt ɪz ˌpiː ˈiː/"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "你喜欢音乐吗？",
+    "english": "Do you like music?",
+    "soundmark": "/duː juː laɪk ˈmjuːzɪk/"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "我喜欢美术和音乐。",
+    "english": "I like art and music.",
+    "soundmark": "/aɪ laɪk ɑːrt ənd ˈmjuːzɪk/"
+  }
+]

@@ -1,19 +1,37 @@
 [
   {
-    "name": "elementary-grade-1-2",
-    "title": "小学 1-2 年级英语",
+    "name": "elementary-grade-1",
+    "title": "小学 1 年级英语",
     "level": "elementary",
     "focus": "兴趣启蒙与高频口语"
   },
   {
-    "name": "elementary-grade-3-4",
-    "title": "小学 3-4 年级英语",
+    "name": "elementary-grade-2",
+    "title": "小学 2 年级英语",
+    "level": "elementary",
+    "focus": "兴趣启蒙与高频口语"
+  },
+  {
+    "name": "elementary-grade-3",
+    "title": "小学 3 年级英语",
     "level": "elementary",
     "focus": "校园生活与日常问答"
   },
   {
-    "name": "elementary-grade-5-6",
-    "title": "小学 5-6 年级英语",
+    "name": "elementary-grade-4",
+    "title": "小学 4 年级英语",
+    "level": "elementary",
+    "focus": "校园生活与日常问答"
+  },
+  {
+    "name": "elementary-grade-5",
+    "title": "小学 5 年级英语",
+    "level": "elementary",
+    "focus": "场景表达与基础阅读"
+  },
+  {
+    "name": "elementary-grade-6",
+    "title": "小学 6 年级英语",
     "level": "elementary",
     "focus": "场景表达与基础阅读"
   },

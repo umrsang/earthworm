@@ -1,0 +1,140 @@
+[
+  {
+    "stage": "word",
+    "chinese": "晴朗的",
+    "english": "sunny",
+    "soundmark": "/ˈsʌni/"
+  },
+  {
+    "stage": "word",
+    "chinese": "下雨的",
+    "english": "rainy",
+    "soundmark": "/ˈreɪni/"
+  },
+  {
+    "stage": "word",
+    "chinese": "多云的",
+    "english": "cloudy",
+    "soundmark": "/ˈklaʊdi/"
+  },
+  {
+    "stage": "word",
+    "chinese": "下雪的",
+    "english": "snowy",
+    "soundmark": "/ˈsnoʊi/"
+  },
+  {
+    "stage": "word",
+    "chinese": "有风的",
+    "english": "windy",
+    "soundmark": "/ˈwɪndi/"
+  },
+  {
+    "stage": "word",
+    "chinese": "热的",
+    "english": "hot",
+    "soundmark": "/hɑːt/"
+  },
+  {
+    "stage": "word",
+    "chinese": "冷的",
+    "english": "cold",
+    "soundmark": "/koʊld/"
+  },
+  {
+    "stage": "word",
+    "chinese": "温暖的",
+    "english": "warm",
+    "soundmark": "/wɔːrm/"
+  },
+  {
+    "stage": "word",
+    "chinese": "凉爽的",
+    "english": "cool",
+    "soundmark": "/kuːl/"
+  },
+  {
+    "stage": "word",
+    "chinese": "天气",
+    "english": "weather",
+    "soundmark": "/ˈweðər/"
+  },
+  {
+    "stage": "word",
+    "chinese": "今天",
+    "english": "today",
+    "soundmark": "/təˈdeɪ/"
+  },
+  {
+    "stage": "word",
+    "chinese": "明天",
+    "english": "tomorrow",
+    "soundmark": "/təˈmɑːroʊ/"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "晴朗的",
+    "english": "it is sunny",
+    "soundmark": "/ɪt ɪz ˈsʌni/"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "下雨的",
+    "english": "it is rainy",
+    "soundmark": "/ɪt ɪz ˈreɪni/"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "天气怎样",
+    "english": "what is the weather",
+    "soundmark": "/wʌt ɪz ðə ˈweðər/"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "今天是",
+    "english": "today is",
+    "soundmark": "/təˈdeɪ ɪz/"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "明天会是",
+    "english": "tomorrow will be",
+    "soundmark": "/təˈmɑːroʊ wɪl bi/"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "今天天气晴朗。",
+    "english": "It is sunny today.",
+    "soundmark": "/ɪt ɪz ˈsʌni təˈdeɪ/"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "明天会下雨。",
+    "english": "It is rainy tomorrow.",
+    "soundmark": "/ɪt ɪz ˈreɪni təˈmɑːroʊ/"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "天气怎样？",
+    "english": "What is the weather like?",
+    "soundmark": "/wʌt ɪz ðə ˈweðər laɪk/"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "天气很冷。",
+    "english": "The weather is cold.",
+    "soundmark": "/ðə ˈweðər ɪz koʊld/"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "今天很热。",
+    "english": "It is hot today.",
+    "soundmark": "/ɪt ɪz hɑːt təˈdeɪ/"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "明天会很有风。",
+    "english": "It will be windy tomorrow.",
+    "soundmark": "/ɪt wɪl bi ˈwɪndi təˈmɑːroʊ/"
+  }
+]

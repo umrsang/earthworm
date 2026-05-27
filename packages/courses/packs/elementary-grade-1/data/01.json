@@ -1,0 +1,184 @@
+[
+  {
+    "stage": "word",
+    "chinese": "你好",
+    "english": "hello",
+    "soundmark": "/həˈloʊ/",
+    "example": "Hello!"
+  },
+  {
+    "stage": "word",
+    "chinese": "嗨",
+    "english": "hi",
+    "soundmark": "/haɪ/",
+    "example": "Hi!"
+  },
+  {
+    "stage": "word",
+    "chinese": "早上",
+    "english": "morning",
+    "soundmark": "/ˈmɔːrnɪŋ/",
+    "example": "morning"
+  },
+  {
+    "stage": "word",
+    "chinese": "下午",
+    "english": "afternoon",
+    "soundmark": "/ˌæftərˈnuːn/",
+    "example": "afternoon"
+  },
+  {
+    "stage": "word",
+    "chinese": "晚上",
+    "english": "evening",
+    "soundmark": "/ˈiːvnɪŋ/",
+    "example": "evening"
+  },
+  {
+    "stage": "word",
+    "chinese": "名字",
+    "english": "name",
+    "soundmark": "/neɪm/",
+    "example": "name"
+  },
+  {
+    "stage": "word",
+    "chinese": "我",
+    "english": "I",
+    "soundmark": "/aɪ/",
+    "example": "I"
+  },
+  {
+    "stage": "word",
+    "chinese": "你",
+    "english": "you",
+    "soundmark": "/juː/",
+    "example": "you"
+  },
+  {
+    "stage": "word",
+    "chinese": "是",
+    "english": "am/is/are",
+    "soundmark": "/æm/ /ɪz/ /ɑːr/",
+    "example": "am, is, are"
+  },
+  {
+    "stage": "word",
+    "chinese": "好的",
+    "english": "good",
+    "soundmark": "/ɡʊd/",
+    "example": "good"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "早上好",
+    "english": "Good morning",
+    "soundmark": "/ɡʊd ˈmɔːrnɪŋ/",
+    "example": "Good morning!"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "下午好",
+    "english": "Good afternoon",
+    "soundmark": "/ɡʊd ˌæftərˈnuːn/",
+    "example": "Good afternoon!"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "晚上好",
+    "english": "Good evening",
+    "soundmark": "/ɡʊd ˈiːvnɪŋ/",
+    "example": "Good evening!"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "我的名字",
+    "english": "My name",
+    "soundmark": "/maɪ neɪm/",
+    "example": "My name"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "你的名字",
+    "english": "Your name",
+    "soundmark": "/jʊr neɪm/",
+    "example": "Your name"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "见到你",
+    "english": "meet you",
+    "soundmark": "/miːt juː/",
+    "example": "meet you"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "很高兴",
+    "english": "nice",
+    "soundmark": "/naɪs/",
+    "example": "nice"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "你好。",
+    "english": "Hello.",
+    "soundmark": "/həˈloʊ/",
+    "example": "Hello."
+  },
+  {
+    "stage": "sentence",
+    "chinese": "嗨。",
+    "english": "Hi.",
+    "soundmark": "/haɪ/",
+    "example": "Hi."
+  },
+  {
+    "stage": "sentence",
+    "chinese": "早上好。",
+    "english": "Good morning.",
+    "soundmark": "/ɡʊd ˈmɔːrnɪŋ/",
+    "example": "Good morning."
+  },
+  {
+    "stage": "sentence",
+    "chinese": "下午好。",
+    "english": "Good afternoon.",
+    "soundmark": "/ɡʊd ˌæftərˈnuːn/",
+    "example": "Good afternoon."
+  },
+  {
+    "stage": "sentence",
+    "chinese": "晚上好。",
+    "english": "Good evening.",
+    "soundmark": "/ɡʊd ˈiːvnɪŋ/",
+    "example": "Good evening."
+  },
+  {
+    "stage": "sentence",
+    "chinese": "我是李明。",
+    "english": "I am Li Ming.",
+    "soundmark": "/aɪ æm liː mɪŋ/",
+    "example": "I am Li Ming."
+  },
+  {
+    "stage": "sentence",
+    "chinese": "我的名字是李明。",
+    "english": "My name is Li Ming.",
+    "soundmark": "/maɪ neɪm ɪz liː mɪŋ/",
+    "example": "My name is Li Ming."
+  },
+  {
+    "stage": "sentence",
+    "chinese": "你叫什么名字？",
+    "english": "What is your name?",
+    "soundmark": "/wʌt ɪz jʊr neɪm/",
+    "example": "What is your name?"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "见到你很高兴。",
+    "english": "Nice to meet you.",
+    "soundmark": "/naɪs tə miːt juː/",
+    "example": "Nice to meet you."
+  }
+]

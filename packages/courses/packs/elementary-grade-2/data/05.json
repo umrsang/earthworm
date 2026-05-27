@@ -1,0 +1,146 @@
+[
+  {
+    "stage": "word",
+    "chinese": "衬衫",
+    "english": "shirt",
+    "soundmark": "/ʃɜːrt/"
+  },
+  {
+    "stage": "word",
+    "chinese": "T恤",
+    "english": "T-shirt",
+    "soundmark": "/ˈtiː ʃɜːrt/"
+  },
+  {
+    "stage": "word",
+    "chinese": "裤子",
+    "english": "pants",
+    "soundmark": "/pænts/"
+  },
+  {
+    "stage": "word",
+    "chinese": "裙子",
+    "english": "skirt",
+    "soundmark": "/skɜːrt/"
+  },
+  {
+    "stage": "word",
+    "chinese": "连衣裙",
+    "english": "dress",
+    "soundmark": "/dres/"
+  },
+  {
+    "stage": "word",
+    "chinese": "外套",
+    "english": "coat",
+    "soundmark": "/koʊt/"
+  },
+  {
+    "stage": "word",
+    "chinese": "帽子",
+    "english": "hat",
+    "soundmark": "/hæt/"
+  },
+  {
+    "stage": "word",
+    "chinese": "鞋",
+    "english": "shoes",
+    "soundmark": "/ʃuːz/"
+  },
+  {
+    "stage": "word",
+    "chinese": "袜子",
+    "english": "socks",
+    "soundmark": "/sɑːks/"
+  },
+  {
+    "stage": "word",
+    "chinese": "毛衣",
+    "english": "sweater",
+    "soundmark": "/ˈswetər/"
+  },
+  {
+    "stage": "word",
+    "chinese": "颜色",
+    "english": "color",
+    "soundmark": "/ˈkʌlər/"
+  },
+  {
+    "stage": "word",
+    "chinese": "穿",
+    "english": "wear",
+    "soundmark": "/wer/"
+  },
+  {
+    "stage": "word",
+    "chinese": "穿上",
+    "english": "put on",
+    "soundmark": "/pʊt ɑːn/"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "一件红衬衫",
+    "english": "a red shirt",
+    "soundmark": "/ə red ʃɜːrt/"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "蓝色裤子",
+    "english": "blue pants",
+    "soundmark": "/bluː pænts/"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "我穿",
+    "english": "I wear",
+    "soundmark": "/aɪ wer/"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "她穿",
+    "english": "she wears",
+    "soundmark": "/ʃi werz/"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "什么颜色",
+    "english": "what color",
+    "soundmark": "/wʌt ˈkʌlər/"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "穿上",
+    "english": "put on",
+    "soundmark": "/pʊt ɑːn/"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "我穿一件红衬衫。",
+    "english": "I wear a red shirt.",
+    "soundmark": "/aɪ wer ə red ʃɜːrt/"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "她穿蓝色裤子。",
+    "english": "She wears blue pants.",
+    "soundmark": "/ʃi werz bluː pænts/"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "你的连衣裙是什么颜色？",
+    "english": "What color is your dress?",
+    "soundmark": "/wʌt ˈkʌlər ɪz jʊr dres/"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "穿上你的外套。",
+    "english": "Put on your coat.",
+    "soundmark": "/pʊt ɑːn jʊr koʊt/"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "我喜欢这件黄色的毛衣。",
+    "english": "I like this yellow sweater.",
+    "soundmark": "/aɪ laɪk ðɪs ˈjeloʊ ˈswetər/"
+  }
+]

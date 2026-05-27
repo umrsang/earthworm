@@ -1,0 +1,140 @@
+[
+  {
+    "stage": "word",
+    "chinese": "苹果",
+    "english": "apple",
+    "soundmark": "/ˈæpl/"
+  },
+  {
+    "stage": "word",
+    "chinese": "香蕉",
+    "english": "banana",
+    "soundmark": "/bəˈnænə/"
+  },
+  {
+    "stage": "word",
+    "chinese": "橙子",
+    "english": "orange",
+    "soundmark": "/ˈɔːrɪndʒ/"
+  },
+  {
+    "stage": "word",
+    "chinese": "葡萄",
+    "english": "grape",
+    "soundmark": "/ɡreɪp/"
+  },
+  {
+    "stage": "word",
+    "chinese": "草莓",
+    "english": "strawberry",
+    "soundmark": "/ˈstrɔːberi/"
+  },
+  {
+    "stage": "word",
+    "chinese": "西瓜",
+    "english": "watermelon",
+    "soundmark": "/ˈwɔːtərmelən/"
+  },
+  {
+    "stage": "word",
+    "chinese": "番茄",
+    "english": "tomato",
+    "soundmark": "/təˈmeɪtoʊ/"
+  },
+  {
+    "stage": "word",
+    "chinese": "胡萝卜",
+    "english": "carrot",
+    "soundmark": "/ˈkærət/"
+  },
+  {
+    "stage": "word",
+    "chinese": "土豆",
+    "english": "potato",
+    "soundmark": "/pəˈteɪtoʊ/"
+  },
+  {
+    "stage": "word",
+    "chinese": "卷心菜",
+    "english": "cabbage",
+    "soundmark": "/ˈkæbɪdʒ/"
+  },
+  {
+    "stage": "word",
+    "chinese": "蔬菜",
+    "english": "vegetable",
+    "soundmark": "/ˈvedʒtəbl/"
+  },
+  {
+    "stage": "word",
+    "chinese": "水果",
+    "english": "fruit",
+    "soundmark": "/fruːt/"
+  },
+  {
+    "stage": "word",
+    "chinese": "喜欢",
+    "english": "like",
+    "soundmark": "/laɪk/"
+  },
+  {
+    "stage": "word",
+    "chinese": "吃",
+    "english": "eat",
+    "soundmark": "/iːt/"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "我喜欢苹果",
+    "english": "I like apples",
+    "soundmark": "/aɪ laɪk ˈæplz/"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "她喜欢",
+    "english": "she likes",
+    "soundmark": "/ʃi laɪks/"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "红苹果",
+    "english": "red apple",
+    "soundmark": "/red ˈæpl/"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "绿色蔬菜",
+    "english": "green vegetable",
+    "soundmark": "/ɡriːn ˈvedʒtəbl/"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "你喜欢吗",
+    "english": "do you like",
+    "soundmark": "/duː juː laɪk/"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "我喜欢苹果。",
+    "english": "I like apples.",
+    "soundmark": "/aɪ laɪk ˈæplz/"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "她喜欢香蕉。",
+    "english": "She likes bananas.",
+    "soundmark": "/ʃi laɪks bəˈnænəz/"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "你喜欢葡萄吗？",
+    "english": "Do you like grapes?",
+    "soundmark": "/duː juː laɪk ɡreɪps/"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "我每天吃蔬菜。",
+    "english": "I eat vegetables every day.",
+    "soundmark": "/aɪ iːt ˈvedʒtəblz ˈevri deɪ/"
+  }
+]

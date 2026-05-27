@@ -1,0 +1,146 @@
+[
+  {
+    "stage": "word",
+    "chinese": "笔",
+    "english": "pen",
+    "soundmark": "/pen/"
+  },
+  {
+    "stage": "word",
+    "chinese": "铅笔",
+    "english": "pencil",
+    "soundmark": "/ˈpensl/"
+  },
+  {
+    "stage": "word",
+    "chinese": "书",
+    "english": "book",
+    "soundmark": "/bʊk/"
+  },
+  {
+    "stage": "word",
+    "chinese": "书包",
+    "english": "bag",
+    "soundmark": "/bæɡ/"
+  },
+  {
+    "stage": "word",
+    "chinese": "课桌",
+    "english": "desk",
+    "soundmark": "/desk/"
+  },
+  {
+    "stage": "word",
+    "chinese": "椅子",
+    "english": "chair",
+    "soundmark": "/tʃer/"
+  },
+  {
+    "stage": "word",
+    "chinese": "尺子",
+    "english": "ruler",
+    "soundmark": "/ˈruːlər/"
+  },
+  {
+    "stage": "word",
+    "chinese": "橡皮",
+    "english": "eraser",
+    "soundmark": "/ɪˈreɪzər/"
+  },
+  {
+    "stage": "word",
+    "chinese": "笔记本",
+    "english": "notebook",
+    "soundmark": "/ˈnoʊtbʊk/"
+  },
+  {
+    "stage": "word",
+    "chinese": "书包",
+    "english": "schoolbag",
+    "soundmark": "/ˈskuːlbæɡ/"
+  },
+  {
+    "stage": "word",
+    "chinese": "有",
+    "english": "have",
+    "soundmark": "/hæv/"
+  },
+  {
+    "stage": "word",
+    "chinese": "有（第三人称）",
+    "english": "has",
+    "soundmark": "/hæz/"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "我的笔",
+    "english": "my pen",
+    "soundmark": "/maɪ pen/"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "他的书",
+    "english": "his book",
+    "soundmark": "/hɪz bʊk/"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "她的书包",
+    "english": "her bag",
+    "soundmark": "/hər bæɡ/"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "我有",
+    "english": "I have",
+    "soundmark": "/aɪ hæv/"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "她有",
+    "english": "she has",
+    "soundmark": "/ʃi hæz/"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "你有什么",
+    "english": "what do you have",
+    "soundmark": "/wʌt duː juː hæv/"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "我有一支笔。",
+    "english": "I have a pen.",
+    "soundmark": "/aɪ hæv ə pen/"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "她有一本书。",
+    "english": "She has a book.",
+    "soundmark": "/ʃi hæz ə bʊk/"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "你有什么？",
+    "english": "What do you have?",
+    "soundmark": "/wʌt duː juː hæv/"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "这是我的书包。",
+    "english": "This is my schoolbag.",
+    "soundmark": "/ðɪs ɪz maɪ ˈskuːlbæɡ/"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "他有一把尺子。",
+    "english": "He has a ruler.",
+    "soundmark": "/hi hæz ə ˈruːlər/"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "我有一个笔记本。",
+    "english": "I have a notebook.",
+    "soundmark": "/aɪ hæv ə ˈnoʊtbʊk/"
+  }
+]

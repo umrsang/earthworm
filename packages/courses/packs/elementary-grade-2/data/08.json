@@ -1,0 +1,152 @@
+[
+  {
+    "stage": "word",
+    "chinese": "读",
+    "english": "read",
+    "soundmark": "/riːd/"
+  },
+  {
+    "stage": "word",
+    "chinese": "画",
+    "english": "draw",
+    "soundmark": "/drɔː/"
+  },
+  {
+    "stage": "word",
+    "chinese": "唱",
+    "english": "sing",
+    "soundmark": "/sɪŋ/"
+  },
+  {
+    "stage": "word",
+    "chinese": "跳舞",
+    "english": "dance",
+    "soundmark": "/dæns/"
+  },
+  {
+    "stage": "word",
+    "chinese": "玩",
+    "english": "play",
+    "soundmark": "/pleɪ/"
+  },
+  {
+    "stage": "word",
+    "chinese": "游泳",
+    "english": "swim",
+    "soundmark": "/swɪm/"
+  },
+  {
+    "stage": "word",
+    "chinese": "跑",
+    "english": "run",
+    "soundmark": "/rʌn/"
+  },
+  {
+    "stage": "word",
+    "chinese": "跳",
+    "english": "jump",
+    "soundmark": "/dʒʌmp/"
+  },
+  {
+    "stage": "word",
+    "chinese": "骑",
+    "english": "ride",
+    "soundmark": "/raɪd/"
+  },
+  {
+    "stage": "word",
+    "chinese": "自行车",
+    "english": "bike",
+    "soundmark": "/baɪk/"
+  },
+  {
+    "stage": "word",
+    "chinese": "爱好",
+    "english": "hobby",
+    "soundmark": "/ˈhɑːbi/"
+  },
+  {
+    "stage": "word",
+    "chinese": "喜欢",
+    "english": "like",
+    "soundmark": "/laɪk/"
+  },
+  {
+    "stage": "word",
+    "chinese": "享受",
+    "english": "enjoy",
+    "soundmark": "/ɪnˈdʒɔɪ/"
+  },
+  {
+    "stage": "word",
+    "chinese": "最喜欢的",
+    "english": "favorite",
+    "soundmark": "/ˈfeɪvərɪt/"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "我喜欢读书",
+    "english": "I like reading",
+    "soundmark": "/aɪ laɪk ˈriːdɪŋ/"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "她喜欢画画",
+    "english": "she likes drawing",
+    "soundmark": "/ʃi laɪks ˈdrɔːɪŋ/"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "我的爱好是",
+    "english": "my hobby is",
+    "soundmark": "/maɪ ˈhɑːbi ɪz/"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "你的爱好是什么",
+    "english": "what is your hobby",
+    "soundmark": "/wʌt ɪz jʊr ˈhɑːbi/"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "你喜欢吗",
+    "english": "do you like",
+    "soundmark": "/duː juː laɪk/"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "我喜欢读书。",
+    "english": "I like reading.",
+    "soundmark": "/aɪ laɪk ˈriːdɪŋ/"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "她喜欢画画。",
+    "english": "She likes drawing.",
+    "soundmark": "/ʃi laɪks ˈdrɔːɪŋ/"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "我的爱好是游泳。",
+    "english": "My hobby is swimming.",
+    "soundmark": "/maɪ ˈhɑːbi ɪz ˈswɪmɪŋ/"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "你的爱好是什么？",
+    "english": "What is your hobby?",
+    "soundmark": "/wʌt ɪz jʊr ˈhɑːbi/"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "你喜欢唱歌和跳舞吗？",
+    "english": "Do you like singing and dancing?",
+    "soundmark": "/duː juː laɪk ˈsɪŋɪŋ ənd ˈdænsɪŋ/"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "我喜欢骑自行车。",
+    "english": "I like riding a bike.",
+    "soundmark": "/aɪ laɪk ˈraɪdɪŋ ə baɪk/"
+  }
+]

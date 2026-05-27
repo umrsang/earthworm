@@ -1,0 +1,146 @@
+[
+  {
+    "stage": "word",
+    "chinese": "教室",
+    "english": "classroom",
+    "soundmark": "/ˈklæsruːm/"
+  },
+  {
+    "stage": "word",
+    "chinese": "窗户",
+    "english": "window",
+    "soundmark": "/ˈwɪndoʊ/"
+  },
+  {
+    "stage": "word",
+    "chinese": "门",
+    "english": "door",
+    "soundmark": "/dɔːr/"
+  },
+  {
+    "stage": "word",
+    "chinese": "墙",
+    "english": "wall",
+    "soundmark": "/wɔːl/"
+  },
+  {
+    "stage": "word",
+    "chinese": "地板",
+    "english": "floor",
+    "soundmark": "/flɔːr/"
+  },
+  {
+    "stage": "word",
+    "chinese": "天花板",
+    "english": "ceiling",
+    "soundmark": "/ˈsiːlɪŋ/"
+  },
+  {
+    "stage": "word",
+    "chinese": "灯",
+    "english": "light",
+    "soundmark": "/laɪt/"
+  },
+  {
+    "stage": "word",
+    "chinese": "黑板",
+    "english": "blackboard",
+    "soundmark": "/ˈblækbɔːrd/"
+  },
+  {
+    "stage": "word",
+    "chinese": "讲台",
+    "english": "teacher's desk",
+    "soundmark": "/ˈtiːtʃərz desk/"
+  },
+  {
+    "stage": "word",
+    "chinese": "学生课桌",
+    "english": "student desk",
+    "soundmark": "/ˈstjuːdənt desk/"
+  },
+  {
+    "stage": "word",
+    "chinese": "在...里面",
+    "english": "in",
+    "soundmark": "/ɪn/"
+  },
+  {
+    "stage": "word",
+    "chinese": "在...上面",
+    "english": "on",
+    "soundmark": "/ɑːn/"
+  },
+  {
+    "stage": "word",
+    "chinese": "在...下面",
+    "english": "under",
+    "soundmark": "/ˈʌndər/"
+  },
+  {
+    "stage": "word",
+    "chinese": "在...附近",
+    "english": "near",
+    "soundmark": "/nɪr/"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "在教室里",
+    "english": "in the classroom",
+    "soundmark": "/ɪn ðə ˈklæsruːm/"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "在课桌上",
+    "english": "on the desk",
+    "soundmark": "/ɑːn ðə desk/"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "在椅子下面",
+    "english": "under the chair",
+    "soundmark": "/ˈʌndər ðə tʃer/"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "在门附近",
+    "english": "near the door",
+    "soundmark": "/nɪr ðə dɔːr/"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "灯亮着",
+    "english": "the light is on",
+    "soundmark": "/ðə laɪt ɪz ɑːn/"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "教室里有一扇窗户。",
+    "english": "There is a window in the classroom.",
+    "soundmark": "/ðer ɪz ə ˈwɪndoʊ ɪn ðə ˈklæsruːm/"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "书在课桌上。",
+    "english": "The book is on the desk.",
+    "soundmark": "/ðə bʊk ɪz ɑːn ðə desk/"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "笔在哪里？",
+    "english": "Where is the pen?",
+    "soundmark": "/wer ɪz ðə pen/"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "它在椅子下面。",
+    "english": "It is under the chair.",
+    "soundmark": "/ɪt ɪz ˈʌndər ðə tʃer/"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "黑板在墙上。",
+    "english": "The blackboard is on the wall.",
+    "soundmark": "/ðə ˈblækbɔːrd ɪz ɑːn ðə wɔːl/"
+  }
+]

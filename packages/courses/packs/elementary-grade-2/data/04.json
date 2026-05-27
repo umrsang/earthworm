@@ -1,0 +1,146 @@
+[
+  {
+    "stage": "word",
+    "chinese": "十一",
+    "english": "eleven",
+    "soundmark": "/ɪˈlevən/"
+  },
+  {
+    "stage": "word",
+    "chinese": "十二",
+    "english": "twelve",
+    "soundmark": "/twelv/"
+  },
+  {
+    "stage": "word",
+    "chinese": "十三",
+    "english": "thirteen",
+    "soundmark": "/ˌθɜːrˈtiːn/"
+  },
+  {
+    "stage": "word",
+    "chinese": "十四",
+    "english": "fourteen",
+    "soundmark": "/ˌfɔːrˈtiːn/"
+  },
+  {
+    "stage": "word",
+    "chinese": "十五",
+    "english": "fifteen",
+    "soundmark": "/ˌfɪfˈtiːn/"
+  },
+  {
+    "stage": "word",
+    "chinese": "十六",
+    "english": "sixteen",
+    "soundmark": "/ˌsɪksˈtiːn/"
+  },
+  {
+    "stage": "word",
+    "chinese": "十七",
+    "english": "seventeen",
+    "soundmark": "/ˌsevənˈtiːn/"
+  },
+  {
+    "stage": "word",
+    "chinese": "十八",
+    "english": "eighteen",
+    "soundmark": "/ˌeɪˈtiːn/"
+  },
+  {
+    "stage": "word",
+    "chinese": "十九",
+    "english": "nineteen",
+    "soundmark": "/ˌnaɪnˈtiːn/"
+  },
+  {
+    "stage": "word",
+    "chinese": "二十",
+    "english": "twenty",
+    "soundmark": "/ˈtwenti/"
+  },
+  {
+    "stage": "word",
+    "chinese": "加",
+    "english": "plus",
+    "soundmark": "/plʌs/"
+  },
+  {
+    "stage": "word",
+    "chinese": "减",
+    "english": "minus",
+    "soundmark": "/ˈmaɪnəs/"
+  },
+  {
+    "stage": "word",
+    "chinese": "等于",
+    "english": "equals",
+    "soundmark": "/ˈiːkwəlz/"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "十一到二十",
+    "english": "eleven to twenty",
+    "soundmark": "/ɪˈlevən tə ˈtwenti/"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "多少",
+    "english": "how many",
+    "soundmark": "/haʊ ˈmeni/"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "我有",
+    "english": "I have",
+    "soundmark": "/aɪ hæv/"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "有",
+    "english": "there are",
+    "soundmark": "/ðer ɑːr/"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "加",
+    "english": "plus",
+    "soundmark": "/plʌs/"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "减",
+    "english": "minus",
+    "soundmark": "/ˈmaɪnəs/"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "我有十一本书。",
+    "english": "I have eleven books.",
+    "soundmark": "/aɪ hæv ɪˈlevən bʊks/"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "有十五个学生。",
+    "english": "There are fifteen students.",
+    "soundmark": "/ðer ɑːr ˌfɪfˈtiːn ˈstjuːdənts/"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "十一加五等于十六。",
+    "english": "Eleven plus five equals sixteen.",
+    "soundmark": "/ɪˈlevən plʌs faɪv ˈiːkwəlz ˌsɪksˈtiːn/"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "你有多少个？",
+    "english": "How many do you have?",
+    "soundmark": "/haʊ ˈmeni duː juː hæv/"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "二十减三等于十七。",
+    "english": "Twenty minus three equals seventeen.",
+    "soundmark": "/ˈtwenti ˈmaɪnəs θriː ˈiːkwəlz ˌsevənˈtiːn/"
+  }
+]

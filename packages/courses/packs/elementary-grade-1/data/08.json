@@ -1,0 +1,184 @@
+[
+  {
+    "stage": "word",
+    "chinese": "睡觉",
+    "english": "sleep",
+    "soundmark": "/sliːp/",
+    "example": "sleep"
+  },
+  {
+    "stage": "word",
+    "chinese": "醒来",
+    "english": "wake up",
+    "soundmark": "/weɪk ʌp/",
+    "example": "wake up"
+  },
+  {
+    "stage": "word",
+    "chinese": "吃",
+    "english": "eat",
+    "soundmark": "/iːt/",
+    "example": "eat"
+  },
+  {
+    "stage": "word",
+    "chinese": "喝",
+    "english": "drink",
+    "soundmark": "/drɪŋk/",
+    "example": "drink"
+  },
+  {
+    "stage": "word",
+    "chinese": "玩",
+    "english": "play",
+    "soundmark": "/pleɪ/",
+    "example": "play"
+  },
+  {
+    "stage": "word",
+    "chinese": "跑",
+    "english": "run",
+    "soundmark": "/rʌn/",
+    "example": "run"
+  },
+  {
+    "stage": "word",
+    "chinese": "跳",
+    "english": "jump",
+    "soundmark": "/dʒʌmp/",
+    "example": "jump"
+  },
+  {
+    "stage": "word",
+    "chinese": "坐",
+    "english": "sit",
+    "soundmark": "/sɪt/",
+    "example": "sit"
+  },
+  {
+    "stage": "word",
+    "chinese": "站",
+    "english": "stand",
+    "soundmark": "/stænd/",
+    "example": "stand"
+  },
+  {
+    "stage": "word",
+    "chinese": "走",
+    "english": "walk",
+    "soundmark": "/wɔːk/",
+    "example": "walk"
+  },
+  {
+    "stage": "word",
+    "chinese": "读",
+    "english": "read",
+    "soundmark": "/riːd/",
+    "example": "read"
+  },
+  {
+    "stage": "word",
+    "chinese": "写",
+    "english": "write",
+    "soundmark": "/raɪt/",
+    "example": "write"
+  },
+  {
+    "stage": "word",
+    "chinese": "唱",
+    "english": "sing",
+    "soundmark": "/sɪŋ/",
+    "example": "sing"
+  },
+  {
+    "stage": "word",
+    "chinese": "跳舞",
+    "english": "dance",
+    "soundmark": "/dæns/",
+    "example": "dance"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "醒来",
+    "english": "wake up",
+    "soundmark": "/weɪk ʌp/",
+    "example": "wake up"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "去学校",
+    "english": "go to school",
+    "soundmark": "/ɡoʊ tə skuːl/",
+    "example": "go to school"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "玩游戏",
+    "english": "play games",
+    "soundmark": "/pleɪ ɡeɪmz/",
+    "example": "play games"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "读书",
+    "english": "read books",
+    "soundmark": "/riːd bʊks/",
+    "example": "read books"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "睡觉",
+    "english": "go to bed",
+    "soundmark": "/ɡoʊ tə bed/",
+    "example": "go to bed"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "我在七点醒来。",
+    "english": "I wake up at 7.",
+    "soundmark": "/aɪ weɪk ʌp æt ˈsevən/",
+    "example": "I wake up at 7."
+  },
+  {
+    "stage": "sentence",
+    "chinese": "我去学校。",
+    "english": "I go to school.",
+    "soundmark": "/aɪ ɡoʊ tə skuːl/",
+    "example": "I go to school."
+  },
+  {
+    "stage": "sentence",
+    "chinese": "我玩游戏。",
+    "english": "I play games.",
+    "soundmark": "/aɪ pleɪ ɡeɪmz/",
+    "example": "I play games."
+  },
+  {
+    "stage": "sentence",
+    "chinese": "我在九点睡觉。",
+    "english": "I go to bed at 9.",
+    "soundmark": "/aɪ ɡoʊ tə bed æt naɪn/",
+    "example": "I go to bed at 9."
+  },
+  {
+    "stage": "sentence",
+    "chinese": "你喜欢跑步吗？",
+    "english": "Do you like running?",
+    "soundmark": "/duː juː laɪk ˈrʌnɪŋ/",
+    "example": "Do you like running?"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "我喜欢唱歌和跳舞。",
+    "english": "I like singing and dancing.",
+    "soundmark": "/aɪ laɪk ˈsɪŋɪŋ ənd ˈdænsɪŋ/",
+    "example": "I like singing and dancing."
+  },
+  {
+    "stage": "sentence",
+    "chinese": "我每天读书。",
+    "english": "I read books every day.",
+    "soundmark": "/aɪ riːd bʊks ˈevri deɪ/",
+    "example": "I read books every day."
+  }
+]
