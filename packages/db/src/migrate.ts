@@ -1,4 +1,4 @@
-import { migrate } from "drizzle-orm/postgres-js/migrator";
+import { migrate } from "drizzle-orm/mysql2/migrator";
 
 import { db } from "./db";
 

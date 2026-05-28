@@ -1,16 +1,16 @@
 import { createId } from "@paralleldrive/cuid2";
-import { integer, pgTable, text, timestamp, unique } from "drizzle-orm/pg-core";
+import { int, mysqlTable, timestamp, unique, varchar } from "drizzle-orm/mysql-core";
 
-export const courseHistory = pgTable(
+export const courseHistory = mysqlTable(
   "course_history",
   {
-    id: text("id")
+    id: varchar("id", { length: 128 })
       .primaryKey()
       .$defaultFn(() => createId()),
-    userId: text("user_id").notNull(),
-    courseId: text("course_id").notNull(),
-    coursePackId: text("course_pack_id").notNull(),
-    completionCount: integer("completion_count").notNull(),
+    userId: varchar("user_id", { length: 128 }).notNull(),
+    courseId: varchar("course_id", { length: 128 }).notNull(),
+    coursePackId: varchar("course_pack_id", { length: 128 }).notNull(),
+    completionCount: int("completion_count").notNull(),
     createdAt: timestamp("created_at").notNull().defaultNow(),
     updatedAt: timestamp("updated_at").$onUpdateFn(() => new Date()),
   },

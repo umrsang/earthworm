@@ -1,11 +1,11 @@
 import { FactoryProvider } from "@nestjs/common";
-import { type PostgresJsDatabase } from "drizzle-orm/postgres-js";
+import { type MySql2Database } from "drizzle-orm/mysql2";
 
 import { SchemaType } from "@earthworm/schema";
 import { setupDB } from "../../common/db";
 
 export const DB = Symbol("DB_SERVICE");
-export type DbType = PostgresJsDatabase<SchemaType>;
+export type DbType = MySql2Database<SchemaType>;
 
 export const DbProvider: FactoryProvider<DbType> = {
   provide: DB,

@@ -16,11 +16,11 @@
   "license": "ISC",
   "devDependencies": {
     "drizzle-kit": "^0.23.0",
-    "pg": "^8.11.5"
+    "mysql2": "^3.9.0"
   },
   "dependencies": {
     "drizzle-orm": "^0.32.0",
-    "postgres": "^3.4.4",
+    "mysql2": "^3.9.0",
     "@earthworm/schema": "workspace:^"
   }
 }

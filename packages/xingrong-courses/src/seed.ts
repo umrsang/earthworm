@@ -1,6 +1,8 @@
 import fs from "node:fs";
 import path from "node:path";
 
+import { createId } from "@paralleldrive/cuid2";
+
 import { db } from "@earthworm/db";
 import {
   coursePack,
@@ -13,41 +15,43 @@ type Statement = typeof statementSchema.$inferInsert;
 const courses = fs.readdirSync(path.resolve(__dirname, "../data/courses"));
 
 (async function () {
-  await db.delete(coursePack);
   await db.delete(statementSchema);
   await db.delete(courseSchema);
+  await db.delete(coursePack);
 
-  const [coursePackEntity] = await db
-    .insert(coursePack)
-    .values({
-      order: 1,
-      title: "星荣零基础学英语",
-      description: "最适合零基础入门的课程",
-      creatorId: "1",
-      shareLevel: "public",
-      isFree: true,
-      cover:
-        "https://earthworm-prod-1312884695.cos.ap-beijing.myqcloud.com/course-packs/xingrong.jpg",
-    })
-    .returning();
+  const coursePackId = createId();
+  await db.insert(coursePack).values({
+    id: coursePackId,
+    order: 1,
+    title: "星荣零基础学英语",
+    description: "最适合零基础入门的课程",
+    creatorId: "1",
+    shareLevel: "public",
+    isFree: true,
+    cover:
+      "https://earthworm-prod-1312884695.cos.ap-beijing.myqcloud.com/course-packs/xingrong.jpg",
+  });
 
   const courseList = await Promise.all(
     courses.map(async (courseFileName, index) => {
       const courseName = path.parse(courseFileName).name;
-      const [course] = await db
-        .insert(courseSchema)
-        .values({
-          coursePackId: coursePackEntity.id,
-          // Index starts from 0
-          order: index + 1,
-          title: convertToChineseNumber(courseName),
-        })
-        .returning({ id: courseSchema.id, order: courseSchema.order, title: courseSchema.title });
+      const courseId = createId();
+      const order = index + 1;
+      const title = convertToChineseNumber(courseName);
 
-      console.log(`创建: id-${course.id} order-${course.order} title-${course.title}`);
+      await db.insert(courseSchema).values({
+        id: courseId,
+        coursePackId,
+        order,
+        title,
+      });
+
+      console.log(`创建: id-${courseId} order-${order} title-${title}`);
 
       return {
-        ...course,
+        id: courseId,
+        order,
+        title,
         meta: {
           courseFileName,
           courseName,

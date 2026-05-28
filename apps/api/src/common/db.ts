@@ -1,25 +1,21 @@
 import { Logger } from "@nestjs/common";
 import { DefaultLogger, LogWriter } from "drizzle-orm";
-import { drizzle } from "drizzle-orm/postgres-js";
-import * as postgres from "postgres";
+import { drizzle } from "drizzle-orm/mysql2";
+import mysql from "mysql2/promise";
 
 import { schemas } from "@earthworm/schema";
 
-let connection: postgres.Sql;
-
-async function createConnection() {
-  return postgres(process.env.DATABASE_URL ?? "");
-}
+let pool: mysql.Pool;
 
 export async function endDB() {
-  if (connection) {
-    await connection.end();
-    connection = null;
+  if (pool) {
+    await pool.end();
+    pool = null;
   }
 }
 
 export async function setupDB() {
-  if (connection) return;
+  if (pool) return;
 
   const logger = new Logger("DB");
 
@@ -32,9 +28,9 @@ export async function setupDB() {
   logger.debug(`Connecting to ${process.env.DATABASE_URL}`);
   logger.debug(`SECRET: ${process.env.SECRET}`);
 
-  connection = await createConnection();
+  pool = mysql.createPool(process.env.DATABASE_URL ?? "");
 
-  return drizzle(connection, {
+  return drizzle(pool, {
     schema: schemas,
     logger: new DefaultLogger({ writer: new CustomDbLogWriter() }),
   });
