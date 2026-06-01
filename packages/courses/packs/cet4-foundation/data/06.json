@@ -1,0 +1,927 @@
+[
+  { "chinese": "环境", "english": "environment", "soundmark": "/ɪnˈvaɪrənmənt/" },
+  { "chinese": "自然", "english": "nature", "soundmark": "/ˈneɪtʃər/" },
+  { "chinese": "保护", "english": "protection", "soundmark": "/prəˈtekʃn/" },
+  { "chinese": "污染", "english": "pollution", "soundmark": "/pəˈluːʃn/" },
+  { "chinese": "气候", "english": "climate", "soundmark": "/ˈklaɪmət/" },
+  { "chinese": "生态", "english": "ecology", "soundmark": "/ɪˈkɒlədʒi/" },
+  { "chinese": "资源", "english": "resource", "soundmark": "/rɪˈzɔːrs/" },
+  { "chinese": "可持续的", "english": "sustainable", "soundmark": "/səˈsteɪnəbl/" },
+  { "chinese": "废弃物", "english": "waste", "soundmark": "/weɪst/" },
+  { "chinese": "回收利用", "english": "recycle", "soundmark": "/ˌriːˈsaɪkl/" },
+  { "chinese": "温室效应", "english": "greenhouse effect", "soundmark": "/ˈɡriːnhaʊs ɪˈfekt/" },
+  { "chinese": "二氧化碳", "english": "carbon dioxide", "soundmark": "/ˈkɑːrbən daɪˈɒksaɪd/" },
+  { "chinese": "排放", "english": "emission", "soundmark": "/ɪˈmɪʃn/" },
+  { "chinese": "灭绝", "english": "extinction", "soundmark": "/ɪkˈstɪŋkʃn/" },
+  {
+    "chinese": "濒危物种",
+    "english": "endangered species",
+    "soundmark": "/ɪnˈdeɪndʒərd ˈspiːʃiːz/"
+  },
+  { "chinese": "森林砍伐", "english": "deforestation", "soundmark": "/diːˌfɒrɪˈsteɪʃn/" },
+  { "chinese": "沙漠化", "english": "desertification", "soundmark": "/dɪˌzɜːrtɪfɪˈkeɪʃn/" },
+  { "chinese": "洪水", "english": "flood", "soundmark": "/flʌd/" },
+  { "chinese": "干旱", "english": "drought", "soundmark": "/draʊt/" },
+  { "chinese": "地震", "english": "earthquake", "soundmark": "/ˈɜːrθkweɪk/" },
+  { "chinese": "酸雨", "english": "acid rain", "soundmark": "/ˈæsɪd reɪn/" },
+  { "chinese": "臭氧层", "english": "ozone layer", "soundmark": "/ˈoʊzoʊn ˈleɪər/" },
+  { "chinese": "生物多样性", "english": "biodiversity", "soundmark": "/ˌbaɪoʊdaɪˈvɜːrsəti/" },
+  { "chinese": "栖息地", "english": "habitat", "soundmark": "/ˈhæbɪtæt/" },
+  { "chinese": "太阳能", "english": "solar energy", "soundmark": "/ˈsoʊlər ˈenərdʒi/" },
+  { "chinese": "风能", "english": "wind energy", "soundmark": "/wɪnd ˈenərdʒi/" },
+  { "chinese": "燃料", "english": "fuel", "soundmark": "/ˈfjuːəl/" },
+  { "chinese": "化石燃料", "english": "fossil fuel", "soundmark": "/ˈfɒsl ˈfjuːəl/" },
+  { "chinese": "生态系统", "english": "ecosystem", "soundmark": "/ˈiːkoʊsɪstəm/" },
+  { "chinese": "再生的", "english": "renewable", "soundmark": "/rɪˈnuːəbl/" },
+  { "chinese": "节约能源", "english": "save energy", "soundmark": "/seɪv ˈenərdʒi/" },
+  { "chinese": "减少排放", "english": "reduce emissions", "soundmark": "/rɪˈduːs ɪˈmɪʃnz/" },
+  { "chinese": "净化空气", "english": "purify the air", "soundmark": "/ˈpjʊrɪfaɪ ðiː er/" },
+  {
+    "chinese": "保护野生动物",
+    "english": "protect wildlife",
+    "soundmark": "/prəˈtekt ˈwaɪldlaɪf/"
+  },
+  { "chinese": "垃圾分类", "english": "sort garbage", "soundmark": "/sɔːrt ˈɡɑːrbɪdʒ/" },
+  { "chinese": "绿色生活", "english": "green lifestyle", "soundmark": "/ɡriːn ˈlaɪfstaɪl/" },
+  {
+    "chinese": "公共交通",
+    "english": "public transportation",
+    "soundmark": "/ˈpʌblɪk ˌtrænspɔːrˈteɪʃn/"
+  },
+  { "chinese": "碳中和", "english": "carbon neutrality", "soundmark": "/ˈkɑːrbən nuːˈtræləti/" },
+  { "chinese": "全球变暖", "english": "global warming", "soundmark": "/ˈɡloʊbl ˈwɔːrmɪŋ/" },
+  { "chinese": "海平面上升", "english": "sea level rise", "soundmark": "/siː ˈlevl raɪz/" },
+  { "chinese": "极端天气", "english": "extreme weather", "soundmark": "/ɪkˈstriːm ˈweðər/" },
+  {
+    "chinese": "热带雨林",
+    "english": "tropical rainforest",
+    "soundmark": "/ˈtrɒpɪkl ˈreɪnfɔːrɪst/"
+  },
+  { "chinese": "珊瑚礁", "english": "coral reef", "soundmark": "/ˈkɒrəl riːf/" },
+  { "chinese": "冰川融化", "english": "glacier melting", "soundmark": "/ˈɡleɪʃər ˈmeltɪŋ/" },
+  { "chinese": "土壤侵蚀", "english": "soil erosion", "soundmark": "/sɔɪl ɪˈroʊʒn/" },
+  { "chinese": "水污染", "english": "water pollution", "soundmark": "/ˈwɔːtər pəˈluːʃn/" },
+  { "chinese": "空气污染", "english": "air pollution", "soundmark": "/er pəˈluːʃn/" },
+  { "chinese": "白色污染", "english": "white pollution", "soundmark": "/waɪt pəˈluːʃn/" },
+  { "chinese": "塑料袋", "english": "plastic bag", "soundmark": "/ˈplæstɪk bæɡ/" },
+  {
+    "chinese": "一次性产品",
+    "english": "disposable product",
+    "soundmark": "/dɪˈspoʊzəbl ˈprɒdʌkt/"
+  },
+  {
+    "chinese": "环境保护是非常重要的。",
+    "english": "Environmental protection is very important.",
+    "soundmark": "/ɪnˌvaɪrənˈmentl prəˈtekʃn ɪz ˈveri ɪmˈpɔːrtnt/"
+  },
+  {
+    "chinese": "我们应该减少塑料的使用。",
+    "english": "We should reduce the use of plastic.",
+    "soundmark": "/wiː ʃʊd rɪˈduːs ðə juːs əv ˈplæstɪk/"
+  },
+  {
+    "chinese": "全球变暖是一个严重的问题。",
+    "english": "Global warming is a serious problem.",
+    "soundmark": "/ˈɡloʊbl ˈwɔːrmɪŋ ɪz ə ˈsɪriəs ˈprɒbləm/"
+  },
+  {
+    "chinese": "许多人关注气候变化。",
+    "english": "Many people are concerned about climate change.",
+    "soundmark": "/ˈmeni ˈpiːpl ɑːr kənˈsɜːrnd əˈbaʊt ˈklaɪmət tʃeɪndʒ/"
+  },
+  {
+    "chinese": "森林为动物提供栖息地。",
+    "english": "Forests provide habitats for animals.",
+    "soundmark": "/ˈfɒrɪsts prəˈvaɪd ˈhæbɪtæts fɔːr ˈænɪmlz/"
+  },
+  {
+    "chinese": "水是生命之源。",
+    "english": "Water is the source of life.",
+    "soundmark": "/ˈwɔːtər ɪz ðə sɔːrs əv laɪf/"
+  },
+  {
+    "chinese": "能源消耗正在快速增长。",
+    "english": "Energy consumption is growing rapidly.",
+    "soundmark": "/ˈenərdʒi kənˈsʌmpʃn ɪz ˈɡroʊɪŋ ˈræpɪdli/"
+  },
+  {
+    "chinese": "城市空气污染影响健康。",
+    "english": "Urban air pollution affects health.",
+    "soundmark": "/ˈɜːrbən er pəˈluːʃn əˈfekts helθ/"
+  },
+  {
+    "chinese": "野生动物面临灭绝的危险。",
+    "english": "Wildlife faces the danger of extinction.",
+    "soundmark": "/ˈwaɪldlaɪf ˈfeɪsɪz ðə ˈdeɪndʒər əv ɪkˈstɪŋkʃn/"
+  },
+  {
+    "chinese": "可再生能源是未来的趋势。",
+    "english": "Renewable energy is the trend of the future.",
+    "soundmark": "/rɪˈnuːəbl ˈenərdʒi ɪz ðə trend əv ðə ˈfjuːtʃər/"
+  },
+  {
+    "chinese": "当我们谈论环境时，我们想到的是地球的未来。",
+    "english": "When we talk about the environment, we think of the future of the earth.",
+    "soundmark": "/wen wiː tɔːk əˈbaʊt ðiː ɪnˈvaɪrənmənt wiː θɪŋk əv ðə ˈfjuːtʃər əv ðiː ɜːrθ/"
+  },
+  {
+    "chinese": "当空气被污染时，人们更容易生病。",
+    "english": "When the air is polluted, people are more likely to get sick.",
+    "soundmark": "/wen ðiː er ɪz pəˈluːtɪd ˈpiːpl ɑːr mɔːr ˈlaɪkli tuː ɡet sɪk/"
+  },
+  {
+    "chinese": "当森林被砍伐时，动物失去了家园。",
+    "english": "When forests are cut down, animals lose their homes.",
+    "soundmark": "/wen ˈfɒrɪsts ɑːr kʌt daʊn ˈænɪmlz luːz ðer hoʊmz/"
+  },
+  {
+    "chinese": "在下雨的时候，河流会收集污染物。",
+    "english": "While it rains, rivers collect pollutants.",
+    "soundmark": "/waɪl ɪt reɪnz ˈrɪvərz kəˈlekt pəˈluːtənts/"
+  },
+  {
+    "chinese": "当我们燃烧化石燃料时，二氧化碳被释放到大气中。",
+    "english": "When we burn fossil fuels, carbon dioxide is released into the atmosphere.",
+    "soundmark": "/wen wiː bɜːrn ˈfɒsl ˈfjuːəlz ˈkɑːrbən daɪˈɒksaɪd ɪz rɪˈliːst ˈɪntuː ðiː ˈætməsfɪr/"
+  },
+  {
+    "chinese": "当温度升高时，冰川开始融化。",
+    "english": "When the temperature rises, glaciers begin to melt.",
+    "soundmark": "/wen ðə ˈtemprətʃər ˈraɪzɪz ˈɡleɪʃərz bɪˈɡɪn tuː melt/"
+  },
+  {
+    "chinese": "当物种灭绝后，生态系统会失去平衡。",
+    "english": "After a species goes extinct, the ecosystem loses its balance.",
+    "soundmark": "/ˈæftər ə ˈspiːʃiːz ɡoʊz ɪkˈstɪŋkt ðiː ˈiːkoʊsɪstəm ˈluːzɪz ɪts ˈbæləns/"
+  },
+  {
+    "chinese": "在采取行动之前，我们应该充分了解问题。",
+    "english": "Before we take action, we should fully understand the problem.",
+    "soundmark": "/bɪˈfɔːr wiː teɪk ˈækʃn wiː ʃʊd ˈfʊli ˌʌndərˈstænd ðə ˈprɒbləm/"
+  },
+  {
+    "chinese": "在做决定之前，我们需要收集更多信息。",
+    "english": "Before making a decision, we need to gather more information.",
+    "soundmark": "/bɪˈfɔːr ˈmeɪkɪŋ ə dɪˈsɪʒn wiː niːd tuː ˈɡæðər mɔːr ˌɪnfərˈmeɪʃn/"
+  },
+  {
+    "chinese": "在情况变得更糟之前，我们必须采取行动。",
+    "english": "We must take action before the situation gets worse.",
+    "soundmark": "/wiː mʌst teɪk ˈækʃn bɪˈfɔːr ðə ˌsɪtʃuˈeɪʃn ɡets wɜːrs/"
+  },
+  {
+    "chinese": "在珊瑚礁消失之前，我们应该保护海洋环境。",
+    "english": "We should protect the marine environment before coral reefs disappear.",
+    "soundmark": "/wiː ʃʊd prəˈtekt ðə məˈriːn ɪnˈvaɪrənmənt bɪˈfɔːr ˈkɒrəl riːfs ˌdɪsəˈpɪr/"
+  },
+  {
+    "chinese": "在洪水来袭之后，许多家庭失去了家园。",
+    "english": "After the flood struck, many families lost their homes.",
+    "soundmark": "/ˈæftər ðə flʌd strʌk ˈmeni ˈfæməliz lɒst ðer hoʊmz/"
+  },
+  {
+    "chinese": "在地震发生之后，救援工作立即展开。",
+    "english": "After the earthquake occurred, rescue work began immediately.",
+    "soundmark": "/ˈæftər ðə ˈɜːrθkweɪk əˈkɜːrd reˈskjuː wɜːrk bɪˈɡæn ɪˈmiːdiətli/"
+  },
+  {
+    "chinese": "如果我们不减少排放，气温将继续上升。",
+    "english": "If we do not reduce emissions, the temperature will continue to rise.",
+    "soundmark": "/ɪf wiː duː nɒt rɪˈduːs ɪˈmɪʃnz ðə ˈtemprətʃər wɪl kənˈtɪnjuː tuː raɪz/"
+  },
+  {
+    "chinese": "如果我们不保护环境，子孙后代将遭受苦难。",
+    "english": "If we do not protect the environment, future generations will suffer.",
+    "soundmark": "/ɪf wiː duː nɒt prəˈtekt ðiː ɪnˈvaɪrənmənt ˈfjuːtʃər ˌdʒenəˈreɪʃnz wɪl ˈsʌfər/"
+  },
+  {
+    "chinese": "如果每个人都做出贡献，地球会变得更美好。",
+    "english": "If everyone makes a contribution, the earth will become a better place.",
+    "soundmark": "/ɪf ˈevriwʌn meɪks ə ˌkɒntrɪˈbjuːʃn ðiː ɜːrθ wɪl bɪˈkʌm ə ˈbetər pleɪs/"
+  },
+  {
+    "chinese": "如果我们继续砍伐森林，更多物种将会灭绝。",
+    "english": "If we continue to cut down forests, more species will become extinct.",
+    "soundmark": "/ɪf wiː kənˈtɪnjuː tuː kʌt daʊn ˈfɒrɪsts mɔːr ˈspiːʃiːz wɪl bɪˈkʌm ɪkˈstɪŋkt/"
+  },
+  {
+    "chinese": "如果我们使用可再生能源，空气污染就会减少。",
+    "english": "If we use renewable energy, air pollution will decrease.",
+    "soundmark": "/ɪf wiː juːz rɪˈnuːəbl ˈenərdʒi er pəˈluːʃn wɪl dɪˈkriːs/"
+  },
+  {
+    "chinese": "如果政府实施严格的法律，企业就会减少污染。",
+    "english": "If the government enforces strict laws, companies will reduce pollution.",
+    "soundmark": "/ɪf ðə ˈɡʌvərnmənt ɪnˈfɔːrsɪz strɪkt lɔːz ˈkʌmpəniz wɪl rɪˈduːs pəˈluːʃn/"
+  },
+  {
+    "chinese": "如果我们现在不采取行动，后果将不堪设想。",
+    "english": "If we do not act now, the consequences will be unimaginable.",
+    "soundmark": "/ɪf wiː duː nɒt ækt naʊ ðə ˈkɒnsɪkwensɪz wɪl biː ˌʌnɪˈmædʒɪnəbl/"
+  },
+  {
+    "chinese": "除非我们改变生活方式，否则无法解决环境问题。",
+    "english": "Unless we change our lifestyle, we cannot solve environmental problems.",
+    "soundmark": "/ənˈles wiː tʃeɪndʒ aʊr ˈlaɪfstaɪl wiː ˈkænɒt sɒlv ɪnˌvaɪrənˈmentl ˈprɒbləmz/"
+  },
+  {
+    "chinese": "除非每个人都参与，否则环保行动不会成功。",
+    "english": "Unless everyone participates, environmental action will not succeed.",
+    "soundmark": "/ənˈles ˈevriwʌn pɑːrˈtɪsɪpeɪts ɪnˌvaɪrənˈmentl ˈækʃn wɪl nɒt səkˈsiːd/"
+  },
+  {
+    "chinese": "除非减少化石燃料的使用，否则温室效应会加剧。",
+    "english": "Unless we reduce the use of fossil fuels, the greenhouse effect will worsen.",
+    "soundmark": "/ənˈles wiː rɪˈduːs ðə juːs əv ˈfɒsl ˈfjuːəlz ðə ˈɡriːnhaʊs ɪˈfekt wɪl ˈwɜːrsn/"
+  },
+  {
+    "chinese": "因为工业快速发展，环境污染变得越来越严重。",
+    "english": "Because industry has developed rapidly, environmental pollution is becoming more serious.",
+    "soundmark": "/bɪˈkɒz ˈɪndəstri həz dɪˈveləpt ˈræpɪdli ɪnˌvaɪrənˈmentl pəˈluːʃn ɪz bɪˈkʌmɪŋ mɔːr ˈsɪriəs/"
+  },
+  {
+    "chinese": "由于大量使用塑料，海洋污染日益严重。",
+    "english": "Since a large amount of plastic is used, marine pollution is getting worse.",
+    "soundmark": "/sɪns ə lɑːrdʒ əˈmaʊnt əv ˈplæstɪk ɪz juːzd məˈriːn pəˈluːʃn ɪz ˈɡetɪŋ wɜːrs/"
+  },
+  {
+    "chinese": "因为人类过度开发自然资源，许多动物失去了栖息地。",
+    "english": "Because humans have overexploited natural resources, many animals have lost their habitats.",
+    "soundmark": "/bɪˈkɒz ˈhjuːmənz həv ˌoʊvərɪkˈsplɔɪtɪd ˈnætʃrəl ˈriːsɔːrsɪz ˈmeni ˈænɪmlz həv lɒst ðer ˈhæbɪtæts/"
+  },
+  {
+    "chinese": "由于全球变暖，北极冰盖正在缩小。",
+    "english": "Since global warming is accelerating, the Arctic ice cap is shrinking.",
+    "soundmark": "/sɪns ˈɡloʊbl ˈwɔːrmɪŋ ɪz əkˈseləreɪtɪŋ ðiː ˈɑːrktɪk aɪs kæp ɪz ˈʃrɪŋkɪŋ/"
+  },
+  {
+    "chinese": "因为汽车尾气排放量大，城市空气质量令人担忧。",
+    "english": "Because cars emit a large amount of exhaust, urban air quality is worrying.",
+    "soundmark": "/bɪˈkɒz kɑːrz ɪˈmɪt ə lɑːrdʒ əˈmaʊnt əv ɪɡˈzɔːst ˈɜːrbən er ˈkwɒləti ɪz ˈwɜːriɪŋ/"
+  },
+  {
+    "chinese": "由于树木能吸收二氧化碳，植树造林是应对气候变化的有效方法。",
+    "english": "Since trees can absorb carbon dioxide, afforestation is an effective way to fight climate change.",
+    "soundmark": "/sɪns triːz kæn əbˈzɔːrb ˈkɑːrbən daɪˈɒksaɪd əˌfɒrɪˈsteɪʃn ɪz ən ɪˈfektɪv weɪ tuː faɪt ˈklaɪmət tʃeɪndʒ/"
+  },
+  {
+    "chinese": "尽管天气恶劣，救援队仍然继续工作。",
+    "english": "Although the weather was terrible, the rescue team continued to work.",
+    "soundmark": "/ɔːlˈðoʊ ðə ˈweðər wɒz ˈterəbl ðə ˈriːskjuː tiːm kənˈtɪnjuːd tuː wɜːrk/"
+  },
+  {
+    "chinese": "虽然治理污染需要大量资金，但这是值得的。",
+    "english": "Though controlling pollution requires a lot of money, it is worthwhile.",
+    "soundmark": "/ðoʊ kənˈtroʊlɪŋ pəˈluːʃn rɪˈkwaɪərz ə lɒt əv ˈmʌni ɪt ɪz ˈwɜːrθwaɪl/"
+  },
+  {
+    "chinese": "尽管已经采取了许多措施，空气污染仍然是一个严重的问题。",
+    "english": "Although many measures have been taken, air pollution remains a serious problem.",
+    "soundmark": "/ɔːlˈðoʊ ˈmeni ˈmeʒərz həv bɪn ˈteɪkən er pəˈluːʃn rɪˈmeɪnz ə ˈsɪriəs ˈprɒbləm/"
+  },
+  {
+    "chinese": "虽然发展中国家需要经济增长，但也不应以牺牲环境为代价。",
+    "english": "Although developing countries need economic growth, they should not sacrifice the environment.",
+    "soundmark": "/ɔːlˈðoʊ dɪˈveləpɪŋ ˈkʌntriz niːd ˌiːkəˈnɒmɪk ɡroʊθ ðeɪ ʃʊd nɒt ˈsækrɪfaɪs ðiː ɪnˈvaɪrənmənt/"
+  },
+  {
+    "chinese": "尽管代价高昂，我们必须投资清洁能源。",
+    "english": "Though the cost is high, we must invest in clean energy.",
+    "soundmark": "/ðoʊ ðə kɒst ɪz haɪ wiː mʌst ɪnˈvest ɪn kliːn ˈenərdʒi/"
+  },
+  {
+    "chinese": "虽然电动汽车越来越受欢迎，但充电设施仍不完善。",
+    "english": "Although electric cars are becoming more popular, charging facilities are still inadequate.",
+    "soundmark": "/ɔːlˈðoʊ ɪˈlektrɪk kɑːrz ɑːr bɪˈkʌmɪŋ mɔːr ˈpɒpjələr ˈtʃɑːrdʒɪŋ fəˈsɪlətiz ɑːr stɪl ɪnˈædɪkwət/"
+  },
+  {
+    "chinese": "尽管有些人否认全球变暖，但科学证据是确凿的。",
+    "english": "Although some people deny global warming, the scientific evidence is conclusive.",
+    "soundmark": "/ɔːlˈðoʊ sʌm ˈpiːpl dɪˈnaɪ ˈɡloʊbl ˈwɔːrmɪŋ ðə ˌsaɪənˈtɪfɪk ˈevɪdəns ɪz kənˈkluːsɪv/"
+  },
+  {
+    "chinese": "气候变化如此之快，以至于许多物种面临灭绝。",
+    "english": "The climate is changing so fast that many species are endangered.",
+    "soundmark": "/ðə ˈklaɪmət ɪz ˈtʃeɪndʒɪŋ soʊ fæst ðæt ˈmeni ˈspiːʃiːz ɑːr ɪnˈdeɪndʒərd/"
+  },
+  {
+    "chinese": "污染如此严重，以至于河水不再适合饮用。",
+    "english": "The pollution is so serious that the river water is no longer drinkable.",
+    "soundmark": "/ðə pəˈluːʃn ɪz soʊ ˈsɪriəs ðæt ðə ˈrɪvər ˈwɔːtər ɪz ˈnoʊ ˈlɒŋər ˈdrɪŋkəbl/"
+  },
+  {
+    "chinese": "全球变暖如此严重，以至于海平面正在加速上升。",
+    "english": "Global warming is so severe that sea levels are rising at an accelerating rate.",
+    "soundmark": "/ˈɡloʊbl ˈwɔːrmɪŋ ɪz soʊ sɪˈvɪr ðæt siː ˈlevlz ɑːr ˈraɪzɪŋ æt ən əkˈseləreɪtɪŋ reɪt/"
+  },
+  {
+    "chinese": "城市扩张如此迅速，以至于周边农田不断减少。",
+    "english": "Urban expansion is so rapid that surrounding farmland continues to shrink.",
+    "soundmark": "/ˈɜːrbən ɪkˈspænʃn ɪz soʊ ˈræpɪd ðæt səˈraʊndɪŋ ˈfɑːrmlænd kənˈtɪnjuːz tuː ʃrɪŋk/"
+  },
+  {
+    "chinese": "塑料污染如此严重，以至于海洋生物大量死亡。",
+    "english": "Plastic pollution is so severe that a large number of marine animals die.",
+    "soundmark": "/ˈplæstɪk pəˈluːʃn ɪz soʊ sɪˈvɪr ðæt ə lɑːrdʒ ˈnʌmbər əv məˈriːn ˈænɪmlz daɪ/"
+  },
+  {
+    "chinese": "我们应该采取行动，以便子孙后代能享受清洁的环境。",
+    "english": "We should take action so that future generations can enjoy a clean environment.",
+    "soundmark": "/wiː ʃʊd teɪk ˈækʃn soʊ ðæt ˈfjuːtʃər ˌdʒenəˈreɪʃnz kæn ɪnˈdʒɔɪ ə kliːn ɪnˈvaɪrənmənt/"
+  },
+  {
+    "chinese": "政府制定了法律，以便减少工业排放。",
+    "english": "The government passed laws so that industrial emissions could be reduced.",
+    "soundmark": "/ðə ˈɡʌvərnmənt pɑːst lɔːz soʊ ðæt ɪnˈdʌstriəl ɪˈmɪʃnz kʊd biː rɪˈduːst/"
+  },
+  {
+    "chinese": "为了实现可持续发展，我们必须平衡经济与环保。",
+    "english": "In order to achieve sustainable development, we must balance economy and environment.",
+    "soundmark": "/ɪn ˈɔːrdər tuː əˈtʃiːv səˈsteɪnəbl dɪˈveləpmənt wiː mʌst ˈbæləns ɪˈkɒnəmi ænd ɪnˈvaɪrənmənt/"
+  },
+  {
+    "chinese": "为了减少碳足迹，越来越多的人选择绿色出行。",
+    "english": "In order that we can reduce our carbon footprint, more people choose green transportation.",
+    "soundmark": "/ɪn ˈɔːrdər ðæt wiː kæn rɪˈduːs aʊr ˈkɑːrbən ˈfʊtprɪnt mɔːr ˈpiːpl tʃuːz ɡriːn ˌtrænspɔːrˈteɪʃn/"
+  },
+  {
+    "chinese": "科学家们正在研究新能源，以便替代化石燃料。",
+    "english": "Scientists are researching new energy sources so that they can replace fossil fuels.",
+    "soundmark": "/ˈsaɪəntɪsts ɑːr rɪˈsɜːrtʃɪŋ njuː ˈenərdʒi ˈsɔːrsɪz soʊ ðæt ðeɪ kæn rɪˈpleɪs ˈfɒsl ˈfjuːəlz/"
+  },
+  {
+    "chinese": "为了保护生物多样性，我们应该建立更多的自然保护区。",
+    "english": "In order that biodiversity can be protected, we should establish more nature reserves.",
+    "soundmark": "/ɪn ˈɔːrdər ðæt ˌbaɪoʊdaɪˈvɜːrsəti kæn biː prəˈtektɪd wiː ʃʊd ɪˈstæblɪʃ mɔːr ˈneɪtʃər rɪˈzɜːrvz/"
+  },
+  {
+    "chinese": "我们应该像珍惜自己的生命一样珍惜地球。",
+    "english": "We should cherish the earth as much as we cherish our own lives.",
+    "soundmark": "/wiː ʃʊd ˈtʃerɪʃ ðiː ɜːrθ æz mʌtʃ æz wiː ˈtʃerɪʃ aʊr oʊn laɪvz/"
+  },
+  {
+    "chinese": "太阳能发电和风能发电一样清洁环保。",
+    "english": "Solar power generation is as clean and environmentally friendly as wind power.",
+    "soundmark": "/ˈsoʊlər ˈpaʊər ˌdʒenəˈreɪʃn ɪz æz kliːn ænd ɪnˌvaɪrənˈmentli ˈfrendli æz wɪnd ˈpaʊər/"
+  },
+  {
+    "chinese": "今天的空气质量和昨天一样差。",
+    "english": "The air quality today is as bad as it was yesterday.",
+    "soundmark": "/ðiː er ˈkwɒləti təˈdeɪ ɪz æz bæd æz ɪt wɒz ˈjesterdeɪ/"
+  },
+  {
+    "chinese": "海洋污染比我们想象的严重得多。",
+    "english": "Marine pollution is much more serious than we imagined.",
+    "soundmark": "/məˈriːn pəˈluːʃn ɪz mʌtʃ mɔːr ˈsɪriəs ðæn wiː ɪˈmædʒɪnd/"
+  },
+  {
+    "chinese": "可再生能源比化石燃料对环境更友好。",
+    "english": "Renewable energy is more environmentally friendly than fossil fuels.",
+    "soundmark": "/rɪˈnuːəbl ˈenərdʒi ɪz mɔːr ɪnˌvaɪrənˈmentli ˈfrendli ðæn ˈfɒsl ˈfjuːəlz/"
+  },
+  {
+    "chinese": "植树造林的成本远低于治理污染的费用。",
+    "english": "The cost of planting trees is far lower than the expense of treating pollution.",
+    "soundmark": "/ðə kɒst əv ˈplæntɪŋ triːz ɪz fɑːr ˈloʊər ðæn ðiː ɪkˈspens əv ˈtriːtɪŋ pəˈluːʃn/"
+  },
+  {
+    "chinese": "正如树木吸收二氧化碳一样，湿地也能净化水质。",
+    "english": "Just as trees absorb carbon dioxide, wetlands can also purify water.",
+    "soundmark": "/dʒʌst æz triːz əbˈzɔːrb ˈkɑːrbən daɪˈɒksaɪd ˈwetlændz kæn ˈɔːlsoʊ ˈpjʊrɪfaɪ ˈwɔːtər/"
+  },
+  {
+    "chinese": "保护环境应该像吃饭睡觉一样成为日常习惯。",
+    "english": "Protecting the environment should become a daily habit just like eating and sleeping.",
+    "soundmark": "/prəˈtektɪŋ ðiː ɪnˈvaɪrənmənt ʃʊd bɪˈkʌm ə ˈdeɪli ˈhæbɪt dʒʌst laɪk ˈiːtɪŋ ænd ˈsliːpɪŋ/"
+  },
+  {
+    "chinese": "各国政府正在合作，就像应对一个共同的敌人一样。",
+    "english": "Governments around the world are cooperating as if they were fighting a common enemy.",
+    "soundmark": "/ˈɡʌvərnmənts əˈraʊnd ðə wɜːrld ɑːr koʊˈɒpəreɪtɪŋ æz ɪf ðeɪ wɜːr ˈfaɪtɪŋ ə ˈkɒmən ˈenəmi/"
+  },
+  {
+    "chinese": "只要大家共同努力，我们就能战胜环境危机。",
+    "english": "As long as everyone works together, we can overcome the environmental crisis.",
+    "soundmark": "/æz lɒŋ æz ˈevriwʌn wɜːrks təˈɡeðər wiː kæn ˌoʊvərˈkʌm ðə ɪnˌvaɪrənˈmentl ˈkraɪsɪs/"
+  },
+  {
+    "chinese": "无论问题多么复杂，我们都不能放弃保护地球的努力。",
+    "english": "No matter how complex the problem is, we must not give up our efforts to protect the earth.",
+    "soundmark": "/noʊ ˈmætər haʊ ˈkɒmpleks ðə ˈprɒbləm ɪz wiː mʌst nɒt ɡɪv ʌp aʊr ˈefərts tuː prəˈtekt ðiː ɜːrθ/"
+  },
+  {
+    "chinese": "每当自然灾害发生时，国际社会都会伸出援手。",
+    "english": "Whenever a natural disaster occurs, the international community lends a helping hand.",
+    "soundmark": "/wenˈevər ə ˈnætʃrəl dɪˈzæstər əˈkɜːrz ðə ˌɪntərˈnæʃnəl kəˈmjuːnəti lendz ə ˈhelpɪŋ hænd/"
+  },
+  {
+    "chinese": "既然已经认识到了问题的严重性，我们就应该立即行动。",
+    "english": "Now that we have realized the seriousness of the problem, we should act immediately.",
+    "soundmark": "/naʊ ðæt wiː həv ˈriːəlaɪzd ðə ˈsɪriəsnəs əv ðə ˈprɒbləm wiː ʃʊd ækt ɪˈmiːdiətli/"
+  },
+  {
+    "chinese": "既然每个人都受到气候变化的影响，每个人都有责任采取行动。",
+    "english": "Since everyone is affected by climate change, everyone has the responsibility to take action.",
+    "soundmark": "/sɪns ˈevriwʌn ɪz əˈfektɪd baɪ ˈklaɪmət tʃeɪndʒ ˈevriwʌn həz ðə rɪsˌpɒnsəˈbɪləti tuː teɪk ˈækʃn/"
+  },
+  {
+    "chinese": "除非各国携手合作，否则无法有效应对全球气候变化。",
+    "english": "Unless countries work together, they cannot effectively tackle global climate change.",
+    "soundmark": "/ənˈles ˈkʌntriz wɜːrk təˈɡeðər ðeɪ ˈkænɒt ɪˈfektɪvli ˈtækl ˈɡloʊbl ˈklaɪmət tʃeɪndʒ/"
+  },
+  {
+    "chinese": "即使面临经济困难，我们也不能牺牲环境来换取短期利益。",
+    "english": "Even if we face economic difficulties, we must not sacrifice the environment for short-term gains.",
+    "soundmark": "/ˈiːvən ɪf wiː feɪs ˌiːkəˈnɒmɪk ˌdɪfɪˈkʌltiz wiː mʌst nɒt ˈsækrɪfaɪs ðiː ɪnˈvaɪrənmənt fɔːr ʃɔːrt tɜːrm ɡeɪnz/"
+  },
+  {
+    "chinese": "只有全社会共同参与，才能真正实现绿色发展。",
+    "english": "Only when the whole society participates can we truly achieve green development.",
+    "soundmark": "/ˈoʊnli wen ðə hoʊl səˈsaɪəti pɑːrˈtɪsɪpeɪts kæn wiː ˈtruːli əˈtʃiːv ɡriːn dɪˈveləpmənt/"
+  },
+  {
+    "chinese": "直到河流被严重污染后，人们才意识到保护水源的重要性。",
+    "english": "It was not until the rivers were seriously polluted that people realized the importance of protecting water sources.",
+    "soundmark": "/ɪt wɒz nɒt ˈʌntɪl ðə ˈrɪvərz wɜːr ˈsɪriəsli pəˈluːtɪd ðæt ˈpiːpl ˈriːəlaɪzd ðiː ɪmˈpɔːrtəns əv prəˈtektɪŋ ˈwɔːtər ˈsɔːrsɪz/"
+  },
+  {
+    "chinese": "每当春天来临，候鸟就会飞回它们的繁殖地。",
+    "english": "Whenever spring comes, migratory birds fly back to their breeding grounds.",
+    "soundmark": "/wenˈevər sprɪŋ kʌmz ˈmaɪɡrətɔːri bɜːrdz flaɪ bæk tuː ðer ˈbriːdɪŋ ɡraʊndz/"
+  },
+  {
+    "chinese": "无论你去哪里，都能看到环境污染的迹象。",
+    "english": "Wherever you go, you can see signs of environmental pollution.",
+    "soundmark": "/werˈevər juː ɡoʊ juː kæn siː saɪnz əv ɪnˌvaɪrənˈmentl pəˈluːʃn/"
+  },
+  {
+    "chinese": "由于人口持续增长，对自然资源的需求也在增加。",
+    "english": "As the population continues to grow, the demand for natural resources is also increasing.",
+    "soundmark": "/æz ðə ˌpɒpjuˈleɪʃn kənˈtɪnjuːz tuː ɡroʊ ðə dɪˈmænd fɔːr ˈnætʃrəl ˈriːsɔːrsɪz ɪz ˈɔːlsoʊ ɪnˈkriːsɪŋ/"
+  },
+  {
+    "chinese": "随着科技的进步，我们有了更多保护环境的方法。",
+    "english": "As technology advances, we have more methods to protect the environment.",
+    "soundmark": "/æz tekˈnɒlədʒi ədˈvænsɪz wiː həv mɔːr ˈmeθədz tuː prəˈtekt ðiː ɪnˈvaɪrənmənt/"
+  },
+  {
+    "chinese": "虽然个人力量微小，但汇聚起来就能产生巨大的影响。",
+    "english": "Although individual efforts seem small, they can create a huge impact when combined.",
+    "soundmark": "/ɔːlˈðoʊ ˌɪndɪˈvɪdʒuəl ˈefərts siːm smɔːl ðeɪ kæn kriˈeɪt ə hjuːdʒ ˈɪmpækt wen kəmˈbaɪnd/"
+  },
+  {
+    "chinese": "政府已经采取了许多措施来保护环境，但污染仍然很严重。",
+    "english": "Although the government has taken measures, pollution is still serious.",
+    "soundmark": "/ɔːlˈðoʊ ðə ˈɡʌvərnmənt həz ˈteɪkən ˈmeʒərz pəˈluːʃn ɪz stɪl ˈsɪriəs/"
+  },
+  {
+    "chinese": "只要我们不放弃希望，就一定能为子孙后代留下一个美好的地球。",
+    "english": "As long as we do not give up hope, we will surely leave a beautiful earth for future generations.",
+    "soundmark": "/æz lɒŋ æz wiː duː nɒt ɡɪv ʌp hoʊp wiː wɪl ˈʃʊrli liːv ə ˈbjuːtɪfl ɜːrθ fɔːr ˈfjuːtʃər ˌdʒenəˈreɪʃnz/"
+  },
+  {
+    "chinese": "不仅动物需要清洁的环境，人类也同样依赖健康的生态系统。",
+    "english": "Not only do animals need a clean environment, but humans also depend on healthy ecosystems.",
+    "soundmark": "/nɒt ˈoʊnli duː ˈænɪmlz niːd ə kliːn ɪnˈvaɪrənmənt bʌt ˈhjuːmənz ˈɔːlsoʊ dɪˈpend ɒn ˈhelθi ˈiːkoʊsɪstəmz/"
+  },
+  {
+    "chinese": "无论贫富，每个人都有权利享受清洁的空气和水源。",
+    "english": "Whether rich or poor, everyone has the right to enjoy clean air and water.",
+    "soundmark": "/ˈweðər rɪtʃ ɔːr pɔːr ˈevriwʌn həz ðə raɪt tuː ɪnˈdʒɔɪ kliːn er ænd ˈwɔːtər/"
+  },
+  {
+    "chinese": "如果人类继续破坏自然，地球将不再适合居住。",
+    "english": "If humans continue to destroy nature, the earth will no longer be habitable.",
+    "soundmark": "/ɪf ˈhjuːmənz kənˈtɪnjuː tuː dɪˈstrɔɪ ˈneɪtʃər ðiː ɜːrθ wɪl ˈnoʊ ˈlɒŋər biː ˈhæbɪtəbl/"
+  },
+  {
+    "chinese": "因为沙漠化不断扩张，撒哈拉以南非洲正面临粮食危机。",
+    "english": "Because desertification continues to expand, sub-Saharan Africa is facing a food crisis.",
+    "soundmark": "/bɪˈkɒz dɪˌzɜːrtɪfɪˈkeɪʃn kənˈtɪnjuːz tuː ɪkˈspænd sʌb səˈhɑːrən ˈæfrɪkə ɪz ˈfeɪsɪŋ ə fuːd ˈkraɪsɪs/"
+  },
+  {
+    "chinese": "虽然海洋覆盖了地球表面的70%以上，但只有一小部分得到了有效保护。",
+    "english": "Although oceans cover more than 70% of the earth's surface, only a small portion is effectively protected.",
+    "soundmark": "/ɔːlˈðoʊ ˈoʊʃnz ˈkʌvər mɔːr ðæn ˈsevənti pərˈsent əv ðiː ɜːrθs ˈsɜːrfɪs ˈoʊnli ə smɔːl ˈpɔːrʃn ɪz ɪˈfektɪvli prəˈtektɪd/"
+  },
+  {
+    "chinese": "为了防止 further 环境恶化，联合国制定了可持续发展目标。",
+    "english": "In order to prevent further environmental deterioration, the United Nations set sustainable development goals.",
+    "soundmark": "/ɪn ˈɔːrdər tuː prɪˈvent ˈfɜːrðər ɪnˌvaɪrənˈmentl dɪˌtɪriəˈreɪʃn ðə juːˈnaɪtɪd ˈneɪʃnz set səˈsteɪnəbl dɪˈveləpmənt ɡoʊlz/"
+  },
+  {
+    "chinese": "当干旱持续数月时，农作物会大面积减产。",
+    "english": "When a drought lasts for months, crops will significantly decrease in yield.",
+    "soundmark": "/wen ə draʊt læsts fɔːr mʌnθs krɒps wɪl sɪɡˈnɪfɪkəntli dɪˈkriːs ɪn jiːld/"
+  },
+  {
+    "chinese": "因为过度捕捞，全球渔业资源正面临枯竭。",
+    "english": "Because of overfishing, global fishery resources are facing depletion.",
+    "soundmark": "/bɪˈkɒz əv ˌoʊvərˈfɪʃɪŋ ˈɡloʊbl ˈfɪʃəri ˈriːsɔːrsɪz ɑːr ˈfeɪsɪŋ dɪˈpliːʃn/"
+  },
+  {
+    "chinese": "即使可再生能源的成本在下降，传统能源仍然占据主导地位。",
+    "english": "Even though the cost of renewable energy is declining, traditional energy still dominates.",
+    "soundmark": "/ˈiːvən θoʊ ðə kɒst əv rɪˈnuːəbl ˈenərdʒi ɪz dɪˈklaɪnɪŋ trəˈdɪʃənl ˈenərdʒi stɪl ˈdɒmɪneɪts/"
+  },
+  {
+    "chinese": "只要坚持绿色发展理念，就能实现经济与环境的双赢。",
+    "english": "As long as we adhere to the concept of green development, we can achieve a win-win for economy and environment.",
+    "soundmark": "/æz lɒŋ æz wiː ədˈhɪr tuː ðə ˈkɒnsept əv ɡriːn dɪˈveləpmənt wiː kæn əˈtʃiːv ə wɪn wɪn fɔːr ɪˈkɒnəmi ænd ɪnˈvaɪrənmənt/"
+  },
+  {
+    "chinese": "当飓风来临时，沿海居民必须迅速撤离。",
+    "english": "When a hurricane approaches, coastal residents must evacuate quickly.",
+    "soundmark": "/wen ə ˈhɜːrɪkən əˈproʊtʃɪz ˈkoʊstl ˈrezɪdənts mʌst ɪˈvækjueɪt ˈkwɪkli/"
+  },
+  {
+    "chinese": "因为城市化进程加快，绿地面积正在逐年减少。",
+    "english": "Since urbanization is accelerating, green space is decreasing year by year.",
+    "soundmark": "/sɪns ˌɜːrbənaɪˈzeɪʃn ɪz əkˈseləreɪtɪŋ ɡriːn speɪs ɪz dɪˈkriːsɪŋ jɪr baɪ jɪr/"
+  },
+  {
+    "chinese": "如果我们不珍惜水资源，地球上最后一滴水将是人类的眼泪。",
+    "english": "If we do not cherish water resources, the last drop of water on earth will be human tears.",
+    "soundmark": "/ɪf wiː duː nɒt ˈtʃerɪʃ ˈwɔːtər ˈriːsɔːrsɪz ðə læst drɒp əv ˈwɔːtər ɒn ɜːrθ wɪl biː ˈhjuːmən tɪrz/"
+  },
+  {
+    "chinese": "自从工业化革命以来，人类对环境的影响急剧增加。",
+    "english": "Ever since the industrial revolution, the human impact on the environment has increased dramatically.",
+    "soundmark": "/ˈevər sɪns ðə ɪnˈdʌstriəl ˌrevəˈluːʃn ðə ˈhjuːmən ˈɪmpækt ɒn ðiː ɪnˈvaɪrənmənt həz ɪnˈkriːst drəˈmætɪkli/"
+  },
+  {
+    "chinese": "既然太阳能和风能已经成为可行的替代方案，我们就应该大力推广。",
+    "english": "Now that solar and wind energy have become viable alternatives, we should promote them vigorously.",
+    "soundmark": "/naʊ ðæt ˈsoʊlər ænd wɪnd ˈenərdʒi həv bɪˈkʌm ˈvaɪəbl ɔːlˈtɜːrnətɪvz wiː ʃʊd prəˈmoʊt ðəm ˈvɪɡərəsli/"
+  },
+  {
+    "chinese": "无论科技如何进步，人类都无法脱离自然而独立存在。",
+    "english": "No matter how advanced technology becomes, humans cannot exist independently of nature.",
+    "soundmark": "/noʊ ˈmætər haʊ ədˈvænst tekˈnɒlədʒi bɪˈkʌmz ˈhjuːmənz ˈkænɒt ɪɡˈzɪst ˌɪndɪˈpendəntli əv ˈneɪtʃər/"
+  },
+  {
+    "chinese": "当森林大火肆虐时，消防员冒着生命危险扑灭火焰。",
+    "english": "When forest fires rage, firefighters risk their lives to put out the flames.",
+    "soundmark": "/wen ˈfɒrɪst ˈfaɪərz reɪdʒ ˈfaɪərfaɪtərz rɪsk ðer laɪvz tuː pʊt aʊt ðə fleɪmz/"
+  },
+  {
+    "chinese": "虽然电动车技术取得了很大进步，但电池回收仍是一个挑战。",
+    "english": "Although electric vehicle technology has made great progress, battery recycling remains a challenge.",
+    "soundmark": "/ɔːlˈðoʊ ɪˈlektrɪk ˈviːɪkl tekˈnɒlədʒi həz meɪd ɡreɪt ˈprɒɡrəs ˈbætəri ˌriːˈsaɪklɪŋ rɪˈmeɪnz ə ˈtʃæləndʒ/"
+  },
+  {
+    "chinese": "如果海平面继续上升，许多沿海城市将面临被淹没的风险。",
+    "english": "If sea levels continue to rise, many coastal cities will face the risk of being submerged.",
+    "soundmark": "/ɪf siː ˈlevlz kənˈtɪnjuː tuː raɪz ˈmeni ˈkoʊstl ˈsɪtiz wɪl feɪs ðə rɪsk əv ˈbiːɪŋ səbˈmɜːrdʒd/"
+  },
+  {
+    "chinese": "因为食物链遭到破坏，整个生态系统都可能崩溃。",
+    "english": "Because the food chain has been disrupted, the entire ecosystem could collapse.",
+    "soundmark": "/bɪˈkɒz ðə fuːd tʃeɪn həz bɪn dɪsˈrʌptɪd ðiː ɪnˈtaɪər ˈiːkoʊsɪstəm kʊd kəˈlæps/"
+  },
+  {
+    "chinese": "为了减少食物浪费，许多国家开始推广堆肥技术。",
+    "english": "In order to reduce food waste, many countries have started promoting composting technology.",
+    "soundmark": "/ɪn ˈɔːrdər tuː rɪˈduːs fuːd weɪst ˈmeni ˈkʌntriz həv ˈstɑːrtɪd prəˈmoʊtɪŋ ˈkɒmpɒstɪŋ tekˈnɒlədʒi/"
+  },
+  {
+    "chinese": "当冰川融化速度加快时，全球淡水供应将受到威胁。",
+    "english": "When glaciers melt at a faster rate, the global freshwater supply will be threatened.",
+    "soundmark": "/wen ˈɡleɪʃərz melt æt ə ˈfæstər reɪt ðə ˈɡloʊbl ˈfreʃwɔːtər səˈplaɪ wɪl biː ˈθretnd/"
+  },
+  {
+    "chinese": "虽然环保意识在提高，但许多人的实际行动仍然不够。",
+    "english": "Although environmental awareness is improving, many people's actual actions are still insufficient.",
+    "soundmark": "/ɔːlˈðoʊ ɪnˌvaɪrənˈmentl əˈwernəs ɪz ɪmˈpruːvɪŋ ˈmeni ˈpiːplz ˈæktʃuəl ˈækʃnz ɑːr stɪl ˌɪnsəˈfɪʃnt/"
+  },
+  {
+    "chinese": "因为PM2.5浓度过高，学校被迫停课。",
+    "english": "Because the PM2.5 concentration is too high, schools were forced to close.",
+    "soundmark": "/bɪˈkɒz ðiː piː em tuː pɔɪnt faɪv ˌkɒnsnˈtreɪʃn ɪz tuː haɪ skuːlz wɜːr fɔːrst tuː kloʊz/"
+  },
+  {
+    "chinese": "如果每个人都减少一次性塑料制品的使用，海洋污染将大大减轻。",
+    "english": "If everyone reduces the use of single-use plastics, marine pollution will be greatly reduced.",
+    "soundmark": "/ɪf ˈevriwʌn rɪˈduːsɪz ðə juːs əv ˈsɪŋɡl juːz ˈplæstɪks məˈriːn pəˈluːʃn wɪl biː ˈɡreɪtli rɪˈduːst/"
+  },
+  {
+    "chinese": "只要我们齐心协力，就没有解决不了的环境问题。",
+    "english": "As long as we work together, there is no environmental problem that cannot be solved.",
+    "soundmark": "/æz lɒŋ æz wiː wɜːrk təˈɡeðər ðer ɪz noʊ ɪnˌvaɪrənˈmentl ˈprɒbləm ðæt ˈkænɒt biː sɒlvd/"
+  },
+  {
+    "chinese": "由于热带雨林被称为地球之肺，保护它们至关重要。",
+    "english": "Since tropical rainforests are known as the lungs of the earth, protecting them is crucial.",
+    "soundmark": "/sɪns ˈtrɒpɪkl ˈreɪnfɔːrɪsts ɑːr noʊn æz ðə lʌŋz əv ðiː ɜːrθ prəˈtektɪŋ ðəm ɪz ˈkruːʃl/"
+  },
+  {
+    "chinese": "当火山喷发时，大量火山灰会进入大气层。",
+    "english": "When a volcano erupts, a large amount of volcanic ash enters the atmosphere.",
+    "soundmark": "/wen ə vɒlˈkeɪnoʊ ɪˈrʌpts ə lɑːrdʒ əˈmaʊnt əv vɒlˈkænɪk æʃ ˈentərz ðə ˈætməsfɪr/"
+  },
+  {
+    "chinese": "虽然环保组织提出了许多建议，但执行力度仍然不足。",
+    "english": "Although environmental organizations have made many suggestions, enforcement remains inadequate.",
+    "soundmark": "/ɔːlˈðoʊ ɪnˌvaɪrənˈmentl ˌɔːrɡənaɪˈzeɪʃnz həv meɪd ˈmeni sədʒˈdʒestʃnz ɪnˈfɔːrsmənt rɪˈmeɪnz ˌɪnˈædɪkwət/"
+  },
+  {
+    "chinese": "为了实现碳中和目标，中国承诺在2060年前大幅减少碳排放。",
+    "english": "In order to achieve the carbon neutrality goal, China pledged to significantly reduce carbon emissions by 2060.",
+    "soundmark": "/ɪn ˈɔːrdər tuː əˈtʃiːv ðə ˈkɑːrbən nuːˈtræləti ɡoʊl ˈtʃaɪnə pleɪdʒd tuː sɪɡˈnɪfɪkəntli rɪˈduːs ˈkɑːrbən ɪˈmɪʃnz baɪ tuː θaʊzənd ænd sɪksti/"
+  },
+  {
+    "chinese": "因为栖息地丧失和偷猎，非洲大象的数量在过去几十年急剧下降。",
+    "english": "Because of habitat loss and poaching, the number of African elephants has declined sharply in recent decades.",
+    "soundmark": "/bɪˈkɒz əv ˈhæbɪtæt lɒs ænd ˈpoʊtʃɪŋ ðə ˈnʌmbər əv ˈæfrɪkən ˈelɪfənts həz dɪˈklaɪnd ˈʃɑːrpli ɪn ˈriːsnt ˈdekeɪdz/"
+  },
+  {
+    "chinese": "当生态系统失去平衡时，人类也会受到牵连。",
+    "english": "When the ecosystem loses its balance, humans are also affected.",
+    "soundmark": "/wen ðiː ˈiːkoʊsɪstəm ˈluːzɪz ɪts ˈbæləns ˈhjuːmənz ɑːr ˈɔːlsoʊ əˈfektɪd/"
+  },
+  {
+    "chinese": "虽然有些国家在减排方面取得了进展，但全球整体形势依然严峻。",
+    "english": "Although some countries have made progress in emission reduction, the global situation remains grim.",
+    "soundmark": "/ɔːlˈðoʊ sʌm ˈkʌntriz həv meɪd ˈprɒɡrəs ɪn ɪˈmɪʃn rɪˈdʌkʃn ðə ˈɡloʊbl ˌsɪtʃuˈeɪʃn rɪˈmeɪnz ɡrɪm/"
+  },
+  {
+    "chinese": "如果每个人每天节约一度电，累积起来就是一个惊人的数字。",
+    "english": "If everyone saves one kilowatt-hour of electricity per day, the accumulated amount will be astonishing.",
+    "soundmark": "/ɪf ˈevriwʌn seɪvz wʌn ˈkɪloʊwɑːt aʊr əv ɪˌlekˈtrɪsəti pɜːr deɪ ðiː əˈkjuːmjəleɪtɪd əˈmaʊnt wɪl biː əˈstɒnɪʃɪŋ/"
+  },
+  {
+    "chinese": "因为过度开发导致水土流失，许多河流的含沙量大幅增加。",
+    "english": "Because overdevelopment has caused soil erosion, the sediment content of many rivers has increased significantly.",
+    "soundmark": "/bɪˈkɒz ˌoʊvərdɪˈveləpmənt həz kɔːzd sɔɪl ɪˈroʊʒn ðə ˈsedɪmənt ˈkɒntent əv ˈmeni ˈrɪvərz həz ɪnˈkriːst sɪɡˈnɪfɪkəntli/"
+  },
+  {
+    "chinese": "为了保护濒危的大熊猫，中国建立了许多自然保护区。",
+    "english": "In order to protect the endangered giant panda, China has established many nature reserves.",
+    "soundmark": "/ɪn ˈɔːrdər tuː prəˈtekt ðə ɪnˈdeɪndʒərd ˈdʒaɪənt ˈpændə ˈtʃaɪnə həz ɪˈstæblɪʃt ˈmeni ˈneɪtʃər rɪˈzɜːrvz/"
+  },
+  {
+    "chinese": "虽然个人力量有限，但每个人的环保行动都是至关重要的。",
+    "english": "Although individual power is limited, everyone's environmental action is essential.",
+    "soundmark": "/ɔːlˈðoʊ ˌɪndɪˈvɪdʒuəl ˈpaʊər ɪz ˈlɪmɪtɪd ˈevriwʌnz ɪnˌvaɪrənˈmentl ˈækʃn ɪz ɪˈsenʃl/"
+  },
+  {
+    "chinese": "当人类不断向海洋倾倒废弃物时，海洋生物的健康受到严重威胁。",
+    "english": "When humans keep dumping waste into the ocean, the health of marine life is seriously threatened.",
+    "soundmark": "/wen ˈhjuːmənz kiːp ˈdʌmpɪŋ weɪst ˈɪntuː ðə ˈoʊʃən ðə helθ əv məˈriːn laɪf ɪz ˈsɪriəsli ˈθretnd/"
+  },
+  {
+    "chinese": "除非我们立即停止破坏性行为，否则地球将无法恢复。",
+    "english": "Unless we immediately stop destructive behavior, the earth will not be able to recover.",
+    "soundmark": "/ənˈles wiː ɪˈmiːdiətli stɒp dɪˈstrʌktɪv bɪˈheɪvjər ðiː ɜːrθ wɪl nɒt biː eɪbl tuː rɪˈkʌvər/"
+  },
+  {
+    "chinese": "因为城市化加速，城市热岛效应变得越来越明显。",
+    "english": "Because urbanization is accelerating, the urban heat island effect is becoming more obvious.",
+    "soundmark": "/bɪˈkɒz ˌɜːrbənaɪˈzeɪʃn ɪz əkˈseləreɪtɪŋ ðə ˈɜːrbən hiːt ˈaɪlənd ɪˈfekt ɪz bɪˈkʌmɪŋ mɔːr ˈɒbviəs/"
+  },
+  {
+    "chinese": "如果我们不控制温室气体排放，地球平均温度将上升两度以上。",
+    "english": "If we do not control greenhouse gas emissions, the earth's average temperature will rise by more than two degrees.",
+    "soundmark": "/ɪf wiː duː nɒt kənˈtroʊl ˈɡriːnhaʊs ɡæs ɪˈmɪʃnz ðiː ɜːrθs ˈævərɪdʒ ˈtemprətʃər wɪl raɪz baɪ mɔːr ðæn tuː dɪˈɡriːz/"
+  },
+  {
+    "chinese": "正如一棵树不能成林，一个人的力量也不足以改变世界。",
+    "english": "Just as one tree does not make a forest, one person's strength is not enough to change the world.",
+    "soundmark": "/dʒʌst æz wʌn triː dʌz nɒt meɪk ə ˈfɒrɪst wʌn ˈpɜːrsənz streŋθ ɪz nɒt ɪˈnʌf tuː tʃeɪndʒ ðə wɜːrld/"
+  },
+  {
+    "chinese": "在石油资源枯竭之前，我们必须大力发展清洁能源。",
+    "english": "Before oil resources run out, we must vigorously develop clean energy.",
+    "soundmark": "/bɪˈfɔːr ɔɪl ˈriːsɔːrsɪz rʌn aʊt wiː mʌst ˈvɪɡərəsli dɪˈveləp kliːn ˈenərdʒi/"
+  },
+  {
+    "chinese": "虽然发达国家在历史上排放了最多的温室气体，但发展中国家也面临减排压力。",
+    "english": "Although developed countries historically emitted the most greenhouse gases, developing countries also face pressure to reduce emissions.",
+    "soundmark": "/ɔːlˈðoʊ dɪˈveləpt ˈkʌntriz hɪˈstɒrɪkli ɪˈmɪtɪd ðə moʊst ˈɡriːnhaʊs ɡæsɪz dɪˈveləpɪŋ ˈkʌntriz ˈɔːlsoʊ feɪs ˈpreʃər tuː rɪˈduːs ɪˈmɪʃnz/"
+  },
+  {
+    "chinese": "当夜空不再被光污染遮蔽时，我们才能看到美丽的星空。",
+    "english": "Only when the night sky is no longer obscured by light pollution can we see the beautiful starry sky.",
+    "soundmark": "/ˈoʊnli wen ðə naɪt skaɪ ɪz ˈnoʊ ˈlɒŋər əbˈskjʊrd baɪ laɪt pəˈluːʃn kæn wiː siː ðə ˈbjuːtɪfl ˈstɑːri skaɪ/"
+  },
+  {
+    "chinese": "因为噪音污染被忽视的时间太久了，城市居民的健康受到了严重影响。",
+    "english": "Because noise pollution has been ignored for too long, urban residents' health has been seriously affected.",
+    "soundmark": "/bɪˈkɒz nɔɪz pəˈluːʃn həz bɪn ɪɡˈnɔːrd fɔːr tuː lɒŋ ˈɜːrbən ˈrezɪdənts helθ həz bɪn ˈsɪriəsli əˈfektɪd/"
+  },
+  {
+    "chinese": "当我们在享受现代生活便利的同时，也不应忘记保护自然环境。",
+    "english": "While we enjoy the convenience of modern life, we should not forget to protect the natural environment.",
+    "soundmark": "/waɪl wiː ɪnˈdʒɔɪ ðə kənˈviːniəns əv ˈmɒdərn laɪf wiː ʃʊd nɒt fərˈɡet tuː prəˈtekt ðə ˈnætʃrəl ɪnˈvaɪrənmənt/"
+  },
+  {
+    "chinese": "如果海洋温度持续升高，珊瑚礁将会大面积白化死亡。",
+    "english": "If ocean temperatures continue to rise, coral reefs will suffer mass bleaching and die off.",
+    "soundmark": "/ɪf ˈoʊʃən ˈtemprətʃərz kənˈtɪnjuː tuː raɪz ˈkɒrəl riːfs wɪl ˈsʌfər mæs ˈbliːtʃɪŋ ænd daɪ ɒf/"
+  },
+  {
+    "chinese": "既然每个人都是地球村的一员，保护环境就是每个人的责任。",
+    "english": "Since everyone is a member of the global village, protecting the environment is everyone's responsibility.",
+    "soundmark": "/sɪns ˈevriwʌn ɪz ə ˈmembər əv ðə ˈɡloʊbl ˈvɪlɪdʒ prəˈtektɪŋ ðiː ɪnˈvaɪrənmənt ɪz ˈevriwʌnz rɪsˌpɒnsəˈbɪləti/"
+  },
+  {
+    "chinese": "当工厂排放未经处理的废水时，下游居民的健康会受到危害。",
+    "english": "When factories discharge untreated wastewater, the health of downstream residents is endangered.",
+    "soundmark": "/wen ˈfæktəriz dɪsˈtʃɑːrdʒ ʌnˈtriːtɪd ˈwɔːstərwɔːtər ðə helθ əv ˌdaʊnˈstriːm ˈrezɪdənts ɪz ɪnˈdeɪndʒərd/"
+  },
+  {
+    "chinese": "虽然中国在植树造林方面取得了显著成就，但荒漠化治理仍需持续努力。",
+    "english": "Although China has achieved remarkable results in afforestation, desertification control still requires sustained effort.",
+    "soundmark": "/ɔːlˈðoʊ ˈtʃaɪnə həz əˈtʃiːvd rɪˈmɑːrkəbl rɪˈzʌlts ɪn əˌfɒrɪˈsteɪʃn ˌdezərtɪfɪˈkeɪʃn kənˈtroʊl stɪl rɪˈkwaɪəz səˈsteɪnd ˈefərt/"
+  },
+  {
+    "chinese": "为了保护海洋生态系统，许多国家禁止在近海进行石油勘探。",
+    "english": "In order to protect marine ecosystems, many countries have banned offshore oil exploration.",
+    "soundmark": "/ɪn ˈɔːrdər tuː prəˈtekt məˈriːn ˈiːkoʊsɪstəmz ˈmeni ˈkʌntriz həv bænd ˈɔːfʃɔːr ɔɪl ˌekspləˈreɪʃn/"
+  },
+  {
+    "chinese": "当空气中的有害颗粒物浓度超过安全标准时，居民应减少户外活动。",
+    "english": "When the concentration of harmful particulate matter in the air exceeds safety standards, residents should reduce outdoor activities.",
+    "soundmark": "/wen ðə ˌkɒnsnˈtreɪʃn əv ˈhɑːrmfl pərˈtɪkjələt ˈmætər ɪn ðiː er ɪkˈsiːdz ˈseɪfti ˈstændərdz ˈrezɪdənts ʃʊd rɪˈduːs ˈaʊtdɔːr ækˈtɪvətiz/"
+  },
+  {
+    "chinese": "如果我们继续浪费水资源，地球上的淡水储备将面临枯竭。",
+    "english": "If we continue to waste water resources, the earth's freshwater reserves will face depletion.",
+    "soundmark": "/ɪf wiː kənˈtɪnjuː tuː weɪst ˈwɔːtər ˈriːsɔːrsɪz ðiː ɜːrθs ˈfreʃwɔːtər rɪˈzɜːrvz wɪl feɪs dɪˈpliːʃn/"
+  },
+  {
+    "chinese": "因为森林是重要的碳汇，砍伐森林会加剧气候变化。",
+    "english": "Because forests are important carbon sinks, deforestation will worsen climate change.",
+    "soundmark": "/bɪˈkɒz ˈfɒrɪsts ɑːr ɪmˈpɔːrtənt ˈkɑːrbən sɪŋks ˌdiːfɒrɪˈsteɪʃn wɪl ˈwɜːrsn ˈklaɪmət tʃeɪndʒ/"
+  },
+  {
+    "chinese": "当台风来袭时，沿海地区的防波堤和排水系统将接受严峻考验。",
+    "english": "When a typhoon strikes, the breakwaters and drainage systems in coastal areas will face a severe test.",
+    "soundmark": "/wen ə taɪˈfuːn straɪks ðə ˈbreɪkwɔːtərz ænd ˈdreɪnɪdʒ ˈsɪstəmz ɪn ˈkoʊstl ˈeriəz wɪl feɪs ə sɪˈvɪr test/"
+  },
+  {
+    "chinese": "虽然电动汽车比传统汽车更环保，但电池的生产过程也会产生污染。",
+    "english": "Although electric vehicles are more environmentally friendly than traditional cars, battery production also causes pollution.",
+    "soundmark": "/ɔːlˈðoʊ ɪˈlektrɪk ˈviːɪklz ɑːr mɔːr ɪnˌvaɪrənˈmentli ˈfrendli ðæn trəˈdɪʃənl kɑːrz ˈbætəri prəˈdʌkʃn ˈɔːlsoʊ ˈkɔːzɪz pəˈluːʃn/"
+  },
+  {
+    "chinese": "除非各国立即采取行动，否则《巴黎协定》的目标将无法实现。",
+    "english": "Unless countries take immediate action, the goals of the Paris Agreement will not be achieved.",
+    "soundmark": "/ənˈles ˈkʌntriz teɪk ɪˈmiːdiət ˈækʃn ðə ɡoʊlz əv ðə ˈpærɪs əˈɡriːmənt wɪl nɒt biː əˈtʃiːvd/"
+  },
+  {
+    "chinese": "当春天到来时，万物复苏，大自然展现出勃勃生机。",
+    "english": "When spring arrives, everything comes back to life and nature shows its vibrant vitality.",
+    "soundmark": "/wen sprɪŋ əˈraɪvz ˈevriθɪŋ kʌmz bæk tuː laɪf ænd ˈneɪtʃər ʃoʊz ɪts ˈvaɪbrənt vaɪˈtæləti/"
+  },
+  {
+    "chinese": "如果学生从小就接受环保教育，他们长大后就会养成绿色生活习惯。",
+    "english": "If students receive environmental education from a young age, they will develop green living habits when they grow up.",
+    "soundmark": "/ɪf ˈstjuːdənts rɪˈsiːv ɪnˌvaɪrənˈmentl ˌedʒuˈkeɪʃn frɒm ə jʌŋ eɪdʒ ðeɪ wɪl dɪˈveləp ɡriːn ˈlɪvɪŋ ˈhæbɪts wen ðeɪ ɡroʊ ʌp/"
+  },
+  {
+    "chinese": "因为食品包装过度使用塑料，超市成为白色污染的重要来源。",
+    "english": "Because food packaging uses too much plastic, supermarkets have become a major source of white pollution.",
+    "soundmark": "/bɪˈkɒz fuːd ˈpækɪdʒɪŋ juːz tuː mʌtʃ ˈplæstɪk ˈsuːpərmɑːrkɪts həv bɪˈkʌm ə ˈmeɪdʒər sɔːrs əv waɪt pəˈluːʃn/"
+  },
+  {
+    "chinese": "为了恢复被破坏的生态环境，科学家们正在研究生态修复技术。",
+    "english": "In order to restore the damaged ecological environment, scientists are researching ecological restoration technology.",
+    "soundmark": "/ɪn ˈɔːrdər tuː rɪˈstɔːr ðə ˈdæmɪdʒd ˌiːkəˈlɒdʒɪkl ɪnˈvaɪrənmənt ˈsaɪəntɪsts ɑːr rɪˈsɜːrtʃɪŋ ˌiːkəˈlɒdʒɪkl ˌrestəˈreɪʃn tekˈnɒlədʒi/"
+  },
+  {
+    "chinese": "虽然有机农业更有利于环境保护，但其产量往往低于传统农业。",
+    "english": "Although organic farming is more beneficial to environmental protection, its yield is often lower than that of traditional farming.",
+    "soundmark": "/ɔːlˈðoʊ ɔːrˈɡænɪk ˈfɑːrmɪŋ ɪz mɔːr ˌbenɪˈfɪʃl tuː ɪnˌvaɪrənˈmentl prəˈtekʃn ɪts jiːld ɪz ˈɒfən ˈloʊər ðæn ðæt əv trəˈdɪʃənl ˈfɑːrmɪŋ/"
+  },
+  {
+    "chinese": "当雾霾笼罩城市时，呼吸道疾病的发病率会显著上升。",
+    "english": "When smog envelops a city, the incidence of respiratory diseases rises significantly.",
+    "soundmark": "/wen smɒɡ ɪnˈveləps ə ˈsɪti ðə ˈɪnsɪdəns əv ˈrespərətɔːri dɪˈziːzɪz ˈraɪzɪz sɪɡˈnɪfɪkəntli/"
+  },
+  {
+    "chinese": "如果我们继续依赖化石燃料，清洁能源的发展就会受到阻碍。",
+    "english": "If we continue to rely on fossil fuels, the development of clean energy will be hindered.",
+    "soundmark": "/ɪf wiː kənˈtɪnjuː tuː rɪˈlaɪ ɒn ˈfɒsl ˈfjuːəlz ðə dɪˈveləpmənt əv kliːn ˈenərdʒi wɪl biː ˈhɪndərd/"
+  },
+  {
+    "chinese": "因为冰川融化释放了大量淡水，洋流模式正在发生改变。",
+    "english": "Because melting glaciers have released a large amount of freshwater, ocean current patterns are changing.",
+    "soundmark": "/bɪˈkɒz meltɪŋ ˈɡleɪʃərz həv rɪˈliːst ə lɑːrdʒ əˈmaʊnt əv ˈfreʃwɔːtər ˈoʊʃən ˈkɜːrənt ˈpætərnz ɑːr ˈtʃeɪndʒɪŋ/"
+  },
+  {
+    "chinese": "为了减少交通污染，政府鼓励市民乘坐公共交通工具出行。",
+    "english": "In order to reduce transportation pollution, the government encourages citizens to take public transit.",
+    "soundmark": "/ɪn ˈɔːrdər tuː rɪˈduːs ˌtrænspɔːrˈteɪʃn pəˈluːʃn ðə ˈɡʌvərnmənt ɪnˈkɜːrɪdʒɪz ˈsɪtɪzənz tuː teɪk ˈpʌblɪk ˈtrænZɪt/"
+  },
+  {
+    "chinese": "虽然每个人都知道保护环境的重要性，但真正付诸行动的人并不多。",
+    "english": "Although everyone knows the importance of environmental protection, not many people actually take action.",
+    "soundmark": "/ɔːlˈðoʊ ˈevriwʌn noʊz ðə ɪmˈpɔːrtəns əv ɪnˌvaɪrənˈmentl prəˈtekʃn nɒt ˈmeni ˈpiːpl ˈæktʃuəli teɪk ˈækʃn/"
+  },
+  {
+    "chinese": "当雨季提前到来时，农民们还没有做好播种的准备。",
+    "english": "When the rainy season arrives early, farmers have not yet prepared for sowing.",
+    "soundmark": "/wen ðə ˈreɪni ˈsiːzn əˈraɪvz ˈɜːrli ˈfɑːrmərz həv nɒt jet prɪˈpeərd fɔːr ˈsoʊɪŋ/"
+  },
+  {
+    "chinese": "如果我们希望地球保持宜居，就必须将全球升温控制在1.5度以内。",
+    "english": "If we want the earth to remain habitable, we must keep global warming within 1.5 degrees.",
+    "soundmark": "/ɪf wiː wɒnt ðiː ɜːrθ tuː rɪˈmeɪn ˈhæbɪtəbl wiː mʌst kiːp ˈɡloʊbl ˈwɔːrmɪŋ wɪˈðɪn wʌn pɔɪnt faɪv dɪˈɡriːz/"
+  },
+  {
+    "chinese": "因为生态旅游注重可持续性，它被认为是保护自然的有效途径。",
+    "english": "Because ecotourism focuses on sustainability, it is considered an effective way to protect nature.",
+    "soundmark": "/bɪˈkɒz ˌiːkoʊˈtʊrɪzəm ˈfoʊkəsɪz ɒn səˌsteɪnəˈbɪləti ɪt ɪz kənˈsɪdərd ən ɪˈfektɪv weɪ tuː prəˈtekt ˈneɪtʃər/"
+  },
+  {
+    "chinese": "当火山灰遮蔽阳光时，全球气温可能在短期内下降。",
+    "english": "When volcanic ash blocks sunlight, global temperatures may drop in the short term.",
+    "soundmark": "/wen vɒlˈkænɪk æʃ blɒks ˈsʌnlaɪt ˈɡloʊbl ˈtemprətʃərz meɪ drɒp ɪn ðə ʃɔːrt tɜːrm/"
+  },
+  {
+    "chinese": "虽然塑料回收率在提高，但大部分塑料最终仍然进入了填埋场。",
+    "english": "Although plastic recycling rates are improving, most plastic still ends up in landfills.",
+    "soundmark": "/ɔːlˈðoʊ ˈplæstɪk ˌriːˈsaɪklɪŋ reɪts ɑːr ɪmˈpruːvɪŋ moʊst ˈplæstɪk stɪl endz ʌp ɪn ˈlændfɪlz/"
+  },
+  {
+    "chinese": "为了降低能源消耗，新建建筑必须符合节能标准。",
+    "english": "In order to reduce energy consumption, new buildings must meet energy-saving standards.",
+    "soundmark": "/ɪn ˈɔːrdər tuː rɪˈduːs ˈenərdʒi kənˈsʌmpʃn njuː ˈbɪldɪŋz mʌst miːt ˈenərdʒi seɪvɪŋ ˈstændərdz/"
+  },
+  {
+    "chinese": "如果海洋酸化持续加剧，贝类和珊瑚将首当其冲受到影响。",
+    "english": "If ocean acidification continues to worsen, shellfish and corals will be the first to be affected.",
+    "soundmark": "/ɪf ˈoʊʃən əˌsɪdɪfɪˈkeɪʃn kənˈtɪnjuːz tuː ˈwɜːrsn ˈʃelfɪʃ ænd ˈkɒrəlz wɪl biː ðə fɜːrst tuː biː əˈfektɪd/"
+  },
+  {
+    "chinese": "因为在过去几十年中湿地面积大幅减少，许多候鸟失去了中途栖息地。",
+    "english": "Because wetland areas have decreased dramatically in recent decades, many migratory birds have lost their stopover habitats.",
+    "soundmark": "/bɪˈkɒz ˈwetlænd ˈeriəz həv dɪˈkriːst ˈdræmətɪkli ɪn ˈriːsnt ˈdekeɪdz ˈmeni ˈmaɪɡrətɔːri bɜːrdz həv lɒst ðer ˈstɒpoʊvər ˈhæbɪtæts/"
+  },
+  {
+    "chinese": "当大雪覆盖大地时，土壤中的水分会被保存到春天。",
+    "english": "When heavy snow covers the ground, moisture in the soil is preserved until spring.",
+    "soundmark": "/wen ˈhevi snoʊ ˈkʌvərz ðə ɡraʊnd ˈmɔɪstʃər ɪn ðə sɔɪl ɪz prɪˈzɜːrvd ənˈtɪl sprɪŋ/"
+  },
+  {
+    "chinese": "虽然核能不会产生温室气体，但核废料的安全处置仍然是一个难题。",
+    "english": "Although nuclear energy does not produce greenhouse gases, the safe disposal of nuclear waste remains a challenge.",
+    "soundmark": "/ɔːlˈðoʊ ˈnjuːkliər ˈenərdʒi dʌz nɒt prəˈduːs ˈɡriːnhaʊs ɡæsɪz ðə seɪf dɪˈspoʊzl əv ˈnjuːkliər weɪst rɪˈmeɪnz ə ˈtʃæləndʒ/"
+  },
+  {
+    "chinese": "如果我们不重视土壤保护，粮食安全将受到严重威胁。",
+    "english": "If we do not pay attention to soil protection, food security will be seriously threatened.",
+    "soundmark": "/ɪf wiː duː nɒt peɪ əˈtenʃn tuː sɔɪl prəˈtekʃn fuːd sɪˈkjʊrəti wɪl biː ˈsɪriəsli ˈθretnd/"
+  },
+  {
+    "chinese": "因为水资源分布不均，一些地区常年遭受旱灾，而另一些地区却洪水频发。",
+    "english": "Because water resources are unevenly distributed, some areas suffer from drought year-round while others experience frequent floods.",
+    "soundmark": "/bɪˈkɒz ˈwɔːtər ˈriːsɔːrsɪz ɑːr ənˈiːvənli ˈdɪstrɪbjuːtɪd sʌm ˈeriəz ˈsʌfər frɒm draʊt jɪr raʊnd waɪl ˈʌðərz ɪkˈspɪriəns ˈfriːkwənt flʌdz/"
+  },
+  {
+    "chinese": "为了减缓气候变化的影响，各国应加大对绿色技术的投资。",
+    "english": "In order to mitigate the impact of climate change, countries should increase investment in green technology.",
+    "soundmark": "/ɪn ˈɔːrdər tuː ˈmɪtɪɡeɪt ðə ˈɪmpækt əv ˈklaɪmət tʃeɪndʒ ˈkʌntriz ʃʊd ɪnˈkriːs ɪnˈvestmənt ɪn ɡriːn tekˈnɒlədʒi/"
+  },
+  {
+    "chinese": "当闪电击中干燥的森林时，可能会引发大规模的森林火灾。",
+    "english": "When lightning strikes a dry forest, it may trigger a large-scale forest fire.",
+    "soundmark": "/wen ˈlaɪtnɪŋ straɪks ə draɪ ˈfɒrɪst ɪt meɪ ˈtrɪɡər ə lɑːrdʒ skeɪl ˈfɒrɪst ˈfaɪər/"
+  },
+  {
+    "chinese": "虽然垃圾分类在许多城市已经推广，但公众的参与度仍有待提高。",
+    "english": "Although garbage sorting has been promoted in many cities, public participation still needs to be improved.",
+    "soundmark": "/ɔːlˈðoʊ ˈɡɑːrbɪdʒ ˈsɔːrtɪŋ həz bɪn prəˈmoʊtɪd ɪn ˈmeni ˈsɪtiz ˈpʌblɪk pɑːrˌtɪsɪˈpeɪʃn stɪl niːdz tuː biː ɪmˈpruːvd/"
+  },
+  {
+    "chinese": "如果我们不珍惜每一滴水和每一度电，资源浪费将达到不可接受的水平。",
+    "english": "If we do not cherish every drop of water and every unit of electricity, resource waste will reach an unacceptable level.",
+    "soundmark": "/ɪf wiː duː nɒt ˈtʃerɪʃ ˈevri drɒp əv ˈwɔːtər ænd ˈevri ˈjuːnɪt əv ɪˌlekˈtrɪsəti ˈriːsɔːrs weɪst wɪl riːtʃ ən ˌʌnəkˈseptəbl ˈlevl/"
+  },
+  {
+    "chinese": "因为非法采伐活动猖獗，亚马逊雨林正在以惊人的速度消失。",
+    "english": "Because illegal logging is rampant, the Amazon rainforest is disappearing at an alarming rate.",
+    "soundmark": "/bɪˈkɒz ɪˈliːɡl ˈlɒɡɪŋ ɪz ˈræmpənt ðə ˈæməzɒn ˈreɪnfɔːrɪst ɪz ˌdɪsəˈpɪərɪŋ æt ən əˈlɑːrmɪŋ reɪt/"
+  },
+  {
+    "chinese": "当物种灭绝的速度超过自然恢复的速度时，地球正经历第六次大灭绝。",
+    "english": "When species go extinct faster than they can naturally recover, the earth is experiencing its sixth mass extinction.",
+    "soundmark": "/wen ˈspiːʃiːz ɡoʊ ɪkˈstɪŋkt ˈfæstər ðæn ðeɪ kæn ˈnætʃrəli rɪˈkʌvər ðiː ɜːrθ ɪz ɪkˈspɪriənsɪŋ ɪts sɪksθ mæs ɪkˈstɪŋkʃn/"
+  },
+  {
+    "chinese": "虽然骑行和步行是最环保的出行方式，但在大城市中推广仍面临挑战。",
+    "english": "Although cycling and walking are the most environmentally friendly ways to travel, promoting them in big cities still faces challenges.",
+    "soundmark": "/ɔːlˈðoʊ ˈsaɪklɪŋ ænd ˈwɔːkɪŋ ɑːr ðə moʊst ɪnˌvaɪrənˈmentli ˈfrendli weɪz tuː ˈtrævl prəˈmoʊtɪŋ ðəm ɪn bɪɡ ˈsɪtiz stɪl feɪz ˈtʃæləndʒɪz/"
+  },
+  {
+    "chinese": "为了保护地下水免受污染，工业废水必须经过严格处理才能排放。",
+    "english": "In order that groundwater can be protected from pollution, industrial wastewater must be strictly treated before discharge.",
+    "soundmark": "/ɪn ˈɔːrdər ðæt ˈɡraʊndwɔːtər kæn biː prəˈtektɪd frɒm pəˈluːʃn ɪnˈdʌstriəl ˈwɔːstərwɔːtər mʌst biː ˈstrɪktli ˈtriːtɪd bɪˈfɔːr dɪsˈtʃɑːrdʒ/"
+  },
+  {
+    "chinese": "当空气质量指数达到危险水平时，学校应当取消户外体育活动。",
+    "english": "When the air quality index reaches dangerous levels, schools should cancel outdoor sports activities.",
+    "soundmark": "/wen ðiː er ˈkwɒləti ˈɪndeks ˈriːtʃɪz ˈdeɪndʒərəs ˈlevlz skuːlz ʃʊd ˈkænsl ˈaʊtdɔːr spɔːrts ækˈtɪvətiz/"
+  }
+]

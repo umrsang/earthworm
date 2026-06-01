@@ -1,0 +1,726 @@
+[
+  { "chinese": "就业", "english": "employment", "soundmark": "/ɪmˈplɔɪmənt/" },
+  { "chinese": "职业", "english": "career", "soundmark": "/kəˈrɪr/" },
+  { "chinese": "工作", "english": "job", "soundmark": "/dʒɒb/" },
+  { "chinese": "职业的", "english": "professional", "soundmark": "/prəˈfeʃənl/" },
+  { "chinese": "简历", "english": "resume", "soundmark": "/ˈrezjumeɪ/" },
+  { "chinese": "面试", "english": "interview", "soundmark": "/ˈɪntərvjuː/" },
+  { "chinese": "申请", "english": "apply", "soundmark": "/əˈplaɪ/" },
+  { "chinese": "录用", "english": "hire", "soundmark": "/ˈhaɪər/" },
+  { "chinese": "老板", "english": "boss", "soundmark": "/bɒs/" },
+  { "chinese": "同事", "english": "colleague", "soundmark": "/ˈkɒliːɡ/" },
+  { "chinese": "薪水", "english": "salary", "soundmark": "/ˈsæləri/" },
+  { "chinese": "工资", "english": "wage", "soundmark": "/weɪdʒ/" },
+  { "chinese": "收入", "english": "income", "soundmark": "/ˈɪnkʌm/" },
+  { "chinese": "经验", "english": "experience", "soundmark": "/ɪkˈspɪəriəns/" },
+  { "chinese": "技能", "english": "skill", "soundmark": "/skɪl/" },
+  { "chinese": "能力", "english": "ability", "soundmark": "/əˈbɪləti/" },
+  { "chinese": "资格", "english": "qualification", "soundmark": "/ˌkwɒlɪfɪˈkeɪʃn/" },
+  { "chinese": "晋升", "english": "promotion", "soundmark": "/prəˈməʊʃn/" },
+  { "chinese": "辞职", "english": "resign", "soundmark": "/rɪˈzaɪn/" },
+  { "chinese": "解雇", "english": "dismiss", "soundmark": "/dɪsˈmɪs/" },
+  { "chinese": "职位", "english": "position", "soundmark": "/pəˈzɪʃn/" },
+  { "chinese": "行业", "english": "industry", "soundmark": "/ˈɪndəstri/" },
+  { "chinese": "部门", "english": "department", "soundmark": "/dɪˈpɑːtmənt/" },
+  { "chinese": "公司", "english": "company", "soundmark": "/ˈkʌmpəni/" },
+  { "chinese": "企业", "english": "enterprise", "soundmark": "/ˈentəpraɪz/" },
+  { "chinese": "劳动", "english": "labor", "soundmark": "/ˈleɪbər/" },
+  { "chinese": "合同", "english": "contract", "soundmark": "/ˈkɒntrækt/" },
+  { "chinese": "表现", "english": "performance", "soundmark": "/pəˈfɔːrməns/" },
+  { "chinese": "培训", "english": "training", "soundmark": "/ˈtreɪnɪŋ/" },
+  { "chinese": "退休", "english": "retire", "soundmark": "/rɪˈtaɪər/" },
+  { "chinese": "福利", "english": "benefit", "soundmark": "/ˈbenɪfɪt/" },
+  { "chinese": "责任", "english": "responsibility", "soundmark": "/rɪˌspɒnsəˈbɪləti/" },
+  { "chinese": "效率", "english": "efficiency", "soundmark": "/ɪˈfɪʃnsi/" },
+  { "chinese": "动机", "english": "motivation", "soundmark": "/ˌməʊtɪˈveɪʃn/" },
+  { "chinese": "野心", "english": "ambition", "soundmark": "/æmˈbɪʃn/" },
+  { "chinese": "机会", "english": "opportunity", "soundmark": "/ˌɒpəˈtjuːnəti/" },
+  { "chinese": "挑战", "english": "challenge", "soundmark": "/ˈtʃælɪndʒ/" },
+  { "chinese": "压力", "english": "pressure", "soundmark": "/ˈpreʃər/" },
+  { "chinese": "成就", "english": "achievement", "soundmark": "/əˈtʃiːvmənt/" },
+  { "chinese": "成功", "english": "success", "soundmark": "/səkˈses/" },
+  { "chinese": "失败", "english": "failure", "soundmark": "/ˈfeɪljər/" },
+  { "chinese": "协作", "english": "cooperation", "soundmark": "/kəʊˌɒpəˈreɪʃn/" },
+  { "chinese": "沟通", "english": "communication", "soundmark": "/kəˌmjuːnɪˈkeɪʃn/" },
+  { "chinese": "推荐", "english": "recommendation", "soundmark": "/ˌrekəmenˈdeɪʃn/" },
+  { "chinese": "招聘", "english": "recruit", "soundmark": "/rɪˈkruːt/" },
+  { "chinese": "竞争", "english": "competition", "soundmark": "/ˌkɒmpəˈtɪʃn/" },
+  { "chinese": "面试官", "english": "interviewer", "soundmark": "/ˈɪntərvjuːər/" },
+  { "chinese": "候选人", "english": "candidate", "soundmark": "/ˈkændɪdət/" },
+  { "chinese": "求职者", "english": "applicant", "soundmark": "/ˈæplɪkənt/" },
+  { "chinese": "雇主", "english": "employer", "soundmark": "/ɪmˈplɔɪər/" },
+  { "chinese": "雇员", "english": "employee", "soundmark": "/ɪmˈplɔɪiː/" },
+  { "chinese": "专业领域", "english": "field", "soundmark": "/fiːld/" },
+  { "chinese": "职业规划", "english": "career planning", "soundmark": "/kəˈrɪr ˈplænɪŋ/" },
+  { "chinese": "求职", "english": "job hunting", "soundmark": "/dʒɒb ˈhʌntɪŋ/" },
+  { "chinese": "工作经验", "english": "work experience", "soundmark": "/wɜːrk ɪkˈspɪəriəns/" },
+  { "chinese": "工作技能", "english": "job skills", "soundmark": "/dʒɒb skɪlz/" },
+  { "chinese": "团队协作", "english": "teamwork", "soundmark": "/ˈtiːmwɜːrk/" },
+  { "chinese": "职业发展", "english": "career development", "soundmark": "/kəˈrɪr dɪˈveləpmənt/" },
+  { "chinese": "劳动权益", "english": "labor rights", "soundmark": "/ˈleɪbər raɪts/" },
+  { "chinese": "面试技巧", "english": "interview skills", "soundmark": "/ˈɪntərvjuː skɪlz/" },
+  { "chinese": "办公室", "english": "office", "soundmark": "/ˈɒfɪs/" },
+  { "chinese": "管理层", "english": "management", "soundmark": "/ˈmænɪdʒmənt/" },
+  { "chinese": "项目", "english": "project", "soundmark": "/ˈprɒdʒekt/" },
+  { "chinese": "任务", "english": "task", "soundmark": "/tɑːsk/" },
+  { "chinese": "截止日期", "english": "deadline", "soundmark": "/ˈdedlaɪn/" },
+  { "chinese": "加班", "english": "overtime", "soundmark": "/ˈəʊvərtaɪm/" },
+  { "chinese": "通勤", "english": "commute", "soundmark": "/kəˈmjuːt/" },
+  { "chinese": "兼职", "english": "part-time", "soundmark": "/pɑːrt taɪm/" },
+  { "chinese": "全职", "english": "full-time", "soundmark": "/fʊl taɪm/" },
+  { "chinese": "自由职业", "english": "freelance", "soundmark": "/ˈfriːlæns/" },
+  { "chinese": "实习", "english": "internship", "soundmark": "/ˈɪntɜːrnʃɪp/" },
+  { "chinese": "社交网络", "english": "networking", "soundmark": "/ˈnetwɜːrkɪŋ/" },
+  { "chinese": "自信的", "english": "confident", "soundmark": "/ˈkɒnfɪdənt/" },
+  { "chinese": "积极的", "english": "positive", "soundmark": "/ˈpɒzətɪv/" },
+  { "chinese": "适应力强的", "english": "adaptable", "soundmark": "/əˈdæptəbl/" },
+  { "chinese": "可靠的", "english": "reliable", "soundmark": "/rɪˈlaɪəbl/" },
+  { "chinese": "勤奋的", "english": "diligent", "soundmark": "/ˈdɪlɪdʒənt/" },
+  { "chinese": "富有创造力的", "english": "creative", "soundmark": "/kriˈeɪtɪv/" },
+  {
+    "chinese": "他申请了一份新工作",
+    "english": "He applied for a new job",
+    "soundmark": "/hiː əˈplaɪd fɔːr ə njuː dʒɒb/"
+  },
+  {
+    "chinese": "她通过了面试",
+    "english": "She passed the interview",
+    "soundmark": "/ʃiː pɑːst ðə ˈɪntərvjuː/"
+  },
+  {
+    "chinese": "我需要更新简历",
+    "english": "I need to update my resume",
+    "soundmark": "/aɪ niːd tuː ʌpˈdeɪt maɪ ˈrezjumeɪ/"
+  },
+  {
+    "chinese": "他获得了一份高薪职位",
+    "english": "He got a well-paid position",
+    "soundmark": "/hiː ɡɒt ə wel peɪd pəˈzɪʃn/"
+  },
+  {
+    "chinese": "她在那家公司工作了五年",
+    "english": "She has worked in that company for five years",
+    "soundmark": "/ʃiː hæz wɜːrkt ɪn ðæt ˈkʌmpəni fɔːr faɪv jɪərz/"
+  },
+  {
+    "chinese": "团队合作至关重要",
+    "english": "Teamwork is essential",
+    "soundmark": "/ˈtiːmwɜːrk ɪz ɪˈsenʃl/"
+  },
+  {
+    "chinese": "良好的沟通能提高效率",
+    "english": "Good communication improves efficiency",
+    "soundmark": "/ɡʊd kəˌmjuːnɪˈkeɪʃn ɪmˈpruːvz ɪˈfɪʃnsi/"
+  },
+  {
+    "chinese": "他被提升为部门经理",
+    "english": "He was promoted to department manager",
+    "soundmark": "/hiː wɒz prəˈməʊtɪd tuː dɪˈpɑːtmənt ˈmænɪdʒər/"
+  },
+  {
+    "chinese": "她决定辞职创业",
+    "english": "She decided to resign and start her own business",
+    "soundmark": "/ʃiː dɪˈsaɪdɪd tuː rɪˈzaɪn ænd stɑːrt hɜːr əʊn ˈbɪznəs/"
+  },
+  {
+    "chinese": "如果你是我，你会接受这份工作邀请吗",
+    "english": "If you were me, would you accept this job offer",
+    "soundmark": "/ɪf juː wɜːr miː, wʊd juː əkˈsept ðɪs dʒɒb ˈɒfər/"
+  },
+  {
+    "chinese": "如果他准备充分，他就会通过面试",
+    "english": "If he had prepared well, he would have passed the interview",
+    "soundmark": "/ɪf hiː hæd prɪˈpeərd wel, hiː wʊd hæv pɑːst ðə ˈɪntərvjuː/"
+  },
+  {
+    "chinese": "经理建议大家都参加会议",
+    "english": "The manager suggested that everyone should attend the meeting",
+    "soundmark": "/ðə ˈmænɪdʒə səˈdʒestɪd ðæt ˈevriwʌn ʃʊd əˈtend ðə ˈmiːtɪŋ/"
+  },
+  {
+    "chinese": "没有努力工作，你不会取得成功",
+    "english": "Without hard work, you would not achieve success",
+    "soundmark": "/wɪˈðaʊt hɑːrd wɜːrk, juː wʊd nɒt əˈtʃiːv səkˈses/"
+  },
+  {
+    "chinese": "要是我早点知道，我就申请那个职位了",
+    "english": "Had I known earlier, I would have applied for that position",
+    "soundmark": "/hæd aɪ nəʊn ˈɜːrliər, aɪ wʊd hæv əˈplaɪd fɔːr ðæt pəˈzɪʃn/"
+  },
+  {
+    "chinese": "我希望我在这个领域有更多经验",
+    "english": "I wish I had more experience in this field",
+    "soundmark": "/aɪ wɪʃ aɪ hæd mɔːr ɪkˈspɪəriəns ɪn ðɪs fiːld/"
+  },
+  {
+    "chinese": "公司要求所有员工遵守安全规定",
+    "english": "The company demands that all employees follow safety rules",
+    "soundmark": "/ðə ˈkʌmpəni dɪˈmɑːndz ðæt ɔːl ɪmˈplɔɪiːz ˈfɒləʊ ˈseɪfti ruːlz/"
+  },
+  {
+    "chinese": "委员会坚持立即采取行动",
+    "english": "The committee insisted that immediate action be taken",
+    "soundmark": "/ðə kəˈmɪti ɪnˈsɪstɪd ðæt ɪˈmiːdiət ˈækʃn biː ˈteɪkən/"
+  },
+  {
+    "chinese": "我强烈建议你接受这份录用通知",
+    "english": "I strongly recommend that you accept the job offer",
+    "soundmark": "/aɪ ˈstrɒŋli ˌrekəˈmend ðæt juː əkˈsept ðə dʒɒb ˈɒfər/"
+  },
+  {
+    "chinese": "雇主坚持新合同下周签署",
+    "english": "The employer insisted that the new contract be signed next week",
+    "soundmark": "/ði ɪmˈplɔɪər ɪnˈsɪstɪd ðæt ðə njuː ˈkɒntrækt biː saɪnd nekst wiːk/"
+  },
+  {
+    "chinese": "如果他明天来面试，我会通知你的",
+    "english": "If he were to come for the interview tomorrow, I would inform you",
+    "soundmark": "/ɪf hiː wɜːr tuː kʌm fɔːr ðə ˈɪntərvjuː təˈmɒrəʊ, aɪ wʊd ɪnˈfɔːrm juː/"
+  },
+  {
+    "chinese": "要不是你的帮助，我不可能获得这份工作",
+    "english": "But for your help, I could not have got this job",
+    "soundmark": "/bʌt fɔːr jɔːr hɛlp, aɪ kʊd nɒt hæv ɡɒt ðɪs dʒɒb/"
+  },
+  {
+    "chinese": "建议学生尽早开始职业规划",
+    "english": "It is recommended that students start career planning early",
+    "soundmark": "/ɪt ɪz ˌrekəˈmendɪd ðæt ˈstjuːdənts stɑːrt kəˈrɪr ˈplænɪŋ ˈɜːrli/"
+  },
+  {
+    "chinese": "要求每位员工每季度参加培训",
+    "english": "It is required that every employee attend training each quarter",
+    "soundmark": "/ɪt ɪz rɪˈkwaɪərd ðæt ˈevri ɪmˈplɔɪiː əˈtend ˈtreɪnɪŋ iːtʃ ˈkwɔːrtər/"
+  },
+  {
+    "chinese": "如果我是面试官，我会更关注实际能力",
+    "english": "If I were the interviewer, I would focus more on practical ability",
+    "soundmark": "/ɪf aɪ wɜːr ði ˈɪntərvjuːər, aɪ wʊd fəʊkəs mɔːr ɒn ˈpræktɪkl əˈbɪləti/"
+  },
+  {
+    "chinese": "要是她当初没有辞职，现在已经是经理了",
+    "english": "If she had not resigned, she would be a manager now",
+    "soundmark": "/ɪf ʃiː hæd nɒt rɪˈzaɪnd, ʃiː wʊd biː ə ˈmænɪdʒər naʊ/"
+  },
+  {
+    "chinese": "要是那时我有更多社交经验就好了",
+    "english": "If only I had more networking experience then",
+    "soundmark": "/ɪf ˈəʊnli aɪ hæd mɔːr ˈnetwɜːrkɪŋ ɪkˈspɪəriəns ðen/"
+  },
+  {
+    "chinese": "老板提议下周开一个团队建设会议",
+    "english": "The boss proposed that a team-building meeting be held next week",
+    "soundmark": "/ðə bɒs prəˈpəʊzd ðæt ə tiːm ˈbɪldɪŋ ˈmiːtɪŋ biː held nekst wiːk/"
+  },
+  {
+    "chinese": "如果没有团队合作，这个项目是不可能完成的",
+    "english": "Without teamwork, this project would have been impossible",
+    "soundmark": "/wɪˈðaʊt ˈtiːmwɜːrk, ðɪs ˈprɒdʒekt wʊd hæv biːn ɪmˈpɒsəbl/"
+  },
+  {
+    "chinese": "要是他更自信一些，面试表现会好得多",
+    "english": "Had he been more confident, he would have performed much better in the interview",
+    "soundmark": "/hæd hiː biːn mɔːr ˈkɒnfɪdənt, hiː wʊd hæv pəˈfɔːmd mʌtʃ ˈbetər ɪn ðə ˈɪntərvjuː/"
+  },
+  {
+    "chinese": "人力资源部门建议每位新员工接受入职培训",
+    "english": "The HR department suggested that every new employee receive onboarding training",
+    "soundmark": "/ði eɪtʃ ɑːr dɪˈpɑːtmənt səˈdʒestɪd ðæt ˈevri njuː ɪmˈplɔɪiː rɪˈsiːv ˈɒnbɔːrdɪŋ ˈtreɪnɪŋ/"
+  },
+  {
+    "chinese": "我希望我当初选择了不同的职业道路",
+    "english": "I wish I had chosen a different career path",
+    "soundmark": "/aɪ wɪʃ aɪ hæd ˈtʃəʊzn ə ˈdɪfrənt kəˈrɪr pɑːθ/"
+  },
+  {
+    "chinese": "如果没有互联网，找工作会困难得多",
+    "english": "Were there no internet, job hunting would be much more difficult",
+    "soundmark": "/wɜːr ðeər nəʊ ˈɪntərnet, dʒɒb ˈhʌntɪŋ wʊd biː mʌtʃ mɔːr ˈdɪfɪkəlt/"
+  },
+  {
+    "chinese": "委员会建议公司改善员工福利",
+    "english": "The committee recommended that the company improve employee benefits",
+    "soundmark": "/ðə kəˈmɪti ˌrekəˈmendɪd ðæt ðə ˈkʌmpəni ɪmˈpruːv ɪmˈplɔɪiː ˈbenɪfɪts/"
+  },
+  {
+    "chinese": "法律要求雇主为员工缴纳社会保险",
+    "english": "The law requires that employers pay social insurance for employees",
+    "soundmark": "/ðə lɔː rɪˈkwaɪərz ðæt ɪmˈplɔɪərz peɪ ˈsəʊʃl ɪnˈʃʊərəns fɔːr ɪmˈplɔɪiːz/"
+  },
+  {
+    "chinese": "要是公司提供远程办公就好了",
+    "english": "If only the company offered remote work options",
+    "soundmark": "/ɪf ˈəʊnli ðə ˈkʌmpəni ˈɒfərd rɪˈməʊt wɜːrk ˈɒpʃnz/"
+  },
+  {
+    "chinese": "如果没有那次实习经历，我不会得到这份全职工作",
+    "english": "Without that internship experience, I would not have got this full-time job",
+    "soundmark": "/wɪˈðaʊt ðæt ˈɪntɜːrnʃɪp ɪkˈspɪəriəns, aɪ wʊd nɒt hæv ɡɒt ðɪs fʊl taɪm dʒɒb/"
+  },
+  {
+    "chinese": "经理要求报告在周五前提交",
+    "english": "The manager demanded that the report be submitted by Friday",
+    "soundmark": "/ðə ˈmænɪdʒə dɪˈmɑːndɪd ðæt ðə rɪˈpɔːrt biː səbˈmɪtɪd baɪ ˈfraɪdeɪ/"
+  },
+  {
+    "chinese": "如果有机会，我会选择自由职业",
+    "english": "If I had the chance, I would choose to be a freelancer",
+    "soundmark": "/ɪf aɪ hæd ðə tʃɑːns, aɪ wʊd tʃuːz tuː biː ə ˈfriːlænsər/"
+  },
+  {
+    "chinese": "专家建议大学毕业生先积累工作经验",
+    "english": "It is advised that college graduates gain work experience first",
+    "soundmark": "/ɪt ɪz ədˈvaɪzd ðæt ˈkɒlɪdʒ ˈɡrædʒuəts ɡeɪn wɜːrk ɪkˈspɪəriəns fɜːrst/"
+  },
+  {
+    "chinese": "要是她不那么勤奋，不可能升得这么快",
+    "english": "Were she not so diligent, she could not have been promoted so quickly",
+    "soundmark": "/wɜːr ʃiː nɒt səʊ ˈdɪlɪdʒənt, ʃiː kʊd nɒt hæv biːn prəˈməʊtɪd səʊ ˈkwɪkli/"
+  },
+  {
+    "chinese": "我希望明年能找到理想的工作",
+    "english": "I wish I could find my ideal job next year",
+    "soundmark": "/aɪ wɪʃ aɪ kʊd faɪnd maɪ aɪˈdɪəl dʒɒb nekst jɪər/"
+  },
+  {
+    "chinese": "如果没有团队合作精神，很难在现代职场中取得成功",
+    "english": "Without a team spirit, it would be hard to succeed in the modern workplace",
+    "soundmark": "/wɪˈðaʊt ə tiːm ˈspɪrɪt, ɪt wʊd biː hɑːrd tuː səkˈsiːd ɪn ðə ˈmɒdərn ˈwɜːrkpleɪs/"
+  },
+  {
+    "chinese": "客户坚持合同条款不作任何修改",
+    "english": "The client insisted that no changes be made to the contract terms",
+    "soundmark": "/ðə ˈklaɪənt ɪnˈsɪstɪd ðæt nəʊ ˈtʃeɪndʒɪz biː meɪd tuː ðə ˈkɒntrækt tɜːrmz/"
+  },
+  {
+    "chinese": "如果他接受海外培训，他的职业前景会更广阔",
+    "english": "If he accepted overseas training, his career prospects would be broader",
+    "soundmark": "/ɪf hiː əkˈseptɪd ˌəʊvərˈsiːz ˈtreɪnɪŋ, hɪz kəˈrɪr ˈprɒspekts wʊd biː ˈbrɔːdər/"
+  },
+  {
+    "chinese": "面试官建议候选人提高英语水平",
+    "english": "The interviewer suggested that the candidate improve his English proficiency",
+    "soundmark": "/ði ˈɪntərvjuːər səˈdʒestɪd ðæt ðə ˈkændɪdət ɪmˈpruːv hɪz ˈɪŋɡlɪʃ prəˈfɪʃnsi/"
+  },
+  {
+    "chinese": "要是当时我听从了导师的职业建议就好了",
+    "english": "If only I had followed my mentor's career advice at that time",
+    "soundmark": "/ɪf ˈəʊnli aɪ hæd ˈfɒləʊd maɪ ˈmentɔːrz kəˈrɪr ədˈvaɪs æt ðæt taɪm/"
+  },
+  {
+    "chinese": "如果没有加班费补偿，员工有权拒绝加班",
+    "english": "Without overtime compensation, employees have the right to refuse overtime",
+    "soundmark": "/wɪˈðaʊt ˈəʊvərtaɪm ˌkɒmpenˈseɪʃn, ɪmˈplɔɪiːz hæv ðə raɪt tuː rɪˈfjuːz ˈəʊvərtaɪm/"
+  },
+  {
+    "chinese": "主席建议成立一个专门的工作小组",
+    "english": "The chairman proposed that a special working group be set up",
+    "soundmark": "/ðə ˈtʃeərmən prəˈpəʊzd ðæt ə ˈspeʃl ˈwɜːrkɪŋ ɡruːp biː set ʌp/"
+  },
+  {
+    "chinese": "如果他早点准备简历，就不会错过这次招聘会",
+    "english": "If he had prepared his resume earlier, he would not have missed the job fair",
+    "soundmark": "/ɪf hiː hæd prɪˈpeərd hɪz ˈrezjumeɪ ˈɜːrliər, hiː wʊd nɒt hæv mɪst ðə dʒɒb feər/"
+  },
+  {
+    "chinese": "我希望公司能提供更多职业发展机会",
+    "english": "I wish the company would provide more career development opportunities",
+    "soundmark": "/aɪ wɪʃ ðə ˈkʌmpəni wʊd prəˈvaɪd mɔːr kəˈrɪr dɪˈveləpmənt ˌɒpəˈtjuːnətiz/"
+  },
+  {
+    "chinese": "如果没有扎实的专业技能，很难在就业市场中脱颖而出",
+    "english": "But for solid professional skills, it would be hard to stand out in the job market",
+    "soundmark": "/bʌt fɔːr ˈsɒlɪd prəˈfeʃənl skɪlz, ɪt wʊd biː hɑːrd tuː stænd aʊt ɪn ðə dʒɒb ˈmɑːrkɪt/"
+  },
+  {
+    "chinese": "导师建议我先做一份兼职来积累经验",
+    "english": "My mentor suggested that I take a part-time job first to gain experience",
+    "soundmark": "/maɪ ˈmentɔːr səˈdʒestɪd ðæt aɪ teɪk ə pɑːrt taɪm dʒɒb fɜːrst tuː ɡeɪn ɪkˈspɪəriəns/"
+  },
+  {
+    "chinese": "他坚持让所有团队成员都参与项目讨论",
+    "english": "He insisted that all team members participate in the project discussion",
+    "soundmark": "/hiː ɪnˈsɪstɪd ðæt ɔːl tiːm ˈmembərz pɑːrˈtɪsɪpeɪt ɪn ðə ˈprɒdʒekt dɪsˈkʌʃn/"
+  },
+  {
+    "chinese": "如果公司实行弹性工作制，员工的工作效率会更高",
+    "english": "If the company adopted flexible working hours, employees would be more efficient",
+    "soundmark": "/ɪf ðə ˈkʌmpəni əˈdɒptɪd ˈfleksəbl ˈwɜːrkɪŋ ˈaʊərz, ɪmˈplɔɪiːz wʊd biː mɔːr ɪˈfɪʃnt/"
+  },
+  {
+    "chinese": "要是那次面试我没有紧张就好了",
+    "english": "If only I had not been nervous during that interview",
+    "soundmark": "/ɪf ˈəʊnli aɪ hæd nɒt biːn ˈnɜːrvəs ˈdjʊərɪŋ ðæt ˈɪntərvjuː/"
+  },
+  {
+    "chinese": "人力资源总监要求所有岗位的招聘流程标准化",
+    "english": "The HR director demanded that the recruitment process for all positions be standardized",
+    "soundmark": "/ði eɪtʃ ɑːr daɪˈrektər dɪˈmɑːndɪd ðæt ðə rɪˈkruːtmənt ˈprəʊses fɔːr ɔːl pəˈzɪʃnz biː ˈstændərdaɪzd/"
+  },
+  {
+    "chinese": "要是当初她选择学习计算机专业，现在就业会更容易",
+    "english": "Had she chosen to study computer science, employment would be easier for her now",
+    "soundmark": "/hæd ʃiː ˈtʃəʊzn tuː ˈstʌdi kəmˈpjuːtər ˈsaɪəns, ɪmˈplɔɪmənt wʊd biː ˈiːzɪər fɔːr hɜːr naʊ/"
+  },
+  {
+    "chinese": "如果没有良好的沟通技巧，管理者无法有效领导团队",
+    "english": "Without good communication skills, a manager cannot lead a team effectively",
+    "soundmark": "/wɪˈðaʊt ɡʊd kəˌmjuːnɪˈkeɪʃn skɪlz, ə ˈmænɪdʒər ˈkænɒt liːd ə tiːm ɪˈfektɪvli/"
+  },
+  {
+    "chinese": "委员会建议加强对职场歧视的法律保护",
+    "english": "The committee recommended that legal protection against workplace discrimination be strengthened",
+    "soundmark": "/ðə kəˈmɪti ˌrekəˈmendɪd ðæt ˈliːɡl prəˈtekʃn əˈɡenst ˈwɜːrkpleɪs dɪˌskrɪmɪˈneɪʃn biː ˈstreŋθnd/"
+  },
+  {
+    "chinese": "老板命令所有部门立即提交季度报告",
+    "english": "The boss ordered that all departments submit quarterly reports immediately",
+    "soundmark": "/ðə bɒs ˈɔːdərd ðæt ɔːl dɪˈpɑːtmənts səbˈmɪt ˈkwɔːrtərli rɪˈpɔːts ɪˈmiːdiətli/"
+  },
+  {
+    "chinese": "我真心希望这个项目能够按时完成",
+    "english": "I sincerely wish this project could be completed on time",
+    "soundmark": "/aɪ ˈsɪnsəli wɪʃ ðɪs ˈprɒdʒekt kʊd biː kəmˈpliːtɪd ɒn taɪm/"
+  },
+  {
+    "chinese": "如果没有那次宝贵的实习经历，我不会确定自己的职业方向",
+    "english": "But for that valuable internship, I would not have determined my career direction",
+    "soundmark": "/bʌt fɔːr ðæt ˈvæljuəbl ˈɪntɜːrnʃɪp, aɪ wʊd nɒt hæv dɪˈtɜːrmɪnd maɪ kəˈrɪr daɪˈrekʃn/"
+  },
+  {
+    "chinese": "面试前充分准备是非常必要的",
+    "english": "It is essential that candidates prepare thoroughly before an interview",
+    "soundmark": "/ɪt ɪz ɪˈsenʃl ðæt ˈkændɪdəts prɪˈpeər ˈθʌrəli bɪˈfɔːr ən ˈɪntərvjuː/"
+  },
+  {
+    "chinese": "如果每个人都能按时完成任务，项目就能如期交付",
+    "english": "If everyone could complete tasks on time, the project would be delivered as scheduled",
+    "soundmark": "/ɪf ˈevriwʌn kʊd kəmˈpliːt tɑːsks ɒn taɪm, ðə ˈprɒdʒekt wʊd biː dɪˈlɪvərd æz ˈʃedjuːld/"
+  },
+  {
+    "chinese": "她强烈推荐这家公司的工作环境",
+    "english": "She spoke highly of the working environment at this company",
+    "soundmark": "/ʃiː spəʊk ˈhaɪli ɒv ðə ˈwɜːrkɪŋ ɪnˈvaɪrənmənt æt ðɪs ˈkʌmpəni/"
+  },
+  {
+    "chinese": "没有丰富的工作经验，应届毕业生很难找到满意的工作",
+    "english": "Without abundant work experience, fresh graduates find it hard to get a satisfactory job",
+    "soundmark": "/wɪˈðaʊt əˈbʌndənt wɜːrk ɪkˈspɪəriəns, freʃ ˈɡrædʒuəts faɪnd ɪt hɑːrd tuː ɡet ə ˌsætɪsˈfæktəri dʒɒb/"
+  },
+  {
+    "chinese": "总监要求每位经理制定一份团队发展计划",
+    "english": "The director required that every manager make a team development plan",
+    "soundmark": "/ðə daɪˈrektər rɪˈkwaɪərd ðæt ˈevri ˈmænɪdʒər meɪk ə tiːm dɪˈveləpmənt plæn/"
+  },
+  {
+    "chinese": "要是那个候选人更了解行业动态就好了",
+    "english": "If only that candidate had been more familiar with industry trends",
+    "soundmark": "/ɪf ˈəʊnli ðæt ˈkændɪdət hæd biːn mɔːr fəˈmɪliər wɪð ˈɪndəstri trendz/"
+  },
+  {
+    "chinese": "如果你的简历突出相关技能，你会获得更多面试机会",
+    "english": "If your resume highlighted relevant skills, you would receive more interview opportunities",
+    "soundmark": "/ɪf jɔːr ˈrezjumeɪ ˈhaɪlaɪtɪd ˈreləvənt skɪlz, juː wʊd rɪˈsiːv mɔːr ˈɪntərvjuː ˌɒpəˈtjuːnətiz/"
+  },
+  {
+    "chinese": "行业专家提议高校加强学生的就业指导",
+    "english": "Industry experts proposed that universities strengthen career guidance for students",
+    "soundmark": "/ˈɪndəstri ˈekspɜːrts prəˈpəʊzd ðæt ˌjuːnɪˈvɜːrsətiz ˈstreŋθn kəˈrɪr ˈɡaɪdns fɔːr ˈstjuːdənts/"
+  },
+  {
+    "chinese": "法律建议雇主不得因性别歧视求职者",
+    "english": "It is advised by law that employers not discriminate against job seekers based on gender",
+    "soundmark": "/ɪt ɪz ədˈvaɪzd baɪ lɔː ðæt ɪmˈplɔɪərz nɒt dɪˈskrɪmɪneɪt əˈɡenst dʒɒb ˈsiːkərz beɪst ɒn ˈdʒendər/"
+  },
+  {
+    "chinese": "如果没有导师的指导，我会在职业道路上走更多弯路",
+    "english": "Without my mentor's guidance, I would have taken more detours on my career path",
+    "soundmark": "/wɪˈðaʊt maɪ ˈmentɔːrz ˈɡaɪdns, aɪ wʊd hæv ˈteɪkən mɔːr ˈdiːtʊərz ɒn maɪ kəˈrɪr pɑːθ/"
+  },
+  {
+    "chinese": "她坚持让团队在做出任何决策前进行充分讨论",
+    "english": "She insisted that the team have a thorough discussion before making any decision",
+    "soundmark": "/ʃiː ɪnˈsɪstɪd ðæt ðə tiːm hæv ə ˈθʌrə dɪsˈkʌʃn bɪˈfɔːr ˈmeɪkɪŋ ˈeni dɪˈsɪʒn/"
+  },
+  {
+    "chinese": "如果企业能重视员工的劳动权益，员工忠诚度会更高",
+    "english": "If companies valued employees' labor rights, employee loyalty would be higher",
+    "soundmark": "/ɪf ˈkʌmpənz ˈvæljuːd ɪmˈplɔɪiːz ˈleɪbər raɪts, ɪmˈplɔɪiː ˈlɔɪəlti wʊd biː ˈhaɪər/"
+  },
+  {
+    "chinese": "我希望下次面试时能表现得更加自信和从容",
+    "english": "I wish I could perform more confidently and calmly in the next interview",
+    "soundmark": "/aɪ wɪʃ aɪ kʊd pəˈfɔːm mɔːr ˈkɒnfɪdəntli ænd ˈkɑːmli ɪn ðə nekst ˈɪntərvjuː/"
+  },
+  {
+    "chinese": "部门领导提议每周举行一次团队例会以提高沟通效率",
+    "english": "The department head proposed that a weekly team meeting be held to improve communication efficiency",
+    "soundmark": "/ðə dɪˈpɑːtmənt hed prəˈpəʊzd ðæt ə ˈwiːkli tiːm ˈmiːtɪŋ biː held tuː ɪmˈpruːv kəˌmjuːnɪˈkeɪʃn ɪˈfɪʃnsi/"
+  },
+  {
+    "chinese": "要是当初那家公司录用了我，我的职业生涯将会完全不同",
+    "english": "Had that company hired me, my career path would have been completely different",
+    "soundmark": "/hæd ðæt ˈkʌmpəni ˈhaɪərd miː, maɪ kəˈrɪr pɑːθ wʊd hæv biːn kəmˈpliːtli ˈdɪfrənt/"
+  },
+  {
+    "chinese": "如果没有持续学习新技能的意识，职场人士很容易被淘汰",
+    "english": "Without an awareness of continuous learning, professionals can easily be eliminated",
+    "soundmark": "/wɪˈðaʊt ən əˈweərnəs ɒv kənˈtɪnjuəs ˈlɜːrnɪŋ, prəˈfeʃənlz kæn ˈiːzɪli biː ɪˈlɪmɪneɪtɪd/"
+  },
+  {
+    "chinese": "教授建议学生在大学期间多参加实习和社会实践",
+    "english": "The professor advised that students participate more in internships and social practice during college",
+    "soundmark": "/ðə prəˈfesər ədˈvaɪzd ðæt ˈstjuːdənts pɑːrˈtɪsɪpeɪt mɔːr ɪn ˈɪntɜːrnʃɪps ænd ˈsəʊʃl ˈpræktɪs ˈdjʊərɪŋ ˈkɒlɪdʒ/"
+  },
+  {
+    "chinese": "人力资源专家要求面试评估标准必须客观公正",
+    "english": "HR experts demanded that interview evaluation criteria be objective and fair",
+    "soundmark": "/eɪtʃ ɑːr ˈekspɜːts dɪˈmɑːndɪd ðæt ˈɪntərvjuː ɪˌvæljʊˈeɪʃn kraɪˈtɪəriə biː əbˈdʒektɪv ænd feər/"
+  },
+  {
+    "chinese": "如果你能在面试中展示出团队合作精神，录取几率会大很多",
+    "english": "If you could demonstrate a team spirit in the interview, your chances of being admitted would be much greater",
+    "soundmark": "/ɪf juː kʊd ˈdemənstreɪt ə tiːm ˈspɪrɪt ɪn ðə ˈɪntərvjuː, jɔːr ˈtʃɑːnsɪz ɒv ˈbiːɪŋ ədˈmɪtɪd wʊd biː mʌtʃ ˈɡreɪtər/"
+  },
+  {
+    "chinese": "要是当初我没有放弃那份海外工作机会就好了",
+    "english": "If only I had not given up that overseas job opportunity",
+    "soundmark": "/ɪf ˈəʊnli aɪ hæd nɒt ˈɡɪvən ʌp ðæt ˌəʊvərˈsiːz dʒɒb ˌɒpəˈtjuːnəti/"
+  },
+  {
+    "chinese": "政府建议企业为员工提供更多的职业培训机会",
+    "english": "The government recommended that enterprises provide more vocational training opportunities for employees",
+    "soundmark": "/ðə ˈɡʌvərnmənt ˌrekəˈmendɪd ðæt ˈentəpraɪzɪz prəˈvaɪd mɔːr vəʊˈkeɪʃənl ˈtreɪnɪŋ ˌɒpəˈtjuːnətiz fɔːr ɪmˈplɔɪiːz/"
+  },
+  {
+    "chinese": "如果没有明确的职业规划，年轻人很容易在工作中迷失方向",
+    "english": "Without a clear career plan, young people can easily lose their direction at work",
+    "soundmark": "/wɪˈðaʊt ə klɪər kəˈrɪr plæn, jʌŋ ˈpiːpl kæn ˈiːzɪli luːz ðeər daɪˈrekʃn æt wɜːrk/"
+  },
+  {
+    "chinese": "公司总裁命令所有部门削减百分之十的开支",
+    "english": "The company president ordered that all departments cut expenses by ten percent",
+    "soundmark": "/ðə ˈkʌmpəni ˈprezɪdənt ˈɔːdərd ðæt ɔːl dɪˈpɑːtmənts kʌt ɪkˈspensɪz baɪ ten pərˈsent/"
+  },
+  {
+    "chinese": "我希望职场中的性别差距能够早日消除",
+    "english": "I wish the gender gap in the workplace could be eliminated soon",
+    "soundmark": "/aɪ wɪʃ ðə ˈdʒendər ɡæp ɪn ðə ˈwɜːrkpleɪs kʊd biː ɪˈlɪmɪneɪtɪd suːn/"
+  },
+  {
+    "chinese": "要是他提前研究了公司背景，面试时就不会那么紧张了",
+    "english": "Had he researched the company background in advance, he would not have been so nervous during the interview",
+    "soundmark": "/hæd hiː rɪˈsɜːrtʃt ðə ˈkʌmpəni ˈbækɡraʊnd ɪn ədˈvɑːns, hiː wʊd nɒt hæv biːn səʊ ˈnɜːrvəs ˈdjʊərɪŋ ðə ˈɪntərvjuː/"
+  },
+  {
+    "chinese": "调查显示大多数员工希望公司改善工作与生活的平衡",
+    "english": "Surveys show that most employees wish the company would improve work-life balance",
+    "soundmark": "/ˈsɜːrveɪz ʃəʊ ðæt məʊst ɪmˈplɔɪiːz wɪʃ ðə ˈkʌmpəni wʊd ɪmˈpruːv wɜːrk-laɪf ˈbæləns/"
+  },
+  {
+    "chinese": "委员会建议修订劳动法以更好地保护灵活就业人员",
+    "english": "The committee suggested that labor laws be amended to better protect flexible workers",
+    "soundmark": "/ðə kəˈmɪti səˈdʒestɪd ðæt ˈleɪbər lɔːz biː əˈmendɪd tuː ˈbetər prəˈtekt ˈfleksəbl ˈwɜːrkərz/"
+  },
+  {
+    "chinese": "如果没有良好的职业道德，再高的技能也无法赢得同事的尊重",
+    "english": "But for good professional ethics, even the highest skills would not earn colleagues' respect",
+    "soundmark": "/bʌt fɔːr ɡʊd prəˈfeʃənl ˈeθɪks, ˈiːvən ðə ˈhaɪɪst skɪlz wʊd nɒt ɜːrn ˈkɒliːɡz rɪsˈpekt/"
+  },
+  {
+    "chinese": "如果公司能提供更有竞争力的薪资待遇，人才流失率就会降低",
+    "english": "If the company offered more competitive salary packages, the talent turnover rate would decrease",
+    "soundmark": "/ɪf ðə ˈkʌmpəni ˈɒfərd mɔːr kəmˈpetətɪv ˈsæləri ˈpækɪdʒɪz, ðə ˈtælənt ˈtɜːnəʊvər reɪt wʊd dɪˈkriːs/"
+  },
+  {
+    "chinese": "面试专家建议求职者在回答问题时要具体而有条理",
+    "english": "Interview experts suggest that job seekers be specific and organized when answering questions",
+    "soundmark": "/ˈɪntərvjuː ˈekspɜːts səˈdʒest ðæt dʒɒb ˈsiːkərz biː spəˈsɪfɪk ænd ˈɔːrɡənaɪzd wen ˈɑːnsərɪŋ ˈkwestʃnz/"
+  },
+  {
+    "chinese": "我希望大学期间能多参加一些实践活动来提升就业竞争力",
+    "english": "I wish I had participated in more practical activities during college to enhance my employability",
+    "soundmark": "/aɪ wɪʃ aɪ hæd pɑːrˈtɪsɪpeɪtɪd ɪn mɔːr ˈpræktɪkl ækˈtɪvətiz ˈdjʊərɪŋ ˈkɒlɪdʒ tuː ɪnˈhɑːns maɪ ɪmˌplɔɪəˈbɪləti/"
+  },
+  {
+    "chinese": "要是公司实行弹性工作制度就好了",
+    "english": "If only the company would implement a flexible work system",
+    "soundmark": "/ɪf ˈəʊnli ðə ˈkʌmpəni wʊd ˈɪmplɪment ə ˈfleksəbl wɜːrk ˈsɪstəm/"
+  },
+  {
+    "chinese": "没有正确的职业规划，再多的努力也可能是徒劳的",
+    "english": "Without proper career planning, even the greatest effort could be in vain",
+    "soundmark": "/wɪˈðaʊt ˈprɒpər kəˈrɪr ˈplænɪŋ, ˈiːvən ðə ˈɡreɪtɪst ˈefərt kʊd biː ɪn veɪn/"
+  },
+  {
+    "chinese": "总监坚持新入职的员工必须参加为期两周的培训",
+    "english": "The director insisted that all new hires attend a two-week training program",
+    "soundmark": "/ðə daɪˈrektər ɪnˈsɪstɪd ðæt ɔːl njuː ˈhaɪərz əˈtend ə tuː-wiːk ˈtreɪnɪŋ ˈprəʊɡræm/"
+  },
+  {
+    "chinese": "如果他当初选择了技术路线而不是管理路线，现在可能已经是高级工程师了",
+    "english": "Had he chosen the technical track instead of the management track, he might be a senior engineer now",
+    "soundmark": "/hæd hiː ˈtʃəʊzn ðə ˈteknɪkl træk ɪnˈsted ɒv ðə ˈmænɪdʒmənt træk, hiː maɪt biː ə ˈsiːniər ˈendʒɪˈnɪər naʊ/"
+  },
+  {
+    "chinese": "我希望每位求职者都能找到适合自己的职业",
+    "english": "I wish every job seeker could find a career that suits them",
+    "soundmark": "/aɪ wɪʃ ˈevri dʒɒb ˈsiːkər kʊd faɪnd ə kəˈrɪr ðæt suːts ðem/"
+  },
+  {
+    "chinese": "专家建议求职信应该简洁明了地展示个人优势",
+    "english": "Experts recommend that cover letters concisely highlight personal strengths",
+    "soundmark": "/ˈekspɜːts ˌrekəˈmend ðæt ˈkʌvə ˈletərz kənˈsaɪsli ˈhaɪlaɪt ˈpɜːrsənl streŋθs/"
+  },
+  {
+    "chinese": "要不是那份推荐信，我可能根本拿不到面试机会",
+    "english": "Without that letter of recommendation, I might not have got an interview opportunity at all",
+    "soundmark": "/wɪˈðaʊt ðæt ˈletər ɒv ˌrekəmenˈdeɪʃn, aɪ maɪt nɒt hæv ɡɒt ən ˈɪntərvjuː ˌɒpəˈtjuːnəti æt ɔːl/"
+  },
+  {
+    "chinese": "劳动法要求企业为员工购买工伤保险",
+    "english": "Labor laws require that employers purchase work injury insurance for employees",
+    "soundmark": "/ˈleɪbər lɔːz rɪˈkwaɪər ðæt ɪmˈplɔɪərz ˈpɜːrtʃəs wɜːrk ˈɪndʒəri ɪnˈʃʊərəns fɔːr ɪmˈplɔɪiːz/"
+  },
+  {
+    "chinese": "如果他能在压力下保持冷静，就能胜任这个管理岗位",
+    "english": "If he could stay calm under pressure, he would be qualified for this management position",
+    "soundmark": "/ɪf hiː kʊd steɪ kɑːm ˈʌndər ˈpreʃər, hiː wʊd biː ˈkwɒlɪfaɪd fɔːr ðɪs ˈmænɪdʒmənt pəˈzɪʃn/"
+  },
+  {
+    "chinese": "团队领导建议在分配任务时充分考虑每位成员的特长",
+    "english": "The team leader suggested that tasks be assigned with full consideration of each member's strengths",
+    "soundmark": "/ðə tiːm ˈliːdər səˈdʒestɪd ðæt tɑːsks biː əˈsaɪnd wɪð fʊl kənˌsɪdəˈreɪʃn ɒv iːtʃ ˈmembərz streŋθs/"
+  },
+  {
+    "chinese": "要是那个时候有人提醒我注意职场礼仪就好了",
+    "english": "If only someone had reminded me to pay attention to workplace etiquette at that time",
+    "soundmark": "/ɪf ˈəʊnli ˈsʌmwʌn hæd rɪˈmaɪndɪd miː tuː peɪ əˈtenʃn tuː ˈwɜːrkpleɪs ˈetɪkət æt ðæt taɪm/"
+  },
+  {
+    "chinese": "如果没有持续的职业发展，员工的工作热情会逐渐消退",
+    "english": "Without continuous career development, employees' enthusiasm for work would gradually fade",
+    "soundmark": "/wɪˈðaʊt kənˈtɪnjuəs kəˈrɪr dɪˈveləpmənt, ɪmˈplɔɪiːz ɪnˈθjuːziæzəm fɔːr wɜːrk wʊd ˈɡrædʒuəli feɪd/"
+  },
+  {
+    "chinese": "他建议公司投资员工培训以提高整体竞争力",
+    "english": "He recommended that the company invest in employee training to enhance overall competitiveness",
+    "soundmark": "/hiː ˌrekəˈmendɪd ðæt ðə ˈkʌmpəni ɪnˈvest ɪn ɪmˈplɔɪiː ˈtreɪnɪŋ tuː ɪnˈhɑːns ˌəʊvərɔːl kəmˈpetətɪvnəs/"
+  },
+  {
+    "chinese": "要是你能展示出解决实际问题的能力，录用通知书就是你的了",
+    "english": "If you could demonstrate the ability to solve practical problems, the job offer would be yours",
+    "soundmark": "/ɪf juː kʊd ˈdemənstreɪt ði əˈbɪləti tuː sʌlv ˈpræktɪkl ˈprɒbləmz, ðə dʒɒb ˈɒfər wʊd biː jɔːrz/"
+  },
+  {
+    "chinese": "我希望将来有一天能创业并实现自己的职业理想",
+    "english": "I wish I could start my own business and realize my career ideals someday",
+    "soundmark": "/aɪ wɪʃ aɪ kʊd stɑːrt maɪ əʊn ˈbɪznəs ænd ˈrɪəlaɪz maɪ kəˈrɪr aɪˈdɪəlz ˈsʌmdeɪ/"
+  },
+  {
+    "chinese": "行业协会建议企业建立更加透明的招聘流程",
+    "english": "The industry association proposed that companies establish a more transparent recruitment process",
+    "soundmark": "/ði ˈɪndəstri əˌsəʊsiˈeɪʃn prəˈpəʊzd ðæt ˈkʌmpənz ɪsˈtæblɪʃ ə mɔːr trænsˈpeərənt rɪˈkruːtmənt ˈprəʊses/"
+  },
+  {
+    "chinese": "要是当初认真听取前辈的职业建议，我就不会走那么多弯路了",
+    "english": "If only I had seriously taken my seniors' career advice, I would not have taken so many detours",
+    "soundmark": "/ɪf ˈəʊnli aɪ hæd ˈsɪəriəsli ˈteɪkən maɪ ˈsiːnjərz kəˈrɪr ədˈvaɪs, aɪ wʊd nɒt hæv ˈteɪkən səʊ ˈmeni ˈdiːtʊərz/"
+  },
+  {
+    "chinese": "如果没有严格的质量控制，公司很难在竞争中立足",
+    "english": "But for strict quality control, the company would find it hard to establish itself in the competition",
+    "soundmark": "/bʌt fɔːr strɪkt ˈkwɒləti kənˈtrəʊl, ðə ˈkʌmpəni wʊd faɪnd ɪt hɑːrd tuː ɪsˈtæblɪʃ ɪtˈself ɪn ðə ˌkɒmpəˈtɪʃn/"
+  },
+  {
+    "chinese": "经理命令秘书立刻安排一场紧急部门会议",
+    "english": "The manager ordered that the secretary arrange an emergency department meeting immediately",
+    "soundmark": "/ðə ˈmænɪdʒər ˈɔːdərd ðæt ðə ˈsekrəteri əˈreɪndʒ ən ɪˈmɜːrdʒənsi dɪˈpɑːtmənt ˈmiːtɪŋ ɪˈmiːdiətli/"
+  },
+  {
+    "chinese": "如果员工能够在工作中获得成就感和归属感，工作效率自然会提高",
+    "english": "If employees could gain a sense of achievement and belonging at work, their efficiency would naturally improve",
+    "soundmark": "/ɪf ɪmˈplɔɪiːz kʊd ɡeɪn ə sens ɒv əˈtʃiːvmənt ænd bɪˈlɒŋɪŋ æt wɜːrk, ðeər ɪˈfɪʃnsi wʊd ˈnætʃərəli ɪmˈpruːv/"
+  },
+  { "chinese": "实习", "english": "intern", "soundmark": "/ˈɪntɜːrn/" },
+  { "chinese": "试用期", "english": "probation period", "soundmark": "/prəˈbeɪʃn ˈpɪəriəd/" },
+  { "chinese": "加班费", "english": "overtime pay", "soundmark": "/ˈəʊvərtaɪm peɪ/" },
+  {
+    "chinese": "职业资格证书",
+    "english": "vocational certificate",
+    "soundmark": "/vəʊˈkeɪʃənl sərˈtɪfɪkət/"
+  },
+  { "chinese": "猎头", "english": "headhunter", "soundmark": "/ˈhedhʌntər/" },
+  { "chinese": "跳槽", "english": "job hopping", "soundmark": "/dʒɒb ˈhɒpɪŋ/" },
+  { "chinese": "双重职业", "english": "dual career", "soundmark": "/ˈdjuːəl kəˈrɪr/" },
+  {
+    "chinese": "终身雇佣制",
+    "english": "lifetime employment",
+    "soundmark": "/ˈlaɪftaɪm ɪmˈplɔɪmənt/"
+  },
+  { "chinese": "工作满意度", "english": "job satisfaction", "soundmark": "/dʒɒb ˌsætɪsˈfækʃn/" },
+  { "chinese": "职场礼仪", "english": "workplace etiquette", "soundmark": "/ˈwɜːrkpleɪs ˈetɪkət/" },
+  { "chinese": "朝九晚五", "english": "nine to five", "soundmark": "/naɪn tuː faɪv/" },
+  {
+    "chinese": "人脉资源",
+    "english": "personal connections",
+    "soundmark": "/ˈpɜːrsənl kəˈnekʃnz/"
+  },
+  {
+    "chinese": "核心竞争力",
+    "english": "core competitiveness",
+    "soundmark": "/kɔːr kəmˈpetətɪvnəs/"
+  },
+  { "chinese": "职业倦怠", "english": "burnout", "soundmark": "/ˈbɜːrnaʊt/" },
+  { "chinese": "远程办公", "english": "remote work", "soundmark": "/rɪˈməʊt wɜːrk/" },
+  {
+    "chinese": "绩效考核",
+    "english": "performance evaluation",
+    "soundmark": "/pəˈfɔːrməns ɪˌvæljʊˈeɪʃn/"
+  },
+  {
+    "chinese": "他为找工作投了二十多份简历",
+    "english": "He sent over twenty resumes for job hunting",
+    "soundmark": "/hiː sent ˈəʊvər ˈtwenti ˈrezjumeɪz fɔːr dʒɒb ˈhʌntɪŋ/"
+  },
+  {
+    "chinese": "这家公司的福利待遇非常好",
+    "english": "The benefits and perks at this company are excellent",
+    "soundmark": "/ðə ˈbenɪfɪts ænd pɜːrks æt ðɪs ˈkʌmpəni ɑːr ˈeksələnt/"
+  },
+  {
+    "chinese": "她凭借出色的沟通能力赢得了同事的信任",
+    "english": "She earned her colleagues' trust through excellent communication skills",
+    "soundmark": "/ʃiː ɜːrnd hɜːr ˈkɒliːɡz trʌst θruː ˈeksələnt kəˌmjuːnɪˈkeɪʃn skɪlz/"
+  },
+  {
+    "chinese": "团队合作是实现项目目标的关键",
+    "english": "Teamwork is the key to achieving project goals",
+    "soundmark": "/ˈtiːmwɜːrk ɪz ðə kiː tuː əˈtʃiːvɪŋ ˈprɒdʒekt ɡəʊlz/"
+  },
+  {
+    "chinese": "他建议公司在招聘时更加注重实际技能而非学历",
+    "english": "He suggested that the company focus more on practical skills rather than academic qualifications when recruiting",
+    "soundmark": "/hiː səˈdʒestɪd ðæt ðə ˈkʌmpəni fəʊkəs mɔːr ɒn ˈpræktɪkl skɪlz ˈrɑːðər ðæn ˌækəˈdemɪk kwɒlɪfɪˈkeɪʃnz wen rɪˈkruːtɪŋ/"
+  },
+  {
+    "chinese": "如果没有社会的偏见，女性在职场中会有更多机会",
+    "english": "Without social prejudice, women would have more opportunities in the workplace",
+    "soundmark": "/wɪˈðaʊt ˈsəʊʃl ˈpredʒʊdɪs, ˈwɪmɪn wʊd hæv mɔːr ˌɒpəˈtjuːnətiz ɪn ðə ˈwɜːrkpleɪs/"
+  },
+  {
+    "chinese": "要是当初选择了另一条职业道路，人生会截然不同",
+    "english": "Had I chosen another career path, my life would have been completely different",
+    "soundmark": "/hæd aɪ ˈtʃəʊzn əˈnʌðər kəˈrɪr pɑːθ, maɪ laɪf wʊd hæv biːn kəmˈpliːtli ˈdɪfrənt/"
+  },
+  {
+    "chinese": "人力资源部门提议实行弹性工时制度以提高员工满意度",
+    "english": "The HR department proposed that a flexible working hour system be implemented to improve job satisfaction",
+    "soundmark": "/ði eɪtʃ ɑːr dɪˈpɑːtmənt prəˈpəʊzd ðæt ə ˈfleksəbl ˈwɜːrkɪŋ ˈaʊər ˈsɪstəm biː ˈɪmplɪmentɪd tuː ɪmˈpruːv dʒɒb ˌsætɪsˈfækʃn/"
+  },
+  {
+    "chinese": "我真心希望每次加班都能得到合理的补偿",
+    "english": "I sincerely wish every overtime could be reasonably compensated",
+    "soundmark": "/aɪ ˈsɪnsəli wɪʃ ˈevri ˈəʊvərtaɪm kʊd biː ˈriːzənəbli ˌkɒmpenseɪtɪd/"
+  }
+]

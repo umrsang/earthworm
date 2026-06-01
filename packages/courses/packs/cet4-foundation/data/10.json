@@ -1,0 +1,1115 @@
+[
+  { "chinese": "自由", "english": "freedom", "soundmark": "/ˈfriːdəm/" },
+  {
+    "chinese": "自由不是想做什么就做什么",
+    "english": "Freedom is not doing whatever you want",
+    "soundmark": "/ˈfriːdəm ɪz nɒt ˈduːɪŋ wɒtˈɛvər juː wɒnt/"
+  },
+  { "chinese": "正义", "english": "justice", "soundmark": "/ˈdʒʌstɪs/" },
+  {
+    "chinese": "正义是社会运转的基石",
+    "english": "Justice is the cornerstone of society",
+    "soundmark": "/ˈdʒʌstɪs ɪz ðə ˈkɔːnərstəʊn ɒv səˈsaɪəti/"
+  },
+  { "chinese": "真理", "english": "truth", "soundmark": "/truːθ/" },
+  {
+    "chinese": "追求真理是人类的永恒使命",
+    "english": "The pursuit of truth is humanity's eternal mission",
+    "soundmark": "/ðə pəˈsjuːt ɒv truːθ ɪz hjuːˈmænɪtiz ɪˈtɜːnl ˈmɪʃən/"
+  },
+  { "chinese": "平等", "english": "equality", "soundmark": "/ɪˈkwɒləti/" },
+  {
+    "chinese": "人人生而平等",
+    "english": "All men are created equal",
+    "soundmark": "/ɔːl mɛn ɑːr kriˈeɪtɪd ˈiːkwəl/"
+  },
+  { "chinese": "责任", "english": "responsibility", "soundmark": "/rɪˌspɒnsəˈbɪləti/" },
+  {
+    "chinese": "每个人都应为自己的行为负责",
+    "english": "Everyone should be responsible for their own actions",
+    "soundmark": "/ˈɛvrɪwʌn ʃʊd biː rɪˈspɒnsɪbl fɔːr ðeər əʊn ˈækʃənz/"
+  },
+  { "chinese": "幸福", "english": "happiness", "soundmark": "/ˈhæpinəs/" },
+  {
+    "chinese": "幸福来源于内心满足",
+    "english": "Happiness comes from inner satisfaction",
+    "soundmark": "/ˈhæpinəs kʌmz frɒm ˈɪnə sætɪsˈfækʃən/"
+  },
+  { "chinese": "尊严", "english": "dignity", "soundmark": "/ˈdɪgnəti/" },
+  {
+    "chinese": "维护人格尊严是基本权利",
+    "english": "Maintaining personal dignity is a fundamental right",
+    "soundmark": "/meɪnˈteɪnɪŋ ˈpɜːsənl ˈdɪgnəti ɪz ə ˈfʌndəmɛntl raɪt/"
+  },
+  { "chinese": "独立", "english": "independence", "soundmark": "/ˌɪndɪˈpendəns/" },
+  {
+    "chinese": "经济独立是人格独立的前提",
+    "english": "Financial independence is a prerequisite for personal independence",
+    "soundmark": "/faɪˈnænʃəl ˌɪndɪˈpendəns ɪz ə priːˈrekwɪzɪt fɔːr ˈpɜːsənl ˌɪndɪˈpendəns/"
+  },
+  { "chinese": "诚信", "english": "integrity", "soundmark": "/ɪnˈteɡrəti/" },
+  {
+    "chinese": "诚信是立身之本",
+    "english": "Integrity is the foundation of character",
+    "soundmark": "/ɪnˈteɡrəti ɪz ðə faʊnˈdeɪʃən ɒv ˈkærəktər/"
+  },
+  { "chinese": "信念", "english": "belief", "soundmark": "/bɪˈliːf/" },
+  {
+    "chinese": "坚定的信念能战胜一切困难",
+    "english": "A firm belief can overcome all difficulties",
+    "soundmark": "/ə fɜːm bɪˈliːf kæn ˌəʊvəˈkʌm ɔːl ˈdɪfɪkəltiz/"
+  },
+  { "chinese": "智慧", "english": "wisdom", "soundmark": "/ˈwɪzdəm/" },
+  {
+    "chinese": "智慧来自经验与反思",
+    "english": "Wisdom comes from experience and reflection",
+    "soundmark": "/ˈwɪzdəm kʌmz frɒm ɪkˈspɪəriəns ænd rɪˈflɛkʃən/"
+  },
+  { "chinese": "道德", "english": "morality", "soundmark": "/məˈræləti/" },
+  {
+    "chinese": "道德标准因文化而异",
+    "english": "Moral standards vary across cultures",
+    "soundmark": "/ˈmɒrəl ˈstændədz ˈveəri əˈkrɒs ˈkʌltʃərz/"
+  },
+  { "chinese": "勇气", "english": "courage", "soundmark": "/ˈkʌrɪdʒ/" },
+  {
+    "chinese": "面对困难需要勇气",
+    "english": "Facing difficulties requires courage",
+    "soundmark": "/ˈfeɪsɪŋ ˈdɪfɪkəltiz rɪˈkwaɪərz ˈkʌrɪdʒ/"
+  },
+  { "chinese": "抽象", "english": "abstract", "soundmark": "/ˈæbstrækt/" },
+  {
+    "chinese": "这个概念太抽象了",
+    "english": "This concept is too abstract",
+    "soundmark": "/ðɪs ˈkɒnsɛpt ɪz tuː ˈæbstrækt/"
+  },
+  { "chinese": "具体的", "english": "concrete", "soundmark": "/ˈkɒŋkriːt/" },
+  {
+    "chinese": "请给出具体的例子",
+    "english": "Please give a concrete example",
+    "soundmark": "/pliːz ɡɪv ə ˈkɒŋkriːt ɪɡˈzæmpəl/"
+  },
+  { "chinese": "现象", "english": "phenomenon", "soundmark": "/fɪˈnɒmɪnən/" },
+  {
+    "chinese": "这是一种普遍的社会现象",
+    "english": "This is a widespread social phenomenon",
+    "soundmark": "/ðɪs ɪz ə ˈwaɪd sprɛd ˈsəʊʃəl fɪˈnɒmɪnən/"
+  },
+  { "chinese": "本质", "english": "essence", "soundmark": "/ˈɛsns/" },
+  {
+    "chinese": "教育的本质是启发思考",
+    "english": "The essence of education is to inspire thinking",
+    "soundmark": "/ði ˈɛsns ɒv ˌɛdʒʊˈkeɪʃən ɪz tuː ɪnˈspaɪər ˈθɪŋkɪŋ/"
+  },
+  { "chinese": "原则", "english": "principle", "soundmark": "/ˈprɪnsɪpəl/" },
+  {
+    "chinese": "我们必须坚持基本原则",
+    "english": "We must adhere to basic principles",
+    "soundmark": "/wiː mʌst ədˈhɪər tuː ˈbeɪsɪk ˈprɪnsɪpəlz/"
+  },
+  { "chinese": "理论", "english": "theory", "soundmark": "/ˈθɪəri/" },
+  {
+    "chinese": "理论与实践相结合",
+    "english": "Theory should be combined with practice",
+    "soundmark": "/ˈθɪəri ʃʊd biː kəmˈbaɪnd wɪð ˈpræktɪs/"
+  },
+  { "chinese": "意识", "english": "consciousness", "soundmark": "/ˈkɒnʃəsnɪs/" },
+  {
+    "chinese": "环保意识越来越强",
+    "english": "Environmental awareness is growing stronger",
+    "soundmark": "/ɪnˌvaɪrənˈmɛntl əˈweənɪs ɪz ˈɡrəʊɪŋ ˈstrɒŋər/"
+  },
+  { "chinese": "存在", "english": "existence", "soundmark": "/ɪɡˈzɪstəns/" },
+  {
+    "chinese": "生命的意义在于存在本身",
+    "english": "The meaning of life lies in existence itself",
+    "soundmark": "/ðə ˈmiːnɪŋ ɒv laɪf laɪz ɪn ɪɡˈzɪstəns ɪtˈsɛlf/"
+  },
+  { "chinese": "矛盾", "english": "contradiction", "soundmark": "/ˌkɒntrəˈdɪkʃən/" },
+  {
+    "chinese": "发展过程中充满了矛盾",
+    "english": "Development is full of contradictions",
+    "soundmark": "/dɪˈvɛləpmənt ɪz fʊl ɒv ˌkɒntrəˈdɪkʃənz/"
+  },
+  { "chinese": "批判", "english": "criticism", "soundmark": "/ˈkrɪtɪsɪzəm/" },
+  {
+    "chinese": "接受建设性的批评很重要",
+    "english": "It is important to accept constructive criticism",
+    "soundmark": "/ɪt ɪz ɪmˈpɔːtənt tuː əkˈsɛpt kənˈstrʌktɪv ˈkrɪtɪsɪzəm/"
+  },
+  { "chinese": "分析", "english": "analysis", "soundmark": "/əˈnæləsɪs/" },
+  {
+    "chinese": "我们需要对问题进行深入分析",
+    "english": "We need to conduct an in-depth analysis of the problem",
+    "soundmark": "/wiː niːd tuː ˈkɒndʌkt ən ɪn dɛpθ əˈnæləsɪs ɒv ðə ˈprɒbləm/"
+  },
+  { "chinese": "综合", "english": "comprehensive", "soundmark": "/ˌkɒmprɪˈhɛnsɪv/" },
+  {
+    "chinese": "我们需要一个综合性的解决方案",
+    "english": "We need a comprehensive solution",
+    "soundmark": "/wiː niːd ə ˌkɒmprɪˈhɛnsɪv səˈluːʃən/"
+  },
+  { "chinese": "假设", "english": "hypothesis", "soundmark": "/haɪˈpɒθəsɪs/" },
+  {
+    "chinese": "科学假设需要实验验证",
+    "english": "A scientific hypothesis requires experimental verification",
+    "soundmark": "/ə ˌsaɪənˈtɪfɪk haɪˈpɒθəsɪs rɪˈkwaɪəz ɪkˌspɛrɪˈmɛntl ˌvɛrɪfɪˈkeɪʃən/"
+  },
+  { "chinese": "论证", "english": "argumentation", "soundmark": "/ˌɑːɡjʊmɛnˈteɪʃən/" },
+  {
+    "chinese": "这篇文章的论证很有说服力",
+    "english": "The argumentation in this essay is very persuasive",
+    "soundmark": "/ði ˌɑːɡjʊmɛnˈteɪʃən ɪn ðɪs ˈɛseɪ ɪz ˈvɛri pərˈsweɪsɪv/"
+  },
+  {
+    "chinese": "只有通过努力，我们才能成功",
+    "english": "Only through hard work can we succeed",
+    "soundmark": "/ˈəʊnli θruː hɑːd wɜːk kæn wiː səkˈsiːd/"
+  },
+  {
+    "chinese": "只有掌握了基础知识，才能进一步学习",
+    "english": "Only by mastering the basics can we proceed to advanced study",
+    "soundmark": "/ˈəʊnli baɪ ˈmɑːstərɪŋ ðə ˈbeɪsɪks kæn wiː prəˈsiːd tuː ədˈvɑːnst ˈstʌdi/"
+  },
+  {
+    "chinese": "只有在失败中，我们才能学到真正的教训",
+    "english": "Only in failure can we learn the real lesson",
+    "soundmark": "/ˈəʊnli ɪn ˈfeɪljər kæn wiː lɜːn ðə rɪəl ˈlɛsn/"
+  },
+  {
+    "chinese": "只有这样，我们才能实现目标",
+    "english": "Only in this way can we achieve our goal",
+    "soundmark": "/ˈəʊnli ɪn ðɪs weɪ kæn wiː əˈtʃiːv aʊər ɡəʊl/"
+  },
+  {
+    "chinese": "他不仅完成了任务，而且做得完美",
+    "english": "Not only did he finish the task, but he also did it perfectly",
+    "soundmark": "/nɒt ˈəʊnli dɪd hiː ˈfɪnɪʃ ðə tɑːsk, bʌt hiː ˈɔːlsəʊ dɪd ɪt ˈpɜːfɪktli/"
+  },
+  {
+    "chinese": "她不仅聪明，而且勤奋",
+    "english": "Not only is she intelligent, but she is also hardworking",
+    "soundmark": "/nɒt ˈəʊnli ɪz ʃiː ɪnˈtɛlɪdʒənt, bʌt ʃiː ɪz ˈɔːlsəʊ ˈhɑːdˌwɜːkɪŋ/"
+  },
+  {
+    "chinese": "不仅经济在增长，人民的生活水平也在提高",
+    "english": "Not only is the economy growing, but people's living standards are also improving",
+    "soundmark": "/nɒt ˈəʊnli ɪz ði ɪˈkɒnəmi ˈɡrəʊɪŋ, bʌt ˈpiːplz ˈlɪvɪŋ ˈstændədz ɑːr ˈɔːlsəʊ ɪmˈpruːvɪŋ/"
+  },
+  {
+    "chinese": "我从未见过如此美丽的日落",
+    "english": "Never have I seen such a beautiful sunset",
+    "soundmark": "/ˈnɛvər hæv aɪ siːn sʌtʃ ə ˈbjuːtɪfʊl ˈsʌnsɛt/"
+  },
+  {
+    "chinese": "我绝不同意这个观点",
+    "english": "Under no circumstances will I agree with this view",
+    "soundmark": "/ˌʌndər nəʊ ˈsɜːkəmstænsɪz wɪl aɪ əˈɡriː wɪð ðɪs vjuː/"
+  },
+  {
+    "chinese": "我几乎没有想到他会来",
+    "english": "Little did I think that he would come",
+    "soundmark": "/ˈlɪtl dɪd aɪ θɪŋk ðæt hiː wʊd kʌm/"
+  },
+  {
+    "chinese": "在任何情况下都不应该放弃",
+    "english": "On no account should we give up",
+    "soundmark": "/ɒn nəʊ əˈkaʊnt ʃʊd wiː ɡɪv ʌp/"
+  },
+  {
+    "chinese": "我刚到车站，火车就开了",
+    "english": "No sooner had I arrived at the station than the train left",
+    "soundmark": "/nəʊ ˈsuːnər hæd aɪ əˈraɪvd æt ðə ˈsteɪʃən ðæn ðə treɪn lɛft/"
+  },
+  {
+    "chinese": "就在那时我意识到了错误",
+    "english": "Only then did I realize my mistake",
+    "soundmark": "/ˈəʊnli ðɛn dɪd aɪ ˈriːəlaɪz maɪ mɪˈsteɪk/"
+  },
+  {
+    "chinese": "正是在大学里我学会了团队合作的重要性",
+    "english": "It was in university that I learned the importance of teamwork",
+    "soundmark": "/ɪt wɒz ɪn ˌjuːnɪˈvɜːsɪti ðæt aɪ lɜːnd ði ɪmˈpɔːtəns ɒv ˈtiːmwɜːk/"
+  },
+  {
+    "chinese": "正是坚持使他们最终成功",
+    "english": "It is perseverance that made them succeed in the end",
+    "soundmark": "/ɪt ɪz ˌpɜːsɪˈvɪərəns ðæt meɪd ðɛm səkˈsiːd ɪn ði ɛnd/"
+  },
+  {
+    "chinese": "正是教育改变了一个人的命运",
+    "english": "It is education that changes a person's destiny",
+    "soundmark": "/ɪt ɪz ˌɛdʒʊˈkeɪʃən ðæt ˈtʃeɪndʒɪz ə ˈpɜːsns ˈdɛstɪni/"
+  },
+  {
+    "chinese": "不是金钱，而是健康才是最重要的",
+    "english": "It is not money but health that matters most",
+    "soundmark": "/ɪt ɪz nɒt ˈmʌni bʌt hɛlθ ðæt ˈmætərz məʊst/"
+  },
+  {
+    "chinese": "正是由于科技的发展，人们的生活发生了巨变",
+    "english": "It is because of technological development that people's lives have changed dramatically",
+    "soundmark": "/ɪt ɪz bɪˈkɒz ɒv ˌtɛknəˈlɒdʒɪkəl dɪˈvɛləpmənt ðæt ˈpiːplz laɪvz hæv ˈtʃeɪndʒd drəˈmætɪkəli/"
+  },
+  {
+    "chinese": "书读得越多，知识就越丰富",
+    "english": "The more you read, the more you know",
+    "soundmark": "/ðə mɔːr juː riːd, ðə mɔːr juː nəʊ/"
+  },
+  {
+    "chinese": "越努力，越幸运",
+    "english": "The harder you work, the luckier you get",
+    "soundmark": "/ðə ˈhɑːdər juː wɜːk, ðə ˈlʌkiər juː ɡɛt/"
+  },
+  {
+    "chinese": "你越早开始准备，通过考试的机会就越大",
+    "english": "The earlier you start preparing, the greater your chance of passing the exam",
+    "soundmark": "/ðə ˈɜːliər juː stɑːt prɪˈpeərɪŋ, ðə ˈɡreɪtər jɔːr tʃɑːns ɒv ˈpɑːsɪŋ ði ɪɡˈzæm/"
+  },
+  {
+    "chinese": "这个问题越复杂，我们就越需要耐心",
+    "english": "The more complex the problem is, the more patience we need",
+    "soundmark": "/ðə mɔːr ˈkɒmplɛks ðə ˈprɒbləm ɪz, ðə mɔːr ˈpeɪʃəns wiː niːd/"
+  },
+  {
+    "chinese": "他和我一样勤奋",
+    "english": "He is as hardworking as I am",
+    "soundmark": "/hiː ɪz æz ˈhɑːdˌwɜːkɪŋ æz aɪ æm/"
+  },
+  {
+    "chinese": "这本书比那本有趣得多",
+    "english": "This book is much more interesting than that one",
+    "soundmark": "/ðɪs bʊk ɪz mʌtʃ mɔːr ˈɪntrəstɪŋ ðæn ðæt wʌn/"
+  },
+  {
+    "chinese": "这是我看过的最好的电影",
+    "english": "This is the best movie I have ever seen",
+    "soundmark": "/ðɪs ɪz ðə bɛst ˈmuːvi aɪ hæv ˈɛvər siːn/"
+  },
+  {
+    "chinese": "全球变暖是当今世界面临的最严峻的挑战之一",
+    "english": "Global warming is one of the most severe challenges facing the world today",
+    "soundmark": "/ˈɡləʊbəl ˈwɔːmɪŋ ɪz wʌn ɒv ðə məʊst sɪˈvɪər ˈtʃæləndʒɪz ˈfeɪsɪŋ ðə wɜːld təˈdeɪ/"
+  },
+  { "chinese": "公平", "english": "fairness", "soundmark": "/ˈfeənɪs/" },
+  {
+    "chinese": "考试的公平性受到质疑",
+    "english": "The fairness of the exam has been questioned",
+    "soundmark": "/ðə ˈfeənɪs ɒv ði ɪɡˈzæm hæz biːn ˈkwɛstʃənd/"
+  },
+  { "chinese": "宽容", "english": "tolerance", "soundmark": "/ˈtɒlərəns/" },
+  {
+    "chinese": "宽容是和谐社会的重要品质",
+    "english": "Tolerance is an important quality in a harmonious society",
+    "soundmark": "/ˈtɒlərəns ɪz ən ɪmˈpɔːtənt ˈkwɒləti ɪn ə hɑːˈməʊniəs səˈsaɪəti/"
+  },
+  { "chinese": "团结", "english": "unity", "soundmark": "/ˈjuːnəti/" },
+  {
+    "chinese": "团结就是力量",
+    "english": "Unity is strength",
+    "soundmark": "/ˈjuːnəti ɪz strɛŋθ/"
+  },
+  { "chinese": "牺牲", "english": "sacrifice", "soundmark": "/ˈsækrɪfaɪs/" },
+  {
+    "chinese": "科学家们为人类进步做出了巨大牺牲",
+    "english": "Scientists have made great sacrifices for human progress",
+    "soundmark": "/ˈsaɪəntɪsts hæv meɪd ɡreɪt ˈsækrɪfaɪsɪz fɔːr ˈhjuːmən ˈprɒɡrɛs/"
+  },
+  { "chinese": "偏见", "english": "prejudice", "soundmark": "/ˈprɛdʒʊdɪs/" },
+  {
+    "chinese": "我们应该消除一切形式的偏见",
+    "english": "We should eliminate all forms of prejudice",
+    "soundmark": "/wiː ʃʊd ɪˈlɪmɪneɪt ɔːl fɔːmz ɒv ˈprɛdʒʊdɪs/"
+  },
+  { "chinese": "歧视", "english": "discrimination", "soundmark": "/dɪˌskrɪmɪˈneɪʃən/" },
+  {
+    "chinese": "任何形式的歧视都是不可接受的",
+    "english": "Any form of discrimination is unacceptable",
+    "soundmark": "/ˈɛni fɔːm ɒv dɪˌskrɪmɪˈneɪʃən ɪz ˌʌnəkˈsɛptəbl/"
+  },
+  { "chinese": "奉献", "english": "dedication", "soundmark": "/ˌdɛdɪˈkeɪʃən/" },
+  {
+    "chinese": "教师对教育事业的无私奉献令人敬佩",
+    "english": "Teachers' selfless dedication to education is admirable",
+    "soundmark": "/ˈtiːtʃərz sɛlflɪs ˌdɛdɪˈkeɪʃən tuː ˌɛdʒʊˈkeɪʃən ɪz ˈædmɪrəbl/"
+  },
+  { "chinese": "合作", "english": "cooperation", "soundmark": "/kəʊˌɒpəˈreɪʃən/" },
+  {
+    "chinese": "国际合作对于解决环境问题至关重要",
+    "english": "International cooperation is crucial for solving environmental problems",
+    "soundmark": "/ˌɪntəˈnæʃənl kəʊˌɒpəˈreɪʃən ɪz ˈkruːʃəl fɔːr ˈsɒlvɪŋ ɪnˌvaɪrənˈmɛntl ˈprɒbləmz/"
+  },
+  { "chinese": "创新", "english": "innovation", "soundmark": "/ˌɪnəˈveɪʃən/" },
+  {
+    "chinese": "创新驱动发展",
+    "english": "Innovation drives development",
+    "soundmark": "/ˌɪnəˈveɪʃən draɪvz dɪˈvɛləpmənt/"
+  },
+  { "chinese": "反思", "english": "reflection", "soundmark": "/rɪˈflɛkʃən/" },
+  {
+    "chinese": "我们应该经常反思自己的行为",
+    "english": "We should frequently reflect on our own behavior",
+    "soundmark": "/wiː ʃʊd ˈfriːkwəntli rɪˈflɛkt ɒn aʊər əʊn bɪˈheɪvjər/"
+  },
+  { "chinese": "perspective", "english": "perspective", "soundmark": "/pərˈspɛktɪv/" },
+  {
+    "chinese": "从不同的角度看问题会得到不同的结论",
+    "english": "Looking at problems from different perspectives yields different conclusions",
+    "soundmark": "/ˈlʊkɪŋ ət ˈprɒbləmz frɒm ˈdɪfrənt pərˈspɛktɪvz jiːldz ˈdɪfrənt kənˈkluːʒənz/"
+  },
+  { "chinese": "悖论", "english": "paradox", "soundmark": "/ˈpærədɒks/" },
+  {
+    "chinese": "技术进步带来了一个有趣的悖论",
+    "english": "Technological progress has brought about an interesting paradox",
+    "soundmark": "/ˌtɛknəˈlɒdʒɪkəl ˈprɒɡrɛs hæz brɔːt əˈbaʊt ən ˈɪntrəstɪŋ ˈpærədɒks/"
+  },
+  { "chinese": "人性", "english": "human nature", "soundmark": "/ˈhjuːmən ˈneɪtʃər/" },
+  {
+    "chinese": "了解人性有助于改善人际关系",
+    "english": "Understanding human nature helps improve interpersonal relationships",
+    "soundmark": "/ˌʌndəˈstændɪŋ ˈhjuːmən ˈneɪtʃər hɛlps ɪmˈpruːv ˌɪntərˈpɜːsənl rɪˈleɪʃənʃɪps/"
+  },
+  { "chinese": "价值观", "english": "values", "soundmark": "/ˈvæljuːz/" },
+  {
+    "chinese": "核心价值观塑造了一个国家的精神面貌",
+    "english": "Core values shape the spiritual outlook of a nation",
+    "soundmark": "/kɔːr ˈvæljuːz ʃeɪp ðə ˈspɪrɪtʃʊəl ˈaʊtlʊk ɒv ə ˈneɪʃən/"
+  },
+  { "chinese": "世界观", "english": "worldview", "soundmark": "/ˈwɜːldvjuː/" },
+  {
+    "chinese": "旅行可以拓宽我们的世界观",
+    "english": "Travel can broaden our worldview",
+    "soundmark": "/ˈtrævəl kæn ˈbrɔːdən aʊər ˈwɜːldvjuː/"
+  },
+  { "chinese": "理想", "english": "ideal", "soundmark": "/aɪˈdɪəl/" },
+  {
+    "chinese": "理想与现实之间总是存在差距",
+    "english": "There is always a gap between ideals and reality",
+    "soundmark": "/ðeər ɪz ˈɔːlweɪz ə ɡæp bɪˈtwiːn aɪˈdɪəlz ænd riˈælɪti/"
+  },
+  {
+    "chinese": "真理越辩越明",
+    "english": "Truth becomes clearer through debate",
+    "soundmark": "/truːθ bɪˈkʌmz ˈkliːrər θruː dɪˈbeɪt/"
+  },
+  {
+    "chinese": "教育不应该仅仅是知识的传授",
+    "english": "Education should not merely be the transmission of knowledge",
+    "soundmark": "/ˌɛdʒʊˈkeɪʃən ʃʊd nɒt ˈmɪəli biː ðə trænzˈmɪʃən ɒv ˈnɒlɪdʒ/"
+  },
+  {
+    "chinese": "只有全社会共同努力，环境污染问题才能得到根本解决",
+    "english": "Only with the joint efforts of the whole society can environmental pollution be fundamentally solved",
+    "soundmark": "/ˈəʊnli wɪð ðə dʒɔɪnt ˈɛfəts ɒv ðə həʊl səˈsaɪəti kæn ɪnˌvaɪrənˈmɛntl pəˈluːʃən biː ˌfʌndəˈmɛntləli sɒlvd/"
+  },
+  {
+    "chinese": "直到失去健康，人们才意识到它的重要性",
+    "english": "Not until people lose their health do they realize its importance",
+    "soundmark": "/nɒt ənˈtaɪl ˈpiːpl luːz ðeər hɛlθ duː ðeɪ ˈriːəlaɪz ɪts ɪmˈpɔːtəns/"
+  },
+  {
+    "chinese": "科学是打开未知世界大门的钥匙",
+    "english": "Science is the key to unlocking the door to the unknown world",
+    "soundmark": "/ˈsaɪəns ɪz ðə kiː tuː ˌʌnˈlɒkɪŋ ðə dɔːr tuː ði ʌnˈnəʊn wɜːld/"
+  },
+  {
+    "chinese": "人类对宇宙的探索永无止境",
+    "english": "Humanity's exploration of the universe is endless",
+    "soundmark": "/hjuːˈmænɪtiz ˌɛksplɔːˈreɪʃən ɒv ðə ˈjuːnɪvɜːs ɪz ˈɛndlɪs/"
+  },
+  {
+    "chinese": "时间是最公平的资源",
+    "english": "Time is the fairest of all resources",
+    "soundmark": "/taɪm ɪz ðə ˈfeərɪst ɒv ɔːl rɪˈsɔːsɪz/"
+  },
+  {
+    "chinese": "知识就是力量",
+    "english": "Knowledge is power",
+    "soundmark": "/ˈnɒlɪdʒ ɪz ˈpaʊər/"
+  },
+  {
+    "chinese": "每个人对幸福的定义不同",
+    "english": "Everyone has a different definition of happiness",
+    "soundmark": "/ˈɛvrɪwʌn hæz ə ˈdɪfrənt ˌdɛfɪˈnɪʃən ɒv ˈhæpinəs/"
+  },
+  {
+    "chinese": "传统与现代之间的冲突日益加剧",
+    "english": "The conflict between tradition and modernity is intensifying",
+    "soundmark": "/ðə ˈkɒnflɪkt bɪˈtwiːn trəˈdɪʃən ænd məˈdɜːnɪti ɪz ɪnˈtɛnsɪfaɪɪŋ/"
+  },
+  {
+    "chinese": "文化多样性是人类的宝贵财富",
+    "english": "Cultural diversity is a precious treasure of humanity",
+    "soundmark": "/ˈkʌltʃərəl daɪˈvɜːsɪti ɪz ə ˈprɛʃəs ˈtrɛʒər ɒv hjuːˈmænɪti/"
+  },
+  {
+    "chinese": "历史告诉我们，和平来之不易",
+    "english": "History tells us that peace does not come easily",
+    "soundmark": "/ˈhɪstəri tɛlz ʌs ðæt piːs dʌz nɒt kʌm ˈiːzɪli/"
+  },
+  {
+    "chinese": "贫穷不是耻辱，但拒绝改变才是",
+    "english": "Poverty is not a disgrace, but refusing to change is",
+    "soundmark": "/ˈpɒvəti ɪz nɒt ə dɪsˈɡreɪs, bʌt rɪˈfjuːzɪŋ tuː ˈtʃeɪndʒ ɪz/"
+  },
+  {
+    "chinese": "真正的强者不是没有眼泪，而是含着泪奔跑",
+    "english": "True strength is not about having no tears, but running with tears in your eyes",
+    "soundmark": "/truː strɛŋθ ɪz nɒt əˈbaʊt ˈhævɪŋ nəʊ tɪərz, bʌt ˈrʌnɪŋ wɪð tɪərz ɪn jɔːr aɪz/"
+  },
+  {
+    "chinese": "成功没有捷径",
+    "english": "There is no shortcut to success",
+    "soundmark": "/ðeər ɪz nəʊ ˈʃɔːtkʌt tuː səkˈsɛs/"
+  },
+  {
+    "chinese": "失败是成功之母",
+    "english": "Failure is the mother of success",
+    "soundmark": "/ˈfeɪljər ɪz ðə ˈmʌðər ɒv səkˈsɛs/"
+  },
+  {
+    "chinese": "与其抱怨，不如行动",
+    "english": "Rather than complain, we should take action",
+    "soundmark": "/ˈrɑːðər ðæn kəmˈpleɪn, wiː ʃʊd teɪk ˈækʃən/"
+  },
+  {
+    "chinese": "没有人天生就是专家",
+    "english": "No one is born an expert",
+    "soundmark": "/nəʊ wʌn ɪz bɔːn ən ˈɛkspɜːt/"
+  },
+  {
+    "chinese": "学习是一生的旅程",
+    "english": "Learning is a lifelong journey",
+    "soundmark": "/ˈlɜːnɪŋ ɪz ə ˈlaɪflɒŋ ˈdʒɜːni/"
+  },
+  {
+    "chinese": "少数服从多数不一定是正确的原则",
+    "english": "The minority yielding to the majority is not necessarily a correct principle",
+    "soundmark": "/ðə maɪˈnɒrəti ˈjiːldɪŋ tuː ðə məˈdʒɒrɪti ɪz nɒt ˌnɛsəˈsɛrɪli ə kəˈrɛkt ˈprɪnsɪpəl/"
+  },
+  {
+    "chinese": "绝对的权力导致绝对的腐败",
+    "english": "Absolute power leads to absolute corruption",
+    "soundmark": "/ˈæbsəluːt ˈpaʊər liːdz tuː ˈæbsəluːt kəˈrʌpʃən/"
+  },
+  {
+    "chinese": "法律面前人人平等",
+    "english": "Everyone is equal before the law",
+    "soundmark": "/ˈɛvrɪwʌn ɪz ˈiːkwəl bɪˈfɔːr ðə lɔː/"
+  },
+  {
+    "chinese": "不仅政府，每个公民也应为环保承担责任",
+    "english": "Not only the government but also every citizen should take responsibility for environmental protection",
+    "soundmark": "/nɒt ˈəʊnli ðə ˈɡʌvənmənt bʌt ˈɔːlsə ˈɛvri ˈsɪtɪzən ʃʊd teɪk rɪˌspɒnsəˈbɪləti fɔːr ɪnˌvaɪrənˈmɛntl prəˈtɛkʃən/"
+  },
+  {
+    "chinese": "我从未想过会有一天生活在这样的世界里",
+    "english": "Never did I imagine living in such a world one day",
+    "soundmark": "/ˈnɛvər dɪd aɪ ɪˈmædʒɪn ˈlɪvɪŋ ɪn sʌtʃ ə wɜːld wʌn deɪ/"
+  },
+  {
+    "chinese": "正是这次经历改变了我的人生观",
+    "english": "It was this experience that changed my outlook on life",
+    "soundmark": "/ɪt wɒz ðɪs ɪkˈspɪəriəns ðæt ˈtʃeɪndʒd maɪ ˈaʊtlʊk ɒn laɪf/"
+  },
+  {
+    "chinese": "你花在学习上的时间越多，收获就越大",
+    "english": "The more time you spend on learning, the greater the rewards",
+    "soundmark": "/ðə mɔːr taɪm juː spɛnd ɒn ˈlɜːnɪŋ, ðə ˈɡreɪtər ðə rɪˈwɔːdz/"
+  },
+  {
+    "chinese": "他演讲得和他写文章一样好",
+    "english": "He speaks as well as he writes",
+    "soundmark": "/hiː spiːks æz wɛl æz hiː raɪts/"
+  },
+  {
+    "chinese": "这是近年来最具影响力的发明之一",
+    "english": "This is one of the most influential inventions in recent years",
+    "soundmark": "/ðɪs ɪz wʌn ɒv ðə məʊst ˌɪnflʊˈɛnʃəl ɪnˈvɛnʃənz ɪn ˈriːsnt jɪərz/"
+  },
+  {
+    "chinese": "主语和谓语必须在人称和数上保持一致",
+    "english": "The subject and the predicate must agree in person and number",
+    "soundmark": "/ðə ˈsʌbdʒɪkt ænd ðə ˈprɛdɪkət mʌst əˈɡriː ɪn ˈpɜːsən ænd ˈnʌmbər/"
+  },
+  {
+    "chinese": "经济数据表明形势正在好转",
+    "english": "Economic data indicate that the situation is improving",
+    "soundmark": "/ˌiːkəˈnɒmɪk ˈdeɪtə ˈɪndɪkeɪt ðæt ðə ˌsɪtʃuˈeɪʃən ɪz ɪmˈpruːvɪŋ/"
+  },
+  {
+    "chinese": "不仅学生，老师也从这堂课中受益匪浅",
+    "english": "Not only the students but also the teacher benefited greatly from this lesson",
+    "soundmark": "/nɒt ˈəʊnli ðə ˈstjuːdənts bʌt ˈɔːlsə ðə ˈtiːtʃər ˈbɛnɪfɪtɪd ˈɡreɪtli frɒm ðɪs ˈlɛsn/"
+  },
+  {
+    "chinese": "每一代人都面临着独特的挑战",
+    "english": "Each generation faces unique challenges",
+    "soundmark": "/iːtʃ ˌdʒɛnəˈreɪʃən ˈfeɪsɪz juːˈniːk ˈtʃæləndʒɪz/"
+  },
+  {
+    "chinese": "教育是消除贫困的根本途径",
+    "english": "Education is the fundamental way to eliminate poverty",
+    "soundmark": "/ˌɛdʒʊˈkeɪʃən ɪz ðə ˈfʌndəmɛntl weɪ tuː ɪˈlɪmɪneɪt ˈpɒvəti/"
+  },
+  {
+    "chinese": "科技是一把双刃剑",
+    "english": "Technology is a double-edged sword",
+    "soundmark": "/tɛkˈnɒlədʒi ɪz ə ˌdʌbl ˈɛdʒd sɔːd/"
+  },
+  {
+    "chinese": "只有尊重差异，社会才能和谐发展",
+    "english": "Only by respecting differences can society develop harmoniously",
+    "soundmark": "/ˈəʊnli baɪ rɪsˈpɛktɪŋ ˈdɪfrənsɪz kæn səˈsaɪəti dɪˈvɛləp hɑːˈməʊniəsli/"
+  },
+  {
+    "chinese": "他很少缺席课堂",
+    "english": "Seldom does he miss a class",
+    "soundmark": "/ˈsɛldəm dʌz hiː mɪs ə klɑːs/"
+  },
+  {
+    "chinese": "我们绝不能忽视环境问题",
+    "english": "By no means should we ignore environmental issues",
+    "soundmark": "/baɪ nəʊ miːnz ʃʊd wiː ɪɡˈnɔːr ɪnˌvaɪrənˈmɛntl ˈɪʃuːz/"
+  },
+  {
+    "chinese": "正是在逆境中，人的品格才得到真正的考验",
+    "english": "It is in adversity that a person's character is truly tested",
+    "soundmark": "/ɪt ɪz ɪn ədˈvɜːsɪti ðæt ə ˈpɜːsns ˈkærəktər ɪz ˈtruːli tɛstɪd/"
+  },
+  {
+    "chinese": "并非所有成功都值得追求",
+    "english": "Not all success is worth pursuing",
+    "soundmark": "/nɒt ɔːl səkˈsɛs ɪz wɜːθ pərˈsjuːɪŋ/"
+  },
+  {
+    "chinese": "机会总是留给有准备的人",
+    "english": "Opportunities always favor those who are prepared",
+    "soundmark": "/ˌɒpərˈtjuːnɪtiz ˈɔːlweɪz ˈfeɪvər ðəʊz huː ɑːr prɪˈpeəd/"
+  },
+  {
+    "chinese": "独处的能力是一种重要的心理素质",
+    "english": "The ability to be alone is an important psychological quality",
+    "soundmark": "/ði əˈbɪləti tuː biː əˈləʊn ɪz ən ɪmˈpɔːtənt ˌsaɪkəˈlɒdʒɪkəl ˈkwɒləti/"
+  },
+  {
+    "chinese": "人生的意义是一个永恒的哲学命题",
+    "english": "The meaning of life is an eternal philosophical proposition",
+    "soundmark": "/ðə ˈmiːnɪŋ ɒv laɪf ɪz ən ɪˈtɜːnl ˌfɪləˈsɒfɪkəl ˌprɒpəˈzɪʃən/"
+  },
+  {
+    "chinese": "在信息爆炸的时代，辨别真伪的能力尤为重要",
+    "english": "In the age of information explosion, the ability to distinguish truth from falsehood is particularly important",
+    "soundmark": "/ɪn ði eɪdʒ ɒv ˌɪnfərˈmeɪʃən ɪkˈspləʊʒən, ði əˈbɪləti tuː dɪsˈtɪŋɡwɪʃ truːθ frɒm ˈfɔːlshʊd ɪz pəˈtɪkjʊləli ɪmˈpɔːtənt/"
+  },
+  {
+    "chinese": "社会进步需要每个人的参与",
+    "english": "Social progress requires the participation of everyone",
+    "soundmark": "/ˈsəʊʃəl ˈprɒɡrɛs rɪˈkwaɪəz ðə pɑːrˌtɪsɪˈpeɪʃən ɒv ˈɛvrɪwʌn/"
+  },
+  {
+    "chinese": "一个人的价值不在于他拥有什么，而在于他是什么样的人",
+    "english": "A person's value lies not in what he possesses, but in what kind of person he is",
+    "soundmark": "/ə ˈpɜːsns ˈvæljuː laɪz nɒt ɪn wɒt hiː pəˈzɛsɪz, bʌt ɪn wɒt kaɪnd ɒv ˈpɜːsn hiː ɪz/"
+  },
+  {
+    "chinese": "成功的秘诀在于坚持不懈",
+    "english": "The secret of success lies in perseverance",
+    "soundmark": "/ðə ˈsiːkrɪt ɒv səkˈsɛs laɪz ɪn ˌpɜːsɪˈvɪərəns/"
+  },
+  {
+    "chinese": "没有人能随随便便成功",
+    "english": "No one can succeed casually",
+    "soundmark": "/nəʊ wʌn kæn səkˈsiːd ˈkæʒʊəli/"
+  },
+  {
+    "chinese": "在这个世界上没有免费的午餐",
+    "english": "There is no such thing as a free lunch in this world",
+    "soundmark": "/ðeər ɪz nəʊ sʌtʃ θɪŋ æz ə friː lʌntʃ ɪn ðɪs wɜːld/"
+  },
+  {
+    "chinese": "读书使人充实，思考使人深刻",
+    "english": "Reading makes a person full, and thinking makes a person profound",
+    "soundmark": "/ˈriːdɪŋ meɪks ə ˈpɜːsn fʊl, ænd ˈθɪŋkɪŋ meɪks ə ˈpɜːsn prəˈfaʊnd/"
+  },
+  {
+    "chinese": "伟大的思想常常诞生于孤独之中",
+    "english": "Great ideas are often born in solitude",
+    "soundmark": "/ɡreɪt aɪˈdɪəz ɑːr ˈɒfən bɔːn ɪn ˈsɒlɪtjuːd/"
+  },
+  {
+    "chinese": "自由不意味着放纵",
+    "english": "Freedom does not mean indulgence",
+    "soundmark": "/ˈfriːdəm dʌz nɒt miːn ˈɪndʌldʒəns/"
+  },
+  {
+    "chinese": "权利伴随着责任",
+    "english": "Rights come with responsibilities",
+    "soundmark": "/raɪts kʌm wɪð rɪsˌpɒnsəˈbɪlɪtiz/"
+  },
+  {
+    "chinese": "只有当我们接受自己的不完美时，才能真正成长",
+    "english": "Only when we accept our imperfections can we truly grow",
+    "soundmark": "/ˈəʊnli wɛn wiː əkˈsɛpt aʊər ɪmˈpɜːfɛkʃənz kæn wiː ˈtruːli ɡrəʊ/"
+  },
+  {
+    "chinese": "环境一旦被破坏，恢复将需要数十年",
+    "english": "Once the environment is destroyed, restoration will take decades",
+    "soundmark": "/wʌns ði ɪnˈvaɪrənmənt ɪz dɪsˈtrɔɪd, ˌrɛstəˈreɪʃən wɪl teɪk ˈdɛkeɪdz/"
+  },
+  {
+    "chinese": "无论是贫穷还是富有，每个人都渴望被尊重",
+    "english": "Whether rich or poor, everyone desires to be respected",
+    "soundmark": "/ˈwɛðər rɪtʃ ɔːr pɔːr, ˈɛvrɪwʌn dɪˈzaɪərz tuː biː rɪsˈpɛktɪd/"
+  },
+  {
+    "chinese": "梦想再小，也值得为之努力",
+    "english": "No matter how small a dream is, it is worth striving for",
+    "soundmark": "/nəʊ mætər haʊ smɔːl ə driːm ɪz, ɪt ɪz wɜːθ ˈstraɪvɪŋ fɔːr/"
+  },
+  {
+    "chinese": "生命之所以珍贵，正因为它是有限的",
+    "english": "Life is precious precisely because it is limited",
+    "soundmark": "/laɪf ɪz ˈprɛʃəs prɪˈsaɪsli bɪˈkɒz ɪt ɪz ˈlɪmɪtɪd/"
+  },
+  {
+    "chinese": "教育的目的不是填满一桶水，而是点燃一把火",
+    "english": "The purpose of education is not to fill a bucket, but to light a fire",
+    "soundmark": "/ðə ˈpɜːpəs ɒv ˌɛdʒʊˈkeɪʃən ɪz nɒt tuː fɪl ə ˈbʌkɪt, bʌt tuː laɪt ə faɪər/"
+  },
+  {
+    "chinese": "正是这些日常的小事塑造了我们的性格",
+    "english": "It is these everyday small things that shape our character",
+    "soundmark": "/ɪt ɪz ðiːz ˈɛvrideɪ smɔːl θɪŋz ðæt ʃeɪp aʊər ˈkærəktər/"
+  },
+  {
+    "chinese": "你读的书越多，你的世界就越大",
+    "english": "The more books you read, the bigger your world becomes",
+    "soundmark": "/ðə mɔːr bʊks juː riːd, ðə ˈbɪɡər jɔːr wɜːld bɪˈkʌmz/"
+  },
+  {
+    "chinese": "他比班上任何人都用功",
+    "english": "He is more diligent than anyone else in the class",
+    "soundmark": "/hiː ɪz mɔːr ˈdɪlɪdʒənt ðæn ˈɛnɪwʌn ɛls ɪn ðə klɑːs/"
+  },
+  {
+    "chinese": "这是世界上最复杂的难题之一",
+    "english": "This is one of the most complex problems in the world",
+    "soundmark": "/ðɪs ɪz wʌn ɒv ðə məʊst ˈkɒmplɛks ˈprɒbləmz ɪn ðə wɜːld/"
+  },
+  {
+    "chinese": "与其浪费时间后悔，不如吸取教训",
+    "english": "Rather than wasting time regretting, we should learn from our mistakes",
+    "soundmark": "/ˈrɑːðər ðæn ˈweɪstɪŋ taɪm rɪˈɡrɛtɪŋ, wiː ʃʊd lɜːn frɒm aʊər mɪˈsteɪks/"
+  },
+  {
+    "chinese": "经验是最好的老师",
+    "english": "Experience is the best teacher",
+    "soundmark": "/ɪkˈspɪəriəns ɪz ðə bɛst ˈtiːtʃər/"
+  },
+  {
+    "chinese": "在这个竞争激烈的社会中，只有不断学习才能跟上时代",
+    "english": "In this fiercely competitive society, only by constantly learning can we keep up with the times",
+    "soundmark": "/ɪn ðɪs ˈfɪəsli kəmˈpɛtɪtɪv səˈsaɪəti, ˈəʊnli baɪ ˈkɒnstəntli ˈlɜːnɪŋ kæn wiː kiːp ʌp wɪð ðə taɪmz/"
+  },
+  {
+    "chinese": "诚信是商业活动的根基",
+    "english": "Integrity is the foundation of business activities",
+    "soundmark": "/ɪnˈteɡrəti ɪz ðə faʊnˈdeɪʃən ɒv ˈbɪznɪs ækˈtɪvɪtiz/"
+  },
+  {
+    "chinese": "真正的友谊经得起时间的考验",
+    "english": "True friendship can stand the test of time",
+    "soundmark": "/truː ˈfrɛndʃɪp kæn stænd ðə tɛst ɒv taɪm/"
+  },
+  {
+    "chinese": "我们不仅要关注经济发展，更要注重社会公平",
+    "english": "Not only should we focus on economic development, but we should also pay attention to social fairness",
+    "soundmark": "/nɒt ˈəʊnli ʃʊd wiː fəʊkəs ɒn ˌiːkəˈnɒmɪk dɪˈvɛləpmənt, bʌt wiː ʃʊd ˈɔːlsə peɪ əˈtɛnʃən tuː ˈsəʊʃəl ˈfeənɪs/"
+  },
+  {
+    "chinese": "从山顶望去，风景美得令人窒息",
+    "english": "Seen from the top of the mountain, the scenery is breathtakingly beautiful",
+    "soundmark": "/siːn frɒm ðə tɒp ɒv ðə ˈmaʊntən, ðə ˈsiːnəri ɪz ˈbrɛθteɪkɪŋli ˈbjuːtɪfʊl/"
+  },
+  {
+    "chinese": "他们之间的关系和从前一样亲密",
+    "english": "Their relationship is as close as it was before",
+    "soundmark": "/ðeər rɪˈleɪʃənʃɪp ɪz æz kləʊz æz ɪt wɒz bɪˈfɔːr/"
+  },
+  {
+    "chinese": "这是我有生以来听过的最感人的演讲",
+    "english": "This is the most touching speech I have ever heard in my life",
+    "soundmark": "/ðɪs ɪz ðə məʊst ˈtʌtʃɪŋ spiːtʃ aɪ hæv ˈɛvər hɜːd ɪn maɪ laɪf/"
+  },
+  {
+    "chinese": "他很少在公开场合发表意见",
+    "english": "Rarely does he express his opinions in public",
+    "soundmark": "/ˈreəli dʌz hiː ɪksˈprɛs hɪz əˈpɪnjənz ɪn ˈpʌblɪk/"
+  },
+  {
+    "chinese": "不仅教育，医疗保健也应成为基本人权",
+    "english": "Not only education but also healthcare should be a basic human right",
+    "soundmark": "/nɒt ˈəʊnli ˌɛdʒʊˈkeɪʃən bʌt ˈɔːlsə ˈhɛlθkeər ʃʊd biː ə ˈbeɪsɪk ˈhjuːmən raɪt/"
+  },
+  {
+    "chinese": "正是在最黑暗的时刻，我们才能看到星星",
+    "english": "It is in the darkest hour that we can see the stars",
+    "soundmark": "/ɪt ɪz ɪn ðə ˈdɑːkɪst ˈaʊər ðæt wiː kæn siː ðə stɑːrz/"
+  },
+  {
+    "chinese": "社会的发展离不开每个人的努力",
+    "english": "The development of society cannot be separated from everyone's efforts",
+    "soundmark": "/ðə dɪˈvɛləpmənt ɒv səˈsaɪəti ˈkænɒt biː ˈsɛpəreɪtɪd frɒm ˈɛvrɪwʌnz ˈɛfəts/"
+  },
+  {
+    "chinese": "语言的界限就是世界的界限",
+    "english": "The limits of language are the limits of the world",
+    "soundmark": "/ðə ˈlɪmɪts ɒv ˈlæŋɡwɪdʒ ɑːr ðə ˈlɪmɪts ɒv ðə wɜːld/"
+  },
+  {
+    "chinese": "思想的力量比任何武器都要强大",
+    "english": "The power of thought is stronger than any weapon",
+    "soundmark": "/ðə ˈpaʊər ɒv θɔːt ɪz ˈstrɒŋər ðæn ˈɛni ˈwɛpən/"
+  },
+  {
+    "chinese": "环境问题不再仅仅是科学问题，更是道德问题",
+    "english": "Environmental issues are no longer merely scientific problems, but moral ones",
+    "soundmark": "/ɪnˌvaɪrənˈmɛntl ˈɪʃuːz ɑːr nəʊ ˈlɒŋər ˈmɪəli ˌsaɪənˈtɪfɪk ˈprɒbləmz, bʌt ˈmɒrəl wʌnz/"
+  },
+  {
+    "chinese": "文化传承需要每一代人的努力",
+    "english": "Cultural heritage requires the efforts of every generation",
+    "soundmark": "/ˈkʌltʃərəl ˈhɛrɪtɪdʒ rɪˈkwaɪəz ði ˈɛfəts ɒv ˈɛvri ˌdʒɛnəˈreɪʃən/"
+  },
+  {
+    "chinese": "在这个快速变化的时代，适应能力比专业知识更重要",
+    "english": "In this rapidly changing era, adaptability is more important than professional knowledge",
+    "soundmark": "/ɪn ðɪs ˈræpɪdli ˈtʃeɪndʒɪŋ ˈɪərə, əˌdæptəˈbɪləti ɪz mɔːr ɪmˈpɔːtənt ðæn prəˈfɛʃənl ˈnɒlɪdʒ/"
+  },
+  {
+    "chinese": "你思考得越深入，问题就越清晰",
+    "english": "The more deeply you think, the clearer the problem becomes",
+    "soundmark": "/ðə mɔːr ˈdiːpli juː θɪŋk, ðə ˈkliːrər ðə ˈprɒbləm bɪˈkʌmz/"
+  },
+  {
+    "chinese": "这座城市的空气质量比十年前好了很多",
+    "english": "The air quality in this city is much better than it was ten years ago",
+    "soundmark": "/ði eər ˈkwɒlɪti ɪn ðɪs ˈsɪti ɪz mʌtʃ ˈbɛtər ðæn ɪt wɒz tɛn jɪərz əˈɡəʊ/"
+  },
+  {
+    "chinese": "这是世界上最美的地方之一",
+    "english": "This is one of the most beautiful places in the world",
+    "soundmark": "/ðɪs ɪz wʌn ɒv ðə məʊst ˈbjuːtɪfʊl ˈpleɪsɪz ɪn ðə wɜːld/"
+  },
+  {
+    "chinese": "公民意识和法律意识同等重要",
+    "english": "Civic awareness is as important as legal awareness",
+    "soundmark": "/ˈsɪvɪk əˈweənɪs ɪz æz ɪmˈpɔːtənt æz ˈliːɡəl əˈweənɪs/"
+  },
+  {
+    "chinese": "只有全社会共同努力才能有效应对气候变化",
+    "english": "Only through the collective efforts of the whole society can we effectively address climate change",
+    "soundmark": "/ˈəʊnli θruː ðə kəˈlɛktɪv ˈɛfəts ɒv ðə həʊl səˈsaɪəti kæn wiː ɪˈfɛktɪvli əˈdrɛs ˈklaɪmət ˈtʃeɪndʒ/"
+  },
+  {
+    "chinese": "我几乎没有意识到时间过得这么快",
+    "english": "Little did I realize how fast time had passed",
+    "soundmark": "/ˈlɪtl dɪd aɪ ˈriːəlaɪz haʊ fɑːst taɪm hæd pɑːst/"
+  },
+  {
+    "chinese": "这绝不是一个可以轻易做出决定的问题",
+    "english": "This is by no means a problem that can be easily decided",
+    "soundmark": "/ðɪs ɪz baɪ nəʊ miːnz ə ˈprɒbləm ðæt kæn biː ˈiːzɪli dɪˈsaɪdɪd/"
+  },
+  {
+    "chinese": "正是这次失败教会了我坚持的价值",
+    "english": "It was this failure that taught me the value of persistence",
+    "soundmark": "/ɪt wɒz ðɪs ˈfeɪljər ðæt tɔːt miː ðə ˈvæljuː ɒv pəˈsɪstəns/"
+  },
+  {
+    "chinese": "勇气不是没有恐惧，而是战胜恐惧",
+    "english": "Courage is not the absence of fear, but the triumph over it",
+    "soundmark": "/ˈkʌrɪdʒ ɪz nɒt ði ˈæbsəns ɒv fɪər, bʌt ðə ˈtraɪʌmf ˈəʊvər ɪt/"
+  },
+  {
+    "chinese": "历史总是惊人的相似",
+    "english": "History always repeats itself in surprising ways",
+    "soundmark": "/ˈhɪstəri ˈɔːlweɪz rɪˈpiːts ɪtˈsɛlf ɪn sərˈpraɪzɪŋ weɪz/"
+  },
+  {
+    "chinese": "人与人之间的信任是合作的基础",
+    "english": "Trust between people is the foundation of cooperation",
+    "soundmark": "/trʌst bɪˈtwiːn ˈpiːpl ɪz ðə faʊnˈdeɪʃən ɒv kəʊˌɒpəˈreɪʃən/"
+  },
+  {
+    "chinese": "没有人天生就懂得如何面对困难",
+    "english": "No one is born knowing how to face difficulties",
+    "soundmark": "/nəʊ wʌn ɪz bɔːn ˈnəʊɪŋ haʊ tuː feɪs ˈdɪfɪkəltiz/"
+  },
+  {
+    "chinese": "智慧不在于知道一切，而在于知道如何找到答案",
+    "english": "Wisdom is not knowing everything, but knowing how to find answers",
+    "soundmark": "/ˈwɪzdəm ɪz nɒt ˈnəʊɪŋ ˈɛvrɪθɪŋ, bʌt ˈnəʊɪŋ haʊ tuː faɪnd ˈɑːnsərz/"
+  },
+  {
+    "chinese": "如果你想要改变世界，先改变自己",
+    "english": "If you want to change the world, start by changing yourself",
+    "soundmark": "/ɪf juː wɒnt tuː ˈtʃeɪndʒ ðə wɜːld, stɑːt baɪ ˈtʃeɪndʒɪŋ jɔːrˈsɛlf/"
+  },
+  {
+    "chinese": "真正的快乐来自内心的宁静",
+    "english": "True happiness comes from inner peace",
+    "soundmark": "/truː ˈhæpinəs kʌmz frɒm ˈɪnər piːs/"
+  },
+  {
+    "chinese": "一个没有梦想的人生就像没有罗盘的航船",
+    "english": "A life without dreams is like a ship without a compass",
+    "soundmark": "/ə laɪf wɪˈðaʊt driːmz ɪz laɪk ə ʃɪp wɪˈðaʊt ə ˈkʌmpəs/"
+  },
+  {
+    "chinese": "只有经历了风雨，才能看到彩虹",
+    "english": "Only after going through storms can we see the rainbow",
+    "soundmark": "/ˈəʊnli ˈɑːftər ˈɡəʊɪŋ θruː stɔːmz kæn wiː siː ðə ˈreɪnbəʊ/"
+  },
+  {
+    "chinese": "每一个成功背后都有无数次的失败",
+    "english": "Behind every success lie countless failures",
+    "soundmark": "/bɪˈhaɪnd ˈɛvri səkˈsɛs laɪ ˈkaʊntlɪs ˈfeɪljərz/"
+  },
+  {
+    "chinese": "在这个数字化时代，数据被称为新时代的石油",
+    "english": "In this digital age, data is called the oil of the new era",
+    "soundmark": "/ɪn ðɪs ˈdɪdʒɪtl eɪdʒ, ˈdeɪtə ɪz kɔːld ði ɔɪl ɒv ðə njuː ˈɪərə/"
+  },
+  {
+    "chinese": "全球化不仅带来了经济机遇，也带来了文化冲击",
+    "english": "Globalization has brought not only economic opportunities but also cultural shocks",
+    "soundmark": "/ˌɡləʊbəlaɪˈzeɪʃən hæz brɔːt nɒt ˈəʊnli ˌiːkəˈnɒmɪk ˌɒpərˈtjuːnɪtiz bʌt ˈɔːlsə ˈkʌltʃərəl ʃɒks/"
+  },
+  {
+    "chinese": "责任感是衡量一个人品格的重要标准",
+    "english": "Sense of responsibility is an important criterion for measuring a person's character",
+    "soundmark": "/sɛns ɒv rɪsˌpɒnsəˈbɪlɪti ɪz ən ɪmˈpɔːtənt kraɪˈtɪərɪən fɔːr ˈmɛʒərɪŋ ə ˈpɜːsns ˈkærəktər/"
+  },
+  {
+    "chinese": "人们对于人工智能的担忧是可以理解的",
+    "english": "People's concerns about artificial intelligence are understandable",
+    "soundmark": "/ˈpiːplz kənˈsɜːnz əˈbaʊt ˌɑːtɪˈfɪʃəl ɪntəˈlɪdʒəns ɑːr ˌʌndəˈstændəbl/"
+  },
+  {
+    "chinese": "只有不断创新才能在激烈的市场竞争中生存",
+    "english": "Only through continuous innovation can we survive in the fierce market competition",
+    "soundmark": "/ˈəʊnli θruː kənˈtɪnjʊəs ˌɪnəˈveɪʃən kæn wiː səˈvaɪv ɪn ðə fɪəs ˈmɑːkɪt ˌkɒmpəˈtɪʃən/"
+  },
+  {
+    "chinese": "没有哪个时代比现在更需要批判性思维",
+    "english": "No era has needed critical thinking more than the present one",
+    "soundmark": "/nəʊ ˈɪərə hæz ˈniːdɪd ˈkrɪtɪkəl ˈθɪŋkɪŋ mɔːr ðæn ðə ˈprɛzənt wʌn/"
+  },
+  {
+    "chinese": "平等不意味着相同，每个人都有独特的价值",
+    "english": "Equality does not mean sameness; everyone has unique value",
+    "soundmark": "/ɪˈkwɒləti dʌz nɒt miːn ˈseɪmnɪs; ˈɛvrɪwʌn hæz juːˈniːk ˈvæljuː/"
+  },
+  {
+    "chinese": "正是那些看似微不足道的小事，最终决定了人生的方向",
+    "english": "It is those seemingly insignificant small things that ultimately determine the direction of life",
+    "soundmark": "/ɪt ɪz ðəʊz ˈsiːmɪŋli ˌɪnsɪɡˈnɪfɪkənt smɔːl θɪŋz ðæt ˈʌltɪmɪtli dɪˈtɜːmɪn ðə dɪˈrɛkʃən ɒv laɪf/"
+  },
+  {
+    "chinese": "我从未遇到过如此执着的人",
+    "english": "Never have I met such a persistent person",
+    "soundmark": "/ˈnɛvər hæv aɪ mɛt sʌtʃ ə pəˈsɪstənt ˈpɜːsn/"
+  },
+  {
+    "chinese": "我们绝不能因为困难而放弃追求真理",
+    "english": "On no account should we give up the pursuit of truth because of difficulties",
+    "soundmark": "/ɒn nəʊ əˈkaʊnt ʃʊd wiː ɡɪv ʌp ðə pəˈsjuːt ɒv truːθ bɪˈkɒz ɒv ˈdɪfɪkəltiz/"
+  },
+  {
+    "chinese": "随着社会的发展，人们的价值观念也在不断变化",
+    "english": "As society develops, people's values are constantly changing",
+    "soundmark": "/æz səˈsaɪəti dɪˈvɛləps, ˈpiːplz ˈvæljuːz ɑːr ˈkɒnstəntli ˈtʃeɪndʒɪŋ/"
+  },
+  {
+    "chinese": "真正的领导力不是发号施令，而是服务他人",
+    "english": "True leadership is not about giving orders, but about serving others",
+    "soundmark": "/truː ˈliːdəʃɪp ɪz nɒt əˈbaʊt ˈɡɪvɪŋ ˈɔːdərz, bʌt əˈbaʊt ˈsɜːvɪŋ ˈʌðərz/"
+  },
+  {
+    "chinese": "在多元文化社会中，包容是最重要的品质",
+    "english": "In a multicultural society, inclusiveness is the most important quality",
+    "soundmark": "/ɪn ə ˌmʌltiˈkʌltʃərəl səˈsaɪəti, ɪnˈkluːsɪvnɪs ɪz ðə məʊst ɪmˈpɔːtənt ˈkwɒləti/"
+  },
+  {
+    "chinese": "社会公平比经济增长更重要",
+    "english": "Social fairness is more important than economic growth",
+    "soundmark": "/ˈsəʊʃəl ˈfeənɪs ɪz mɔːr ɪmˈpɔːtənt ðæn ˌiːkəˈnɒmɪk ɡrəʊθ/"
+  },
+  {
+    "chinese": "不是环境造就人，而是人改变环境",
+    "english": "It is not circumstances that make people, but people who change circumstances",
+    "soundmark": "/ɪt ɪz nɒt ˈsɜːkəmstænsɪz ðæt meɪk ˈpiːpl, bʌt ˈpiːpl huː ˈtʃeɪndʒ ˈsɜːkəmstænsɪz/"
+  },
+  {
+    "chinese": "正是这种永不放弃的精神让他最终取得了成功",
+    "english": "It is this never-give-up spirit that ultimately led him to success",
+    "soundmark": "/ɪt ɪz ðɪs ˈnɛvər ɡɪv ʌp ˈspɪrɪt ðæt ˈʌltɪmɪtli lɛd hɪm tuː səkˈsɛs/"
+  },
+  {
+    "chinese": "你越早面对现实，就越早能找到解决办法",
+    "english": "The sooner you face reality, the sooner you can find a solution",
+    "soundmark": "/ðə ˈsuːnər juː feɪs riˈælɪti, ðə ˈsuːnər juː kæn faɪnd ə səˈluːʃən/"
+  },
+  {
+    "chinese": "他对工作的投入和以前一样认真",
+    "english": "He is as devoted to his work as he was before",
+    "soundmark": "/hiː ɪz æz dɪˈvəʊtɪd tuː hɪz wɜːk æz hiː wɒz bɪˈfɔːr/"
+  },
+  {
+    "chinese": "这是目前最紧迫的全球性问题之一",
+    "english": "This is one of the most pressing global issues at present",
+    "soundmark": "/ðɪs ɪz wʌn ɒv ðə məʊst ˈprɛsɪŋ ˈɡləʊbəl ˈɪʃuːz ət ˈprɛzənt/"
+  },
+  {
+    "chinese": "他很少在公众面前表露自己的情感",
+    "english": "Rarely does he show his emotions in public",
+    "soundmark": "/ˈreəli dʌz hiː ʃəʊ hɪz ɪˈməʊʃənz ɪn ˈpʌblɪk/"
+  },
+  {
+    "chinese": "自由和纪律并不是对立的，而是相辅相成的",
+    "english": "Freedom and discipline are not opposites, but complement each other",
+    "soundmark": "/ˈfriːdəm ænd ˈdɪsɪplɪn ɑːr nɒt ˈɒpəzɪts, bʌt ˈkɒmplɪmɛnt iːtʃ ˈʌðər/"
+  },
+  {
+    "chinese": "正是在最困难的时刻，我们才能看到人性最光辉的一面",
+    "english": "It is in the most difficult moments that we can see the most glorious side of human nature",
+    "soundmark": "/ɪt ɪz ɪn ðə məʊst ˈdɪfɪkəlt ˈməʊmənts ðæt wiː kæn siː ðə məʊst ˈɡlɔːriəs saɪd ɒv ˈhjuːmən ˈneɪtʃər/"
+  },
+  {
+    "chinese": "只有当你真正理解了别人，你才能获得别人的理解",
+    "english": "Only when you truly understand others can you gain their understanding",
+    "soundmark": "/ˈəʊnli wɛn juː ˈtruːli ˌʌndəˈstænd ˈʌðərz kæn juː ɡeɪn ðeər ˌʌndəˈstændɪŋ/"
+  },
+  {
+    "chinese": "每个人都应享有平等的教育机会",
+    "english": "Everyone should have equal access to educational opportunities",
+    "soundmark": "/ˈɛvrɪwʌn ʃʊd hæv ˈiːkwəl ˈæksɛs tuː ˌɛdʒʊˈkeɪʃənl ˌɒpərˈtjuːnɪtiz/"
+  },
+  {
+    "chinese": "真正的富有不是物质上的充裕，而是精神上的充实",
+    "english": "True wealth is not material abundance, but spiritual fulfillment",
+    "soundmark": "/truː wɛlθ ɪz nɒt məˈtɪəriəl əˈbʌndəns, bʌt ˈspɪrɪtʃʊəl fʊlˈfɪlmənt/"
+  },
+  {
+    "chinese": "历史证明，和平共处是唯一的出路",
+    "english": "History has proven that peaceful coexistence is the only way out",
+    "soundmark": "/ˈhɪstəri hæz ˈpruːvən ðæt ˈpiːsfʊl ˌkəʊɪɡˈzɪstəns ɪz ði ˈəʊnli weɪ aʊt/"
+  },
+  {
+    "chinese": "人工智能的发展引发了关于就业未来的深刻讨论",
+    "english": "The development of artificial intelligence has triggered profound discussions about the future of employment",
+    "soundmark": "/ðə dɪˈvɛləpmənt ɒv ˌɑːtɪˈfɪʃəl ɪntəˈlɪdʒəns hæz ˈtrɪɡərd prəˈfaʊnd dɪsˈkʌʃənz əˈbaʊt ðə ˈfjuːtʃər ɒv ɪmˈplɔɪmənt/"
+  },
+  {
+    "chinese": "这篇文章深刻分析了当代大学生面临的心理压力",
+    "english": "This essay profoundly analyzes the psychological stress faced by contemporary college students",
+    "soundmark": "/ðɪs ˈɛseɪ prəˈfaʊndli ˈænəlaɪzɪz ðə ˌsaɪkəˈlɒdʒɪkəl strɛs feɪst baɪ kənˈtɛmpərəri ˈkɒlɪdʒ ˈstjuːdənts/"
+  },
+  {
+    "chinese": "不仅要了解世界的复杂性，还要学会在不确定性中前行",
+    "english": "Not only should we understand the complexity of the world, but we should also learn to move forward in uncertainty",
+    "soundmark": "/nɒt ˈəʊnli ʃʊd wiː ˌʌndəˈstænd ðə kəmˈplɛksɪti ɒv ðə wɜːld, bʌt wiː ʃʊd ˈɔːlsə lɜːn tuː muːv ˈfɔːwəd ɪn ʌnˈsɜːtənti/"
+  },
+  {
+    "chinese": "在这个物质丰富的时代，精神层面的追求尤为重要",
+    "english": "In this age of material abundance, the pursuit of spiritual fulfillment is particularly important",
+    "soundmark": "/ɪn ðɪs eɪdʒ ɒv məˈtɪəriəl əˈbʌndəns, ðə pəˈsjuːt ɒv ˈspɪrɪtʃʊəl fʊlˈfɪlmənt ɪz pəˈtɪkjʊləli ɪmˈpɔːtənt/"
+  },
+  {
+    "chinese": "他的理论被认为是该领域最具突破性的贡献之一",
+    "english": "His theory is considered one of the most groundbreaking contributions in this field",
+    "soundmark": "/hɪz ˈθɪəri ɪz kənˈsɪdərd wʌn ɒv ðə məʊst ˈɡraʊndbreɪkɪŋ ˌkɒntrɪˈbjuːʃənz ɪn ðɪs fiːld/"
+  },
+  {
+    "chinese": "只有认识到自身局限，才能真正获得成长的空间",
+    "english": "Only by recognizing our own limitations can we truly gain room for growth",
+    "soundmark": "/ˈəʊnli baɪ ˈrɛkəɡnaɪzɪŋ aʊər əʊn ˌlɪmɪˈteɪʃənz kæn wiː ˈtruːli ɡeɪn ruːm fɔːr ɡrəʊθ/"
+  },
+  {
+    "chinese": "教育的最终目的是培养独立思考的能力",
+    "english": "The ultimate goal of education is to cultivate the ability to think independently",
+    "soundmark": "/ði ˈʌltɪmɪt ɡəʊl ɒv ˌɛdʒʊˈkeɪʃən ɪz tuː ˈkʌltɪveɪt ði əˈbɪləti tuː θɪŋk ˌɪndɪˈpɛndəntli/"
+  },
+  {
+    "chinese": "知识经济时代对人才的要求越来越高",
+    "english": "In the era of the knowledge economy, the demands for talent are increasingly high",
+    "soundmark": "/ɪn ði ˈɪərə ɒv ðə ˈnɒlɪdʒ ɪˈkɒnəmi, ðə dɪˈmɑːndz fɔːr ˈtælənt ɑːr ɪnˈkriːsɪŋli haɪ/"
+  },
+  {
+    "chinese": "你投入的精力越多，获得回报就越丰厚",
+    "english": "The more energy you invest, the more generous the returns",
+    "soundmark": "/ðə mɔːr ˈɛnədʒi juː ɪnˈvɛst, ðə mɔːr ˈdʒɛnərəs ðə rɪˈtɜːnz/"
+  },
+  {
+    "chinese": "他处理问题的方式和老师教的方法一样有效",
+    "english": "His way of handling problems is as effective as the method the teacher taught",
+    "soundmark": "/hɪz weɪ ɒv ˈhændlɪŋ ˈprɒbləmz ɪz æz ɪˈfɛktɪv æz ðə ˈmɛθəd ðə ˈtiːtʃər tɔːt/"
+  },
+  {
+    "chinese": "纵观历史，每一次技术革命都深刻改变了人类的生活方式",
+    "english": "Looking back at history, every technological revolution has profoundly changed the way people live",
+    "soundmark": "/ˈlʊkɪŋ bæk æt ˈhɪstəri, ˈɛvri ˌtɛknəˈlɒdʒɪkəl ˌrɛvəˈluːʃən hæz prəˈfaʊndli ˈtʃeɪndʒd ðə weɪ ˈpiːpl lɪv/"
+  },
+  {
+    "chinese": "我们不仅要从书本中学习知识，更要从实践中获得智慧",
+    "english": "Not only should we learn knowledge from books, but we should also gain wisdom from practice",
+    "soundmark": "/nɒt ˈəʊnli ʃʊd wiː lɜːn ˈnɒlɪdʒ frɒm bʊks, bʌt wiː ʃʊd ˈɔːlsə ɡeɪn ˈwɪzdəm frɒm ˈpræktɪs/"
+  },
+  {
+    "chinese": "正是面对困难时展现出来的勇气，定义了一个人的品格",
+    "english": "It is the courage shown in the face of difficulties that defines a person's character",
+    "soundmark": "/ɪt ɪz ðə ˈkʌrɪdʒ ʃəʊn ɪn ðə feɪs ɒv ˈdɪfɪkəltiz ðæt dɪˈfaɪnz ə ˈpɜːsns ˈkærəktər/"
+  },
+  {
+    "chinese": "你与不同文化背景的人交流越多，你的视野就越开阔",
+    "english": "The more you communicate with people from different cultural backgrounds, the broader your horizons become",
+    "soundmark": "/ðə mɔːr juː kəˈmjuːnɪkeɪt wɪð ˈpiːpl frɒm ˈdɪfrənt ˈkʌltʃərəl ˈbækɡraʊndz, ðə ˈbrɔːdər jɔːr həˈraɪznz bɪˈkʌm/"
+  },
+  {
+    "chinese": "这是我读过的最发人深省的书",
+    "english": "This is the most thought-provoking book I have ever read",
+    "soundmark": "/ðɪs ɪz ðə məʊst ˈθɔːt prəˈvəʊkɪŋ bʊk aɪ hæv ˈɛvər rɛd/"
+  },
+  {
+    "chinese": "没有人能否认教育在推动社会进步中的关键作用",
+    "english": "No one can deny the crucial role of education in promoting social progress",
+    "soundmark": "/nəʊ wʌn kæn dɪˈnaɪ ðə ˈkruːʃəl rəʊl ɒv ˌɛdʒʊˈkeɪʃən ɪn prəˈməʊtɪŋ ˈsəʊʃəl ˈprɒɡrɛs/"
+  },
+  {
+    "chinese": "只有通过不断的实践和反思，才能真正掌握一门语言的精髓",
+    "english": "Only through continuous practice and reflection can one truly master the essence of a language",
+    "soundmark": "/ˈəʊnli θruː kənˈtɪnjʊəs ˈpræktɪs ænd rɪˈflɛkʃən kæn wʌn ˈtruːli ˈmɑːstər ði ˈɛsns ɒv ə ˈlæŋɡwɪdʒ/"
+  },
+  {
+    "chinese": "比起物质的富有，精神的充实更能带来持久的满足感",
+    "english": "Compared with material wealth, spiritual fulfillment can bring more lasting satisfaction",
+    "soundmark": "/kəmˈpeərd wɪð məˈtɪəriəl wɛlθ, ˈspɪrɪtʃʊəl fʊlˈfɪlmənt kæn brɪŋ mɔːr ˈlɑːstɪŋ ˌsætɪsˈfækʃən/"
+  },
+  {
+    "chinese": "在当今高度竞争的社会中，终身学习已经不再是一种选择而是一种必然",
+    "english": "In today's highly competitive society, lifelong learning is no longer a choice but a necessity",
+    "soundmark": "/ɪn təˈdeɪz ˈhaɪli kəmˈpɛtɪtɪv səˈsaɪəti, ˈlaɪflɒŋ ˈlɜːnɪŋ ɪz nəʊ ˈlɒŋər ə tʃɔɪs bʌt ə nɪˈsɛsɪti/"
+  },
+  {
+    "chinese": "正是这些看似平凡的经历，最终汇聚成了人生最宝贵的财富",
+    "english": "It is these seemingly ordinary experiences that ultimately converge into life's most precious wealth",
+    "soundmark": "/ɪt ɪz ðiːz ˈsiːmɪŋli ɔːˈdɪnəri ɪkˈspɪəriənsɪz ðæt ˈʌltɪmɪtli kənˈvɜːdʒ ˈɪntuː laɪfs məʊst ˈprɛʃəs wɛlθ/"
+  },
+  {
+    "chinese": "一个有责任感的人不仅对自己负责，也对他人和社会负责",
+    "english": "A responsible person is not only responsible for themselves but also for others and society",
+    "soundmark": "/ə rɪsˈpɒnsɪbl ˈpɜːsn ɪz nɒt ˈəʊnli rɪsˈpɒnsɪbl fɔːr ðəmˈsɛlvz bʌt ˈɔːlsə fɔːr ˈʌðərz ænd səˈsaɪəti/"
+  }
+]

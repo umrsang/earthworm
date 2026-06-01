@@ -1,0 +1,756 @@
+[
+  { "chinese": "健康", "english": "health", "soundmark": "/helθ/" },
+  { "chinese": "生活方式", "english": "lifestyle", "soundmark": "/ˈlaɪfstaɪl/" },
+  { "chinese": "健康的", "english": "healthy", "soundmark": "/ˈhelθi/" },
+  { "chinese": "不健康的", "english": "unhealthy", "soundmark": "/ʌnˈhelθi/" },
+  { "chinese": "锻炼", "english": "exercise", "soundmark": "/ˈeksərsaɪz/" },
+  { "chinese": "饮食", "english": "diet", "soundmark": "/ˈdaɪət/" },
+  { "chinese": "营养", "english": "nutrition", "soundmark": "/nuːˈtrɪʃən/" },
+  { "chinese": "营养的", "english": "nutritious", "soundmark": "/nuːˈtrɪʃəs/" },
+  { "chinese": "蛋白质", "english": "protein", "soundmark": "/ˈproʊtiːn/" },
+  { "chinese": "维生素", "english": "vitamin", "soundmark": "/ˈvaɪtəmɪn/" },
+  { "chinese": "卡路里", "english": "calorie", "soundmark": "/ˈkæləri/" },
+  { "chinese": "脂肪", "english": "fat", "soundmark": "/fæt/" },
+  { "chinese": "糖", "english": "sugar", "soundmark": "/ˈʃʊɡər/" },
+  { "chinese": "蔬菜", "english": "vegetable", "soundmark": "/ˈvedʒtəbl/" },
+  { "chinese": "水果", "english": "fruit", "soundmark": "/fruːt/" },
+  { "chinese": "谷物", "english": "grain", "soundmark": "/ɡreɪn/" },
+  { "chinese": "快餐", "english": "fast food", "soundmark": "/fæst fuːd/" },
+  { "chinese": "垃圾食品", "english": "junk food", "soundmark": "/dʒʌŋk fuːd/" },
+  { "chinese": "有机食品", "english": "organic food", "soundmark": "/ɔːrˈɡænɪk fuːd/" },
+  { "chinese": "均衡饮食", "english": "balanced diet", "soundmark": "/ˈbælənst ˈdaɪət/" },
+  {
+    "chinese": "吃健康食物很重要。",
+    "english": "Eating healthy food is important.",
+    "soundmark": "/ˈiːtɪŋ ˈhelθi fuːd ɪz ɪmˈpɔːrtənt/"
+  },
+  {
+    "chinese": "游泳是最好的运动方式之一。",
+    "english": "Swimming is one of the best forms of exercise.",
+    "soundmark": "/ˈswɪmɪŋ ɪz wʌn əv ðə best fɔːrmz əv ˈeksərsaɪz/"
+  },
+  {
+    "chinese": "跑步有助于保持健康。",
+    "english": "Running helps to keep fit.",
+    "soundmark": "/ˈrʌnɪŋ helps tuː kiːp fɪt/"
+  },
+  {
+    "chinese": "定期锻炼是必要的。",
+    "english": "Exercising regularly is necessary.",
+    "soundmark": "/ˈeksərsaɪzɪŋ ˈreɡjələrli ɪz ˈnesəseri/"
+  },
+  {
+    "chinese": "骑自行车对心脏有益。",
+    "english": "Riding a bicycle is good for the heart.",
+    "soundmark": "/ˈraɪdɪŋ ə ˈbaɪsɪkl ɪz ɡʊd fɔːr ðə hɑːrt/"
+  },
+  {
+    "chinese": "早睡早起有益健康。",
+    "english": "Going to bed early and getting up early is beneficial to health.",
+    "soundmark": "/ˈɡoʊɪŋ tuː bed ˈɜːrli ænd ˈɡetɪŋ ʌp ˈɜːrli ɪz ˌbenɪˈfɪʃəl tuː helθ/"
+  },
+  {
+    "chinese": "她避免吃太多糖。",
+    "english": "She avoided eating too much sugar.",
+    "soundmark": "/ʃiː əˈvɔɪdɪd ˈiːtɪŋ tuː mʌtʃ ˈʃʊɡər/"
+  },
+  {
+    "chinese": "他建议每天喝八杯水。",
+    "english": "He suggested drinking eight glasses of water every day.",
+    "soundmark": "/hiː səˈdʒestɪd ˈdrɪŋkɪŋ eɪt ˈɡlæsɪz əv ˈwɔːtər ˈevri deɪ/"
+  },
+  {
+    "chinese": "我享受在公园里散步。",
+    "english": "I enjoy walking in the park.",
+    "soundmark": "/aɪ ɪnˈdʒɔːɪ ˈwɔːkɪŋ ɪn ðə pɑːrk/"
+  },
+  {
+    "chinese": "医生建议戒烟。",
+    "english": "The doctor advised quitting smoking.",
+    "soundmark": "/ðə ˈdɑːktər ədˈvaɪzd ˈkwɪtɪŋ ˈsmoʊkɪŋ/"
+  },
+  {
+    "chinese": "他承认熬夜。",
+    "english": "He admitted staying up late.",
+    "soundmark": "/hiː ədˈmɪtɪd ˈsteɪɪŋ ʌp leɪt/"
+  },
+  {
+    "chinese": "她忍不住吃巧克力。",
+    "english": "She couldn't help eating chocolate.",
+    "soundmark": "/ʃiː ˈkʊdnt help ˈiːtɪŋ ˈtʃɑːklət/"
+  },
+  {
+    "chinese": "他们考虑搬到乡下住。",
+    "english": "They considered moving to the countryside.",
+    "soundmark": "/ðeɪ kənˈsɪdərd ˈmuːvɪŋ tuː ðə ˈkʌntrisaɪd/"
+  },
+  {
+    "chinese": "医生的主要工作是拯救生命。",
+    "english": "A doctor's main job is saving lives.",
+    "soundmark": "/ə ˈdɑːktərz meɪn dʒɑːb ɪz ˈseɪvɪŋ laɪvz/"
+  },
+  {
+    "chinese": "他的爱好是打篮球。",
+    "english": "His hobby is playing basketball.",
+    "soundmark": "/hɪz ˈhɑːbi ɪz ˈpleɪɪŋ ˈbæskɪtbɔːl/"
+  },
+  {
+    "chinese": "最糟糕的事情是浪费时间。",
+    "english": "The worst thing is wasting time.",
+    "soundmark": "/ðə wɜːrst θɪŋ ɪz ˈweɪstɪŋ taɪm/"
+  },
+  {
+    "chinese": "我的新计划是每周跑三次步。",
+    "english": "My new plan is running three times a week.",
+    "soundmark": "/maɪ nuː plæn ɪz ˈrʌnɪŋ θriː taɪmz ə wiːk/"
+  },
+  { "chinese": "心理健康", "english": "mental health", "soundmark": "/ˈmentl helθ/" },
+  { "chinese": "压力", "english": "stress", "soundmark": "/stres/" },
+  { "chinese": "焦虑", "english": "anxiety", "soundmark": "/æŋˈzaɪəti/" },
+  { "chinese": "抑郁", "english": "depression", "soundmark": "/dɪˈpreʃən/" },
+  { "chinese": "放松的", "english": "relaxed", "soundmark": "/rɪˈlækst/" },
+  { "chinese": "放松", "english": "relaxation", "soundmark": "/ˌriːlækˈseɪʃən/" },
+  { "chinese": "冥想", "english": "meditation", "soundmark": "/ˌmedɪˈteɪʃən/" },
+  { "chinese": "瑜伽", "english": "yoga", "soundmark": "/ˈjoʊɡə/" },
+  { "chinese": "失眠", "english": "insomnia", "soundmark": "/ɪnˈsɑːmniə/" },
+  { "chinese": "疲劳", "english": "fatigue", "soundmark": "/fəˈtiːɡ/" },
+  { "chinese": "压倒的，令人崩溃的", "english": "overwhelming", "soundmark": "/ˌoʊvərˈwelmɪŋ/" },
+  { "chinese": "令人鼓舞的", "english": "encouraging", "soundmark": "/ɪnˈkɜːrɪdʒɪŋ/" },
+  { "chinese": "令人沮丧的", "english": "depressing", "soundmark": "/dɪˈpresɪŋ/" },
+  { "chinese": "令人疲惫的", "english": "exhausting", "soundmark": "/ɪɡˈzɔːstɪŋ/" },
+  { "chinese": "感到疲惫的", "english": "exhausted", "soundmark": "/ɪɡˈzɔːstɪd/" },
+  { "chinese": "感到兴奋的", "english": "excited", "soundmark": "/ɪkˈsaɪtɪd/" },
+  { "chinese": "令人兴奋的", "english": "exciting", "soundmark": "/ɪkˈsaɪtɪŋ/" },
+  { "chinese": "感到无聊的", "english": "bored", "soundmark": "/bɔːrd/" },
+  { "chinese": "令人无聊的", "english": "boring", "soundmark": "/ˈbɔːrɪŋ/" },
+  { "chinese": "感到困惑的", "english": "confused", "soundmark": "/kənˈfjuːzd/" },
+  { "chinese": "令人困惑的", "english": "confusing", "soundmark": "/kənˈfjuːzɪŋ/" },
+  {
+    "chinese": "这个消息令人鼓舞。",
+    "english": "The news is encouraging.",
+    "soundmark": "/ðə nuːz ɪz ɪnˈkɜːrɪdʒɪŋ/"
+  },
+  {
+    "chinese": "他被这个消息鼓舞了。",
+    "english": "He is encouraged by the news.",
+    "soundmark": "/hiː ɪz ɪnˈkɜːrɪdʒd baɪ ðə nuːz/"
+  },
+  {
+    "chinese": "这场演讲令人兴奋。",
+    "english": "The speech is exciting.",
+    "soundmark": "/ðə spiːtʃ ɪz ɪkˈsaɪtɪŋ/"
+  },
+  {
+    "chinese": "学生们对这场演讲感到兴奋。",
+    "english": "The students are excited about the speech.",
+    "soundmark": "/ðə ˈstuːdnts ər ɪkˈsaɪtɪd əˈbaʊt ðə spiːtʃ/"
+  },
+  {
+    "chinese": "熬夜令人疲惫。",
+    "english": "Staying up late is exhausting.",
+    "soundmark": "/ˈsteɪɪŋ ʌp leɪt ɪz ɪɡˈzɔːstɪŋ/"
+  },
+  {
+    "chinese": "她昨晚加班后感到很疲惫。",
+    "english": "She felt exhausted after working overtime last night.",
+    "soundmark": "/ʃiː felt ɪɡˈzɔːstɪd ˈæftər ˈwɜːrkɪŋ ˈoʊvərtaɪm læst naɪt/"
+  },
+  {
+    "chinese": "坐在角落里的男孩是我的同学。",
+    "english": "The boy sitting in the corner is my classmate.",
+    "soundmark": "/ðə bɔɪ ˈsɪtɪŋ ɪn ðə ˈkɔːrnər ɪz maɪ ˈklæsmeɪt/"
+  },
+  {
+    "chinese": "写在那块黑板上的单词很难读。",
+    "english": "The words written on the blackboard are hard to read.",
+    "soundmark": "/ðə wɜːrdz ˈrɪtən ɑːn ðə ˈblækˌbɔːrd ɑːr hɑːrd tuː riːd/"
+  },
+  {
+    "chinese": "那些正在打篮球的男孩是我班上的学生。",
+    "english": "The boys playing basketball are students in my class.",
+    "soundmark": "/ðə bɔɪz ˈpleɪɪŋ ˈbæskɪtbɔːl ɑːr ˈstuːdnts ɪn maɪ klæs/"
+  },
+  {
+    "chinese": "那个由医生开发的新药很有效。",
+    "english": "The medicine developed by the doctor is very effective.",
+    "soundmark": "/ðə ˈmedɪsɪn dɪˈveləpt baɪ ðə ˈdɑːktər ɪz ˈveri ɪˈfektɪv/"
+  },
+  {
+    "chinese": "正在上课的那个学生很认真。",
+    "english": "The student attending the class is very serious.",
+    "soundmark": "/ðə ˈstuːdnt əˈtendɪŋ ðə klæs ɪz ˈveri ˈsɪriəs/"
+  },
+  {
+    "chinese": "用这种方法做的菜非常美味。",
+    "english": "The dish cooked by this method is delicious.",
+    "soundmark": "/ðə dɪʃ kʊkt baɪ ðɪs ˈmeθəd ɪz ˈdɛlɪʃəs/"
+  },
+  {
+    "chinese": "在椅子上睡觉的那个老人看起来很疲惫。",
+    "english": "The old man sleeping on the chair looks exhausted.",
+    "soundmark": "/ðə oʊld mæn ˈsliːpɪŋ ɑːn ðə tʃer lʊks ɪɡˈzɔːstɪd/"
+  },
+  {
+    "chinese": "被那个故事感动的女孩哭了。",
+    "english": "The girl moved by the story cried.",
+    "soundmark": "/ðə ɡɜːrl muːvd baɪ ðə ˈstɔːri kraɪd/"
+  },
+  { "chinese": "疾病", "english": "disease", "soundmark": "/dɪˈziːz/" },
+  { "chinese": "症状", "english": "symptom", "soundmark": "/ˈsɪmptəm/" },
+  { "chinese": "诊断", "english": "diagnosis", "soundmark": "/ˌdaɪəɡˈnoʊsɪs/" },
+  { "chinese": "治疗", "english": "treatment", "soundmark": "/ˈtriːtmənt/" },
+  { "chinese": "处方", "english": "prescription", "soundmark": "/prɪˈskrɪpʃən/" },
+  { "chinese": "免疫系统", "english": "immune system", "soundmark": "/ɪˈmjuːn ˈsɪstəm/" },
+  { "chinese": "慢性病", "english": "chronic disease", "soundmark": "/ˈkrɑːnɪk dɪˈziːz/" },
+  { "chinese": "传染病", "english": "infectious disease", "soundmark": "/ɪnˈfekʃəs dɪˈziːz/" },
+  { "chinese": "流行病", "english": "epidemic", "soundmark": "/ˌepɪˈdemɪk/" },
+  { "chinese": "病毒", "english": "virus", "soundmark": "/ˈvaɪrəs/" },
+  { "chinese": "感染", "english": "infection", "soundmark": "/ɪnˈfekʃən/" },
+  { "chinese": "感冒", "english": "cold", "soundmark": "/koʊld/" },
+  { "chinese": "发烧", "english": "fever", "soundmark": "/ˈfiːvər/" },
+  { "chinese": "咳嗽", "english": "cough", "soundmark": "/kɔːf/" },
+  { "chinese": "头痛", "english": "headache", "soundmark": "/ˈhedeɪk/" },
+  { "chinese": "胃痛", "english": "stomachache", "soundmark": "/ˈstʌməkeɪk/" },
+  { "chinese": "牙痛", "english": "toothache", "soundmark": "/ˈtuːθeɪk/" },
+  { "chinese": "过敏", "english": "allergy", "soundmark": "/ˈælərdʒi/" },
+  { "chinese": "血压", "english": "blood pressure", "soundmark": "/blʌd ˈpreʃər/" },
+  { "chinese": "受伤", "english": "injury", "soundmark": "/ˈɪndʒəri/" },
+  { "chinese": "痊愈", "english": "recover", "soundmark": "/rɪˈkʌvər/" },
+  { "chinese": "康复", "english": "rehabilitation", "soundmark": "/ˌriːhəˌbɪlɪˈteɪʃən/" },
+  {
+    "chinese": "做完作业后，他出去玩了。",
+    "english": "Having finished his homework, he went out to play.",
+    "soundmark": "/ˈhævɪŋ ˈfɪnɪʃt hɪz ˈhoʊmˌwɜːrk, hiː went aʊt tuː pleɪ/"
+  },
+  {
+    "chinese": "做完手术后，患者需要休息。",
+    "english": "Having had the surgery, the patient needs rest.",
+    "soundmark": "/ˈhævɪŋ hæd ðə ˈsɜːrdʒəri, ðə ˈpeɪʃənt niːdz rest/"
+  },
+  {
+    "chinese": "锻炼过后，你应当喝一些水。",
+    "english": "Having exercised, you should drink some water.",
+    "soundmark": "/ˈhævɪŋ ˈeksərsaɪzd, juː ʃʊd drɪŋk sʌm ˈwɔːtər/"
+  },
+  {
+    "chinese": "读过那本书后，她了解了很多健康知识。",
+    "english": "Having read that book, she learned a lot about health.",
+    "soundmark": "/ˈhævɪŋ red ðæt bʊk, ʃiː ˈlɜːrnd ə lɑːt əˈbaʊt helθ/"
+  },
+  {
+    "chinese": "在公园里散完步后，他感觉好多了。",
+    "english": "Having taken a walk in the park, he felt much better.",
+    "soundmark": "/ˈhævɪŋ ˈteɪkən ə wɔːk ɪn ðə pɑːrk, hiː felt mʌtʃ ˈbetər/"
+  },
+  {
+    "chinese": "制定计划后，她开始执行。",
+    "english": "Having made a plan, she began to carry it out.",
+    "soundmark": "/ˈhævɪŋ meɪd ə plæn, ʃiː bɪˈɡæn tuː ˈkæri ɪt aʊt/"
+  },
+  {
+    "chinese": "天气允许的话，我们明天去远足。",
+    "english": "Weather permitting, we will go hiking tomorrow.",
+    "soundmark": "/ˈweðər pərˈmɪtɪŋ, wiː wɪl ɡoʊ ˈhaɪkɪŋ təˈmɔːroʊ/"
+  },
+  {
+    "chinese": "时间允许的话，医生会给你做个详细检查。",
+    "english": "Time permitting, the doctor will give you a thorough examination.",
+    "soundmark": "/taɪm pərˈmɪtɪŋ, ðə ˈdɑːktər wɪl ɡɪv juː ə θɜːroʊ ɪɡˌzæmɪˈneɪʃən/"
+  },
+  {
+    "chinese": "条件允许的话，我们应该多参加户外运动。",
+    "english": "Conditions permitting, we should take part in more outdoor activities.",
+    "soundmark": "/kənˈdɪʃənz pərˈmɪtɪŋ, wiː ʃʊd teɪk pɑːrt ɪn mɔːr ˈaʊtdɔːr ækˈtɪvɪtiz/"
+  },
+  {
+    "chinese": "晚饭做好了，全家人坐在一起吃饭。",
+    "english": "Dinner having been prepared, the family sat down to eat.",
+    "soundmark": "/ˈdɪnər ˈhævɪŋ bɪn prɪˈpeərd, ðə ˈfæməli sæt daʊn tuː iːt/"
+  },
+  {
+    "chinese": "门被锁上了，他不得不从窗户进去。",
+    "english": "The door having been locked, he had to enter through the window.",
+    "soundmark": "/ðə dɔːr ˈhævɪŋ bɪn lɑːkt, hiː hæd tuː ˈentər θruː ðə ˈwɪndoʊ/"
+  },
+  {
+    "chinese": "雨停了，孩子们跑到了室外。",
+    "english": "The rain having stopped, the children ran outside.",
+    "soundmark": "/ðə reɪn ˈhævɪŋ stɑːpt, ðə ˈtʃɪldrən ræn ˌaʊtˈsaɪd/"
+  },
+  {
+    "chinese": "条件成熟的话，我们会推出新项目。",
+    "english": "Conditions being ripe, we will launch the new project.",
+    "soundmark": "/kənˈdɪʃənz ˈbiːɪŋ raɪp, wiː wɪl lɔːntʃ ðə nuː ˈprɑːdʒekt/"
+  },
+  {
+    "chinese": "他站在那里，双手交叉在胸前。",
+    "english": "He stood there, arms crossed.",
+    "soundmark": "/hiː stʊd ðer, ɑːrmz krɔːst/"
+  },
+  {
+    "chinese": "她走出房间，脸上带着微笑。",
+    "english": "She walked out of the room, a smile on her face.",
+    "soundmark": "/ʃiː wɔːkt aʊt əv ðə ruːm, ə smaɪl ɑːn hɜːr feɪs/"
+  },
+  {
+    "chinese": "他坐在窗边，读着一本小说。",
+    "english": "He sat by the window, reading a novel.",
+    "soundmark": "/hiː sæt baɪ ðə ˈwɪndoʊ, ˈriːdɪŋ ə ˈnɑːvəl/"
+  },
+  {
+    "chinese": "做完晨练后，她感觉精力充沛。",
+    "english": "Having done morning exercises, she felt full of energy.",
+    "soundmark": "/ˈhævɪŋ dʌn ˈmɔːrnɪŋ ˈeksərsaɪzɪz, ʃiː felt fʊl əv ˈenərdʒi/"
+  },
+  { "chinese": "肥胖", "english": "obesity", "soundmark": "/oʊˈbiːsɪti/" },
+  { "chinese": "超重的", "english": "overweight", "soundmark": "/ˌoʊvərˈweɪt/" },
+  { "chinese": "苗条的", "english": "slim", "soundmark": "/slɪm/" },
+  { "chinese": "体重的", "english": "weight", "soundmark": "/weɪt/" },
+  { "chinese": "减重", "english": "lose weight", "soundmark": "/luːz weɪt/" },
+  { "chinese": "增重", "english": "gain weight", "soundmark": "/ɡeɪn weɪt/" },
+  { "chinese": "新陈代谢", "english": "metabolism", "soundmark": "/məˈtæbəlɪzəm/" },
+  { "chinese": "消化", "english": "digestion", "soundmark": "/daɪˈdʒestʃən/" },
+  { "chinese": "食欲", "english": "appetite", "soundmark": "/ˈæpɪtaɪt/" },
+  { "chinese": "暴饮暴食", "english": "overeating", "soundmark": "/ˌoʊvərˈiːtɪŋ/" },
+  { "chinese": "节食", "english": "go on a diet", "soundmark": "/ɡoʊ ɑːn ə ˈdaɪət/" },
+  { "chinese": "禁止吸烟的", "english": "no smoking", "soundmark": "/noʊ ˈsmoʊkɪŋ/" },
+  { "chinese": "上瘾", "english": "addiction", "soundmark": "/əˈdɪkʃən/" },
+  {
+    "chinese": "沉迷于手机",
+    "english": "addicted to smartphones",
+    "soundmark": "/əˈdɪktɪd tuː ˈsmɑːrtfoʊnz/"
+  },
+  { "chinese": "戒除坏习惯", "english": "break a bad habit", "soundmark": "/breɪk ə bæd ˈhæbɪt/" },
+  { "chinese": "规律作息", "english": "regular routine", "soundmark": "/ˈreɡjələr ruːˈtiːn/" },
+  { "chinese": "睡眠质量", "english": "sleep quality", "soundmark": "/sliːp ˈkwɑːlɪti/" },
+  { "chinese": "深睡眠", "english": "deep sleep", "soundmark": "/diːp sliːp/" },
+  { "chinese": "打鼾", "english": "snoring", "soundmark": "/ˈsnɔːrɪŋ/" },
+  { "chinese": "午睡", "english": "nap", "soundmark": "/næp/" },
+  {
+    "chinese": "开夜车，熬夜",
+    "english": "burn the midnight oil",
+    "soundmark": "/bɜːrn ðə ˈmɪdnaɪt ɔɪl/"
+  },
+  {
+    "chinese": "抽烟会导致肺癌。",
+    "english": "Smoking can cause lung cancer.",
+    "soundmark": "/ˈsmoʊkɪŋ kæn kɔːz lʌŋ ˈkænsər/"
+  },
+  {
+    "chinese": "饮酒过量会损害肝脏。",
+    "english": "Drinking too much alcohol can damage the liver.",
+    "soundmark": "/ˈdrɪŋkɪŋ tuː mʌtʃ ˈælkəhɔːl kæn ˈdæmɪdʒ ðə ˈlɪvər/"
+  },
+  {
+    "chinese": "暴饮暴食会导致肥胖。",
+    "english": "Overeating leads to obesity.",
+    "soundmark": "/ˌoʊvərˈiːtɪŋ liːdz tuː oʊˈbiːsɪti/"
+  },
+  {
+    "chinese": "缺乏运动会引起健康问题。",
+    "english": "Lacking exercise causes health problems.",
+    "soundmark": "/ˈlækɪŋ ˈeksərsaɪz ˈkɔːzɪz helθ ˈprɑːbləmz/"
+  },
+  {
+    "chinese": "久坐不动的生活方式是不健康的。",
+    "english": "A sedentary lifestyle is unhealthy.",
+    "soundmark": "/ə ˈsedənteri ˈlaɪfstaɪl ɪz ʌnˈhelθi/"
+  },
+  {
+    "chinese": "太多屏幕时间对眼睛有害。",
+    "english": "Too much screen time is harmful to your eyes.",
+    "soundmark": "/tuː mʌtʃ skriːn taɪm ɪz ˈhɑːrmfəl tuː jɔːr aɪz/"
+  },
+  {
+    "chinese": "保持积极心态对健康很重要。",
+    "english": "Keeping a positive attitude is important for health.",
+    "soundmark": "/ˈkiːpɪŋ ə ˈpɑːzɪtɪv ˈætɪtuːd ɪz ɪmˈpɔːrtənt fɔːr helθ/"
+  },
+  {
+    "chinese": "练习瑜伽有助于缓解压力。",
+    "english": "Practicing yoga helps relieve stress.",
+    "soundmark": "/ˈpræktɪsɪŋ ˈjoʊɡə helps rɪˈliːv stres/"
+  },
+  {
+    "chinese": "听音乐是一种很好的放松方式。",
+    "english": "Listening to music is a good way to relax.",
+    "soundmark": "/ˈlɪsənɪŋ tuː ˈmjuːzɪk ɪz ə ɡʊd weɪ tuː rɪˈlæks/"
+  },
+  { "chinese": "健身", "english": "fitness", "soundmark": "/ˈfɪtnəs/" },
+  { "chinese": "健身房", "english": "gym", "soundmark": "/dʒɪm/" },
+  { "chinese": "有氧运动", "english": "aerobic exercise", "soundmark": "/eˈroʊbɪk ˈeksərsaɪz/" },
+  { "chinese": "力量训练", "english": "strength training", "soundmark": "/streŋθ ˈtreɪnɪŋ/" },
+  { "chinese": "拉伸", "english": "stretching", "soundmark": "/ˈstretʃɪŋ/" },
+  { "chinese": "柔韧性", "english": "flexibility", "soundmark": "/ˌfleksəˈbɪlɪti/" },
+  { "chinese": "耐力", "english": "endurance", "soundmark": "/ɪnˈdʊrəns/" },
+  { "chinese": "脉搏", "english": "pulse", "soundmark": "/pʌls/" },
+  { "chinese": "汗", "english": "sweat", "soundmark": "/swet/" },
+  { "chinese": "肌肉", "english": "muscle", "soundmark": "/ˈmʌsəl/" },
+  { "chinese": "关节", "english": "joint", "soundmark": "/dʒɔɪnt/" },
+  { "chinese": "骨折", "english": "fracture", "soundmark": "/ˈfræktʃər/" },
+  { "chinese": "扭伤", "english": "sprain", "soundmark": "/spreɪn/" },
+  { "chinese": "擦伤", "english": "bruise", "soundmark": "/bruːz/" },
+  { "chinese": "绷带", "english": "bandage", "soundmark": "/ˈbændɪdʒ/" },
+  { "chinese": "急救", "english": "first aid", "soundmark": "/fɜːrst eɪd/" },
+  { "chinese": "救护车", "english": "ambulance", "soundmark": "/ˈæmbjələns/" },
+  { "chinese": "药房", "english": "pharmacy", "soundmark": "/ˈfɑːrməsi/" },
+  { "chinese": "病历", "english": "medical record", "soundmark": "/ˈmedɪkl ˈrekərd/" },
+  { "chinese": "体检", "english": "physical examination", "soundmark": "/ˈfɪzɪkl ɪɡˌzæmɪˈneɪʃən/" },
+  { "chinese": "预防接种", "english": "vaccination", "soundmark": "/ˌvæksɪˈneɪʃən/" },
+  {
+    "chinese": "洗手是预防疾病最简单的方法。",
+    "english": "Washing hands is the simplest way to prevent diseases.",
+    "soundmark": "/ˈwɑːʃɪŋ hændz ɪz ðə ˈsɪmpləst weɪ tuː prɪˈvent dɪˈziːzɪz/"
+  },
+  {
+    "chinese": "接种疫苗能保护你免受感染。",
+    "english": "Getting vaccinated can protect you from infection.",
+    "soundmark": "/ˈɡetɪŋ ˈvæksɪneɪtɪd kæn prəˈtekt juː frʌm ɪnˈfekʃən/"
+  },
+  {
+    "chinese": "戴口罩可以防止病毒传播。",
+    "english": "Wearing a mask can prevent the spread of viruses.",
+    "soundmark": "/ˈwerɪŋ ə mæsk kæn prɪˈvent ðə spred əv ˈvaɪrəsɪz/"
+  },
+  {
+    "chinese": "保持社交距离有助于减少传播。",
+    "soundmark": "/kiːpɪŋ ˈsoʊʃəl ˈdɪstəns helps rɪˈduːs ðə spred/",
+    "english": "Keeping social distance helps reduce the spread."
+  },
+  {
+    "chinese": "定期体检有助于及早发现问题。",
+    "english": "Having regular check-ups helps detect problems early.",
+    "soundmark": "/ˈhævɪŋ ˈreɡjələr tʃɪk ʌps helps dɪˈtekt ˈprɑːbləmz ˈɜːrli/"
+  },
+  {
+    "chinese": "均衡饮食是健康的基础。",
+    "english": "Having a balanced diet is the foundation of good health.",
+    "soundmark": "/ˈhævɪŋ ə ˈbælənst ˈdaɪət ɪz ðə faʊnˈdeɪʃən əv ɡʊd helθ/"
+  },
+  {
+    "chinese": "喝足够的水对皮肤有益。",
+    "english": "Drinking enough water is beneficial to the skin.",
+    "soundmark": "/ˈdrɪŋkɪŋ ɪˈnʌf ˈwɔːtər ɪz ˌbenɪˈfɪʃəl tuː ðə skɪn/"
+  },
+  {
+    "chinese": "他喜欢晚饭后在河边慢跑。",
+    "english": "He likes jogging along the river after dinner.",
+    "soundmark": "/hiː laɪks ˈdʒɑːɡɪŋ əˈlɔːŋ ðə ˈrɪvər ˈæftər ˈdɪnər/"
+  },
+  {
+    "chinese": "我拒绝在嘈杂的环境中工作。",
+    "english": "I refuse working in a noisy environment.",
+    "soundmark": "/aɪ rɪˈfjuːz ˈwɜːrkɪŋ ɪn ə ˈnɔɪzi ɪnˈvaɪrənmənt/"
+  },
+  {
+    "chinese": "他们正计划下个月开展健康宣传活动。",
+    "english": "They are planning to launch a health campaign next month.",
+    "soundmark": "/ðeɪ ɑːr ˈplænɪŋ tuː lɔːntʃ ə helθ kæmˈpeɪn nekst mʌnθ/"
+  },
+  {
+    "chinese": "她每天花一小时练习太极拳。",
+    "english": "She spends one hour practicing tai chi every day.",
+    "soundmark": "/ʃiː spends wʌn ˈaʊər ˈpræktɪsɪŋ taɪ tʃiː ˈevri deɪ/"
+  },
+  {
+    "chinese": "每天坚持运动是保持身材的好方法。",
+    "english": "Keeping exercising every day is a good way to stay in shape.",
+    "soundmark": "/ˈkiːpɪŋ ˈeksərsaɪzɪŋ ˈevri deɪ ɪz ə ɡʊd weɪ tuː steɪ ɪn ʃeɪp/"
+  },
+  {
+    "chinese": "过度劳累可能导致免疫系统下降。",
+    "english": "Working too hard may lead to a weakened immune system.",
+    "soundmark": "/ˈwɜːrkɪŋ tuː hɑːrd meɪ liːd tuː ə ˈwiːkənd ɪˈmjuːn ˈsɪstəm/"
+  },
+  {
+    "chinese": "他因过度劳累而住院了。",
+    "english": "He was hospitalized due to overworking.",
+    "soundmark": "/hiː wʌz ˈhɑːspɪtəlaɪzd duː tuː ˌoʊvərˈwɜːrkɪŋ/"
+  },
+  {
+    "chinese": "那个受伤的运动员被送到了医院。",
+    "english": "The injured athlete was sent to the hospital.",
+    "soundmark": "/ðə ˈɪndʒərd ˈæθliːt wʌz sent tuː ðə ˈhɑːspɪtl/"
+  },
+  {
+    "chinese": "被选中的选手将参加全国比赛。",
+    "english": "The player selected will take part in the national competition.",
+    "soundmark": "/ðə ˈpleɪər sɪˈlektɪd wɪl teɪk pɑːrt ɪn ðə ˈnæʃənl ˌkɑːmpəˈtɪʃən/"
+  },
+  {
+    "chinese": "被污染的空气影响人们的呼吸系统。",
+    "english": "The polluted air affects people's respiratory systems.",
+    "soundmark": "/ðə pəˈluːtɪd er əˈfekts ˈpiːplz ˌrespɪˈrətɔːri ˈsɪstəmz/"
+  },
+  {
+    "chinese": "用正确的姿势坐对脊柱很重要。",
+    "english": "Sitting with correct posture is important for the spine.",
+    "soundmark": "/ˈsɪtɪŋ wɪð kəˈrekt ˈpɑːstʃər ɪz ɪmˈpɔːrtənt fɔːr ðə spaɪn/"
+  },
+  {
+    "chinese": "看到医生后，她感觉安心了。",
+    "english": "Having seen the doctor, she felt relieved.",
+    "soundmark": "/ˈhævɪŋ siːn ðə ˈdɑːktər, ʃiː felt rɪˈliːvd/"
+  },
+  {
+    "chinese": "接受治疗后，他的病情有所好转。",
+    "english": "Having received treatment, his condition has improved.",
+    "soundmark": "/ˈhævɪŋ rɪˈsiːvd ˈtriːtmənt, hɪz kənˈdɪʃən hæz ɪmˈpruːvd/"
+  },
+  {
+    "chinese": "从长远来看，健康是最大的财富。",
+    "english": "In the long run, health is the greatest wealth.",
+    "soundmark": "/ɪn ðə lɔːŋ rʌn, helθ ɪz ðə ˈɡreɪtɪst welθ/"
+  },
+  {
+    "chinese": "没有健康，就没有幸福。",
+    "english": "Without health, there is no happiness.",
+    "soundmark": "/wɪˈðaʊt helθ, ðer ɪz noʊ ˈhæpɪnəs/"
+  },
+  {
+    "chinese": "笑是最好的药。",
+    "english": "Laughter is the best medicine.",
+    "soundmark": "/ˈlæftər ɪz ðə best ˈmedɪsən/"
+  },
+  {
+    "chinese": "预防胜于治疗。",
+    "english": "Prevention is better than cure.",
+    "soundmark": "/prɪˈvenʃən ɪz ˈbetər ðæn kjʊr/"
+  },
+  { "chinese": "健康就是财富。", "english": "Health is wealth.", "soundmark": "/helθ ɪz welθ/" },
+  {
+    "chinese": "早预防胜于晚治疗。",
+    "english": "Preventing disease is easier than treating it.",
+    "soundmark": "/prɪˈventɪŋ dɪˈziːz ɪz ˈiːziər ðæn ˈtriːtɪŋ ɪt/"
+  },
+  {
+    "chinese": "吃早餐能让你一整天精力充沛。",
+    "english": "Having breakfast keeps you energetic all day.",
+    "soundmark": "/ˈhævɪŋ ˈbrekfəst kiːps juː ˌenərˈdʒetɪk ɔːl deɪ/"
+  },
+  {
+    "chinese": "减少盐的摄入有助于降低血压。",
+    "english": "Reducing salt intake helps lower blood pressure.",
+    "soundmark": "/rɪˈduːsɪŋ sɔːlt ˈɪnteɪk helps ˈloʊər blʌd ˈpreʃər/"
+  },
+  {
+    "chinese": "阳光是维生素D的重要来源。",
+    "english": "Sunlight is an important source of vitamin D.",
+    "soundmark": "/ˈsʌnlaɪt ɪz ən ɪmˈpɔːrtənt ˈsɔːrs əv ˈvaɪtəmɪn diː/"
+  },
+  {
+    "chinese": "水果和蔬菜富含维生素和矿物质。",
+    "english": "Fruits and vegetables are rich in vitamins and minerals.",
+    "soundmark": "/fruːts ænd ˈvedʒtəblz ɑːr rɪtʃ ɪn ˈvaɪtəmɪnz ænd ˈmɪnərəlz/"
+  },
+  {
+    "chinese": "他发现控制饮食比锻炼更难。",
+    "english": "He found controlling diet harder than exercising.",
+    "soundmark": "/hiː faʊnd kənˈtroʊlɪŋ ˈdaɪət ˈhɑːrdər ðæn ˈeksərsaɪzɪŋ/"
+  },
+  {
+    "chinese": "她后悔没有听从医生的建议。",
+    "english": "She regretted not following the doctor's advice.",
+    "soundmark": "/ʃiː rɪˈɡretɪd nɑːt ˈfɑːloʊɪŋ ðə ˈdɑːktərz ədˈvaɪs/"
+  },
+  {
+    "chinese": "我想念以前在乡下散步的日子。",
+    "english": "I miss walking in the countryside as I used to.",
+    "soundmark": "/aɪ mɪs ˈwɔːkɪŋ ɪn ðə ˈkʌntrisaɪd æz aɪ juːst tuː/"
+  },
+  {
+    "chinese": "多喝水对身体有好处。",
+    "english": "Drinking more water is good for your body.",
+    "soundmark": "/ˈdrɪŋkɪŋ mɔːr ˈwɔːtər ɪz ɡʊd fɔːr jɔːr ˈbɑːdi/"
+  },
+  {
+    "chinese": "他致力于推广健康的生活方式。",
+    "english": "He is devoted to promoting a healthy lifestyle.",
+    "soundmark": "/hiː ɪz dɪˈvoʊtɪd tuː prəˈmoʊtɪŋ ə ˈhelθi ˈlaɪfstaɪl/"
+  },
+  {
+    "chinese": "走路时听播客是一种很好的学习方式。",
+    "english": "Listening to podcasts while walking is a great way to learn.",
+    "soundmark": "/ˈlɪsənɪŋ tuː ˈpɑːdkæsts waɪl ˈwɔːkɪŋ ɪz ə ɡreɪt weɪ tuː lɜːrn/"
+  },
+  {
+    "chinese": "这是一个令人振奋的健康趋势。",
+    "english": "This is an inspiring health trend.",
+    "soundmark": "/ðɪs ɪz ən ɪnˈspaɪərɪŋ helθ trend/"
+  },
+  {
+    "chinese": "他被这个健康趋势所鼓舞。",
+    "english": "He was inspired by this health trend.",
+    "soundmark": "/hiː wʌz ɪnˈspaɪərd baɪ ðɪs helθ trend/"
+  },
+  {
+    "chinese": "瑜伽被认为是一种有效的减压方式。",
+    "english": "Yoga is considered an effective way to reduce stress.",
+    "soundmark": "/ˈjoʊɡə ɪz kənˈsɪdərd ən ɪˈfektɪv weɪ tuː rɪˈduːs stres/"
+  },
+  {
+    "chinese": "被污染的水会引起多种疾病。",
+    "english": "Polluted water can cause various diseases.",
+    "soundmark": "/pəˈluːtɪd ˈwɔːtər kæn kɔːz ˈveriəs dɪˈziːzɪz/"
+  },
+  {
+    "chinese": "健康意识在年轻人中越来越强。",
+    "english": "Health awareness is growing among young people.",
+    "soundmark": "/helθ əˈwernəs ɪz ˈɡroʊɪŋ əˈmʌŋ jʌŋ ˈpiːpl/"
+  },
+  {
+    "chinese": "这个项目中使用的设备非常先进。",
+    "english": "The equipment used in this project is very advanced.",
+    "soundmark": "/ði ɪˈkwɪpmənt juːzd ɪn ðɪs ˈprɑːdʒekt ɪz ˈveri ədˈvænst/"
+  },
+  {
+    "chinese": "他注意到那个正在哭泣的病人很痛苦。",
+    "english": "He noticed the crying patient was in pain.",
+    "soundmark": "/hiː ˈnoʊtɪst ðə ˈkraɪɪŋ ˈpeɪʃənt wʌz ɪn peɪn/"
+  },
+  {
+    "chinese": "笑着的婴儿让每个人都很开心。",
+    "english": "The smiling baby made everyone happy.",
+    "soundmark": "/ðə ˈsmaɪlɪŋ ˈbeɪbi meɪd ˈevriwʌn ˈhæpi/"
+  },
+  {
+    "chinese": "我听到有人在隔壁唱歌。",
+    "english": "I heard someone singing in the next room.",
+    "soundmark": "/aɪ hɜːrd ˈsʌmwʌn ˈsɪŋɪŋ ɪn ðə nekst ruːm/"
+  },
+  {
+    "chinese": "我看到他在公园里跑步。",
+    "english": "I saw him running in the park.",
+    "soundmark": "/aɪ sɔː hɪm ˈrʌnɪŋ ɪn ðə pɑːrk/"
+  },
+  {
+    "chinese": "她感觉到心脏跳得越来越快。",
+    "english": "She felt her heart beating faster and faster.",
+    "soundmark": "/ʃiː felt hɜːr hɑːrt ˈbiːtɪŋ ˈfæstər ænd ˈfæstər/"
+  },
+  {
+    "chinese": "我让你久等了。",
+    "english": "I'm sorry to have kept you waiting.",
+    "soundmark": "/aɪm ˈsɑːri tuː həv kept juː ˈweɪtɪŋ/"
+  },
+  {
+    "chinese": "不要把小孩留在家里无人看管。",
+    "english": "Don't leave children left alone at home.",
+    "soundmark": "/doʊnt liːv ˈtʃɪldrən left əˈloʊn æt hoʊm/"
+  },
+  {
+    "chinese": "他发现自己被骗了。",
+    "english": "He found himself cheated.",
+    "soundmark": "/hiː faʊnd hɪmˈself ˈtʃiːtɪd/"
+  },
+  {
+    "chinese": "她看到钱包被偷了。",
+    "english": "She had her wallet stolen.",
+    "soundmark": "/ʃiː hæd hɜːr ˈwɑːlɪt ˈstoʊlən/"
+  },
+  {
+    "chinese": "你应该让医生检查你的眼睛。",
+    "english": "You should have your eyes examined by a doctor.",
+    "soundmark": "/juː ʃʊd hæv jɔːr aɪz ɪɡˈzæmɪnd baɪ ə ˈdɑːktər/"
+  },
+  {
+    "chinese": "那个正在做手术的外科医生技术很好。",
+    "english": "The surgeon performing the operation is very skilled.",
+    "soundmark": "/ðə ˈsɜːrdʒən pərˈfɔːrmɪŋ ði ˌɑːpəˈreɪʃən ɪz ˈveri skɪld/"
+  },
+  {
+    "chinese": "那家建于1900年的医院即将被拆除。",
+    "english": "The hospital built in 1900 is going to be demolished.",
+    "soundmark": "/ðə ˈhɑːspɪtl bɪlt ɪn ˈnaɪntiːn ˈhʌndrəd ɪz ˈɡoʊɪŋ tuː biː dɪˈmɑːlɪʃt/"
+  },
+  {
+    "chinese": "科技发展为医疗带来了新机遇。",
+    "english": "Technology developing rapidly has brought new opportunities to healthcare.",
+    "soundmark": "/tekˈnɑːlədʒi dɪˈveləpɪŋ ˈræpɪdli hæz brɔːt nuː ˌɑːpərˈtuːnɪtiz tuː ˈhelθker/"
+  },
+  {
+    "chinese": "步行上班是一种很好的锻炼方式。",
+    "english": "Walking to work is a great way to exercise.",
+    "soundmark": "/ˈwɔːkɪŋ tuː wɜːrk ɪz ə ɡreɪt weɪ tuː ˈeksərsaɪz/"
+  },
+  {
+    "chinese": "每天坚持喝温水是个好习惯。",
+    "english": "Drinking warm water every day is a good habit.",
+    "soundmark": "/ˈdrɪŋkɪŋ wɔːrm ˈwɔːtər ˈevri deɪ ɪz ə ɡʊd ˈhæbɪt/"
+  },
+  {
+    "chinese": "学习压力使很多学生失眠。",
+    "english": "Academic pressure causes many students to suffer from insomnia.",
+    "soundmark": "/ˌækəˈdemɪk ˈpreʃər ˈkɔːzɪz ˈmeni ˈstuːdnts tuː ˈsʌfər frʌm ɪnˈsɑːmniə/"
+  },
+  {
+    "chinese": "积极的社交生活对心理健康至关重要。",
+    "english": "An active social life is crucial to mental health.",
+    "soundmark": "/ən ˈæktɪv ˈsoʊʃəl laɪf ɪz ˈkruːʃəl tuː ˈmentl helθ/"
+  },
+  {
+    "chinese": "深呼吸有助于平静你的情绪。",
+    "english": "Taking deep breaths helps calm your emotions.",
+    "soundmark": "/ˈteɪkɪŋ diːp breθs helps kɑːm jɔːr ɪˈmoʊʃənz/"
+  },
+  {
+    "chinese": "保持健康需要坚持和自律。",
+    "english": "Staying healthy requires persistence and self-discipline.",
+    "soundmark": "/ˈsteɪɪŋ ˈhelθi rɪˈkwaɪərz pərˈsɪstəns ænd self ˈdɪsəplɪn/"
+  },
+  {
+    "chinese": "沉迷手机会严重影响睡眠质量。",
+    "english": "Being addicted to smartphones seriously affects sleep quality.",
+    "soundmark": "/ˈbiːɪŋ əˈdɪktɪd tuː ˈsmɑːrtfoʊnz ˈsɪriəsli əˈfekts sliːp ˈkwɑːlɪti/"
+  },
+  {
+    "chinese": "中老年人应定期做健康检查。",
+    "english": "Middle-aged and elderly people should have regular health check-ups.",
+    "soundmark": "/ˈmɪdəl eɪdʒd ænd ˈeldərli ˈpiːpl ʃʊd hæv ˈreɡjələr helθ tʃɪk ʌps/"
+  },
+  {
+    "chinese": "与朋友交流可以有效减轻孤独感。",
+    "english": "Communicating with friends can effectively reduce the feeling of loneliness.",
+    "soundmark": "/kəˈmjuːnɪkeɪtɪŋ wɪð frendz kæn ɪˈfektɪvli rɪˈduːs ðə ˈfiːlɪŋ əv ˈloʊnlinəs/"
+  },
+  {
+    "chinese": "这个课程旨在帮助学生建立健康的生活习惯。",
+    "english": "This course aims at helping students develop healthy living habits.",
+    "soundmark": "/ðɪs kɔːrs eɪmz æt ˈhelpɪŋ ˈstuːdnts dɪˈveləp ˈhelθi ˈlɪvɪŋ ˈhæbɪts/"
+  },
+  {
+    "chinese": "他是那个研究心理健康问题的教授。",
+    "english": "He is the professor researching mental health issues.",
+    "soundmark": "/hiː ɪz ðə ˈprɑːfesər rɪˈsɜːrtʃɪŋ ˈmentl helθ ˈɪʃuːz/"
+  },
+  {
+    "chinese": "在操场上跑步的学生们看起来很快乐。",
+    "english": "The students running on the playground look very happy.",
+    "soundmark": "/ðə ˈstuːdnts ˈrʌnɪŋ ɑːn ðə ˈpleɪɡraʊnd lʊk ˈveri ˈhæpi/"
+  },
+  {
+    "chinese": "合理膳食搭配适量运动是健康的秘诀。",
+    "english": "A proper diet combined with moderate exercise is the secret to health.",
+    "soundmark": "/ə ˈprɑːpər ˈdaɪət kəmˈbaɪnd wɪð ˈmɑːdərət ˈeksərsaɪz ɪz ðə ˈsiːkrɪt tuː helθ/"
+  },
+  {
+    "chinese": "被称为长寿秘诀的方法其实就是简单的生活。",
+    "english": "The method called the secret of longevity is actually simple living.",
+    "soundmark": "/ðə ˈmeθəd kɔːld ðə ˈsiːkrɪt əv lɔːnˈdʒevɪti ɪz ˈækʃuəli ˈsɪmpl ˈlɪvɪŋ/"
+  },
+  {
+    "chinese": "她主动提出帮忙组织这次健康讲座。",
+    "english": "She offered to help organize the health lecture.",
+    "soundmark": "/ʃiː ˈɔːfərd tuː help ˈɔːrɡənaɪz ðə helθ ˈlektʃər/"
+  },
+  {
+    "chinese": "躺在床上的病人需要安静的环境。",
+    "english": "The patient lying in bed needs a quiet environment.",
+    "soundmark": "/ðə ˈpeɪʃənt ˈlaɪɪŋ ɪn bed niːdz ə ˈkwaɪət ɪnˈvaɪrənmənt/"
+  },
+  {
+    "chinese": "参加会议的代表都来自医院。",
+    "english": "The representatives attending the meeting all came from hospitals.",
+    "soundmark": "/ðə ˌreprɪˈzentətɪvz əˈtendɪŋ ðə ˈmiːtɪŋ ɔːl keɪm frʌm ˈhɑːspɪtlz/"
+  }
+]

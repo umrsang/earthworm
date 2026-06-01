@@ -1,0 +1,769 @@
+[
+  { "chinese": "文化", "english": "culture", "soundmark": "/ˈkʌltʃər/" },
+  { "chinese": "传统", "english": "tradition", "soundmark": "/trəˈdɪʃən/" },
+  { "chinese": "风俗", "english": "custom", "soundmark": "/ˈkʌstəm/" },
+  { "chinese": "遗产", "english": "heritage", "soundmark": "/ˈherɪtɪdʒ/" },
+  { "chinese": "文明的", "english": "civilized", "soundmark": "/ˈsɪvəlaɪzd/" },
+  { "chinese": "古代的", "english": "ancient", "soundmark": "/ˈeɪnʃənt/" },
+  { "chinese": "历史", "english": "history", "soundmark": "/ˈhɪstəri/" },
+  { "chinese": "历史学家", "english": "historian", "soundmark": "/hɪˈstɔːriən/" },
+  { "chinese": "历史的", "english": "historical", "soundmark": "/hɪˈstɒrɪkl/" },
+  { "chinese": "朝代", "english": "dynasty", "soundmark": "/ˈdaɪnəsti/" },
+  { "chinese": "纪念碑", "english": "monument", "soundmark": "/ˈmɒnjumənt/" },
+  { "chinese": "博物馆", "english": "museum", "soundmark": "/mjuːˈziːəm/" },
+  { "chinese": "画廊", "english": "gallery", "soundmark": "/ˈɡæləri/" },
+  { "chinese": "大教堂", "english": "cathedral", "soundmark": "/kəˈθiːdrəl/" },
+  { "chinese": "寺庙", "english": "temple", "soundmark": "/ˈtempl/" },
+  { "chinese": "宫殿", "english": "palace", "soundmark": "/ˈpæləs/" },
+  { "chinese": "城堡", "english": "castle", "soundmark": "/ˈkɑːsl/" },
+  { "chinese": "废墟", "english": "ruin", "soundmark": "/ˈruːɪn/" },
+  { "chinese": "考古学", "english": "archaeology", "soundmark": "/ˌɑːrkiˈɒlədʒi/" },
+  { "chinese": "文物", "english": "relic", "soundmark": "/ˈrelɪk/" },
+  { "chinese": "雕塑", "english": "sculpture", "soundmark": "/ˈskʌlptʃər/" },
+  { "chinese": "建筑", "english": "architecture", "soundmark": "/ˈɑːrkɪtektʃər/" },
+  { "chinese": "文学", "english": "literature", "soundmark": "/ˈlɪtrətʃər/" },
+  { "chinese": "诗歌", "english": "poetry", "soundmark": "/ˈpoʊətri/" },
+  { "chinese": "小说", "english": "novel", "soundmark": "/ˈnɒvəl/" },
+  { "chinese": "散文", "english": "essay", "soundmark": "/ˈeseɪ/" },
+  { "chinese": "戏剧", "english": "drama", "soundmark": "/ˈdrɑːmə/" },
+  { "chinese": "杰作", "english": "masterpiece", "soundmark": "/ˈmæstərpiːs/" },
+  { "chinese": "杰作", "english": "masterwork", "soundmark": "/ˈmæstərwɜːrk/" },
+  { "chinese": "杰作的", "english": "masterful", "soundmark": "/ˈmæstərfl/" },
+  { "chinese": "古典的", "english": "classical", "soundmark": "/ˈklæsɪkl/" },
+  { "chinese": "传统的", "english": "traditional", "soundmark": "/trəˈdɪʃənl/" },
+  { "chinese": "民间的", "english": "folk", "soundmark": "/foʊk/" },
+  { "chinese": "多样的", "english": "diverse", "soundmark": "/daɪˈvɜːrs/" },
+  { "chinese": "多样性", "english": "diversity", "soundmark": "/daɪˈvɜːrsəti/" },
+  { "chinese": "独特的", "english": "unique", "soundmark": "/juːˈniːk/" },
+  { "chinese": "独特的", "english": "distinctive", "soundmark": "/dɪˈstɪŋktɪv/" },
+  { "chinese": "特色的", "english": "characteristic", "soundmark": "/ˌkærəktəˈrɪstɪk/" },
+  { "chinese": "象征", "english": "symbol", "soundmark": "/ˈsɪmbl/" },
+  { "chinese": "象征性的", "english": "symbolic", "soundmark": "/sɪmˈbɒlɪk/" },
+  { "chinese": "代表", "english": "represent", "soundmark": "/ˌreprɪˈzent/" },
+  { "chinese": "代表（名词）", "english": "representation", "soundmark": "/ˌreprɪzenˈteɪʃən/" },
+  { "chinese": "价值观", "english": "value", "soundmark": "/ˈvæljuː/" },
+  { "chinese": "信仰", "english": "belief", "soundmark": "/bɪˈliːf/" },
+  { "chinese": "宗教", "english": "religion", "soundmark": "/rɪˈlɪdʒən/" },
+  { "chinese": "宗教的", "english": "religious", "soundmark": "/rɪˈlɪdʒəs/" },
+  { "chinese": "典礼", "english": "ceremony", "soundmark": "/ˈserəməni/" },
+  { "chinese": "庆典", "english": "celebration", "soundmark": "/ˌselɪˈbreɪʃən/" },
+  { "chinese": "节日", "english": "festival", "soundmark": "/ˈfestɪvl/" },
+  { "chinese": "盛宴", "english": "feast", "soundmark": "/fiːst/" },
+  { "chinese": "习俗", "english": "convention", "soundmark": "/kənˈvenʃən/" },
+  { "chinese": "礼仪", "english": "etiquette", "soundmark": "/ˈetɪkət/" },
+  { "chinese": "禁忌", "english": "taboo", "soundmark": "/təˈbuː/" },
+  { "chinese": "移民", "english": "immigrant", "soundmark": "/ˈɪmɪɡrənt/" },
+  { "chinese": "移民（动词）", "english": "immigrate", "soundmark": "/ˈɪmɪɡreɪt/" },
+  { "chinese": "移民出境", "english": "emigrate", "soundmark": "/ˈemɪɡreɪt/" },
+  { "chinese": "旅行的", "english": "tourist", "soundmark": "/ˈtʊərɪst/" },
+  { "chinese": "旅游业", "english": "tourism", "soundmark": "/ˈtʊərɪzəm/" },
+  { "chinese": "观光", "english": "sightseeing", "soundmark": "/ˈsaɪtsiːɪŋ/" },
+  { "chinese": "导游", "english": "guide", "soundmark": "/ɡaɪd/" },
+  { "chinese": "路线", "english": "route", "soundmark": "/ruːt/" },
+  { "chinese": "行程", "english": "itinerary", "soundmark": "/aɪˈtɪnərəri/" },
+  { "chinese": "目的地", "english": "destination", "soundmark": "/ˌdestɪˈneɪʃən/" },
+  { "chinese": "风景", "english": "scenery", "soundmark": "/ˈsiːnəri/" },
+  { "chinese": "风景名胜", "english": "scenic spot", "soundmark": "/ˈsiːnɪk spɒt/" },
+  { "chinese": "地标", "english": "landmark", "soundmark": "/ˈlændmɑːrk/" },
+  { "chinese": "度假", "english": "vacation", "soundmark": "/veɪˈkeɪʃən/" },
+  { "chinese": "护照", "english": "passport", "soundmark": "/ˈpæspɔːrt/" },
+  { "chinese": "签证", "english": "visa", "soundmark": "/ˈviːzə/" },
+  { "chinese": "行李", "english": "luggage", "soundmark": "/ˈlʌɡɪdʒ/" },
+  { "chinese": "住宿", "english": "accommodation", "soundmark": "/əˌkɒməˈdeɪʃən/" },
+  { "chinese": "纪念品", "english": "souvenir", "soundmark": "/ˌsuːvəˈnɪr/" },
+  { "chinese": "探险", "english": "expedition", "soundmark": "/ˌekspəˈdɪʃən/" },
+  { "chinese": "冒险", "english": "adventure", "soundmark": "/ədˈventʃər/" },
+  { "chinese": "背包旅行", "english": "backpacking", "soundmark": "/ˈbækpækɪŋ/" },
+  { "chinese": "远足", "english": "hiking", "soundmark": "/ˈhaɪkɪŋ/" },
+  { "chinese": "露营", "english": "camping", "soundmark": "/ˈkæmpɪŋ/" },
+  { "chinese": "文化差异", "english": "cultural difference", "soundmark": "/ˈkʌltʃərəl ˈdɪfrəns/" },
+  { "chinese": "跨文化的", "english": "cross-cultural", "soundmark": "/krɒs ˈkʌltʃərəl/" },
+  {
+    "chinese": "文化交流",
+    "english": "cultural exchange",
+    "soundmark": "/ˈkʌltʃərəl ɪksˈtʃeɪndʒ/"
+  },
+  { "chinese": "文化冲击", "english": "culture shock", "soundmark": "/ˈkʌltʃər ʃɒk/" },
+  { "chinese": "全球化", "english": "globalization", "soundmark": "/ˌɡloʊbəlaɪˈzeɪʃən/" },
+  { "chinese": "保护", "english": "preservation", "soundmark": "/ˌprezərˈveɪʃən/" },
+  { "chinese": "保护（动词）", "english": "preserve", "soundmark": "/prɪˈzɜːrv/" },
+  { "chinese": "保护", "english": "conservation", "soundmark": "/ˌkɒnsərˈveɪʃən/" },
+  { "chinese": "保存", "english": "conserve", "soundmark": "/kənˈsɜːrv/" },
+  { "chinese": "修复", "english": "restore", "soundmark": "/rɪˈstɔːr/" },
+  { "chinese": "修复（名词）", "english": "restoration", "soundmark": "/ˌrestəˈreɪʃən/" },
+  { "chinese": "重建", "english": "reconstruct", "soundmark": "/ˌriːkənˈstrʌkt/" },
+  { "chinese": "遗产地", "english": "heritage site", "soundmark": "/ˈherɪtɪdʒ saɪt/" },
+  { "chinese": "联合国教科文组织", "english": "UNESCO", "soundmark": "/juːˈneskoʊ/" },
+  { "chinese": "世界遗产", "english": "World Heritage", "soundmark": "/wɜːrld ˈherɪtɪdʒ/" },
+  {
+    "chinese": "非物质遗产",
+    "english": "intangible heritage",
+    "soundmark": "/ɪnˈtændʒəbl ˈherɪtɪdʒ/"
+  },
+  { "chinese": "书法", "english": "calligraphy", "soundmark": "/kəˈlɪɡrəfi/" },
+  { "chinese": "陶器", "english": "pottery", "soundmark": "/ˈpɒtəri/" },
+  { "chinese": "编织", "english": "weaving", "soundmark": "/ˈwiːvɪŋ/" },
+  { "chinese": "刺绣", "english": "embroidery", "soundmark": "/ɪmˈbrɔɪdəri/" },
+  { "chinese": "京剧", "english": "Beijing Opera", "soundmark": "/beɪˈdʒɪŋ ˈɒpərə/" },
+  { "chinese": "武术", "english": "martial arts", "soundmark": "/ˈmɑːrʃəl ɑːrts/" },
+  { "chinese": "茶道", "english": "tea ceremony", "soundmark": "/tiː ˈserəməni/" },
+  {
+    "chinese": "中医药",
+    "english": "traditional Chinese medicine",
+    "soundmark": "/trəˈdɪʃənl tʃaɪˈniːz ˈmedɪsɪn/"
+  },
+  { "chinese": "哲学", "english": "philosophy", "soundmark": "/fɪˈlɒsəfi/" },
+  { "chinese": "儒家思想", "english": "Confucianism", "soundmark": "/kənˈfjuːʃənɪzəm/" },
+  { "chinese": "丝绸之路", "english": "the Silk Road", "soundmark": "/ðə sɪlk roʊd/" },
+  { "chinese": "长城", "english": "the Great Wall", "soundmark": "/ðə ɡreɪt wɔːl/" },
+  { "chinese": "紫禁城", "english": "the Forbidden City", "soundmark": "/ðə fərˈbɪdn ˈsɪti/" },
+  { "chinese": "兵马俑", "english": "the Terracotta Army", "soundmark": "/ðə ˌterəˈkɒtə ˈɑːrmi/" },
+  { "chinese": "西湖", "english": "West Lake", "soundmark": "/west leɪk/" },
+  { "chinese": "黄山", "english": "Mount Huangshan", "soundmark": "/maʊnt hwɑːŋʃɑːn/" },
+  { "chinese": "兵马俑", "english": "Terracotta Warriors", "soundmark": "/ˌterəˈkɒtə ˈwɒriərz/" },
+  {
+    "chinese": "文化是一个国家历史和价值观的体现。",
+    "english": "Culture reflects the history and values of a nation.",
+    "soundmark": "/ˈkʌltʃər rɪˈflektz ðə ˈhɪstəri ænd ˈvæljuːz əv ə ˈneɪʃən/"
+  },
+  {
+    "chinese": "了解不同的文化传统有助于我们理解这个世界。",
+    "english": "To understand different cultural traditions helps us comprehend the world.",
+    "soundmark": "/tuː ˌʌndərˈstænd ˈdɪfrənt ˈkʌltʃərəl trəˈdɪʃənz ˈhelps ʌs ˌkɒmprɪˈhend ðə wɜːrld/"
+  },
+  {
+    "chinese": "保持传统习俗非常重要。",
+    "english": "It is important to preserve traditional customs.",
+    "soundmark": "/ɪt ɪz ɪmˈpɔːrtənt tuː prɪˈzɜːrv trəˈdɪʃənl ˈkʌstəmz/"
+  },
+  {
+    "chinese": "旅游是一种开阔眼界的方式。",
+    "english": "Travel is a way to broaden one's horizons.",
+    "soundmark": "/ˈtrævəl ɪz ə weɪ tuː ˈbrɔːdən wʌnz həˈraɪzənz/"
+  },
+  {
+    "chinese": "出国旅行是许多年轻人的梦想。",
+    "english": "To travel abroad is a dream for many young people.",
+    "soundmark": "/tuː ˈtrævəl əˈbrɔːd ɪz ə driːm fɔːr ˈmeni jʌŋ ˈpiːpl/"
+  },
+  {
+    "chinese": "她去了北京，为了参观长城。",
+    "english": "She went to Beijing to visit the Great Wall.",
+    "soundmark": "/ʃiː went tuː beɪˈdʒɪŋ tuː ˈvɪzɪt ðə ɡreɪt wɔːl/"
+  },
+  {
+    "chinese": "了解一种文化最好的方式就是亲身体验。",
+    "english": "The best way to learn about a culture is to experience it yourself.",
+    "soundmark": "/ðə best weɪ tuː lɜːrn əˈbaʊt ə ˈkʌltʃər ɪz tuː ɪkˈspɪriəns ɪt jɔːrˈself/"
+  },
+  {
+    "chinese": "据说他已经写了三部小说。",
+    "english": "He is said to have written three novels.",
+    "soundmark": "/hiː ɪz sed tuː hæv ˈrɪtən θriː ˈnɒvəlz/"
+  },
+  {
+    "chinese": "我宁愿待在家里也不愿冒雨外出。",
+    "english": "I would rather stay at home than go out in the rain.",
+    "soundmark": "/aɪ wʊd ˈræðər steɪ æt hoʊm ðæn ɡoʊ aʊt ɪn ðə reɪn/"
+  },
+  {
+    "chinese": "学一门外语需要时间和耐心。",
+    "english": "To learn a foreign language requires time and patience.",
+    "soundmark": "/tuː lɜːrn ə ˈfɒrɪn ˈlæŋɡwɪdʒ rɪˈkwaɪərz taɪm ænd ˈpeɪʃəns/"
+  },
+  {
+    "chinese": "读书是我们获取知识的主要途径。",
+    "english": "To read books is the main way for us to acquire knowledge.",
+    "soundmark": "/tuː riːd bʊks ɪz ðə meɪn weɪ fɔːr ʌs tuː əˈkwaɪər ˈnɒlɪdʒ/"
+  },
+  {
+    "chinese": "他的梦想是周游世界。",
+    "english": "His dream is to travel around the world.",
+    "soundmark": "/hɪz driːm ɪz tuː ˈtrævəl əˈraʊnd ðə wɜːrld/"
+  },
+  {
+    "chinese": "我的计划是下个月去欧洲旅行。",
+    "english": "My plan is to travel to Europe next month.",
+    "soundmark": "/maɪ plæn ɪz tuː ˈtrævəl tuː ˈjʊərəp nekst mʌnθ/"
+  },
+  {
+    "chinese": "最重要的任务是保护这些文化遗产。",
+    "english": "The most important task is to preserve these cultural heritages.",
+    "soundmark": "/ðə moʊst ɪmˈpɔːrtənt tɑːsk ɪz tuː prɪˈzɜːrv ðiːz ˈkʌltʃərəl ˈherɪtɪdʒɪz/"
+  },
+  {
+    "chinese": "我有很多书要读。",
+    "english": "I have a lot of books to read.",
+    "soundmark": "/aɪ hæv ə lɒt əv bʊks tuː riːd/"
+  },
+  {
+    "chinese": "她需要一个人陪她去博物馆。",
+    "english": "She needs someone to accompany her to the museum.",
+    "soundmark": "/ʃiː niːdz ˈsʌmwʌn tuː əˈkʌmpəni hɜːr tuː ðə mjuːˈziːəm/"
+  },
+  {
+    "chinese": "他是一个值得信赖的导游。",
+    "english": "He is a reliable guide to show you around.",
+    "soundmark": "/hiː ɪz ə rɪˈlaɪəbl ɡaɪd tuː ʃoʊ juː əˈraʊnd/"
+  },
+  {
+    "chinese": "我有一个好消息要告诉你。",
+    "english": "I have good news to tell you.",
+    "soundmark": "/aɪ hæv ɡʊd njuːz tuː tel juː/"
+  },
+  {
+    "chinese": "她起得很早，为了赶上第一班火车。",
+    "english": "She got up early to catch the first train.",
+    "soundmark": "/ʃiː ɡɒt ʌp ˈɜːrli tuː kætʃ ðə fɜːrst treɪn/"
+  },
+  {
+    "chinese": "他努力学习，为了通过四级考试。",
+    "english": "He studies hard to pass the CET-4 exam.",
+    "soundmark": "/hiː ˈstʌdiz hɑːrd tuː pæs ðə siː-iː-tiː fɔːr ɪɡˈzæm/"
+  },
+  {
+    "chinese": "我们去了西安，为了看兵马俑。",
+    "english": "We went to Xi'an to see the Terracotta Warriors.",
+    "soundmark": "/wiː went tuː ʃiːˈæn tuː siː ðə ˌterəˈkɒtə ˈwɒriərz/"
+  },
+  {
+    "chinese": "她很开心收到了录取通知书。",
+    "english": "She was happy to receive the admission letter.",
+    "soundmark": "/ʃiː wɒz ˈhæpi tuː rɪˈsiːv ðiː ədˈmɪʃən ˈletər/"
+  },
+  {
+    "chinese": "我很荣幸被邀请参加这个文化节。",
+    "english": "I am honored to be invited to this cultural festival.",
+    "soundmark": "/aɪ æm ˈɒnərd tuː biː ɪnˈvaɪtɪd tuː ðɪs ˈkʌltʃərəl ˈfestɪvl/"
+  },
+  {
+    "chinese": "他很难理解这种文化差异。",
+    "english": "He finds it hard to understand this cultural difference.",
+    "soundmark": "/hiː faɪndz ɪt hɑːrd tuː ˌʌndərˈstænd ðɪs ˈkʌltʃərəl ˈdɪfrəns/"
+  },
+  {
+    "chinese": "我认为保护文化遗产是每个人的责任。",
+    "english": "I consider it our duty to protect cultural heritage.",
+    "soundmark": "/aɪ kənˈsɪdər ɪt aʊər ˈdjuːti tuː prəˈtekt ˈkʌltʃərəl ˈherɪtɪdʒ/"
+  },
+  {
+    "chinese": "我发现学习历史很有趣。",
+    "english": "I find it interesting to study history.",
+    "soundmark": "/aɪ faɪnd ɪt ˈɪntrəstɪŋ tuː ˈstʌdi ˈhɪstəri/"
+  },
+  {
+    "chinese": "老师让学生们写一篇关于文化差异的作文。",
+    "english": "The teacher asked the students to write an essay on cultural differences.",
+    "soundmark": "/ðə ˈtiːtʃər ɑːskt ðə ˈstjuːdənts tuː raɪt ən ˈeseɪ ɒn ˈkʌltʃərəl ˈdɪfrənsɪz/"
+  },
+  {
+    "chinese": "她鼓励孩子们去探索不同的文化。",
+    "english": "She encouraged the children to explore different cultures.",
+    "soundmark": "/ʃiː ɪnˈkʌrɪdʒd ðə ˈtʃɪldrən tuː ɪkˈsplɔːr ˈdɪfrənt ˈkʌltʃərz/"
+  },
+  {
+    "chinese": "政府决定投资旅游业的发展。",
+    "english": "The government decided to invest in the development of tourism.",
+    "soundmark": "/ðə ˈɡʌvərnmənt dɪˈsaɪdɪd tuː ɪnˈvest ɪn ðə dɪˈveləpmənt əv ˈtʊərɪzəm/"
+  },
+  {
+    "chinese": "我希望将来能出国留学。",
+    "english": "I hope to study abroad in the future.",
+    "soundmark": "/aɪ hoʊp tuː ˈstʌdi əˈbrɔːd ɪn ðə ˈfjuːtʃər/"
+  },
+  {
+    "chinese": "她计划明年去意大利旅游。",
+    "english": "She plans to travel to Italy next year.",
+    "soundmark": "/ʃiː plænz tuː ˈtrævəl tuː ˈɪtəli nekst jɪr/"
+  },
+  {
+    "chinese": "他们同意合作保护这座古建筑。",
+    "english": "They agreed to work together to preserve this ancient building.",
+    "soundmark": "/ðeɪ əˈɡriːd tuː wɜːrk təˈɡeðər tuː prɪˈzɜːrv ðɪs ˈeɪnʃənt ˈbɪldɪŋ/"
+  },
+  {
+    "chinese": "他选择留在祖国而不是移民海外。",
+    "english": "He chose to stay in his homeland rather than emigrate.",
+    "soundmark": "/hiː tʃoʊz tuː steɪ ɪn hɪz ˈhoʊmlænd ˈræðər ðæn ˈemɪɡreɪt/"
+  },
+  {
+    "chinese": "你没必要担心签证问题。",
+    "english": "You don't need to worry about the visa issue.",
+    "soundmark": "/juː doʊnt niːd tuː ˈwʌri əˈbaʊt ðə ˈviːzə ˈɪʃuː/"
+  },
+  {
+    "chinese": "我们必须采取措施来保护非物质文化遗产。",
+    "english": "We must take measures to protect intangible cultural heritage.",
+    "soundmark": "/wiː mʌst teɪk ˈmeʒərz tuː prəˈtekt ɪnˈtændʒəbl ˈkʌltʃərəl ˈherɪtɪdʒ/"
+  },
+  {
+    "chinese": "这个项目旨在促进国际文化交流。",
+    "english": "This project aims to promote international cultural exchange.",
+    "soundmark": "/ðɪs ˈprɒdʒekt eɪmz tuː prəˈmoʊt ˌɪntərˈnæʃənl ˈkʌltʃərəl ɪksˈtʃeɪndʒ/"
+  },
+  {
+    "chinese": "长城被认为是中国最伟大的建筑奇迹之一。",
+    "english": "The Great Wall is considered to be one of the greatest architectural wonders of China.",
+    "soundmark": "/ðə ɡreɪt wɔːl ɪz kənˈsɪdərd tuː biː wʌn əv ðə ɡreɪtɪst ˌɑːrkɪˈtektʃərəl ˈwʌndərz əv ˈtʃaɪnə/"
+  },
+  {
+    "chinese": "故宫博物院是中国最大的古代文化艺术博物馆。",
+    "english": "The Palace Museum is the largest museum of ancient culture and art in China.",
+    "soundmark": "/ðə ˈpæləs mjuːˈziːəm ɪz ðə ˈlɑːrdʒɪst mjuːˈziːəm əv ˈeɪnʃənt ˈkʌltʃər ænd ɑːrt ɪn ˈtʃaɪnə/"
+  },
+  {
+    "chinese": "孔子被认为是中国最伟大的哲学家之一。",
+    "english": "Confucius is believed to be one of the greatest philosophers in China.",
+    "soundmark": "/kənˈfjuːʃəs ɪz bɪˈliːvd tuː biː wʌn əv ðə ɡreɪtɪst fɪˈlɒsəfərz ɪn ˈtʃaɪnə/"
+  },
+  {
+    "chinese": "丝绸之路据说促进了东西方文化交流。",
+    "english": "The Silk Road is said to have promoted cultural exchange between East and West.",
+    "soundmark": "/ðə sɪlk roʊd ɪz sed tuː hæv prəˈmoʊtɪd ˈkʌltʃərəl ɪksˈtʃeɪndʒ bɪˈtwiːn iːst ænd west/"
+  },
+  {
+    "chinese": "他似乎已经去过很多国家旅行了。",
+    "english": "He seems to have traveled to many countries.",
+    "soundmark": "/hiː siːmz tuː hæv ˈtrævəld tuː ˈmeni ˈkʌntriz/"
+  },
+  {
+    "chinese": "她被要求在下周一之前提交关于文化遗产保护的报告。",
+    "english": "She is required to submit a report on cultural heritage protection by next Monday.",
+    "soundmark": "/ʃiː ɪz rɪˈkwaɪərd tuː səbˈmɪt ə rɪˈpɔːrt ɒn ˈkʌltʃərəl ˈherɪtɪdʒ prəˈtekʃən baɪ nekst ˈmʌndeɪ/"
+  },
+  {
+    "chinese": "这本书被认为是了解中国文化的最佳入门读物。",
+    "english": "This book is considered to be the best introduction to Chinese culture.",
+    "soundmark": "/ðɪs bʊk ɪz kənˈsɪdərd tuː biː ðə best ˌɪntrəˈdʌkʃən tuː tʃaɪˈniːz ˈkʌltʃər/"
+  },
+  {
+    "chinese": "我看见她正在图书馆里读一本关于跨文化交流的书。",
+    "english": "I saw her reading a book on cross-cultural communication in the library.",
+    "soundmark": "/aɪ sɔː hɜːr ˈriːdɪŋ ə bʊk ɒn krɒs ˈkʌltʃərəl kəˌmjuːnɪˈkeɪʃən ɪn ðə ˈlaɪbrəri/"
+  },
+  {
+    "chinese": "我听到有人在外面唱歌。",
+    "english": "I heard someone singing outside.",
+    "soundmark": "/aɪ hɜːrd ˈsʌmwʌn ˈsɪŋɪŋ ˌaʊtˈsaɪd/"
+  },
+  {
+    "chinese": "老师让学生们安静下来。",
+    "english": "The teacher made the students quiet down.",
+    "soundmark": "/ðə ˈtiːtʃər meɪd ðə ˈstjuːdənts ˈkwaɪət daʊn/"
+  },
+  {
+    "chinese": "你最好提前预订酒店房间。",
+    "english": "You had better book the hotel room in advance.",
+    "soundmark": "/juː hæd ˈbetər bʊk ðə hoʊˈtel ruːm ɪn ədˈvæns/"
+  },
+  {
+    "chinese": "我宁愿坐火车也不愿坐飞机去旅行。",
+    "english": "I would rather take a train than fly when traveling.",
+    "soundmark": "/aɪ wʊd ˈræðər teɪk ə treɪn ðæn flaɪ wen ˈtrævəlɪŋ/"
+  },
+  {
+    "chinese": "她宁可一个人旅行也不愿跟团。",
+    "english": "She would rather travel alone than join a tour group.",
+    "soundmark": "/ʃiː wʊd ˈræðər ˈtrævəl əˈloʊn ðæn dʒɔɪn ə tʊər ɡruːp/"
+  },
+  {
+    "chinese": "为什么不趁年轻多出去走走呢？",
+    "english": "Why not go out and see more of the world while you are young?",
+    "soundmark": "/waɪ nɒt ɡoʊ aʊt ænd siː mɔːr əv ðə wɜːrld waɪl juː ɑːr jʌŋ/"
+  },
+  {
+    "chinese": "让我们一起规划这次文化之旅吧。",
+    "english": "Let's plan this cultural trip together.",
+    "soundmark": "/lets plæn ðɪs ˈkʌltʃərəl trɪp təˈɡeðər/"
+  },
+  {
+    "chinese": "他太累了，走不动了。",
+    "english": "He is too tired to walk any further.",
+    "soundmark": "/hiː ɪz tuː taɪərd tuː wɔːk ˈeni ˈfɜːrðər/"
+  },
+  {
+    "chinese": "她够大了，可以独自旅行。",
+    "english": "She is old enough to travel alone.",
+    "soundmark": "/ʃiː ɪz oʊld ɪˈnʌf tuː ˈtrævəl əˈloʊn/"
+  },
+  {
+    "chinese": "这座寺庙被修缮得非常漂亮。",
+    "english": "This temple has been beautifully restored.",
+    "soundmark": "/ðɪs ˈtempl hæz bɪn ˈbjuːtɪfli rɪˈstɔːrd/"
+  },
+  {
+    "chinese": "许多古建筑需要被保护和修缮。",
+    "english": "Many ancient buildings need to be preserved and restored.",
+    "soundmark": "/ˈmeni ˈeɪnʃənt ˈbɪldɪŋz niːd tuː biː prɪˈzɜːrvd ænd rɪˈstɔːrd/"
+  },
+  {
+    "chinese": "这座博物馆被期望能吸引更多的游客。",
+    "english": "This museum is expected to attract more visitors.",
+    "soundmark": "/ðɪs mjuːˈziːəm ɪz ɪkˈspektɪd tuː əˈtrækt mɔːr ˈvɪzɪtərz/"
+  },
+  {
+    "chinese": "这些文物不允许被带出国境。",
+    "english": "These relics are not allowed to be taken out of the country.",
+    "soundmark": "/ðiːz ˈrelɪks ɑːr nɒt əˈlaʊd tuː biː ˈteɪkən aʊt əv ðə ˈkʌntri/"
+  },
+  {
+    "chinese": "这个问题有待进一步讨论。",
+    "english": "This issue remains to be further discussed.",
+    "soundmark": "/ðɪs ˈɪʃuː rɪˈmeɪnz tuː biː ˈfɜːrðər dɪsˈkʌst/"
+  },
+  {
+    "chinese": "保护非物质文化遗产正受到越来越多的关注。",
+    "english": "The preservation of intangible cultural heritage is receiving more and more attention.",
+    "soundmark": "/ðə ˌprezərˈveɪʃən əv ɪnˈtændʒəbl ˈkʌltʃərəl ˈherɪtɪdʒ ɪz rɪˈsiːvɪŋ mɔːr ænd mɔːr əˈtenʃən/"
+  },
+  {
+    "chinese": "东西方文化在很多方面存在差异。",
+    "english": "Eastern and Western cultures differ in many aspects.",
+    "soundmark": "/ˈiːstərn ænd ˈwestərn ˈkʌltʃərz ˈdɪfər ɪn ˈmeni ˈæspekts/"
+  },
+  {
+    "chinese": "全球化使得文化交流变得更加频繁。",
+    "english": "Globalization makes cultural exchange more frequent.",
+    "soundmark": "/ˌɡloʊbəlaɪˈzeɪʃən meɪks ˈkʌltʃərəl ɪksˈtʃeɪndʒ mɔːr ˈfriːkwənt/"
+  },
+  {
+    "chinese": "经历文化冲击是出国留学的常见现象。",
+    "english": "To experience culture shock is common for students studying abroad.",
+    "soundmark": "/tuː ɪkˈspɪriəns ˈkʌltʃər ʃɒk ɪz ˈkɒmən fɔːr ˈstjuːdənts ˈstʌdiɪŋ əˈbrɔːd/"
+  },
+  {
+    "chinese": "书法是中国文化中非常重要的艺术形式。",
+    "english": "Calligraphy is a very important art form in Chinese culture.",
+    "soundmark": "/kəˈlɪɡrəfi ɪz ə ˈveri ɪmˈpɔːrtənt ɑːrt fɔːrm ɪn tʃaɪˈniːz ˈkʌltʃər/"
+  },
+  {
+    "chinese": "茶道体现了中国人追求和谐与宁静的精神。",
+    "english": "The tea ceremony reflects the Chinese spirit of pursuing harmony and tranquility.",
+    "soundmark": "/ðə tiː ˈserəməni rɪˈflektz ðə tʃaɪˈniːz ˈspɪrɪt əv pərˈsuːɪŋ ˈhɑːrməni ænd træŋˈkwɪləti/"
+  },
+  {
+    "chinese": "故宫被列入世界文化遗产名录。",
+    "english": "The Forbidden City was listed as a World Cultural Heritage site.",
+    "soundmark": "/ðə fərˈbɪdn ˈsɪti wɒz ˈlɪstɪd æz ə wɜːrld ˈkʌltʃərəl ˈherɪtɪdʒ saɪt/"
+  },
+  {
+    "chinese": "我们应该尊重不同民族的风俗习惯。",
+    "english": "We should respect the customs of different ethnic groups.",
+    "soundmark": "/wiː ʃʊd rɪˈspekt ðə ˈkʌstəmz əv ˈdɪfrənt ˈeθnɪk ɡruːps/"
+  },
+  {
+    "chinese": "中西方在家庭观念上有很大差异。",
+    "english": "There is a big difference between Chinese and Western concepts of family.",
+    "soundmark": "/ðer ɪz ə bɪɡ ˈdɪfrəns bɪˈtwiːn tʃaɪˈniːz ænd ˈwestərn ˈkɒnsepts əv ˈfæməli/"
+  },
+  {
+    "chinese": "春节是中国最重要的传统节日。",
+    "english": "The Spring Festival is the most important traditional holiday in China.",
+    "soundmark": "/ðə sprɪŋ ˈfestɪvl ɪz ðə moʊst ɪmˈpɔːrtənt trəˈdɪʃənl ˈhɒlədeɪ ɪn ˈtʃaɪnə/"
+  },
+  {
+    "chinese": "中秋节人们通常吃月饼赏月。",
+    "english": "During the Mid-Autumn Festival, people usually eat mooncakes and admire the moon.",
+    "soundmark": "/ˈdjʊərɪŋ ðə mɪd ˈɔːtəm ˈfestɪvl ˈpiːpl ˈjuːʒuəli iːt ˈmuːnkeɪks ænd ədˈmaɪər ðə muːn/"
+  },
+  {
+    "chinese": "端午节是为了纪念古代诗人屈原。",
+    "english": "The Dragon Boat Festival is to commemorate the ancient poet Qu Yuan.",
+    "soundmark": "/ðə ˈdræɡən boʊt ˈfestɪvl ɪz tuː kəˈmeməreɪt ðiː ˈeɪnʃənt ˈpoʊət tʃuː jwæn/"
+  },
+  {
+    "chinese": "春节期间，家家户户都会贴春联。",
+    "english": "During the Spring Festival, every family puts up spring couplets.",
+    "soundmark": "/ˈdjʊərɪŋ ðə sprɪŋ ˈfestɪvl ˈevri ˈfæməli pʊts ʌp sprɪŋ ˈkʌpləts/"
+  },
+  {
+    "chinese": "舞龙舞狮是中国传统节庆活动的重要组成部分。",
+    "english": "Dragon and lion dances are an important part of traditional Chinese celebrations.",
+    "soundmark": "/ˈdræɡən ænd ˈlaɪən dænsɪz ɑːr ən ɪmˈpɔːrtənt pɑːrt əv trəˈdɪʃənl tʃaɪˈniːz ˌselɪˈbreɪʃənz/"
+  },
+  {
+    "chinese": "昆曲被誉为百戏之祖。",
+    "english": "Kunqu Opera is praised as the ancestor of all operas.",
+    "soundmark": "/kwɪnˈkjuː ˈɒpərə ɪz preɪzd æz ðiː ˈænsestər əv ɔːl ˈɒpərəz/"
+  },
+  {
+    "chinese": "在中国文化中，红色象征着好运和幸福。",
+    "english": "In Chinese culture, red symbolizes good luck and happiness.",
+    "soundmark": "/ɪn tʃaɪˈniːz ˈkʌltʃər red ˈsɪmbəlaɪzɪz ɡʊd lʌk ænd ˈhæpɪnəs/"
+  },
+  {
+    "chinese": "西方文化中个人主义更受重视。",
+    "english": "Individualism is more valued in Western culture.",
+    "soundmark": "/ˌɪndɪˈvɪdʒuəlɪzəm ɪz mɔːr ˈvæljuːd ɪn ˈwestərn ˈkʌltʃər/"
+  },
+  {
+    "chinese": "中国文化更强调集体主义和家庭观念。",
+    "english": "Chinese culture places more emphasis on collectivism and family values.",
+    "soundmark": "/tʃaɪˈniːz ˈkʌltʃər pleɪsɪz mɔːr ˈemfəsɪs ɒn kəˈlektɪvɪzəm ænd ˈfæməli ˈvæljuːz/"
+  },
+  {
+    "chinese": "餐桌礼仪在中西方文化中截然不同。",
+    "english": "Table manners are quite different between Chinese and Western cultures.",
+    "soundmark": "/ˈteɪbl ˈmænərz ɑːr kwaɪt ˈdɪfrənt bɪˈtwiːn tʃaɪˈniːz ænd ˈwestərn ˈkʌltʃərz/"
+  },
+  {
+    "chinese": "学会尊重文化差异是跨文化交流的关键。",
+    "english": "To learn to respect cultural differences is the key to cross-cultural communication.",
+    "soundmark": "/tuː lɜːn tuː rɪˈspekt ˈkʌltʃərəl ˈdɪfrənsɪz ɪz ðə kiː tuː krɒs ˈkʌltʃərəl kəˌmjuːnɪˈkeɪʃən/"
+  },
+  {
+    "chinese": "旅游不仅能放松身心，还能增长见识。",
+    "english": "Travel not only relaxes the mind but also broadens one's knowledge.",
+    "soundmark": "/ˈtrævəl nɒt ˈoʊnli rɪˈlæksɪz ðə maɪnd bʌt ˈɔːlsoʊ ˈbrɔːdənz wʌnz ˈnɒlɪdʒ/"
+  },
+  {
+    "chinese": "自由行比跟团游更受年轻人的青睐。",
+    "english": "Independent travel is more popular among young people than package tours.",
+    "soundmark": "/ˌɪndɪˈpendənt ˈtrævəl ɪz mɔːr ˈpɒpjələr əˈmʌŋ jʌŋ ˈpiːpl ðæn ˈpækɪdʒ tʊərz/"
+  },
+  {
+    "chinese": "生态旅游在近年来变得越来越受欢迎。",
+    "english": "Ecotourism has become increasingly popular in recent years.",
+    "soundmark": "/ˌiːkoʊˈtʊərɪzəm hæz bɪˈkʌm ɪnˈkriːsɪŋli ˈpɒpjələr ɪn ˈriːsənt jɪrz/"
+  },
+  {
+    "chinese": "旅游业的发展给当地经济带来了巨大的收益。",
+    "english": "The development of tourism has brought huge benefits to the local economy.",
+    "soundmark": "/ðə dɪˈveləpmənt əv ˈtʊərɪzəm hæz brɔːt hjuːdʒ ˈbenɪfɪts tuː ðə ˈloʊkl ɪˈkɒnəmi/"
+  },
+  {
+    "chinese": "然而过度旅游化也可能破坏当地的生态环境。",
+    "english": "However, over-tourism can also damage the local ecological environment.",
+    "soundmark": "/haʊˈevər ˌoʊvər ˈtʊərɪzəm kæn ˈɔːlsoʊ ˈdæmɪdʒ ðə ˈloʊkl ˌiːkəˈlɒdʒɪkl ɪnˈvaɪrənmənt/"
+  },
+  {
+    "chinese": "我们不应该为了经济利益而牺牲文化遗产。",
+    "english": "We should not sacrifice cultural heritage for economic benefits.",
+    "soundmark": "/wiː ʃʊd nɒt ˈsækrɪfaɪs ˈkʌltʃərəl ˈherɪtɪdʒ fɔːr ˌiːkəˈnɒmɪk ˈbenɪfɪts/"
+  },
+  {
+    "chinese": "他被认为是这个时代最伟大的旅行作家之一。",
+    "english": "He is considered to be one of the greatest travel writers of our time.",
+    "soundmark": "/hiː ɪz kənˈsɪdərd tuː biː wʌn əv ðə ɡreɪtɪst ˈtrævəl ˈraɪtərz əv aʊər taɪm/"
+  },
+  {
+    "chinese": "这本书值得被翻译成多种语言。",
+    "english": "This book deserves to be translated into multiple languages.",
+    "soundmark": "/ðɪs bʊk dɪˈzɜːrvz tuː biː trænsˈleɪtɪd ˈɪntuː ˈmʌltɪpl ˈlæŋɡwɪdʒɪz/"
+  },
+  {
+    "chinese": "非物质文化遗产的传承需要年轻人的参与。",
+    "english": "The transmission of intangible cultural heritage needs the participation of young people.",
+    "soundmark": "/ðə trænzˈmɪʃən əv ɪnˈtændʒəbl ˈkʌltʃərəl ˈherɪtɪdʒ niːdz ðə pɑːrˌtɪsɪˈpeɪʃən əv jʌŋ ˈpiːpl/"
+  },
+  {
+    "chinese": "我注意到他在文化遗产保护方面做了很多工作。",
+    "english": "I noticed him doing a lot of work in cultural heritage preservation.",
+    "soundmark": "/aɪ ˈnoʊtɪst hɪm ˈduːɪŋ ə lɒt əv wɜːrk ɪn ˈkʌltʃərəl ˈherɪtɪdʒ ˌprezərˈveɪʃən/"
+  },
+  {
+    "chinese": "我们目睹了这座古城在夕阳下的壮丽景色。",
+    "english": "We watched the ancient city glowing magnificently in the sunset.",
+    "soundmark": "/wiː wɒtʃt ðiː ˈeɪnʃənt ˈsɪti ˈɡloʊɪŋ mæɡˈnɪfɪsəntli ɪn ðə ˈsʌnset/"
+  },
+  {
+    "chinese": "他不断地旅行，渴望探索未知的世界。",
+    "english": "He keeps traveling, eager to explore the unknown world.",
+    "soundmark": "/hiː kiːps ˈtrævəlɪŋ ˈiːɡər tuː ɪkˈsplɔːr ðə ʌnˈnoʊn wɜːrld/"
+  },
+  {
+    "chinese": "这个项目被认为有助于促进中西方文化相互理解。",
+    "english": "This project is believed to help promote mutual understanding between Chinese and Western cultures.",
+    "soundmark": "/ðɪs ˈprɒdʒekt ɪz bɪˈliːvd tuː help prəˈmoʊt ˈmjuːtʃuəl ˌʌndərˈstændɪŋ bɪˈtwiːn tʃaɪˈniːz ænd ˈwestərn ˈkʌltʃərz/"
+  },
+  {
+    "chinese": "她被选中代表学校参加国际文化交流活动。",
+    "english": "She was selected to represent the school at the international cultural exchange event.",
+    "soundmark": "/ʃiː wɒz sɪˈlektɪd tuː ˌreprɪˈzent ðə skuːl æt ðə ˌɪntərˈnæʃənl ˈkʌltʃərəl ɪksˈtʃeɪndʒ ɪˈvent/"
+  },
+  {
+    "chinese": "据说他花了十年时间周游世界。",
+    "english": "He is said to have spent ten years traveling around the world.",
+    "soundmark": "/hiː ɪz sed tuː hæv spent ten jɪrz ˈtrævəlɪŋ əˈraʊnd ðə wɜːrld/"
+  },
+  {
+    "chinese": "她似乎一直在为保护当地文化遗产而努力。",
+    "english": "She seems to have been working hard to protect local cultural heritage.",
+    "soundmark": "/ʃiː siːmz tuː hæv bɪn ˈwɜːrkɪŋ hɑːrd tuː prəˈtekt ˈloʊkl ˈkʌltʃərəl ˈherɪtɪdʒ/"
+  },
+  {
+    "chinese": "这个博物馆据说藏有价值连城的古代文物。",
+    "english": "This museum is said to house priceless ancient relics.",
+    "soundmark": "/ðɪs mjuːˈziːəm ɪz sed tuː haʊs ˈpraɪsləs ˈeɪnʃənt ˈrelɪks/"
+  },
+  {
+    "chinese": "他被认为是第一个研究中国民俗的外国学者。",
+    "english": "He is considered to be the first foreign scholar to study Chinese folklore.",
+    "soundmark": "/hiː ɪz kənˈsɪdərd tuː biː ðə fɜːrst ˈfɒrɪn ˈskɒlər tuː ˈstʌdi tʃaɪˈniːz ˈfoʊklɔːr/"
+  },
+  {
+    "chinese": "文化遗产保护不只是政府的责任，也需要每个公民的参与。",
+    "english": "Cultural heritage preservation is not only the government's responsibility but also requires every citizen's participation.",
+    "soundmark": "/ˈkʌltʃərəl ˈherɪtɪdʒ ˌprezərˈveɪʃən ɪz nɒt ˈoʊnli ðə ˈɡʌvərnmənts rɪsˌpɒnsəˈbɪləti bʌt ˈɔːlsoʊ rɪˈkwaɪərz ˈevri ˈsɪtɪzənz pɑːrˌtɪsɪˈpeɪʃən/"
+  },
+  {
+    "chinese": "读万卷书不如行万里路。",
+    "english": "To travel ten thousand miles is better than to read ten thousand books.",
+    "soundmark": "/tuː ˈtrævəl ten ˈθaʊzənd maɪlz ɪz ˈbetər ðæn tuː riːd ten ˈθaʊzənd bʊks/"
+  },
+  {
+    "chinese": "我们计划去法国参观卢浮宫和埃菲尔铁塔。",
+    "english": "We plan to visit the Louvre and the Eiffel Tower in France.",
+    "soundmark": "/wiː plæn tuː ˈvɪzɪt ðə ˈluːvrə ænd ðiː ˈaɪfəl ˈtaʊər ɪn fræns/"
+  },
+  {
+    "chinese": "当地居民依靠旅游业为生。",
+    "english": "Local residents depend on tourism for a living.",
+    "soundmark": "/ˈloʊkl ˈrezɪdənts dɪˈpend ɒn ˈtʊərɪzəm fɔːr ə ˈlɪvɪŋ/"
+  },
+  {
+    "chinese": "博物馆展出了大量来自世界各地的珍贵艺术品。",
+    "english": "The museum displays a large number of precious artworks from around the world.",
+    "soundmark": "/ðə mjuːˈziːəm dɪˈspleɪz ə lɑːrdʒ ˈnʌmbər əv ˈpreʃəs ˈɑːrtwɜːrks frəm əˈraʊnd ðə wɜːrld/"
+  },
+  {
+    "chinese": "他在旅途中写了一本关于丝绸之路的畅销书。",
+    "english": "He wrote a best-selling book about the Silk Road during his journey.",
+    "soundmark": "/hiː roʊt ə best ˈselɪŋ bʊk əˈbaʊt ðə sɪlk roʊd ˈdjʊərɪŋ hɪz ˈdʒɜːrni/"
+  },
+  {
+    "chinese": "学习一门新的语言能帮助你更好地理解当地文化。",
+    "english": "Learning a new language helps you better understand the local culture.",
+    "soundmark": "/ˈlɜːrnɪŋ ə njuː ˈlæŋɡwɪdʒ helps juː ˈbetər ˌʌndərˈstænd ðə ˈloʊkl ˈkʌltʃər/"
+  },
+  {
+    "chinese": "保护传统手工艺是每个民族的文化责任。",
+    "english": "To protect traditional crafts is the cultural responsibility of every nation.",
+    "soundmark": "/tuː prəˈtekt trəˈdɪʃənl kræfts ɪz ðə ˈkʌltʃərəl rɪsˌpɒnsəˈbɪləti əv ˈevri ˈneɪʃən/"
+  },
+  {
+    "chinese": "我们被邀请参加当地的传统婚礼典礼。",
+    "english": "We were invited to attend a local traditional wedding ceremony.",
+    "soundmark": "/wiː wɜːr ɪnˈvaɪtɪd tuː əˈtend ə ˈloʊkl trəˈdɪʃənl ˈwedɪŋ ˈserəməni/"
+  },
+  {
+    "chinese": "他想让全世界都知道这个美丽的小镇。",
+    "english": "He wants the whole world to know about this beautiful little town.",
+    "soundmark": "/hiː wɒnts ðə hoʊl wɜːrld tuː noʊ əˈbaʊt ðɪs ˈbjuːtɪfl ˈlɪtl taʊn/"
+  },
+  {
+    "chinese": "她被认为是推动中法文化交流的先驱者。",
+    "english": "She is considered to be a pioneer in promoting cultural exchange between China and France.",
+    "soundmark": "/ʃiː ɪz kənˈsɪdərd tuː biː ə ˌpaɪəˈnɪər ɪn prəˈmoʊtɪŋ ˈkʌltʃərəl ɪksˈtʃeɪndʒ bɪˈtwiːn ˈtʃaɪnə ænd fræns/"
+  },
+  {
+    "chinese": "他被迫放弃了出国深造的机会。",
+    "english": "He was forced to give up the opportunity to study abroad.",
+    "soundmark": "/hiː wɒz fɔːrst tuː ɡɪv ʌp ðə ˌɒpərˈtjuːnəti tuː ˈstʌdi əˈbrɔːd/"
+  },
+  {
+    "chinese": "文化遗产一旦被破坏就很难恢复了。",
+    "english": "Once cultural heritage is destroyed, it is hard to be restored.",
+    "soundmark": "/wʌns ˈkʌltʃərəl ˈherɪtɪdʒ ɪz dɪˈstrɔɪd ɪt ɪz hɑːrd tuː biː rɪˈstɔːrd/"
+  },
+  {
+    "chinese": "人们蜂拥至这个古镇，想要体验传统的中国生活。",
+    "english": "People flock to this ancient town to experience traditional Chinese life.",
+    "soundmark": "/ˈpiːpl flɒk tuː ðɪs ˈeɪnʃənt taʊn tuː ɪkˈspɪriəns trəˈdɪʃənl tʃaɪˈniːz laɪf/"
+  },
+  {
+    "chinese": "这个方案被认为是最可行的文化保护方案。",
+    "english": "This plan is considered to be the most feasible cultural preservation plan.",
+    "soundmark": "/ðɪs plæn ɪz kənˈsɪdərd tuː biː ðə moʊst ˈfiːzəbl ˈkʌltʃərəl ˌprezərˈveɪʃən plæn/"
+  },
+  {
+    "chinese": "她已经决定下个月独自去东南亚背包旅行。",
+    "english": "She has decided to go backpacking alone in Southeast Asia next month.",
+    "soundmark": "/ʃiː hæz dɪˈsaɪdɪd tuː ɡoʊ ˈbækpækɪŋ əˈloʊn ɪn ˌsaʊθiːst ˈeɪʒə nekst mʌnθ/"
+  },
+  {
+    "chinese": "你不需要为了了解一种文化而亲自去那个国家旅行。",
+    "english": "You don't have to travel to a country to understand its culture.",
+    "soundmark": "/juː doʊnt hæv tuː ˈtrævəl tuː ə ˈkʌntri tuː ˌʌndərˈstænd ɪts ˈkʌltʃər/"
+  },
+  {
+    "chinese": "我认为旅行是对自己最好的投资之一。",
+    "english": "I believe traveling to be one of the best investments in yourself.",
+    "soundmark": "/aɪ bɪˈliːv ˈtrævəlɪŋ tuː biː wʌn əv ðə best ɪnˈvestmənts ɪn jɔːrˈself/"
+  },
+  {
+    "chinese": "他让我帮他整理旅行照片。",
+    "english": "He asked me to help him organize his travel photos.",
+    "soundmark": "/hiː ɑːskt miː tuː help hɪm ˈɔːrɡənaɪz hɪz ˈtrævəl ˈfoʊtoʊz/"
+  },
+  {
+    "chinese": "请务必别忘了带护照和签证。",
+    "english": "Please remember not to forget your passport and visa.",
+    "soundmark": "/pliːz rɪˈmembər nɒt tuː fərˈɡet jɔːr ˈpæspɔːrt ænd ˈviːzə/"
+  },
+  {
+    "chinese": "我建议你提前在网上预订机票和酒店。",
+    "english": "I advise you to book your flights and hotel online in advance.",
+    "soundmark": "/aɪ ədˈvaɪz juː tuː bʊk jɔːr flaɪts ænd hoʊˈtel ˈɒnlaɪn ɪn ədˈvæns/"
+  },
+  {
+    "chinese": "我们应该尽一切努力让下一代了解和传承传统文化。",
+    "english": "We should do everything we can to help the next generation understand and inherit traditional culture.",
+    "soundmark": "/wiː ʃʊd duː ˈevriθɪŋ wiː kæn tuː help ðə nekst ˌdʒenəˈreɪʃən ˌʌndərˈstænd ænd ɪnˈherɪt trəˈdɪʃənl ˈkʌltʃər/"
+  },
+  {
+    "chinese": "旅行中遇到文化差异时，保持开放的心态很重要。",
+    "english": "It is important to keep an open mind when encountering cultural differences during travel.",
+    "soundmark": "/ɪt ɪz ɪmˈpɔːrtənt tuː kiːp ən oʊpən maɪnd wen ɪnˈkaʊntərɪŋ ˈkʌltʃərəl ˈdɪfrənsɪz ˈdjʊərɪŋ ˈtrævəl/"
+  },
+  {
+    "chinese": "西安作为古都，吸引着无数历史爱好者前来参观。",
+    "english": "Xi'an, as an ancient capital, attracts countless history enthusiasts to visit.",
+    "soundmark": "/ʃiːˈæn æz ən ˈeɪnʃənt ˈkæpɪtəl əˈtrækts ˈkaʊntləs ˈhɪstəri ɪnˈθjuːziæsts tuː ˈvɪzɪt/"
+  },
+  {
+    "chinese": "她利用暑假时间去欧洲做了两周的背包旅行。",
+    "english": "She used her summer vacation to go backpacking in Europe for two weeks.",
+    "soundmark": "/ʃiː juːzd hɜːr ˈsʌmər veɪˈkeɪʃən tuː ɡoʊ ˈbækpækɪŋ ɪn ˈjʊərəp fɔːr tuː wiːks/"
+  },
+  {
+    "chinese": "说好英语是出国旅行的重要前提之一。",
+    "english": "To speak good English is an important prerequisite for traveling abroad.",
+    "soundmark": "/tuː spiːk ɡʊd ˈɪŋɡlɪʃ ɪz ən ɪmˈpɔːrtənt priːˈrekwɪzɪt fɔːr ˈtrævəlɪŋ əˈbrɔːd/"
+  },
+  {
+    "chinese": "黄河被中国人称为母亲河，象征着中华民族的起源。",
+    "english": "The Yellow River is known as the mother river of China, symbolizing the origin of the Chinese nation.",
+    "soundmark": "/ðə ˈjeloʊ ˈrɪvər ɪz noʊn æz ðə ˈmʌðər ˈrɪvər əv ˈtʃaɪnə ˈsɪmbəlaɪzɪŋ ðiː ˈɒrɪdʒɪn əv ðə tʃaɪˈniːz ˈneɪʃən/"
+  },
+  {
+    "chinese": "我建议你来中国旅游时一定要去体验一下高铁。",
+    "english": "I suggest you try taking a high-speed train when traveling in China.",
+    "soundmark": "/aɪ səˈdʒest juː traɪ ˈteɪkɪŋ ə haɪ-spiːd treɪn wen ˈtrævəlɪŋ ɪn ˈtʃaɪnə/"
+  },
+  {
+    "chinese": "他注意到不同文化对时间的态度有着显著差异。",
+    "english": "He noticed that different cultures have significantly different attitudes towards time.",
+    "soundmark": "/hiː ˈnoʊtɪst ðæt ˈdɪfrənt ˈkʌltʃərz hæv sɪɡˈnɪfɪkəntli ˈdɪfrənt ˈætɪtjuːdz təˈwɔːrdz taɪm/"
+  },
+  {
+    "chinese": "中国的非物质文化遗产包括京剧、昆曲、书法和太极拳等。",
+    "english": "China's intangible cultural heritage includes Beijing Opera, Kunqu Opera, calligraphy, and Tai Chi.",
+    "soundmark": "/ˈtʃaɪnəz ɪnˈtændʒəbl ˈkʌltʃərəl ˈherɪtɪdʒ ɪnˈkluːdz beɪˈdʒɪŋ ˈɒpərə kwɪnˈkjuː ˈɒpərə kəˈlɪɡrəfi ænd taɪ tʃiː/"
+  },
+  {
+    "chinese": "旅行是治愈身心的良药。",
+    "english": "To travel is the best medicine for the soul.",
+    "soundmark": "/tuː ˈtrævəl ɪz ðə best ˈmedɪsɪn fɔːr ðə soʊl/"
+  },
+  {
+    "chinese": "她感到很幸运能有机会亲眼看到敦煌壁画。",
+    "english": "She felt lucky to have the chance to see the Dunhuang murals with her own eyes.",
+    "soundmark": "/ʃiː felt ˈlʌki tuː hæv ðə tʃæns tuː siː ðə dʌnˈhwɑːŋ ˈmjʊərəlz wɪð hɜːr oʊn aɪz/"
+  },
+  {
+    "chinese": "我发现和他讨论跨文化话题是一件很有趣的事。",
+    "english": "I find it interesting to discuss cross-cultural topics with him.",
+    "soundmark": "/aɪ faɪnd ɪt ˈɪntrəstɪŋ tuː dɪsˈkʌs krɒs ˈkʌltʃərəl ˈtɒpɪks wɪð hɪm/"
+  }
+]

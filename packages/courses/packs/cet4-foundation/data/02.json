@@ -1,27 +1,1012 @@
 [
   {
-    "chinese": "随着互联网的发展信息传播更快了",
-    "english": "With the development of the Internet, information spreads faster.",
-    "soundmark": "/wɪð ðə dɪˈveləpmənt əv ði ˈɪntərnet ˌɪnfərˈmeɪʃən spredz ˈfæstər/"
+    "chinese": "教育",
+    "english": "education",
+    "soundmark": "/ˌɛdʒu'keɪʃən/"
   },
   {
-    "chinese": "然而便利也伴随着新的问题",
-    "english": "However, convenience also comes with new problems.",
-    "soundmark": "/haʊˈevər kənˈviːniəns ˈɔːlsoʊ kʌmz wɪð nuː ˈprɑːbləmz/"
+    "chinese": "高等教育",
+    "english": "higher education",
+    "soundmark": "/'haɪər/ /ˌɛdʒu'keɪʃən/"
   },
   {
-    "chinese": "就我而言合理使用技术非常必要",
-    "english": "As far as I am concerned, using technology properly is necessary.",
-    "soundmark": "/æz fɑːr æz aɪ æm kənˈsɜːrnd ˈjuːzɪŋ tekˈnɑːlədʒi ˈprɑːpərli ɪz ˈnesəseri/"
+    "chinese": "高等教育在中国越来越普及",
+    "english": "Higher education is becoming increasingly popular in China",
+    "soundmark": "/'haɪər/ /ˌɛdʒu'keɪʃən/ /ɪz/ /bɪ'kʌmɪŋ/ /ɪn'krisɪŋli/ /'pɑpjələr/ /ɪn/ /'tʃaɪnə/"
   },
   {
-    "chinese": "因此我们需要在效率和深度之间取得平衡",
-    "english": "Therefore, we need to strike a balance between efficiency and depth.",
-    "soundmark": "/ˈðerfɔːr wi niːd tə straɪk ə ˈbæləns bɪˈtwiːn ɪˈfɪʃənsi ænd depθ/"
+    "chinese": "学习",
+    "english": "learn",
+    "soundmark": "/lɜrn/"
   },
   {
-    "chinese": "只有这样我们才能真正受益",
-    "english": "Only in this way can we truly benefit.",
-    "soundmark": "/ˈoʊnli ɪn ðɪs weɪ kæn wi ˈtruːli ˈbenɪfɪt/"
+    "chinese": "终身学习",
+    "english": "lifelong learning",
+    "soundmark": "/'laɪflɔŋ/ /'lɜrnɪŋ/"
+  },
+  {
+    "chinese": "终身学习是一种重要的学习方式",
+    "english": "Lifelong learning is an important way of learning",
+    "soundmark": "/'laɪflɔŋ/ /'lɜrnɪŋ/ /ɪz/ /ən/ /ɪm'pɔrtnt/ /weɪ/ /əv/ /'lɜrnɪŋ/"
+  },
+  {
+    "chinese": "我已经学了三年英语了",
+    "english": "I have been studying English for three years",
+    "soundmark": "/aɪ/ /hæv/ /bɪn/ /'stʌdiɪŋ/ /'ɪŋglɪʃ/ /fɔr/ /θri/ /jɪrz/"
+  },
+  {
+    "chinese": "教学方法",
+    "english": "teaching method",
+    "soundmark": "/'titʃɪŋ/ /'mɛθəd/"
+  },
+  {
+    "chinese": "不同的教学方法",
+    "english": "different teaching methods",
+    "soundmark": "/'dɪfrənt/ /'titʃɪŋ/ /'mɛθədz/"
+  },
+  {
+    "chinese": "老师使用了多种教学方法",
+    "english": "The teacher used various teaching methods",
+    "soundmark": "/ðə/ /'titʃər/ /juzd/ /'vɛriəs/ /'titʃɪŋ/ /'mɛθədz/"
+  },
+  {
+    "chinese": "互动式教学方法比传统方法更有效",
+    "english": "Interactive teaching methods are more effective than traditional ones",
+    "soundmark": "/ˌɪntər'æktɪv/ /'titʃɪŋ/ /'mɛθədz/ /ɑr/ /mɔr/ /ɪ'fɛktɪv/ /ðæn/ /trə'dɪʃənl/ /wʌnz/"
+  },
+  {
+    "chinese": "研究",
+    "english": "research",
+    "soundmark": "/rɪ'sɜrtʃ/"
+  },
+  {
+    "chinese": "做研究",
+    "english": "do research",
+    "soundmark": "/du/ /rɪ'sɜrtʃ/"
+  },
+  {
+    "chinese": "学术研究",
+    "english": "academic research",
+    "soundmark": "/ˌækə'dɛmɪk/ /rɪ'sɜrtʃ/"
+  },
+  {
+    "chinese": "她一直从事学术研究",
+    "english": "She has been doing academic research for a long time",
+    "soundmark": "/ʃi/ /hæz/ /bɪn/ /'duɪŋ/ /ˌækə'dɛmɪk/ /rɪ'sɜrtʃ/ /fɔr/ /ə/ /lɔŋ/ /taɪm/"
+  },
+  {
+    "chinese": "他已经完成了他的研究项目",
+    "english": "He has already completed his research project",
+    "soundmark": "/hi/ /hæz/ /ɔl'rɛdi/ /kəm'plitɪd/ /hɪz/ /rɪ'sɜrtʃ/ /'prɑdʒɛkt/"
+  },
+  {
+    "chinese": "实验",
+    "english": "experiment",
+    "soundmark": "/ɪk'spɛrɪmənt/"
+  },
+  {
+    "chinese": "做实验",
+    "english": "do an experiment",
+    "soundmark": "/du/ /ən/ /ɪk'spɛrɪmənt/"
+  },
+  {
+    "chinese": "科学实验",
+    "english": "scientific experiment",
+    "soundmark": "/ˌsaɪən'tɪfɪk/ /ɪk'spɛrɪmənt/"
+  },
+  {
+    "chinese": "学生们正在实验室做科学实验",
+    "english": "The students are doing scientific experiments in the lab",
+    "soundmark": "/ðə/ /'studnts/ /ɑr/ /'duɪŋ/ /ˌsaɪən'tɪfɪk/ /ɪk'spɛrɪmənts/ /ɪn/ /ðə/ /læb/"
+  },
+  {
+    "chinese": "他已经做了很多次实验了",
+    "english": "He has done many experiments so far",
+    "soundmark": "/hi/ /hæz/ /dʌn/ /'mɛni/ /ɪk'spɛrɪmənts/ /soʊ/ /fɑr/"
+  },
+  {
+    "chinese": "发现",
+    "english": "discovery",
+    "soundmark": "/dɪ'skʌvəri/"
+  },
+  {
+    "chinese": "做出发现",
+    "english": "make a discovery",
+    "soundmark": "/meɪk/ /ə/ /dɪ'skʌvəri/"
+  },
+  {
+    "chinese": "科学发现改变了世界",
+    "english": "Scientific discoveries have changed the world",
+    "soundmark": "/ˌsaɪən'tɪfɪk/ /dɪ'skʌvəriz/ /hæv/ /tʃeɪndʒd/ /ðə/ /wɜrld/"
+  },
+  {
+    "chinese": "这个发现被认为是今年最重要的突破",
+    "english": "This discovery is considered the most important breakthrough this year",
+    "soundmark": "/ðɪs/ /dɪ'skʌvəri/ /ɪz/ /kən'sɪdərd/ /ðə/ /moʊst/ /ɪm'pɔrtnt/ /'breɪkθru/ /ðɪs/ /jɪr/"
+  },
+  {
+    "chinese": "理论",
+    "english": "theory",
+    "soundmark": "/'θɪəri/"
+  },
+  {
+    "chinese": "实践",
+    "english": "practice",
+    "soundmark": "/'præktɪs/"
+  },
+  {
+    "chinese": "理论联系实际",
+    "english": "combine theory with practice",
+    "soundmark": "/kəm'baɪn/ /'θɪəri/ /wɪð/ /'præktɪs/"
+  },
+  {
+    "chinese": "学习应该把理论和实践结合起来",
+    "english": "Learning should combine theory with practice",
+    "soundmark": "/'lɜrnɪŋ/ /ʃʊd/ /kəm'baɪn/ /'θɪəri/ /wɪð/ /'præktɪs/"
+  },
+  {
+    "chinese": "他已经学习了大量理论知识",
+    "english": "He has learned a lot of theoretical knowledge",
+    "soundmark": "/hi/ /hæz/ /lɜrnd/ /ə/ /lɑt/ /əv/ /ˌθɪə'rɛtɪkəl/ /'nɑlɪdʒ/"
+  },
+  {
+    "chinese": "分析",
+    "english": "analyze",
+    "soundmark": "/'ænəlaɪz/"
+  },
+  {
+    "chinese": "分析数据",
+    "english": "analyze data",
+    "soundmark": "/'ænəlaɪz/ /'deɪtə/"
+  },
+  {
+    "chinese": "分析问题",
+    "english": "analyze a problem",
+    "soundmark": "/'ænəlaɪz/ /ə/ /'prɑbləm/"
+  },
+  {
+    "chinese": "我们分析了调查数据并得出了结论",
+    "english": "We have analyzed the survey data and drawn a conclusion",
+    "soundmark": "/wi/ /hæv/ /'ænəlaɪzd/ /ðə/ /'sɜrveɪ/ /'deɪtə/ /ænd/ /drɔn/ /ə/ /kən'kluʒən/"
+  },
+  {
+    "chinese": "结论",
+    "english": "conclusion",
+    "soundmark": "/kən'kluʒən/"
+  },
+  {
+    "chinese": "得出结论",
+    "english": "draw a conclusion",
+    "soundmark": "/drɔ/ /ə/ /kən'kluʒən/"
+  },
+  {
+    "chinese": "实验得出了令人满意的结论",
+    "english": "The experiment has reached a satisfactory conclusion",
+    "soundmark": "/ðə/ /ɪk'spɛrɪmənt/ /hæz/ /ritʃt/ /ə/ /ˌsætɪs'fæktəri/ /kən'kluʒən/"
+  },
+  {
+    "chinese": "证据",
+    "english": "evidence",
+    "soundmark": "/'ɛvɪdəns/"
+  },
+  {
+    "chinese": "收集证据",
+    "english": "collect evidence",
+    "soundmark": "/kə'lɛkt/ /'ɛvɪdəns/"
+  },
+  {
+    "chinese": "科学家已经收集了大量证据",
+    "english": "Scientists have collected a large amount of evidence",
+    "soundmark": "/'saɪəntɪsts/ /hæv/ /kə'lɛktɪd/ /ə/ /lɑrdʒ/ /ə'maʊnt/ /əv/ /'ɛvɪdəns/"
+  },
+  {
+    "chinese": "没有足够的证据支持这个观点",
+    "english": "There is not enough evidence to support this view",
+    "soundmark": "/ðɛr/ /ɪz/ /nɑt/ /ɪ'nʌf/ /'ɛvɪdəns/ /tu/ /sə'pɔrt/ /ðɪs/ /vju/"
+  },
+  {
+    "chinese": "成就",
+    "english": "achievement",
+    "soundmark": "/ə'tʃivmənt/"
+  },
+  {
+    "chinese": "取得成就",
+    "english": "make an achievement",
+    "soundmark": "/meɪk/ /ən/ /ə'tʃivmənt/"
+  },
+  {
+    "chinese": "她在学术上取得了很大的成就",
+    "english": "She has made great academic achievements",
+    "soundmark": "/ʃi/ /hæz/ /meɪd/ /ɡreɪt/ /ˌækə'dɛmɪk/ /ə'tʃivmənts/"
+  },
+  {
+    "chinese": "他的成就令人钦佩",
+    "english": "His achievements are admirable",
+    "soundmark": "/hɪz/ /ə'tʃivmənts/ /ɑr/ /'ædmərəbl/"
+  },
+  {
+    "chinese": "能力",
+    "english": "ability",
+    "soundmark": "/ə'bɪlɪti/"
+  },
+  {
+    "chinese": "学习能力",
+    "english": "learning ability",
+    "soundmark": "/'lɜrnɪŋ/ /ə'bɪlɪti/"
+  },
+  {
+    "chinese": "每个人都有不同的学习能力",
+    "english": "Everyone has different learning abilities",
+    "soundmark": "/'ɛvriwʌn/ /hæz/ /'dɪfrənt/ /'lɜrnɪŋ/ /ə'bɪlɪtiz/"
+  },
+  {
+    "chinese": "她已经提高了英语口语能力",
+    "english": "She has improved her spoken English ability",
+    "soundmark": "/ʃi/ /hæz/ /ɪm'pruvd/ /hɜr/ /'spoʊkən/ /'ɪŋglɪʃ/ /ə'bɪlɪti/"
+  },
+  {
+    "chinese": "技能",
+    "english": "skill",
+    "soundmark": "/skɪl/"
+  },
+  {
+    "chinese": "技能发展",
+    "english": "skill development",
+    "soundmark": "/skɪl/ /dɪ'vɛləpmənt/"
+  },
+  {
+    "chinese": "沟通技能",
+    "english": "communication skills",
+    "soundmark": "/kəˌmjunɪ'keɪʃən/ /skɪlz/"
+  },
+  {
+    "chinese": "大学教育应该注重技能发展",
+    "english": "University education should focus on skill development",
+    "soundmark": "/ˌjunɪ'vɜrsɪti/ /ˌɛdʒu'keɪʃən/ /ʃʊd/ /'foʊkəs/ /ɑn/ /skɪl/ /dɪ'vɛləpmənt/"
+  },
+  {
+    "chinese": "他已经掌握了很多专业技能",
+    "english": "He has mastered many professional skills",
+    "soundmark": "/hi/ /hæz/ /'mæstərd/ /'mɛni/ /prə'fɛʃənəl/ /skɪlz/"
+  },
+  {
+    "chinese": "培养",
+    "english": "cultivate",
+    "soundmark": "/'kʌltɪvet/"
+  },
+  {
+    "chinese": "培养兴趣",
+    "english": "cultivate an interest",
+    "soundmark": "/'kʌltɪvet/ /ən/ /'ɪntrəst/"
+  },
+  {
+    "chinese": "培养创造力",
+    "english": "cultivate creativity",
+    "soundmark": "/'kʌltɪvet/ /ˌkri'eɪtɪvɪti/"
+  },
+  {
+    "chinese": "教育应该培养学生的创造力",
+    "english": "Education should cultivate students' creativity",
+    "soundmark": "/ˌɛdʒu'keɪʃən/ /ʃʊd/ /'kʌltɪvet/ /'studnts/ /ˌkri'eɪtɪvɪti/"
+  },
+  {
+    "chinese": "创新",
+    "english": "innovation",
+    "soundmark": "/ˌɪnə'veɪʃən/"
+  },
+  {
+    "chinese": "创新能力",
+    "english": "innovative ability",
+    "soundmark": "/'ɪnəˌveɪtɪv/ /ə'bɪlɪti/"
+  },
+  {
+    "chinese": "创新是教育发展的核心动力",
+    "english": "Innovation is the core driving force of education development",
+    "soundmark": "/ˌɪnə'veɪʃən/ /ɪz/ /ðə/ /kɔr/ /'draɪvɪŋ/ /fɔrs/ /əv/ /ˌɛdʒu'keɪʃən/ /dɪ'vɛləpmənt/"
+  },
+  {
+    "chinese": "启发",
+    "english": "inspire",
+    "soundmark": "/ɪn'spaɪər/"
+  },
+  {
+    "chinese": "启发学生",
+    "english": "inspire students",
+    "soundmark": "/ɪn'spaɪər/ /'studnts/"
+  },
+  {
+    "chinese": "这本书启发了我对科学的兴趣",
+    "english": "This book has inspired my interest in science",
+    "soundmark": "/ðɪs/ /bʊk/ /hæz/ /ɪn'spaɪərd/ /maɪ/ /'ɪntrəst/ /ɪn/ /'saɪəns/"
+  },
+  {
+    "chinese": "老师的话深深地启发了学生",
+    "english": "The teacher's words have deeply inspired the students",
+    "soundmark": "/ðə/ /'titʃərz/ /wɜrdz/ /hæv/ /'dipli/ /ɪn'spaɪərd/ /ðə/ /'studnts/"
+  },
+  {
+    "chinese": "基础",
+    "english": "foundation",
+    "soundmark": "/faʊn'deɪʃən/"
+  },
+  {
+    "chinese": "打下基础",
+    "english": "lay a foundation",
+    "soundmark": "/leɪ/ /ə/ /faʊn'deɪʃən/"
+  },
+  {
+    "chinese": "基础知识",
+    "english": "basic knowledge",
+    "soundmark": "/'beɪsɪk/ /'nɑlɪdʒ/"
+  },
+  {
+    "chinese": "大学教育为未来的职业生涯打下基础",
+    "english": "University education lays a foundation for future career",
+    "soundmark": "/ˌjunɪ'vɜrsɪti/ /ˌɛdʒu'keɪʃən/ /leɪz/ /ə/ /faʊn'deɪʃən/ /fɔr/ /'fjutʃər/ /kə'rɪr/"
+  },
+  {
+    "chinese": "掌握基础知识是学习更高级内容的前提",
+    "english": "Mastering basic knowledge is the prerequisite for learning more advanced content",
+    "soundmark": "/'mæstərɪŋ/ /'beɪsɪk/ /'nɑlɪdʒ/ /ɪz/ /ðə/ /pri'rɛkwɪzɪt/ /fɔr/ /'lɜrnɪŋ/ /mɔr/ /əd'vænst/ /'kɑntɛnt/"
+  },
+  {
+    "chinese": "发展",
+    "english": "development",
+    "soundmark": "/dɪ'vɛləpmənt/"
+  },
+  {
+    "chinese": "个人发展",
+    "english": "personal development",
+    "soundmark": "/'pɜrsənəl/ /dɪ'vɛləpmənt/"
+  },
+  {
+    "chinese": "全面发展",
+    "english": "comprehensive development",
+    "soundmark": "/ˌkɑmprɪ'hɛnsɪv/ /dɪ'vɛləpmənt/"
+  },
+  {
+    "chinese": "大学注重学生的全面发展",
+    "english": "University focuses on students' comprehensive development",
+    "soundmark": "/ˌjunɪ'vɜrsɪti/ /'foʊsɪz/ /ɑn/ /'studnts/ /ˌkɑmprɪ'hɛnsɪv/ /dɪ'vɛləpmənt/"
+  },
+  {
+    "chinese": "他这几年取得了很大的个人发展",
+    "english": "He has achieved great personal development in recent years",
+    "soundmark": "/hi/ /hæz/ /ə'tʃivd/ /ɡreɪt/ /'pɜrsənəl/ /dɪ'vɛləpmənt/ /ɪn/ /'risənt/ /jɪrz/"
+  },
+  {
+    "chinese": "评估",
+    "english": "assessment",
+    "soundmark": "/ə'sɛsmənt/"
+  },
+  {
+    "chinese": "学习评估",
+    "english": "learning assessment",
+    "soundmark": "/'lɜrnɪŋ/ /ə'sɛsmənt/"
+  },
+  {
+    "chinese": "考试是学习评估的一种方式",
+    "english": "Exams are one form of learning assessment",
+    "soundmark": "/ɪɡ'zæmz/ /ɑr/ /wʌn/ /fɔrm/ /əv/ /'lɜrnɪŋ/ /ə'sɛsmənt/"
+  },
+  {
+    "chinese": "老师已经完成了期末评估",
+    "english": "The teacher has completed the final assessment",
+    "soundmark": "/ðə/ /'titʃər/ /hæz/ /kəm'plitɪd/ /ðə/ /'faɪnl/ /ə'sɛsmənt/"
+  },
+  {
+    "chinese": "标准",
+    "english": "standard",
+    "soundmark": "/'stændərd/"
+  },
+  {
+    "chinese": "教育标准",
+    "english": "education standard",
+    "soundmark": "/ˌɛdʒu'keɪʃən/ /'stændərd/"
+  },
+  {
+    "chinese": "高标准",
+    "english": "high standard",
+    "soundmark": "/haɪ/ /'stændərd/"
+  },
+  {
+    "chinese": "大学对教学质量有很高的标准",
+    "english": "The university has high standards for teaching quality",
+    "soundmark": "/ðə/ /ˌjunɪ'vɜrsɪti/ /hæz/ /haɪ/ /'stændərdz/ /fɔr/ /'titʃɪŋ/ /'kwɑlɪti/"
+  },
+  {
+    "chinese": "质量",
+    "english": "quality",
+    "soundmark": "/'kwɑlɪti/"
+  },
+  {
+    "chinese": "教学质量",
+    "english": "teaching quality",
+    "soundmark": "/'titʃɪŋ/ /'kwɑlɪti/"
+  },
+  {
+    "chinese": "提高教学质量一直是我们的目标",
+    "english": "Improving teaching quality has always been our goal",
+    "soundmark": "/ɪm'pruvɪŋ/ /'titʃɪŋ/ /'kwɑlɪti/ /hæz/ /'ɔlweɪz/ /bɪn/ /aʊr/ /ɡoʊl/"
+  },
+  {
+    "chinese": "互联网时代的教育质量面临新的挑战",
+    "english": "Education quality faces new challenges in the Internet era",
+    "soundmark": "/ˌɛdʒu'keɪʃən/ /'kwɑlɪti/ /fesɪz/ /nju/ /'tʃæləndʒɪz/ /ɪn/ /ðə/ /'ɪntərnɛt/ /'ɛrə/"
+  },
+  {
+    "chinese": "课程",
+    "english": "curriculum",
+    "soundmark": "/kə'rɪkjələm/"
+  },
+  {
+    "chinese": "课程设计",
+    "english": "curriculum design",
+    "soundmark": "/kə'rɪkjələm/ /dɪ'zaɪn/"
+  },
+  {
+    "chinese": "学校更新了课程设计",
+    "english": "The school has updated its curriculum design",
+    "soundmark": "/ðə/ /skul/ /hæz/ /ʌp'deɪtɪd/ /ɪts/ /kə'rɪkjələm/ /dɪ'zaɪn/"
+  },
+  {
+    "chinese": "新的课程设计更加注重实践能力",
+    "english": "The new curriculum design focuses more on practical abilities",
+    "soundmark": "/ðə/ /nju/ /kə'rɪkjələm/ /dɪ'zaɪn/ /'foʊsɪz/ /mɔr/ /ɑn/ /'præktɪkəl/ /ə'bɪlɪtiz/"
+  },
+  {
+    "chinese": "在线学习",
+    "english": "online learning",
+    "soundmark": "/'ɑnlaɪn/ /'lɜrnɪŋ/"
+  },
+  {
+    "chinese": "远程教育",
+    "english": "distance education",
+    "soundmark": "/'dɪstəns/ /ˌɛdʒu'keɪʃən/"
+  },
+  {
+    "chinese": "在线学习变得越来越受欢迎",
+    "english": "Online learning has become increasingly popular",
+    "soundmark": "/'ɑnlaɪn/ /'lɜrnɪŋ/ /hæz/ /bɪ'kʌm/ /ɪn'krisɪŋli/ /'pɑpjələr/"
+  },
+  {
+    "chinese": "远程教育让更多人获得了学习的机会",
+    "english": "Distance education has given more people the opportunity to learn",
+    "soundmark": "/'dɪstəns/ /ˌɛdʒu'keɪʃən/ /hæz/ /'ɡɪvən/ /mɔr/ /'pipəl/ /ðə/ /ˌɑpər'tunɪti/ /tu/ /lɜrn/"
+  },
+  {
+    "chinese": "动机",
+    "english": "motivation",
+    "soundmark": "/ˌmoʊtɪ'veɪʃən/"
+  },
+  {
+    "chinese": "学习动机",
+    "english": "learning motivation",
+    "soundmark": "/'lɜrnɪŋ/ /ˌmoʊtɪ'veɪʃən/"
+  },
+  {
+    "chinese": "内在动机比外在动机更重要",
+    "english": "Intrinsic motivation is more important than extrinsic motivation",
+    "soundmark": "/ɪn'trɪnzɪk/ /ˌmoʊtɪ'veɪʃən/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /ɪk'strɪnzɪk/ /ˌmoʊtɪ'veɪʃən/"
+  },
+  {
+    "chinese": "浓厚的学习动机是成功的关键",
+    "english": "Strong learning motivation is the key to success",
+    "soundmark": "/strɔŋ/ /'lɜrnɪŋ/ /ˌmoʊtɪ'veɪʃən/ /ɪz/ /ðə/ /ki/ /tu/ /sək'sɛs/"
+  },
+  {
+    "chinese": "态度",
+    "english": "attitude",
+    "soundmark": "/'ætɪtud/"
+  },
+  {
+    "chinese": "学习态度",
+    "english": "learning attitude",
+    "soundmark": "/'lɜrnɪŋ/ /'ætɪtud/"
+  },
+  {
+    "chinese": "积极的学习态度",
+    "english": "positive learning attitude",
+    "soundmark": "/'pɑzɪtɪv/ /'lɜrnɪŋ/ /'ætɪtud/"
+  },
+  {
+    "chinese": "良好的学习态度能帮助你取得更好的成绩",
+    "english": "A good learning attitude can help you achieve better grades",
+    "soundmark": "/ə/ /ɡʊd/ /'lɜrnɪŋ/ /'ætɪtud/ /kæn/ /hɛlp/ /ju/ /ə'tʃiv/ /'bɛtər/ /ɡreɪdz/"
+  },
+  {
+    "chinese": "注意力",
+    "english": "attention",
+    "soundmark": "/ə'tɛnʃən/"
+  },
+  {
+    "chinese": "集中注意力",
+    "english": "pay attention",
+    "soundmark": "/peɪ/ /ə'tɛnʃən/"
+  },
+  {
+    "chinese": "上课时应该集中注意力",
+    "english": "You should pay attention in class",
+    "soundmark": "/ju/ /ʃʊd/ /peɪ/ /ə'tɛnʃən/ /ɪn/ /klæs/"
+  },
+  {
+    "chinese": "他总是能集中注意力学习",
+    "english": "He has always been able to focus his attention on studying",
+    "soundmark": "/hi/ /hæz/ /'ɔlweɪz/ /bɪn/ /eɪbl/ /tu/ /foʊs/ /hɪz/ /ə'tɛnʃən/ /ɑn/ /'stʌdiɪŋ/"
+  },
+  {
+    "chinese": "专注",
+    "english": "focus",
+    "soundmark": "/'foʊkəs/"
+  },
+  {
+    "chinese": "专注于学习",
+    "english": "focus on studying",
+    "soundmark": "/'foʊkəs/ /ɑn/ /'stʌdiɪŋ/"
+  },
+  {
+    "chinese": "专心致志地学习",
+    "english": "study with full concentration",
+    "soundmark": "/'stʌdi/ /wɪð/ /fʊl/ /ˌkɑnsən'treɪʃən/"
+  },
+  {
+    "chinese": "她一直专注于研究工作",
+    "english": "She has always focused on her research work",
+    "soundmark": "/ʃi/ /hæz/ /'ɔlweɪz/ /'foʊkəst/ /ɑn/ /hɜr/ /rɪ'sɜrtʃ/ /wɜrk/"
+  },
+  {
+    "chinese": "记忆",
+    "english": "memory",
+    "soundmark": "/'mɛməri/"
+  },
+  {
+    "chinese": "记忆力",
+    "english": "memory ability",
+    "soundmark": "/'mɛməri/ /ə'bɪlɪti/"
+  },
+  {
+    "chinese": "提高记忆力",
+    "english": "improve memory",
+    "soundmark": "/ɪm'pruv/ /'mɛməri/"
+  },
+  {
+    "chinese": "反复练习能帮助你记忆单词",
+    "english": "Repeated practice can help you memorize words",
+    "soundmark": "/rɪ'pitɪd/ /'præktɪs/ /kæn/ /hɛlp/ /ju/ /'mɛməraɪz/ /wɜrdz/"
+  },
+  {
+    "chinese": "记忆方法有很多种",
+    "english": "There are many methods of memorization",
+    "soundmark": "/ðɛr/ /ɑr/ /'mɛni/ /'mɛθədz/ /əv/ /ˌmɛmərɪ'zeɪʃən/"
+  },
+  {
+    "chinese": "理解",
+    "english": "comprehension",
+    "soundmark": "/ˌkɑmprɪ'hɛnʃən/"
+  },
+  {
+    "chinese": "阅读理解",
+    "english": "reading comprehension",
+    "soundmark": "/'ridɪŋ/ /ˌkɑmprɪ'hɛnʃən/"
+  },
+  {
+    "chinese": "阅读理解是英语考试的重要组成部分",
+    "english": "Reading comprehension is an important part of the English exam",
+    "soundmark": "/'ridɪŋ/ /ˌkɑmprɪ'hɛnʃən/ /ɪz/ /ən/ /ɪm'pɔrtnt/ /pɑrt/ /əv/ /ðə/ /'ɪŋglɪʃ/ /ɪɡ'zæm/"
+  },
+  {
+    "chinese": "她已经提高了英语阅读理解能力",
+    "english": "She has improved her English reading comprehension ability",
+    "soundmark": "/ʃi/ /hæz/ /ɪm'pruvd/ /hɜr/ /'ɪŋglɪʃ/ /'ridɪŋ/ /ˌkɑmprɪ'hɛnʃən/ /ə'bɪlɪti/"
+  },
+  {
+    "chinese": "词汇",
+    "english": "vocabulary",
+    "soundmark": "/voʊ'kæbjəlɛri/"
+  },
+  {
+    "chinese": "扩大词汇量",
+    "english": "expand vocabulary",
+    "soundmark": "/ɪk'spænd/ /voʊ'kæbjəlɛri/"
+  },
+  {
+    "chinese": "每天阅读能帮助你扩大词汇量",
+    "english": "Reading every day can help you expand your vocabulary",
+    "soundmark": "/'ridɪŋ/ /'ɛvri/ /de/ /kæn/ /hɛlp/ /ju/ /ɪk'spænd/ /jɔr/ /voʊ'kæbjəlɛri/"
+  },
+  {
+    "chinese": "他的英语词汇量已经达到了四千",
+    "english": "His English vocabulary has reached four thousand",
+    "soundmark": "/hɪz/ /'ɪŋglɪʃ/ /voʊ'kæbjəlɛri/ /hæz/ /ritʃt/ /fɔr/ /'θaʊzənd/"
+  },
+  {
+    "chinese": "语法",
+    "english": "grammar",
+    "soundmark": "/'ɡræmər/"
+  },
+  {
+    "chinese": "语法规则",
+    "english": "grammar rules",
+    "soundmark": "/'ɡræmər/ /rulz/"
+  },
+  {
+    "chinese": "掌握英语语法规则需要大量练习",
+    "english": "Mastering English grammar rules requires a lot of practice",
+    "soundmark": "/'mæstərɪŋ/ /'ɪŋglɪʃ/ /'ɡræmər/ /rulz/ /rɪ'kwaɪərz/ /ə/ /lɑt/ /əv/ /'præktɪs/"
+  },
+  {
+    "chinese": "她语法已经学得很好了",
+    "english": "She has already learned grammar very well",
+    "soundmark": "/ʃi/ /hæz/ /ɔl'rɛdi/ /lɜrnd/ /'ɡræmər/ /'vɛri/ /wɛl/"
+  },
+  {
+    "chinese": "翻译",
+    "english": "translation",
+    "soundmark": "/træns'leɪʃən/"
+  },
+  {
+    "chinese": "英译汉",
+    "english": "English to Chinese translation",
+    "soundmark": "/'ɪŋglɪʃ/ /tu/ /tʃaɪ'niz/ /træns'leɪʃən/"
+  },
+  {
+    "chinese": "翻译练习",
+    "english": "translation practice",
+    "soundmark": "/træns'leɪʃən/ /'præktɪs/"
+  },
+  {
+    "chinese": "做翻译练习能提高语言理解能力",
+    "english": "Doing translation practice can improve language comprehension",
+    "soundmark": "/'duɪŋ/ /træns'leɪʃən/ /'præktɪs/ /kæn/ /ɪm'pruv/ /'læŋɡwɪdʒ/ /ˌkɑmprɪ'hɛnʃən/"
+  },
+  {
+    "chinese": "他已经翻译了很多篇文章",
+    "english": "He has translated many articles",
+    "soundmark": "/hi/ /hæz/ /træns'leɪtɪd/ /'mɛni/ /'ɑrtɪklz/"
+  },
+  {
+    "chinese": "写作",
+    "english": "writing",
+    "soundmark": "/'raɪtɪŋ/"
+  },
+  {
+    "chinese": "写作技巧",
+    "english": "writing skills",
+    "soundmark": "/'raɪtɪŋ/ /skɪlz/"
+  },
+  {
+    "chinese": "写作能力",
+    "english": "writing ability",
+    "soundmark": "/'raɪtɪŋ/ /ə'bɪlɪti/"
+  },
+  {
+    "chinese": "提高英语写作能力需要长期练习",
+    "english": "Improving English writing ability requires long-term practice",
+    "soundmark": "/ɪm'pruvɪŋ/ /'ɪŋglɪʃ/ /'raɪtɪŋ/ /ə'bɪlɪti/ /rɪ'kwaɪərz/ /lɔŋ-tɜrm/ /'præktɪs/"
+  },
+  {
+    "chinese": "她写了很多篇英语作文",
+    "english": "She has written many English compositions",
+    "soundmark": "/ʃi/ /hæz/ /'rɪtən/ /'mɛni/ /'ɪŋglɪʃ/ /ˌkɑmpə'zɪʃənz/"
+  },
+  {
+    "chinese": "考试制度",
+    "english": "examination system",
+    "soundmark": "/ɪɡˌzæmɪ'neɪʃən/ /'sɪstəm/"
+  },
+  {
+    "chinese": "考试制度需要改革",
+    "english": "The examination system needs reform",
+    "soundmark": "/ðə/ /ɪɡˌzæmɪ'neɪʃən/ /'sɪstəm/ /nidz/ /rɪ'fɔrm/"
+  },
+  {
+    "chinese": "教育改革一直是一个热门话题",
+    "english": "Education reform has always been a hot topic",
+    "soundmark": "/ˌɛdʒu'keɪʃən/ /rɪ'fɔrm/ /hæz/ /'ɔlweɪz/ /bɪn/ /ə/ /hɑt/ /'tɑpɪk/"
+  },
+  {
+    "chinese": "近年来的教育改革取得了显著成效",
+    "english": "Education reform in recent years has achieved remarkable results",
+    "soundmark": "/ˌɛdʒu'keɪʃən/ /rɪ'fɔrm/ /ɪn/ /'risənt/ /jɪrz/ /hæz/ /ə'tʃivd/ /'rɛmɑrkəbl/ /rɪ'zʌlts/"
+  },
+  {
+    "chinese": "竞争",
+    "english": "competition",
+    "soundmark": "/ˌkɑmpə'tɪʃən/"
+  },
+  {
+    "chinese": "学术竞争",
+    "english": "academic competition",
+    "soundmark": "/ˌækə'dɛmɪk/ /ˌkɑmpə'tɪʃən/"
+  },
+  {
+    "chinese": "适度的竞争能激发学习动力",
+    "english": "Moderate competition can stimulate learning motivation",
+    "soundmark": "/'mɑdərɪt/ /ˌkɑmpə'tɪʃən/ /kæn/ /'stɪmjulet/ /'lɜrnɪŋ/ /ˌmoʊtɪ'veɪʃən/"
+  },
+  {
+    "chinese": "学术竞争变得越来越激烈",
+    "english": "Academic competition has become increasingly fierce",
+    "soundmark": "/ˌækə'dɛmɪk/ /ˌkɑmpə'tɪʃən/ /hæz/ /bɪ'kʌm/ /ɪn'krisɪŋli/ /fɪrs/"
+  },
+  {
+    "chinese": "导师",
+    "english": "supervisor",
+    "soundmark": "/'supərvaɪzər/"
+  },
+  {
+    "chinese": "论文导师",
+    "english": "thesis supervisor",
+    "soundmark": "/'θisɪs/ /'supərvaɪzər/"
+  },
+  {
+    "chinese": "我的导师指导了我的研究",
+    "english": "My supervisor has guided my research",
+    "soundmark": "/maɪ/ /'supərvaɪzər/ /hæz/ /ɡaɪdɪd/ /maɪ/ /rɪ'sɜrtʃ/"
+  },
+  {
+    "chinese": "一个好的导师对学术成长至关重要",
+    "english": "A good supervisor is crucial to academic growth",
+    "soundmark": "/ə/ /ɡʊd/ /'supərvaɪzər/ /ɪz/ /'kruʃəl/ /tu/ /ˌækə'dɛmɪk/ /ɡroʊθ/"
+  },
+  {
+    "chinese": "参考",
+    "english": "reference",
+    "soundmark": "/'rɛfərəns/"
+  },
+  {
+    "chinese": "参考书",
+    "english": "reference book",
+    "soundmark": "/'rɛfərəns/ /bʊk/"
+  },
+  {
+    "chinese": "参考文献",
+    "english": "reference materials",
+    "soundmark": "/'rɛfərəns/ /mə'tɪriəlz/"
+  },
+  {
+    "chinese": "写论文时需要引用参考文献",
+    "english": "You need to cite reference materials when writing a paper",
+    "soundmark": "/ju/ /nid/ /tu/ /saɪt/ /'rɛfərəns/ /mə'tɪriəlz/ /wɛn/ /'raɪtɪŋ/ /ə/ /'peɪpər/"
+  },
+  {
+    "chinese": "发表",
+    "english": "publish",
+    "soundmark": "/'pʌblɪʃ/"
+  },
+  {
+    "chinese": "发表论文",
+    "english": "publish a paper",
+    "soundmark": "/'pʌblɪʃ/ /ə/ /'peɪpər/"
+  },
+  {
+    "chinese": "在学术期刊上发表",
+    "english": "publish in academic journals",
+    "soundmark": "/'pʌblɪʃ/ /ɪn/ /ˌækə'dɛmɪk/ /'dʒɜrnəlz/"
+  },
+  {
+    "chinese": "他在国际期刊上发表了很多论文",
+    "english": "He has published many papers in international journals",
+    "soundmark": "/hi/ /hæz/ /'pʌblɪʃt/ /'mɛni/ /'peɪpərz/ /ɪn/ /ˌɪntər'næʃənəl/ /'dʒɜrnəlz/"
+  },
+  {
+    "chinese": "批评",
+    "english": "criticism",
+    "soundmark": "/'krɪtɪsɪzəm/"
+  },
+  {
+    "chinese": "接受批评",
+    "english": "accept criticism",
+    "soundmark": "/ək'sɛpt/ /'krɪtɪsɪzəm/"
+  },
+  {
+    "chinese": "建设性批评",
+    "english": "constructive criticism",
+    "soundmark": "/kən'strʌktɪv/ /'krɪtɪsɪzəm/"
+  },
+  {
+    "chinese": "我们应该虚心接受建设性批评",
+    "english": "We should accept constructive criticism with an open mind",
+    "soundmark": "/wi/ /ʃʊd/ /ək'sɛpt/ /kən'strʌktɪv/ /'krɪtɪsɪzəm/ /wɪð/ /ən/ /oʊpən/ /maɪnd/"
+  },
+  {
+    "chinese": "思考",
+    "english": "thinking",
+    "soundmark": "/'θɪŋkɪŋ/"
+  },
+  {
+    "chinese": "批判性思维",
+    "english": "critical thinking",
+    "soundmark": "/'krɪtɪkəl/ /'θɪŋkɪŋ/"
+  },
+  {
+    "chinese": "逻辑思维",
+    "english": "logical thinking",
+    "soundmark": "/'lɑdʒɪkəl/ /'θɪŋkɪŋ/"
+  },
+  {
+    "chinese": "大学教育应该培养学生的批判性思维",
+    "english": "University education should develop students' critical thinking",
+    "soundmark": "/ˌjunɪ'vɜrsɪti/ /ˌɛdʒu'keɪʃən/ /ʃʊd/ /dɪ'vɛləp/ /'studnts/ /'krɪtɪkəl/ /'θɪŋkɪŋ/"
+  },
+  {
+    "chinese": "创造性思维比死记硬背更重要",
+    "english": "Creative thinking is more important than rote memorization",
+    "soundmark": "/kri'eɪtɪv/ /'θɪŋkɪŋ/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /roʊt/ /ˌmɛmərɪ'zeɪʃən/"
+  },
+  {
+    "chinese": "终身",
+    "english": "lifelong",
+    "soundmark": "/'laɪflɔŋ/"
+  },
+  {
+    "chinese": "终身教育",
+    "english": "lifelong education",
+    "soundmark": "/'laɪflɔŋ/ /ˌɛdʒu'keɪʃən/"
+  },
+  {
+    "chinese": "终身教育已经成为社会发展的趋势",
+    "english": "Lifelong education has become a trend of social development",
+    "soundmark": "/'laɪflɔŋ/ /ˌɛdʒu'keɪʃən/ /hæz/ /bɪ'kʌm/ /ə/ /trɛnd/ /əv/ /'soʊʃəl/ /dɪ'vɛləpmənt/"
+  },
+  {
+    "chinese": "知识更新速度很快所以终身学习很重要",
+    "english": "Knowledge updates quickly so lifelong learning is very important",
+    "soundmark": "/'nɑlɪdʒ/ /ʌp'deɪts/ /'kwɪkli/ /soʊ/ /'laɪflɔŋ/ /'lɜrnɪŋ/ /ɪz/ /'vɛri/ /ɪm'pɔrtnt/"
+  },
+  {
+    "chinese": "自学",
+    "english": "self-study",
+    "soundmark": "/sɛlf-'stʌdi/"
+  },
+  {
+    "chinese": "自学能力",
+    "english": "self-study ability",
+    "soundmark": "/sɛlf-'stʌdi/ /ə'bɪlɪti/"
+  },
+  {
+    "chinese": "自学是大学里最重要的能力之一",
+    "english": "Self-study is one of the most important abilities in university",
+    "soundmark": "/sɛlf-'stʌdi/ /ɪz/ /wʌn/ /əv/ /ðə/ /moʊst/ /ɪm'pɔrtnt/ /ə'bɪlɪtiz/ /ɪn/ /ˌjunɪ'vɜrsɪti/"
+  },
+  {
+    "chinese": "他已经自学了三门外语",
+    "english": "He has taught himself three foreign languages",
+    "soundmark": "/hi/ /hæz/ /tɔt/ /hɪm'sɛlf/ /θri/ /'fɔrɪn/ /'læŋɡwɪdʒɪz/"
+  },
+  {
+    "chinese": "效率",
+    "english": "efficiency",
+    "soundmark": "/ɪ'fɪʃənsi/"
+  },
+  {
+    "chinese": "学习效率",
+    "english": "learning efficiency",
+    "soundmark": "/'lɜrnɪŋ/ /ɪ'fɪʃənsi/"
+  },
+  {
+    "chinese": "提高学习效率",
+    "english": "improve learning efficiency",
+    "soundmark": "/ɪm'pruv/ /'lɜrnɪŋ/ /ɪ'fɪʃənsi/"
+  },
+  {
+    "chinese": "制定计划能提高学习效率",
+    "english": "Making a plan can improve learning efficiency",
+    "soundmark": "/'meɪkɪŋ/ /ə/ /plæn/ /kæn/ /ɪm'pruv/ /'lɜrnɪŋ/ /ɪ'fɪʃənsi/"
+  },
+  {
+    "chinese": "她的学习效率比以前高多了",
+    "english": "Her learning efficiency is much higher than before",
+    "soundmark": "/hɜr/ /'lɜrnɪŋ/ /ɪ'fɪʃənsi/ /ɪz/ /mʌtʃ/ /'haɪər/ /ðæn/ /bɪ'fɔr/"
+  },
+  {
+    "chinese": "掌握",
+    "english": "master",
+    "soundmark": "/'mæstər/"
+  },
+  {
+    "chinese": "掌握一门语言",
+    "english": "master a language",
+    "soundmark": "/'mæstər/ /ə/ /'læŋɡwɪdʒ/"
+  },
+  {
+    "chinese": "掌握一门外语需要时间和努力",
+    "english": "Mastering a foreign language requires time and effort",
+    "soundmark": "/'mæstərɪŋ/ /ə/ /'fɔrɪn/ /'læŋɡwɪdʒ/ /rɪ'kwaɪərz/ /taɪm/ /ænd/ /'ɛfərt/"
+  },
+  {
+    "chinese": "他已经掌握了英语的基本语法",
+    "english": "He has mastered the basic grammar of English",
+    "soundmark": "/hi/ /hæz/ /'mæstərd/ /ðə/ /'beɪsɪk/ /'ɡræmər/ /əv/ /'ɪŋglɪʃ/"
+  },
+  {
+    "chinese": "差距",
+    "english": "gap",
+    "soundmark": "/ɡæp/"
+  },
+  {
+    "chinese": "缩小差距",
+    "english": "narrow the gap",
+    "soundmark": "/'næroʊ/ /ðə/ /ɡæp/"
+  },
+  {
+    "chinese": "城乡教育差距",
+    "english": "urban-rural education gap",
+    "soundmark": "/'ɜrbən-'rʊrəl/ /ˌɛdʒu'keɪʃən/ /ɡæp/"
+  },
+  {
+    "chinese": "政府一直在努力缩小城乡教育差距",
+    "english": "The government has been trying to narrow the urban-rural education gap",
+    "soundmark": "/ðə/ /'ɡʌvərnmənt/ /hæz/ /bɪn/ /'traɪɪŋ/ /tu/ /'næroʊ/ /ðə/ /'ɜrbən-'rʊrəl/ /ˌɛdʒu'keɪʃən/ /ɡæp/"
+  },
+  {
+    "chinese": "选择",
+    "english": "choice",
+    "soundmark": "/tʃɔɪs/"
+  },
+  {
+    "chinese": "做出选择",
+    "english": "make a choice",
+    "soundmark": "/meɪk/ /ə/ /tʃɔɪs/"
+  },
+  {
+    "chinese": "教育给了我们更多的人生选择",
+    "english": "Education has given us more choices in life",
+    "soundmark": "/ˌɛdʒu'keɪʃən/ /hæz/ /'ɡɪvən/ /ʌs/ /mɔr/ /tʃɔɪsɪz/ /ɪn/ /laɪf/"
+  },
+  {
+    "chinese": "学生需要学会做出正确的选择",
+    "english": "Students need to learn to make the right choices",
+    "soundmark": "/'studnts/ /nid/ /tu/ /lɜrn/ /tu/ /meɪk/ /ðə/ /raɪt/ /tʃɔɪsɪz/"
+  },
+  {
+    "chinese": "转折点",
+    "english": "turning point",
+    "soundmark": "/'tɜrnɪŋ/ /pɔɪnt/"
+  },
+  {
+    "chinese": "人生的转折点",
+    "english": "a turning point in life",
+    "soundmark": "/ə/ /'tɜrnɪŋ/ /pɔɪnt/ /ɪn/ /laɪf/"
+  },
+  {
+    "chinese": "上大学是很多人人生的转折点",
+    "english": "Going to university is a turning point in many people's lives",
+    "soundmark": "/'ɡoʊɪŋ/ /tu/ /ˌjunɪ'vɜrsɪti/ /ɪz/ /ə/ /'tɜrnɪŋ/ /pɔɪnt/ /ɪn/ /'mɛni/ /'pipəlz/ /laɪvz/"
+  },
+  {
+    "chinese": "求知欲",
+    "english": "thirst for knowledge",
+    "soundmark": "/θɜrst/ /fɔr/ /'nɑlɪdʒ/"
+  },
+  {
+    "chinese": "保持求知欲",
+    "english": "maintain a thirst for knowledge",
+    "soundmark": "/meɪn'teɪn/ /ə/ /θɜrst/ /fɔr/ /'nɑlɪdʒ/"
+  },
+  {
+    "chinese": "保持求知欲是持续进步的关键",
+    "english": "Maintaining a thirst for knowledge is the key to continuous progress",
+    "soundmark": "/meɪn'teɪnɪŋ/ /ə/ /θɜrst/ /fɔr/ /'nɑlɪdʒ/ /ɪz/ /ðə/ /ki/ /tu/ /kən'tɪnjuəs/ /'prɑɡrɛs/"
+  },
+  {
+    "chinese": "平台",
+    "english": "platform",
+    "soundmark": "/'plætfɔrm/"
+  },
+  {
+    "chinese": "学习平台",
+    "english": "learning platform",
+    "soundmark": "/'lɜrnɪŋ/ /'plætfɔrm/"
+  },
+  {
+    "chinese": "在线学习平台",
+    "english": "online learning platform",
+    "soundmark": "/'ɑnlaɪn/ /'lɜrnɪŋ/ /'plætfɔrm/"
+  },
+  {
+    "chinese": "很多大学已经建立了在线学习平台",
+    "english": "Many universities have already established online learning platforms",
+    "soundmark": "/'mɛni/ /ˌjunɪ'vɜrsɪtiz/ /hæv/ /ɔl'rɛdi/ /ɪ'stæblɪʃt/ /'ɑnlaɪn/ /'lɜrnɪŋ/ /'plætfɔrmz/"
   }
 ]

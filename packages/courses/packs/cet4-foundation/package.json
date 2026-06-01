@@ -1,6 +1,14 @@
 {
-  "name": "cet4-foundation",
-  "title": "大学英语四级基础",
-  "description": "以四级常见校园、学习、社交和说明类表达为主，适合作为 CET-4 词块与句型起步包。",
-  "version": "1.0.0"
+  "name": "cet4",
+  "version": "1.0.0",
+  "description": "大学英语四级（CET-4）课程包：涵盖大纲4500词及核心语法，按主题单元循序渐进",
+  "level": "CET-4",
+  "totalUnits": 10,
+  "totalVocab": 4500,
+  "tags": [
+    "四级",
+    "CET-4",
+    "大学英语",
+    "英语考试"
+  ]
 }

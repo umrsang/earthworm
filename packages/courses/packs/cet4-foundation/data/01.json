@@ -1,27 +1,1372 @@
 [
   {
-    "chinese": "大学生活为学生提供了更多独立空间",
-    "english": "College life offers students more room for independence.",
-    "soundmark": "/ˈkɑːlɪdʒ laɪf ˈɔːfərz ˈstuːdənts mɔːr ruːm fɔːr ˌɪndɪˈpendəns/"
+    "chinese": "校园",
+    "english": "campus",
+    "soundmark": "/'kæmpəs/"
   },
   {
-    "chinese": "上课认真听讲仍然是高效学习的关键",
-    "english": "Listening carefully in class is still the key to efficient learning.",
-    "soundmark": "/ˈlɪsənɪŋ ˈkerfəli ɪn klæs ɪz stɪl ðə kiː tə ɪˈfɪʃənt ˈlɜːrnɪŋ/"
+    "chinese": "大学",
+    "english": "university",
+    "soundmark": "/ˌjunɪ'vɜrsɪti/"
   },
   {
-    "chinese": "图书馆是我最常去的地方之一",
-    "english": "The library is one of the places I visit most often.",
-    "soundmark": "/ðə ˈlaɪbreri ɪz wʌn əv ðə ˈpleɪsɪz aɪ ˈvɪzɪt moʊst ˈɔːfən/"
+    "chinese": "大学校园",
+    "english": "university campus",
+    "soundmark": "/ˌjunɪ'vɜrsɪti/ /'kæmpəs/"
   },
   {
-    "chinese": "制定每周计划有助于避免拖延",
-    "english": "Making a weekly plan helps prevent procrastination.",
-    "soundmark": "/ˈmeɪkɪŋ ə ˈwiːkli plæn helps prɪˈvent proʊˌkræstəˈneɪʃən/"
+    "chinese": "我住在大学校园里",
+    "english": "I live on the university campus",
+    "soundmark": "/aɪ/ /lɪv/ /ɑn/ /ðə/ /ˌjunɪ'vɜrsɪti/ /'kæmpəs/"
   },
   {
-    "chinese": "自律比短暂的热情更可靠",
-    "english": "Self-discipline is more reliable than temporary enthusiasm.",
-    "soundmark": "/ˌself ˈdɪsəplɪn ɪz mɔːr rɪˈlaɪəbəl ðæn ˈtempəreri ɪnˈθuːziæzəm/"
+    "chinese": "图书馆",
+    "english": "library",
+    "soundmark": "/'laɪbrɛri/"
+  },
+  {
+    "chinese": "大学图书馆",
+    "english": "university library",
+    "soundmark": "/ˌjunɪ'vɜrsɪti/ /'laɪbrɛri/"
+  },
+  {
+    "chinese": "在图书馆",
+    "english": "in the library",
+    "soundmark": "/ɪn/ /ðə/ /'laɪbrɛri/"
+  },
+  {
+    "chinese": "学习",
+    "english": "study",
+    "soundmark": "/'stʌdi/"
+  },
+  {
+    "chinese": "在图书馆学习",
+    "english": "study in the library",
+    "soundmark": "/'stʌdi/ /ɪn/ /ðə/ /'laɪbrɛri/"
+  },
+  {
+    "chinese": "我每天在图书馆学习",
+    "english": "I study in the library every day",
+    "soundmark": "/aɪ/ /'stʌdi/ /ɪn/ /ðə/ /'laɪbrɛri/ /'ɛvri/ /de/"
+  },
+  {
+    "chinese": "她正在图书馆学习",
+    "english": "She is studying in the library",
+    "soundmark": "/ʃi/ /ɪz/ /'stʌdiɪŋ/ /ɪn/ /ðə/ /'laɪbrɛri/"
+  },
+  {
+    "chinese": "他们正在图书馆准备考试",
+    "english": "They are preparing for the exam in the library",
+    "soundmark": "/ðeɪ/ /ɑr/ /prɪ'pɛrɪŋ/ /fɔr/ /ðə/ /ɪɡ'zæm/ /ɪn/ /ðə/ /'laɪbrɛri/"
+  },
+  {
+    "chinese": "教室",
+    "english": "classroom",
+    "soundmark": "/'klæsrum/"
+  },
+  {
+    "chinese": "在教室学习",
+    "english": "study in the classroom",
+    "soundmark": "/'stʌdi/ /ɪn/ /ðə/ /'klæsrum/"
+  },
+  {
+    "chinese": "我每天在教室上英语课",
+    "english": "I have English class in the classroom every day",
+    "soundmark": "/aɪ/ /hæv/ /'ɪŋglɪʃ/ /klæs/ /ɪn/ /ðə/ /'klæsrum/ /'ɛvri/ /de/"
+  },
+  {
+    "chinese": "宿舍",
+    "english": "dormitory",
+    "soundmark": "/'dɔrmɪtɔri/"
+  },
+  {
+    "chinese": "住在宿舍",
+    "english": "live in the dormitory",
+    "soundmark": "/lɪv/ /ɪn/ /ðə/ /'dɔrmɪtɔri/"
+  },
+  {
+    "chinese": "我住在大学宿舍",
+    "english": "I live in the university dormitory",
+    "soundmark": "/aɪ/ /lɪv/ /ɪn/ /ðə/ /ˌjunɪ'vɜrsɪti/ /'dɔrmɪtɔri/"
+  },
+  {
+    "chinese": "我的室友来自不同的城市",
+    "english": "My roommates come from different cities",
+    "soundmark": "/maɪ/ /'rummets/ /kʌm/ /frɑm/ /'dɪfrənt/ /'sɪtiz/"
+  },
+  {
+    "chinese": "食堂",
+    "english": "cafeteria",
+    "soundmark": "/ˌkæfɪ'tɪriə/"
+  },
+  {
+    "chinese": "在食堂吃饭",
+    "english": "eat in the cafeteria",
+    "soundmark": "/it/ /ɪn/ /ðə/ /ˌkæfɪ'tɪriə/"
+  },
+  {
+    "chinese": "我每天在食堂吃饭",
+    "english": "I eat in the cafeteria every day",
+    "soundmark": "/aɪ/ /it/ /ɪn/ /ðə/ /ˌkæfɪ'tɪriə/ /'ɛvri/ /de/"
+  },
+  {
+    "chinese": "食堂的食物便宜又好吃",
+    "english": "The food in the cafeteria is cheap and delicious",
+    "soundmark": "/ðə/ /fud/ /ɪn/ /ðə/ /ˌkæfɪ'tɪriə/ /ɪz/ /tʃip/ /ænd/ /'dɛlɪʃəs/"
+  },
+  {
+    "chinese": "课程",
+    "english": "course",
+    "soundmark": "/kɔrs/"
+  },
+  {
+    "chinese": "上课程",
+    "english": "take a course",
+    "soundmark": "/teɪk/ /ə/ /kɔrs/"
+  },
+  {
+    "chinese": "上很多课程",
+    "english": "take many courses",
+    "soundmark": "/teɪk/ /'mɛni/ /'kɔrsɪz/"
+  },
+  {
+    "chinese": "这个学期我上很多课程",
+    "english": "I take many courses this semester",
+    "soundmark": "/aɪ/ /teɪk/ /'mɛni/ /'kɔrsɪz/ /ðɪs/ /sɪ'mɛstər/"
+  },
+  {
+    "chinese": "学期",
+    "english": "semester",
+    "soundmark": "/sɪ'mɛstər/"
+  },
+  {
+    "chinese": "这个学期",
+    "english": "this semester",
+    "soundmark": "/ðɪs/ /sɪ'mɛstər/"
+  },
+  {
+    "chinese": "上学期",
+    "english": "last semester",
+    "soundmark": "/læst/ /sɪ'mɛstər/"
+  },
+  {
+    "chinese": "下学期",
+    "english": "next semester",
+    "soundmark": "/nɛkst/ /sɪ'mɛstər/"
+  },
+  {
+    "chinese": "下学期我会上更多课程",
+    "english": "I will take more courses next semester",
+    "soundmark": "/aɪ/ /wɪl/ /teɪk/ /mɔr/ /'kɔrsɪz/ /nɛkst/ /sɪ'mɛstər/"
+  },
+  {
+    "chinese": "教授",
+    "english": "professor",
+    "soundmark": "/prə'fɛsər/"
+  },
+  {
+    "chinese": "英语教授",
+    "english": "English professor",
+    "soundmark": "/'ɪŋglɪʃ/ /prə'fɛsər/"
+  },
+  {
+    "chinese": "那位英语教授讲课很好",
+    "english": "That English professor teaches very well",
+    "soundmark": "/ðæt/ /'ɪŋglɪʃ/ /prə'fɛsər/ /titʃɪz/ /'vɛri/ /wɛl/"
+  },
+  {
+    "chinese": "教授正在讲一个有趣的话题",
+    "english": "The professor is talking about an interesting topic",
+    "soundmark": "/ðə/ /prə'fɛsər/ /ɪz/ /'tɔkɪŋ/ /ə'baʊt/ /ən/ /'ɪntrəstɪŋ/ /'tɑpɪk/"
+  },
+  {
+    "chinese": "讲座",
+    "english": "lecture",
+    "soundmark": "/'lɛktʃər/"
+  },
+  {
+    "chinese": "听讲座",
+    "english": "attend a lecture",
+    "soundmark": "/ə'tɛnd/ /ə/ /'lɛktʃər/"
+  },
+  {
+    "chinese": "我每周参加一次讲座",
+    "english": "I attend a lecture once a week",
+    "soundmark": "/aɪ/ /ə'tɛnd/ /ə/ /'lɛktʃər/ /wʌns/ /ə/ /wik/"
+  },
+  {
+    "chinese": "今天的讲座关于环境保护",
+    "english": "Today's lecture is about environmental protection",
+    "soundmark": "/tə'deɪz/ /'lɛktʃər/ /ɪz/ /ə'baʊt/ /ɪnˌvaɪrən'mɛntl/ /prə'tɛkʃən/"
+  },
+  {
+    "chinese": "考试",
+    "english": "exam",
+    "soundmark": "/ɪɡ'zæm/"
+  },
+  {
+    "chinese": "准备考试",
+    "english": "prepare for an exam",
+    "soundmark": "/prɪ'pɛr/ /fɔr/ /ən/ /ɪɡ'zæm/"
+  },
+  {
+    "chinese": "我正在准备考试",
+    "english": "I am preparing for the exam",
+    "soundmark": "/aɪ/ /æm/ /prɪ'pɛrɪŋ/ /fɔr/ /ðə/ /ɪɡ'zæm/"
+  },
+  {
+    "chinese": "期末考试",
+    "english": "final exam",
+    "soundmark": "/'faɪnl/ /ɪɡ'zæm/"
+  },
+  {
+    "chinese": "我正在准备期末考试",
+    "english": "I am preparing for the final exam",
+    "soundmark": "/aɪ/ /æm/ /prɪ'pɛrɪŋ/ /fɔr/ /ðə/ /'faɪnl/ /ɪɡ'zæm/"
+  },
+  {
+    "chinese": "他期末考试取得了好成绩",
+    "english": "He got a good grade on the final exam",
+    "soundmark": "/hi/ /ɡɑt/ /ə/ /ɡʊd/ /ɡreɪd/ /ɑn/ /ðə/ /'faɪnl/ /ɪɡ'zæm/"
+  },
+  {
+    "chinese": "作业",
+    "english": "homework",
+    "soundmark": "/'hoʊmwɜrk/"
+  },
+  {
+    "chinese": "做作业",
+    "english": "do homework",
+    "soundmark": "/du/ /'hoʊmwɜrk/"
+  },
+  {
+    "chinese": "我每天做很多作业",
+    "english": "I do a lot of homework every day",
+    "soundmark": "/aɪ/ /du/ /ə/ /lɑt/ /əv/ /'hoʊmwɜrk/ /'ɛvri/ /de/"
+  },
+  {
+    "chinese": "她正在做英语作业",
+    "english": "She is doing her English homework",
+    "soundmark": "/ʃi/ /ɪz/ /'duɪŋ/ /hɜr/ /'ɪŋglɪʃ/ /'hoʊmwɜrk/"
+  },
+  {
+    "chinese": "同学",
+    "english": "classmate",
+    "soundmark": "/'klæsmet/"
+  },
+  {
+    "chinese": "我的同学",
+    "english": "my classmate",
+    "soundmark": "/maɪ/ /'klæsmet/"
+  },
+  {
+    "chinese": "我经常和同学一起学习",
+    "english": "I often study with my classmates",
+    "soundmark": "/aɪ/ /'ɔfən/ /'stʌdi/ /wɪð/ /maɪ/ /'klæsmets/"
+  },
+  {
+    "chinese": "朋友",
+    "english": "friend",
+    "soundmark": "/frɛnd/"
+  },
+  {
+    "chinese": "交朋友",
+    "english": "make friends",
+    "soundmark": "/meɪk/ /frɛndz/"
+  },
+  {
+    "chinese": "在大学里交朋友",
+    "english": "make friends in the university",
+    "soundmark": "/meɪk/ /frɛndz/ /ɪn/ /ðə/ /ˌjunɪ'vɜrsɪti/"
+  },
+  {
+    "chinese": "我在大学里交了很多好朋友",
+    "english": "I made many good friends in the university",
+    "soundmark": "/aɪ/ /meɪd/ /'mɛni/ /ɡʊd/ /frɛndz/ /ɪn/ /ðə/ /ˌjunɪ'vɜrsɪti/"
+  },
+  {
+    "chinese": "专业",
+    "english": "major",
+    "soundmark": "/'meɪdʒər/"
+  },
+  {
+    "chinese": "主修专业",
+    "english": "major in",
+    "soundmark": "/'meɪdʒər/ /ɪn/"
+  },
+  {
+    "chinese": "我主修计算机专业",
+    "english": "I major in computer science",
+    "soundmark": "/aɪ/ /'meɪdʒər/ /ɪn/ /kəm'pjutər/ /'saɪəns/"
+  },
+  {
+    "chinese": "她是英语专业学生",
+    "english": "She is an English major",
+    "soundmark": "/ʃi/ /ɪz/ /ən/ /'ɪŋglɪʃ/ /'meɪdʒər/"
+  },
+  {
+    "chinese": "课本",
+    "english": "textbook",
+    "soundmark": "/'tɛkstbʊk/"
+  },
+  {
+    "chinese": "读课本",
+    "english": "read the textbook",
+    "soundmark": "/rid/ /ðə/ /'tɛkstbʊk/"
+  },
+  {
+    "chinese": "我每天读英语课本",
+    "english": "I read the English textbook every day",
+    "soundmark": "/aɪ/ /rid/ /ðə/ /'ɪŋglɪʃ/ /'tɛkstbʊk/ /'ɛvri/ /de/"
+  },
+  {
+    "chinese": "笔记",
+    "english": "notes",
+    "soundmark": "/noʊts/"
+  },
+  {
+    "chinese": "做笔记",
+    "english": "take notes",
+    "soundmark": "/teɪk/ /noʊts/"
+  },
+  {
+    "chinese": "在课堂上做笔记",
+    "english": "take notes in class",
+    "soundmark": "/teɪk/ /noʊts/ /ɪn/ /klæs/"
+  },
+  {
+    "chinese": "我上课时认真做笔记",
+    "english": "I take careful notes in class",
+    "soundmark": "/aɪ/ /teɪk/ /'kɛrfəl/ /noʊts/ /ɪn/ /klæs/"
+  },
+  {
+    "chinese": "论文",
+    "english": "paper",
+    "soundmark": "/'peɪpər/"
+  },
+  {
+    "chinese": "研究论文",
+    "english": "research paper",
+    "soundmark": "/rɪ'sɜrtʃ/ /'peɪpər/"
+  },
+  {
+    "chinese": "写论文",
+    "english": "write a paper",
+    "soundmark": "/raɪt/ /ə/ /'peɪpər/"
+  },
+  {
+    "chinese": "我正在写一篇研究论文",
+    "english": "I am writing a research paper",
+    "soundmark": "/aɪ/ /æm/ /'raɪtɪŋ/ /ə/ /rɪ'sɜrtʃ/ /'peɪpər/"
+  },
+  {
+    "chinese": "成绩",
+    "english": "grade",
+    "soundmark": "/ɡreɪd/"
+  },
+  {
+    "chinese": "好成绩",
+    "english": "good grade",
+    "soundmark": "/ɡʊd/ /ɡreɪd/"
+  },
+  {
+    "chinese": "取得好成绩",
+    "english": "get a good grade",
+    "soundmark": "/ɡɛt/ /ə/ /ɡʊd/ /ɡreɪd/"
+  },
+  {
+    "chinese": "我取得了好成绩",
+    "english": "I got a good grade",
+    "soundmark": "/aɪ/ /ɡɑt/ /ə/ /ɡʊd/ /ɡreɪd/"
+  },
+  {
+    "chinese": "奖学金",
+    "english": "scholarship",
+    "soundmark": "/'skɑlərʃɪp/"
+  },
+  {
+    "chinese": "获得奖学金",
+    "english": "get a scholarship",
+    "soundmark": "/ɡɛt/ /ə/ /'skɑlərʃɪp/"
+  },
+  {
+    "chinese": "他因为好成绩获得了奖学金",
+    "english": "He got a scholarship for his good grades",
+    "soundmark": "/hi/ /ɡɑt/ /ə/ /'skɑlərʃɪp/ /fɔr/ /hɪz/ /ɡʊd/ /ɡreɪdz/"
+  },
+  {
+    "chinese": "毕业",
+    "english": "graduate",
+    "soundmark": "/'ɡrædʒuet/"
+  },
+  {
+    "chinese": "学士学位",
+    "english": "bachelor's degree",
+    "soundmark": "/'bætʃələrz/ /dɪ'ɡri/"
+  },
+  {
+    "chinese": "我明年大学毕业",
+    "english": "I will graduate from university next year",
+    "soundmark": "/aɪ/ /wɪl/ /'ɡrædʒuet/ /frɑm/ /ˌjunɪ'vɜrsɪti/ /nɛkst/ /jɪr/"
+  },
+  {
+    "chinese": "她明年将获得学士学位",
+    "english": "She will get a bachelor's degree next year",
+    "soundmark": "/ʃi/ /wɪl/ /ɡɛt/ /ə/ /'bætʃələrz/ /dɪ'ɡri/ /nɛkst/ /jɪr/"
+  },
+  {
+    "chinese": "学生",
+    "english": "student",
+    "soundmark": "/'studnt/"
+  },
+  {
+    "chinese": "我是一名大学生",
+    "english": "I am a university student",
+    "soundmark": "/aɪ/ /æm/ /ə/ /ˌjunɪ'vɜrsɪti/ /'studnt/"
+  },
+  {
+    "chinese": "他是一名来自北京的大学生",
+    "english": "He is a university student from Beijing",
+    "soundmark": "/hi/ /ɪz/ /ə/ /ˌjunɪ'vɜrsɪti/ /'studnt/ /frɑm/ /'beɪ'ʒɪŋ/"
+  },
+  {
+    "chinese": "必修课",
+    "english": "required course",
+    "soundmark": "/rɪ'kwaɪərd/ /kɔrs/"
+  },
+  {
+    "chinese": "选修课",
+    "english": "elective course",
+    "soundmark": "/ɪ'lɛktɪv/ /kɔrs/"
+  },
+  {
+    "chinese": "英语是一门必修课",
+    "english": "English is a required course",
+    "soundmark": "/'ɪŋglɪʃ/ /ɪz/ /ə/ /rɪ'kwaɪərd/ /kɔrs/"
+  },
+  {
+    "chinese": "我还选了两门选修课",
+    "english": "I also chose two elective courses",
+    "soundmark": "/aɪ/ /'ɔlso/ /tʃoz/ /tu/ /ɪ'lɛktɪv/ /'kɔrsɪz/"
+  },
+  {
+    "chinese": "课程表",
+    "english": "schedule",
+    "soundmark": "/'skɛdʒul/"
+  },
+  {
+    "chinese": "课",
+    "english": "class",
+    "soundmark": "/klæs/"
+  },
+  {
+    "chinese": "上课",
+    "english": "attend class",
+    "soundmark": "/ə'tɛnd/ /klæs/"
+  },
+  {
+    "chinese": "我早上八点上课",
+    "english": "I have class at eight in the morning",
+    "soundmark": "/aɪ/ /hæv/ /klæs/ /æt/ /eɪt/ /ɪn/ /ðə/ /'mɔrnɪŋ/"
+  },
+  {
+    "chinese": "迟到",
+    "english": "be late",
+    "soundmark": "/bi/ /let/"
+  },
+  {
+    "chinese": "我从来不迟到",
+    "english": "I am never late for class",
+    "soundmark": "/aɪ/ /æm/ /'nɛvər/ /let/ /fɔr/ /klæs/"
+  },
+  {
+    "chinese": "忙碌的",
+    "english": "busy",
+    "soundmark": "/'bɪzi/"
+  },
+  {
+    "chinese": "我每天都忙",
+    "english": "I am very busy every day",
+    "soundmark": "/aɪ/ /æm/ /'vɛri/ /'bɪzi/ /'ɛvri/ /de/"
+  },
+  {
+    "chinese": "我忙着准备考试",
+    "english": "I am busy preparing for the exam",
+    "soundmark": "/aɪ/ /æm/ /'bɪzi/ /prɪ'pɛrɪŋ/ /fɔr/ /ðə/ /ɪɡ'zæm/"
+  },
+  {
+    "chinese": "空闲的",
+    "english": "free",
+    "soundmark": "/fri/"
+  },
+  {
+    "chinese": "有空的时候我喜欢读书",
+    "english": "I like to read when I am free",
+    "soundmark": "/aɪ/ /laɪk/ /tə/ /rid/ /wɛn/ /aɪ/ /æm/ /fri/"
+  },
+  {
+    "chinese": "社团",
+    "english": "club",
+    "soundmark": "/klʌb/"
+  },
+  {
+    "chinese": "参加社团",
+    "english": "join a club",
+    "soundmark": "/dʒɔɪn/ /ə/ /klʌb/"
+  },
+  {
+    "chinese": "我加入了英语社团",
+    "english": "I joined the English club",
+    "soundmark": "/aɪ/ /dʒɔɪnd/ /ðə/ /'ɪŋglɪʃ/ /klʌb/"
+  },
+  {
+    "chinese": "课外活动",
+    "english": "extracurricular activity",
+    "soundmark": "/ˌɛkstrəkə'rɪkjələr/ /æk'tɪvɪti/"
+  },
+  {
+    "chinese": "我经常参加课外活动",
+    "english": "I often take part in extracurricular activities",
+    "soundmark": "/aɪ/ /'ɔfən/ /teɪk/ /pɑrt/ /ɪn/ /ˌɛkstrəkə'rɪkjələr/ /æk'tɪvɪtiz/"
+  },
+  {
+    "chinese": "你好",
+    "english": "hello",
+    "soundmark": "/hə'loʊ/"
+  },
+  {
+    "chinese": "你好吗",
+    "english": "How are you",
+    "soundmark": "/haʊ/ /ɑr/ /ju/"
+  },
+  {
+    "chinese": "我很好",
+    "english": "I am fine",
+    "soundmark": "/aɪ/ /æm/ /faɪn/"
+  },
+  {
+    "chinese": "很高兴认识你",
+    "english": "Nice to meet you",
+    "soundmark": "/naɪs/ /tə/ /mit/ /ju/"
+  },
+  {
+    "chinese": "很高兴再次见到你",
+    "english": "Nice to see you again",
+    "soundmark": "/naɪs/ /tə/ /si/ /ju/ /ə'ɡɛn/"
+  },
+  {
+    "chinese": "谢谢",
+    "english": "thank you",
+    "soundmark": "/θæŋk/ /ju/"
+  },
+  {
+    "chinese": "不客气",
+    "english": "You are welcome",
+    "soundmark": "/ju/ /ɑr/ /'wɛlkəm/"
+  },
+  {
+    "chinese": "对不起",
+    "english": "I am sorry",
+    "soundmark": "/aɪ/ /æm/ /'sɑri/"
+  },
+  {
+    "chinese": "没关系",
+    "english": "It does not matter",
+    "soundmark": "/ɪt/ /dʌz/ /nɑt/ /'mætər/"
+  },
+  {
+    "chinese": "再见",
+    "english": "Goodbye",
+    "soundmark": "/ɡʊd'baɪ/"
+  },
+  {
+    "chinese": "祝你今天愉快",
+    "english": "Have a nice day",
+    "soundmark": "/hæv/ /ə/ /naɪs/ /de/"
+  },
+  {
+    "chinese": "请问图书馆在哪里",
+    "english": "Excuse me, where is the library",
+    "soundmark": "/ɪk'skjuz/ /mi/ /wɛr/ /ɪz/ /ðə/ /'laɪbrɛri/"
+  },
+  {
+    "chinese": "当然可以",
+    "english": "Of course",
+    "soundmark": "/əv/ /kɔrs/"
+  },
+  {
+    "chinese": "需要帮助吗",
+    "english": "Do you need any help",
+    "soundmark": "/du/ /ju/ /nid/ /'ɛni/ /hɛlp/"
+  },
+  {
+    "chinese": "我需要你的帮助",
+    "english": "I need your help",
+    "soundmark": "/aɪ/ /nid/ /jɔr/ /hɛlp/"
+  },
+  {
+    "chinese": "你能帮助我吗",
+    "english": "Can you help me",
+    "soundmark": "/kæn/ /ju/ /hɛlp/ /mi/"
+  },
+  {
+    "chinese": "我可以用一下你的笔记吗",
+    "english": "Can I use your notes",
+    "soundmark": "/kæn/ /aɪ/ /juz/ /jɔr/ /noʊts/"
+  },
+  {
+    "chinese": "当然可以，给你",
+    "english": "Sure, here you go",
+    "soundmark": "/ʃʊr/ /hɪr/ /ju/ /ɡoʊ/"
+  },
+  {
+    "chinese": "请问你是哪个专业的",
+    "english": "What is your major",
+    "soundmark": "/wɑt/ /ɪz/ /jɔr/ /'meɪdʒər/"
+  },
+  {
+    "chinese": "我的专业是计算机科学",
+    "english": "My major is computer science",
+    "soundmark": "/maɪ/ /'meɪdʒər/ /ɪz/ /kəm'pjutər/ /'saɪəns/"
+  },
+  {
+    "chinese": "你多大了",
+    "english": "How old are you",
+    "soundmark": "/haʊ/ /oʊld/ /ɑr/ /ju/"
+  },
+  {
+    "chinese": "你来自哪里",
+    "english": "Where are you from",
+    "soundmark": "/wɛr/ /ɑr/ /ju/ /frɑm/"
+  },
+  {
+    "chinese": "我来自上海",
+    "english": "I am from Shanghai",
+    "soundmark": "/aɪ/ /æm/ /frɑm/ /ʃæŋ'haɪ/"
+  },
+  {
+    "chinese": "你几年级了",
+    "english": "What year are you in",
+    "soundmark": "/wɑt/ /jɪr/ /ɑr/ /ju/ /ɪn/"
+  },
+  {
+    "chinese": "我大四了",
+    "english": "I am a senior",
+    "soundmark": "/aɪ/ /æm/ /ə/ /'sinjər/"
+  },
+  {
+    "chinese": "你是新生吗",
+    "english": "Are you a freshman",
+    "soundmark": "/ɑr/ /ju/ /ə/ /'frɛʃmən/"
+  },
+  {
+    "chinese": "是的，我是今年的新生",
+    "english": "Yes, I am a freshman this year",
+    "soundmark": "/jɛs/ /aɪ/ /æm/ /ə/ /'frɛʃmən/ /ðɪs/ /jɪr/"
+  },
+  {
+    "chinese": "你喜欢大学生活吗",
+    "english": "Do you like university life",
+    "soundmark": "/du/ /ju/ /laɪk/ /ˌjunɪ'vɜrsɪti/ /laɪf/"
+  },
+  {
+    "chinese": "是的，我非常喜欢",
+    "english": "Yes, I like it very much",
+    "soundmark": "/jɛs/ /aɪ/ /laɪk/ /ɪt/ /'vɛri/ /mʌtʃ/"
+  },
+  {
+    "chinese": "大学和高中有什么不同",
+    "english": "What is the difference between university and high school",
+    "soundmark": "/wɑt/ /ɪz/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /ˌjunɪ'vɜrsɪti/ /ænd/ /haɪ/ /skul/"
+  },
+  {
+    "chinese": "大学更自由但也更需要自律",
+    "english": "University is more free but requires more self-discipline",
+    "soundmark": "/ˌjunɪ'vɜrsɪti/ /ɪz/ /mɔr/ /fri/ /bʌt/ /rɪ'kwaɪərz/ /mɔr/ /sɛlf/'dɪsɪplɪn/"
+  },
+  {
+    "chinese": "你在大学学到了什么",
+    "english": "What did you learn in university",
+    "soundmark": "/wɑt/ /dɪd/ /ju/ /lɜrn/ /ɪn/ /ˌjunɪ'vɜrsɪti/"
+  },
+  {
+    "chinese": "我学到了很多知识和技能",
+    "english": "I learned a lot of knowledge and skills",
+    "soundmark": "/aɪ/ /lɜrnd/ /ə/ /lɑt/ /əv/ /'nɑlɪdʒ/ /ænd/ /skɪlz/"
+  },
+  {
+    "chinese": "我学会了独立思考",
+    "english": "I learned to think independently",
+    "soundmark": "/aɪ/ /lɜrnd/ /tə/ /θɪŋk/ /ˌɪndɪ'pɛndəntli/"
+  },
+  {
+    "chinese": "读",
+    "english": "read",
+    "soundmark": "/rid/"
+  },
+  {
+    "chinese": "阅读",
+    "english": "reading",
+    "soundmark": "/'ridɪŋ/"
+  },
+  {
+    "chinese": "我喜欢阅读英文文章",
+    "english": "I like reading English articles",
+    "soundmark": "/aɪ/ /laɪk/ /'ridɪŋ/ /'ɪŋglɪʃ/ /'ɑrtɪklz/"
+  },
+  {
+    "chinese": "她每天阅读一篇英文文章",
+    "english": "She reads one English article every day",
+    "soundmark": "/ʃi/ /ridz/ /wʌn/ /'ɪŋglɪʃ/ /'ɑrtɪkl/ /'ɛvri/ /de/"
+  },
+  {
+    "chinese": "写",
+    "english": "write",
+    "soundmark": "/raɪt/"
+  },
+  {
+    "chinese": "写作",
+    "english": "writing",
+    "soundmark": "/'raɪtɪŋ/"
+  },
+  {
+    "chinese": "我的写作能力需要提高",
+    "english": "My writing skills need to be improved",
+    "soundmark": "/maɪ/ /'raɪtɪŋ/ /skɪlz/ /nid/ /tə/ /bi/ /ɪm'pruvd/"
+  },
+  {
+    "chinese": "他正在练习英语写作",
+    "english": "He is practicing English writing",
+    "soundmark": "/hi/ /ɪz/ /'præktɪsɪŋ/ /'ɪŋglɪʃ/ /'raɪtɪŋ/"
+  },
+  {
+    "chinese": "听",
+    "english": "listen",
+    "soundmark": "/'lɪsən/"
+  },
+  {
+    "chinese": "听力",
+    "english": "listening",
+    "soundmark": "/'lɪsənɪŋ/"
+  },
+  {
+    "chinese": "听英语听力材料",
+    "english": "listen to English listening materials",
+    "soundmark": "/'lɪsən/ /tu/ /'ɪŋglɪʃ/ /'lɪsənɪŋ/ /mə'tɪriəlz/"
+  },
+  {
+    "chinese": "我每天听英语听力提高听力水平",
+    "english": "I listen to English every day to improve my listening skills",
+    "soundmark": "/aɪ/ /'lɪsən/ /tu/ /'ɪŋglɪʃ/ /'ɛvri/ /de/ /tu/ /ɪm'pruv/ /maɪ/ /'lɪsənɪŋ/ /skɪlz/"
+  },
+  {
+    "chinese": "说",
+    "english": "speak",
+    "soundmark": "/spik/"
+  },
+  {
+    "chinese": "口语",
+    "english": "speaking",
+    "soundmark": "/'spikɪŋ/"
+  },
+  {
+    "chinese": "说英语",
+    "english": "speak English",
+    "soundmark": "/spik/ /'ɪŋglɪʃ/"
+  },
+  {
+    "chinese": "练习说英语很重要",
+    "english": "It is important to practice speaking English",
+    "soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/ /tə/ /'præktɪs/ /'spikɪŋ/ /'ɪŋglɪʃ/"
+  },
+  {
+    "chinese": "她英语说得很好",
+    "english": "She speaks English very well",
+    "soundmark": "/ʃi/ /spiks/ /'ɪŋglɪʃ/ /'vɛri/ /wɛl/"
+  },
+  {
+    "chinese": "提高",
+    "english": "improve",
+    "soundmark": "/ɪm'pruv/"
+  },
+  {
+    "chinese": "提高英语水平",
+    "english": "improve English skills",
+    "soundmark": "/ɪm'pruv/ /'ɪŋglɪʃ/ /skɪlz/"
+  },
+  {
+    "chinese": "我正在努力提高英语水平",
+    "english": "I am working hard to improve my English",
+    "soundmark": "/aɪ/ /æm/ /'wɜrkɪŋ/ /hɑrd/ /tə/ /ɪm'pruv/ /maɪ/ /'ɪŋglɪʃ/"
+  },
+  {
+    "chinese": "练习",
+    "english": "practice",
+    "soundmark": "/'præktɪs/"
+  },
+  {
+    "chinese": "做练习",
+    "english": "do practice exercises",
+    "soundmark": "/du/ /'præktɪs/ /'ɛksərˌsaɪzɪz/"
+  },
+  {
+    "chinese": "我每天做很多练习",
+    "english": "I do a lot of practice exercises every day",
+    "soundmark": "/aɪ/ /du/ /ə/ /lɑt/ /əv/ /'præktɪs/ /'ɛksərˌsaɪzɪz/ /'ɛvri/ /de/"
+  },
+  {
+    "chinese": "复习",
+    "english": "review",
+    "soundmark": "/rɪ'vju/"
+  },
+  {
+    "chinese": "复习功课",
+    "english": "review lessons",
+    "soundmark": "/rɪ'vju/ /'lɛsənz/"
+  },
+  {
+    "chinese": "考试前我需要复习功课",
+    "english": "I need to review lessons before the exam",
+    "soundmark": "/aɪ/ /nid/ /tə/ /rɪ'vju/ /'lɛsənz/ /bɪ'fɔr/ /ðə/ /ɪɡ'zæm/"
+  },
+  {
+    "chinese": "她在复习今天学的内容",
+    "english": "She is reviewing what she learned today",
+    "soundmark": "/ʃi/ /ɪz/ /rɪ'vjuɪŋ/ /wɑt/ /ʃi/ /lɜrnd/ /tə'de/"
+  },
+  {
+    "chinese": "理解",
+    "english": "understand",
+    "soundmark": "/ˌʌndər'stænd/"
+  },
+  {
+    "chinese": "理解课文",
+    "english": "understand the text",
+    "soundmark": "/ˌʌndər'stænd/ /ðə/ /tɛkst/"
+  },
+  {
+    "chinese": "我不太理解这个概念",
+    "english": "I do not quite understand this concept",
+    "soundmark": "/aɪ/ /du/ /nɑt/ /kwaɪt/ /ˌʌndər'stænd/ /ðɪs/ /'kɑnsɛpt/"
+  },
+  {
+    "chinese": "你能再解释一遍吗",
+    "english": "Can you explain it again",
+    "soundmark": "/kæn/ /ju/ /ɪk'splen/ /ɪt/ /ə'ɡɛn/"
+  },
+  {
+    "chinese": "讨论",
+    "english": "discuss",
+    "soundmark": "/dɪ'skʌs/"
+  },
+  {
+    "chinese": "讨论问题",
+    "english": "discuss a problem",
+    "soundmark": "/dɪ'skʌs/ /ə/ /'prɑbləm/"
+  },
+  {
+    "chinese": "小组讨论",
+    "english": "group discussion",
+    "soundmark": "/ɡrup/ /dɪ'skʌʃən/"
+  },
+  {
+    "chinese": "我们正在小组讨论中",
+    "english": "We are having a group discussion",
+    "soundmark": "/wi/ /ɑr/ /'hævɪŋ/ /ə/ /ɡrup/ /dɪ'skʌʃən/"
+  },
+  {
+    "chinese": "他们在讨论期末论文",
+    "english": "They are discussing their final papers",
+    "soundmark": "/ðeɪ/ /ɑr/ /dɪ'skʌsɪŋ/ /ðɛr/ /'faɪnl/ /'peɪpərz/"
+  },
+  {
+    "chinese": "表达",
+    "english": "express",
+    "soundmark": "/ɪk'sprɛs/"
+  },
+  {
+    "chinese": "表达观点",
+    "english": "express an opinion",
+    "soundmark": "/ɪk'sprɛs/ /ən/ /ə'pɪnjən/"
+  },
+  {
+    "chinese": "清晰地表达自己的想法",
+    "english": "express one's ideas clearly",
+    "soundmark": "/ɪk'sprɛs/ /wʌnz/ /aɪ'diəz/ /'klɪrli/"
+  },
+  {
+    "chinese": "学会用英语清晰地表达自己的观点非常重要",
+    "english": "It is very important to learn to express your opinions clearly in English",
+    "soundmark": "/ɪt/ /ɪz/ /'vɛri/ /ɪm'pɔrtnt/ /tə/ /lɜrn/ /tə/ /ɪk'sprɛs/ /jɔr/ /ə'pɪnjənz/ /'klɪrli/ /ɪn/ /'ɪŋglɪʃ/"
+  },
+  {
+    "chinese": "交流",
+    "english": "communicate",
+    "soundmark": "/kə'mjunɪket/"
+  },
+  {
+    "chinese": "与他人交流",
+    "english": "communicate with others",
+    "soundmark": "/kə'mjunɪket/ /wɪð/ /'ʌðərz/"
+  },
+  {
+    "chinese": "用英语交流",
+    "english": "communicate in English",
+    "soundmark": "/kə'mjunɪket/ /ɪn/ /'ɪŋglɪʃ/"
+  },
+  {
+    "chinese": "大学生应该学会用英语与他人交流",
+    "english": "University students should learn to communicate in English with others",
+    "soundmark": "/ˌjunɪ'vɜrsɪti/ /'studnts/ /ʃʊd/ /lɜrn/ /tə/ /kə'mjunɪket/ /ɪn/ /'ɪŋglɪʃ/ /wɪð/ /'ʌðərz/"
+  },
+  {
+    "chinese": "感兴趣",
+    "english": "be interested in",
+    "soundmark": "/bi/ /'ɪntrəstɪd/ /ɪn/"
+  },
+  {
+    "chinese": "我对英语很感兴趣",
+    "english": "I am very interested in English",
+    "soundmark": "/aɪ/ /æm/ /'vɛri/ /'ɪntrəstɪd/ /ɪn/ /'ɪŋglɪʃ/"
+  },
+  {
+    "chinese": "她对学习新语言很感兴趣",
+    "english": "She is very interested in learning new languages",
+    "soundmark": "/ʃi/ /æm/ /'vɛri/ /'ɪntrəstɪd/ /ɪn/ /'lɜrnɪŋ/ /nju/ /'læŋɡwɪdʒɪz/"
+  },
+  {
+    "chinese": "重要的",
+    "english": "important",
+    "soundmark": "/ɪm'pɔrtnt/"
+  },
+  {
+    "chinese": "非常重要",
+    "english": "very important",
+    "soundmark": "/'vɛri/ /ɪm'pɔrtnt/"
+  },
+  {
+    "chinese": "英语在当今社会非常重要",
+    "english": "English is very important in today's society",
+    "soundmark": "/'ɪŋglɪʃ/ /ɪz/ /'vɛri/ /ɪm'pɔrtnt/ /ɪn/ /tə'deɪz/ /sə'saɪəti/"
+  },
+  {
+    "chinese": "掌握英语对我的未来很重要",
+    "english": "Mastering English is very important for my future",
+    "soundmark": "/'mæstərɪŋ/ /'ɪŋglɪʃ/ /ɪz/ /'vɛri/ /ɪm'pɔrtnt/ /fɔr/ /maɪ/ /'fjutʃər/"
+  },
+  {
+    "chinese": "困难的",
+    "english": "difficult",
+    "soundmark": "/'dɪfɪkʌlt/"
+  },
+  {
+    "chinese": "英语很难",
+    "english": "English is difficult",
+    "soundmark": "/'ɪŋglɪʃ/ /ɪz/ /'dɪfɪkʌlt/"
+  },
+  {
+    "chinese": "我觉得英语写作最难",
+    "english": "I think English writing is the most difficult",
+    "soundmark": "/aɪ/ /θɪŋk/ /'ɪŋglɪʃ/ /'raɪtɪŋ/ /ɪz/ /ðə/ /moʊst/ /'dɪfɪkʌlt/"
+  },
+  {
+    "chinese": "只要你坚持练习就能克服困难",
+    "english": "As long as you keep practicing, you can overcome the difficulties",
+    "soundmark": "/æz/ /lɔŋ/ /æz/ /ju/ /kip/ /'præktɪsɪŋ/ /ju/ /kæn/ /ˌoʊvər'kʌm/ /ðə/ /ˌdɪfɪ'kʌltiz/"
+  },
+  {
+    "chinese": "努力的",
+    "english": "hardworking",
+    "soundmark": "/'hɑrd'wɜrkɪŋ/"
+  },
+  {
+    "chinese": "努力学习",
+    "english": "study hard",
+    "soundmark": "/'stʌdi/ /hɑrd/"
+  },
+  {
+    "chinese": "他是一个非常努力的学生",
+    "english": "He is a very hardworking student",
+    "soundmark": "/hi/ /ɪz/ /ə/ /'vɛri/ /'hɑrd'wɜrkɪŋ/ /'studnt/"
+  },
+  {
+    "chinese": "努力学习就会取得好成绩",
+    "english": "If you study hard, you will get good grades",
+    "soundmark": "/ɪf/ /ju/ /'stʌdi/ /hɑrd/ /ju/ /wɪl/ /ɡɛt/ /ɡʊd/ /ɡreɪdz/"
+  },
+  {
+    "chinese": "有用的",
+    "english": "useful",
+    "soundmark": "/'jusfəl/"
+  },
+  {
+    "chinese": "有用的知识",
+    "english": "useful knowledge",
+    "soundmark": "/'jusfəl/ /'nɑlɪdʒ/"
+  },
+  {
+    "chinese": "大学里学的知识非常有用",
+    "english": "The knowledge learned in university is very useful",
+    "soundmark": "/ðə/ /'nɑlɪdʒ/ /lɜrnd/ /ɪn/ /ˌjunɪ'vɜrsɪti/ /ɪz/ /'vɛri/ /'jusfəl/"
+  },
+  {
+    "chinese": "我认为掌握一门外语非常有用",
+    "english": "I think mastering a foreign language is very useful",
+    "soundmark": "/aɪ/ /θɪŋk/ /'mæstərɪŋ/ /ə/ /'fɔrɪn/ /'læŋɡwɪdʒ/ /ɪz/ /'vɛri/ /'jusfəl/"
+  },
+  {
+    "chinese": "成功",
+    "english": "success",
+    "soundmark": "/sək'sɛs/"
+  },
+  {
+    "chinese": "成功的",
+    "english": "successful",
+    "soundmark": "/sək'sɛsfəl/"
+  },
+  {
+    "chinese": "取得成功",
+    "english": "achieve success",
+    "soundmark": "/ə'tʃiv/ /sək'sɛs/"
+  },
+  {
+    "chinese": "通过努力可以实现成功",
+    "english": "Success can be achieved through hard work",
+    "soundmark": "/sək'sɛs/ /kæn/ /bi/ /ə'tʃivd/ /θru/ /hɑrd/ /wɜrk/"
+  },
+  {
+    "chinese": "她是一个成功的大学生",
+    "english": "She is a successful university student",
+    "soundmark": "/ʃi/ /ɪz/ /ə/ /sək'sɛsfəl/ /ˌjunɪ'vɜrsɪti/ /'studnt/"
+  },
+  {
+    "chinese": "失败",
+    "english": "failure",
+    "soundmark": "/'feɪljər/"
+  },
+  {
+    "chinese": "失败是成功之母",
+    "english": "Failure is the mother of success",
+    "soundmark": "/'feɪljər/ /ɪz/ /ðə/ /'mʌðər/ /əv/ /sək'sɛs/"
+  },
+  {
+    "chinese": "不要害怕失败",
+    "english": "Do not be afraid of failure",
+    "soundmark": "/du/ /nɑt/ /bi/ /ə'freɪd/ /əv/ /'feɪljər/"
+  },
+  {
+    "chinese": "从失败中学习是成长的一部分",
+    "english": "Learning from failure is a part of growing up",
+    "soundmark": "/'lɜrnɪŋ/ /frɑm/ /'feɪljər/ /ɪz/ /ə/ /pɑrt/ /əv/ /'ɡroʊɪŋ/ /ʌp/"
+  },
+  {
+    "chinese": "计划",
+    "english": "plan",
+    "soundmark": "/plæn/"
+  },
+  {
+    "chinese": "制定学习计划",
+    "english": "make a study plan",
+    "soundmark": "/meɪk/ /ə/ /'stʌdi/ /plæn/"
+  },
+  {
+    "chinese": "我制定了一个详细的学习计划",
+    "english": "I made a detailed study plan",
+    "soundmark": "/aɪ/ /meɪd/ /ə/ /'diteld/ /'stʌdi/ /plæn/"
+  },
+  {
+    "chinese": "一个好的学习计划能帮助你更高效地学习",
+    "english": "A good study plan can help you study more efficiently",
+    "soundmark": "/ə/ /ɡʊd/ /'stʌdi/ /plæn/ /kæn/ /hɛlp/ /ju/ /'stʌdi/ /mɔr/ /ɪ'fɪʃəntli/"
+  },
+  {
+    "chinese": "目标",
+    "english": "goal",
+    "soundmark": "/ɡoʊl/"
+  },
+  {
+    "chinese": "设定目标",
+    "english": "set a goal",
+    "soundmark": "/sɛt/ /ə/ /ɡoʊl/"
+  },
+  {
+    "chinese": "我的目标是通过四级考试",
+    "english": "My goal is to pass the CET-4 exam",
+    "soundmark": "/maɪ/ /ɡoʊl/ /ɪz/ /tə/ /pæs/ /ðə/ /sɛt-fɔr/ /ɪɡ'zæm/"
+  },
+  {
+    "chinese": "设定明确的目标是成功的第一步",
+    "english": "Setting clear goals is the first step to success",
+    "soundmark": "/'sɛtɪŋ/ /klɪr/ /ɡoʊlz/ /ɪz/ /ðə/ /fɜrst/ /stɛp/ /tu/ /sək'sɛs/"
+  },
+  {
+    "chinese": "环境",
+    "english": "environment",
+    "soundmark": "/ɪn'vaɪrənmənt/"
+  },
+  {
+    "chinese": "学习环境",
+    "english": "learning environment",
+    "soundmark": "/'lɜrnɪŋ/ /ɪn'vaɪrənmənt/"
+  },
+  {
+    "chinese": "良好的学习环境很重要",
+    "english": "A good learning environment is very important",
+    "soundmark": "/ə/ /ɡʊd/ /'lɜrnɪŋ/ /ɪn'vaɪrənmənt/ /ɪz/ /'vɛri/ /ɪm'pɔrtnt/"
+  },
+  {
+    "chinese": "图书馆是一个安静的学习环境",
+    "english": "The library is a quiet learning environment",
+    "soundmark": "/ðə/ /'laɪbrɛri/ /ɪz/ /ə/ /'kwaɪət/ /'lɜrnɪŋ/ /ɪn'vaɪrənmənt/"
+  },
+  {
+    "chinese": "经验",
+    "english": "experience",
+    "soundmark": "/ɪk'spɪriəns/"
+  },
+  {
+    "chinese": "大学生活经验",
+    "english": "university life experience",
+    "soundmark": "/ˌjunɪ'vɜrsɪti/ /laɪf/ /ɪk'spɪriəns/"
+  },
+  {
+    "chinese": "大学给了我很多宝贵的经验",
+    "english": "University gave me many valuable experiences",
+    "soundmark": "/ˌjunɪ'vɜrsɪti/ /ɡeɪv/ /mi/ /'mɛni/ /'væljuəbl/ /ɪk'spɪriənsɪz/"
+  },
+  {
+    "chinese": "参加社团活动是一种很好的学习经验",
+    "english": "Joining club activities is a great learning experience",
+    "soundmark": "/'dʒɔɪnɪŋ/ /klʌb/ /æk'tɪvɪtiz/ /ɪz/ /ə/ /ɡreɪt/ /'lɜrnɪŋ/ /ɪk'spɪriəns/"
+  },
+  {
+    "chinese": "知识",
+    "english": "knowledge",
+    "soundmark": "/'nɑlɪdʒ/"
+  },
+  {
+    "chinese": "获取知识",
+    "english": "gain knowledge",
+    "soundmark": "/ɡeɪn/ /'nɑlɪdʒ/"
+  },
+  {
+    "chinese": "大学是获取知识的重要场所",
+    "english": "University is an important place to gain knowledge",
+    "soundmark": "/ˌjunɪ'vɜrsɪti/ /ɪz/ /ən/ /ɪm'pɔrtnt/ /ples/ /tə/ /ɡeɪn/ /'nɑlɪdʒ/"
+  },
+  {
+    "chinese": "不仅获取知识还要学会做人",
+    "english": "We should not only gain knowledge but also learn to be a good person",
+    "soundmark": "/wi/ /ʃʊd/ /nɑt/ /oʊnli/ /ɡeɪn/ /'nɑlɪdʒ/ /bʌt/ /'ɔlso/ /lɜrn/ /tə/ /bi/ /ə/ /ɡʊd/ /'pɜrsən/"
+  },
+  {
+    "chinese": "机会",
+    "english": "opportunity",
+    "soundmark": "/ˌɑpər'tunɪti/"
+  },
+  {
+    "chinese": "抓住机会",
+    "english": "seize the opportunity",
+    "soundmark": "/siz/ /ðə/ /ˌɑpər'tunɪti/"
+  },
+  {
+    "chinese": "大学给我们提供了很多机会",
+    "english": "University provides us with many opportunities",
+    "soundmark": "/ˌjunɪ'vɜrsɪti/ /prə'vaɪdz/ /ʌs/ /wɪð/ /'mɛni/ /ˌɑpər'tunɪtiz/"
+  },
+  {
+    "chinese": "我们应该珍惜大学里的每一次机会",
+    "english": "We should cherish every opportunity in university",
+    "soundmark": "/wi/ /ʃʊd/ /'tʃɛrɪʃ/ /'ɛvri/ /ˌɑpər'tunɪti/ /ɪn/ /ˌjunɪ'vɜrsɪti/"
+  },
+  {
+    "chinese": "挑战",
+    "english": "challenge",
+    "soundmark": "/'tʃæləndʒ/"
+  },
+  {
+    "chinese": "面对挑战",
+    "english": "face challenges",
+    "soundmark": "/fes/ /'tʃæləndʒɪz/"
+  },
+  {
+    "chinese": "大学生活充满挑战",
+    "english": "University life is full of challenges",
+    "soundmark": "/ˌjunɪ'vɜrsɪti/ /laɪf/ /ɪz/ /fʊl/ /əv/ /'tʃæləndʒɪz/"
+  },
+  {
+    "chinese": "面对挑战并克服挑战使我们成长",
+    "english": "Facing and overcoming challenges makes us grow",
+    "soundmark": "/'fesɪŋ/ /ænd/ /ˌoʊvər'kʌmɪŋ/ /'tʃæləndʒɪz/ /meɪks/ /ʌs/ /ɡroʊ/"
+  },
+  {
+    "chinese": "独立",
+    "english": "independent",
+    "soundmark": "/ˌɪndɪ'pɛndənt/"
+  },
+  {
+    "chinese": "独立的",
+    "english": "independent",
+    "soundmark": "/ˌɪndɪ'pɛndənt/"
+  },
+  {
+    "chinese": "学会独立生活",
+    "english": "learn to live independently",
+    "soundmark": "/lɜrn/ /tə/ /lɪv/ /ˌɪndɪ'pɛndəntli/"
+  },
+  {
+    "chinese": "上大学让我学会了独立",
+    "english": "Going to university taught me to be independent",
+    "soundmark": "/'ɡoʊɪŋ/ /tu/ /ˌjunɪ'vɜrsɪti/ /tɔt/ /mi/ /tə/ /bi/ /ˌɪndɪ'pɛndənt/"
+  },
+  {
+    "chinese": "独立思考是大学最重要的技能之一",
+    "english": "Independent thinking is one of the most important skills in university",
+    "soundmark": "/ˌɪndɪ'pɛndənt/ /'θɪŋkɪŋ/ /ɪz/ /wʌn/ /əv/ /ðə/ /moʊst/ /ɪm'pɔrtnt/ /skɪlz/ /ɪn/ /ˌjunɪ'vɜrsɪti/"
+  },
+  {
+    "chinese": "合作",
+    "english": "cooperate",
+    "soundmark": "/koʊ'ɑpərˌeɪt/"
+  },
+  {
+    "chinese": "团队合作",
+    "english": "teamwork",
+    "soundmark": "/'timwɜrk/"
+  },
+  {
+    "chinese": "学会与他人合作很重要",
+    "english": "It is important to learn to cooperate with others",
+    "soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/ /tə/ /lɜrn/ /tə/ /koʊ'ɑpərˌeɪt/ /wɪð/ /'ʌðərz/"
+  },
+  {
+    "chinese": "团队合作能帮助我们更好地完成任务",
+    "english": "Teamwork can help us complete tasks better",
+    "soundmark": "/'timwɜrk/ /kæn/ /hɛlp/ /ʌs/ /kəm'plit/ /tæsks/ /'bɛtər/"
+  },
+  {
+    "chinese": "我们的团队正在合作完成一个项目",
+    "english": "Our team is working together on a project",
+    "soundmark": "/aʊr/ /tim/ /ɪz/ /'wɜrkɪŋ/ /tə'ɡɛðər/ /ɑn/ /ə/ /'prɑdʒɛkt/"
+  },
+  {
+    "chinese": "时间管理",
+    "english": "time management",
+    "soundmark": "/taɪm/ /'mænɪdʒmənt/"
+  },
+  {
+    "chinese": "管理时间",
+    "english": "manage time",
+    "soundmark": "/'mænɪdʒ/ /taɪm/"
+  },
+  {
+    "chinese": "学会管理时间很重要",
+    "english": "It is important to learn to manage time",
+    "soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/ /tə/ /lɜrn/ /tə/ /'mænɪdʒ/ /taɪm/"
+  },
+  {
+    "chinese": "好的时间管理能让你学习更高效",
+    "english": "Good time management makes your study more efficient",
+    "soundmark": "/ɡʊd/ /taɪm/ /'mænɪdʒmənt/ /meɪks/ /jɔr/ /'stʌdi/ /mɔr/ /ɪ'fɪʃənt/"
+  },
+  {
+    "chinese": "自律",
+    "english": "self-discipline",
+    "soundmark": "/sɛlf/'dɪsɪplɪn/"
+  },
+  {
+    "chinese": "大学生需要自律",
+    "english": "University students need self-discipline",
+    "soundmark": "/ˌjunɪ'vɜrsɪti/ /'studnts/ /nid/ /sɛlf/'dɪsɪplɪn/"
+  },
+  {
+    "chinese": "自律是取得成功的关键",
+    "english": "Self-discipline is the key to success",
+    "soundmark": "/sɛlf/'dɪsɪplɪn/ /ɪz/ /ðə/ /ki/ /tu/ /sək'sɛs/"
+  },
+  {
+    "chinese": "没有自律就无法坚持学习计划",
+    "english": "Without self-discipline, you cannot stick to your study plan",
+    "soundmark": "/wɪ'ðaʊt/ /sɛlf/'dɪsɪplɪn/ /ju/ /'kænɑt/ /stɪk/ /tu/ /jɔr/ /'stʌdi/ /plæn/"
+  },
+  {
+    "chinese": "建议",
+    "english": "advice",
+    "soundmark": "/əd'vaɪs/"
+  },
+  {
+    "chinese": "给建议",
+    "english": "give advice",
+    "soundmark": "/ɡɪv/ /əd'vaɪs/"
+  },
+  {
+    "chinese": "你能给我一些建议吗",
+    "english": "Can you give me some advice",
+    "soundmark": "/kæn/ /ju/ /ɡɪv/ /mi/ /sʌm/ /əd'vaɪs/"
+  },
+  {
+    "chinese": "教授建议我多阅读英文书籍",
+    "english": "The professor advised me to read more English books",
+    "soundmark": "/ðə/ /prə'fɛsər/ /əd'vaɪzd/ /mi/ /tu/ /rid/ /mɔr/ /'ɪŋglɪʃ/ /bʊks/"
+  },
+  {
+    "chinese": "鼓励",
+    "english": "encourage",
+    "soundmark": "/ɪn'kɜrɪdʒ/"
+  },
+  {
+    "chinese": "鼓励某人做某事",
+    "english": "encourage someone to do something",
+    "soundmark": "/ɪn'kɜrɪdʒ/ /'sʌmwʌn/ /tə/ /du/ /'sʌmθɪŋ/"
+  },
+  {
+    "chinese": "老师总是鼓励我们说英语",
+    "english": "The teacher always encourages us to speak English",
+    "soundmark": "/ðə/ /'titʃər/ /'ɔlweɪz/ /ɪn'kɜrɪdʒɪz/ /ʌs/ /tə/ /spik/ /'ɪŋglɪʃ/"
+  },
+  {
+    "chinese": "她的鼓励给了我很大的信心",
+    "english": "Her encouragement gave me a lot of confidence",
+    "soundmark": "/hɜr/ /ɪn'kɜrɪdʒmənt/ /ɡeɪv/ /mi/ /ə/ /lɑt/ /əv/ /'kɑnfɪdəns/"
+  },
+  {
+    "chinese": "习惯",
+    "english": "habit",
+    "soundmark": "/'hæbɪt/"
+  },
+  {
+    "chinese": "养成良好的学习习惯",
+    "english": "develop good study habits",
+    "soundmark": "/dɪ'vɛləp/ /ɡʊd/ /'stʌdi/ /'hæbɪtz/"
+  },
+  {
+    "chinese": "我养成了每天早读的习惯",
+    "english": "I developed the habit of reading aloud every morning",
+    "soundmark": "/aɪ/ /dɪ'vɛləpt/ /ðə/ /'hæbɪt/ /əv/ /'ridɪŋ/ /ə'laʊd/ /'ɛvri/ /'mɔrnɪŋ/"
+  },
+  {
+    "chinese": "好习惯能让你受益终身",
+    "english": "Good habits can benefit you for a lifetime",
+    "soundmark": "/ɡʊd/ /'hæbɪtz/ /kæn/ /'bɛnɪfɪt/ /ju/ /fɔr/ /ə/ /'laɪftaɪm/"
+  },
+  {
+    "chinese": "压力大",
+    "english": "under pressure",
+    "soundmark": "/'ʌndər/ /'prɛʃər/"
+  },
+  {
+    "chinese": "很多学生感到压力大",
+    "english": "Many students feel under pressure",
+    "soundmark": "/'mɛni/ /'studnts/ /fil/ /'ʌndər/ /'prɛʃər/"
+  },
+  {
+    "chinese": "考试前的压力很大",
+    "english": "The pressure before exams is very great",
+    "soundmark": "/ðə/ /'prɛʃər/ /bɪ'fɔr/ /ɪɡ'zæmz/ /ɪz/ /'vɛri/ /ɡreɪt/"
+  },
+  {
+    "chinese": "学会应对压力是大学生必备的技能",
+    "english": "Learning to deal with pressure is an essential skill for university students",
+    "soundmark": "/'lɜrnɪŋ/ /tə/ /dil/ /wɪð/ /'prɛʃər/ /ɪz/ /ən/ /ɪ'sɛnʃəl/ /skɪl/ /fɔr/ /ˌjunɪ'vɜrsɪti/ /'studnts/"
   }
 ]

@@ -1,0 +1,1042 @@
+[
+  {
+    "chinese": "社会",
+    "english": "society",
+    "soundmark": "/səˈsaɪəti/"
+  },
+  {
+    "chinese": "社区",
+    "english": "community",
+    "soundmark": "/kəˈmjuːnəti/"
+  },
+  {
+    "chinese": "关系",
+    "english": "relationship",
+    "soundmark": "/rɪˈleɪʃənʃɪp/"
+  },
+  {
+    "chinese": "沟通",
+    "english": "communication",
+    "soundmark": "/kəˌmjuːnɪˈkeɪʃən/"
+  },
+  {
+    "chinese": "交流",
+    "english": "interact",
+    "soundmark": "/ˌɪntərˈækt/"
+  },
+  {
+    "chinese": "现象",
+    "english": "phenomenon",
+    "soundmark": "/fɪˈnɒmɪnən/"
+  },
+  {
+    "chinese": "态度",
+    "english": "attitude",
+    "soundmark": "/ˈætɪtjuːd/"
+  },
+  {
+    "chinese": "情感",
+    "english": "emotion",
+    "soundmark": "/ɪˈməʊʃən/"
+  },
+  {
+    "chinese": "公共的",
+    "english": "public",
+    "soundmark": "/ˈpʌblɪk/"
+  },
+  {
+    "chinese": "邻居",
+    "english": "neighbor",
+    "soundmark": "/ˈneɪbər/"
+  },
+  {
+    "chinese": "友谊",
+    "english": "friendship",
+    "soundmark": "/ˈfrendʃɪp/"
+  },
+  {
+    "chinese": "合作",
+    "english": "cooperation",
+    "soundmark": "/kəʊˌɒpəˈreɪʃən/"
+  },
+  {
+    "chinese": "冲突",
+    "english": "conflict",
+    "soundmark": "/ˈkɒnflɪkt/"
+  },
+  {
+    "chinese": "解决",
+    "english": "resolve",
+    "soundmark": "/rɪˈzɒlv/"
+  },
+  {
+    "chinese": "责任",
+    "english": "responsibility",
+    "soundmark": "/rɪˌspɒnsəˈbɪləti/"
+  },
+  {
+    "chinese": "尊重",
+    "english": "respect",
+    "soundmark": "/rɪˈspekt/"
+  },
+  {
+    "chinese": "信任",
+    "english": "trust",
+    "soundmark": "/trʌst/"
+  },
+  {
+    "chinese": "理解",
+    "english": "understand",
+    "soundmark": "/ˌʌndəˈstænd/"
+  },
+  {
+    "chinese": "表达",
+    "english": "express",
+    "soundmark": "/ɪkˈspres/"
+  },
+  {
+    "chinese": "倾听",
+    "english": "listen",
+    "soundmark": "/ˈlɪsən/"
+  },
+  {
+    "chinese": "讨论",
+    "english": "discuss",
+    "soundmark": "/dɪˈskʌs/"
+  },
+  {
+    "chinese": "建议",
+    "english": "suggest",
+    "soundmark": "/səˈdʒest/"
+  },
+  {
+    "chinese": "意见",
+    "english": "opinion",
+    "soundmark": "/əˈpɪnjən/"
+  },
+  {
+    "chinese": "同意",
+    "english": "agree",
+    "soundmark": "/əˈɡriː/"
+  },
+  {
+    "chinese": "不同意",
+    "english": "disagree",
+    "soundmark": "/ˌdɪsəˈɡriː/"
+  },
+  {
+    "chinese": "抱怨",
+    "english": "complain",
+    "soundmark": "/kəmˈpleɪn/"
+  },
+  {
+    "chinese": "道歉",
+    "english": "apologize",
+    "soundmark": "/əˈpɒlədʒaɪz/"
+  },
+  {
+    "chinese": "原谅",
+    "english": "forgive",
+    "soundmark": "/fəˈɡɪv/"
+  },
+  {
+    "chinese": "支持",
+    "english": "support",
+    "soundmark": "/səˈpɔːrt/"
+  },
+  {
+    "chinese": "帮助",
+    "english": "help",
+    "soundmark": "/help/"
+  },
+  {
+    "chinese": "分享",
+    "english": "share",
+    "soundmark": "/ʃeər/"
+  },
+  {
+    "chinese": "孤独的",
+    "english": "lonely",
+    "soundmark": "/ˈləʊnli/"
+  },
+  {
+    "chinese": "快乐的",
+    "english": "happy",
+    "soundmark": "/ˈhæpi/"
+  },
+  {
+    "chinese": "悲伤的",
+    "english": "sad",
+    "soundmark": "/sæd/"
+  },
+  {
+    "chinese": "焦虑的",
+    "english": "anxious",
+    "soundmark": "/ˈæŋkʃəs/"
+  },
+  {
+    "chinese": "自信的",
+    "english": "confident",
+    "soundmark": "/ˈkɒnfɪdənt/"
+  },
+  {
+    "chinese": "耐心的",
+    "english": "patient",
+    "soundmark": "/ˈpeɪʃənt/"
+  },
+  {
+    "chinese": "诚实的",
+    "english": "honest",
+    "soundmark": "/ˈɒnɪst/"
+  },
+  {
+    "chinese": "慷慨的",
+    "english": "generous",
+    "soundmark": "/ˈdʒenərəs/"
+  },
+  {
+    "chinese": "自私的",
+    "english": "selfish",
+    "soundmark": "/ˈselfɪʃ/"
+  },
+  {
+    "chinese": "礼貌的",
+    "english": "polite",
+    "soundmark": "/pəˈlaɪt/"
+  },
+  {
+    "chinese": "粗鲁的",
+    "english": "rude",
+    "soundmark": "/ruːd/"
+  },
+  {
+    "chinese": "社会问题将被讨论。",
+    "english": "Social issues will be discussed.",
+    "soundmark": "/ˈsəʊʃəl ˈɪʃuːz wɪl biː dɪsˈkʌst/"
+  },
+  {
+    "chinese": "会议明天举行。",
+    "english": "The meeting will be held tomorrow.",
+    "soundmark": "/ðə ˈmiːtɪŋ wɪl biː held təˈmɒrəʊ/"
+  },
+  {
+    "chinese": "问题已经被解决了。",
+    "english": "The problem has been solved.",
+    "soundmark": "/ðə ˈprɒbləm həz biːn sɒlvd/"
+  },
+  {
+    "chinese": "新政策将被实施。",
+    "english": "The new policy will be implemented.",
+    "soundmark": "/ðə njuː ˈpɒləsi wɪl biː ˈɪmplɪmentɪd/"
+  },
+  {
+    "chinese": "这座桥建于1990年。",
+    "english": "The bridge was built in 1990.",
+    "soundmark": "/ðə brɪdʒ wɒz bɪlt ɪn naɪntiːn naɪnti/"
+  },
+  {
+    "chinese": "信件已被寄出。",
+    "english": "The letter has been sent.",
+    "soundmark": "/ðə ˈletər həz biːn sent/"
+  },
+  {
+    "chinese": "英语在世界各地被使用。",
+    "english": "English is spoken all over the world.",
+    "soundmark": "/ˈɪŋɡlɪʃ ɪz ˈspəʊkən ɔːl ˈəʊvər ðə wɜːld/"
+  },
+  {
+    "chinese": "窗户被打碎了。",
+    "english": "The window was broken.",
+    "soundmark": "/ðə ˈwɪndəʊ wɒz ˈbrəʊkən/"
+  },
+  {
+    "chinese": "这本书已经被翻译成了中文。",
+    "english": "The book has been translated into Chinese.",
+    "soundmark": "/ðə bʊk həz biːn trænsˈleɪtɪd ˈɪntuː tʃaɪˈniːz/"
+  },
+  {
+    "chinese": "我们应该尊重每一个人。",
+    "english": "We should respect everyone.",
+    "soundmark": "/wiː ʃʊd rɪˈspekt ˈevriwʌn/"
+  },
+  {
+    "chinese": "你必须按时完成作业。",
+    "english": "You must finish the homework on time.",
+    "soundmark": "/juː mʌst ˈfɪnɪʃ ðə ˈhəʊmwɜːk ɒn taɪm/"
+  },
+  {
+    "chinese": "你可以明天再告诉我。",
+    "english": "You can tell me tomorrow.",
+    "soundmark": "/juː kæn tel miː təˈmɒrəʊ/"
+  },
+  {
+    "chinese": "他可能会迟到。",
+    "english": "He might be late.",
+    "soundmark": "/hiː maɪt biː leɪt/"
+  },
+  {
+    "chinese": "她能说三种语言。",
+    "english": "She can speak three languages.",
+    "soundmark": "/ʃiː kæn spiːk θriː ˈlæŋɡwɪdʒɪz/"
+  },
+  {
+    "chinese": "我们可能需要更多时间。",
+    "english": "We may need more time.",
+    "soundmark": "/wiː meɪ niːd mɔːr taɪm/"
+  },
+  {
+    "chinese": "学生应该认真对待考试。",
+    "english": "Students should take exams seriously.",
+    "soundmark": "/ˈstjuːdənts ʃʊd teɪk ɪɡˈzæmz ˈsɪəriəsli/"
+  },
+  {
+    "chinese": "这个问题能被解决吗？",
+    "english": "Can this problem be solved?",
+    "soundmark": "/kæn ðɪs ˈprɒbləm biː sɒlvd/"
+  },
+  {
+    "chinese": "作业必须在周五前交。",
+    "english": "The homework must be submitted by Friday.",
+    "soundmark": "/ðə ˈhəʊmwɜːk mʌst biː səbˈmɪtɪd baɪ ˈfraɪdeɪ/"
+  },
+  {
+    "chinese": "这个问题应该被认真对待。",
+    "english": "This issue should be taken seriously.",
+    "soundmark": "/ðɪs ˈɪʃuː ʃʊd biː ˈteɪkən ˈsɪəriəsli/"
+  },
+  {
+    "chinese": "我明天将去看望我的朋友。",
+    "english": "I will visit my friend tomorrow.",
+    "soundmark": "/aɪ wɪl ˈvɪzɪt maɪ frend təˈmɒrəʊ/"
+  },
+  {
+    "chinese": "她打算下周参加社区活动。",
+    "english": "She is going to attend the community event next week.",
+    "soundmark": "/ʃiː ɪz ˈɡəʊɪŋ tuː əˈtend ðə kəˈmjuːnəti ɪˈvent nekst wiːk/"
+  },
+  {
+    "chinese": "他们将会搬到一个新城市。",
+    "english": "They are going to move to a new city.",
+    "soundmark": "/ðeɪ ɑːr ˈɡəʊɪŋ tuː muːv tuː ə njuː ˈsɪti/"
+  },
+  {
+    "chinese": "下周六这个时候，我将在图书馆学习。",
+    "english": "This time next Saturday, I will be studying in the library.",
+    "soundmark": "/ðɪs taɪm nekst ˈsætədeɪ aɪ wɪl biː ˈstʌdiɪŋ ɪn ðə ˈlaɪbrəri/"
+  },
+  {
+    "chinese": "明天的这个时候他们正在开会。",
+    "english": "They will be having a meeting at this time tomorrow.",
+    "soundmark": "/ðeɪ wɪl biː ˈhævɪŋ ə ˈmiːtɪŋ ət ðɪs taɪm təˈmɒrəʊ/"
+  },
+  {
+    "chinese": "到年底我们将完成这个项目。",
+    "english": "By the end of this year, we will have completed this project.",
+    "soundmark": "/baɪ ðiː end ɒv ðɪs jɪər wiː wɪl həv kəmˈpliːtɪd ðɪs ˈprɒdʒekt/"
+  },
+  {
+    "chinese": "到下个月她将在这里工作满五年了。",
+    "english": "By next month, she will have worked here for five years.",
+    "soundmark": "/baɪ nekst mʌnθ ʃiː wɪl həv wɜːkt hɪər fɔːr faɪv jɪərz/"
+  },
+  {
+    "chinese": "到周五他们将已经读完了这本书。",
+    "english": "By Friday, they will have finished reading the book.",
+    "soundmark": "/baɪ ˈfraɪdeɪ ðeɪ wɪl həv ˈfɪnɪʃt ˈriːdɪŋ ðə bʊk/"
+  },
+  {
+    "chinese": "我们将建立一个更好的社会。",
+    "english": "We will build a better society.",
+    "soundmark": "/wiː wɪl bɪld ə ˈbetər səˈsaɪəti/"
+  },
+  {
+    "chinese": "人际关系在生活中很重要。",
+    "english": "Interpersonal relationships are very important in life.",
+    "soundmark": "/ˌɪntərˈpɜːsənəl rɪˈleɪʃənʃɪps ɑːr ˈveri ɪmˈpɔːrtənt ɪn laɪf/"
+  },
+  {
+    "chinese": "良好的沟通能减少误解。",
+    "english": "Good communication can reduce misunderstandings.",
+    "soundmark": "/ɡʊd kəˌmjuːnɪˈkeɪʃən kæn rɪˈdjuːs ˌmɪsʌndəˈstændɪŋz/"
+  },
+  {
+    "chinese": "我们应该积极参与社区服务。",
+    "english": "We should actively participate in community service.",
+    "soundmark": "/wiː ʃʊd ˈæktɪvli pɑːrˈtɪsɪpeɪt ɪn kəˈmjuːnəti ˈsɜːrvɪs/"
+  },
+  {
+    "chinese": "朋友们应该互相帮助。",
+    "english": "Friends should help each other.",
+    "soundmark": "/frendz ʃʊd help iːtʃ ˈʌðər/"
+  },
+  {
+    "chinese": "信任是友谊的基础。",
+    "english": "Trust is the foundation of friendship.",
+    "soundmark": "/trʌst ɪz ðə faʊnˈdeɪʃən ɒv ˈfrendʃɪp/"
+  },
+  {
+    "chinese": "不同文化之间应该相互尊重。",
+    "english": "Different cultures should respect each other.",
+    "soundmark": "/ˈdɪfrənt ˈkʌltʃərz ʃʊd rɪˈspekt iːtʃ ˈʌðər/"
+  },
+  {
+    "chinese": "环境污染必须得到控制。",
+    "english": "Environmental pollution must be controlled.",
+    "soundmark": "/ɪnˌvaɪrənˈmentəl pəˈluːʃən mʌst biː kənˈtrəʊld/"
+  },
+  {
+    "chinese": "老人应该得到社会的关爱。",
+    "english": "The elderly should be cared for by society.",
+    "soundmark": "/ðiː ˈeldərli ʃʊd biː keərd fɔːr baɪ səˈsaɪəti/"
+  },
+  {
+    "chinese": "公共设施应该向所有人开放。",
+    "english": "Public facilities should be open to everyone.",
+    "soundmark": "/ˈpʌblɪk fəˈsɪlɪtiz ʃʊd biː ˈəʊpən tuː ˈevriwʌn/"
+  },
+  {
+    "chinese": "会议已经被推迟了两次。",
+    "english": "The meeting has been postponed twice.",
+    "soundmark": "/ðə ˈmiːtɪŋ həz biːn ˌpəʊstˈpəʊnd twaɪs/"
+  },
+  {
+    "chinese": "这些旧建筑将被拆除。",
+    "english": "These old buildings will be demolished.",
+    "soundmark": "/ðiːz əʊld ˈbɪldɪŋz wɪl biː dɪˈmɒlɪʃt/"
+  },
+  {
+    "chinese": "新的图书馆正在建设中。",
+    "english": "The new library is being built.",
+    "soundmark": "/ðə njuː ˈlaɪbrəri ɪz ˈbiːɪŋ bɪlt/"
+  },
+  {
+    "chinese": "孩子的教育应该得到重视。",
+    "english": "Children's education should be valued.",
+    "soundmark": "/ˈtʃɪldrənz ˌedʒʊˈkeɪʃən ʃʊd biː ˈvæljuːd/"
+  },
+  {
+    "chinese": "他被认为是最好的候选人。",
+    "english": "He is considered to be the best candidate.",
+    "soundmark": "/hiː ɪz kənˈsɪdərd tuː biː ðə best ˈkændɪdeɪt/"
+  },
+  {
+    "chinese": "这个计划已经被批准了。",
+    "english": "This plan has been approved.",
+    "soundmark": "/ðɪs plæn həz biːn əˈpruːvd/"
+  },
+  {
+    "chinese": "我可以请你帮个忙吗？",
+    "english": "Could I ask you for a favor?",
+    "soundmark": "/kʊd aɪ æsk juː fɔːr ə ˈfeɪvər/"
+  },
+  {
+    "chinese": "你应该学会倾听别人的意见。",
+    "english": "You should learn to listen to others' opinions.",
+    "soundmark": "/juː ʃʊd lɜːn tuː ˈlɪsən tuː ˈʌðərz əˈpɪnjənz/"
+  },
+  {
+    "chinese": "你能把那个递给我吗？",
+    "english": "Could you pass that to me?",
+    "soundmark": "/kʊd juː pɑːs ðæt tuː miː/"
+  },
+  {
+    "chinese": "我们可能不得不推迟旅行计划。",
+    "english": "We may have to postpone our travel plan.",
+    "soundmark": "/wiː meɪ həv tuː ˌpəʊstˈpəʊn ˈaʊər ˈtrævəl plæn/"
+  },
+  {
+    "chinese": "他一定能通过考试。",
+    "english": "He must be able to pass the exam.",
+    "soundmark": "/hiː mʌst biː ˈeɪbl tuː pɑːs ðə ɪɡˈzæm/"
+  },
+  {
+    "chinese": "你可以用任何你喜欢的方式表达自己。",
+    "english": "You can express yourself in any way you like.",
+    "soundmark": "/juː kæn ɪkˈspres jɔːrˈself ɪn ˈeni weɪ juː laɪk/"
+  },
+  {
+    "chinese": "这份报告必须在明天之前完成。",
+    "english": "This report must be finished before tomorrow.",
+    "soundmark": "/ðɪs rɪˈpɔːrt mʌst biː ˈfɪnɪʃt bɪˈfɔːr təˈmɒrəʊ/"
+  },
+  {
+    "chinese": "问题正在被调查。",
+    "english": "The problem is being investigated.",
+    "soundmark": "/ðə ˈprɒbləm ɪz ˈbiːɪŋ ɪnˈvestɪɡeɪtɪd/"
+  },
+  {
+    "chinese": "更多的公园将会被建设。",
+    "english": "More parks will be built.",
+    "soundmark": "/mɔːr pɑːrks wɪl biː bɪlt/"
+  },
+  {
+    "chinese": "损坏的道路已经被修复了。",
+    "english": "The damaged road has been repaired.",
+    "soundmark": "/ðə ˈdæmɪdʒd rəʊd həz biːn rɪˈpeərd/"
+  },
+  {
+    "chinese": "学生们的建议应该被采纳。",
+    "english": "Students' suggestions should be adopted.",
+    "soundmark": "/ˈstjuːdənts səˈdʒestʃənz ʃʊd biː əˈdɒptɪd/"
+  },
+  {
+    "chinese": "垃圾分类将被推广到全国。",
+    "english": "Garbage sorting will be promoted nationwide.",
+    "soundmark": "/ˈɡɑːrbɪdʒ ˈsɔːrtɪŋ wɪl biː prəˈməʊtɪd ˈneɪʃənwaɪd/"
+  },
+  {
+    "chinese": "志愿者活动应该在社区中组织。",
+    "english": "Volunteer activities should be organized in communities.",
+    "soundmark": "/ˌvɒlənˈtɪər ækˈtɪvɪtiz ʃʊd biː ˈɔːrɡənaɪzd ɪn kəˈmjuːnɪtiz/"
+  },
+  {
+    "chinese": "到明年我们将已经学会了一门新语言。",
+    "english": "By next year, we will have learned a new language.",
+    "soundmark": "/baɪ nekst jɪər wiː wɪl həv lɜːnt ə njuː ˈlæŋɡwɪdʒ/"
+  },
+  {
+    "chinese": "到今晚八点我将已经到达北京了。",
+    "english": "By 8 PM tonight, I will have arrived in Beijing.",
+    "soundmark": "/baɪ eɪt piː ɛm təˈnaɪt aɪ wɪl həv əˈraɪvd ɪn beɪˈdʒɪŋ/"
+  },
+  {
+    "chinese": "到毕业时我们将已经掌握了专业知识。",
+    "english": "By graduation, we will have mastered professional knowledge.",
+    "soundmark": "/baɪ ˌɡrædʒuˈeɪʃən wiː wɪl həv ˈmɑːstərd prəˈfeʃənəl ˈnɒlɪdʒ/"
+  },
+  {
+    "chinese": "到时候他将已经在公司工作了十年。",
+    "english": "By then he will have worked in the company for ten years.",
+    "soundmark": "/baɪ ðen hiː wɪl həv wɜːkt ɪn ðə ˈkʌmpəni fɔːr ten jɪərz/"
+  },
+  {
+    "chinese": "她今晚可能不会来参加聚会了。",
+    "english": "She might not come to the party tonight.",
+    "soundmark": "/ʃiː maɪt nɒt kʌm tuː ðə ˈpɑːrti təˈnaɪt/"
+  },
+  {
+    "chinese": "我们可以一起去参加社区活动。",
+    "english": "We can go to the community activity together.",
+    "soundmark": "/wiː kæn ɡəʊ tuː ðə kəˈmjuːnəti ækˈtɪvɪti təˈɡeðər/"
+  },
+  {
+    "chinese": "每个人都应该为保护环境做出贡献。",
+    "english": "Everyone should make a contribution to protecting the environment.",
+    "soundmark": "/ˈevriwʌn ʃʊd meɪk ə ˌkɒntrɪˈbjuːʃən tuː prəˈtektɪŋ ðiː ɪnˈvaɪrənmənt/"
+  },
+  {
+    "chinese": "社会在不断进步。",
+    "english": "Society is constantly progressing.",
+    "soundmark": "/səˈsaɪəti ɪz ˈkɒnstəntli prəˈɡresɪŋ/"
+  },
+  {
+    "chinese": "人们越来越关注健康问题。",
+    "english": "People are paying more and more attention to health issues.",
+    "soundmark": "/ˈpiːpl ɑːr ˈpeɪɪŋ mɔːr ænd mɔːr əˈtenʃən tuː helθ ˈɪʃuːz/"
+  },
+  {
+    "chinese": "城市化带来了许多社会问题。",
+    "english": "Urbanization has brought many social problems.",
+    "soundmark": "/ˌɜːrbənaɪˈzeɪʃən həz brɔːt ˈmeni ˈsəʊʃəl ˈprɒbləmz/"
+  },
+  {
+    "chinese": "青少年沉迷手机是一个严重的社会现象。",
+    "english": "Teenagers' addiction to smartphones is a serious social phenomenon.",
+    "soundmark": "/ˈtiːneɪdʒərz əˈdɪkʃən tuː ˈsmɑːrtfəʊnz ɪz ə ˈsɪəriəs ˈsəʊʃəl fɪˈnɒmɪnən/"
+  },
+  {
+    "chinese": "网络欺凌应该受到严厉惩罚。",
+    "english": "Cyberbullying should be severely punished.",
+    "soundmark": "/ˈsaɪbərˌbʊliɪŋ ʃʊd biː sɪˈvɪərli ˈpʌnɪʃt/"
+  },
+  {
+    "chinese": "贫富差距需要缩小。",
+    "english": "The gap between the rich and the poor needs to be narrowed.",
+    "soundmark": "/ðə ɡæp bɪˈtwiːn ðə rɪtʃ ænd ðə pʊər niːdz tuː biː ˈnærəʊd/"
+  },
+  {
+    "chinese": "人们应该多花时间陪伴家人。",
+    "english": "People should spend more time with their families.",
+    "soundmark": "/ˈpiːpl ʃʊd spend mɔːr taɪm wɪð ðeər ˈfæmɪliz/"
+  },
+  {
+    "chinese": "邻里之间应该和睦相处。",
+    "english": "Neighbors should live in harmony with each other.",
+    "soundmark": "/ˈneɪbərz ʃʊd lɪv ɪn ˈhɑːrməni wɪð iːtʃ ˈʌðər/"
+  },
+  {
+    "chinese": "公共场合不应该大声喧哗。",
+    "english": "People should not make loud noises in public places.",
+    "soundmark": "/ˈpiːpl ʃʊd nɒt meɪk laʊd ˈnɔɪzɪz ɪn ˈpʌblɪk ˈpleɪsɪz/"
+  },
+  {
+    "chinese": "志愿者活动正在社区中展开。",
+    "english": "Volunteer activities are being carried out in the community.",
+    "soundmark": "/ˌvɒlənˈtɪər ækˈtɪvɪtiz ɑːr ˈbiːɪŋ ˈkærid aʊt ɪn ðə kəˈmjuːnəti/"
+  },
+  {
+    "chinese": "新的交通法规已经被实施了。",
+    "english": "New traffic regulations have been implemented.",
+    "soundmark": "/njuː ˈtræfɪk ˌreɡjuˈleɪʃənz həv biːn ˈɪmplɪmentɪd/"
+  },
+  {
+    "chinese": "老年人将在未来得到更好的照顾。",
+    "english": "The elderly will be better cared for in the future.",
+    "soundmark": "/ðiː ˈeldərli wɪl biː ˈbetər keərd fɔːr ɪn ðə ˈfjuːtʃər/"
+  },
+  {
+    "chinese": "我们应该拥抱多元化的社会。",
+    "english": "We should embrace a diverse society.",
+    "soundmark": "/wiː ʃʊd ɪmˈbreɪs ə daɪˈvɜːrs səˈsaɪəti/"
+  },
+  {
+    "chinese": "很多传统习俗正在逐渐消失。",
+    "english": "Many traditional customs are gradually disappearing.",
+    "soundmark": "/ˈmeni trəˈdɪʃənəl ˈkʌstəmz ɑːr ˈɡrædʒuəli ˌdɪsəˈpɪərɪŋ/"
+  },
+  {
+    "chinese": "社交媒体改变了人们的交流方式。",
+    "english": "Social media has changed the way people communicate.",
+    "soundmark": "/ˈsəʊʃəl ˈmiːdiə həz tʃeɪndʒd ðə weɪ ˈpiːpl kəˈmjuːnɪkeɪt/"
+  },
+  {
+    "chinese": "快节奏的生活让很多人感到焦虑。",
+    "english": "The fast-paced life makes many people feel anxious.",
+    "soundmark": "/ðə fɑːst-peɪst laɪf meɪks ˈmeni ˈpiːpl fiːl ˈæŋkʃəs/"
+  },
+  {
+    "chinese": "合作比竞争更能促进社会进步。",
+    "english": "Cooperation promotes social progress more than competition.",
+    "soundmark": "/kəʊˌɒpəˈreɪʃən prəˈməʊts ˈsəʊʃəl ˈprɒɡres mɔːr ðæn ˌkɒmpəˈtɪʃən/"
+  },
+  {
+    "chinese": "人们对公共事务的参与度在提高。",
+    "english": "People's participation in public affairs is increasing.",
+    "soundmark": "/ˈpiːplz pɑːrˌtɪsɪˈpeɪʃən ɪn ˈpʌblɪk əˈfeərz ɪz ɪnˈkriːsɪŋ/"
+  },
+  {
+    "chinese": "每个人都可以为社区做出贡献。",
+    "english": "Everyone can make a contribution to the community.",
+    "soundmark": "/ˈevriwʌn kæn meɪk ə ˌkɒntrɪˈbjuːʃən tuː ðə kəˈmjuːnəti/"
+  },
+  {
+    "chinese": "我们应该关注弱势群体。",
+    "english": "We should pay attention to disadvantaged groups.",
+    "soundmark": "/wiː ʃʊd peɪ əˈtenʃən tuː ˌdɪsədˈvɑːntɪdʒd ɡruːps/"
+  },
+  {
+    "chinese": "说实话是一种美德。",
+    "english": "Telling the truth is a virtue.",
+    "soundmark": "/ˈtelɪŋ ðə truːθ ɪz ə ˈvɜːrtʃuː/"
+  },
+  {
+    "chinese": "道歉并不表示软弱。",
+    "english": "Apologizing does not mean being weak.",
+    "soundmark": "/əˈpɒlədʒaɪzɪŋ dʌz nɒt miːn ˈbiːɪŋ wiːk/"
+  },
+  {
+    "chinese": "真正的朋友会在困难时支持你。",
+    "english": "A true friend will support you in difficult times.",
+    "soundmark": "/ə truː frend wɪl səˈpɔːrt juː ɪn ˈdɪfɪkəlt taɪmz/"
+  },
+  {
+    "chinese": "我们应该学会控制自己的情绪。",
+    "english": "We should learn to control our emotions.",
+    "soundmark": "/wiː ʃʊd lɜːn tuː kənˈtrəʊl ˈaʊər ɪˈməʊʃənz/"
+  },
+  {
+    "chinese": "有效沟通需要倾听和表达并重。",
+    "english": "Effective communication requires both listening and expressing.",
+    "soundmark": "/ɪˈfektɪv kəˌmjuːnɪˈkeɪʃən rɪˈkwaɪərz bəʊθ ˈlɪsənɪŋ ænd ɪkˈspresɪŋ/"
+  },
+  {
+    "chinese": "误解可以通过坦诚的对话来消除。",
+    "english": "Misunderstandings can be eliminated through honest dialogue.",
+    "soundmark": "/ˌmɪsʌndəˈstændɪŋz kæn biː ɪˈlɪmɪneɪtɪd θruː ˈɒnɪst ˈdaɪəlɒɡ/"
+  },
+  {
+    "chinese": "我们应该对不同观点保持开放的态度。",
+    "english": "We should keep an open mind toward different viewpoints.",
+    "soundmark": "/wiː ʃʊd kiːp ən əʊpən maɪnd təˈwɔːrd ˈdɪfrənt ˈvjuːpɔɪnts/"
+  },
+  {
+    "chinese": "冲突可以通过协商来解决。",
+    "english": "Conflicts can be resolved through negotiation.",
+    "soundmark": "/ˈkɒnflɪkts kæn biː rɪˈzɒlvd θruː nɪˌɡəʊʃiˈeɪʃən/"
+  },
+  {
+    "chinese": "团队合作精神在现代社会中非常重要。",
+    "english": "Teamwork spirit is very important in modern society.",
+    "soundmark": "/ˈtiːmwɜːrk ˈspɪrɪt ɪz ˈveri ɪmˈpɔːrtənt ɪn ˈmɒdərn səˈsaɪəti/"
+  },
+  {
+    "chinese": "社区服务能增强人们的社会责任感。",
+    "english": "Community service can strengthen people's sense of social responsibility.",
+    "soundmark": "/kəˈmjuːnəti ˈsɜːrvɪs kæn ˈstreŋθən ˈpiːplz sens ɒv ˈsəʊʃəl rɪˌspɒnsəˈbɪləti/"
+  },
+  {
+    "chinese": "青年人将承担起建设社会的重任。",
+    "english": "Young people will take on the important task of building society.",
+    "soundmark": "/jʌŋ ˈpiːpl wɪl teɪk ɒn ðiː ɪmˈpɔːrtənt tɑːsk ɒv ˈbɪldɪŋ səˈsaɪəti/"
+  },
+  {
+    "chinese": "他下周将正在准备期末考试。",
+    "english": "He will be preparing for his final exams next week.",
+    "soundmark": "/hiː wɪl biː prɪˈpeərɪŋ fɔːr hɪz ˈfaɪnəl ɪɡˈzæmz nekst wiːk/"
+  },
+  {
+    "chinese": "到2027年这座城市将变得更加现代化。",
+    "english": "By 2027, this city will have become more modernized.",
+    "soundmark": "/baɪ tuː θaʊzənd ænd twentiː seven ðɪs ˈsɪti wɪl həv bɪˈkʌm mɔːr ˈmɒdərnaɪzd/"
+  },
+  {
+    "chinese": "浪费食物是不被社会接受的行为。",
+    "english": "Wasting food is not accepted by society.",
+    "soundmark": "/ˈweɪstɪŋ fuːd ɪz nɒt əkˈseptɪd baɪ səˈsaɪəti/"
+  },
+  {
+    "chinese": "慈善活动将在下个月举行。",
+    "english": "The charity event will be held next month.",
+    "soundmark": "/ðə ˈtʃærɪti ɪˈvent wɪl biː held nekst mʌnθ/"
+  },
+  {
+    "chinese": "这个社会问题亟待解决。",
+    "english": "This social problem urgently needs to be solved.",
+    "soundmark": "/ðɪs ˈsəʊʃəl ˈprɒbləm ˈɜːrdʒəntli niːdz tuː biː sɒlvd/"
+  },
+  {
+    "chinese": "文化遗产应该被保护和传承。",
+    "english": "Cultural heritage should be protected and passed on.",
+    "soundmark": "/ˈkʌltʃərəl ˈherɪtɪdʒ ʃʊd biː prəˈtektɪd ænd pɑːst ɒn/"
+  },
+  {
+    "chinese": "越来越多的年轻人愿意参与志愿服务。",
+    "english": "More and more young people are willing to participate in volunteer service.",
+    "soundmark": "/mɔːr ænd mɔːr jʌŋ ˈpiːpl ɑːr ˈwɪlɪŋ tuː pɑːrˈtɪsɪpeɪt ɪn ˌvɒlənˈtɪər ˈsɜːrvɪs/"
+  },
+  {
+    "chinese": "公共安全教育应该从小开始。",
+    "english": "Public safety education should start from childhood.",
+    "soundmark": "/ˈpʌblɪk ˈseɪfti ˌedʒʊˈkeɪʃən ʃʊd stɑːrt frɒm ˈtʃaɪldhʊd/"
+  },
+  {
+    "chinese": "这项研究已经被发表在国际期刊上。",
+    "english": "This research has been published in an international journal.",
+    "soundmark": "/ðɪs rɪˈsɜːrtʃ həz biːn ˈpʌblɪʃt ɪn æn ˌɪntərˈnæʃənəl ˈdʒɜːrnəl/"
+  },
+  {
+    "chinese": "社交媒体上的信息不一定都是真实的。",
+    "english": "Not all information on social media is necessarily true.",
+    "soundmark": "/nɒt ɔːl ˌɪnfərˈmeɪʃən ɒn ˈsəʊʃəl ˈmiːdiə ɪz ˌnesəˈserəli truː/"
+  },
+  {
+    "chinese": "我们应该对陌生人保持友善。",
+    "english": "We should be friendly to strangers.",
+    "soundmark": "/wiː ʃʊd biː ˈfrendli tuː ˈstreɪndʒərz/"
+  },
+  {
+    "chinese": "节日是家人团聚的好时机。",
+    "english": "Festivals are great occasions for family reunions.",
+    "soundmark": "/ˈfestɪvəlz ɑːr ɡreɪt əˈkeɪʒənz fɔːr ˈfæmɪli riːˈjuːnjənz/"
+  },
+  {
+    "chinese": "每个人都有表达自己想法的权利。",
+    "english": "Everyone has the right to express their own ideas.",
+    "soundmark": "/ˈevriwʌn həz ðə raɪt tuː ɪkˈspres ðeər əʊn aɪˈdɪəz/"
+  },
+  {
+    "chinese": "家庭是社会的基本单位。",
+    "english": "The family is the basic unit of society.",
+    "soundmark": "/ðə ˈfæmɪli ɪz ðə ˈbeɪsɪk ˈjuːnɪt ɒv səˈsaɪəti/"
+  },
+  {
+    "chinese": "我们即将迎来一个新时代。",
+    "english": "We are about to enter a new era.",
+    "soundmark": "/wiː ɑːr əˈbaʊt tuː ˈentər ə njuː ˈɪərə/"
+  },
+  {
+    "chinese": "人们的生活水平将会不断提高。",
+    "english": "People's living standards will continue to improve.",
+    "soundmark": "/ˈpiːplz ˈlɪvɪŋ ˈstændərdz wɪl kənˈtɪnjuː tuː ɪmˈpruːv/"
+  },
+  {
+    "chinese": "这个建议已经被大多数学生接受了。",
+    "english": "This suggestion has been accepted by most students.",
+    "soundmark": "/ðɪs səˈdʒestʃən həz biːn əkˈseptɪd baɪ məʊst ˈstjuːdənts/"
+  },
+  {
+    "chinese": "我们可以通过对话来增进理解。",
+    "english": "We can improve understanding through dialogue.",
+    "soundmark": "/wiː kæn ɪmˈpruːv ˌʌndəˈstændɪŋ θruː ˈdaɪəlɒɡ/"
+  },
+  {
+    "chinese": "邻里互助是社区和谐的关键。",
+    "english": "Neighborhood mutual aid is the key to community harmony.",
+    "soundmark": "/ˈneɪbəhʊd ˈmjuːtʃuəl eɪd ɪz ðə kiː tuː kəˈmjuːnəti ˈhɑːrməni/"
+  },
+  {
+    "chinese": "每个人都能为社会做出自己的贡献。",
+    "english": "Everyone can make their own contribution to society.",
+    "soundmark": "/ˈevriwʌn kæn meɪk ðeər əʊn ˌkɒntrɪˈbjuːʃən tuː səˈsaɪəti/"
+  },
+  {
+    "chinese": "我们需要建立一个更加包容的社会。",
+    "english": "We need to build a more inclusive society.",
+    "soundmark": "/wiː niːd tuː bɪld ə mɔːr ɪnˈkluːsɪv səˈsaɪəti/"
+  },
+  {
+    "chinese": "这项政策明年将会在全国范围内实施。",
+    "english": "This policy will be implemented nationwide next year.",
+    "soundmark": "/ðɪs ˈpɒləsi wɪl biː ˈɪmplɪmentɪd ˈneɪʃənwaɪd nekst jɪər/"
+  },
+  {
+    "chinese": "社区中心已经为居民提供了各种服务。",
+    "english": "The community center has provided various services for residents.",
+    "soundmark": "/ðə kəˈmjuːnəti ˈsentər həz prəˈvaɪdɪd ˈveəriəs ˈsɜːrvɪsɪz fɔːr ˈrezɪdənts/"
+  },
+  {
+    "chinese": "垃圾分类的做法正在被越来越多的人接受。",
+    "english": "Garbage sorting is being accepted by more and more people.",
+    "soundmark": "/ˈɡɑːrbɪdʒ ˈsɔːrtɪŋ ɪz ˈbiːɪŋ əkˈseptɪd baɪ mɔːr ænd mɔːr ˈpiːpl/"
+  },
+  {
+    "chinese": "他可能会在晚会上发表演讲。",
+    "english": "He might give a speech at the party.",
+    "soundmark": "/hiː maɪt ɡɪv ə spiːtʃ ət ðə ˈpɑːrti/"
+  },
+  {
+    "chinese": "所有的申请表必须在截止日期前提交。",
+    "english": "All application forms must be submitted before the deadline.",
+    "soundmark": "/ɔːl ˌæplɪˈkeɪʃən fɔːrmz mʌst biː səbˈmɪtɪd bɪˈfɔːr ðə ˈdedlaɪn/"
+  },
+  {
+    "chinese": "这个项目到年底将已经完成了第一阶段。",
+    "english": "By the end of the year, the first phase of this project will have been completed.",
+    "soundmark": "/baɪ ðiː end ɒv ðə jɪər ðə fɜːrst feɪz ɒv ðɪs ˈprɒdʒekt wɪl həv biːn kəmˈpliːtɪd/"
+  },
+  {
+    "chinese": "社会保障体系将会进一步完善。",
+    "english": "The social security system will be further improved.",
+    "soundmark": "/ðə ˈsəʊʃəl sɪˈkjʊərɪti ˈsɪstəm wɪl biː ˈfɜːrðər ɪmˈpruːvd/"
+  },
+  {
+    "chinese": "他将来可能成为一名社会工作者。",
+    "english": "He might become a social worker in the future.",
+    "soundmark": "/hiː maɪt bɪˈkʌm ə ˈsəʊʃəl ˈwɜːrkər ɪn ðə ˈfjuːtʃər/"
+  },
+  {
+    "chinese": "公共场所的吸烟行为应该被禁止。",
+    "english": "Smoking in public places should be banned.",
+    "soundmark": "/ˈsməʊkɪŋ ɪn ˈpʌblɪk ˈpleɪsɪz ʃʊd biː bænd/"
+  },
+  {
+    "chinese": "公共交通系统需要不断改善。",
+    "english": "The public transportation system needs to be continuously improved.",
+    "soundmark": "/ðə ˈpʌblɪk ˌtrænspɔːrˈteɪʃən ˈsɪstəm niːdz tuː biː kənˈtɪnjuəsli ɪmˈpruːvd/"
+  },
+  {
+    "chinese": "到2030年中国将已经建成了生态文明。",
+    "english": "By 2030, China will have built an ecological civilization.",
+    "soundmark": "/baɪ θɜːrtiː θɑːrtiː ˈtʃaɪnə wɪl həv bɪlt ən ˌiːkəˈlɒdʒɪkəl ˌsɪvɪlaɪˈzeɪʃən/"
+  },
+  {
+    "chinese": "很多社会问题可以通过教育来缓解。",
+    "english": "Many social problems can be alleviated through education.",
+    "soundmark": "/ˈmeni ˈsəʊʃəl ˈprɒbləmz kæn biː əˈliːvieɪtɪd θruː ˌedʒʊˈkeɪʃən/"
+  },
+  {
+    "chinese": "良好的社会秩序需要每个人的努力。",
+    "english": "A good social order requires everyone's effort.",
+    "soundmark": "/ə ɡʊd ˈsəʊʃəl ˈɔːrdər rɪˈkwaɪərz ˈevriwʌnz ˈefərt/"
+  },
+  {
+    "chinese": "他的建议已经被委员会采纳了。",
+    "english": "His suggestion has been adopted by the committee.",
+    "soundmark": "/hɪz səˈdʒestʃən həz biːn əˈdɒptɪd baɪ ðə kəˈmɪti/"
+  },
+  {
+    "chinese": "我们应该鼓励年轻人参与公共事务。",
+    "english": "We should encourage young people to participate in public affairs.",
+    "soundmark": "/wiː ʃʊd ɪnˈkʌrɪdʒ jʌŋ ˈpiːpl tuː pɑːrˈtɪsɪpeɪt ɪn ˈpʌblɪk əˈfeərz/"
+  },
+  {
+    "chinese": "尊重差异是和谐社会的基础。",
+    "english": "Respecting differences is the foundation of a harmonious society.",
+    "soundmark": "/rɪˈspektɪŋ ˈdɪfrənsɪz ɪz ðə faʊnˈdeɪʃən ɒv ə hɑːrˈməʊniəs səˈsaɪəti/"
+  },
+  {
+    "chinese": "科技的进步正在改变我们的生活方式。",
+    "english": "Technological progress is changing our way of life.",
+    "soundmark": "/ˌteknəˈlɒdʒɪkəl ˈprɒɡres ɪz ˈtʃeɪndʒɪŋ ˈaʊər weɪ ɒv laɪf/"
+  },
+  {
+    "chinese": "我们可以通过运动来缓解压力。",
+    "english": "We can relieve stress through exercise.",
+    "soundmark": "/wiː kæn rɪˈliːv stres θruː ˈeksərsaɪz/"
+  },
+  {
+    "chinese": "每个人都有追求幸福的权利。",
+    "english": "Everyone has the right to pursue happiness.",
+    "soundmark": "/ˈevriwʌn həz ðə raɪt tuː pəˈsjuːt ˈhæpɪnəs/"
+  },
+  {
+    "chinese": "到下周五我们将会完成所有的准备工作。",
+    "english": "By next Friday, we will have finished all the preparations.",
+    "soundmark": "/baɪ nekst ˈfraɪdeɪ wiː wɪl həv ˈfɪnɪʃt ɔːl ðə ˌprepəˈreɪʃənz/"
+  },
+  {
+    "chinese": "这次活动的详细安排将在明天公布。",
+    "english": "Detailed arrangements for this event will be announced tomorrow.",
+    "soundmark": "/ˈdiːteɪld əˈreɪndʒmənts fɔːr ðɪs ɪˈvent wɪl biː əˈnaʊnst təˈmɒrəʊ/"
+  },
+  {
+    "chinese": "你明天这个时候将会在做什么？",
+    "english": "What will you be doing at this time tomorrow?",
+    "soundmark": "/wɒt wɪl juː biː ˈduːɪŋ ət ðɪs taɪm təˈmɒrəʊ/"
+  },
+  {
+    "chinese": "他们现在应该已经到达机场了。",
+    "english": "They should have arrived at the airport by now.",
+    "soundmark": "/ðeɪ ʃʊd həv əˈraɪvd ət ðiː ˈeərpɔːrt baɪ naʊ/"
+  },
+  {
+    "chinese": "志愿者们的贡献不应该被忽视。",
+    "english": "The contributions of volunteers should not be ignored.",
+    "soundmark": "/ðə ˌkɒntrɪˈbjuːʃənz ɒv ˌvɒlənˈtɪərz ʃʊd nɒt biː ɪɡˈnɔːrd/"
+  },
+  {
+    "chinese": "我们必须珍惜身边每一个人。",
+    "english": "We must cherish everyone around us.",
+    "soundmark": "/wiː mʌst ˈtʃerɪʃ ˈevriwʌn əˈraʊnd ʌs/"
+  },
+  {
+    "chinese": "社区花园为居民提供了一个休闲的场所。",
+    "english": "The community garden provides a relaxing place for residents.",
+    "soundmark": "/ðə kəˈmjuːnəti ˈɡɑːrdən prəˈvaɪdz ə rɪˈlæksɪŋ pleɪs fɔːr ˈrezɪdənts/"
+  },
+  {
+    "chinese": "人与人之间的信任需要时间来建立。",
+    "english": "Trust between people takes time to build.",
+    "soundmark": "/trʌst bɪˈtwiːn ˈpiːpl teɪks taɪm tuː bɪld/"
+  },
+  {
+    "chinese": "我们可以从中吸取宝贵的经验教训。",
+    "english": "We can learn valuable lessons from this experience.",
+    "soundmark": "/wiː kæn lɜːn ˈvæljuəbl ˈlesənz frɒm ðɪs ɪkˈspɪəriəns/"
+  },
+  {
+    "chinese": "学会欣赏别人是一种重要的社交技能。",
+    "english": "Learning to appreciate others is an important social skill.",
+    "soundmark": "/ˈlɜːnɪŋ tuː əˈpriːʃieɪt ˈʌðərz ɪz ən ɪmˈpɔːrtənt ˈsəʊʃəl skɪl/"
+  },
+  {
+    "chinese": "这次会议的结果将会在下周一公布。",
+    "english": "The results of the meeting will be announced next Monday.",
+    "soundmark": "/ðə rɪˈzʌlts ɒv ðə ˈmiːtɪŋ wɪl biː əˈnaʊnst nekst ˈmʌndeɪ/"
+  },
+  {
+    "chinese": "社区中老年人和年轻人之间的沟通有待加强。",
+    "english": "Communication between the elderly and young people in the community needs to be strengthened.",
+    "soundmark": "/kəˌmjuːnɪˈkeɪʃən bɪˈtwiːn ðiː ˈeldərli ænd jʌŋ ˈpiːpl ɪn ðə kəˈmjuːnəti niːdz tuː biː ˈstreŋθənd/"
+  },
+  {
+    "chinese": "他不可能忘记这么重要的事情。",
+    "english": "He could not have forgotten such an important matter.",
+    "soundmark": "/hiː kʊd nɒt həv fərˈɡɒtn sʌtʃ ən ən ɪmˈpɔːrtənt ˈmætər/"
+  },
+  {
+    "chinese": "我们正在为即将到来的活动做准备。",
+    "english": "We are preparing for the upcoming event.",
+    "soundmark": "/wiː ɑːr prɪˈpeərɪŋ fɔːr ðiː ˈʌpkʌmɪŋ ɪˈvent/"
+  },
+  {
+    "chinese": "公共图书馆为人们提供了免费的学习资源。",
+    "english": "Public libraries provide free learning resources for people.",
+    "soundmark": "/ˈpʌblɪk ˈlaɪbrəriz prəˈvaɪd friː ˈlɜːnɪŋ rɪˈsɔːrsɪz fɔːr ˈpiːpl/"
+  },
+  {
+    "chinese": "邻里间的矛盾可以通过调解来解决。",
+    "english": "Neighborhood disputes can be resolved through mediation.",
+    "soundmark": "/ˈneɪbəhʊd dɪˈspjuːts kæn biː rɪˈzɒlvd θruː ˌmiːdiˈeɪʃən/"
+  },
+  {
+    "chinese": "到2030年我国将已经基本实现现代化。",
+    "english": "By 2030, our country will have basically achieved modernization.",
+    "soundmark": "/baɪ θɜːrtiː θɑːrtiː ˈaʊər ˈkʌntri wɪl həv ˈbeɪsɪkəli əˈtʃiːvd ˌmɒdərnaɪˈzeɪʃən/"
+  },
+  {
+    "chinese": "你本应该更早告诉我的。",
+    "english": "You should have told me earlier.",
+    "soundmark": "/juː ʃʊd həv təʊld miː ˈɜːrliər/"
+  },
+  {
+    "chinese": "这些传统手工艺应该被传承下去。",
+    "english": "These traditional handicrafts should be passed down.",
+    "soundmark": "/ðiːz trəˈdɪʃənəl ˈhændikrɑːfts ʃʊd biː pɑːst daʊn/"
+  },
+  {
+    "chinese": "他可能会在这次比赛中获得一等奖。",
+    "english": "He might win first prize in this competition.",
+    "soundmark": "/hiː maɪt wɪn fɜːrst praɪz ɪn ðɪs ˌkɒmpəˈtɪʃən/"
+  },
+  {
+    "chinese": "今晚他们将在家里举办一个小型聚会。",
+    "english": "They will be hosting a small gathering at home tonight.",
+    "soundmark": "/ðeɪ wɪl biː ˈhəʊstɪŋ ə smɔːl ˈɡæðərɪŋ ət həʊm təˈnaɪt/"
+  },
+  {
+    "chinese": "社会公平正义需要每个人的维护。",
+    "english": "Social fairness and justice need to be maintained by everyone.",
+    "soundmark": "/ˈsəʊʃəl ˈfeərnəs ænd ˈdʒʌstɪs niːd tuː biː meɪnˈteɪnd baɪ ˈevriwʌn/"
+  },
+  {
+    "chinese": "我们对未来的社会充满希望。",
+    "english": "We are full of hope for the future of society.",
+    "soundmark": "/wiː ɑːr fʊl ɒv həʊp fɔːr ðə ˈfjuːtʃər ɒv səˈsaɪəti/"
+  },
+  {
+    "chinese": "这些珍贵的历史文物应该被妥善保护。",
+    "english": "These precious historical relics should be properly protected.",
+    "soundmark": "/ðiːz ˈpreʃəs hɪˈstɒrɪkəl ˈrelɪks ʃʊd biː ˈprɒpərli prəˈtektɪd/"
+  },
+  {
+    "chinese": "我们必须学会与不同文化背景的人相处。",
+    "english": "We must learn to get along with people from different cultural backgrounds.",
+    "soundmark": "/wiː mʌst lɜːn tuː ɡet əˈlɒŋ wɪð ˈpiːpl frɒm ˈdɪfrənt ˈkʌltʃərəl ˈbækɡraʊndz/"
+  },
+  {
+    "chinese": "到下个月他们将已经归还了所有的借阅书籍。",
+    "english": "By next month, they will have returned all the borrowed books.",
+    "soundmark": "/baɪ nekst mʌnθ ðeɪ wɪl həv rɪˈtɜːrnd ɔːl ðə ˈbɒrəʊd bʊks/"
+  },
+  {
+    "chinese": "志愿服务精神值得在全社会弘扬。",
+    "english": "The spirit of volunteer service is worth promoting throughout society.",
+    "soundmark": "/ðə ˈspɪrɪt ɒv ˌvɒlənˈtɪər ˈsɜːrvɪs ɪz wɜːθ prəˈməʊtɪŋ θruːˈaʊt səˈsaɪəti/"
+  },
+  {
+    "chinese": "社区疫苗接种工作已经被顺利完成了。",
+    "english": "The community vaccination work has been successfully completed.",
+    "soundmark": "/ðə kəˈmjuːnəti ˌvæksɪˈneɪʃən wɜːrk həz biːn səkˈsesfəli kəmˈpliːtɪd/"
+  },
+  {
+    "chinese": "人际关系中的信任一旦破裂就很难修复。",
+    "english": "Once trust is broken in a relationship, it is hard to repair.",
+    "soundmark": "/wʌns trʌst ɪz ˈbrəʊkən ɪn ə rɪˈleɪʃənʃɪp ɪt ɪz hɑːrd tuː rɪˈpeər/"
+  },
+  {
+    "chinese": "我们应当学会用理性的方式处理矛盾。",
+    "english": "We should learn to handle conflicts in a rational way.",
+    "soundmark": "/wiː ʃʊd lɜːn tuː ˈhændl ˈkɒnflɪkts ɪn ə ˈræʃənəl weɪ/"
+  },
+  {
+    "chinese": "这个社区已经被评选为全国文明社区。",
+    "english": "This community has been selected as a national civilized community.",
+    "soundmark": "/ðɪs kəˈmjuːnəti həz biːn sɪˈlektɪd əz ə ˈnæʃənəl ˈsɪvɪlaɪzd kəˈmjuːnəti/"
+  },
+  {
+    "chinese": "到毕业的时候我们将已经积累了丰富的社会经验。",
+    "english": "By graduation, we will have accumulated rich social experience.",
+    "soundmark": "/baɪ ˌɡrædʒuˈeɪʃən wiː wɪl həv əˈkjuːmjuleɪtɪd rɪtʃ ˈsəʊʃəl ɪkˈspɪəriəns/"
+  }
+]

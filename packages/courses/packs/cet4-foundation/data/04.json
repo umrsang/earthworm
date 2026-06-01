@@ -1,0 +1,720 @@
+[
+  { "chinese": "科学", "english": "science", "soundmark": "/ˈsaɪəns/" },
+  { "chinese": "技术", "english": "technology", "soundmark": "/tekˈnɒlədʒi/" },
+  { "chinese": "创新", "english": "innovation", "soundmark": "/ˌɪnəˈveɪʃn/" },
+  { "chinese": "发明", "english": "invention", "soundmark": "/ɪnˈvenʃn/" },
+  { "chinese": "互联网", "english": "internet", "soundmark": "/ˈɪntənet/" },
+  { "chinese": "数据", "english": "data", "soundmark": "/ˈdeɪtə/" },
+  { "chinese": "研究", "english": "research", "soundmark": "/rɪˈsɜːtʃ/" },
+  { "chinese": "实验", "english": "experiment", "soundmark": "/ɪkˈsperɪmənt/" },
+  {
+    "chinese": "人工智能",
+    "english": "artificial intelligence",
+    "soundmark": "/ˌɑːtɪfɪʃl ɪnˈtelɪdʒəns/"
+  },
+  { "chinese": "信息", "english": "information", "soundmark": "/ˌɪnfəˈmeɪʃn/" },
+  { "chinese": "通信", "english": "communication", "soundmark": "/kəˌmjuːnɪˈkeɪʃn/" },
+  { "chinese": "网络", "english": "network", "soundmark": "/ˈnetwɜːk/" },
+  { "chinese": "软件", "english": "software", "soundmark": "/ˈsɒftweə/" },
+  { "chinese": "硬件", "english": "hardware", "soundmark": "/ˈhɑːdweə/" },
+  { "chinese": "系统", "english": "system", "soundmark": "/ˈsɪstəm/" },
+  { "chinese": "数字化的", "english": "digital", "soundmark": "/ˈdɪdʒɪtl/" },
+  { "chinese": "自动化的", "english": "automatic", "soundmark": "/ˌɔːtəˈmætɪk/" },
+  { "chinese": "智能的", "english": "intelligent", "soundmark": "/ɪnˈtelɪdʒənt/" },
+  { "chinese": "效率", "english": "efficiency", "soundmark": "/ɪˈfɪʃnsi/" },
+  { "chinese": "发展", "english": "development", "soundmark": "/dɪˈveləpmənt/" },
+  { "chinese": "进步", "english": "progress", "soundmark": "/ˈprɒɡres/" },
+  { "chinese": "革命性的", "english": "revolutionary", "soundmark": "/ˌrevəˈluːʃənəri/" },
+  { "chinese": "显著的", "english": "significant", "soundmark": "/sɪɡˈnɪfɪkənt/" },
+  { "chinese": "有潜力的", "english": "promising", "soundmark": "/ˈprɒmɪsɪŋ/" },
+  { "chinese": "先进的", "english": "advanced", "soundmark": "/ədˈvɑːnst/" },
+  { "chinese": "有效的", "english": "effective", "soundmark": "/ɪˈfektɪv/" },
+  { "chinese": "可靠的", "english": "reliable", "soundmark": "/rɪˈlaɪəbl/" },
+  { "chinese": "科学家", "english": "scientist", "soundmark": "/ˈsaɪəntɪst/" },
+  { "chinese": "工程师", "english": "engineer", "soundmark": "/ˌendʒɪˈnɪə/" },
+  { "chinese": "研究者", "english": "researcher", "soundmark": "/rɪˈsɜːtʃə/" },
+  { "chinese": "发明家", "english": "inventor", "soundmark": "/ɪnˈventə/" },
+  { "chinese": "程序员", "english": "programmer", "soundmark": "/ˈprəʊɡræmə/" },
+  { "chinese": "用户", "english": "user", "soundmark": "/ˈjuːzə/" },
+  { "chinese": "专家", "english": "expert", "soundmark": "/ˈekspɜːt/" },
+  { "chinese": "发现", "english": "discovery", "soundmark": "/dɪˈskʌvəri/" },
+  { "chinese": "分析", "english": "analysis", "soundmark": "/əˈnæləsɪs/" },
+  { "chinese": "应用", "english": "application", "soundmark": "/ˌæplɪˈkeɪʃn/" },
+  { "chinese": "算法", "english": "algorithm", "soundmark": "/ˈælɡərɪðəm/" },
+  { "chinese": "数据库", "english": "database", "soundmark": "/ˈdeɪtəbeɪs/" },
+  { "chinese": "安全的", "english": "secure", "soundmark": "/sɪˈkjʊə/" },
+  { "chinese": "安全", "english": "security", "soundmark": "/sɪˈkjʊərəti/" },
+  { "chinese": "隐私", "english": "privacy", "soundmark": "/ˈpraɪvəsi/" },
+  { "chinese": "密码", "english": "password", "soundmark": "/ˈpɑːswɜːd/" },
+  { "chinese": "病毒", "english": "virus", "soundmark": "/ˈvaɪrəs/" },
+  { "chinese": "黑客", "english": "hacker", "soundmark": "/ˈhækə/" },
+  { "chinese": "犯罪", "english": "crime", "soundmark": "/kraɪm/" },
+  { "chinese": "保护", "english": "protection", "soundmark": "/prəˈtekʃn/" },
+  { "chinese": "加密", "english": "encryption", "soundmark": "/ɪnˈkrɪpʃn/" },
+  { "chinese": "卫星", "english": "satellite", "soundmark": "/ˈsætəlaɪt/" },
+  { "chinese": "设备", "english": "device", "soundmark": "/dɪˈvaɪs/" },
+  { "chinese": "芯片", "english": "chip", "soundmark": "/tʃɪp/" },
+  { "chinese": "机器人", "english": "robot", "soundmark": "/ˈrəʊbɒt/" },
+  { "chinese": "虚拟现实", "english": "virtual reality", "soundmark": "/ˈvɜːtʃuəl rɪˈæləti/" },
+  { "chinese": "搜索引擎", "english": "search engine", "soundmark": "/sɜːtʃ ˈendʒɪn/" },
+  { "chinese": "社交媒体", "english": "social media", "soundmark": "/ˈsəʊʃl ˈmiːdiə/" },
+  { "chinese": "电子商务", "english": "e-commerce", "soundmark": "/ˈiːˌkɒmɜːs/" },
+  { "chinese": "云计算", "english": "cloud computing", "soundmark": "/klaʊd kəmˈpjuːtɪŋ/" },
+  { "chinese": "大数据", "english": "big data", "soundmark": "/bɪɡ ˈdeɪtə/" },
+  { "chinese": "5G技术", "english": "5G technology", "soundmark": "/faɪv dʒiː tekˈnɒlədʒi/" },
+  {
+    "chinese": "基因工程",
+    "english": "genetic engineering",
+    "soundmark": "/dʒəˈnetɪk ˌendʒɪˈnɪərɪŋ/"
+  },
+  { "chinese": "可再生的", "english": "renewable", "soundmark": "/rɪˈnjuːəbl/" },
+  { "chinese": "能量", "english": "energy", "soundmark": "/ˈenədʒi/" },
+  { "chinese": "环境", "english": "environment", "soundmark": "/ɪnˈvaɪrənmənt/" },
+  { "chinese": "可持续的", "english": "sustainable", "soundmark": "/səˈsteɪnəbl/" },
+  { "chinese": "设计", "english": "design", "soundmark": "/dɪˈzaɪn/" },
+  { "chinese": "计算", "english": "computation", "soundmark": "/ˌkɒmpjuˈteɪʃn/" },
+  { "chinese": "编程", "english": "programming", "soundmark": "/ˈprəʊɡræmɪŋ/" },
+  { "chinese": "代码", "english": "code", "soundmark": "/kəʊd/" },
+  { "chinese": "文件", "english": "file", "soundmark": "/faɪl/" },
+  { "chinese": "处理器", "english": "processor", "soundmark": "/ˈprəʊsesə/" },
+  { "chinese": "显示器", "english": "display", "soundmark": "/dɪˈspleɪ/" },
+  { "chinese": "储存", "english": "storage", "soundmark": "/ˈstɒrɪdʒ/" },
+  { "chinese": "下载", "english": "download", "soundmark": "/ˈdaʊnləʊd/" },
+  { "chinese": "上传", "english": "upload", "soundmark": "/ˈʌpləʊd/" },
+  { "chinese": "浏览", "english": "browse", "soundmark": "/braʊz/" },
+  {
+    "chinese": "处理器处理数据",
+    "english": "The processor processes data",
+    "soundmark": "/ðə ˈprəʊsesə ˈprəʊsesɪz ˈdeɪtə/"
+  },
+  {
+    "chinese": "科学家研究基因",
+    "english": "The scientist studies genes",
+    "soundmark": "/ðə ˈsaɪəntɪst ˈstʌdɪz dʒiːnz/"
+  },
+  {
+    "chinese": "工程师设计系统",
+    "english": "The engineer designs the system",
+    "soundmark": "/ðə ˌendʒɪˈnɪə dɪˈzaɪnz ðə ˈsɪstəm/"
+  },
+  {
+    "chinese": "用户下载软件",
+    "english": "The user downloads the software",
+    "soundmark": "/ðə ˈjuːzə ˈdaʊnləʊdz ðə ˈsɒftweə/"
+  },
+  {
+    "chinese": "黑客攻击网络",
+    "english": "The hacker attacks the network",
+    "soundmark": "/ðə ˈhækə əˈtæks ðə ˈnetwɜːk/"
+  },
+  {
+    "chinese": "算法提高了效率",
+    "english": "The algorithm improved efficiency",
+    "soundmark": "/ðə ˈælɡərɪðəm ɪmˈpruːvd ɪˈfɪʃnsi/"
+  },
+  {
+    "chinese": "数据存储在数据库中",
+    "english": "The data is stored in the database",
+    "soundmark": "/ðə ˈdeɪtə ɪz stɔːd ɪn ðə ˈdeɪtəbeɪs/"
+  },
+  {
+    "chinese": "互联网连接了世界",
+    "english": "The internet connects the world",
+    "soundmark": "/ðə ˈɪntənet kəˈneks ðə wɜːld/"
+  },
+  {
+    "chinese": "卫星绕地球运行",
+    "english": "The satellite orbits the Earth",
+    "soundmark": "/ðə ˈsætəlaɪt ˈɔːbɪts ði ɜːθ/"
+  },
+  {
+    "chinese": "机器人执行任务",
+    "english": "The robot performs the task",
+    "soundmark": "/ðə ˈrəʊbɒt pəˈfɔːmz ðə tɑːsk/"
+  },
+  {
+    "chinese": "社交媒体改变了交流方式",
+    "english": "Social media changed communication",
+    "soundmark": "/ˈsəʊʃl ˈmiːdiə tʃeɪndʒd kəˌmjuːnɪˈkeɪʃn/"
+  },
+  {
+    "chinese": "可再生能源保护环境",
+    "english": "Renewable energy protects the environment",
+    "soundmark": "/rɪˈnjuːəbl ˈenədʒi prəˈtekts ðə ɪnˈvaɪrənmənt/"
+  },
+  {
+    "chinese": "电子商务发展迅速",
+    "english": "E-commerce develops rapidly",
+    "soundmark": "/ˈiːˌkɒmɜːs dɪˈveləps ˈræpɪdli/"
+  },
+  {
+    "chinese": "云计算提供存储服务",
+    "english": "Cloud computing provides storage services",
+    "soundmark": "/klaʊd kəmˈpjuːtɪŋ prəˈvaɪdz ˈstɒrɪdʒ ˈsɜːvɪsɪz/"
+  },
+  {
+    "chinese": "5G技术加速了数据传输",
+    "english": "5G technology accelerates data transmission",
+    "soundmark": "/faɪv dʒiː tekˈnɒlədʒi əkˈseləreɪts ˈdeɪtə trænzˈmɪʃn/"
+  },
+  {
+    "chinese": "那个改变了我们生活的技术令人惊叹",
+    "english": "The technology that changed our lives is amazing",
+    "soundmark": "/ðə tekˈnɒlədʒi ðæt tʃeɪndʒd aʊə laɪvz ɪz əˈmeɪzɪŋ/"
+  },
+  {
+    "chinese": "我们所使用的互联网需要安全保障",
+    "english": "The internet which we use needs security",
+    "soundmark": "/ðə ˈɪntənet wɪtʃ wiː juːz niːdz sɪˈkjʊərəti/"
+  },
+  {
+    "chinese": "开发了这款软件的程序员非常优秀",
+    "english": "The programmer who developed this software is excellent",
+    "soundmark": "/ðə ˈprəʊɡræmə huː dɪˈveləpt ðɪs ˈsɒftweə ɪz ˈeksələnt/"
+  },
+  {
+    "chinese": "我们正在讨论的问题是关于隐私的",
+    "english": "The problem that we are discussing is about privacy",
+    "soundmark": "/ðə ˈprɒbləm ðæt wiː ɑː dɪsˈkʌsɪŋ ɪz əˈbaʊt ˈpraɪvəsi/"
+  },
+  {
+    "chinese": "科学家正在做实验，实验将于明天完成",
+    "english": "The scientist is doing an experiment which will be finished tomorrow",
+    "soundmark": "/ðə ˈsaɪəntɪst ɪz ˈduːɪŋ ən ɪkˈsperɪmənt wɪtʃ wɪl biː ˈfɪnɪʃt təˈmɒrəʊ/"
+  },
+  {
+    "chinese": "他发明的设备被广泛应用于医学领域",
+    "english": "The device which he invented is widely used in medicine",
+    "soundmark": "/ðə dɪˈvaɪs wɪtʃ hiː ɪnˈventɪd ɪz ˈwaɪdli juːzd ɪn ˈmedɪsn/"
+  },
+  {
+    "chinese": "那个在实验室工作的研究员取得了重大突破",
+    "english": "The researcher who works in the laboratory made a breakthrough",
+    "soundmark": "/ðə rɪˈsɜːtʃə huː wɜːks ɪn ðə ləˈbɒrətri meɪd ə ˈbreɪkθruː/"
+  },
+  {
+    "chinese": "人工智能是一种能模拟人类思维的技术",
+    "english": "Artificial intelligence is a technology that can simulate human thinking",
+    "soundmark": "/ˌɑːtɪfɪʃl ɪnˈtelɪdʒəns ɪz ə tekˈnɒlədʒi ðæt kæn ˈsɪmjuleɪt ˈhjuːmən ˈθɪŋkɪŋ/"
+  },
+  {
+    "chinese": "我们使用的算法需要进一步优化",
+    "english": "The algorithm that we use needs further optimization",
+    "soundmark": "/ðə ˈælɡərɪðəm ðæt wiː juːz niːdz ˈfɜːðə ˌɒptɪmaɪˈzeɪʃn/"
+  },
+  {
+    "chinese": "大数据在商业中被大量使用",
+    "english": "Big data is widely used in business which relies on analysis",
+    "soundmark": "/bɪɡ ˈdeɪtə ɪz ˈwaɪdli juːzd ɪn ˈbɪznɪs wɪtʃ rɪˈlaɪz ɒn əˈnæləsɪs/"
+  },
+  {
+    "chinese": "保护用户隐私是每个互联网公司的责任",
+    "english": "Protecting user privacy is the responsibility of every internet company",
+    "soundmark": "/prəˈtek.tɪŋ ˈjuːzə ˈpraɪvəsi ɪz ðə rɪsˌpɒnsəˈbɪləti ɒv ˈevri ˈɪntənet ˈkʌmpəni/"
+  },
+  {
+    "chinese": "电子商务平台让购物变得方便",
+    "english": "E-commerce platforms make shopping convenient for people who are busy",
+    "soundmark": "/ˈiːˌkɒmɜːs ˈplætfɔːmz meɪk ˈʃɒpɪŋ kənˈviːniənt fɔː ˈpiːpl huː ɑː ˈbɪzi/"
+  },
+  {
+    "chinese": "那位因其贡献获得诺贝尔奖的科学家受到了赞扬",
+    "english": "The scientist who received a Nobel Prize for his contribution was praised",
+    "soundmark": "/ðə ˈsaɪəntɪst huː rɪˈsiːvd ə nəʊˈbel praɪz fɔː hɪz ˌkɒntrɪˈbjuːʃn wɒz ˈpreɪzd/"
+  },
+  {
+    "chinese": "我们需要一种能提高效率的新技术",
+    "english": "We need a new technology that can improve efficiency",
+    "soundmark": "/wiː niːd ə njuː tekˈnɒlədʒi ðæt kæn ɪmˈpruːv ɪˈfɪʃnsi/"
+  },
+  {
+    "chinese": "该系统存储了所有用户上传的数据",
+    "english": "The system stores all the data that users upload",
+    "soundmark": "/ðə ˈsɪstəm stɔːz ɔːl ðə ˈdeɪtə ðæt ˈjuːzəz ˈʌpləʊd/"
+  },
+  {
+    "chinese": "我们使用的搜索引擎每天处理数十亿次查询",
+    "english": "The search engine which we use processes billions of queries daily",
+    "soundmark": "/ðə sɜːtʃ ˈendʒɪn wɪtʃ wiː juːz ˈprəʊsesɪz ˈbɪljənz ɒv ˈkwɪəriz ˈdeɪli/"
+  },
+  {
+    "chinese": "那个发现了新粒子的研究者发表了一篇论文",
+    "english": "The researcher who discovered the new particle published a paper",
+    "soundmark": "/ðə rɪˈsɜːtʃə huː dɪˈskʌvəd ðə njuː ˈpɑːtɪkl ˈpʌblɪʃt ə ˈpeɪpə/"
+  },
+  {
+    "chinese": "虚拟现实是一种能让用户体验沉浸式场景的技术",
+    "english": "Virtual reality is a technology that allows users to experience immersive scenes",
+    "soundmark": "/ˈvɜːtʃuəl rɪˈæləti ɪz ə tekˈnɒlədʒi ðæt əˈlaʊz ˈjuːzəz tuː ɪkˈspɪəriəns ɪˈmɜːsɪv siːnz/"
+  },
+  {
+    "chinese": "网络安全是我们必须重视的问题",
+    "english": "Cybersecurity is an issue that we must take seriously",
+    "soundmark": "/ˌsaɪbəsɪˈkjʊərəti ɪz ən ˈɪʃuː ðæt wiː mʌst teɪk ˈsɪəriəsli/"
+  },
+  {
+    "chinese": "那些攻击公司数据库的黑客最终被抓获了",
+    "english": "The hackers who attacked the company database were eventually caught",
+    "soundmark": "/ðə ˈhækəz huː əˈtækt ðə ˈkʌmpəni ˈdeɪtəbeɪs wɜː ɪˈventʃuəli kɔːt/"
+  },
+  {
+    "chinese": "基因工程是一项有潜力的技术",
+    "english": "Genetic engineering is a promising technology that could cure diseases",
+    "soundmark": "/dʒəˈnetɪk ˌendʒɪˈnɪərɪŋ ɪz ə ˈprɒmɪsɪŋ tekˈnɒlədʒi ðæt kʊd kjʊə dɪˈziːzɪz/"
+  },
+  {
+    "chinese": "云计算为需要存储空间的企业提供了解决方案",
+    "english": "Cloud computing provides solutions for companies that need storage space",
+    "soundmark": "/klaʊd kəmˈpjuːtɪŋ prəˈvaɪdz səˈluːʃnz fɔː ˈkʌmpəniz ðæt niːd ˈstɒrɪdʒ speɪs/"
+  },
+  {
+    "chinese": "社交媒体连接了世界各地的人",
+    "english": "Social media connects people who live in different parts of the world",
+    "soundmark": "/ˈsəʊʃl ˈmiːdiə kəˈneks ˈpiːpl huː lɪv ɪn ˈdɪfrənt pɑːts ɒv ðə wɜːld/"
+  },
+  {
+    "chinese": "芯片是计算机中最重要的硬件之一",
+    "english": "The chip is one of the most important hardware components that computers need",
+    "soundmark": "/ðə tʃɪp ɪz wʌn ɒv ðə məʊst ɪmˈpɔːtənt ˈhɑːdweə kəmˈpəʊnənts ðæt kəmˈpjuːtəz niːd/"
+  },
+  {
+    "chinese": "那个设计了这个系统的工程师获得了升职",
+    "english": "The engineer who designed this system was promoted",
+    "soundmark": "/ðə ˌendʒɪˈnɪə huː dɪˈzaɪnd ðɪs ˈsɪstəm wɒz prəˈməʊtɪd/"
+  },
+  {
+    "chinese": "加密技术用于保护数据不被窃取",
+    "english": "Encryption technology is used to protect data that might be stolen",
+    "soundmark": "/ɪnˈkrɪpʃn tekˈnɒlədʒi ɪz juːzd tuː prəˈtekts ˈdeɪtə ðæt maɪt biː ˈstəʊlən/"
+  },
+  {
+    "chinese": "他开发的应用程序已经下载了上百万次",
+    "english": "The application that he developed has been downloaded millions of times",
+    "soundmark": "/ðə ˌæplɪˈkeɪʃn ðæt hiː dɪˈveləpt hæz biːn ˈdaʊnləʊd ˈmɪljənz ɒv taɪmz/"
+  },
+  {
+    "chinese": "可再生能源是解决能源危机的关键",
+    "english": "Renewable energy is the key that can solve the energy crisis",
+    "soundmark": "/rɪˈnjuːəbl ˈenədʒi ɪz ðə kiː ðæt kæn sɒlv ði ˈenədʒi ˈkraɪsɪs/"
+  },
+  {
+    "chinese": "我们今天使用的技术已经改变了我们的生活",
+    "english": "The technology which we use today has changed our lives",
+    "soundmark": "/ðə tekˈnɒlədʒi wɪtʃ wiː juːz təˈdeɪ hæz tʃeɪndʒd aʊə laɪvz/"
+  },
+  {
+    "chinese": "那个发现了这个理论的科学家获得了诺贝尔奖",
+    "english": "The scientist who discovered this theory won a Nobel Prize",
+    "soundmark": "/ðə ˈsaɪəntɪst huː dɪˈskʌvəd ðɪs ˈθɪəri wʌn ə nəʊˈbel praɪz/"
+  },
+  {
+    "chinese": "互联网连接了数十亿人，它彻底改变了交流方式",
+    "english": "The internet, which connects billions of people, has transformed communication",
+    "soundmark": "/ðə ˈɪntənet wɪtʃ kəˈneks ˈbɪljənz ɒv ˈpiːpl hæz trænsˈfɔːmd kəˌmjuːnɪˈkeɪʃn/"
+  },
+  {
+    "chinese": "人工智能正在迅速发展，这一趋势令人兴奋",
+    "english": "Artificial intelligence is developing rapidly, which is an exciting trend",
+    "soundmark": "/ˌɑːtɪfɪʃl ɪnˈtelɪdʒəns ɪz dɪˈveləpɪŋ ˈræpɪdli wɪtʃ ɪz ən ɪkˈsaɪtɪŋ trend/"
+  },
+  {
+    "chinese": "这位教授在人工智能领域发表了许多论文",
+    "english": "The professor whose research focuses on AI has published many papers",
+    "soundmark": "/ðə prəˈfesə huːz rɪˈsɜːtʃ ˈfəʊkəsɪz ɒn eɪ aɪ hæz ˈpʌblɪʃt ˈmeni ˈpeɪpəz/"
+  },
+  {
+    "chinese": "他是一位发明了许多东西的发明家",
+    "english": "He is an inventor whose inventions have changed the world",
+    "soundmark": "/hiː ɪz ən ɪnˈventə huːz ɪnˈvenʃnz hæv tʃeɪndʒd ðə wɜːld/"
+  },
+  {
+    "chinese": "该实验室做实验的那个房间里，发现了新元素",
+    "english": "The room where the experiment was conducted led to a new discovery",
+    "soundmark": "/ðə ruːm weə ðə ɪkˈsperɪmənt wɒz ˈkɒndʌktɪd led tuː ə njuː dɪˈskʌvəri/"
+  },
+  {
+    "chinese": "1990年是互联网开始普及的一年",
+    "english": "The year when the internet became popular was 1990",
+    "soundmark": "/ðə jɪə wen ðə ˈɪntənet bɪˈkeɪm ˈpɒpjələ wɒz 1990/"
+  },
+  {
+    "chinese": "这就是他们停止研究的原因",
+    "english": "That is the reason why they stopped the research",
+    "soundmark": "/ðæt ɪz ðə ˈriːzn waɪ ðeɪ stɒpt ðə rɪˈsɜːtʃ/"
+  },
+  {
+    "chinese": "这项技术被那位我上周采访的专家发明了",
+    "english": "This technology was invented by the expert whom I interviewed last week",
+    "soundmark": "/ðɪs tekˈnɒlədʒi wɒz ɪnˈventɪd baɪ ði ˈekspɜːt huːm aɪ ˈɪntəvjuːd lɑːst wiːk/"
+  },
+  {
+    "chinese": "我找到了丢失数据的文件，这个文件存储着重要信息",
+    "english": "I found the file which contains the important information that was lost",
+    "soundmark": "/aɪ faʊnd ðə faɪl wɪtʃ kənˈteɪnz ðə ɪmˈpɔːtənt ˌɪnfəˈmeɪʃn ðæt wɒz lɒst/"
+  },
+  {
+    "chinese": "机器人能在人类无法工作的环境中完成任务",
+    "english": "Robots can perform tasks in environments where humans cannot work",
+    "soundmark": "/ˈrəʊbɒts kæn pəˈfɔːm tɑːsks ɪn ɪnˈvaɪrənmənts weə ˈhjuːmənz ˈkænɒt wɜːk/"
+  },
+  {
+    "chinese": "那位教授，其研究在人工智能领域具有重要影响，受到了广泛赞誉",
+    "english": "The professor, whose research has a great impact on AI, is widely praised",
+    "soundmark": "/ðə prəˈfesə huːz rɪˈsɜːtʃ hæz ə ɡreɪt ˈɪmpækt ɒn eɪ aɪ ɪz ˈwaɪdli preɪzd/"
+  },
+  {
+    "chinese": "5G技术提供了我们从未体验过的速度",
+    "english": "5G technology provides speeds that we have never experienced before",
+    "soundmark": "/faɪv dʒiː tekˈnɒlədʒi prəˈvaɪdz spiːdz ðæt wiː hæv ˈnevə ɪkˈspɪəriənst bɪˈfɔː/"
+  },
+  {
+    "chinese": "社交媒体让人们能够分享他们的想法，这拉近了人与人之间的距离",
+    "english": "Social media enables people to share their ideas, which brings them closer together",
+    "soundmark": "/ˈsəʊʃl ˈmiːdiə ɪˈneɪblz ˈpiːpl tuː ʃeə ðeə aɪˈdɪəz wɪtʃ brɪŋz ðəm ˈkləʊzə təˈɡeðə/"
+  },
+  {
+    "chinese": "那个保护我们数据免受攻击的防火墙被升级了",
+    "english": "The firewall that protects our data from attacks has been upgraded",
+    "soundmark": "/ðə ˈfaɪəwɔːl ðæt prəˈtekts aʊə ˈdeɪtə frɒm əˈtæks hæz biːn ʌpˈɡreɪdɪd/"
+  },
+  {
+    "chinese": "他向委员会解释了他做实验的原因",
+    "english": "He explained the reason why he conducted the experiment to the committee",
+    "soundmark": "/hiː ɪkˈspleɪnd ðə ˈriːzn waɪ hiː ˈkɒndʌktɪd ðɪ ɪkˈsperɪmənt tuː ðə kəˈmɪti/"
+  },
+  {
+    "chinese": "搜索引擎是帮助我们查找信息的工具",
+    "english": "A search engine is a tool that helps us find information",
+    "soundmark": "/ə sɜːtʃ ˈendʒɪn ɪz ə tuːl ðæt helps ʌs faɪnd ˌɪnfəˈmeɪʃn/"
+  },
+  {
+    "chinese": "电子商务使我们能够在家里购物",
+    "english": "E-commerce enables us to shop at home, which saves a lot of time",
+    "soundmark": "/ˈiːˌkɒmɜːs ɪˈneɪblz ʌs tuː ʃɒp ət həʊm wɪtʃ seɪvz ə lɒt ɒv taɪm/"
+  },
+  {
+    "chinese": "卫星提供通信服务，使远程通信成为可能",
+    "english": "Satellites provide communication services which make long-distance communication possible",
+    "soundmark": "/ˈsætəlaɪts prəˈvaɪd kəˌmjuːnɪˈkeɪʃn ˈsɜːvɪsɪz wɪtʃ meɪk lɒŋ ˈdɪstəns kəˌmjuːnɪˈkeɪʃn ˈpɒsəbl/"
+  },
+  {
+    "chinese": "该处理器是我们电脑中最重要的组件",
+    "english": "The processor is the most important component which our computer relies on",
+    "soundmark": "/ðə ˈprəʊsesə ɪz ðə məʊst ɪmˈpɔːtənt kəmˈpəʊnənt wɪtʃ aʊə kəmˈpjuːtə rɪˈlaɪz ɒn/"
+  },
+  {
+    "chinese": "这是我们测试新软件的实验室",
+    "english": "This is the laboratory where we test new software",
+    "soundmark": "/ðɪs ɪz ðə ləˈbɒrətri weə wiː test njuː ˈsɒftweə/"
+  },
+  {
+    "chinese": "数据分析是我们做出决策的基础",
+    "english": "Data analysis is the foundation on which we make decisions",
+    "soundmark": "/ˈdeɪtə əˈnæləsɪs ɪz ðə faʊnˈdeɪʃn ɒn wɪtʃ wiː meɪk dɪˈsɪʒnz/"
+  },
+  {
+    "chinese": "密码是保护我们账户安全的关键",
+    "english": "The password is the key with which we protect our account security",
+    "soundmark": "/ðə ˈpɑːswɜːd ɪz ðə kiː wɪð wɪtʃ wiː prəˈtekt aʊə əˈkaʊnt sɪˈkjʊərəti/"
+  },
+  {
+    "chinese": "大数据是许多公司依赖的技术",
+    "english": "Big data is the technology on which many companies depend",
+    "soundmark": "/bɪɡ ˈdeɪtə ɪz ðə tekˈnɒlədʒi ɒn wɪtʃ ˈmeni ˈkʌmpəniz dɪˈpend/"
+  },
+  {
+    "chinese": "云计算是一种许多企业都在使用的解决方案",
+    "english": "Cloud computing is a solution for which many companies are looking",
+    "soundmark": "/klaʊd kəmˈpjuːtɪŋ ɪz ə səˈluːʃn fɔː wɪtʃ ˈmeni ˈkʌmpəniz ɑː ˈlʊkɪŋ/"
+  },
+  {
+    "chinese": "虚拟现实是一种人们可以通过它体验新世界的科技",
+    "english": "Virtual reality is a technology through which people can experience new worlds",
+    "soundmark": "/ˈvɜːtʃuəl rɪˈæləti ɪz ə tekˈnɒlədʒi θruː wɪtʃ ˈpiːpl kæn ɪkˈspɪəriəns njuː wɜːldz/"
+  },
+  {
+    "chinese": "人工智能将在未来扮演重要角色，这一点毋庸置疑",
+    "english": "Artificial intelligence will play an important role in the future, which is beyond doubt",
+    "soundmark": "/ˌɑːtɪfɪʃl ɪnˈtelɪdʒəns wɪl pleɪ ən ɪmˈpɔːtənt rəʊl ɪn ðə ˈfjuːtʃə wɪtʃ ɪz bɪˈjaʊnd daʊt/"
+  },
+  {
+    "chinese": "那位因发现新元素而闻名的科学家去世了",
+    "english": "The scientist, who was famous for discovering a new element, has passed away",
+    "soundmark": "/ðə ˈsaɪəntɪst huː wɒz ˈfeɪməs fɔː dɪˈskʌvərɪŋ ə njuː ˈelɪmənt hæz pɑːst əˈweɪ/"
+  },
+  {
+    "chinese": "可再生能源技术，尽管仍然昂贵，正在变得越来越受欢迎",
+    "english": "Renewable energy technology, which is still expensive, is becoming increasingly popular",
+    "soundmark": "/rɪˈnjuːəbl ˈenədʒi tekˈnɒlədʒi wɪtʃ ɪz stɪl ɪkˈspensɪv ɪz bɪˈkʌmɪŋ ɪnˈkriːsɪŋli ˈpɒpjələ/"
+  },
+  {
+    "chinese": "这项发现，它对医学研究具有重要意义，被发表在了顶级期刊上",
+    "english": "This discovery, which is of great significance to medical research, was published in a top journal",
+    "soundmark": "/ðɪs dɪˈskʌvəri wɪtʃ ɪz ɒv ɡreɪt sɪɡˈnɪfɪkəns tuː ˈmedɪkl rɪˈsɜːtʃ wɒz ˈpʌblɪʃt ɪn ə tɒp ˈdʒɜːnl/"
+  },
+  {
+    "chinese": "那位研究了二十年的科学家终于取得了突破",
+    "english": "The scientist who has researched for twenty years finally made a breakthrough",
+    "soundmark": "/ðə ˈsaɪəntɪst huː hæz rɪˈsɜːtʃt fɔː ˈtwenti jɪəz ˈfaɪnəli meɪd ə ˈbreɪkθruː/"
+  },
+  {
+    "chinese": "他设计了一个能自动检测病毒的程序",
+    "english": "He designed a program that can automatically detect viruses",
+    "soundmark": "/hiː dɪˈzaɪnd ə ˈprəʊɡræm ðæt kæn ˌɔːtəˈmætɪkli dɪˈtekt ˈvaɪrəsɪz/"
+  },
+  {
+    "chinese": "我们使用的密码必须足够强大，以防止黑客入侵",
+    "english": "The passwords which we use must be strong enough to prevent hacker intrusions",
+    "soundmark": "/ðə ˈpɑːswɜːdz wɪtʃ wiː juːz mʌst biː strɒŋ ɪˈnʌf tuː prɪˈvent ˈhækə ɪnˈtruːʒnz/"
+  },
+  {
+    "chinese": "算法推荐系统向我们展示它认为我们会感兴趣的内容",
+    "english": "The algorithm recommendation system shows us the content that it thinks we will be interested in",
+    "soundmark": "/ðə ˈælɡərɪðəm ˌrekəmenˈdeɪʃn ˈsɪstəm ʃəʊz ʌs ðə ˈkɒntent ðæt ɪt θɪŋks wiː wɪl biː ˈɪntrəstɪd ɪn/"
+  },
+  {
+    "chinese": "可持续发展的概念越来越受到关注",
+    "english": "The concept of sustainable development, which is gaining attention, is crucial for our future",
+    "soundmark": "/ðə ˈkɒnsept ɒv səˈsteɪnəbl dɪˈveləpmənt wɪtʃ ɪz ˈɡeɪnɪŋ əˈtenʃn ɪz ˈkruːʃl fɔː aʊə ˈfjuːtʃə/"
+  },
+  {
+    "chinese": "那位其研究成果被国际认可的教授将发表演讲",
+    "english": "The professor whose research results have been internationally recognized will give a speech",
+    "soundmark": "/ðə prəˈfesə huːz rɪˈsɜːtʃ rɪˈzʌlts hæv biːn ˌɪntəˈnæʃənəli ˈrekəɡnaɪzd wɪl ɡɪv ə spiːtʃ/"
+  },
+  {
+    "chinese": "实验室是我们进行科学研究的地方",
+    "english": "The laboratory is the place where we conduct scientific research",
+    "soundmark": "/ðə ləˈbɒrətri ɪz ðə pleɪs weə wiː ˈkɒndʌkt ˌsaɪənˈtɪfɪk rɪˈsɜːtʃ/"
+  },
+  {
+    "chinese": "2007年是智能手机开始普及的年份",
+    "english": "2007 was the year when smartphones began to become popular",
+    "soundmark": "/2007 wɒz ðə jɪə wen ˈsmɑːtfəʊnz bɪˈɡæn tuː bɪˈkʌm ˈpɒpjələ/"
+  },
+  {
+    "chinese": "他解释了为什么我们需要更严格的数据保护法律",
+    "english": "He explained the reason why we need stricter data protection laws",
+    "soundmark": "/hiː ɪkˈspleɪnd ðə ˈriːzn waɪ wiː niːd ˈstrɪktə ˈdeɪtə prəˈtekʃn lɔːz/"
+  },
+  {
+    "chinese": "芯片设计是该公司最擅长的技术领域",
+    "english": "Chip design is the field in which the company excels",
+    "soundmark": "/tʃɪp dɪˈzaɪn ɪz ðə fiːld ɪn wɪtʃ ðə ˈkʌmpəni ɪkˈsels/"
+  },
+  {
+    "chinese": "该文件包含了我们上周讨论过的所有数据",
+    "english": "The file contains all the data which we discussed last week",
+    "soundmark": "/ðə faɪl kənˈteɪnz ɔːl ðə ˈdeɪtə wɪtʃ wiː dɪsˈkʌst lɑːst wiːk/"
+  },
+  {
+    "chinese": "我们需要找到一种能让数据传输更安全的方法",
+    "english": "We need to find a way by which data transmission can be more secure",
+    "soundmark": "/wiː niːd tuː faɪnd ə weɪ baɪ wɪtʃ ˈdeɪtə trænzˈmɪʃn kæn biː mɔː sɪˈkjʊə/"
+  },
+  {
+    "chinese": "那些需要使用数据库的人应该学习SQL",
+    "english": "Those who need to use databases should learn SQL",
+    "soundmark": "/ðəʊz huː niːd tuː juːz ˈdeɪtəbeɪsɪz ʃʊd lɜːn es kjuː el/"
+  },
+  {
+    "chinese": "机器人技术是推动制造业发展的关键因素",
+    "english": "Robotics is a key factor that drives the development of manufacturing",
+    "soundmark": "/rəʊˈbɒtɪks ɪz ə kiː ˈfæktə ðæt draɪvz ðə dɪˈveləpmənt ɒv ˌmænjuˈfæktʃərɪŋ/"
+  },
+  {
+    "chinese": "电子设备已成为我们日常生活中不可或缺的一部分",
+    "english": "Electronic devices have become an essential part of our daily life which we cannot live without",
+    "soundmark": "/ɪˌlekˈtrɒnɪk dɪˈvaɪsɪz hæv bɪˈkʌm ən ɪˈsenʃl pɑːt ɒv aʊə ˈdeɪli laɪf wɪtʃ wiː ˈkænɒt lɪv wɪˈðaʊt/"
+  },
+  {
+    "chinese": "他告诉我他做这个项目的动机是什么",
+    "english": "He told me the reason why he did this project",
+    "soundmark": "/hiː təʊld miː ðə ˈriːzn waɪ hiː dɪd ðɪs ˈprɒdʒekt/"
+  },
+  {
+    "chinese": "程序员们创建了我们每天使用的网站",
+    "english": "The programmers created the website which we use every day",
+    "soundmark": "/ðə ˈprəʊɡræməz kriˈeɪtɪd ðə ˈwebsaɪt wɪtʃ wiː juːz ˈevri deɪ/"
+  },
+  {
+    "chinese": "用户信任是每个在线平台赖以生存的基础",
+    "english": "User trust is the foundation on which every online platform depends",
+    "soundmark": "/ˈjuːzə trʌst ɪz ðə faʊnˈdeɪʃn ɒn wɪtʃ ˈevri ˈɒnlaɪn ˈplætfɔːm dɪˈpendz/"
+  },
+  {
+    "chinese": "那位写了网络安全教科书的女教授发表了演讲",
+    "english": "The female professor who wrote the cybersecurity textbook gave a lecture",
+    "soundmark": "/ðə ˈfiːmeɪl prəˈfesə huː rəʊt ðə ˌsaɪbəsɪˈkjʊərəti ˈtekstbʊk ɡeɪv ə ˈlektʃə/"
+  },
+  {
+    "chinese": "机器学习是一种人工智能技术，使计算机能够从数据中学习",
+    "english": "Machine learning is an AI technology that enables computers to learn from data",
+    "soundmark": "/məˈʃiːn ˈlɜːnɪŋ ɪz ən eɪ aɪ tekˈnɒlədʒi ðæt ɪˈneɪblz kəmˈpjuːtəz tuː lɜːn frɒm ˈdeɪtə/"
+  },
+  {
+    "chinese": "那家开发了芯片的公司总部设在硅谷",
+    "english": "The company that developed the chip is headquartered in Silicon Valley",
+    "soundmark": "/ðə ˈkʌmpəni ðæt dɪˈveləpt ðə tʃɪp ɪz ˈhedkwɔːtəd ɪn ˈsɪlɪkən ˈvæli/"
+  },
+  {
+    "chinese": "基因编辑技术引发了关于伦理的讨论",
+    "english": "Gene editing technology has sparked debates whose impact is far-reaching",
+    "soundmark": "/dʒiːn ˈedɪtɪŋ tekˈnɒlədʒi hæz spɑːkt dɪˈbeɪts huːz ˈɪmpækt ɪz fɑː ˈriːtʃɪŋ/"
+  },
+  {
+    "chinese": "卫星通信技术，虽然价格昂贵，却是偏远地区的唯一选择",
+    "english": "Satellite communication technology, though expensive, is the only option for remote areas",
+    "soundmark": "/ˈsætəlaɪt kəˌmjuːnɪˈkeɪʃn tekˈnɒlədʒi ðəʊt ɪkˈspensɪv ɪz ðə ˈəʊnli ˈɒpʃn fɔː rɪˈməʊt ˈeəriəz/"
+  },
+  {
+    "chinese": "这位发明家的发明改变了整个行业",
+    "english": "The inventor whose inventions changed the entire industry received an award",
+    "soundmark": "/ðə ɪnˈventə huːz ɪnˈvenʃnz tʃeɪndʒd ði ɪnˈtaɪə ˈɪndəstri rɪˈsiːvd ən əˈwɔːd/"
+  },
+  {
+    "chinese": "我们正在讨论的技术将于明年发布",
+    "english": "The technology that we are discussing will be released next year",
+    "soundmark": "/ðə tekˈnɒlədʒi ðæt wiː ɑː dɪˈskʌsɪŋ wɪl biː rɪˈliːst nekst jɪə/"
+  },
+  {
+    "chinese": "数字化是许多传统企业转型的方向",
+    "english": "Digitalization is the direction in which many traditional enterprises are transforming",
+    "soundmark": "/ˌdɪdʒɪtəlaɪˈzeɪʃn ɪz ðə dɪˈrekʃn ɪn wɪtʃ ˈmeni trəˈdɪʃənl ˈentəpraɪzɪz ɑː trænsˈfɔːmɪŋ/"
+  },
+  {
+    "chinese": "他发明了一种能检测水中污染物的传感器",
+    "english": "He invented a sensor that can detect pollutants in water",
+    "soundmark": "/hiː ɪnˈventɪd ə ˈsensə ðæt kæn dɪˈtekt pəˈluːtənts ɪn ˈwɔːtə/"
+  },
+  {
+    "chinese": "这位科学家的贡献被全世界所认可",
+    "english": "The scientist whose contribution is recognized worldwide has been invited to speak",
+    "soundmark": "/ðə ˈsaɪəntɪst huːz ˌkɒntrɪˈbjuːʃn ɪz ˈrekəɡnaɪzd ˈwɜːldwaɪd hæz biːn ɪnˈvaɪtɪd tuː spiːk/"
+  },
+  {
+    "chinese": "这是网络安全领域最严重的威胁之一",
+    "english": "This is one of the most serious threats that cybersecurity has ever faced",
+    "soundmark": "/ðɪs ɪz wʌn ɒv ðə məʊst ˈsɪəriəs θrets ðæt ˌsaɪbəsɪˈkjʊərəti hæz ˈevə feɪst/"
+  },
+  {
+    "chinese": "虚拟现实技术能在教育领域发挥巨大作用",
+    "english": "Virtual reality technology can play a huge role in education which benefits students",
+    "soundmark": "/ˈvɜːtʃuəl rɪˈæləti tekˈnɒlədʒi kæn pleɪ ə hjuːdʒ rəʊl ɪn ˌedʒuˈkeɪʃn wɪtʃ ˈbenɪfɪts ˈstjuːdənts/"
+  },
+  {
+    "chinese": "那台我们刚修好的电脑现在运行得很好",
+    "english": "The computer which we just fixed is running well now",
+    "soundmark": "/ðə kəmˈpjuːtə wɪtʃ wiː dʒʌst fɪkst ɪz ˈrʌnɪŋ wel naʊ/"
+  },
+  {
+    "chinese": "任何使用互联网的人都应该了解基本的网络安全知识",
+    "english": "Anyone who uses the internet should understand basic cybersecurity knowledge",
+    "soundmark": "/ˈenɪwʌn huː juːz ðə ˈɪntənet ʃʊd ˌʌndəˈstænd ˈbeɪsɪk ˌsaɪbəsɪˈkjʊərəti ˈnɒlɪdʒ/"
+  },
+  {
+    "chinese": "这项技术解决的问题影响了数百万用户",
+    "english": "The problem that this technology solves affects millions of users",
+    "soundmark": "/ðə ˈprɒbləm ðæt ðɪs tekˈnɒlədʒi sɒlvz əˈfekts ˈmɪljənz ɒv ˈjuːzəz/"
+  },
+  {
+    "chinese": "这是他去年发表研究成果的那本期刊",
+    "english": "This is the journal in which he published his research results last year",
+    "soundmark": "/ðɪs ɪz ðə ˈdʒɜːnl ɪn wɪtʃ hiː ˈpʌblɪʃt hɪz rɪˈsɜːtʃ rɪˈzʌlts lɑːst jɪə/"
+  },
+  {
+    "chinese": "自动化技术在工厂中被广泛使用",
+    "english": "Automation technology is widely used in factories where efficiency is crucial",
+    "soundmark": "/ˌɔːtəˈmeɪʃn tekˈnɒlədʒi ɪz ˈwaɪdli juːzd ɪn ˈfæktəriz weə ɪˈfɪʃnsi ɪz ˈkruːʃl/"
+  },
+  {
+    "chinese": "人工智能将取代许多人类能完成的工作",
+    "english": "Artificial intelligence will replace many jobs that humans can currently do",
+    "soundmark": "/ˌɑːtɪfɪʃl ɪnˈtelɪdʒəns wɪl rɪˈpleɪs ˈmeni dʒɒbz ðæt ˈhjuːmənz kæn ˈkʌrəntli duː/"
+  },
+  {
+    "chinese": "那些致力于保护环境的技术获得了政府支持",
+    "english": "The technologies which are dedicated to protecting the environment received government support",
+    "soundmark": "/ðə tekˈnɒlədʒiz wɪtʃ ɑː ˈdedɪkeɪtɪd tuː prəˈtek.tɪŋ ðə ɪnˈvaɪrənmənt rɪˈsiːvd ˈɡʌvənmənt səˈpɔːt/"
+  },
+  {
+    "chinese": "这就是黑客获取密码的方式",
+    "english": "This is the way in which hackers obtain passwords",
+    "soundmark": "/ðɪs ɪz ðə weɪ ɪn wɪtʃ ˈhækəz əbˈteɪn ˈpɑːswɜːdz/"
+  },
+  {
+    "chinese": "他写了一本关于人工智能的书，这本书已被翻译成多种语言",
+    "english": "He wrote a book about AI which has been translated into many languages",
+    "soundmark": "/hiː rəʊt ə bʊk əˈbaʊt eɪ aɪ wɪtʃ hæz biːn trænsˈleɪtɪd ˈɪntuː ˈmeni ˈlæŋɡwɪdʒɪz/"
+  },
+  {
+    "chinese": "用户上传的文件存储在云端服务器中",
+    "english": "The files that users upload are stored in cloud servers",
+    "soundmark": "/ðə faɪlz ðæt ˈjuːzəz ˈʌpləʊd ɑː stɔːd ɪn klaʊd ˈsɜːvəz/"
+  },
+  {
+    "chinese": "那位创建了搜索引擎的企业家成了亿万富翁",
+    "english": "The entrepreneur who created the search engine became a billionaire",
+    "soundmark": "/ðə ˌɒntrəprəˈnɜː huː kriˈeɪtɪd ðə sɜːtʃ ˈendʒɪn bɪˈkeɪm ə ˌbɪljəˈneə/"
+  },
+  {
+    "chinese": "该公司开发了世界上第一款智能手机",
+    "english": "The company that developed the world's first smartphone changed history",
+    "soundmark": "/ðə ˈkʌmpəni ðæt dɪˈveləpt ðə wɜːldz fɜːst ˈsmɑːtfəʊn tʃeɪndʒd ˈhɪstəri/"
+  },
+  {
+    "chinese": "大数据分析帮助医生更准确地诊断疾病",
+    "english": "Big data analysis helps doctors diagnose diseases which was previously difficult",
+    "soundmark": "/bɪɡ ˈdeɪtə əˈnæləsɪs helps ˈdɒktəz ˈdaɪəɡnəʊz dɪˈziːzɪz wɪtʃ wɒz ˈpriːviəsli ˈdɪfɪkəlt/"
+  },
+  {
+    "chinese": "那个正在研发人工智能的研究员来自中国",
+    "english": "The researcher who is developing artificial intelligence comes from China",
+    "soundmark": "/ðə rɪˈsɜːtʃə huː ɪz dɪˈveləpɪŋ ˌɑːtɪfɪʃl ɪnˈtelɪdʒəns kʌmz frɒm ˈtʃaɪnə/"
+  },
+  {
+    "chinese": "这位工程师以她设计的桥梁而闻名",
+    "english": "The engineer, who is famous for the bridges she designed, won an international award",
+    "soundmark": "/ðə ˌendʒɪˈnɪə huː ɪz ˈfeɪməs fɔː ðə brɪdʒɪz ʃiː dɪˈzaɪnd wʌn ən ˌɪntəˈnæʃənl əˈwɔːd/"
+  },
+  {
+    "chinese": "创新是一个成功科技企业赖以发展的基础",
+    "english": "Innovation is the foundation upon which a successful tech company builds its future",
+    "soundmark": "/ˌɪnəˈveɪʃn ɪz ðə faʊnˈdeɪʃn əˈpɒn wɪtʃ ə səkˈsesfl tek ˈkʌmpəni bɪldz ɪts ˈfjuːtʃə/"
+  },
+  {
+    "chinese": "他正在开发一个能自动翻译语言的应用",
+    "english": "He is developing an application that can automatically translate languages",
+    "soundmark": "/hiː ɪz dɪˈveləpɪŋ ən ˌæplɪˈkeɪʃn ðæt kæn ˌɔːtəˈmætɪkli trænzˈleɪt ˈlæŋɡwɪdʒɪz/"
+  },
+  {
+    "chinese": "区块链是一种安全技术，可用于保护交易记录",
+    "english": "Blockchain is a security technology that can be used to protect transaction records",
+    "soundmark": "/ˈblɒktʃeɪn ɪz ə sɪˈkjʊərəti tekˈnɒlədʒi ðæt kæn biː juːzd tuː prəˈtekts trænˈzækʃn ˈrekɔːdz/"
+  },
+  {
+    "chinese": "我们研究的领域正是他获得诺贝尔奖的领域",
+    "english": "The field which we are researching is exactly the field where he won the Nobel Prize",
+    "soundmark": "/ðə fiːld wɪtʃ wiː ɑː rɪˈsɜːtʃɪŋ ɪz ɪɡˈzæktli ðə fiːld weə hiː wʌn ðə nəʊˈbel praɪz/"
+  },
+  {
+    "chinese": "量子计算是下一代计算机技术的核心",
+    "english": "Quantum computing, which is still in its early stages, is the core of next-generation computing",
+    "soundmark": "/ˈkwɒntəm kəmˈpjuːtɪŋ wɪtʃ ɪz stɪl ɪn ɪts ˈɜːli steɪdʒɪz ɪz ðə kɔː ɒv nekst ˌdʒenəˈreɪʃn kəmˈpjuːtɪŋ/"
+  },
+  {
+    "chinese": "生物技术有潜力治愈许多目前无法治愈的疾病",
+    "english": "Biotechnology has the potential to cure many diseases that are currently incurable",
+    "soundmark": "/ˌbaɪəʊtekˈnɒlədʒi hæz ðə pəˈtenʃl tuː kjʊə ˈmeni dɪˈziːzɪz ðæt ɑː ˈkʌrəntli ɪnˈkjʊərəbl/"
+  },
+  {
+    "chinese": "显示器和键盘是我们与计算机交互的设备",
+    "english": "The display and keyboard are the devices through which we interact with computers",
+    "soundmark": "/ðə dɪˈspleɪ ænd ˈkiːbɔːd ɑː ðə dɪˈvaɪsɪz θruː wɪtʃ wiː ˌɪntərˈækt wɪð kəmˈpjuːtəz/"
+  },
+  {
+    "chinese": "社交媒体平台收集了大量用户数据，这引起了人们的担忧",
+    "english": "Social media platforms collect vast amounts of user data, which has raised public concern",
+    "soundmark": "/ˈsəʊʃl ˈmiːdiə ˈplætfɔːmz kəˈlekt vɑːst əˈmaʊnts ɒv ˈjuːzə ˈdeɪtə wɪtʃ hæz reɪzd ˈpʌblɪk kənˈsɜːn/"
+  }
+]

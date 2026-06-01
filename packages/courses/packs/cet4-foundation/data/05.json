@@ -1,0 +1,892 @@
+[
+  { "chinese": "经济", "english": "economy", "soundmark": "/ɪˈkɒnəmi/" },
+  { "chinese": "市场", "english": "market", "soundmark": "/ˈmɑːkɪt/" },
+  { "chinese": "金融", "english": "finance", "soundmark": "/ˈfaɪnæns/" },
+  { "chinese": "投资", "english": "investment", "soundmark": "/ɪnˈvestmənt/" },
+  { "chinese": "贸易", "english": "trade", "soundmark": "/treɪd/" },
+  { "chinese": "商业", "english": "business", "soundmark": "/ˈbɪznɪs/" },
+  { "chinese": "利润", "english": "profit", "soundmark": "/ˈprɒfɪt/" },
+  { "chinese": "收入", "english": "income", "soundmark": "/ˈɪnkʌm/" },
+  { "chinese": "消费", "english": "consumption", "soundmark": "/kənˈsʌmpʃn/" },
+  { "chinese": "货币", "english": "currency", "soundmark": "/ˈkʌrənsi/" },
+  { "chinese": "资本", "english": "capital", "soundmark": "/ˈkæpɪtl/" },
+  { "chinese": "价格", "english": "price", "soundmark": "/praɪs/" },
+  { "chinese": "增长", "english": "growth", "soundmark": "/ɡrəʊθ/" },
+  { "chinese": "通货膨胀", "english": "inflation", "soundmark": "/ɪnˈfleɪʃn/" },
+  { "chinese": "就业", "english": "employment", "soundmark": "/ɪmˈplɔɪmənt/" },
+  { "chinese": "失业", "english": "unemployment", "soundmark": "/ˌʌnɪmˈplɔɪmənt/" },
+  { "chinese": "出口", "english": "export", "soundmark": "/ɪkˈspɔːt/" },
+  { "chinese": "进口", "english": "import", "soundmark": "/ˈɪmpɔːt/" },
+  { "chinese": "税收", "english": "tax", "soundmark": "/tæks/" },
+  { "chinese": "预算", "english": "budget", "soundmark": "/ˈbʌdʒɪt/" },
+  { "chinese": "管理", "english": "management", "soundmark": "/ˈmænɪdʒmənt/" },
+  { "chinese": "企业家", "english": "entrepreneur", "soundmark": "/ˌɒntrəprəˈnɜː/" },
+  { "chinese": "竞争", "english": "competition", "soundmark": "/ˌkɒmpəˈtɪʃn/" },
+  { "chinese": "供应", "english": "supply", "soundmark": "/səˈplaɪ/" },
+  { "chinese": "需求", "english": "demand", "soundmark": "/dɪˈmɑːnd/" },
+  { "chinese": "商品", "english": "commodity", "soundmark": "/kəˈmɒdəti/" },
+  { "chinese": "破产", "english": "bankruptcy", "soundmark": "/ˈbæŋkrʌptsi/" },
+  { "chinese": "股市", "english": "stock market", "soundmark": "/stɒk ˈmɑːkɪt/" },
+  { "chinese": "保险", "english": "insurance", "soundmark": "/ɪnˈʃʊərəns/" },
+  { "chinese": "贷款", "english": "loan", "soundmark": "/ləʊn/" },
+  { "chinese": "零售", "english": "retail", "soundmark": "/ˈriːteɪl/" },
+  { "chinese": "批发", "english": "wholesale", "soundmark": "/ˈhəʊlseɪl/" },
+  { "chinese": "品牌", "english": "brand", "soundmark": "/brænd/" },
+  { "chinese": "合同", "english": "contract", "soundmark": "/ˈkɒntrækt/" },
+  { "chinese": "工资", "english": "salary", "soundmark": "/ˈsæləri/" },
+  { "chinese": "存款", "english": "savings", "soundmark": "/ˈseɪvɪŋz/" },
+  { "chinese": "利率", "english": "interest rate", "soundmark": "/ˈɪntrəst reɪt/" },
+  { "chinese": "垄断", "english": "monopoly", "soundmark": "/məˈnɒpəli/" },
+  { "chinese": "市场份额", "english": "market share", "soundmark": "/ˈmɑːkɪt ʃeə/" },
+  { "chinese": "消费者", "english": "consumer", "soundmark": "/kənˈsjuːmə/" },
+  { "chinese": "经济衰退", "english": "recession", "soundmark": "/rɪˈseʃn/" },
+  { "chinese": "繁荣的", "english": "prosperous", "soundmark": "/ˈprɒspərəs/" },
+  { "chinese": "经济的", "english": "economic", "soundmark": "/ˌiːkəˈnɒmɪk/" },
+  { "chinese": "财务的", "english": "financial", "soundmark": "/faɪˈnænʃl/" },
+  { "chinese": "商业的", "english": "commercial", "soundmark": "/kəˈmɜːʃl/" },
+  { "chinese": "盈利的", "english": "profitable", "soundmark": "/ˈprɒfɪtəbl/" },
+  { "chinese": "可负担的", "english": "affordable", "soundmark": "/əˈfɔːdəbl/" },
+  { "chinese": "稳定的", "english": "stable", "soundmark": "/ˈsteɪbl/" },
+  { "chinese": "波动", "english": "fluctuation", "soundmark": "/ˌflʌktʃuˈeɪʃn/" },
+  { "chinese": "电子商务", "english": "e-commerce", "soundmark": "/ˈiːˌkɒmɜːs/" },
+  { "chinese": "自由贸易", "english": "free trade", "soundmark": "/friː treɪd/" },
+  { "chinese": "供应链", "english": "supply chain", "soundmark": "/səˈplaɪ tʃeɪn/" },
+  { "chinese": "全球经济", "english": "global economy", "soundmark": "/ˈɡləʊbl ɪˈkɒnəmi/" },
+  { "chinese": "经济体系", "english": "economic system", "soundmark": "/ˌiːkəˈnɒmɪk ˈsɪstəm/" },
+  { "chinese": "市场经济", "english": "market economy", "soundmark": "/ˈmɑːkɪt ɪˈkɒnəmi/" },
+  { "chinese": "经济增长", "english": "economic growth", "soundmark": "/ˌiːkəˈnɒmɪk ɡrəʊθ/" },
+  { "chinese": "成本效益", "english": "cost-effective", "soundmark": "/ˌkɒst ɪˈfektɪv/" },
+  { "chinese": "供需关系", "english": "supply and demand", "soundmark": "/səˈplaɪ ænd dɪˈmɑːnd/" },
+  {
+    "chinese": "跨国公司",
+    "english": "multinational corporation",
+    "soundmark": "/ˌmʌltiˈnæʃənl ˌkɔːpəˈreɪʃn/"
+  },
+  {
+    "chinese": "经济刺激",
+    "english": "economic stimulus",
+    "soundmark": "/ˌiːkəˈnɒmɪk ˈstɪmjələs/"
+  },
+  { "chinese": "经济改革", "english": "economic reform", "soundmark": "/ˌiːkəˈnɒmɪk rɪˈfɔːm/" },
+  { "chinese": "经济复苏", "english": "economic recovery", "soundmark": "/ˌiːkəˈnɒmɪk rɪˈkʌvəri/" },
+  {
+    "chinese": "股市上涨",
+    "english": "The stock market rises",
+    "soundmark": "/ðə stɒk ˈmɑːkɪt ˈraɪzɪz/"
+  },
+  {
+    "chinese": "通货膨胀加剧",
+    "english": "Inflation worsens",
+    "soundmark": "/ɪnˈfleɪʃn ˈwɜːsənz/"
+  },
+  {
+    "chinese": "公司破产了",
+    "english": "The company went bankrupt",
+    "soundmark": "/ðə ˈkʌmpəni wɛnt ˈbæŋkrʌpt/"
+  },
+  {
+    "chinese": "消费者购买商品",
+    "english": "Consumers purchase goods",
+    "soundmark": "/kənˈsjuːməz ˈpɜːtʃəs ɡʊdz/"
+  },
+  {
+    "chinese": "政府提高税收",
+    "english": "The government raises taxes",
+    "soundmark": "/ðə ˈɡʌvənmənt ˈreɪzɪz tæksɪz/"
+  },
+  {
+    "chinese": "企业降低成本",
+    "english": "The enterprise reduces costs",
+    "soundmark": "/ðə ˈentəpraɪz rɪˈdjuːsɪz kɒsts/"
+  },
+  {
+    "chinese": "利率保持稳定",
+    "english": "Interest rates remain stable",
+    "soundmark": "/ˈɪntrəst reɪts rɪˈmeɪn ˈsteɪbl/"
+  },
+  {
+    "chinese": "出口额持续增长",
+    "english": "Exports continue to grow",
+    "soundmark": "/ɪkˈspɔːts kənˈtɪnjuː tuː ɡrəʊ/"
+  },
+  {
+    "chinese": "就业形势严峻",
+    "english": "The employment situation is severe",
+    "soundmark": "/ði ɪmˈplɔɪmənt ˌsɪtʃuˈeɪʃn ɪz sɪˈvɪə/"
+  },
+  {
+    "chinese": "投资回报率高",
+    "english": "The return on investment is high",
+    "soundmark": "/ðə rɪˈtɜːn ɒn ɪnˈvestmənt ɪz haɪ/"
+  },
+  {
+    "chinese": "市场竞争激烈",
+    "english": "Market competition is fierce",
+    "soundmark": "/ˈmɑːkɪt ˌkɒmpəˈtɪʃn ɪz fɪəs/"
+  },
+  {
+    "chinese": "消费者信心下降",
+    "english": "Consumer confidence declines",
+    "soundmark": "/kənˈsjuːmə ˈkɒnfɪdəns dɪˈklaɪnz/"
+  },
+  {
+    "chinese": "物价持续上涨",
+    "english": "Prices keep rising",
+    "soundmark": "/praɪsɪz kiːp ˈraɪzɪŋ/"
+  },
+  {
+    "chinese": "国际贸易增长了百分之五",
+    "english": "International trade increased by five percent",
+    "soundmark": "/ˌɪntəˈnæʃənl treɪd ɪnˈkriːst baɪ faɪv pəˈsent/"
+  },
+  {
+    "chinese": "失业率下降到了百分之四",
+    "english": "The unemployment rate fell to four percent",
+    "soundmark": "/ði ˌʌnɪmˈplɔɪmənt reɪt fɛl tuː fɔː pəˈsent/"
+  },
+  {
+    "chinese": "这家公司去年的利润翻了一倍",
+    "english": "The company doubled its profit last year",
+    "soundmark": "/ðə ˈkʌmpəni ˈdʌbld ɪts ˈprɒfɪt lɑːst jɪə/"
+  },
+  {
+    "chinese": "该品牌在市场上占据了领导地位",
+    "english": "The brand took the leading position in the market",
+    "soundmark": "/ðə brænd tʊk ðə ˈliːdɪŋ pəˈzɪʃn ɪn ðə ˈmɑːkɪt/"
+  },
+  {
+    "chinese": "电子商务改变了人们的消费习惯",
+    "english": "E-commerce changed people's consumption habits",
+    "soundmark": "/ˈiːˌkɒmɜːs tʃeɪndʒd ˈpiːplz kənˈsʌmpʃn ˈhæbɪts/"
+  },
+  {
+    "chinese": "供应链中断导致了商品短缺",
+    "english": "Supply chain disruptions caused shortages of goods",
+    "soundmark": "/səˈplaɪ tʃeɪn dɪsˈrʌpʃnz kɔːzd ˈʃɔːtɪdʒɪz ɒv ɡʊdz/"
+  },
+  {
+    "chinese": "经济衰退对就业产生了负面影响",
+    "english": "The recession had a negative impact on employment",
+    "soundmark": "/ðə rɪˈseʃn hæd ə ˈneɡətɪv ˈɪmpækt ɒn ɪmˈplɔɪmənt/"
+  },
+  {
+    "chinese": "跨国公司带动了发展中国家的经济增长",
+    "english": "Multinational corporations boosted economic growth in developing countries",
+    "soundmark": "/ˌmʌltiˈnæʃənl ˌkɔːpəˈreɪʃnz ˈbuːstɪd ˌiːkəˈnɒmɪk ɡrəʊθ ɪn dɪˈveləpɪŋ ˈkʌntriz/"
+  },
+  {
+    "chinese": "众所周知，全球经济正在增长",
+    "english": "It is well-known that the global economy is growing",
+    "soundmark": "/ɪt ɪz ˈwelˌnəʊn ðæt ðə ˈɡləʊbl ɪˈkɒnəmi ɪz ˈɡrəʊɪŋ/"
+  },
+  {
+    "chinese": "普遍认为市场经济是最有效的",
+    "english": "It is generally believed that a market economy is the most efficient",
+    "soundmark": "/ɪt ɪz ˈdʒenərəli bɪˈliːvd ðæt ə ˈmɑːkɪt ɪˈkɒnəmi ɪz ðə məʊst ɪˈfɪʃnt/"
+  },
+  {
+    "chinese": "显然这家公司需要改革",
+    "english": "It is obvious that this company needs reform",
+    "soundmark": "/ɪt ɪz ˈɒbviəs ðæt ðɪs ˈkʌmpəni niːdz rɪˈfɔːm/"
+  },
+  {
+    "chinese": "问题是我们是否应该投资这个项目",
+    "english": "The question is whether we should invest in this project",
+    "soundmark": "/ðə ˈkwestʃən ɪz ˈweðə wiː ʃʊd ɪnˈvest ɪn ðɪs ˈprɒdʒekt/"
+  },
+  {
+    "chinese": "问题在于通货膨胀能否被控制",
+    "english": "The question is whether inflation can be controlled",
+    "soundmark": "/ðə ˈkwestʃən ɪz ˈweðə ɪnˈfleɪʃn kæn biː kənˈtrəʊld/"
+  },
+  {
+    "chinese": "关键是我们如何降低成本",
+    "english": "The key is how we can reduce costs",
+    "soundmark": "/ðə kiː ɪz haʊ wiː kæn rɪˈdjuːs kɒsts/"
+  },
+  {
+    "chinese": "核心问题是消费者需要什么",
+    "english": "The core issue is what consumers need",
+    "soundmark": "/ðə kɔː ˈɪʃuː ɪz wɒt kənˈsjuːməz niːd/"
+  },
+  {
+    "chinese": "最重要的是企业如何保持竞争力",
+    "english": "What matters most is how enterprises maintain competitiveness",
+    "soundmark": "/wɒt ˈmætəz məʊst ɪz haʊ ˈentəpraɪzɪz meɪnˈteɪn kəmˈpetətɪvnəs/"
+  },
+  {
+    "chinese": "公司破产这一事实令所有人惊讶",
+    "english": "The fact that the company went bankrupt surprised everyone",
+    "soundmark": "/ðə fækt ðæt ðə ˈkʌmpəni wɛnt ˈbæŋkrʌpt səˈpraɪzd ˈevriwʌn/"
+  },
+  {
+    "chinese": "经济增长放缓的报道引起了广泛关注",
+    "english": "The news that economic growth is slowing down has attracted wide attention",
+    "soundmark": "/ðə njuːz ðæt ˌiːkəˈnɒmɪk ɡrəʊθ ɪz ˈsləʊɪŋ daʊn hæz əˈtræktɪd waɪd əˈtenʃn/"
+  },
+  {
+    "chinese": "失业率上升这一事实令人担忧",
+    "english": "The fact that the unemployment rate is rising is worrying",
+    "soundmark": "/ðə fækt ðæt ði ˌʌnɪmˈplɔɪmənt reɪt ɪz ˈraɪzɪŋ ɪz ˈwʌriɪŋ/"
+  },
+  {
+    "chinese": "中国将成为最大经济体这一预测令人振奋",
+    "english": "The prediction that China will become the largest economy is exciting",
+    "soundmark": "/ðə prɪˈdɪkʃn ðæt ˈtʃaɪnə wɪl bɪˈkʌm ðə ˈlɑːdʒɪst ɪˈkɒnəmi ɪz ɪkˈsaɪtɪŋ/"
+  },
+  {
+    "chinese": "央行将降息的消息提振了股市",
+    "english": "The news that the central bank will cut interest rates boosted the stock market",
+    "soundmark": "/ðə njuːz ðæt ðə ˈsentrəl bæŋk wɪl kʌt ˈɪntrəst reɪts ˈbuːstɪd ðə stɒk ˈmɑːkɪt/"
+  },
+  {
+    "chinese": "我相信教育是经济发展的关键",
+    "english": "I believe that education is the key to economic development",
+    "soundmark": "/aɪ bɪˈliːv ðæt ˌedʒuˈkeɪʃn ɪz ðə kiː tuː ˌiːkəˈnɒmɪk dɪˈveləpmənt/"
+  },
+  {
+    "chinese": "分析师预测明年经济将复苏",
+    "english": "Analysts predict that the economy will recover next year",
+    "soundmark": "/ˈænəlɪsts prɪˈdɪkt ðæt ði ɪˈkɒnəmi wɪl rɪˈkʌvə nekst jɪə/"
+  },
+  {
+    "chinese": "消费者希望物价能稳定下来",
+    "english": "Consumers hope that prices will stabilize",
+    "soundmark": "/kənˈsjuːməz həʊp ðæt praɪsɪz wɪl ˈsteɪbəlaɪz/"
+  },
+  {
+    "chinese": "政府承认通货膨胀是个严重问题",
+    "english": "The government admits that inflation is a serious problem",
+    "soundmark": "/ðə ˈɡʌvənmənt ədˈmɪts ðæt ɪnˈfleɪʃn ɪz ə ˈsɪəriəs ˈprɒbləm/"
+  },
+  {
+    "chinese": "专家建议投资者应分散风险",
+    "english": "Experts suggest that investors should diversify their risks",
+    "soundmark": "/ˈekspɜːts səˈdʒest ðæt ɪnˈvestəz ʃʊd daɪˈvɜːsɪfaɪ ðeə rɪsks/"
+  },
+  {
+    "chinese": "报告显示就业市场正在改善",
+    "english": "The report shows that the job market is improving",
+    "soundmark": "/ðə rɪˈpɔːt ʃəʊz ðæt ðə dʒɒb ˈmɑːkɪt ɪz ɪmˈpruːvɪŋ/"
+  },
+  {
+    "chinese": "没有人知道这家公司什么时候会破产",
+    "english": "Nobody knows when this company will go bankrupt",
+    "soundmark": "/ˈnəʊbədi nəʊz wen ðɪs ˈkʌmpəni wɪl ɡəʊ ˈbæŋkrʌpt/"
+  },
+  {
+    "chinese": "经理解释了为什么销售额下降了",
+    "english": "The manager explained why sales had declined",
+    "soundmark": "/ðə ˈmænɪdʒə ɪkˈspleɪnd waɪ seɪlz hæd dɪˈklaɪnd/"
+  },
+  {
+    "chinese": "我们正在讨论预算如何分配",
+    "english": "We are discussing how the budget should be allocated",
+    "soundmark": "/wiː ɑː dɪsˈkʌsɪŋ haʊ ðə ˈbʌdʒɪt ʃʊd biː ˈæləkeɪtɪd/"
+  },
+  {
+    "chinese": "投资者想知道他们的钱投往何处",
+    "english": "Investors wonder where their money is being invested",
+    "soundmark": "/ɪnˈvestəz ˈwʌndə weə ðeə ˈmʌni ɪz ˈbiːɪŋ ɪnˈvestɪd/"
+  },
+  {
+    "chinese": "你需要决定是否接受这个商业合同",
+    "english": "You need to decide whether to accept this business contract",
+    "soundmark": "/juː niːd tuː dɪˈsaɪd ˈweðə tuː əkˈsept ðɪs ˈbɪznɪs ˈkɒntrækt/"
+  },
+  {
+    "chinese": "我不知道这家公司是否值得投资",
+    "english": "I do not know whether this company is worth investing in",
+    "soundmark": "/aɪ duː nɒt nəʊ ˈweðə ðɪs ˈkʌmpəni ɪz wɜːθ ɪnˈvestɪŋ ɪn/"
+  },
+  {
+    "chinese": "他问我是否了解经济危机的影响",
+    "english": "He asked me if I understood the impact of the economic crisis",
+    "soundmark": "/hiː ɑːskt miː ɪf aɪ ˌʌndəˈstʊd ði ˈɪmpækt ɒv ði ˌiːkəˈnɒmɪk ˈkraɪsɪs/"
+  },
+  {
+    "chinese": "大家都在猜测央行是否会加息",
+    "english": "Everyone is guessing whether the central bank will raise interest rates",
+    "soundmark": "/ˈevriwʌn ɪz ˈɡesɪŋ ˈweðə ðə ˈsentrəl bæŋk wɪl reɪz ˈɪntrəst reɪts/"
+  },
+  {
+    "chinese": "问题是我们应该优先发展哪个产业",
+    "english": "The question is which industry we should prioritize",
+    "soundmark": "/ðə ˈkwestʃən ɪz wɪtʃ ˈɪndəstri wiː ʃʊd praɪˈɒrətaɪz/"
+  },
+  {
+    "chinese": "真正的挑战是谁将为经济改革买单",
+    "english": "The real challenge is who will pay for the economic reform",
+    "soundmark": "/ðə rɪəl ˈtʃælɪndʒ ɪz huː wɪl peɪ fɔː ði ˌiːkəˈnɒmɪk rɪˈfɔːm/"
+  },
+  {
+    "chinese": "关键是市场何时才能恢复正常",
+    "english": "What matters is when the market will return to normal",
+    "soundmark": "/wɒt ˈmætəz ɪz wen ðə ˈmɑːkɪt wɪl rɪˈtɜːn tuː ˈnɔːml/"
+  },
+  {
+    "chinese": "最重要的问题是这家公司为什么失败了",
+    "english": "The most important question is why this company failed",
+    "soundmark": "/ðə məʊst ɪmˈpɔːtənt ˈkwestʃən ɪz waɪ ðɪs ˈkʌmpəni feɪld/"
+  },
+  {
+    "chinese": "我的看法是政府应该加大对经济的投入",
+    "english": "My view is that the government should increase investment in the economy",
+    "soundmark": "/maɪ vjuː ɪz ðæt ðə ˈɡʌvənmənt ʃʊd ɪnˈkriːs ɪnˈvestmənt ɪn ði ɪˈkɒnəmi/"
+  },
+  {
+    "chinese": "事实是这家跨国公司已经控制了整个市场",
+    "english": "The truth is that the multinational has controlled the entire market",
+    "soundmark": "/ðə truːθ ɪz ðæt ðə ˌmʌltiˈnæʃənl hæz kənˈtrəʊld ði ɪnˈtaɪə ˈmɑːkɪt/"
+  },
+  {
+    "chinese": "原因在于消费者信心已经严重不足",
+    "english": "The reason is that consumer confidence is severely lacking",
+    "soundmark": "/ðə ˈriːzn ɪz ðæt kənˈsjuːmə ˈkɒnfɪdəns ɪz sɪˈvɪəli ˈlækɪŋ/"
+  },
+  {
+    "chinese": "问题是谁来承担这次经济衰退的损失",
+    "english": "The problem is who will bear the losses from this recession",
+    "soundmark": "/ðə ˈprɒbləm ɪz huː wɪl beə ðə ˈlɒsɪz frɒm ðɪs rɪˈseʃn/"
+  },
+  {
+    "chinese": "让我们惊讶的是这家公司竟然扭亏为盈了",
+    "english": "What surprised us is that the company actually turned a loss into a profit",
+    "soundmark": "/wɒt səˈpraɪzd ʌs ɪz ðæt ðə ˈkʌmpəni ˈæktʃuəli tɜːnd ə lɒs ˈɪntuː ə ˈprɒfɪt/"
+  },
+  {
+    "chinese": "他能否成为优秀的管理者还有待观察",
+    "english": "Whether he can become an excellent manager remains to be seen",
+    "soundmark": "/ˈweðə hiː kæn bɪˈkʌm ən ˈeksələnt ˈmænɪdʒə rɪˈmeɪnz tuː biː siːn/"
+  },
+  {
+    "chinese": "那家跨国公司是否撤出中国市场还不确定",
+    "english": "Whether the multinational will withdraw from China is still uncertain",
+    "soundmark": "/ˈweðə ðə ˌmʌltiˈnæʃənl wɪl wɪðˈdrɔː frɒm ˈtʃaɪnə ɪz stɪl ʌnˈsɜːtn/"
+  },
+  {
+    "chinese": "人们普遍认为创新是推动经济增长的核心动力",
+    "english": "It is widely acknowledged that innovation is the driving force of economic growth",
+    "soundmark": "/ɪt ɪz ˈwaɪdli əkˈnɒlɪdʒd ðæt ˌɪnəˈveɪʃn ɪz ðə ˈdraɪvɪŋ fɔːs ɒv ˌiːkəˈnɒmɪk ɡrəʊθ/"
+  },
+  {
+    "chinese": "众所周知，中国市场对全球经济至关重要",
+    "english": "It is well-known that the Chinese market is crucial to the global economy",
+    "soundmark": "/ɪt ɪz ˈwelˌnəʊn ðæt ðə ˌtʃaɪˈniːz ˈmɑːkɪt ɪz ˈkruːʃl tuː ðə ˈɡləʊbl ɪˈkɒnəmi/"
+  },
+  {
+    "chinese": "已经证明自由贸易有助于各国共同发展",
+    "english": "It has been proved that free trade helps all countries develop together",
+    "soundmark": "/ɪt hæz biːn pruːvd ðæt friː treɪd helps ɔːl ˈkʌntriz dɪˈveləp təˈɡeðə/"
+  },
+  {
+    "chinese": "人们发现电子商务正在改变零售行业的格局",
+    "english": "It has been found that e-commerce is reshaping the retail industry",
+    "soundmark": "/ɪt hæz biːn faʊnd ðæt ˈiːˌkɒmɜːs ɪz ˌriːˈʃeɪpɪŋ ðə ˈriːteɪl ˈɪndəstri/"
+  },
+  {
+    "chinese": "我们必须面对的现实是失业率还在上升",
+    "english": "The reality we must face is that the unemployment rate is still rising",
+    "soundmark": "/ðə riˈæləti wiː mʌst feɪs ɪz ðæt ði ˌʌnɪmˈplɔɪmənt reɪt ɪz stɪl ˈraɪzɪŋ/"
+  },
+  {
+    "chinese": "大家担心的是这次经济衰退会持续多久",
+    "english": "What everyone worries about is how long this recession will last",
+    "soundmark": "/wɒt ˈevriwʌn ˈwʌriz əˈbaʊt ɪz haʊ lɒŋ ðɪs rɪˈseʃn wɪl lɑːst/"
+  },
+  {
+    "chinese": "我们必须搞清楚消费者为什么不再购买我们的产品",
+    "english": "We must find out why consumers are no longer buying our products",
+    "soundmark": "/wiː mʌst faɪnd aʊt waɪ kənˈsjuːməz ɑː nəʊ ˈlɒŋɡə ˈbaɪɪŋ aʊə ˈprɒdʌkts/"
+  },
+  {
+    "chinese": "消费者真正关心的是产品的质量和价格",
+    "english": "What consumers really care about is the quality and price of products",
+    "soundmark": "/wɒt kənˈsjuːməz ˈrɪəli keə əˈbaʊt ɪz ðə ˈkwɒləti ænd praɪs ɒv ˈprɒdʌkts/"
+  },
+  {
+    "chinese": "我们正在考虑是否应该进入国际市场",
+    "english": "We are considering whether we should enter the international market",
+    "soundmark": "/wiː ɑː kənˈsɪdərɪŋ ˈweðə wiː ʃʊd ˈentə ði ˌɪntəˈnæʃənl ˈmɑːkɪt/"
+  },
+  {
+    "chinese": "顾客在犹豫是买这个品牌还是另一个",
+    "english": "The customer hesitates whether to buy this brand or another",
+    "soundmark": "/ðə ˈkʌstəmə ˈhezɪteɪts ˈweðə tuː baɪ ðɪs brænd ɔː əˈnʌðə/"
+  },
+  {
+    "chinese": "这家公司已经证明了它能在竞争中生存",
+    "english": "This company has proved that it can survive in competition",
+    "soundmark": "/ðɪs ˈkʌmpəni hæz pruːvd ðæt ɪt kæn səˈvaɪv ɪn ˌkɒmpəˈtɪʃn/"
+  },
+  {
+    "chinese": "研究表明消费者更倾向于在线购物",
+    "english": "Research shows that consumers prefer shopping online",
+    "soundmark": "/rɪˈsɜːtʃ ʃəʊz ðæt kənˈsjuːməz prɪˈfɜː ˈʃɒpɪŋ ˈɒnlaɪn/"
+  },
+  {
+    "chinese": "经济学家认为降低利率可以刺激经济",
+    "english": "Economists argue that lowering interest rates can stimulate the economy",
+    "soundmark": "/ɪˈkɒnəmɪsts ˈɑːɡjuː ðæt ˈləʊərɪŋ ˈɪntrəst reɪts kæn ˈstɪmjuleɪt ði ɪˈkɒnəmi/"
+  },
+  {
+    "chinese": "报告揭示了小企业面临的困难有多大",
+    "english": "The report reveals how much difficulty small businesses face",
+    "soundmark": "/ðə rɪˈpɔːt rɪˈviːlz haʊ mʌtʃ ˈdɪfɪkəlti smɔːl ˈbɪznɪsɪz feɪs/"
+  },
+  {
+    "chinese": "我确信这个投资决策是正确的",
+    "english": "I am convinced that this investment decision is correct",
+    "soundmark": "/aɪ æm kənˈvɪnst ðæt ðɪs ɪnˈvestmənt dɪˈsɪʒn ɪz kəˈrekt/"
+  },
+  {
+    "chinese": "股东们想知道公司的利润去了哪里",
+    "english": "Shareholders wonder where the company's profits have gone",
+    "soundmark": "/ˈʃeəhəʊldəz ˈwʌndə weə ðə ˈkʌmpənz ˈprɒfɪts hæv ɡɒn/"
+  },
+  {
+    "chinese": "没有人预料到经济会如此迅速地复苏",
+    "english": "No one expected that the economy would recover so quickly",
+    "soundmark": "/nəʊ wʌn ɪkˈspektɪd ðæt ði ɪˈkɒnəmi wʊd rɪˈkʌvə səʊ ˈkwɪkli/"
+  },
+  {
+    "chinese": "我们不知道经济危机何时才能结束",
+    "english": "We do not know when the economic crisis will end",
+    "soundmark": "/wiː duː nɒt nəʊ wen ði ˌiːkəˈnɒmɪk ˈkraɪsɪs wɪl end/"
+  },
+  {
+    "chinese": "我认为这家企业的管理模式值得学习",
+    "english": "I think that the management model of this enterprise is worth learning",
+    "soundmark": "/aɪ θɪŋk ðæt ðə ˈmænɪdʒmənt ˈmɒdl ɒv ðɪs ˈentəpraɪz ɪz wɜːθ ˈlɜːnɪŋ/"
+  },
+  {
+    "chinese": "调查显示百分之七十的消费者更看重价格",
+    "english": "The survey shows that seventy percent of consumers value price more",
+    "soundmark": "/ðə ˈsɜːveɪ ʃəʊz ðæt ˈsevnti pəˈsent ɒv kənˈsjuːməz ˈvæljuː praɪs mɔː/"
+  },
+  {
+    "chinese": "该公司宣布将在明年扩大出口业务",
+    "english": "The company announced that it will expand its export business next year",
+    "soundmark": "/ðə ˈkʌmpəni əˈnaʊnst ðæt ɪt wɪl ɪkˈspænd ɪts ɪkˈspɔːt ˈbɪznɪs nekst jɪə/"
+  },
+  {
+    "chinese": "大多数人相信市场经济能给社会带来繁荣",
+    "english": "Most people believe that a market economy can bring prosperity to society",
+    "soundmark": "/məʊst ˈpiːpl bɪˈliːv ðæt ə ˈmɑːkɪt ɪˈkɒnəmi kæn brɪŋ prɒˈsperəti tuː səˈsaɪəti/"
+  },
+  {
+    "chinese": "自由贸易协定的签署将对两国经济产生深远影响",
+    "english": "The signing of the free trade agreement will have a profound impact on both economies",
+    "soundmark": "/ðə ˈsaɪnɪŋ ɒv ðə friː treɪd əˈɡriːmənt wɪl hæv ə prəˈfaʊnd ˈɪmpækt ɒn bəʊθ ɪˈkɒnəmiz/"
+  },
+  {
+    "chinese": "这家公司管理层决定是否裁员的消息传开了",
+    "english": "The news that the management decided whether to lay off workers spread quickly",
+    "soundmark": "/ðə njuːz ðæt ðə ˈmænɪdʒmənt dɪˈsaɪdɪd ˈweðə tuː leɪ ɒf ˈwɜːkəz spred ˈkwɪkli/"
+  },
+  {
+    "chinese": "专家认为通货膨胀率下降是经济复苏的信号",
+    "english": "Experts believe that the falling inflation rate is a sign of economic recovery",
+    "soundmark": "/ˈekspɜːts bɪˈliːv ðæt ðə ˈfɔːlɪŋ ɪnˈfleɪʃn reɪt ɪz ə saɪn ɒv ˌiːkəˈnɒmɪk rɪˈkʌvəri/"
+  },
+  {
+    "chinese": "我们已经确定将在下个季度推出新产品",
+    "english": "We have confirmed that new products will be launched next quarter",
+    "soundmark": "/wiː hæv kənˈfɜːmd ðæt njuː ˈprɒdʌkts wɪl biː lɔːntʃt nekst ˈkwɔːtə/"
+  },
+  {
+    "chinese": "我不确定股市是否已经触底反弹",
+    "english": "I am not sure whether the stock market has hit bottom and rebounded",
+    "soundmark": "/aɪ æm nɒt ʃʊə ˈweðə ðə stɒk ˈmɑːkɪt hæz hɪt ˈbɒtəm ænd rɪˈbaʊndɪd/"
+  },
+  {
+    "chinese": "众所周知，中国经济在过去四十年取得了巨大成就",
+    "english": "It is well-known that China's economy has made great achievements over the past four decades",
+    "soundmark": "/ɪt ɪz ˈwelˌnəʊn ðæt ˈtʃaɪnɑːz ɪˈkɒnəmi hæz meɪd ɡreɪt əˈtʃiːvmənts ˈəʊvə ðə pɑːst fɔː ˈdekeɪds/"
+  },
+  {
+    "chinese": "货币政策是否有效取决于多种因素",
+    "english": "Whether monetary policy is effective depends on various factors",
+    "soundmark": "/ˈweðə ˈmʌnɪtəri ˈpɒləsi ɪz ɪˈfektɪv dɪˈpendz ɒn ˈveəriəs ˈfæktəz/"
+  },
+  {
+    "chinese": "消费者的选择取决于价格、质量和品牌信誉",
+    "english": "What consumers choose depends on price, quality, and brand reputation",
+    "soundmark": "/wɒt kənˈsjuːməz tʃuːz dɪˈpendz ɒn praɪs ˈkwɒləti ænd brænd ˌrepjuˈteɪʃn/"
+  },
+  {
+    "chinese": "谁将担任下一任CEO尚未正式公布",
+    "english": "Who will be the next CEO has not been officially announced",
+    "soundmark": "/huː wɪl biː ðə nekst siː iː ˈəʊ hæz nɒt biːn əˈfɪʃəli əˈnaʊnst/"
+  },
+  {
+    "chinese": "什么时候加息取决于通胀数据的走势",
+    "english": "When interest rates will be raised depends on the trend of inflation data",
+    "soundmark": "/wen ˈɪntrəst reɪts wɪl biː reɪzd dɪˈpendz ɒn ðə trend ɒv ɪnˈfleɪʃn ˈdeɪtə/"
+  },
+  {
+    "chinese": "如何提高生产效率是每个企业都在思考的问题",
+    "english": "How to improve production efficiency is a question every enterprise is thinking about",
+    "soundmark": "/haʊ tuː ɪmˈpruːv prəˈdʌkʃn ɪˈfɪʃnsi ɪz ə ˈkwestʃən ˈevri ˈentəpraɪz ɪz ˈθɪŋkɪŋ əˈbaʊt/"
+  },
+  {
+    "chinese": "公司的成功证明了创新商业模式的巨大潜力",
+    "english": "The company's success proves that innovative business models have great potential",
+    "soundmark": "/ðə ˈkʌmpənz səkˈses pruːvz ðæt ˈɪnəveɪtɪv ˈbɪznɪs ˈmɒdlz hæv ɡreɪt pəˈtenʃl/"
+  },
+  {
+    "chinese": "我们不确定消费者是否会接受这种定价策略",
+    "english": "We are not certain whether consumers will accept this pricing strategy",
+    "soundmark": "/wiː ɑː nɒt ˈsɜːtn ˈweðə kənˈsjuːməz wɪl əkˈsept ðɪs ˈpraɪsɪŋ ˈstrætədʒi/"
+  },
+  {
+    "chinese": "企业家指出人才是企业最宝贵的资本",
+    "english": "The entrepreneur pointed out that talent is the most valuable capital of a company",
+    "soundmark": "/ðə ˌɒntrəprəˈnɜː ˈpɔɪntɪd aʊt ðæt ˈtælənt ɪz ðə məʊst ˈvæljuəbl ˈkæpɪtl ɒv ə ˈkʌmpəni/"
+  },
+  {
+    "chinese": "会议讨论的核心问题是供应链如何优化",
+    "english": "The core issue discussed at the meeting was how to optimize the supply chain",
+    "soundmark": "/ðə kɔː ˈɪʃuː dɪsˈkʌst ət ðə ˈmiːtɪŋ wɒz haʊ tuː ˈɒptɪmaɪz ðə səˈplaɪ tʃeɪn/"
+  },
+  {
+    "chinese": "政府承诺将采取措施改善就业环境",
+    "english": "The government promised that measures would be taken to improve the employment environment",
+    "soundmark": "/ðə ˈɡʌvənmənt ˈprɒmɪsd ðæt ˈmeʒəz wʊd biː ˈteɪkən tuː ɪmˈpruːv ði ɪmˈplɔɪmənt ɪnˈvaɪrənmənt/"
+  },
+  {
+    "chinese": "银行担心大量坏账将导致金融危机",
+    "english": "The bank is worried that massive bad loans will lead to a financial crisis",
+    "soundmark": "/ðə bæŋk ɪz ˈwʌrid ðæt ˈmæsɪv bæd ləʊnz wɪl liːd tuː ə faɪˈnænʃl ˈkraɪsɪs/"
+  },
+  {
+    "chinese": "这家零售商的成功在于它理解了消费者想要什么",
+    "english": "This retailer succeeded because it understood what consumers wanted",
+    "soundmark": "/ðɪs ˈriːteɪlə səkˈsiːdɪd bɪˈkɒz ɪt ˌʌndəˈstʊd wɒt kənˈsjuːməz ˈwɒntɪd/"
+  },
+  {
+    "chinese": "我们都知道通货膨胀会使货币贬值",
+    "english": "We all know that inflation will devalue the currency",
+    "soundmark": "/wiː ɔːl nəʊ ðæt ɪnˈfleɪʃn wɪl diːˈvæljuː ðə ˈkʌrənsi/"
+  },
+  {
+    "chinese": "数据显示今年的出口总额比去年增长了百分之十",
+    "english": "The data shows that total exports this year increased by ten percent compared to last year",
+    "soundmark": "/ðə ˈdeɪtə ʃəʊz ðæt ˈtəʊtl ɪkˈspɔːts ðɪs jɪə ɪnˈkriːst baɪ ten pəˈsent kəmˈpeəd tuː lɑːst jɪə/"
+  },
+  {
+    "chinese": "投资者必须明白高收益意味着高风险",
+    "english": "Investors must understand that high returns mean high risks",
+    "soundmark": "/ɪnˈvestəz mʌst ˌʌndəˈstænd ðæt haɪ rɪˈtɜːnz miːn haɪ rɪsks/"
+  },
+  {
+    "chinese": "这家公司的优势在于它拥有强大的品牌影响力",
+    "english": "The advantage of this company is that it has strong brand influence",
+    "soundmark": "/ði ədˈvɑːntɪdʒ ɒv ðɪs ˈkʌmpəni ɪz ðæt ɪt hæz strɒŋ brænd ˈɪnfluəns/"
+  },
+  {
+    "chinese": "他们还在争论到底谁该为这次金融危机负责",
+    "english": "They are still arguing over who should be responsible for this financial crisis",
+    "soundmark": "/ðeɪ ɑː stɪl ˈɑːɡjuːɪŋ ˈəʊvə huː ʃʊd biː rɪsˈpɒnsəbl fɔː ðɪs faɪˈnænʃl ˈkraɪsɪs/"
+  },
+  {
+    "chinese": "经济改革能否成功取决于政府的决心",
+    "english": "Whether economic reform will succeed depends on the government's determination",
+    "soundmark": "/ˈweðə ˌiːkəˈnɒmɪk rɪˈfɔːm wɪl səkˈsiːd dɪˈpendz ɒn ðə ˈɡʌvənmənts dɪˌtɜːmɪˈneɪʃn/"
+  },
+  {
+    "chinese": "这家初创公司的目标是证明小团队也能创造巨大利润",
+    "english": "The goal of this startup is to prove that small teams can also generate huge profits",
+    "soundmark": "/ðə ɡəʊl ɒv ðɪs ˈstɑːtʌp ɪz tuː pruːv ðæt smɔːl tiːmz kæn ˈɔːlsəʊ ˈdʒenəreɪt hjuːdʒ ˈprɒfɪts/"
+  },
+  {
+    "chinese": "我们应该考虑在哪里开设新的分公司",
+    "english": "We should consider where to open our new branch office",
+    "soundmark": "/wiː ʃʊd kənˈsɪdə weə tuː ˈəʊpən aʊə njuː brɑːntʃ ˈɒfɪs/"
+  },
+  {
+    "chinese": "令人欣慰的是就业市场终于出现了好转的迹象",
+    "english": "What is comforting is that the job market is finally showing signs of improvement",
+    "soundmark": "/wɒt ɪz ˈkʌmfərtɪŋ ɪz ðæt ðə dʒɒb ˈmɑːkɪt ɪz ˈfaɪnəli ˈʃəʊɪŋ saɪnz ɒv ɪmˈpruːvmənt/"
+  },
+  {
+    "chinese": "国际贸易能否健康发展影响着每一个国家",
+    "english": "Whether international trade develops healthily affects every country",
+    "soundmark": "/ˈweðə ˌɪntəˈnæʃənl treɪd dɪˈveləps ˈhelθɪli əˈfekts ˈevri ˈkʌntri/"
+  },
+  {
+    "chinese": "经济学家建议政府通过减税来刺激消费",
+    "english": "Economists suggest that the government stimulate consumption through tax cuts",
+    "soundmark": "/ɪˈkɒnəmɪsts səˈdʒest ðæt ðə ˈɡʌvənmənt ˈstɪmjuleɪt kənˈsʌmpʃn θruː tæks kʌts/"
+  },
+  {
+    "chinese": "这个品牌成功的原因是它始终坚持高品质",
+    "english": "The reason why this brand succeeded is that it always insists on high quality",
+    "soundmark": "/ðə ˈriːzn waɪ ðɪs brænd səkˈsiːdɪd ɪz ðæt ɪt ˈɔːlweɪz ɪnˈsɪsts ɒn haɪ ˈkwɒləti/"
+  },
+  {
+    "chinese": "他告诉我他决定放弃那个投资项目的原因",
+    "english": "He told me the reason why he decided to give up that investment project",
+    "soundmark": "/hiː təʊld miː ðə ˈriːzn waɪ hiː dɪˈsaɪdɪd tuː ɡɪv ʌp ðæt ɪnˈvestmənt ˈprɒdʒekt/"
+  },
+  {
+    "chinese": "通货膨胀将持续多久是每位投资者关心的问题",
+    "english": "How long inflation will last is a question every investor is concerned about",
+    "soundmark": "/haʊ lɒŋ ɪnˈfleɪʃn wɪl lɑːst ɪz ə ˈkwestʃən ˈevri ɪnˈvestə ɪz kənˈsɜːnd əˈbaʊt/"
+  },
+  {
+    "chinese": "我认为这家公司能否在国际市场上生存取决于其创新能力",
+    "english": "I believe whether this company can survive in the international market depends on its innovation capability",
+    "soundmark": "/aɪ bɪˈliːv ˈweðə ðɪs ˈkʌmpəni kæn səˈvaɪv ɪn ði ˌɪntəˈnæʃənl ˈmɑːkɪt dɪˈpendz ɒn ɪts ˌɪnəˈveɪʃn ˌkeɪpəˈbɪləti/"
+  },
+  {
+    "chinese": "我们需要弄清楚这次贸易摩擦的根源在哪里",
+    "english": "We need to find out where the root of this trade friction lies",
+    "soundmark": "/wiː niːd tuː faɪnd aʊt weə ðə ruːt ɒv ðɪs treɪd ˈfrɪkʃn laɪz/"
+  },
+  {
+    "chinese": "研究发现消费者的购买决策往往受到广告的影响",
+    "english": "Research has found that consumers' purchasing decisions are often influenced by advertising",
+    "soundmark": "/rɪˈsɜːtʃ hæz faʊnd ðæt kənˈsjuːməz ˈpɜːtʃəsɪŋ dɪˈsɪʒnz ɑːr ˈɒfn ɪnˈfluənst baɪ ˈædvətaɪzɪŋ/"
+  },
+  {
+    "chinese": "经济专家警告说房价过快上涨会引发金融风险",
+    "english": "Economic experts warn that rapidly rising housing prices will trigger financial risks",
+    "soundmark": "/ˌiːkəˈnɒmɪk ˈekspɜːts wɔːn ðæt ˈræpɪdli ˈraɪzɪŋ ˈhaʊzɪŋ praɪsɪz wɪl ˈtrɪɡə faɪˈnænʃl rɪsks/"
+  },
+  {
+    "chinese": "我无法判断这次股市波动是否是买入的好时机",
+    "english": "I cannot judge whether this stock market fluctuation is a good time to buy",
+    "soundmark": "/aɪ ˈkænɒt dʒʌdʒ ˈweðə ðɪs stɒk ˈmɑːkɪt ˌflʌktʃuˈeɪʃn ɪz ə ɡʊd taɪm tuː baɪ/"
+  },
+  {
+    "chinese": "全球供应链中断这一事实提醒我们经济需要多元化",
+    "english": "The fact that global supply chains are disrupted reminds us that the economy needs diversification",
+    "soundmark": "/ðə fækt ðæt ˈɡləʊbl səˈplaɪ tʃeɪnz ɑː dɪsˈrʌptɪd rɪˈmaɪndz ʌs ðæt ði ɪˈkɒnəmi niːdz daɪˌvɜːsɪfɪˈkeɪʃn/"
+  },
+  {
+    "chinese": "我们希望政府能出台政策帮助小微企业渡过难关",
+    "english": "We hope that the government will introduce policies to help small businesses overcome difficulties",
+    "soundmark": "/wiː həʊp ðæt ðə ˈɡʌvənmənt wɪl ˌɪntrəˈdjuːs ˈpɒləsiz tuː help smɔːl ˈbɪznɪsɪz ˌəʊvəˈkʌm ˈdɪfɪkəltiz/"
+  },
+  {
+    "chinese": "消费者应该意识到冲动消费会严重影响他们的财务状况",
+    "english": "Consumers should realize that impulsive spending will seriously affect their financial situation",
+    "soundmark": "/kənˈsjuːməz ʃʊd ˈrɪəlaɪz ðæt ɪmˈpʌlsɪv ˈspendɪŋ wɪl ˈsɪəriəsli əˈfekt ðeə faɪˈnænʃl ˌsɪtʃuˈeɪʃn/"
+  },
+  {
+    "chinese": "数据显示发展中国家在全球贸易中的份额正在增加",
+    "english": "Data shows that developing countries' share in global trade is increasing",
+    "soundmark": "/ˈdeɪtə ʃəʊz ðæt dɪˈveləpɪŋ ˈkʌntriz ʃeə ɪn ˈɡləʊbl treɪd ɪz ɪnˈkriːsɪŋ/"
+  },
+  {
+    "chinese": "问题是政府是否有足够的资金来支持经济刺激计划",
+    "english": "The question is whether the government has enough funds to support the economic stimulus plan",
+    "soundmark": "/ðə ˈkwestʃən ɪz ˈweðə ðə ˈɡʌvənmənt hæz ɪˈnʌf fʌndz tuː səˈpɔːt ði ˌiːkəˈnɒmɪk ˈstɪmjələs plæn/"
+  },
+  {
+    "chinese": "每个企业管理者都应该明白效率就是利润",
+    "english": "Every business manager should understand that efficiency means profit",
+    "soundmark": "/ˈevri ˈbɪznɪs ˈmænɪdʒə ʃʊd ˌʌndəˈstænd ðæt ɪˈfɪʃnsi miːnz ˈprɒfɪt/"
+  },
+  {
+    "chinese": "我怀疑这家公司公布的财务报告是否真实可靠",
+    "english": "I doubt whether the financial report published by this company is reliable",
+    "soundmark": "/aɪ daʊt ˈweðə ðə faɪˈnænʃl rɪˈpɔːt ˈpʌblɪʃt baɪ ðɪs ˈkʌmpəni ɪz rɪˈlaɪəbl/"
+  },
+  {
+    "chinese": "全球化带来了这样一个现实：各国经济已经紧密相连",
+    "english": "Globalization has brought the reality that economies of all countries are closely connected",
+    "soundmark": "/ˌɡləʊbəlaɪˈzeɪʃn hæz brɔːt ðə riˈæləti ðæt ɪˈkɒnəmiz ɒv ɔːl ˈkʌntriz ɑː ˈkləʊsli kəˈnektɪd/"
+  },
+  {
+    "chinese": "无论经济形势如何变化我们都应该保持冷静",
+    "english": "No matter how the economic situation changes, we should stay calm",
+    "soundmark": "/nəʊ meɪtə haʊ ði ˌiːkəˈnɒmɪk ˌsɪtʃuˈeɪʃn ˈtʃeɪndʒɪz wiː ʃʊd steɪ kɑːm/"
+  },
+  {
+    "chinese": "最令我印象深刻的是这家企业如何在逆境中实现增长",
+    "english": "What impressed me most is how this enterprise achieved growth in adversity",
+    "soundmark": "/wɒt ɪmˈprest miː məʊst ɪz haʊ ðɪs ˈentəpraɪz əˈtʃiːvd ɡrəʊθ ɪn ədˈvɜːsɪti/"
+  },
+  {
+    "chinese": "成功的商业投资需要你能准确预测市场趋势",
+    "english": "A successful business investment requires that you can accurately predict market trends",
+    "soundmark": "/ə səkˈsesfl ˈbɪznɪs ɪnˈvestmənt rɪˈkwaɪəz ðæt juː kæn ˈækjərətli prɪˈdɪkt ˈmɑːkɪt trendz/"
+  },
+  {
+    "chinese": "政府对失业问题的关注表明就业是经济的基础",
+    "english": "The government's focus on unemployment shows that employment is the foundation of the economy",
+    "soundmark": "/ðə ˈɡʌvənmənts ˈfəʊkəs ɒn ˌʌnɪmˈplɔɪmənt ʃəʊz ðæt ɪmˈplɔɪmənt ɪz ðə faʊnˈdeɪʃn ɒv ði ɪˈkɒnəmi/"
+  },
+  {
+    "chinese": "如果想知道一个国家的经济状况就看它的就业率",
+    "english": "If you want to know a country's economic condition, look at its employment rate",
+    "soundmark": "/ɪf juː wɒnt tuː nəʊ ə ˈkʌntriz ˌiːkəˈnɒmɪk kənˈdɪʃn lʊk ət ɪts ɪmˈplɔɪmənt reɪt/"
+  },
+  {
+    "chinese": "我坚信持续创新是企业保持竞争力的唯一途径",
+    "english": "I firmly believe that continuous innovation is the only way for a company to remain competitive",
+    "soundmark": "/aɪ ˈfɜːmli bɪˈliːv ðæt kənˈtɪnjuəs ˌɪnəˈveɪʃn ɪz ði ˈəʊnli weɪ fɔː ə ˈkʌmpəni tuː rɪˈmeɪn kəmˈpetətɪv/"
+  },
+  {
+    "chinese": "消费者权益保护法规定商家不得欺骗消费者",
+    "english": "The consumer protection law stipulates that businesses must not deceive consumers",
+    "soundmark": "/ðə kənˈsjuːmə prəˈtekʃn lɔː ˈstɪpjuleɪts ðæt ˈbɪznɪsɪz mʌst nɒt dɪˈsiːv kənˈsjuːməz/"
+  },
+  {
+    "chinese": "这家企业面临的挑战是如何在国际市场上站稳脚跟",
+    "english": "The challenge this enterprise faces is how to gain a foothold in the international market",
+    "soundmark": "/ðə ˈtʃælɪndʒ ðɪs ˈentəpraɪz ˈfeɪsɪz ɪz haʊ tuː ɡeɪn ə ˈfʊthəʊld ɪn ði ˌɪntəˈnæʃənl ˈmɑːkɪt/"
+  },
+  {
+    "chinese": "我在思考是否应该把存款投入股市",
+    "english": "I am thinking about whether I should put my savings into the stock market",
+    "soundmark": "/aɪ æm ˈθɪŋkɪŋ əˈbaʊt ˈweðə aɪ ʃʊd pʊt maɪ ˈseɪvɪŋz ˈɪntuː ðə stɒk ˈmɑːkɪt/"
+  },
+  {
+    "chinese": "众所周知可持续发展已经成为全球企业的共识",
+    "english": "It is well-known that sustainable development has become a global business consensus",
+    "soundmark": "/ɪt ɪz ˈwelˌnəʊn ðæt səˈsteɪnəbl dɪˈveləpmənt hæz bɪˈkʌm ə ˈɡləʊbl ˈbɪznɪs kənˈsensəs/"
+  },
+  {
+    "chinese": "供应链管理的好坏直接影响企业的运营成本",
+    "english": "Whether supply chain management is good or bad directly affects a company's operating costs",
+    "soundmark": "/ˈweðə səˈplaɪ tʃeɪn ˈmænɪdʒmənt ɪz ɡʊd ɔː bæd dɪˈrektli əˈfekts ə ˈkʌmpənz ˈɒpəreɪtɪŋ kɒsts/"
+  },
+  {
+    "chinese": "董事会正在讨论公司是否应该进行大规模裁员",
+    "english": "The board of directors is discussing whether the company should carry out large-scale layoffs",
+    "soundmark": "/ðə bɔːd ɒv daɪˈrektəz ɪz dɪsˈkʌsɪŋ ˈweðə ðə ˈkʌmpəni ʃʊd ˈkæri aʊt lɑːdʒˌskeɪl ˈleɪɒfs/"
+  },
+  {
+    "chinese": "金融分析师指出股市近期的波动反映了投资者对经济的担忧",
+    "english": "Financial analysts point out that recent stock market fluctuations reflect investors' concerns about the economy",
+    "soundmark": "/faɪˈnænʃl ˈænəlɪsts pɔɪnt aʊt ðæt ˈriːsnt stɒk ˈmɑːkɪt ˌflʌktʃuˈeɪʃnz rɪˈflekt ɪnˈvestəz kənˈsɜːnz əˈbaʊt ði ɪˈkɒnəmi/"
+  },
+  {
+    "chinese": "我们的研究表明品牌忠诚度是影响消费者复购率的关键因素",
+    "english": "Our research shows that brand loyalty is the key factor affecting consumers' repurchase rate",
+    "soundmark": "/aʊə rɪˈsɜːtʃ ʃəʊz ðæt brænd ˈlɔɪəlti ɪz ðə kiː ˈfæktə əˈfektɪŋ kənˈsjuːməz ˌriːˈpɜːtʃəs reɪt/"
+  },
+  {
+    "chinese": "我认为每个人都应该学习基本的理财知识来管理个人财务",
+    "english": "I think everyone should learn basic financial knowledge to manage their personal finances",
+    "soundmark": "/aɪ θɪŋk ˈevriwʌn ʃʊd lɜːn ˈbeɪsɪk faɪˈnænʃl ˈnɒlɪdʒ tuː ˈmænɪdʒ ðeə ˈpɜːsənl ˈfaɪnænsɪz/"
+  },
+  {
+    "chinese": "这次经济论坛的主题是如何促进中小企业的发展",
+    "english": "The theme of this economic forum is how to promote the development of small and medium enterprises",
+    "soundmark": "/ðə θiːm ɒv ðɪs ˌiːkəˈnɒmɪk ˈfɔːrəm ɪz haʊ tuː prəˈməʊt ðə dɪˈveləpmənt ɒv smɔːl ænd ˈmiːdiəm ˈentəpraɪzɪz/"
+  },
+  {
+    "chinese": "消费者越来越意识到环保消费的重要性",
+    "english": "Consumers are increasingly aware that eco-friendly consumption is important",
+    "soundmark": "/kənˈsjuːməz ɑː ɪnˈkriːsɪŋli əˈweə ðæt ˌiːkəʊˈfrendli kənˈsʌmpʃn ɪz ɪmˈpɔːtənt/"
+  },
+  {
+    "chinese": "我们必须认识到国际贸易平衡对经济稳定至关重要",
+    "english": "We must realize that international trade balance is crucial to economic stability",
+    "soundmark": "/wiː mʌst ˈrɪəlaɪz ðæt ˌɪntəˈnæʃənl treɪd ˈbæləns ɪz ˈkruːʃl tuː ˌiːkəˈnɒmɪk stəˈbɪləti/"
+  },
+  {
+    "chinese": "调查显示大多数年轻人不知道如何合理规划自己的预算",
+    "english": "The survey shows that most young people do not know how to plan their budget reasonably",
+    "soundmark": "/ðə ˈsɜːveɪ ʃəʊz ðæt məʊst jʌŋ ˈpiːpl duː nɒt nəʊ haʊ tuː plæn ðeə ˈbʌdʒɪt ˈriːznəbli/"
+  },
+  {
+    "chinese": "电子商务平台让消费者可以随时随地购物",
+    "english": "E-commerce platforms allow consumers to shop anytime and anywhere",
+    "soundmark": "/ˈiːˌkɒmɜːs ˈplætfɔːmz əˈlaʊ kənˈsjuːməz tuː ʃɒp ˈenitaɪm ænd ˈenɪweə/"
+  },
+  {
+    "chinese": "这家公司之所以成功是因为它始终以客户为中心",
+    "english": "The reason why this company succeeded is that it always puts customers first",
+    "soundmark": "/ðə ˈriːzn waɪ ðɪs ˈkʌmpəni səkˈsiːdɪd ɪz ðæt ɪt ˈɔːlweɪz pʊts ˈkʌstəməz fɜːst/"
+  },
+  {
+    "chinese": "投资者担心的是贸易战是否会进一步升级",
+    "english": "What investors worry about is whether the trade war will escalate further",
+    "soundmark": "/wɒt ɪnˈvestəz ˈwʌri əˈbaʊt ɪz ˈweðə ðə treɪd wɔː wɪl ˈeskəleɪt ˈfɜːðə/"
+  },
+  {
+    "chinese": "我想知道为什么有些企业能在经济危机中反而蓬勃发展",
+    "english": "I wonder why some enterprises can actually thrive during an economic crisis",
+    "soundmark": "/aɪ ˈwʌndə waɪ sʌm ˈentəpraɪzɪz kæn ˈæktʃuəli θraɪv ˈdjʊərɪŋ ən ˌiːkəˈnɒmɪk ˈkraɪsɪs/"
+  },
+  {
+    "chinese": "经济学家们一直在争论什么才是衡量经济健康的最重要指标",
+    "english": "Economists have been arguing about what the most important indicator of economic health is",
+    "soundmark": "/ɪˈkɒnəmɪsts hæv biːn ˈɑːɡjuːɪŋ əˈbaʊt wɒt ðə məʊst ɪmˈpɔːtənt ˈɪndɪkeɪtə ɒv ˌiːkəˈnɒmɪk helθ ɪz/"
+  },
+  {
+    "chinese": "我认为只有通过创新才能在激烈的市场竞争中脱颖而出",
+    "english": "I believe that only through innovation can a company stand out in fierce market competition",
+    "soundmark": "/aɪ bɪˈliːv ðæt ˈəʊnli θruː ˌɪnəˈveɪʃn kæn ə ˈkʌmpəni stænd aʊt ɪn fɪəs ˈmɑːkɪt ˌkɒmpəˈtɪʃn/"
+  },
+  {
+    "chinese": "全球供应链安全这一议题已成为各国政府关注的焦点",
+    "english": "The issue that global supply chain security has become a focus of governments worldwide is significant",
+    "soundmark": "/ði ˈɪʃuː ðæt ˈɡləʊbl səˈplaɪ tʃeɪn sɪˈkjʊərəti hæz bɪˈkʌm ə fəʊkəs ɒv ˈɡʌvənmənts ˈwɜːldwaɪd ɪz sɪɡˈnɪfɪkənt/"
+  },
+  {
+    "chinese": "我们期待政府能明确说明经济改革将何时启动",
+    "english": "We expect the government to clarify when the economic reform will be launched",
+    "soundmark": "/wiː ɪkˈspekt ðə ˈɡʌvənmənt tuː ˈklærɪfaɪ wen ði ˌiːkəˈnɒmɪk rɪˈfɔːm wɪl biː lɔːntʃt/"
+  },
+  {
+    "chinese": "事实证明合理的税收政策对经济增长至关重要",
+    "english": "The evidence shows that reasonable tax policy is essential to economic growth",
+    "soundmark": "/ðɪ ˈevɪdəns ʃəʊz ðæt ˈriːznəbl tæks ˈpɒləsi ɪz ɪˈsenʃl tuː ˌiːkəˈnɒmɪk ɡrəʊθ/"
+  },
+  {
+    "chinese": "消费者需要知道他们在购物时享有哪些合法权益",
+    "english": "Consumers need to know what legal rights they have when shopping",
+    "soundmark": "/kənˈsjuːməz niːd tuː nəʊ wɒt ˈliːɡl raɪts ðeɪ hæv wen ˈʃɒpɪŋ/"
+  },
+  {
+    "chinese": "这个品牌受欢迎的原因是它提供了物美价廉的产品",
+    "english": "The reason why this brand is popular is that it offers quality products at affordable prices",
+    "soundmark": "/ðə ˈriːzn waɪ ðɪs brænd ɪz ˈpɒpjələ ɪz ðæt ɪt ˈɒfəz ˈkwɒləti ˈprɒdʌkts ət əˈfɔːdəbl praɪsɪz/"
+  },
+  {
+    "chinese": "经济全球化使各国之间的贸易往来变得更加频繁",
+    "english": "Economic globalization has made trade between countries more frequent",
+    "soundmark": "/ˌiːkəˈnɒmɪk ˌɡləʊbəlaɪˈzeɪʃn hæz meɪd treɪd bɪˈtwiːn ˈkʌntriz mɔː ˈfriːkwənt/"
+  },
+  {
+    "chinese": "众所周知亚洲已成为全球经济增长的重要引擎",
+    "english": "It is widely recognized that Asia has become an important engine of global economic growth",
+    "soundmark": "/ɪt ɪz ˈwaɪdli ˈrekəɡnaɪzd ðæt ˈeɪʒə hæz bɪˈkʌm ən ɪmˈpɔːtənt ˈendʒɪn ɒv ˈɡləʊbl ˌiːkəˈnɒmɪk ɡrəʊθ/"
+  },
+  {
+    "chinese": "我们需要弄清楚消费者究竟为什么更喜欢在线购物",
+    "english": "We need to figure out exactly why consumers prefer online shopping",
+    "soundmark": "/wiː niːd tuː ˈfɪɡə aʊt ɪɡˈzæktli waɪ kənˈsjuːməz prɪˈfɜː ˈɒnlaɪn ˈʃɒpɪŋ/"
+  },
+  {
+    "chinese": "无论是企业还是个人都应该学会如何有效管理资金",
+    "english": "Whether it is a business or an individual, everyone should learn how to manage funds effectively",
+    "soundmark": "/ˈweðər ɪt ɪz ə ˈbɪznɪs ɔːr ən ˌɪndɪˈvɪdʒuəl ˈevriwʌn ʃʊd lɜːn haʊ tuː ˈmænɪdʒ fʌndz ɪˈfektɪvli/"
+  },
+  {
+    "chinese": "央行宣布降息的消息让整个金融市场为之振奋",
+    "english": "The news that the central bank announced an interest rate cut excited the entire financial market",
+    "soundmark": "/ðə njuːz ðæt ðə ˈsentrəl bæŋk əˈnaʊnst ən ˈɪntrəst reɪt kʌt ɪkˈsaɪtɪd ði ɪnˈtaɪə faɪˈnænʃl ˈmɑːkɪt/"
+  },
+  {
+    "chinese": "我认为中小企业是国民经济的重要组成部分",
+    "english": "I think that small and medium enterprises are an important part of the national economy",
+    "soundmark": "/aɪ θɪŋk ðæt smɔːl ænd ˈmiːdiəm ˈentəpraɪzɪz ɑːr ən ɪmˈpɔːtənt pɑːt ɒv ðə ˈnæʃənl ɪˈkɒnəmi/"
+  },
+  {
+    "chinese": "我们不确定这种经济模式是否能在其他国家复制",
+    "english": "We are uncertain whether this economic model can be replicated in other countries",
+    "soundmark": "/wiː ɑː ʌnˈsɜːtn ˈweðə ðɪs ˌiːkəˈnɒmɪk ˈmɒdl kæn biː ˈreplɪkeɪtɪd ɪn ˈʌðə ˈkʌntriz/"
+  },
+  {
+    "chinese": "真正的企业家精神在于发现别人看不到的商业机会",
+    "english": "The true entrepreneurial spirit lies in discovering business opportunities that others cannot see",
+    "soundmark": "/ðə truː ˌɒntrəprəˈnɜːriəl ˈspɪrɪt laɪz ɪn dɪsˈkʌvərɪŋ ˈbɪznɪs ˌɒpəˈtjuːnɪtiz ðæt ˈʌðəz ˈkænɒt siː/"
+  }
+]
