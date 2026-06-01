@@ -8,7 +8,7 @@ dotenv.config({ path: path.resolve(__dirname, "../../apps/api/.env.test") });
 export default {
   schema: "../schema/src/schema/*",
   out: "./drizzle",
-  dialect: "postgresql",
+  dialect: "mysql",
   dbCredentials: {
     url: process.env.DATABASE_URL || "",
   },

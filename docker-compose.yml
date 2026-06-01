@@ -3,32 +3,31 @@ version: "3.8"
 services:
   db:
     restart: always
-    image: postgres:14-alpine
-    user: postgres
+    image: mysql:8.0
     environment:
-      POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: password
-      POSTGRES_DB: earthworm
+      MYSQL_ROOT_PASSWORD: password
+      MYSQL_DATABASE: earthworm
     volumes:
-      - data:/var/lib/postgres/main-data
+      - mysql_data:/var/lib/mysql
     healthcheck:
-      test: ["CMD-SHELL", "pg_isready"]
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost"]
       interval: 10s
       timeout: 5s
       retries: 5
+    # 如果使用 Docker MySQL，需要先停掉本机 MySQL80 服务
+    # net stop MySQL80
     ports:
-      - 5433:5432
+      - 3306:3306
   testdb:
-    image: postgres:14-alpine
-    user: postgres
-    volumes:
-      - data:/var/lib/postgres/test-data
+    # 测试环境使用不同端口避免冲突
+    image: mysql:8.0
     environment:
-      POSTGRES_USER: test
-      POSTGRES_PASSWORD: password
-      POSTGRES_DB: earthworm_test
+      MYSQL_ROOT_PASSWORD: password
+      MYSQL_DATABASE: earthworm_test
+    volumes:
+      - mysql_test_data:/var/lib/mysql
     ports:
-      - 5480:5432
+      - 3307:3306
   redis:
     image: redis:5-alpine
     restart: always
@@ -77,5 +76,9 @@ services:
       retries: 5
 
 volumes:
+  mysql_data:
+    driver: local
+  mysql_test_data:
+    driver: local
   data:
     driver: local
