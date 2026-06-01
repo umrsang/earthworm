@@ -6,8 +6,15 @@ import mysql from "mysql2/promise";
 
 import { schemas } from "@earthworm/schema";
 
-const envName = process.env.NODE_ENV === "prod" ? ".env.prod" : ".env";
-dotenv.config({ path: path.resolve(__dirname, `../../../apps/api/${envName}`) });
+// 根据环境变量选择不同的 .env 文件
+let envFile = ".env";
+if (process.env.NODE_ENV === "prod") {
+  envFile = ".env.prod";
+} else if (process.env.ENV_TYPE === "office") {
+  envFile = ".env.office";
+}
+
+dotenv.config({ path: path.resolve(__dirname, `../../../apps/api/${envFile}`) });
 
 console.log("connection string: ", process.env.DATABASE_URL);
 const pool = mysql.createPool(process.env.DATABASE_URL ?? "");

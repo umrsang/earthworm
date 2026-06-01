@@ -13,6 +13,7 @@
     "db:init:test:ci": "pnpm schema:build && pnpm -F @earthworm/db run init:ci",
     "db:studio": "pnpm -F @earthworm/db db:studio",
     "db:upload": "pnpm -F @earthworm/xingrong-courses upload",
+    "db:upload:office": "cross-env ENV_TYPE=office pnpm -F @earthworm/xingrong-courses upload",
     "setup": "pnpm install && pnpm db:init && pnpm db:upload",
     "dev": "concurrently \"pnpm dev:serve\" \"pnpm dev:client\"",
     "dev:serve": "pnpm schema:build && pnpm -F api start:dev",
