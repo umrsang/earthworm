@@ -21,17 +21,26 @@ export class MasteredElementService {
       throw new BadRequestException("这个内容已经掌握了");
     }
 
-    const [entity] = await this.db
-      .insert(masteredElementsSchema)
-      .values({
-        userId,
-        content: JSON.stringify(content),
-        masteredAt: new Date(),
-      })
-      .returning();
+    await this.db.insert(masteredElementsSchema).values({
+      userId,
+      content: JSON.stringify(content),
+      masteredAt: new Date(),
+    });
 
-    entity.content = JSON.parse(entity.content as string);
-    return entity;
+    // MySQL doesn't support RETURNING, query the latest inserted record
+    const [entity] = await this.db
+      .select()
+      .from(masteredElementsSchema)
+      .where(
+        and(
+          eq(masteredElementsSchema.userId, userId),
+          eq(masteredElementsSchema.content, JSON.stringify(content)),
+        ),
+      )
+      .orderBy(desc(masteredElementsSchema.masteredAt))
+      .limit(1);
+
+    return { ...entity, content: JSON.parse(entity.content as string) };
   }
 
   async getMasteredElements(userId: string) {
@@ -48,20 +57,28 @@ export class MasteredElementService {
   }
 
   async removeMasteredElement(userId: string, elementId: string) {
-    const result = await this.db
-      .delete(masteredElementsSchema)
+    // First find the element to return it
+    const [existing] = await this.db
+      .select()
+      .from(masteredElementsSchema)
       .where(
         and(eq(masteredElementsSchema.userId, userId), eq(masteredElementsSchema.id, elementId)),
       )
-      .returning();
+      .limit(1);
 
-    if (result.length === 0) {
+    if (!existing) {
       throw new NotFoundException(
         `Mastered element with id ${elementId} not found for user ${userId}`,
       );
     }
 
-    return result[0];
+    await this.db
+      .delete(masteredElementsSchema)
+      .where(
+        and(eq(masteredElementsSchema.userId, userId), eq(masteredElementsSchema.id, elementId)),
+      );
+
+    return existing;
   }
 
   async isMastered(userId: string, content: ElementContent) {

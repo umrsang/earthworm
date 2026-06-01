@@ -31,16 +31,11 @@ export class UserLearningActivityService {
         courseId,
         metadata,
       })
-      .onConflictDoUpdate({
-        target: [
-          userLearningActivitiesSchema.userId,
-          userLearningActivitiesSchema.date,
-          userLearningActivitiesSchema.activityType,
-        ],
+      .onDuplicateKeyUpdate({
         set: {
-          duration: sql`${userLearningActivitiesSchema.duration} + ${duration}`,
+          duration: sql`duration + ${duration}`,
           metadata: metadata
-            ? sql`${userLearningActivitiesSchema.metadata} || ${JSON.stringify(metadata)}::jsonb`
+            ? sql`JSON_MERGE_PATCH(metadata, ${JSON.stringify(metadata)})`
             : undefined,
           updatedAt: new Date(),
         },

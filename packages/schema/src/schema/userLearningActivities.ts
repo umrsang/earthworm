@@ -1,20 +1,20 @@
 import { createId } from "@paralleldrive/cuid2";
-import { date, integer, jsonb, pgTable, text, timestamp, unique } from "drizzle-orm/pg-core";
+import { int, json, mysqlTable, timestamp, unique, varchar } from "drizzle-orm/mysql-core";
 
-export const userLearningActivities = pgTable(
+export const userLearningActivities = mysqlTable(
   "user_learning_activities",
   {
-    id: text("id")
+    id: varchar("id", { length: 128 })
       .primaryKey()
       .$defaultFn(() => createId()),
-    userId: text("user_id").notNull(),
-    date: date("date").notNull(),
-    activityType: text("activity_type").notNull(),
-    courseId: text("course_id"),
-    duration: integer("duration").notNull(),
-    metadata: jsonb("metadata"),
+    userId: varchar("user_id", { length: 128 }).notNull(),
+    date: varchar("date", { length: 10 }).notNull(),
+    activityType: varchar("activity_type", { length: 128 }).notNull(),
+    courseId: varchar("course_id", { length: 128 }),
+    duration: int("duration").notNull(),
+    metadata: json("metadata"),
     createdAt: timestamp("created_at").notNull().defaultNow(),
-    updatedAt: timestamp("updated_at").$onUpdateFn(() => new Date()),
+    updatedAt: timestamp("updated_at").onUpdateNow(),
   },
   (t) => ({
     unq: unique().on(t.userId, t.date, t.activityType),

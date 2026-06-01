@@ -50,9 +50,8 @@ export class CourseHistoryService {
         userId,
         completionCount: 1,
       })
-      .onConflictDoUpdate({
-        target: [courseHistory.userId, courseHistory.courseId, courseHistory.coursePackId],
-        set: { completionCount: sql`course_history.completion_count + 1` },
+      .onDuplicateKeyUpdate({
+        set: { completionCount: sql`completion_count + 1` },
       });
   }
 }

@@ -49,8 +49,7 @@ export class UserCourseProgressService {
         courseId,
         statementIndex,
       })
-      .onConflictDoUpdate({
-        target: [userCourseProgress.userId, userCourseProgress.coursePackId],
+      .onDuplicateKeyUpdate({
         set: { courseId, statementIndex },
       });
   }

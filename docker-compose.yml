@@ -3,32 +3,28 @@ version: "3.8"
 services:
   db:
     restart: always
-    image: postgres:14-alpine
-    user: postgres
+    image: mysql:8.0
     environment:
-      POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: password
-      POSTGRES_DB: earthworm
+      MYSQL_ROOT_PASSWORD: password
+      MYSQL_DATABASE: earthworm
     volumes:
-      - data:/var/lib/postgres/main-data
+      - data:/var/lib/mysql/main-data
     healthcheck:
-      test: ["CMD-SHELL", "pg_isready"]
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost"]
       interval: 10s
       timeout: 5s
       retries: 5
     ports:
-      - 5433:5432
+      - 3306:3306
   testdb:
-    image: postgres:14-alpine
-    user: postgres
-    volumes:
-      - data:/var/lib/postgres/test-data
+    image: mysql:8.0
     environment:
-      POSTGRES_USER: test
-      POSTGRES_PASSWORD: password
-      POSTGRES_DB: earthworm_test
+      MYSQL_ROOT_PASSWORD: password
+      MYSQL_DATABASE: earthworm_test
+    volumes:
+      - data:/var/lib/mysql/test-data
     ports:
-      - 5480:5432
+      - 3307:3306
   redis:
     image: redis:5-alpine
     restart: always

@@ -1,17 +1,17 @@
 import { createId } from "@paralleldrive/cuid2";
-import { integer, pgTable, text, timestamp, unique } from "drizzle-orm/pg-core";
+import { int, mysqlTable, timestamp, unique, varchar } from "drizzle-orm/mysql-core";
 
-export const userRank = pgTable(
+export const userRank = mysqlTable(
   "user_rank",
   {
-    id: text("id")
+    id: varchar("id", { length: 128 })
       .primaryKey()
       .$defaultFn(() => createId()),
-    userId: text("user_id").notNull(),
-    period: text("period").notNull(),
-    count: integer("count").notNull().default(0),
+    userId: varchar("user_id", { length: 128 }).notNull(),
+    period: varchar("period", { length: 64 }).notNull(),
+    count: int("count").notNull().default(0),
     createdAt: timestamp("created_at").notNull().defaultNow(),
-    updatedAt: timestamp("updated_at").$onUpdateFn(() => new Date()),
+    updatedAt: timestamp("updated_at").onUpdateNow(),
   },
   (t) => ({
     unq: unique().on(t.userId, t.period),

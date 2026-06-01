@@ -1,22 +1,22 @@
 import { createId } from "@paralleldrive/cuid2";
 import { relations } from "drizzle-orm";
-import { boolean, integer, pgTable, text, timestamp } from "drizzle-orm/pg-core";
+import { boolean, int, mysqlTable, text, timestamp, varchar } from "drizzle-orm/mysql-core";
 
 import { course } from "./course";
 
-export const coursePack = pgTable("course_packs", {
-  id: text("id")
+export const coursePack = mysqlTable("course_packs", {
+  id: varchar("id", { length: 128 })
     .primaryKey()
     .$defaultFn(() => createId()),
-  order: integer("order").notNull(),
+  order: int("order").notNull(),
   title: text("title").notNull(),
-  description: text("description").default(""),
+  description: text("description"),
   isFree: boolean("is_free"),
   cover: text("cover"),
-  creatorId: text("creator_id").notNull(),
-  shareLevel: text("share_level").default("private"),
+  creatorId: varchar("creator_id", { length: 128 }).notNull(),
+  shareLevel: varchar("share_level", { length: 64 }).default("private"),
   createdAt: timestamp("created_at").notNull().defaultNow(),
-  updatedAt: timestamp("updated_at").$onUpdateFn(() => new Date()),
+  updatedAt: timestamp("updated_at").onUpdateNow(),
 });
 
 export const coursePackRelations = relations(coursePack, ({ many }) => ({

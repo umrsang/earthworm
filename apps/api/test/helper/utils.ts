@@ -8,9 +8,16 @@ import { LogtoService } from "../../src/logto/logto.service";
 import { MockRedisModule } from "./mockRedis";
 
 export async function cleanDB(db: DbType) {
-  await db.execute(
-    sql`TRUNCATE TABLE courses, statements, "course_packs" , "user_course_progress", "course_history", "user_learning_activities", "mastered_elements", "memberships" RESTART IDENTITY CASCADE;`,
-  );
+  await db.execute(sql`SET FOREIGN_KEY_CHECKS = 0`);
+  await db.execute(sql`TRUNCATE TABLE courses`);
+  await db.execute(sql`TRUNCATE TABLE statements`);
+  await db.execute(sql`TRUNCATE TABLE course_packs`);
+  await db.execute(sql`TRUNCATE TABLE user_course_progress`);
+  await db.execute(sql`TRUNCATE TABLE course_history`);
+  await db.execute(sql`TRUNCATE TABLE user_learning_activities`);
+  await db.execute(sql`TRUNCATE TABLE mastered_elements`);
+  await db.execute(sql`TRUNCATE TABLE memberships`);
+  await db.execute(sql`SET FOREIGN_KEY_CHECKS = 1`);
 }
 
 export async function signin(builder: TestingModule) {

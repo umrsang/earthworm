@@ -14,35 +14,52 @@ export async function createCoursePack(coursePackInfo: CreateCoursePack) {
   const result = await db.transaction(async (tx) => {
     const coursePackOrder = await calculateCoursePackOrder(coursePackInfo.uId);
 
+    await tx.insert(coursePackSchema).values({
+      order: coursePackOrder,
+      creatorId: coursePackInfo.uId,
+      shareLevel: coursePackInfo.shareLevel,
+      title: coursePackInfo.title,
+      description: coursePackInfo.description,
+      cover: coursePackInfo.cover,
+      isFree: true,
+    });
+
+    // MySQL doesn't support RETURNING, query the inserted record
     const [coursePackEntity] = await tx
-      .insert(coursePackSchema)
-      .values({
-        order: coursePackOrder,
-        creatorId: coursePackInfo.uId,
-        shareLevel: coursePackInfo.shareLevel,
-        title: coursePackInfo.title,
-        description: coursePackInfo.description,
-        cover: coursePackInfo.cover,
-        isFree: true,
-      })
-      .returning();
+      .select()
+      .from(coursePackSchema)
+      .where(
+        and(
+          eq(coursePackSchema.creatorId, coursePackInfo.uId),
+          eq(coursePackSchema.title, coursePackInfo.title),
+        ),
+      )
+      .orderBy(asc(coursePackSchema.order))
+      .limit(1);
 
     const courseIds: string[] = [];
     for (const [cIndex, course] of coursePackInfo.courses.entries()) {
+      await tx.insert(courseSchema).values({
+        coursePackId: coursePackEntity.id,
+        order: cIndex + 1,
+        title: course.title,
+        description: course.description,
+      });
+
       const [courseEntity] = await tx
-        .insert(courseSchema)
-        .values({
-          coursePackId: coursePackEntity.id,
-          order: cIndex + 1,
-          title: course.title,
-          description: course.description,
-          learningContent: course.learningContent,
-        })
-        .returning({
+        .select({
           id: courseSchema.id,
           order: courseSchema.order,
           title: courseSchema.title,
-        });
+        })
+        .from(courseSchema)
+        .where(
+          and(
+            eq(courseSchema.coursePackId, coursePackEntity.id),
+            eq(courseSchema.order, cIndex + 1),
+          ),
+        )
+        .limit(1);
 
       courseIds.push(courseEntity.id.toString());
 
@@ -155,7 +172,6 @@ export async function updateCoursePack(coursePackId: string, coursePackInfo: Upd
               title: newCourseInfo.title,
               description: newCourseInfo.description,
               order: newCourseIndex + 1,
-              learningContent: newCourseInfo.learningContent,
             })
             .where(eq(courseSchema.id, newCourseInfo.publishCourseId));
 
@@ -165,20 +181,27 @@ export async function updateCoursePack(coursePackId: string, coursePackInfo: Upd
         } else {
           // Create new course
           // 新的在老的里面不存在 那么创建
+          await tx.insert(courseSchema).values({
+            title: newCourseInfo.title,
+            description: newCourseInfo.description,
+            order: newCourseIndex + 1,
+            coursePackId: coursePackId,
+          });
+
           const [courseEntity] = await tx
-            .insert(courseSchema)
-            .values({
-              title: newCourseInfo.title,
-              description: newCourseInfo.description,
-              order: newCourseIndex + 1,
-              coursePackId: coursePackId,
-              learningContent: newCourseInfo.learningContent,
-            })
-            .returning({
+            .select({
               id: courseSchema.id,
               order: courseSchema.order,
               title: courseSchema.title,
-            });
+            })
+            .from(courseSchema)
+            .where(
+              and(
+                eq(courseSchema.coursePackId, coursePackId),
+                eq(courseSchema.order, newCourseIndex + 1),
+              ),
+            )
+            .limit(1);
 
           courseIds.push(courseEntity.id.toString());
 
