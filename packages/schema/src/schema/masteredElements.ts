@@ -1,11 +1,11 @@
 import { createId } from "@paralleldrive/cuid2";
-import { json, mysqlTable, timestamp, varchar } from "drizzle-orm/mysql-core";
+import { jsonb, pgTable, text, timestamp } from "drizzle-orm/pg-core";
 
-export const masteredElements = mysqlTable("mastered_elements", {
-  id: varchar("id", { length: 128 })
+export const masteredElements = pgTable("mastered_elements", {
+  id: text("id")
     .primaryKey()
     .$defaultFn(() => createId()),
-  userId: varchar("user_id", { length: 128 }).notNull(),
-  content: json("content").notNull(),
+  userId: text("user_id").notNull(),
+  content: jsonb("content").notNull(),
   masteredAt: timestamp("mastered_at").defaultNow(),
 });

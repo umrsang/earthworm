@@ -13,7 +13,6 @@
   "dependencies": {
     "@earthworm/db": "workspace:^",
     "@earthworm/schema": "workspace:^",
-    "@paralleldrive/cuid2": "^2.2.2",
     "drizzle-orm": "^0.32.0",
     "inquirer": "^9.2.13",
     "pdf-parse": "^1.1.1"

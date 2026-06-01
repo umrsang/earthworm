@@ -27,7 +27,7 @@
 
 - **Node.js version >= v20**
   > 使用来自 .node-version 的版本 [支持的工具](https://github.com/shadowspawn/node-version-usage#compatibility-testing)
-- **MySQL version >= 8.0.0**
+- **Postgres version >= 8.0.0**
 - **Redis version >= 5.0.0**
 - 项目依赖 **Docker**，所以请确保你本地已安装并成功运行
 
@@ -44,37 +44,6 @@ node --version # v20+
 
 pnpm -v # 8+
 ```
-
-## 📁 项目架构
-
-```
-earthworm1/
-├── apps/
-│   ├── api/          # NestJS 后端 API (端口 3001)
-│   └── client/       # Nuxt 3 前端 (端口 3000)
-├── packages/
-│   ├── schema/       # Drizzle ORM 数据表定义 (10 张表)
-│   ├── db/           # 数据库连接 + 迁移脚本
-│   ├── game-data-sdk/# 课程包 CRUD 操作的独立 SDK
-│   ├── xingrong-courses/ # PDF 解析 + 课程数据导入
-│   ├── courses/      # 课程数据 (JSON)
-│   └── docs/         # VitePress 文档站
-├── docker-compose.yml  # MySQL + Redis + Logto
-└── pnpm-workspace.yaml
-```
-
-**技术栈：**
-
-- **后端**: NestJS + Drizzle ORM + MySQL
-- **前端**: Nuxt 3 (Vue 3)
-- **认证**: Logto (自托管，独立 PostgreSQL，用于 OAuth 认证)
-- **缓存**: Redis
-- **包管理**: pnpm monorepo
-
-**核心数据表 (10张)：**
-
-- `course_packs` → `courses` → `statements` (课程层级)
-- 用户相关: `course_history`, `user_course_progress`, `user_learn_record`, `user_learning_activities`, `user_rank`, `mastered_elements`, `memberships`
 
 ### 1. 安装依赖
 
@@ -116,7 +85,7 @@ unzip logto_db_init_data.zip -d .volumes/
 
 ### 4. 启动 Docker Compose 服务
 
-后端用到了 MySQL 和 Redis 服务，通过下面在 `package.json` 中配置的命令启动和停止。
+后端用到了 Postgres 和 Redis 服务，通过下面在 `package.json` 中配置的命令启动和停止。
 
 ```bash
 # 启动

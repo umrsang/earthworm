@@ -56,10 +56,12 @@ export class UserLearningActivityService {
     ];
 
     if (startDate) {
-      conditions.push(gte(userLearningActivitiesSchema.date, startDate));
+      conditions.push(
+        gte(userLearningActivitiesSchema.date, startDate.toISOString().split("T")[0]),
+      );
     }
     if (endDate) {
-      conditions.push(lte(userLearningActivitiesSchema.date, endDate));
+      conditions.push(lte(userLearningActivitiesSchema.date, endDate.toISOString().split("T")[0]));
     }
 
     const result = await this.db
@@ -89,10 +91,12 @@ export class UserLearningActivityService {
     ];
 
     if (startDate) {
-      conditions.push(gte(userLearningActivitiesSchema.date, startDate));
+      conditions.push(
+        gte(userLearningActivitiesSchema.date, startDate.toISOString().split("T")[0]),
+      );
     }
     if (endDate) {
-      conditions.push(lte(userLearningActivitiesSchema.date, endDate));
+      conditions.push(lte(userLearningActivitiesSchema.date, endDate.toISOString().split("T")[0]));
     }
 
     const result = await this.db

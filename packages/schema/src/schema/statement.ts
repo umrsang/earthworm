@@ -1,18 +1,18 @@
 import { createId } from "@paralleldrive/cuid2";
 import { relations } from "drizzle-orm";
-import { int, mysqlTable, text, timestamp, varchar } from "drizzle-orm/mysql-core";
+import { integer, pgTable, text, timestamp } from "drizzle-orm/pg-core";
 
 import { course } from "./course";
 
-export const statement = mysqlTable("statements", {
-  id: varchar("id", { length: 128 })
+export const statement = pgTable("statements", {
+  id: text("id")
     .primaryKey()
     .$defaultFn(() => createId()),
-  order: int("order").notNull(),
+  order: integer("order").notNull(),
   chinese: text("chinese").notNull(),
   english: text("english").notNull(),
   soundmark: text("soundmark").notNull(),
-  courseId: varchar("course_id", { length: 128 })
+  courseId: text("course_id")
     .notNull()
     .references(() => course.id),
   createdAt: timestamp("created_at").notNull().defaultNow(),

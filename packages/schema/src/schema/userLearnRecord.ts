@@ -1,14 +1,14 @@
 import { createId } from "@paralleldrive/cuid2";
-import { date, int, mysqlTable, timestamp, unique, varchar } from "drizzle-orm/mysql-core";
+import { date, integer, pgTable, text, timestamp, unique } from "drizzle-orm/pg-core";
 
-export const userLearnRecord = mysqlTable(
+export const userLearnRecord = pgTable(
   "user_learn_record",
   {
-    id: varchar("id", { length: 128 })
+    id: text("id")
       .primaryKey()
       .$defaultFn(() => createId()),
-    userId: varchar("user_id", { length: 128 }).notNull(),
-    count: int("count").notNull().default(0),
+    userId: text("user_id").notNull(),
+    count: integer("count").notNull().default(0),
     day: date("day").notNull(),
     createdAt: timestamp("created_at").notNull().defaultNow(),
     updatedAt: timestamp("updated_at").$onUpdateFn(() => new Date()),

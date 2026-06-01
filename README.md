@@ -27,7 +27,7 @@ By constructing sentences with conjunctions, it helps you learn English better~ 
 
 - **Node.js version >= v20**
   > Use the version from .node-version. [Supported tools](https://github.com/shadowspawn/node-version-usage#compatibility-testing)
-- **MySQL version >= 8.0.0**
+- **Postgres version >= 14.0.0**
 - **Redis version >= 5.0.0**
 - **Docker**. please make sure it is installed and running successfully on your local machine.
 
@@ -85,7 +85,7 @@ unzip logto_db_init_data.zip -d .volumes/
 
 ### 4. Start Docker Compose Service
 
-The backend relies on MySQL and Redis services. Start and stop these services using the commands configured in `package.json` below.
+The backend relies on Postgres and Redis services. Start and stop these services using the commands configured in `package.json` below.
 
 ```bash
 # start
