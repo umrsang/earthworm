@@ -78,13 +78,19 @@
             </h4>
             <div class="mb-4 rounded-xl bg-black/30 p-4 text-sm text-gray-400">
               <pre>
-[
-  {
-    "english": "I need to pay for this",
-    "chinese": "我需要为这个付款",
-    "soundmark": "aɪ niːd tuː peɪ fɔːr ðɪs"
-  }
-]</pre
+{
+  "title": "自我介绍与日常寒暄",
+  "description": "涵盖姓名、年龄、职业等日常句型",
+  "data": [
+    {
+      "english": "My name is Tom",
+      "chinese": "我叫汤姆",
+      "soundmark": "/maɪ neɪm ɪz tɒm/",
+      "posTags": [[0, 0, "代词"], [1, 1, "名词"]],
+      "syntaxTags": [[0, 0, "主语", "NP"], [1, 3, "谓语", "VP"]]
+    }
+  ]
+}</pre
               >
             </div>
 
@@ -115,11 +121,23 @@
                     <td class="px-4 py-3 text-green-400">是</td>
                     <td class="px-4 py-3">中文翻译</td>
                   </tr>
-                  <tr>
+                  <tr class="border-b border-white/[0.04]">
                     <td class="px-4 py-3"><code class="text-purple-400">soundmark</code></td>
                     <td class="px-4 py-3">string</td>
                     <td class="px-4 py-3 text-gray-600">否</td>
                     <td class="px-4 py-3">音标注音</td>
+                  </tr>
+                  <tr class="border-b border-white/[0.04]">
+                    <td class="px-4 py-3"><code class="text-purple-400">posTags</code></td>
+                    <td class="px-4 py-3">array</td>
+                    <td class="px-4 py-3 text-gray-600">否</td>
+                    <td class="px-4 py-3">词性标注 [[start, end, "词性"], ...]</td>
+                  </tr>
+                  <tr>
+                    <td class="px-4 py-3"><code class="text-purple-400">syntaxTags</code></td>
+                    <td class="px-4 py-3">array</td>
+                    <td class="px-4 py-3 text-gray-600">否</td>
+                    <td class="px-4 py-3">语法标注 [[start, end, "角色", "类型"], ...]</td>
                   </tr>
                 </tbody>
               </table>
@@ -135,7 +153,7 @@
                   name="i-ph-check-circle-fill"
                   class="mt-0.5 h-4 w-4 shrink-0 text-green-400"
                 ></UIcon>
-                每个 JSON 文件必须是数组格式
+                每个 JSON 文件为对象格式，包含 title、description、data 三个字段
               </li>
               <li class="flex items-start gap-2">
                 <UIcon
@@ -150,6 +168,16 @@
                   name="i-ph-check-circle-fill"
                   class="mt-0.5 h-4 w-4 shrink-0 text-green-400"
                 ></UIcon>
+                <code class="text-purple-400">posTags</code>
+                和
+                <code class="text-purple-400">syntaxTags</code>
+                中 start/end 为单词索引（从0开始）
+              </li>
+              <li class="flex items-start gap-2">
+                <UIcon
+                  name="i-ph-check-circle-fill"
+                  class="mt-0.5 h-4 w-4 shrink-0 text-green-400"
+                ></UIcon>
                 JSON 文件名（去掉 .json）作为单元序号，按数字升序排列
               </li>
               <li class="flex items-start gap-2">
@@ -157,7 +185,7 @@
                   name="i-ph-check-circle-fill"
                   class="mt-0.5 h-4 w-4 shrink-0 text-green-400"
                 ></UIcon>
-                无 package.json 时，以 zip 文件名或根目录名作为课程包名称
+                同时兼容旧版纯数组格式上传
               </li>
             </ul>
           </div>
@@ -436,15 +464,21 @@ async function parseZipFile(file: File) {
   for (const dataFile of dataFiles) {
     const file = zipContent.files[dataFile];
     const content = await file.async("string");
-    const data = JSON.parse(content);
+    const parsed = JSON.parse(content);
     const fileName = dataFile.split("/").pop() || "";
 
+    // 兼容新旧格式：新格式为 { title, description, data: [] }，旧格式为 []
+    const isNewFormat = !Array.isArray(parsed) && parsed.data;
+    const unitData = isNewFormat ? parsed.data : parsed;
+    const unitTitle = isNewFormat && parsed.title ? parsed.title : `第${fileName.replace(".json", "")}单元`;
+    const unitDescription = isNewFormat && parsed.description ? parsed.description : "";
+
     courses.push({
-      title: `第${fileName.replace(".json", "")}单元`,
-      description: "",
+      title: unitTitle,
+      description: unitDescription,
       dataFile: fileName,
-      dataCount: Array.isArray(data) ? data.length : 0,
-      data: Array.isArray(data) ? data : [],
+      dataCount: Array.isArray(unitData) ? unitData.length : 0,
+      data: Array.isArray(unitData) ? unitData : [],
       showPreview: false,
     });
   }

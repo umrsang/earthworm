@@ -181,6 +181,8 @@ export class CoursePackService {
           english: item.english,
           chinese: item.chinese,
           phonetic: item.soundmark,
+          posTags: item.posTags,
+          syntaxTags: item.syntaxTags,
         })),
       })),
     };

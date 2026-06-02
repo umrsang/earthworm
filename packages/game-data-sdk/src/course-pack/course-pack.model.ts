@@ -2,6 +2,8 @@ export interface Statement {
   english: string;
   phonetic: string;
   chinese: string;
+  posTags?: number[][];
+  syntaxTags?: (string | number)[][];
 }
 
 interface Course {

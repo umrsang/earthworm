@@ -12,6 +12,8 @@ export const statement = mysqlTable("statements", {
   chinese: text("chinese").notNull(),
   english: text("english").notNull(),
   soundmark: text("soundmark").notNull(),
+  posTags: text("pos_tags"), // JSON array: [[start, end, "label"], ...]
+  syntaxTags: text("syntax_tags"), // JSON array: [[start, end, "label", "type"], ...]
   courseId: varchar("course_id", { length: 128 })
     .notNull()
     .references(() => course.id),

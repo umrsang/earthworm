@@ -64,11 +64,13 @@ export async function createCoursePack(coursePackInfo: CreateCoursePack) {
       courseIds.push(courseEntity.id.toString());
 
       const createStatementTasks = course.statements.map(
-        ({ chinese, english, phonetic }, sIndex) => {
+        ({ chinese, english, phonetic, posTags, syntaxTags }, sIndex) => {
           return tx.insert(statementSchema).values({
             chinese,
             english,
             soundmark: phonetic,
+            posTags: posTags ? JSON.stringify(posTags) : null,
+            syntaxTags: syntaxTags ? JSON.stringify(syntaxTags) : null,
             order: sIndex + 1,
             courseId: courseEntity.id,
           });
@@ -206,11 +208,13 @@ export async function updateCoursePack(coursePackId: string, coursePackInfo: Upd
           courseIds.push(courseEntity.id.toString());
 
           const createStatementTasks = newCourseInfo.statements.map(
-            async ({ chinese, english, phonetic }, sIndex) => {
+            async ({ chinese, english, phonetic, posTags, syntaxTags }, sIndex) => {
               return tx.insert(statementSchema).values({
                 chinese,
                 english,
                 soundmark: phonetic,
+                posTags: posTags ? JSON.stringify(posTags) : null,
+                syntaxTags: syntaxTags ? JSON.stringify(syntaxTags) : null,
                 order: sIndex + 1,
                 courseId: courseEntity.id,
               });
@@ -271,6 +275,10 @@ export async function updateCoursePack(coursePackId: string, coursePackInfo: Upd
             english: newStatementInfo.english,
             chinese: newStatementInfo.chinese,
             soundmark: newStatementInfo.phonetic,
+            posTags: newStatementInfo.posTags ? JSON.stringify(newStatementInfo.posTags) : null,
+            syntaxTags: newStatementInfo.syntaxTags
+              ? JSON.stringify(newStatementInfo.syntaxTags)
+              : null,
           })
           .where(eq(statementSchema.id, oldStatement.id));
 
@@ -285,6 +293,10 @@ export async function updateCoursePack(coursePackId: string, coursePackInfo: Upd
           english: newStatementInfo.english,
           chinese: newStatementInfo.chinese,
           soundmark: newStatementInfo.phonetic,
+          posTags: newStatementInfo.posTags ? JSON.stringify(newStatementInfo.posTags) : null,
+          syntaxTags: newStatementInfo.syntaxTags
+            ? JSON.stringify(newStatementInfo.syntaxTags)
+            : null,
           order: newIndex + 1,
           courseId,
         });

@@ -16,4 +16,6 @@ export class CourseDataItem {
   chinese: string;
   english: string;
   soundmark: string;
+  posTags?: number[][];
+  syntaxTags?: (string | number)[][];
 }
