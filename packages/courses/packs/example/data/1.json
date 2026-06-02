@@ -1,0 +1,465 @@
+[
+  {
+    "english": "My name is Tom",
+    "chinese": "我叫汤姆",
+    "soundmark": "/maɪ neɪm ɪz tɒm/",
+    "posTags": [
+      [0, 0, "代词"],
+      [1, 1, "名词"],
+      [2, 2, "动词"],
+      [3, 3, "专有名词"]
+    ],
+    "syntaxTags": [
+      [0, 0, "主语", "NP"],
+      [1, 3, "谓语", "VP"]
+    ]
+  },
+  {
+    "english": "I'm from China",
+    "chinese": "我来自中国",
+    "soundmark": "/aɪm frɒm tʃaɪnə/",
+    "posTags": [
+      [0, 0, "代词"],
+      [1, 1, "介词"],
+      [2, 2, "专有名词"]
+    ],
+    "syntaxTags": [
+      [0, 0, "主语", "NP"],
+      [1, 2, "表语", "PP"]
+    ]
+  },
+  {
+    "english": "How old are you",
+    "chinese": "你多大了",
+    "soundmark": "/haʊ əld ɑː juː/",
+    "posTags": [
+      [0, 0, "副词"],
+      [1, 1, "形容词"],
+      [2, 2, "动词"],
+      [3, 3, "代词"]
+    ],
+    "syntaxTags": [
+      [0, 1, "状语", "ADVP"],
+      [2, 3, "谓语", "VP"]
+    ]
+  },
+  {
+    "english": "I'm twenty-five years old",
+    "chinese": "我二十五岁",
+    "soundmark": "/aɪm ˈtwentɪfaɪv jɪəz əʊld/",
+    "posTags": [
+      [0, 0, "代词"],
+      [1, 1, "数词"],
+      [2, 2, "名词"],
+      [3, 3, "形容词"]
+    ],
+    "syntaxTags": [
+      [0, 0, "主语", "NP"],
+      [1, 3, "表语", "ADJP"]
+    ]
+  },
+  {
+    "english": "What do you do for a living",
+    "chinese": "你是做什么工作的",
+    "soundmark": "/wɒt duː juː duː fɔːr ə ˈlɪvɪŋ/",
+    "posTags": [
+      [0, 0, "代词"],
+      [1, 1, "动词"],
+      [2, 2, "代词"],
+      [3, 3, "动词"],
+      [4, 4, "介词"],
+      [5, 5, "冠词"],
+      [6, 6, "名词"]
+    ],
+    "syntaxTags": [
+      [0, 0, "宾语", "NP"],
+      [2, 2, "主语", "NP"],
+      [1, 6, "谓语", "VP"]
+    ]
+  },
+  {
+    "english": "I'm a software engineer",
+    "chinese": "我是一名软件工程师",
+    "soundmark": "/aɪm ə ˈsɒftweər ˌendʒɪˈnɪər/",
+    "posTags": [
+      [0, 0, "代词"],
+      [1, 1, "冠词"],
+      [2, 2, "名词"],
+      [3, 3, "名词"]
+    ],
+    "syntaxTags": [
+      [0, 0, "主语", "NP"],
+      [1, 3, "表语", "NP"]
+    ]
+  },
+  {
+    "english": "Where do you live",
+    "chinese": "你住在哪儿",
+    "soundmark": "/weə duː juː lɪv/",
+    "posTags": [
+      [0, 0, "副词"],
+      [1, 1, "动词"],
+      [2, 2, "代词"],
+      [3, 3, "动词"]
+    ],
+    "syntaxTags": [
+      [0, 0, "状语", "ADVP"],
+      [1, 3, "谓语", "VP"]
+    ]
+  },
+  {
+    "english": "I live in Beijing",
+    "chinese": "我住在北京",
+    "soundmark": "/aɪ lɪv ɪn beɪˈdʒɪŋ/",
+    "posTags": [
+      [0, 0, "代词"],
+      [1, 1, "动词"],
+      [2, 2, "介词"],
+      [3, 3, "专有名词"]
+    ],
+    "syntaxTags": [
+      [0, 0, "主语", "NP"],
+      [1, 3, "谓语", "VP"]
+    ]
+  },
+  {
+    "english": "Nice to meet you",
+    "chinese": "很高兴认识你",
+    "soundmark": "/naɪs tuː miːt juː/",
+    "posTags": [
+      [0, 0, "形容词"],
+      [1, 1, "介词"],
+      [2, 2, "动词"],
+      [3, 3, "代词"]
+    ],
+    "syntaxTags": [
+      [0, 0, "表语", "ADJP"],
+      [1, 3, "状语", "VP"]
+    ]
+  },
+  {
+    "english": "This is my friend Jack",
+    "chinese": "这是我的朋友杰克",
+    "soundmark": "/ðɪs ɪz maɪ frend dʒæk/",
+    "posTags": [
+      [0, 0, "代词"],
+      [1, 1, "动词"],
+      [2, 2, "代词"],
+      [3, 3, "名词"],
+      [4, 4, "专有名词"]
+    ],
+    "syntaxTags": [
+      [0, 0, "主语", "NP"],
+      [1, 4, "谓语", "VP"]
+    ]
+  },
+  {
+    "english": "I have two brothers",
+    "chinese": "我有两个兄弟",
+    "soundmark": "/aɪ hæv tuː ˈbrʌðəz/",
+    "posTags": [
+      [0, 0, "代词"],
+      [1, 1, "动词"],
+      [2, 2, "数词"],
+      [3, 3, "名词"]
+    ],
+    "syntaxTags": [
+      [0, 0, "主语", "NP"],
+      [1, 3, "谓语", "VP"]
+    ]
+  },
+  {
+    "english": "Do you have any brothers or sisters",
+    "chinese": "你有兄弟姐妹吗",
+    "soundmark": "/duː juː hæv ˈeni ˈbrʌðəz ɔː ˈsɪstəz/",
+    "posTags": [
+      [0, 0, "动词"],
+      [1, 1, "代词"],
+      [2, 2, "动词"],
+      [3, 3, "代词"],
+      [4, 4, "名词"],
+      [5, 5, "连词"],
+      [6, 6, "名词"]
+    ],
+    "syntaxTags": [
+      [1, 1, "主语", "NP"],
+      [0, 6, "谓语", "VP"]
+    ]
+  },
+  {
+    "english": "I'm married",
+    "chinese": "我结婚了",
+    "soundmark": "/aɪm ˈmærɪd/",
+    "posTags": [
+      [0, 0, "代词"],
+      [1, 1, "形容词"]
+    ],
+    "syntaxTags": [
+      [0, 0, "主语", "NP"],
+      [1, 1, "表语", "ADJP"]
+    ]
+  },
+  {
+    "english": "Do you have any kids",
+    "chinese": "你有孩子吗",
+    "soundmark": "/duː juː hæv ˈeni kɪdz/",
+    "posTags": [
+      [0, 0, "动词"],
+      [1, 1, "代词"],
+      [2, 2, "动词"],
+      [3, 3, "代词"],
+      [4, 4, "名词"]
+    ],
+    "syntaxTags": [
+      [1, 1, "主语", "NP"],
+      [0, 4, "谓语", "VP"]
+    ]
+  },
+  {
+    "english": "What time is it now",
+    "chinese": "现在几点了",
+    "soundmark": "/wɒt taɪm ɪz ɪt naʊ/",
+    "posTags": [
+      [0, 0, "代词"],
+      [1, 1, "名词"],
+      [2, 2, "动词"],
+      [3, 3, "代词"],
+      [4, 4, "副词"]
+    ],
+    "syntaxTags": [
+      [3, 3, "主语", "NP"],
+      [0, 1, "宾语", "NP"],
+      [2, 4, "谓语", "VP"]
+    ]
+  },
+  {
+    "english": "It's half past three",
+    "chinese": "现在三点半",
+    "soundmark": "/ɪts hɑːf pɑːst θriː/",
+    "posTags": [
+      [0, 0, "代词"],
+      [1, 1, "数词"],
+      [2, 2, "介词"],
+      [3, 3, "数词"]
+    ],
+    "syntaxTags": [
+      [0, 0, "主语", "NP"],
+      [1, 3, "表语", "NP"]
+    ]
+  },
+  {
+    "english": "I usually get up at seven",
+    "chinese": "我通常七点起床",
+    "soundmark": "/aɪ ˈjuːʒuəli ɡet ʌp æt ˈsevn/",
+    "posTags": [
+      [0, 0, "代词"],
+      [1, 1, "副词"],
+      [2, 2, "动词"],
+      [3, 3, "副词"],
+      [4, 4, "介词"],
+      [5, 5, "数词"]
+    ],
+    "syntaxTags": [
+      [0, 0, "主语", "NP"],
+      [1, 5, "谓语", "VP"]
+    ]
+  },
+  {
+    "english": "I have breakfast at eight",
+    "chinese": "我八点吃早饭",
+    "soundmark": "/aɪ hæv ˈbrekfəst æt eɪt/",
+    "posTags": [
+      [0, 0, "代词"],
+      [1, 1, "动词"],
+      [2, 2, "名词"],
+      [3, 3, "介词"],
+      [4, 4, "数词"]
+    ],
+    "syntaxTags": [
+      [0, 0, "主语", "NP"],
+      [1, 4, "谓语", "VP"]
+    ]
+  },
+  {
+    "english": "I go to work by bus",
+    "chinese": "我坐公交车去上班",
+    "soundmark": "/aɪ ɡəʊ tuː wɜːk baɪ bʌs/",
+    "posTags": [
+      [0, 0, "代词"],
+      [1, 1, "动词"],
+      [2, 2, "介词"],
+      [3, 3, "名词"],
+      [4, 4, "介词"],
+      [5, 5, "名词"]
+    ],
+    "syntaxTags": [
+      [0, 0, "主语", "NP"],
+      [1, 5, "谓语", "VP"]
+    ]
+  },
+  {
+    "english": "The weather is nice today",
+    "chinese": "今天天气很好",
+    "soundmark": "/ðə ˈweðər ɪz naɪs təˈdeɪ/",
+    "posTags": [
+      [0, 0, "冠词"],
+      [1, 1, "名词"],
+      [2, 2, "动词"],
+      [3, 3, "形容词"],
+      [4, 4, "副词"]
+    ],
+    "syntaxTags": [
+      [0, 1, "主语", "NP"],
+      [2, 4, "谓语", "VP"]
+    ]
+  },
+  {
+    "english": "It's raining outside",
+    "chinese": "外面在下雨",
+    "soundmark": "/ɪts ˈreɪnɪŋ ˌaʊtˈsaɪd/",
+    "posTags": [
+      [0, 0, "代词"],
+      [1, 1, "动词"],
+      [2, 2, "副词"]
+    ],
+    "syntaxTags": [
+      [0, 0, "主语", "NP"],
+      [1, 2, "谓语", "VP"]
+    ]
+  },
+  {
+    "english": "Can I borrow your pen",
+    "chinese": "我可以借你的笔吗",
+    "soundmark": "/kæn aɪ ˈbɒrəʊ jɔːr pen/",
+    "posTags": [
+      [0, 0, "动词"],
+      [1, 1, "代词"],
+      [2, 2, "动词"],
+      [3, 3, "代词"],
+      [4, 4, "名词"]
+    ],
+    "syntaxTags": [
+      [1, 1, "主语", "NP"],
+      [0, 4, "谓语", "VP"]
+    ]
+  },
+  {
+    "english": "Could you help me please",
+    "chinese": "你能帮我一下吗",
+    "soundmark": "/kʊd juː hiːlp miː pliːz/",
+    "posTags": [
+      [0, 0, "动词"],
+      [1, 1, "代词"],
+      [2, 2, "动词"],
+      [3, 3, "代词"],
+      [4, 4, "副词"]
+    ],
+    "syntaxTags": [
+      [1, 1, "主语", "NP"],
+      [0, 4, "谓语", "VP"]
+    ]
+  },
+  {
+    "english": "Thank you very much",
+    "chinese": "非常感谢你",
+    "soundmark": "/θæŋk juː ˈveri mʌtʃ/",
+    "posTags": [
+      [0, 0, "动词"],
+      [1, 1, "代词"],
+      [2, 2, "副词"],
+      [3, 3, "副词"]
+    ],
+    "syntaxTags": [
+      [0, 3, "谓语", "VP"],
+      [1, 1, "宾语", "NP"]
+    ]
+  },
+  {
+    "english": "You're welcome",
+    "chinese": "不客气",
+    "soundmark": "/jɔːr ˈwelkəm/",
+    "posTags": [
+      [0, 0, "代词"],
+      [1, 1, "形容词"]
+    ],
+    "syntaxTags": [
+      [0, 0, "主语", "NP"],
+      [1, 1, "表语", "ADJP"]
+    ]
+  },
+  {
+    "english": "I'm sorry",
+    "chinese": "对不起",
+    "soundmark": "/aɪm ˈsɒri/",
+    "posTags": [
+      [0, 0, "代词"],
+      [1, 1, "形容词"]
+    ],
+    "syntaxTags": [
+      [0, 0, "主语", "NP"],
+      [1, 1, "表语", "ADJP"]
+    ]
+  },
+  {
+    "english": "Excuse me",
+    "chinese": "打扰一下",
+    "soundmark": "/ɪkˈskjuːz miː/",
+    "posTags": [
+      [0, 0, "动词"],
+      [1, 1, "代词"]
+    ],
+    "syntaxTags": [
+      [0, 1, "谓语", "VP"],
+      [1, 1, "宾语", "NP"]
+    ]
+  },
+  {
+    "english": "I don't understand",
+    "chinese": "我不明白",
+    "soundmark": "/aɪ dəʊnt ˌʌndəˈstænd/",
+    "posTags": [
+      [0, 0, "代词"],
+      [1, 1, "动词"],
+      [2, 2, "动词"]
+    ],
+    "syntaxTags": [
+      [0, 0, "主语", "NP"],
+      [1, 2, "谓语", "VP"]
+    ]
+  },
+  {
+    "english": "Can you speak more slowly",
+    "chinese": "你能说慢一点吗",
+    "soundmark": "/kæn juː spiːk mɔːr ˈsləʊli/",
+    "posTags": [
+      [0, 0, "动词"],
+      [1, 1, "代词"],
+      [2, 2, "动词"],
+      [3, 3, "副词"],
+      [4, 4, "副词"]
+    ],
+    "syntaxTags": [
+      [1, 1, "主语", "NP"],
+      [0, 4, "谓语", "VP"]
+    ]
+  },
+  {
+    "english": "How do you say this in English",
+    "chinese": "这个用英语怎么说",
+    "soundmark": "/haʊ duː juː seɪ ðɪs ɪn ˈɪŋɡlɪʃ/",
+    "posTags": [
+      [0, 0, "副词"],
+      [1, 1, "动词"],
+      [2, 2, "代词"],
+      [3, 3, "动词"],
+      [4, 4, "代词"],
+      [5, 5, "介词"],
+      [6, 6, "专有名词"]
+    ],
+    "syntaxTags": [
+      [0, 0, "状语", "ADVP"],
+      [2, 2, "主语", "NP"],
+      [1, 6, "谓语", "VP"]
+    ]
+  }
+]

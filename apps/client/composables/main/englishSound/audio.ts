@@ -29,7 +29,7 @@ export function usePlayWordSound() {
     }
     lastWord = word;
     wordAudio.src = getPronunciationUrl(word);
-    wordAudio.play();
+    wordAudio.play().catch(() => {});
   }
 
   return {
@@ -53,7 +53,9 @@ export function play(playOptions?: PlayOptions) {
   const { times, rate, interval } = Object.assign({}, DefaultPlayOptions, playOptions);
 
   audio.playbackRate = rate;
-  audio.play();
+  audio.play().catch(() => {
+    // Chrome 自动播放策略：用户未交互时静默忽略
+  });
   if (times > 1) {
     audio.addEventListener("ended", handleEnded, false);
   }

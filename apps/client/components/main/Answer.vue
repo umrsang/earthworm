@@ -1,26 +1,13 @@
 <template>
   <div class="text-center">
-    <div class="ml-8 inline-flex flex-wrap items-center justify-center gap-1 text-5xl">
-      <span
-        v-for="word in words"
-        :key="word"
-        class="cursor-pointer p-1 hover:text-purple-400"
-        @click="handlePlayWordSound(word)"
-        >{{ word }}</span
-      >
-      <UIcon
-        name="i-ph-speaker-simple-high"
-        class="ml-1 inline-block h-7 w-7 cursor-pointer text-gray-500 hover:text-purple-400"
-        @click="handlePlayEnglishSound"
-      ></UIcon>
-    </div>
-    <div class="my-6 text-xl text-gray-500">
-      {{ courseStore.currentStatement?.soundmark }}
-    </div>
-    <div class="my-6 text-xl text-gray-500">
-      {{ courseStore.currentStatement?.chinese }}
-    </div>
-    <div class="space-y-3">
+    <MainSyntaxAnnotation
+      :tokens="words.map((w) => ({ word: w }))"
+      :pos-tags="[]"
+      :syntax-tags="[]"
+      :chinese="courseStore.currentStatement?.chinese ?? ''"
+      :soundmark="courseStore.currentStatement?.soundmark ?? ''"
+    />
+    <div class="mt-6 space-y-3">
       <div>
         <button
           class="rounded-full border border-purple-500/40 bg-purple-500/10 px-5 py-2 text-sm font-medium text-purple-400 transition-all duration-300 hover:border-purple-500 hover:bg-purple-500/20 hover:text-purple-300"
