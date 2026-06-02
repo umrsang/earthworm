@@ -1,6 +1,6 @@
 <template>
   <div
-    class="relative flex items-center justify-between border-t border-solid border-gray-300 pb-3 pt-4 text-base dark:border-gray-600"
+    class="relative flex items-center justify-between border-t border-solid border-white/[0.06] pb-3 pt-4 text-base"
   >
     <!-- 左侧 -->
     <div class="flex items-center">
@@ -168,6 +168,6 @@ function useDoAgain() {
 
 <style scoped>
 .clickable-item {
-  @apply cursor-pointer select-none hover:text-fuchsia-500;
+  @apply cursor-pointer select-none hover:text-purple-400;
 }
 </style>

@@ -148,7 +148,7 @@ function getWordsClassNames(index: number) {
   const word = findWordById(index)!;
   // 当前单词激活 且 聚焦
   if (word.isActive && focusing.value) {
-    return "text-fuchsia-500 border-b-fuchsia-500";
+    return "text-purple-400 border-b-purple-400";
   }
 
   // 当前单词错误 且 聚焦
@@ -158,7 +158,7 @@ function getWordsClassNames(index: number) {
   }
 
   // 默认样式
-  return "text-[#20202099] border-b-gray-300 dark:text-gray-300 dark:border-b-gray-400";
+  return "text-gray-400 border-b-white/[0.15]";
 }
 
 // 输入宽度

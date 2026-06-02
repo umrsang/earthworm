@@ -19,7 +19,7 @@
                 src="/logo.png"
                 alt="earth-worm-logo"
               />
-              <h1 class="text-wrap text-2xl font-extrabold leading-normal dark:text-white">
+              <h1 class="text-wrap text-2xl font-extrabold leading-normal text-white">
                 Earthworm
               </h1>
             </div>
@@ -37,7 +37,7 @@
                 :key="optIndex"
               >
                 <a
-                  class="text-nowrap hover:text-purple-600 dark:text-white dark:hover:text-purple-400"
+                  class="text-nowrap text-gray-400 hover:text-purple-400"
                   :href="optItem.href"
                   :target="optItem.target ?? '_self'"
                 >

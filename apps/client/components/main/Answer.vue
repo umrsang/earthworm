@@ -4,13 +4,13 @@
       <span
         v-for="word in words"
         :key="word"
-        class="cursor-pointer p-1 hover:text-fuchsia-500"
+        class="cursor-pointer p-1 hover:text-purple-400"
         @click="handlePlayWordSound(word)"
         >{{ word }}</span
       >
       <UIcon
         name="i-ph-speaker-simple-high"
-        class="ml-1 inline-block h-7 w-7 cursor-pointer text-gray-500 hover:text-fuchsia-500"
+        class="ml-1 inline-block h-7 w-7 cursor-pointer text-gray-500 hover:text-purple-400"
         @click="handlePlayEnglishSound"
       ></UIcon>
     </div>
@@ -23,13 +23,13 @@
     <div class="space-y-3">
       <div>
         <button
-          class="btn btn-outline btn-sm"
+          class="rounded-full border border-purple-500/40 bg-purple-500/10 px-5 py-2 text-sm font-medium text-purple-400 transition-all duration-300 hover:border-purple-500 hover:bg-purple-500/20 hover:text-purple-300"
           @click="showQuestion"
         >
           再来一次
         </button>
         <button
-          class="btn btn-outline btn-sm ml-6"
+          class="ml-4 rounded-full border border-purple-500/40 bg-purple-500/10 px-5 py-2 text-sm font-medium text-purple-400 transition-all duration-300 hover:border-purple-500 hover:bg-purple-500/20 hover:text-purple-300"
           @click="goToNextQuestion"
         >
           下一题

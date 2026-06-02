@@ -5,27 +5,28 @@
     </template>
 
     <template v-else>
-      <h2 class="mb-4 text-center text-3xl dark:border-gray-600">
-        {{ coursePackStore.currentCoursePack?.title }}
-      </h2>
-      <div class="h-full scrollbar-hide">
-        <div
-          class="grid h-[79vh] grid-cols-1 justify-start gap-8 overflow-y-auto overflow-x-hidden pb-96 pl-0 pr-4 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4"
+      <div class="mb-8">
+        <h2 class="text-2xl font-bold text-white">
+          {{ coursePackStore.currentCoursePack?.title }}
+        </h2>
+        <p class="mt-1 text-sm text-gray-500">
+          共 {{ coursePackStore.currentCoursePack?.courses?.length }} 个课程
+        </p>
+      </div>
+      <div class="grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
+        <template
+          v-for="course in coursePackStore.currentCoursePack?.courses"
+          :key="course.id"
         >
-          <template
-            v-for="course in coursePackStore.currentCoursePack?.courses"
-            :key="course.id"
-          >
-            <CoursesCourseCard
-              :title="course.title"
-              :description="course.description"
-              :id="course.id"
-              :count="course.completionCount"
-              :coursePackId="course.coursePackId"
-              @click="handleChangeCourse(course.id)"
-            />
-          </template>
-        </div>
+          <CoursesCourseCard
+            :title="course.title"
+            :description="course.description"
+            :id="course.id"
+            :count="course.completionCount"
+            :coursePackId="course.coursePackId"
+            @click="handleChangeCourse(course.id)"
+          />
+        </template>
       </div>
     </template>
   </div>
@@ -59,4 +60,4 @@ function handleChangeCourse(courseId: string) {
 }
 </script>
 
-<style></style>
+<style scoped></style>
