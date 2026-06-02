@@ -1,11 +1,10 @@
 <template>
-  <div class="font-customFont">
+  <div class="min-h-screen bg-[#0a0a16] font-customFont text-white">
     <LandingBanner @start-earthworm="startEarthworm" />
     <LandingFeatures />
     <LandingComments />
     <LandingQuestions />
     <LandingContact />
-    <CommonBackTop class="sticky bottom-28 ml-auto flex justify-end sm:block" />
   </div>
 </template>
 

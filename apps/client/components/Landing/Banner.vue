@@ -1,90 +1,126 @@
 <template>
   <section
-    class="pt-28 text-gray-500"
     id="home"
+    class="relative overflow-hidden pb-16 pt-24"
   >
-    <div class="mx-auto my-5 text-center">
-      <h2
-        class="bg-gradient-to-r from-purple-600 to-gray-200 bg-clip-text text-3xl font-extrabold tracking-tight text-transparent dark:from-purple-600 dark:to-gray-100 lg:text-4xl xl:text-5xl"
-      >
-        让你上瘾的英语学习工具
-      </h2>
+    <!-- 背景光斑 -->
+    <div
+      class="pointer-events-none absolute left-1/2 top-0 h-[600px] w-[800px] -translate-x-1/2 rounded-full bg-purple-600/10 blur-[120px]"
+    ></div>
+    <div
+      class="pointer-events-none absolute left-1/4 top-32 h-[300px] w-[400px] rounded-full bg-blue-600/5 blur-[100px]"
+    ></div>
 
-      <div class="mt-5 text-sm md:text-base xl:text-lg">
-        <p class="pt-2 text-center text-gray-500 dark:text-gray-300 lg:text-xl">
-          使用<span class="text-purple-400 dark:text-purple-200"> 连词成句 </span>、<span
-            class="text-purple-400 dark:text-purple-200"
+    <!-- 左右布局：左侧文案，右侧预览图 -->
+    <div class="relative mx-auto max-w-screen-xl px-6">
+      <div class="flex flex-col items-center gap-12 lg:flex-row lg:items-center lg:gap-16">
+        <!-- 左侧：文案区域 -->
+        <div class="flex-1 lg:max-w-xl">
+          <!-- 标签 -->
+          <div
+            class="mb-8 inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-4 py-1.5 text-sm text-gray-400"
           >
-            i + 1 </span
-          >、<span class="text-purple-400 dark:text-purple-200"> 以终为始 </span
-          >等学习理论来帮助你习得英语
-        </p>
-        <p class="pt-2 text-center text-gray-500 dark:text-gray-300 lg:text-xl">
-          通过不断的<span class="text-purple-400 dark:text-purple-200"> 重复 </span>形成肌肉记忆
-        </p>
-        <p class="pt-2 text-center text-gray-500 dark:text-gray-300 lg:text-xl">
-          最重要的是<span class="text-purple-400 dark:text-purple-200"> 游戏化 </span
-          >的形式让学习英语从此不再痛苦
-        </p>
+            <UIcon
+              name="i-ph-sparkle-fill"
+              class="h-4 w-4 text-purple-400"
+            ></UIcon>
+            基于学习科学的英语习得工具
+          </div>
+
+          <!-- 主标题 -->
+          <h1 class="text-4xl font-extrabold tracking-tight sm:text-5xl lg:text-6xl">
+            <span
+              class="bg-gradient-to-r from-purple-400 via-purple-300 to-white bg-clip-text text-transparent"
+            >
+              让你上瘾的
+            </span>
+            <br />
+            <span class="text-white">英语学习工具</span>
+          </h1>
+
+          <!-- 副标题 -->
+          <p class="mt-8 max-w-xl text-lg leading-relaxed text-gray-400 lg:text-xl">
+            使用
+            <span class="text-purple-400">连词成句</span>、
+            <span class="text-purple-400">i+1</span>、
+            <span class="text-purple-400">以终为始</span>
+            等学习理论，通过不断
+            <span class="text-purple-400">重复</span>形成肌肉记忆， 以
+            <span class="text-purple-400">游戏化</span>
+            的形式让学习英语不再痛苦
+          </p>
+
+          <!-- CTA 按钮 -->
+          <div class="mt-10 flex flex-wrap items-center gap-4">
+            <button
+              @click="handleKeydown"
+              class="inline-flex items-center gap-2 rounded-full bg-purple-600 px-12 py-3.5 text-base font-semibold text-white shadow-lg shadow-purple-600/25 transition-all duration-300 hover:scale-105 hover:bg-purple-500 hover:shadow-purple-500/30 active:scale-100"
+            >
+              <UIcon
+                name="i-ph-play-fill"
+                class="h-5 w-5"
+              ></UIcon>
+              免费开始
+            </button>
+          </div>
+        </div>
+
+        <!-- 右侧：产品预览图 -->
+        <div class="flex-shrink-0">
+          <div
+            class="overflow-hidden rounded-2xl border border-white/10 bg-white/5 p-1 shadow-2xl shadow-purple-900/20"
+          >
+            <img
+              alt="Earthworm 产品预览"
+              src="~/assets/home-page-preview.png"
+              class="w-full max-w-[640px] rounded-xl"
+            />
+          </div>
+        </div>
       </div>
     </div>
-    <div class="my-10 flex flex-wrap items-center justify-center gap-4 font-customFont">
-      <button
-        @click="handleKeydown"
-        class="btn relative"
-        type="button"
-      >
-        <strong>开启Earthworm</strong>
-        <div id="container-stars">
-          <div id="stars"></div>
-        </div>
 
-        <div id="glow">
-          <div class="circle"></div>
-          <div class="circle"></div>
-        </div>
-      </button>
-      <a
-        href="https://github.com/cuixueshe/earthworm"
-        rel="noreferrer noopener"
-        target="_blank"
-        class="group relative inline-flex h-12 cursor-pointer items-center justify-center overflow-hidden rounded-full px-6 duration-500"
-      >
+    <!-- 特性标签行 -->
+    <div class="mx-auto mt-16 max-w-screen-xl px-6">
+      <div class="grid grid-cols-2 gap-4 sm:grid-cols-4">
         <div
-          class="relative inline-flex -translate-x-0 items-center transition group-hover:-translate-x-6"
+          class="flex items-center gap-3 rounded-xl border border-white/5 bg-white/[0.02] px-4 py-3"
         >
-          <div
-            class="absolute flex translate-x-0 items-center justify-center text-purple-600 opacity-100 transition group-hover:-translate-x-6 group-hover:opacity-0"
-          >
-            <UIcon
-              name="i-ph-star-fill"
-              class="h-5 w-5"
-            ></UIcon>
-          </div>
-          <span
-            class="bg-gradient-to-r from-purple-600 to-gray-300 bg-clip-text pl-6 font-medium text-transparent"
-            >Star us on GitHub</span
-          >
-          <div
-            class="absolute right-0 flex translate-x-12 items-center justify-center text-purple-400 opacity-0 transition group-hover:translate-x-6 group-hover:opacity-100"
-          >
-            <UIcon
-              name="i-ph-arrow-right"
-              class="h-5 w-5"
-            ></UIcon>
-          </div>
+          <UIcon
+            name="i-ph-check-circle-fill"
+            class="h-5 w-5 shrink-0 text-green-400"
+          ></UIcon>
+          <span class="text-sm text-gray-400">实时反馈</span>
         </div>
-      </a>
+        <div
+          class="flex items-center gap-3 rounded-xl border border-white/5 bg-white/[0.02] px-4 py-3"
+        >
+          <UIcon
+            name="i-ph-check-circle-fill"
+            class="h-5 w-5 shrink-0 text-green-400"
+          ></UIcon>
+          <span class="text-sm text-gray-400">情境学习</span>
+        </div>
+        <div
+          class="flex items-center gap-3 rounded-xl border border-white/5 bg-white/[0.02] px-4 py-3"
+        >
+          <UIcon
+            name="i-ph-check-circle-fill"
+            class="h-5 w-5 shrink-0 text-green-400"
+          ></UIcon>
+          <span class="text-sm text-gray-400">进度跟踪</span>
+        </div>
+        <div
+          class="flex items-center gap-3 rounded-xl border border-white/5 bg-white/[0.02] px-4 py-3"
+        >
+          <UIcon
+            name="i-ph-check-circle-fill"
+            class="h-5 w-5 shrink-0 text-green-400"
+          ></UIcon>
+          <span class="text-sm text-gray-400">完全免费</span>
+        </div>
+      </div>
     </div>
-    <div class="mt-20 flex w-full justify-center">
-      <img
-        alt=""
-        src="~/assets/home-page-preview.png"
-        class="w-4/5 lg:w-3/4"
-      />
-    </div>
-
-    <CommonDivider />
   </section>
 </template>
 
@@ -96,175 +132,4 @@ function handleKeydown() {
 }
 </script>
 
-<style scoped>
-.btn {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: fit-content;
-  overflow: hidden;
-  height: 3rem;
-  background-size: 300% 300%;
-  backdrop-filter: blur(1rem);
-  border-radius: 5rem;
-  transition: 0.5s;
-  animation: gradient_301 5s ease infinite;
-  border: double 4px transparent;
-  background-image: linear-gradient(#05051d, #05051d),
-    linear-gradient(137.48deg, #ffdb3b 10%, #fe53bb 45%, #8f51ea 67%, #0044ff 87%);
-  background-origin: border-box;
-  background-clip: content-box, border-box;
-}
-
-#container-stars {
-  position: absolute;
-  z-index: -1;
-  width: 100%;
-  height: 100%;
-  overflow: hidden;
-  transition: 0.5s;
-  backdrop-filter: blur(1rem);
-  border-radius: 5rem;
-  background-color: #05051d;
-}
-
-strong {
-  z-index: 2;
-  font-family: "Avalors Personal Use";
-  font-size: 15px;
-  letter-spacing: 5px;
-  color: #ffffff;
-  /* text-shadow: 0 0 4px white; */
-}
-
-#glow {
-  position: absolute;
-  display: flex;
-  width: 12rem;
-}
-
-.circle {
-  width: 100%;
-  height: 30px;
-  filter: blur(2rem);
-  animation: pulse_3011 4s infinite;
-  z-index: -1;
-}
-
-.circle:nth-of-type(1) {
-  background: rgba(254, 83, 186, 0.636);
-}
-
-.circle:nth-of-type(2) {
-  background: rgba(142, 81, 234, 0.704);
-}
-
-.btn:hover #container-stars {
-  z-index: 1;
-  background-color: #05051d;
-}
-
-.btn:hover {
-  transform: scale(1.1);
-}
-
-.btn:active {
-  border: double 4px #fe53bb;
-  background-origin: border-box;
-  background-clip: content-box, border-box;
-  animation: none;
-}
-
-.btn:active .circle {
-  background: #fe53bb;
-}
-
-#stars {
-  position: relative;
-  background: transparent;
-  width: 200rem;
-  height: 200rem;
-}
-
-#stars::after {
-  content: "";
-  position: absolute;
-  top: -10rem;
-  left: -100rem;
-  width: 100%;
-  height: 100%;
-  animation: animStarRotate 90s linear infinite;
-}
-
-#stars::after {
-  background-image: radial-gradient(#ffffff 1px, transparent 1%);
-  background-size: 50px 50px;
-}
-
-#stars::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: -50%;
-  width: 170%;
-  height: 500%;
-  animation: animStar 60s linear infinite;
-}
-
-#stars::before {
-  background-image: radial-gradient(#ffffff 1px, transparent 1%);
-  background-size: 50px 50px;
-  opacity: 0.5;
-}
-
-@keyframes animStar {
-  from {
-    transform: translateY(0);
-  }
-
-  to {
-    transform: translateY(-135rem);
-  }
-}
-
-@keyframes animStarRotate {
-  from {
-    transform: rotate(360deg);
-  }
-
-  to {
-    transform: rotate(0);
-  }
-}
-
-@keyframes gradient_301 {
-  0% {
-    background-position: 0% 50%;
-  }
-
-  50% {
-    background-position: 100% 50%;
-  }
-
-  100% {
-    background-position: 0% 50%;
-  }
-}
-
-@keyframes pulse_3011 {
-  0% {
-    transform: scale(0.75);
-    box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.7);
-  }
-
-  70% {
-    transform: scale(1);
-    box-shadow: 0 0 0 10px rgba(0, 0, 0, 0);
-  }
-
-  100% {
-    transform: scale(0.75);
-    box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
-  }
-}
-</style>
+<style scoped></style>
