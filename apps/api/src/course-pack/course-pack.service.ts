@@ -122,19 +122,31 @@ export class CoursePackService {
   }
 
   private async addCompletionCountsToCourses(userId: string, courses: any[], coursePackId: string) {
-    return await Promise.all(
-      courses.map(async (course) => {
-        const completionCount = await this.courseHistoryService.findCompletionCount(
-          userId,
-          coursePackId,
-          course.id,
-        );
-        return {
-          ...course,
-          completionCount,
-        };
-      }),
-    );
+    try {
+      return await Promise.all(
+        courses.map(async (course) => {
+          if (!course.id) {
+            console.warn("Course without ID found:", course);
+            return {
+              ...course,
+              completionCount: 0,
+            };
+          }
+          const completionCount = await this.courseHistoryService.findCompletionCount(
+            userId,
+            coursePackId,
+            course.id,
+          );
+          return {
+            ...course,
+            completionCount,
+          };
+        }),
+      );
+    } catch (error) {
+      console.error("Error adding completion counts:", error);
+      throw error;
+    }
   }
 
   async findCourse(userId: string, coursePackId: string, courseId: string) {
