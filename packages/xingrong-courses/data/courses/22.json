@@ -2,701 +2,5085 @@
 	{
 		"chinese": "这个问题",
 		"english": "the question",
-		"soundmark": "/ðə/ /'kwɛstʃən/"
+		"soundmark": "/ðə/ /'kwɛstʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "回答",
 		"english": "to answer",
-		"soundmark": "/tə/ /'ænsɚ/"
+		"soundmark": "/tə/ /'ænsɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "回答这个问题",
 		"english": "to answer the question",
-		"soundmark": "/tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/"
+		"soundmark": "/tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "这个问题；这个麻烦",
 		"english": "the problem",
-		"soundmark": "/ðə/ /'prɑbləm/"
+		"soundmark": "/ðə/ /'prɑbləm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "解决",
 		"english": "to solve",
-		"soundmark": "/tə/ /sɑlv/"
+		"soundmark": "/tə/ /sɑlv/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "解决这个问题",
 		"english": "to solve the problem",
-		"soundmark": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/"
+		"soundmark": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "需要",
 		"english": "need",
-		"soundmark": "/nid/"
+		"soundmark": "/nid/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我们需要",
 		"english": "we need",
-		"soundmark": "/wi/ /nid/"
+		"soundmark": "/wi/ /nid/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "解决这个麻烦",
 		"english": "to solve the problem",
-		"soundmark": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/"
+		"soundmark": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我们需要解决这个麻烦",
 		"english": "we need to solve the problem",
-		"soundmark": "/wi/ /nid/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/"
+		"soundmark": "/wi/ /nid/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "一起",
 		"english": "together",
-		"soundmark": "/tə'ɡɛðɚ/"
+		"soundmark": "/tə'ɡɛðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我们需要一起解决这个麻烦",
 		"english": "we need to solve the problem together",
-		"soundmark": "/wi/ /nid/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"soundmark": "/wi/ /nid/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "不需要",
 		"english": "don't need",
-		"soundmark": "/dont/ /nid/"
+		"soundmark": "/dont/ /nid/",
+		"posTags": [
+			[
+				0,
+				0,
+				"助动词"
+			],
+			[
+				1,
+				1,
+				"副词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我们不需要一起解决这个麻烦",
 		"english": "we don't need to solve the problem together",
-		"soundmark": "/wi/ /dont/ /nid/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"soundmark": "/wi/ /dont/ /nid/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"动词"
+			],
+			[
+				6,
+				6,
+				"冠词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			],
+			[
+				8,
+				8,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				4,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "可以",
 		"english": "can",
-		"soundmark": "/kən/"
+		"soundmark": "/kən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我们可以一起解决这个麻烦",
 		"english": "we can solve the problem together",
-		"soundmark": "/wi/ /kən/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"soundmark": "/wi/ /kən/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				5,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我们不可以一起解决这个麻烦",
 		"english": "we can not solve the problem together",
-		"soundmark": "/wi/ /kən/ /nɑt/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"soundmark": "/wi/ /kən/ /nɑt/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				6,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "将会",
 		"english": "will",
-		"soundmark": "/wɪl/"
+		"soundmark": "/wɪl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我们将会一起解决这个麻烦",
 		"english": "we will solve the problem together",
-		"soundmark": "/wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"soundmark": "/wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				5,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我们将不会一起解决这个麻烦",
 		"english": "we will not solve the problem together",
-		"soundmark": "/wi/ /wɪl/ /nɑt/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"soundmark": "/wi/ /wɪl/ /nɑt/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				6,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "尝试",
 		"english": "to try",
-		"soundmark": "/tə/ /traɪ/"
+		"soundmark": "/tə/ /traɪ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "解决这个麻烦",
 		"english": "to solve the problem",
-		"soundmark": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/"
+		"soundmark": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我们尝试解决这个麻烦",
 		"english": "we try to solve the problem",
-		"soundmark": "/wi/ /traɪ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/"
+		"soundmark": "/wi/ /traɪ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "一起",
 		"english": "together",
-		"soundmark": "/tə'ɡɛðɚ/"
+		"soundmark": "/tə'ɡɛðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我们尝试一起解决这个麻烦",
 		"english": "we try to solve the problem together",
-		"soundmark": "/wi/ /traɪ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"soundmark": "/wi/ /traɪ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "尝试(ing形式)",
 		"english": "trying",
-		"soundmark": "/'traɪɪŋ/"
+		"soundmark": "/'traɪɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "是；赋值(原型)",
 		"english": "be",
-		"soundmark": "/bi/"
+		"soundmark": "/bi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "正在尝试",
 		"english": "be trying",
-		"soundmark": "/bi/ /'traɪɪŋ/"
+		"soundmark": "/bi/ /'traɪɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我们",
 		"english": "we",
-		"soundmark": "/wi/"
+		"soundmark": "/wi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我们(现在)正在尝试",
 		"english": "we are trying",
-		"soundmark": "/wi/ /ɚ/ /'traɪɪŋ/"
+		"soundmark": "/wi/ /ɚ/ /'traɪɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "解决这个麻烦",
 		"english": "to solve the problem",
-		"soundmark": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/"
+		"soundmark": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我们(现在)正在尝试解决这个麻烦",
 		"english": "we are trying to solve the problem",
-		"soundmark": "/wi/ /ɚ/ /'traɪɪŋ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/"
+		"soundmark": "/wi/ /ɚ/ /'traɪɪŋ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"冠词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				6,
+				"宾语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "一起",
 		"english": "together",
-		"soundmark": "/tə'ɡɛðɚ/"
+		"soundmark": "/tə'ɡɛðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我们(现在)正在尝试一起解决这个麻烦",
 		"english": "we are trying to solve the problem together",
-		"soundmark": "/wi/ /ɚ/ /'traɪɪŋ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"soundmark": "/wi/ /ɚ/ /'traɪɪŋ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"冠词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			],
+			[
+				7,
+				7,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				7,
+				"宾语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "脸",
 		"english": "face",
-		"soundmark": "/fes/"
+		"soundmark": "/fes/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "面对",
 		"english": "to face",
-		"soundmark": "/tə/ /fes/"
+		"soundmark": "/tə/ /fes/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我",
 		"english": "me",
-		"soundmark": "/mi/"
+		"soundmark": "/mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "面对我",
 		"english": "to face me",
-		"soundmark": "/tə/ /fes/ /mi/"
+		"soundmark": "/tə/ /fes/ /mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "真相；现实",
 		"english": "the truth",
-		"soundmark": "/ðə/ /trʊθ/"
+		"soundmark": "/ðə/ /trʊθ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "面对现实",
 		"english": "to face the truth",
-		"soundmark": "/tə/ /fes/ /ðə/ /trʊθ/"
+		"soundmark": "/tə/ /fes/ /ðə/ /trʊθ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "需要",
 		"english": "need",
-		"soundmark": "/nid/"
+		"soundmark": "/nid/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "你需要面对现实",
 		"english": "you need to face the truth",
-		"soundmark": "/ju/ /nid/ /tə/ /fes/ /ðə/ /trʊθ/"
+		"soundmark": "/ju/ /nid/ /tə/ /fes/ /ðə/ /trʊθ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				5,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "这个麻烦",
 		"english": "the problem",
-		"soundmark": "/ðə/ /'prɑbləm/"
+		"soundmark": "/ðə/ /'prɑbləm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "面对这个麻烦",
 		"english": "to face the problem",
-		"soundmark": "/tə/ /fes/ /ðə/ /'prɑbləm/"
+		"soundmark": "/tə/ /fes/ /ðə/ /'prɑbləm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我们需要",
 		"english": "we need",
-		"soundmark": "/wi/ /nid/"
+		"soundmark": "/wi/ /nid/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我们需要面对这个麻烦",
 		"english": "we need to face the problem",
-		"soundmark": "/wi/ /nid/ /tə/ /fes/ /ðə/ /'prɑbləm/"
+		"soundmark": "/wi/ /nid/ /tə/ /fes/ /ðə/ /'prɑbləm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				5,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我们面对这个麻烦",
 		"english": "we face the problem",
-		"soundmark": "/wi/ /fes/ /ðə/ /'prɑbləm/"
+		"soundmark": "/wi/ /fes/ /ðə/ /'prɑbləm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "面对(ing形式)",
 		"english": "facing",
-		"soundmark": "/'fesɪŋ/"
+		"soundmark": "/'fesɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "是；赋值(原型)",
 		"english": "be",
-		"soundmark": "/bi/"
+		"soundmark": "/bi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "正在面对",
 		"english": "be facing",
-		"soundmark": "/bi/ /'fesɪŋ/"
+		"soundmark": "/bi/ /'fesɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我们",
 		"english": "we",
-		"soundmark": "/wi/"
+		"soundmark": "/wi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我们(现在)正在面对",
 		"english": "we are facing",
-		"soundmark": "/wi/ /ɚ/ /'fesɪŋ/"
+		"soundmark": "/wi/ /ɚ/ /'fesɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "一个",
 		"english": "a",
-		"soundmark": "/ə/"
+		"soundmark": "/ə/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "一个麻烦",
 		"english": "a problem",
-		"soundmark": "/ə/ /'prɑbləm/"
+		"soundmark": "/ə/ /'prɑbləm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "大的",
 		"english": "big",
-		"soundmark": "/bɪɡ/"
+		"soundmark": "/bɪɡ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "一个大麻烦",
 		"english": "a big problem",
-		"soundmark": "/ə/ /bɪɡ/ /'prɑbləm/"
+		"soundmark": "/ə/ /bɪɡ/ /'prɑbləm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"形容词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				2,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我们(现在)正在面对一个大麻烦",
 		"english": "we are facing a big problem",
-		"soundmark": "/wi/ /ɚ/ /'fesɪŋ/ /ə/ /bɪɡ/ /'prɑbləm/"
+		"soundmark": "/wi/ /ɚ/ /'fesɪŋ/ /ə/ /bɪɡ/ /'prɑbləm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"形容词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				5,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "这个麻烦",
 		"english": "the problem",
-		"soundmark": "/ðə/ /'prɑbləm/"
+		"soundmark": "/ðə/ /'prɑbləm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "解决",
 		"english": "to solve",
-		"soundmark": "/tə/ /sɑlv/"
+		"soundmark": "/tə/ /sɑlv/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "解决这个麻烦",
 		"english": "to solve the problem",
-		"soundmark": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/"
+		"soundmark": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "尝试",
 		"english": "to try",
-		"soundmark": "/tə/ /traɪ/"
+		"soundmark": "/tə/ /traɪ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我尝试解决这个麻烦",
 		"english": "I try to solve the problem",
-		"soundmark": "/aɪ/ /traɪ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/"
+		"soundmark": "/aɪ/ /traɪ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "尝试(ing形式)",
 		"english": "trying",
-		"soundmark": "/'traɪɪŋ/"
+		"soundmark": "/'traɪɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "是；赋值(原型)",
 		"english": "be",
-		"soundmark": "/bi/"
+		"soundmark": "/bi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "正在尝试",
 		"english": "be trying",
-		"soundmark": "/bi/ /'traɪɪŋ/"
+		"soundmark": "/bi/ /'traɪɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我",
 		"english": "I",
-		"soundmark": "/aɪ/"
+		"soundmark": "/aɪ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我(现在)正在尝试",
 		"english": "I am trying",
-		"soundmark": "/aɪ/ /æm/ /'traɪɪŋ/"
+		"soundmark": "/aɪ/ /æm/ /'traɪɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "解决这个麻烦",
 		"english": "to solve the problem",
-		"soundmark": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/"
+		"soundmark": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我(现在)正在尝试解决这个麻烦",
 		"english": "I am trying to solve the problem",
-		"soundmark": "/aɪ/ /æm/ /'traɪɪŋ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/"
+		"soundmark": "/aɪ/ /æm/ /'traɪɪŋ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"冠词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				6,
+				"宾语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "面对(ing形式)",
 		"english": "facing",
-		"soundmark": "/'fesɪŋ/"
+		"soundmark": "/'fesɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "是；赋值(原型)",
 		"english": "be",
-		"soundmark": "/bi/"
+		"soundmark": "/bi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "正在面对",
 		"english": "be facing",
-		"soundmark": "/bi/ /'fesɪŋ/"
+		"soundmark": "/bi/ /'fesɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我们",
 		"english": "we",
-		"soundmark": "/wi/"
+		"soundmark": "/wi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我们(现在)正在面对",
 		"english": "we are facing",
-		"soundmark": "/wi/ /ɚ/ /'fesɪŋ/"
+		"soundmark": "/wi/ /ɚ/ /'fesɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "这个麻烦",
 		"english": "the problem",
-		"soundmark": "/ðə/ /'prɑbləm/"
+		"soundmark": "/ðə/ /'prɑbləm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我们(现在)正在面对的这个麻烦",
 		"english": "the problem we are facing",
-		"soundmark": "/ðə/ /'prɑbləm/ /wi/ /ɚ/ /'fesɪŋ/"
+		"soundmark": "/ðə/ /'prɑbləm/ /wi/ /ɚ/ /'fesɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我(现在)正在尝试解决这个麻烦",
 		"english": "I am trying to solve the problem",
-		"soundmark": "/aɪ/ /æm/ /'traɪɪŋ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/"
+		"soundmark": "/aɪ/ /æm/ /'traɪɪŋ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"冠词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				6,
+				"宾语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我(现在)正在尝试解决我们面对的这个麻烦",
 		"english": "I am trying to solve the problem we are facing",
-		"soundmark": "/aɪ/ /æm/ /'traɪɪŋ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /wi/ /ɚ/ /'fesɪŋ/"
+		"soundmark": "/aɪ/ /æm/ /'traɪɪŋ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /wi/ /ɚ/ /'fesɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"冠词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			],
+			[
+				7,
+				7,
+				"代词"
+			],
+			[
+				8,
+				8,
+				"动词"
+			],
+			[
+				9,
+				9,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				9,
+				"宾语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "现在",
 		"english": "now",
-		"soundmark": "/naʊ/"
+		"soundmark": "/naʊ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我(现在)正在尝试解决我们现在正在面对的这个麻烦",
 		"english": "I am trying to solve the problem we are facing now",
-		"soundmark": "/aɪ/ /æm/ /'traɪɪŋ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /wi/ /ɚ/ /'fesɪŋ/ /naʊ/"
+		"soundmark": "/aɪ/ /æm/ /'traɪɪŋ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /wi/ /ɚ/ /'fesɪŋ/ /naʊ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"冠词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			],
+			[
+				7,
+				7,
+				"代词"
+			],
+			[
+				8,
+				8,
+				"动词"
+			],
+			[
+				9,
+				9,
+				"动词"
+			],
+			[
+				10,
+				10,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				10,
+				"宾语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "解决这个麻烦",
 		"english": "to solve the problem",
-		"soundmark": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/"
+		"soundmark": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我解决这个麻烦",
 		"english": "I solve the problem",
-		"soundmark": "/aɪ/ /sɑlv/ /ðə/ /'prɑbləm/"
+		"soundmark": "/aɪ/ /sɑlv/ /ðə/ /'prɑbləm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "解决(ing形式)",
 		"english": "solving",
-		"soundmark": "/sɑlvɪŋ/"
+		"soundmark": "/sɑlvɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "是；赋值(原型)",
 		"english": "be",
-		"soundmark": "/bi/"
+		"soundmark": "/bi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "正在解决",
 		"english": "be solving",
-		"soundmark": "/bi/ /sɑlvɪŋ/"
+		"soundmark": "/bi/ /sɑlvɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我(现在)正在解决",
 		"english": "I am solving",
-		"soundmark": "/aɪ/ /æm/ /sɑlvɪŋ/"
+		"soundmark": "/aɪ/ /æm/ /sɑlvɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "这个麻烦",
 		"english": "the problem",
-		"soundmark": "/ðə/ /'prɑbləm/"
+		"soundmark": "/ðə/ /'prɑbləm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我(现在)正在解决这个麻烦",
 		"english": "I am solving the problem",
-		"soundmark": "/aɪ/ /æm/ /sɑlvɪŋ/ /ðə/ /'prɑbləm/"
+		"soundmark": "/aɪ/ /æm/ /sɑlvɪŋ/ /ðə/ /'prɑbləm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我们(现在)正在面对",
 		"english": "we are facing",
-		"soundmark": "/wi/ /ɚ/ /'fesɪŋ/"
+		"soundmark": "/wi/ /ɚ/ /'fesɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我们(现在)正在面对的这个麻烦",
 		"english": "the problem we are facing",
-		"soundmark": "/ðə/ /'prɑbləm/ /wi/ /ɚ/ /'fesɪŋ/"
+		"soundmark": "/ðə/ /'prɑbləm/ /wi/ /ɚ/ /'fesɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我(现在)正在解决我们(现在)正在面对的这个麻烦",
 		"english": "I am solving the problem we are facing",
-		"soundmark": "/aɪ/ /æm/ /sɑlvɪŋ/ /ðə/ /'prɑbləm/ /wi/ /ɚ/ /'fesɪŋ/"
+		"soundmark": "/aɪ/ /æm/ /sɑlvɪŋ/ /ðə/ /'prɑbləm/ /wi/ /ɚ/ /'fesɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"动词"
+			],
+			[
+				7,
+				7,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "现在",
 		"english": "now",
-		"soundmark": "/naʊ/"
+		"soundmark": "/naʊ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我(现在)正在解决我们现在正在面对的这个麻烦",
 		"english": "I am solving the problem we are facing now",
-		"soundmark": "/aɪ/ /æm/ /sɑlvɪŋ/ /ðə/ /'prɑbləm/ /wi/ /ɚ/ /'fesɪŋ/ /naʊ/"
+		"soundmark": "/aɪ/ /æm/ /sɑlvɪŋ/ /ðə/ /'prɑbləm/ /wi/ /ɚ/ /'fesɪŋ/ /naʊ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"动词"
+			],
+			[
+				7,
+				7,
+				"动词"
+			],
+			[
+				8,
+				8,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "疑惑",
 		"english": "to wonder",
-		"soundmark": "/tə/ /'wʌndɚ/"
+		"soundmark": "/tə/ /'wʌndɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我疑惑",
 		"english": "I wonder",
-		"soundmark": "/aɪ/ /'wʌndɚ/"
+		"soundmark": "/aɪ/ /'wʌndɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "一起解决这个麻烦",
 		"english": "to solve the problem together",
-		"soundmark": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"soundmark": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我们可以",
 		"english": "we can",
-		"soundmark": "/wi/ /kən/"
+		"soundmark": "/wi/ /kən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我们可以一起解决这个麻烦",
 		"english": "we can solve the problem together",
-		"soundmark": "/wi/ /kən/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"soundmark": "/wi/ /kən/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				5,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "是否",
 		"english": "if",
-		"soundmark": "/ɪf/"
+		"soundmark": "/ɪf/",
+		"posTags": [
+			[
+				0,
+				0,
+				"连词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "是否我们可以一起解决这个麻烦",
 		"english": "if we can solve the problem together",
-		"soundmark": "/ɪf/ /wi/ /kən/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"soundmark": "/ɪf/ /wi/ /kən/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"连词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"情态动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我疑惑",
 		"english": "I wonder",
-		"soundmark": "/aɪ/ /'wʌndɚ/"
+		"soundmark": "/aɪ/ /'wʌndɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我疑惑是否我们可以一起解决这个麻烦",
 		"english": "I wonder if we can solve the problem together",
-		"soundmark": "/aɪ/ /'wʌndɚ/ /ɪf/ /wi/ /kən/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"soundmark": "/aɪ/ /'wʌndɚ/ /ɪf/ /wi/ /kən/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"连词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"情态动词"
+			],
+			[
+				5,
+				5,
+				"动词"
+			],
+			[
+				6,
+				6,
+				"冠词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			],
+			[
+				8,
+				8,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "一起解决这个麻烦",
 		"english": "to solve the problem together",
-		"soundmark": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"soundmark": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我们需要",
 		"english": "we need",
-		"soundmark": "/wi/ /nid/"
+		"soundmark": "/wi/ /nid/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我们需要一起解决这个麻烦",
 		"english": "we need to solve the problem together",
-		"soundmark": "/wi/ /nid/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"soundmark": "/wi/ /nid/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "为什么",
 		"english": "why",
-		"soundmark": "/waɪ/"
+		"soundmark": "/waɪ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "为什么我们需要一起解决这个麻烦",
 		"english": "why we need to solve the problem together",
-		"soundmark": "/waɪ/ /wi/ /nid/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"soundmark": "/waɪ/ /wi/ /nid/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"冠词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			],
+			[
+				7,
+				7,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"疑问宾语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			],
+			[
+				3,
+				7,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我疑惑",
 		"english": "I wonder",
-		"soundmark": "/aɪ/ /'wʌndɚ/"
+		"soundmark": "/aɪ/ /'wʌndɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我疑惑为什么我们需要一起解决这个麻烦",
 		"english": "I wonder why we need to solve the problem together",
-		"soundmark": "/aɪ/ /'wʌndɚ/ /waɪ/ /wi/ /nid/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"soundmark": "/aɪ/ /'wʌndɚ/ /waɪ/ /wi/ /nid/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"疑问词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"动词"
+			],
+			[
+				7,
+				7,
+				"冠词"
+			],
+			[
+				8,
+				8,
+				"名词"
+			],
+			[
+				9,
+				9,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他",
 		"english": "he",
-		"soundmark": "/hi/"
+		"soundmark": "/hi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "他疑惑",
 		"english": "he wonders",
-		"soundmark": "/hi/ /'wʌndɚz/"
+		"soundmark": "/hi/ /'wʌndɚz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "一起解决这个麻烦",
 		"english": "to solve the problem together",
-		"soundmark": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"soundmark": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我们将会",
 		"english": "we will",
-		"soundmark": "/wi/ /wɪl/"
+		"soundmark": "/wi/ /wɪl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我们将会一起解决这个麻烦",
 		"english": "we will solve the problem together",
-		"soundmark": "/wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"soundmark": "/wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				5,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在什么时候",
 		"english": "when",
-		"soundmark": "/wɛn/"
+		"soundmark": "/wɛn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我们将会在什么时候一起解决这个麻烦",
 		"english": "when we will solve the problem together",
-		"soundmark": "/wɛn/ /wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"soundmark": "/wɛn/ /wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"情态动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"疑问宾语",
+				"NP"
+			],
+			[
+				1,
+				6,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他疑惑我们将会在什么时候一起解决这个麻烦",
 		"english": "he wonders when we will solve the problem together",
-		"soundmark": "/hi/ /'wʌndɚz/ /wɛn/ /wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"soundmark": "/hi/ /'wʌndɚz/ /wɛn/ /wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"疑问词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"情态动词"
+			],
+			[
+				5,
+				5,
+				"动词"
+			],
+			[
+				6,
+				6,
+				"冠词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			],
+			[
+				8,
+				8,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "如何",
 		"english": "how",
-		"soundmark": "/haʊ/"
+		"soundmark": "/haʊ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我们将会如何一起解决这个问题",
 		"english": "how we will solve the problem together",
-		"soundmark": "/haʊ/ /wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"soundmark": "/haʊ/ /wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"情态动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"疑问宾语",
+				"NP"
+			],
+			[
+				1,
+				6,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他疑惑我们将会如何一起解决这个麻烦",
 		"english": "he wonders how we will solve the problem together",
-		"soundmark": "/hi/ /'wʌndɚz/ /haʊ/ /wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"soundmark": "/hi/ /'wʌndɚz/ /haʊ/ /wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"疑问词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"情态动词"
+			],
+			[
+				5,
+				5,
+				"动词"
+			],
+			[
+				6,
+				6,
+				"冠词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			],
+			[
+				8,
+				8,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "疑惑(ing形式)",
 		"english": "wondering",
-		"soundmark": "/'wʌndərɪŋ/"
+		"soundmark": "/'wʌndərɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "是；赋值(原型)",
 		"english": "be",
-		"soundmark": "/bi/"
+		"soundmark": "/bi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "正在疑惑",
 		"english": "be wondering",
-		"soundmark": "/bi/ /'wʌndərɪŋ/"
+		"soundmark": "/bi/ /'wʌndərɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我(过去)正在疑惑",
 		"english": "I was wondering",
-		"soundmark": "/aɪ/ /wəz/ /'wʌndərɪŋ/"
+		"soundmark": "/aɪ/ /wəz/ /'wʌndərɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "是否我们可以一起解决这个麻烦",
 		"english": "if we can solve the problem together",
-		"soundmark": "/ɪf/ /wi/ /kən/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"soundmark": "/ɪf/ /wi/ /kən/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"连词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"情态动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我(过去)正在疑惑是否我们可以一起解决这个麻烦",
 		"english": "I was wondering if we can solve the problem together",
-		"soundmark": "/aɪ/ /wəz/ /'wʌndərɪŋ/ /ɪf/ /wi/ /kən/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"soundmark": "/aɪ/ /wəz/ /'wʌndərɪŋ/ /ɪf/ /wi/ /kən/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"连词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"情态动词"
+			],
+			[
+				6,
+				6,
+				"动词"
+			],
+			[
+				7,
+				7,
+				"冠词"
+			],
+			[
+				8,
+				8,
+				"名词"
+			],
+			[
+				9,
+				9,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我(过去)正在疑惑",
 		"english": "I was wondering",
-		"soundmark": "/aɪ/ /wəz/ /'wʌndərɪŋ/"
+		"soundmark": "/aɪ/ /wəz/ /'wʌndərɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "为什么我们需要一起解决这个麻烦",
 		"english": "why we need to solve the problem together",
-		"soundmark": "/waɪ/ /wi/ /nid/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"soundmark": "/waɪ/ /wi/ /nid/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"冠词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			],
+			[
+				7,
+				7,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"疑问宾语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			],
+			[
+				3,
+				7,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我(过去)正在疑惑为什么我们需要一起解决这个麻烦",
 		"english": "I was wondering why we need to solve the problem together",
-		"soundmark": "/aɪ/ /wəz/ /'wʌndərɪŋ/ /waɪ/ /wi/ /nid/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"soundmark": "/aɪ/ /wəz/ /'wʌndərɪŋ/ /waɪ/ /wi/ /nid/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"疑问词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"动词"
+			],
+			[
+				6,
+				6,
+				"介词"
+			],
+			[
+				7,
+				7,
+				"动词"
+			],
+			[
+				8,
+				8,
+				"冠词"
+			],
+			[
+				9,
+				9,
+				"名词"
+			],
+			[
+				10,
+				10,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "疑惑(ing形式)",
 		"english": "wondering",
-		"soundmark": "/'wʌndərɪŋ/"
+		"soundmark": "/'wʌndərɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "是；赋值(原型)",
 		"english": "be",
-		"soundmark": "/bi/"
+		"soundmark": "/bi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "正在疑惑",
 		"english": "be wondering",
-		"soundmark": "/bi/ /'wʌndərɪŋ/"
+		"soundmark": "/bi/ /'wʌndərɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "他",
 		"english": "he",
-		"soundmark": "/hi/"
+		"soundmark": "/hi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "他(现在)正在疑惑",
 		"english": "he is wondering",
-		"soundmark": "/hi/ /ɪz/ /'wʌndərɪŋ/"
+		"soundmark": "/hi/ /ɪz/ /'wʌndərɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我们将会在什么时候一起解决这个麻烦",
 		"english": "when we will solve the problem together",
-		"soundmark": "/wɛn/ /wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"soundmark": "/wɛn/ /wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"情态动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"疑问宾语",
+				"NP"
+			],
+			[
+				1,
+				6,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他(现在)正在疑惑我们将会在什么时候一起解决这个麻烦",
 		"english": "he is wondering when we will solve the problem together",
-		"soundmark": "/hi/ /ɪz/ /'wʌndərɪŋ/ /wɛn/ /wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"soundmark": "/hi/ /ɪz/ /'wʌndərɪŋ/ /wɛn/ /wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"疑问词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"情态动词"
+			],
+			[
+				6,
+				6,
+				"动词"
+			],
+			[
+				7,
+				7,
+				"冠词"
+			],
+			[
+				8,
+				8,
+				"名词"
+			],
+			[
+				9,
+				9,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "如何",
 		"english": "how",
-		"soundmark": "/haʊ/"
+		"soundmark": "/haʊ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我们将会如何一起解决这个问题",
 		"english": "how we will solve the problem together",
-		"soundmark": "/haʊ/ /wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"soundmark": "/haʊ/ /wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"情态动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"疑问宾语",
+				"NP"
+			],
+			[
+				1,
+				6,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他(现在)正在疑惑",
 		"english": "he is wondering",
-		"soundmark": "/hi/ /ɪz/ /'wʌndərɪŋ/"
+		"soundmark": "/hi/ /ɪz/ /'wʌndərɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "他(现在)正在疑惑我们将会如何一起解决这个问题",
 		"english": "he is wondering how we will solve the problem together",
-		"soundmark": "/hi/ /ɪz/ /'wʌndərɪŋ/ /haʊ/ /wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+		"soundmark": "/hi/ /ɪz/ /'wʌndərɪŋ/ /haʊ/ /wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"疑问词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"情态动词"
+			],
+			[
+				6,
+				6,
+				"动词"
+			],
+			[
+				7,
+				7,
+				"冠词"
+			],
+			[
+				8,
+				8,
+				"名词"
+			],
+			[
+				9,
+				9,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	}
 ]

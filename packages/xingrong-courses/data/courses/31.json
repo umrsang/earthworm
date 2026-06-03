@@ -2,771 +2,5351 @@
 	{
 		"chinese": "递",
 		"english": "to hand",
-		"soundmark": "/tə/ /hænd/"
+		"soundmark": "/tə/ /hænd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我",
 		"english": "me",
-		"soundmark": "/mi/"
+		"soundmark": "/mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "递给我",
 		"english": "to hand me",
-		"soundmark": "/tə/ /hænd/ /mi/"
+		"soundmark": "/tə/ /hænd/ /mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "钥匙",
 		"english": "key",
-		"soundmark": "/ki/"
+		"soundmark": "/ki/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "那个钥匙",
 		"english": "the key",
-		"soundmark": "/ðə/ /ki/"
+		"soundmark": "/ðə/ /ki/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "递给我那个钥匙",
 		"english": "to hand me the key",
-		"soundmark": "/tə/ /hænd/ /mi/ /ðə/ /ki/"
+		"soundmark": "/tə/ /hænd/ /mi/ /ðə/ /ki/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你",
 		"english": "you",
-		"soundmark": "/ju/"
+		"soundmark": "/ju/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "你递给我那个钥匙",
 		"english": "you hand me the key",
-		"soundmark": "/ju/ /hænd/ /mi/ /ðə/ /ki/"
+		"soundmark": "/ju/ /hænd/ /mi/ /ðə/ /ki/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你递那个钥匙",
 		"english": "you hand the key",
-		"soundmark": "/ju/ /hænd/ /ðə/ /ki/"
+		"soundmark": "/ju/ /hænd/ /ðə/ /ki/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我",
 		"english": "me",
-		"soundmark": "/mi/"
+		"soundmark": "/mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "你递那个钥匙给我",
 		"english": "you hand the key to me",
-		"soundmark": "/ju/ /hænd/ /ðə/ /ki/ /tə/ /mi/"
+		"soundmark": "/ju/ /hænd/ /ðə/ /ki/ /tə/ /mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				5,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "给",
 		"english": "to give",
-		"soundmark": "/tə/ /ɡɪv/"
+		"soundmark": "/tə/ /ɡɪv/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "你把那个钥匙给我",
 		"english": "you give the key to me",
-		"soundmark": "/ju/ /ɡɪv/ /ðə/ /ki/ /tə/ /mi/"
+		"soundmark": "/ju/ /ɡɪv/ /ðə/ /ki/ /tə/ /mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			],
+			[
+				4,
+				5,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "你给我那个钥匙",
 		"english": "you give me the key",
-		"soundmark": "/ju/ /ɡɪv/ /mi/ /ðə/ /ki/"
+		"soundmark": "/ju/ /ɡɪv/ /mi/ /ðə/ /ki/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你把那个钥匙给我",
 		"english": "you give the key to me",
-		"soundmark": "/ju/ /ɡɪv/ /ðə/ /ki/ /tə/ /mi/"
+		"soundmark": "/ju/ /ɡɪv/ /ðə/ /ki/ /tə/ /mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			],
+			[
+				4,
+				5,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "钱",
 		"english": "the money",
-		"soundmark": "/ðə/ /'mʌni/"
+		"soundmark": "/ðə/ /'mʌni/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你给我钱",
 		"english": "you give me the money",
-		"soundmark": "/ju/ /ɡɪv/ /mi/ /ðə/ /'mʌni/"
+		"soundmark": "/ju/ /ɡɪv/ /mi/ /ðə/ /'mʌni/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你把钱给我",
 		"english": "you give the money to me",
-		"soundmark": "/ju/ /ɡɪv/ /ðə/ /'mʌni/ /tə/ /mi/"
+		"soundmark": "/ju/ /ɡɪv/ /ðə/ /'mʌni/ /tə/ /mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			],
+			[
+				4,
+				5,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "它",
 		"english": "it",
-		"soundmark": "/ɪt/"
+		"soundmark": "/ɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "你把它给我",
 		"english": "you give it to me",
-		"soundmark": "/ju/ /ɡɪv/ /ɪt/ /tə/ /mi/"
+		"soundmark": "/ju/ /ɡɪv/ /ɪt/ /tə/ /mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			],
+			[
+				3,
+				4,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "往回",
 		"english": "back",
-		"soundmark": "/bæk/"
+		"soundmark": "/bæk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "你把它还给我",
 		"english": "you give it back to me",
-		"soundmark": "/ju/ /ɡɪv/ /ɪt/ /bæk/ /tə/ /mi/"
+		"soundmark": "/ju/ /ɡɪv/ /ɪt/ /bæk/ /tə/ /mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			],
+			[
+				4,
+				5,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "把它还给我",
 		"english": "give it back to me",
-		"soundmark": "/ɡɪv/ /ɪt/ /bæk/ /tə/ /mi/"
+		"soundmark": "/ɡɪv/ /ɪt/ /bæk/ /tə/ /mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"谓语",
+				"VP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			],
+			[
+				3,
+				4,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "读",
 		"english": "to read",
-		"soundmark": "/tə/ /rid/"
+		"soundmark": "/tə/ /rid/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "她",
 		"english": "her",
-		"soundmark": "/hɚ/"
+		"soundmark": "/hɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "读给她",
 		"english": "to read her",
-		"soundmark": "/tə/ /rid/ /hɚ/"
+		"soundmark": "/tə/ /rid/ /hɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "一个故事",
 		"english": "a story",
-		"soundmark": "/ə/ /'stɔri/"
+		"soundmark": "/ə/ /'stɔri/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "读给她一个故事",
 		"english": "to read her a story",
-		"soundmark": "/tə/ /rid/ /hɚ/ /ə/ /'stɔri/"
+		"soundmark": "/tə/ /rid/ /hɚ/ /ə/ /'stɔri/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我",
 		"english": "I",
-		"soundmark": "/aɪ/"
+		"soundmark": "/aɪ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我读给她一个故事",
 		"english": "I read her a story",
-		"soundmark": "/aɪ/ /rid/ /hɚ/ /ə/ /'stɔri/"
+		"soundmark": "/aɪ/ /rid/ /hɚ/ /ə/ /'stɔri/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "晚上",
 		"english": "night",
-		"soundmark": "/naɪt/"
+		"soundmark": "/naɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "每一个",
 		"english": "every",
-		"soundmark": "/'ɛvri/"
+		"soundmark": "/'ɛvri/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "每天晚上",
 		"english": "every night",
-		"soundmark": "/'ɛvri/ /naɪt/"
+		"soundmark": "/'ɛvri/ /naɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我每天晚上读给她一个故事",
 		"english": "I read her a story every night",
-		"soundmark": "/aɪ/ /rid/ /hɚ/ /ə/ /'stɔri/ /'ɛvri/ /naɪt/"
+		"soundmark": "/aɪ/ /rid/ /hɚ/ /ə/ /'stɔri/ /'ɛvri/ /naɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				6,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我读一个故事",
 		"english": "I read a story",
-		"soundmark": "/aɪ/ /rid/ /ə/ /'stɔri/"
+		"soundmark": "/aɪ/ /rid/ /ə/ /'stɔri/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "给她",
 		"english": "to her",
-		"soundmark": "/tə/ /hɚ/"
+		"soundmark": "/tə/ /hɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我给她读一个故事",
 		"english": "I read a story to her",
-		"soundmark": "/aɪ/ /rid/ /ə/ /'stɔri/ /tə/ /hɚ/"
+		"soundmark": "/aɪ/ /rid/ /ə/ /'stɔri/ /tə/ /hɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			],
+			[
+				4,
+				5,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "每天晚上",
 		"english": "every night",
-		"soundmark": "/'ɛvri/ /naɪt/"
+		"soundmark": "/'ɛvri/ /naɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我每天晚上为她读一个故事",
 		"english": "I read a story to her every night",
-		"soundmark": "/aɪ/ /rid/ /ə/ /'stɔri/ /tə/ /hɚ/ /'ɛvri/ /naɪt/"
+		"soundmark": "/aɪ/ /rid/ /ə/ /'stɔri/ /tə/ /hɚ/ /'ɛvri/ /naɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			],
+			[
+				4,
+				7,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "就寝时间",
 		"english": "bedtime",
-		"soundmark": "/'bɛdtaɪm/"
+		"soundmark": "/'bɛdtaɪm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "睡前故事",
 		"english": "bedtime story",
-		"soundmark": "/'bɛdtaɪm/ /'stɔri/"
+		"soundmark": "/'bɛdtaɪm/ /'stɔri/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我每天晚上给她读一个睡前故事",
 		"english": "I read a bedtime story to her every night",
-		"soundmark": "/aɪ/ /rid/ /ə/ /'bɛdtaɪm/ /'stɔri/ /tə/ /hɚ/ /'ɛvri/ /naɪt/"
+		"soundmark": "/aɪ/ /rid/ /ə/ /'bɛdtaɪm/ /'stɔri/ /tə/ /hɚ/ /'ɛvri/ /naɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"代词"
+			],
+			[
+				8,
+				8,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				4,
+				"宾语",
+				"NP"
+			],
+			[
+				5,
+				8,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我每天晚上读给她一个睡前故事",
 		"english": "I read her a bedtime story every night",
-		"soundmark": "/aɪ/ /rid/ /hɚ/ /ə/ /'bɛdtaɪm/ /'stɔri/ /'ɛvri/ /naɪt/"
+		"soundmark": "/aɪ/ /rid/ /hɚ/ /ə/ /'bɛdtaɪm/ /'stɔri/ /'ɛvri/ /naɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				7,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "买",
 		"english": "to buy",
-		"soundmark": "/tə/ /baɪ/"
+		"soundmark": "/tə/ /baɪ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "他",
 		"english": "him",
-		"soundmark": "/hɪm/"
+		"soundmark": "/hɪm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "买给他",
 		"english": "to buy him",
-		"soundmark": "/tə/ /baɪ/ /hɪm/"
+		"soundmark": "/tə/ /baɪ/ /hɪm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "玩具",
 		"english": "toy",
-		"soundmark": "/tɔɪ/"
+		"soundmark": "/tɔɪ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "一个玩具",
 		"english": "a toy",
-		"soundmark": "/ə/ /tɔɪ/"
+		"soundmark": "/ə/ /tɔɪ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "汽车",
 		"english": "car",
-		"soundmark": "/kɑr/"
+		"soundmark": "/kɑr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "一个玩具车",
 		"english": "a toy car",
-		"soundmark": "/ə/ /tɔɪ/ /kɑr/"
+		"soundmark": "/ə/ /tɔɪ/ /kɑr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				2,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "买给他一个玩具车",
 		"english": "to buy him a toy car",
-		"soundmark": "/tə/ /baɪ/ /hɪm/ /ə/ /tɔɪ/ /kɑr/"
+		"soundmark": "/tə/ /baɪ/ /hɪm/ /ə/ /tɔɪ/ /kɑr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				5,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我将会",
 		"english": "I will",
-		"soundmark": "/aɪ/ /wɪl/"
+		"soundmark": "/aɪ/ /wɪl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我将会买给他一个玩具车",
 		"english": "I will buy him a toy car",
-		"soundmark": "/aɪ/ /wɪl/ /baɪ/ /hɪm/ /ə/ /tɔɪ/ /kɑr/"
+		"soundmark": "/aɪ/ /wɪl/ /baɪ/ /hɪm/ /ə/ /tɔɪ/ /kɑr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				6,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我将会买一个玩具车",
 		"english": "I will buy a toy car",
-		"soundmark": "/aɪ/ /wɪl/ /baɪ/ /ə/ /tɔɪ/ /kɑr/"
+		"soundmark": "/aɪ/ /wɪl/ /baɪ/ /ə/ /tɔɪ/ /kɑr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				5,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "为他",
 		"english": "for him",
-		"soundmark": "/fɝ/ /hɪm/"
+		"soundmark": "/fɝ/ /hɪm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我将会为他买一个玩具车",
 		"english": "I will buy a toy car for him",
-		"soundmark": "/aɪ/ /wɪl/ /baɪ/ /ə/ /tɔɪ/ /kɑr/ /fɝ/ /hɪm/"
+		"soundmark": "/aɪ/ /wɪl/ /baɪ/ /ə/ /tɔɪ/ /kɑr/ /fɝ/ /hɪm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"介词"
+			],
+			[
+				7,
+				7,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				5,
+				"宾语",
+				"NP"
+			],
+			[
+				6,
+				7,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "明天",
 		"english": "tomorrow",
-		"soundmark": "/tə'mɔro/"
+		"soundmark": "/tə'mɔro/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我明天将会为他买一个玩具车",
 		"english": "I will buy a toy car for him tomorrow",
-		"soundmark": "/aɪ/ /wɪl/ /baɪ/ /ə/ /tɔɪ/ /kɑr/ /fɝ/ /hɪm/ /tə'mɔro/"
+		"soundmark": "/aɪ/ /wɪl/ /baɪ/ /ə/ /tɔɪ/ /kɑr/ /fɝ/ /hɪm/ /tə'mɔro/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"介词"
+			],
+			[
+				7,
+				7,
+				"代词"
+			],
+			[
+				8,
+				8,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				5,
+				"宾语",
+				"NP"
+			],
+			[
+				6,
+				8,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "出生",
 		"english": "birth",
-		"soundmark": "/bɝθ/"
+		"soundmark": "/bɝθ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "日",
 		"english": "day",
-		"soundmark": "/de/"
+		"soundmark": "/de/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "生日",
 		"english": "birthday",
-		"soundmark": "/'bɝθde/"
+		"soundmark": "/'bɝθde/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "蛋糕",
 		"english": "cake",
-		"soundmark": "/kek/"
+		"soundmark": "/kek/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "生日蛋糕",
 		"english": "birthday cake",
-		"soundmark": "/'bɝθde/ /kek/"
+		"soundmark": "/'bɝθde/ /kek/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "一个生日蛋糕",
 		"english": "a birthday cake",
-		"soundmark": "/ə/ /'bɝθde/ /kek/"
+		"soundmark": "/ə/ /'bɝθde/ /kek/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				2,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "做",
 		"english": "to make",
-		"soundmark": "/tə/ /mek/"
+		"soundmark": "/tə/ /mek/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "做一个生日蛋糕",
 		"english": "to make a birthday cake",
-		"soundmark": "/tə/ /mek/ /ə/ /'bɝθde/ /kek/"
+		"soundmark": "/tə/ /mek/ /ə/ /'bɝθde/ /kek/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我们将会",
 		"english": "we will",
-		"soundmark": "/wi/ /wɪl/"
+		"soundmark": "/wi/ /wɪl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我们将会做一个生日蛋糕",
 		"english": "we will make a birthday cake",
-		"soundmark": "/wi/ /wɪl/ /mek/ /ə/ /'bɝθde/ /kek/"
+		"soundmark": "/wi/ /wɪl/ /mek/ /ə/ /'bɝθde/ /kek/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				5,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "她",
 		"english": "her",
-		"soundmark": "/hɚ/"
+		"soundmark": "/hɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我们将会做给她一个生日蛋糕",
 		"english": "we will make her a birthday cake",
-		"soundmark": "/wi/ /wɪl/ /mek/ /hɚ/ /ə/ /'bɝθde/ /kek/"
+		"soundmark": "/wi/ /wɪl/ /mek/ /hɚ/ /ə/ /'bɝθde/ /kek/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				6,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "为她",
 		"english": "for her",
-		"soundmark": "/fɚ/ /hɚ/"
+		"soundmark": "/fɚ/ /hɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我们将会为她做一个生日蛋糕",
 		"english": "we will make a birthday cake for her",
-		"soundmark": "/wi/ /wɪl/ /mek/ /ə/ /'bɝθde/ /kek/ /fɚ/ /hɚ/"
+		"soundmark": "/wi/ /wɪl/ /mek/ /ə/ /'bɝθde/ /kek/ /fɚ/ /hɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"介词"
+			],
+			[
+				7,
+				7,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				5,
+				"宾语",
+				"NP"
+			],
+			[
+				6,
+				7,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "做（ing形式）",
 		"english": "making",
-		"soundmark": "/'mekɪŋ/"
+		"soundmark": "/'mekɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "是;赋值(原型)",
 		"english": "be",
-		"soundmark": "/bi/"
+		"soundmark": "/bi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "正在做",
 		"english": "be making",
-		"soundmark": "/bi/ /'mekɪŋ/"
+		"soundmark": "/bi/ /'mekɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我们正在做",
 		"english": "we are making",
-		"soundmark": "/wi/ /ɚ/ /'mekɪŋ/"
+		"soundmark": "/wi/ /ɚ/ /'mekɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "一个生日蛋糕",
 		"english": "a birthday cake",
-		"soundmark": "/ə/ /'bɝθde/ /kek/"
+		"soundmark": "/ə/ /'bɝθde/ /kek/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				2,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我们正在做一个生日蛋糕",
 		"english": "we are making a birthday cake",
-		"soundmark": "/wi/ /ɚ/ /'mekɪŋ/ /ə/ /'bɝθde/ /kek/"
+		"soundmark": "/wi/ /ɚ/ /'mekɪŋ/ /ə/ /'bɝθde/ /kek/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				5,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "为她",
 		"english": "for her",
-		"soundmark": "/fɚ/ /hɚ/"
+		"soundmark": "/fɚ/ /hɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我们正在为她做一个生日蛋糕",
 		"english": "we are making a birthday cake for her",
-		"soundmark": "/wi/ /ɚ/ /'mekɪŋ/ /ə/ /'bɝθde/ /kek/ /fɚ/ /hɚ/"
+		"soundmark": "/wi/ /ɚ/ /'mekɪŋ/ /ə/ /'bɝθde/ /kek/ /fɚ/ /hɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"介词"
+			],
+			[
+				7,
+				7,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				5,
+				"宾语",
+				"NP"
+			],
+			[
+				6,
+				7,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "做",
 		"english": "to make",
-		"soundmark": "/tə/ /mek/"
+		"soundmark": "/tə/ /mek/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "钱",
 		"english": "money",
-		"soundmark": "/'mʌni/"
+		"soundmark": "/'mʌni/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "赚钱",
 		"english": "to make money",
-		"soundmark": "/tə/ /mek/ /'mʌni/"
+		"soundmark": "/tə/ /mek/ /'mʌni/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "身体",
 		"english": "body",
-		"soundmark": "/'bɑdi/"
+		"soundmark": "/'bɑdi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "每一个",
 		"english": "every",
-		"soundmark": "/'ɛvri/"
+		"soundmark": "/'ɛvri/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "每个人",
 		"english": "everybody",
-		"soundmark": "/'ɛvrɪbɑdi/"
+		"soundmark": "/'ɛvrɪbɑdi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "想要",
 		"english": "want",
-		"soundmark": "/wɑnt/"
+		"soundmark": "/wɑnt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "每个人想要",
 		"english": "everybody wants",
-		"soundmark": "/'ɛvrɪbɑdi/ /wɑnts/"
+		"soundmark": "/'ɛvrɪbɑdi/ /wɑnts/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "每个人想要赚钱",
 		"english": "everybody wants to make money",
-		"soundmark": "/'ɛvrɪbɑdi/ /wɑnts/ /tə/ /mek/ /'mʌni/"
+		"soundmark": "/'ɛvrɪbɑdi/ /wɑnts/ /tə/ /mek/ /'mʌni/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "需要",
 		"english": "need",
-		"soundmark": "/nid/"
+		"soundmark": "/nid/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "每个人需要赚钱",
 		"english": "everybody needs to make money",
-		"soundmark": "/'ɛvrɪbɑdi/ /nidz/ /tə/ /mek/ /'mʌni/"
+		"soundmark": "/'ɛvrɪbɑdi/ /nidz/ /tə/ /mek/ /'mʌni/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "做",
 		"english": "to make",
-		"soundmark": "/tə/ /mek/"
+		"soundmark": "/tə/ /mek/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "打电话",
 		"english": "to call",
-		"soundmark": "/tə/ /kɔl/"
+		"soundmark": "/tə/ /kɔl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "呼叫",
 		"english": "call",
-		"soundmark": "/kɔl/"
+		"soundmark": "/kɔl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "一个呼叫",
 		"english": "a call",
-		"soundmark": "/ə/ /kɔl/"
+		"soundmark": "/ə/ /kɔl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "打一个电话",
 		"english": "to make a call",
-		"soundmark": "/tə/ /mek/ /ə/ /kɔl/"
+		"soundmark": "/tə/ /mek/ /ə/ /kɔl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "视频",
 		"english": "video",
-		"soundmark": "/'vɪdɪo/"
+		"soundmark": "/'vɪdɪo/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "打一个视频电话",
 		"english": "to make a video call",
-		"soundmark": "/tə/ /mek/ /ə/ /'vɪdɪo/ /kɔl/"
+		"soundmark": "/tə/ /mek/ /ə/ /'vɪdɪo/ /kɔl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "朋友",
 		"english": "friend",
-		"soundmark": "/frɛnd/"
+		"soundmark": "/frɛnd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我的",
 		"english": "my",
-		"soundmark": "/maɪ/"
+		"soundmark": "/maɪ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我的朋友",
 		"english": "my friend",
-		"soundmark": "/maɪ/ /frɛnd/"
+		"soundmark": "/maɪ/ /frɛnd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "最好的",
 		"english": "best",
-		"soundmark": "/bɛst/"
+		"soundmark": "/bɛst/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我最好的朋友",
 		"english": "my best friend",
-		"soundmark": "/maɪ/ /bɛst/ /frɛnd/"
+		"soundmark": "/maɪ/ /bɛst/ /frɛnd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				2,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "打一个视频电话",
 		"english": "to make a video call",
-		"soundmark": "/tə/ /mek/ /ə/ /'vɪdɪo/ /kɔl/"
+		"soundmark": "/tə/ /mek/ /ə/ /'vɪdɪo/ /kɔl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "打一个视频电话给我最好的朋友",
 		"english": "to make a video call to my best friend",
-		"soundmark": "/tə/ /mek/ /ə/ /'vɪdɪo/ /kɔl/ /tə/ /maɪ/ /bɛst/ /frɛnd/"
+		"soundmark": "/tə/ /mek/ /ə/ /'vɪdɪo/ /kɔl/ /tə/ /maɪ/ /bɛst/ /frɛnd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			],
+			[
+				8,
+				8,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我想要",
 		"english": "I want",
-		"soundmark": "/aɪ/ /wɑnt/"
+		"soundmark": "/aɪ/ /wɑnt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我想要打一个视频电话",
 		"english": "I want to make a video call",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /mek/ /ə/ /'vɪdɪo/ /kɔl/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /mek/ /ə/ /'vɪdɪo/ /kɔl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我想要打一个视频电话给我最好的朋友",
 		"english": "I want to make a video call to my best friend",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /mek/ /ə/ /'vɪdɪo/ /kɔl/ /tə/ /maɪ/ /bɛst/ /frɛnd/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /mek/ /ə/ /'vɪdɪo/ /kɔl/ /tə/ /maɪ/ /bɛst/ /frɛnd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"动词"
+			],
+			[
+				7,
+				7,
+				"介词"
+			],
+			[
+				8,
+				8,
+				"代词"
+			],
+			[
+				9,
+				9,
+				"名词"
+			],
+			[
+				10,
+				10,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "做",
 		"english": "to make",
-		"soundmark": "/tə/ /mek/"
+		"soundmark": "/tə/ /mek/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "一个视频",
 		"english": "a video",
-		"soundmark": "/ə/ /'vɪdɪo/"
+		"soundmark": "/ə/ /'vɪdɪo/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "做一个视频",
 		"english": "to make a video",
-		"soundmark": "/tə/ /mek/ /ə/ /'vɪdɪo/"
+		"soundmark": "/tə/ /mek/ /ə/ /'vɪdɪo/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我想要做一个视频",
 		"english": "I want to make a video",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /mek/ /ə/ /'vɪdɪo/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /mek/ /ə/ /'vɪdɪo/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "如何",
 		"english": "how",
-		"soundmark": "/haʊ/"
+		"soundmark": "/haʊ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "学习",
 		"english": "to learn",
-		"soundmark": "/tə/ /lɝn/"
+		"soundmark": "/tə/ /lɝn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "如何学习",
 		"english": "how to learn",
-		"soundmark": "/haʊ/ /tə/ /lɝn/"
+		"soundmark": "/haʊ/ /tə/ /lɝn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			],
+			[
+				1,
+				1,
+				"介词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"疑问宾语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "英语",
 		"english": "English",
-		"soundmark": "/ˈɪŋɡlɪʃ/"
+		"soundmark": "/ˈɪŋɡlɪʃ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"专有名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "如何学习英语",
 		"english": "how to learn English",
-		"soundmark": "/haʊ/ /tə/ /lɝn/ /ˈɪŋɡlɪʃ/"
+		"soundmark": "/haʊ/ /tə/ /lɝn/ /ˈɪŋɡlɪʃ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			],
+			[
+				1,
+				1,
+				"介词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"专有名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"疑问宾语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "关于",
 		"english": "about",
-		"soundmark": "/ə'baʊt/"
+		"soundmark": "/ə'baʊt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "关于如何学习英语",
 		"english": "about how to learn English",
-		"soundmark": "/ə'baʊt/ /haʊ/ /tə/ /lɝn/ /ˈɪŋɡlɪʃ/"
+		"soundmark": "/ə'baʊt/ /haʊ/ /tə/ /lɝn/ /ˈɪŋɡlɪʃ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"疑问词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"专有名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我想要做一个视频",
 		"english": "I want to make a video",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /mek/ /ə/ /'vɪdɪo/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /mek/ /ə/ /'vɪdɪo/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我想要做一个关于如何学习英语的视频",
 		"english": "I want to make a video about how to learn English",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /mek/ /ə/ /'vɪdɪo/ /ə'baʊt/ /haʊ/ /tə/ /lɝn/ /ˈɪŋɡlɪʃ/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /mek/ /ə/ /'vɪdɪo/ /ə'baʊt/ /haʊ/ /tə/ /lɝn/ /ˈɪŋɡlɪʃ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"介词"
+			],
+			[
+				7,
+				7,
+				"疑问词"
+			],
+			[
+				8,
+				8,
+				"介词"
+			],
+			[
+				9,
+				9,
+				"动词"
+			],
+			[
+				10,
+				10,
+				"专有名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "改变",
 		"english": "to change",
-		"soundmark": "/tə/ /tʃendʒ/"
+		"soundmark": "/tə/ /tʃendʒ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "改变",
 		"english": "change",
-		"soundmark": "/tʃendʒ/"
+		"soundmark": "/tʃendʒ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "做",
 		"english": "to make",
-		"soundmark": "/tə/ /mek/"
+		"soundmark": "/tə/ /mek/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "做改变",
 		"english": "to make a change",
-		"soundmark": "/tə/ /mek/ /ə/ /tʃendʒ/"
+		"soundmark": "/tə/ /mek/ /ə/ /tʃendʒ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "决定",
 		"english": "to decide",
-		"soundmark": "/tə/ /dɪ'saɪd/"
+		"soundmark": "/tə/ /dɪ'saɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "决定做改变",
 		"english": "to decide to make a change",
-		"soundmark": "/tə/ /dɪ'saɪd/ /tə/ /mek/ /ə/ /tʃendʒ/"
+		"soundmark": "/tə/ /dɪ'saɪd/ /tə/ /mek/ /ə/ /tʃendʒ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我们",
 		"english": "we",
-		"soundmark": "/wi/"
+		"soundmark": "/wi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我们决定做改变",
 		"english": "we decide to make a change",
-		"soundmark": "/wi/ /dɪ'saɪd/ /tə/ /mek/ /ə/ /tʃendʒ/"
+		"soundmark": "/wi/ /dɪ'saɪd/ /tə/ /mek/ /ə/ /tʃendʒ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我们（过去）决定做改变",
 		"english": "we decided to make a change",
-		"soundmark": "/wi/ /dɪ'saɪdɪd/ /tə/ /mek/ /ə/ /tʃendʒ/"
+		"soundmark": "/wi/ /dɪ'saɪdɪd/ /tə/ /mek/ /ə/ /tʃendʒ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "决定",
 		"english": "to decide",
-		"soundmark": "/tə/ /dɪ'saɪd/"
+		"soundmark": "/tə/ /dɪ'saɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "决定",
 		"english": "decision",
-		"soundmark": "/dɪ'sɪʒn/"
+		"soundmark": "/dɪ'sɪʒn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "做",
 		"english": "to make",
-		"soundmark": "/tə/ /mek/"
+		"soundmark": "/tə/ /mek/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "做决定",
 		"english": "to make a decision",
-		"soundmark": "/tə/ /mek/ /ə/ /dɪ'sɪʒn/"
+		"soundmark": "/tə/ /mek/ /ə/ /dɪ'sɪʒn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我们需要",
 		"english": "we need",
-		"soundmark": "/wi/ /nid/"
+		"soundmark": "/wi/ /nid/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我们需要做决定",
 		"english": "we need to make a decision",
-		"soundmark": "/wi/ /nid/ /tə/ /mek/ /ə/ /dɪ'sɪʒn/"
+		"soundmark": "/wi/ /nid/ /tə/ /mek/ /ə/ /dɪ'sɪʒn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "现在",
 		"english": "now",
-		"soundmark": "/naʊ/"
+		"soundmark": "/naʊ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我们现在需要做决定",
 		"english": "we need to make a decision now",
-		"soundmark": "/wi/ /nid/ /tə/ /mek/ /ə/ /dɪ'sɪʒn/ /naʊ/"
+		"soundmark": "/wi/ /nid/ /tə/ /mek/ /ə/ /dɪ'sɪʒn/ /naʊ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我认为",
 		"english": "I think",
-		"soundmark": "/aɪ/ /θɪŋk/"
+		"soundmark": "/aɪ/ /θɪŋk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我认为我们现在需要做决定",
 		"english": "I think we need to make a decision now",
-		"soundmark": "/aɪ/ /θɪŋk/ /wi/ /nid/ /tə/ /mek/ /ə/ /dɪ'sɪʒn/ /naʊ/"
+		"soundmark": "/aɪ/ /θɪŋk/ /wi/ /nid/ /tə/ /mek/ /ə/ /dɪ'sɪʒn/ /naʊ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"动词"
+			],
+			[
+				6,
+				6,
+				"冠词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			],
+			[
+				8,
+				8,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "不",
 		"english": "don't",
-		"soundmark": "/dont/"
+		"soundmark": "/dont/",
+		"posTags": [
+			[
+				0,
+				0,
+				"助动词"
+			],
+			[
+				1,
+				1,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我不认为我们现在需要做决定",
 		"english": "I don't think we need to make a decision now",
-		"soundmark": "/aɪ/ /dont/ /θɪŋk/ /wi/ /nid/ /tə/ /mek/ /ə/ /dɪ'sɪʒn/ /naʊ/"
+		"soundmark": "/aɪ/ /dont/ /θɪŋk/ /wi/ /nid/ /tə/ /mek/ /ə/ /dɪ'sɪʒn/ /naʊ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"动词"
+			],
+			[
+				6,
+				6,
+				"介词"
+			],
+			[
+				7,
+				7,
+				"动词"
+			],
+			[
+				8,
+				8,
+				"冠词"
+			],
+			[
+				9,
+				9,
+				"名词"
+			],
+			[
+				10,
+				10,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "朋友",
 		"english": "friends",
-		"soundmark": "/frɛndz/"
+		"soundmark": "/frɛndz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "做",
 		"english": "to make",
-		"soundmark": "/tə/ /mek/"
+		"soundmark": "/tə/ /mek/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "交朋友",
 		"english": "to make friends",
-		"soundmark": "/tə/ /mek/ /frɛndz/"
+		"soundmark": "/tə/ /mek/ /frɛndz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你",
 		"english": "you",
-		"soundmark": "/ju/"
+		"soundmark": "/ju/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "你可以",
 		"english": "you can",
-		"soundmark": "/ju/ /kæn/"
+		"soundmark": "/ju/ /kæn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "你可以交朋友",
 		"english": "you can make friends",
-		"soundmark": "/ju/ /kæn/ /mek/ /frɛndz/"
+		"soundmark": "/ju/ /kæn/ /mek/ /frɛndz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "和",
 		"english": "with",
-		"soundmark": "/wɪð/"
+		"soundmark": "/wɪð/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "他们",
 		"english": "them",
-		"soundmark": "/ðəm/"
+		"soundmark": "/ðəm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "和他们",
 		"english": "with them",
-		"soundmark": "/wɪð/ /ðəm/"
+		"soundmark": "/wɪð/ /ðəm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你可以和他们交朋友",
 		"english": "you can make friends with them",
-		"soundmark": "/ju/ /kæn/ /mek/ /frɛndz/ /wɪð/ /ðəm/"
+		"soundmark": "/ju/ /kæn/ /mek/ /frɛndz/ /wɪð/ /ðəm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				3,
+				"宾语",
+				"NP"
+			],
+			[
+				4,
+				5,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "不可以",
 		"english": "can't",
-		"soundmark": "/kænt/"
+		"soundmark": "/kænt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			],
+			[
+				1,
+				1,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "你不可以和他们交朋友",
 		"english": "you can't make friends with them",
-		"soundmark": "/ju/ /kænt/ /mek/ /frɛndz/ /wɪð/ /ðəm/"
+		"soundmark": "/ju/ /kænt/ /mek/ /frɛndz/ /wɪð/ /ðəm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				4,
+				"宾语",
+				"NP"
+			],
+			[
+				5,
+				6,
+				"状语",
+				"PP"
+			]
+		]
 	}
 ]

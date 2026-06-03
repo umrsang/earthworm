@@ -2,666 +2,4144 @@
 	{
 		"chinese": "清洗",
 		"english": "to wash",
-		"soundmark": "/tə/ /wɑʃ/"
+		"soundmark": "/tə/ /wɑʃ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "清洗(ing形式)",
 		"english": "washing",
-		"soundmark": "/'wɑʃɪŋ/"
+		"soundmark": "/'wɑʃɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "正在清洗",
 		"english": "be washing",
-		"soundmark": "/bi/ /'wɑʃɪŋ/"
+		"soundmark": "/bi/ /'wɑʃɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我(现在)正在清洗",
 		"english": "I am washing",
-		"soundmark": "/aɪ/ /æm/ /'wɑʃɪŋ/"
+		"soundmark": "/aɪ/ /æm/ /'wɑʃɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我的车",
 		"english": "my car",
-		"soundmark": "/maɪ/ /kɑr/"
+		"soundmark": "/maɪ/ /kɑr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我(现在)正在清洗我的车",
 		"english": "I am washing my car",
-		"soundmark": "/aɪ/ /æm/ /'wɑʃɪŋ/ /maɪ/ /kɑr/"
+		"soundmark": "/aɪ/ /æm/ /'wɑʃɪŋ/ /maɪ/ /kɑr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "正在清洗",
 		"english": "be washing",
-		"soundmark": "/bi/ /'wɑʃɪŋ/"
+		"soundmark": "/bi/ /'wɑʃɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "清洗(过去分词)",
 		"english": "washed",
-		"soundmark": "/wɑʃt/"
+		"soundmark": "/wɑʃt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "被清洗了",
 		"english": "be washed",
-		"soundmark": "/bi/ /wɑʃt/"
+		"soundmark": "/bi/ /wɑʃt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我的车",
 		"english": "my car",
-		"soundmark": "/maɪ/ /kɑr/"
+		"soundmark": "/maɪ/ /kɑr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我的车被清洗了",
 		"english": "my car is washed",
-		"soundmark": "/maɪ/ /kɑr/ /ɪz/ /wɑʃt/"
+		"soundmark": "/maɪ/ /kɑr/ /ɪz/ /wɑʃt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我(已经)洗完了我的车",
 		"english": "I have washed my car",
-		"soundmark": "/aɪ/ /hæv/ /wɑʃt/ /maɪ/ /kɑr/"
+		"soundmark": "/aɪ/ /hæv/ /wɑʃt/ /maɪ/ /kɑr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "手",
 		"english": "hand",
-		"soundmark": "/hænd/"
+		"soundmark": "/hænd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我(已经)洗完了我的手",
 		"english": "I have washed my hands",
-		"soundmark": "/aɪ/ /hæv/ /wɑʃt/ /maɪ/ /hændz/"
+		"soundmark": "/aɪ/ /hæv/ /wɑʃt/ /maɪ/ /hændz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "完成",
 		"english": "to finish",
-		"soundmark": "/tə/ /'fɪnɪʃ/"
+		"soundmark": "/tə/ /'fɪnɪʃ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "完成(过去分词)",
 		"english": "finished",
-		"soundmark": "/'fɪnɪʃt/"
+		"soundmark": "/'fɪnɪʃt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我(已经)完成了",
 		"english": "I have finished",
-		"soundmark": "/aɪ/ /hæv/ /'fɪnɪʃt/"
+		"soundmark": "/aɪ/ /hæv/ /'fɪnɪʃt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "家庭作业",
 		"english": "homework",
-		"soundmark": "/'homwɝk/"
+		"soundmark": "/'homwɝk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我的家庭作业",
 		"english": "my homework",
-		"soundmark": "/maɪ/ /'homwɝk/"
+		"soundmark": "/maɪ/ /'homwɝk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我(已经)完成了我的家庭作业",
 		"english": "I have finished my homework",
-		"soundmark": "/aɪ/ /hæv/ /'fɪnɪʃt/ /maɪ/ /'homwɝk/"
+		"soundmark": "/aɪ/ /hæv/ /'fɪnɪʃt/ /maɪ/ /'homwɝk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我们",
 		"english": "we",
-		"soundmark": "/wi/"
+		"soundmark": "/wi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我们(已经)完成了",
 		"english": "we have finished",
-		"soundmark": "/wi/ /hæv/ /'fɪnɪʃt/"
+		"soundmark": "/wi/ /hæv/ /'fɪnɪʃt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "项目",
 		"english": "project",
-		"soundmark": "/ˈprɑdʒɛkt/"
+		"soundmark": "/ˈprɑdʒɛkt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我们的项目",
 		"english": "our project",
-		"soundmark": "/'aʊɚ/ /ˈprɑdʒɛkt/"
+		"soundmark": "/'aʊɚ/ /ˈprɑdʒɛkt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我们(已经)完成了我们的项目",
 		"english": "we have finished our project",
-		"soundmark": "/wi/ /hæv/ /'fɪnɪʃt/ /'aʊɚ/ /ˈprɑdʒɛkt/"
+		"soundmark": "/wi/ /hæv/ /'fɪnɪʃt/ /'aʊɚ/ /ˈprɑdʒɛkt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "去",
 		"english": "to go",
-		"soundmark": "/tə/ /ɡo/"
+		"soundmark": "/tə/ /ɡo/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "公园",
 		"english": "the park",
-		"soundmark": "/ðə/ /pɑrk/"
+		"soundmark": "/ðə/ /pɑrk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "去公园",
 		"english": "to go to the park",
-		"soundmark": "/tə/ /ɡo/ /tə/ /ðə/ /pɑrk/"
+		"soundmark": "/tə/ /ɡo/ /tə/ /ðə/ /pɑrk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "去(过去分词)",
 		"english": "gone",
-		"soundmark": "/ɡɔn/"
+		"soundmark": "/ɡɔn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "他们(已经)去了",
 		"english": "they have gone",
-		"soundmark": "/ðe/ /hæv/ /ɡɔn/"
+		"soundmark": "/ðe/ /hæv/ /ɡɔn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他们(已经)去了公园",
 		"english": "they have gone to the park",
-		"soundmark": "/ðe/ /hæv/ /ɡɔn/ /tə/ /ðə/ /pɑrk/"
+		"soundmark": "/ðe/ /hæv/ /ɡɔn/ /tə/ /ðə/ /pɑrk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			],
+			[
+				3,
+				5,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "阅读",
 		"english": "to read",
-		"soundmark": "/tə/ /rid/"
+		"soundmark": "/tə/ /rid/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "读(过去分词)",
 		"english": "read",
-		"soundmark": "/rid/"
+		"soundmark": "/rid/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我(已经)读过",
 		"english": "I have read",
-		"soundmark": "/aɪ/ /hæv/ /rid/"
+		"soundmark": "/aɪ/ /hæv/ /rid/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "那本书",
 		"english": "that book",
-		"soundmark": "/ðæt/ /bʊk/"
+		"soundmark": "/ðæt/ /bʊk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我(已经)读过那本书",
 		"english": "I have read that book",
-		"soundmark": "/aɪ/ /hæv/ /rid/ /ðæt/ /bʊk/"
+		"soundmark": "/aɪ/ /hæv/ /rid/ /ðæt/ /bʊk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "次",
 		"english": "time",
-		"soundmark": "/taɪm/"
+		"soundmark": "/taɪm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "两次",
 		"english": "two times",
-		"soundmark": "/tu/ /taɪmz/"
+		"soundmark": "/tu/ /taɪmz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"数词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "两次",
 		"english": "twice",
-		"soundmark": "/twaɪs/"
+		"soundmark": "/twaɪs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我(已经)读过那本书两次了",
 		"english": "I have read that book twice",
-		"soundmark": "/aɪ/ /hæv/ /rid/ /ðæt/ /bʊk/ /twaɪs/"
+		"soundmark": "/aɪ/ /hæv/ /rid/ /ðæt/ /bʊk/ /twaɪs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "学到",
 		"english": "to learn",
-		"soundmark": "/tə/ /lɝn/"
+		"soundmark": "/tə/ /lɝn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "学到(过去分词)",
 		"english": "learned",
-		"soundmark": "/lɝnd/"
+		"soundmark": "/lɝnd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我(已经)学到了",
 		"english": "I have learned",
-		"soundmark": "/aɪ/ /hæv/ /lɝnd/"
+		"soundmark": "/aɪ/ /hæv/ /lɝnd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "大量的",
 		"english": "lot",
-		"soundmark": "/lɑt/"
+		"soundmark": "/lɑt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "很多",
 		"english": "a lot",
-		"soundmark": "/ə/ /lɑt/"
+		"soundmark": "/ə/ /lɑt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我(已经)学到了很多",
 		"english": "I have learned a lot",
-		"soundmark": "/aɪ/ /hæv/ /lɝnd/ /ə/ /lɑt/"
+		"soundmark": "/aɪ/ /hæv/ /lɝnd/ /ə/ /lɑt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "课程",
 		"english": "course",
-		"soundmark": "/kɔrs/"
+		"soundmark": "/kɔrs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "这个课程",
 		"english": "this course",
-		"soundmark": "/ðɪs/ /kɔrs/"
+		"soundmark": "/ðɪs/ /kɔrs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "从",
 		"english": "from",
-		"soundmark": "/frʌm/"
+		"soundmark": "/frʌm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "从这个课程",
 		"english": "from this course",
-		"soundmark": "/frʌm/ /ðɪs/ /kɔrs/"
+		"soundmark": "/frʌm/ /ðɪs/ /kɔrs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我从这个课程(已经)学到了很多",
 		"english": "I have learned a lot from this course",
-		"soundmark": "/aɪ/ /hæv/ /lɝnd/ /ə/ /lɑt/ /frʌm/ /ðɪs/ /kɔrs/"
+		"soundmark": "/aɪ/ /hæv/ /lɝnd/ /ə/ /lɑt/ /frʌm/ /ðɪs/ /kɔrs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				4,
+				"宾语",
+				"NP"
+			],
+			[
+				5,
+				7,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "提高",
 		"english": "to improve",
-		"soundmark": "/tə/ /ɪmˈpruv/"
+		"soundmark": "/tə/ /ɪmˈpruv/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "提高(过去分词)",
 		"english": "improved",
-		"soundmark": "/ɪmˈpruvd/"
+		"soundmark": "/ɪmˈpruvd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "你(已经)提高了",
 		"english": "you have improved",
-		"soundmark": "/ju/ /hæv/ /ɪmˈpruvd/"
+		"soundmark": "/ju/ /hæv/ /ɪmˈpruvd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "英文",
 		"english": "English",
-		"soundmark": "/ˈɪŋɡlɪʃ/"
+		"soundmark": "/ˈɪŋɡlɪʃ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"专有名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "你的英文",
 		"english": "your English",
-		"soundmark": "/jʊr/ /ˈɪŋɡlɪʃ/"
+		"soundmark": "/jʊr/ /ˈɪŋɡlɪʃ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"专有名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你(已经)提高了你的英文",
 		"english": "you have improved your English",
-		"soundmark": "/ju/ /hæv/ /ɪmˈpruvd/ /jʊr/ /ˈɪŋɡlɪʃ/"
+		"soundmark": "/ju/ /hæv/ /ɪmˈpruvd/ /jʊr/ /ˈɪŋɡlɪʃ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"专有名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "大量的",
 		"english": "lot",
-		"soundmark": "/lɑt/"
+		"soundmark": "/lɑt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "很多",
 		"english": "a lot",
-		"soundmark": "/ə/ /lɑt/"
+		"soundmark": "/ə/ /lɑt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你(已经)提高了你的英文很多",
 		"english": "you have improved your English a lot",
-		"soundmark": "/ju/ /hæv/ /ɪmˈpruvd/ /jʊr/ /ˈɪŋɡlɪʃ/ /ə/ /lɑt/"
+		"soundmark": "/ju/ /hæv/ /ɪmˈpruvd/ /jʊr/ /ˈɪŋɡlɪʃ/ /ə/ /lɑt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"专有名词"
+			],
+			[
+				5,
+				5,
+				"冠词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				6,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "参观",
 		"english": "to visit",
-		"soundmark": "/tə/ /'vɪzɪt/"
+		"soundmark": "/tə/ /'vɪzɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "参观(过去分词)",
 		"english": "visited",
-		"soundmark": "/'vɪzɪtɪd/"
+		"soundmark": "/'vɪzɪtɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我(已经)参观过",
 		"english": "I have visited",
-		"soundmark": "/aɪ/ /hæv/ /'vɪzɪtɪd/"
+		"soundmark": "/aɪ/ /hæv/ /'vɪzɪtɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "墙",
 		"english": "wall",
-		"soundmark": "/wɔl/"
+		"soundmark": "/wɔl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "伟大的",
 		"english": "great",
-		"soundmark": "/ɡret/"
+		"soundmark": "/ɡret/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "长城",
 		"english": "The Great Wall",
-		"soundmark": "/ðə/ /ɡret/ /wɔl/"
+		"soundmark": "/ðə/ /ɡret/ /wɔl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"形容词"
+			],
+			[
+				2,
+				2,
+				"专有名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				2,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我(已经)参观过长城",
 		"english": "I have visited The Great Wall",
-		"soundmark": "/aɪ/ /hæv/ /'vɪzɪtɪd/ /ðə/ /ɡret/ /wɔl/"
+		"soundmark": "/aɪ/ /hæv/ /'vɪzɪtɪd/ /ðə/ /ɡret/ /wɔl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"形容词"
+			],
+			[
+				5,
+				5,
+				"专有名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				5,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "两次",
 		"english": "twice",
-		"soundmark": "/twaɪs/"
+		"soundmark": "/twaɪs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我(已经)参观过长城两次了",
 		"english": "I have visited the Great Wall twice",
-		"soundmark": "/aɪ/ /hæv/ /'vɪzɪtɪd/ /ðə/ /ɡret/ /wɔl/ /twaɪs/"
+		"soundmark": "/aɪ/ /hæv/ /'vɪzɪtɪd/ /ðə/ /ɡret/ /wɔl/ /twaɪs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"形容词"
+			],
+			[
+				5,
+				5,
+				"专有名词"
+			],
+			[
+				6,
+				6,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				6,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "写",
 		"english": "to write",
-		"soundmark": "/raɪt/"
+		"soundmark": "/raɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "写(过去分词)",
 		"english": "written",
-		"soundmark": "/'rɪtn/"
+		"soundmark": "/'rɪtn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我(已经)写了",
 		"english": "I have written",
-		"soundmark": "/aɪ/ /hæv/ /'rɪtn/"
+		"soundmark": "/aɪ/ /hæv/ /'rɪtn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "书",
 		"english": "book",
-		"soundmark": "/bʊk/"
+		"soundmark": "/bʊk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "三本书",
 		"english": "three books",
-		"soundmark": "/θri/ /bʊks/"
+		"soundmark": "/θri/ /bʊks/",
+		"posTags": [
+			[
+				0,
+				0,
+				"数词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我(已经)写了三本书",
 		"english": "I have written three books",
-		"soundmark": "/aɪ/ /hæv/ /'rɪtn/ /θri/ /bʊks/"
+		"soundmark": "/aɪ/ /hæv/ /'rɪtn/ /θri/ /bʊks/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"形容词"
+			],
+			[
+				3,
+				3,
+				"数词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "职业生涯",
 		"english": "career",
-		"soundmark": "/kəˈrɪr/"
+		"soundmark": "/kəˈrɪr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我的职业生涯",
 		"english": "my career",
-		"soundmark": "/maɪ/ /kəˈrɪr/"
+		"soundmark": "/maɪ/ /kəˈrɪr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在我的职业生涯里",
 		"english": "in my career",
-		"soundmark": "/ɪn/ /maɪ/ /kəˈrɪr/"
+		"soundmark": "/ɪn/ /maɪ/ /kəˈrɪr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我在我的职业生涯里(已经)写了三本书",
 		"english": "I have written three books in my career",
-		"soundmark": "/aɪ/ /hæv/ /'rɪtn/ /θri/ /bʊks/ /ɪn/ /maɪ/ /kəˈrɪr/"
+		"soundmark": "/aɪ/ /hæv/ /'rɪtn/ /θri/ /bʊks/ /ɪn/ /maɪ/ /kəˈrɪr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"形容词"
+			],
+			[
+				3,
+				3,
+				"数词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				4,
+				"宾语",
+				"NP"
+			],
+			[
+				5,
+				7,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "教",
 		"english": "to teach",
-		"soundmark": "/tə/ /titʃ/"
+		"soundmark": "/tə/ /titʃ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "教(过去分词)",
 		"english": "taught",
-		"soundmark": "/tɔt/"
+		"soundmark": "/tɔt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我(已经)教了",
 		"english": "I have taught",
-		"soundmark": "/aɪ/ /hæv/ /tɔt/"
+		"soundmark": "/aɪ/ /hæv/ /tɔt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我(已经)教了你",
 		"english": "I have taught you",
-		"soundmark": "/aɪ/ /hæv/ /tɔt/ /ju/"
+		"soundmark": "/aɪ/ /hæv/ /tɔt/ /ju/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "每一个",
 		"english": "every",
-		"soundmark": "/'ɛvri/"
+		"soundmark": "/'ɛvri/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "东西",
 		"english": "thing",
-		"soundmark": "/θɪŋ/"
+		"soundmark": "/θɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "一切",
 		"english": "everything",
-		"soundmark": "/'ɛvriθɪŋ/"
+		"soundmark": "/'ɛvriθɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我知道",
 		"english": "I know",
-		"soundmark": "/aɪ/ /no/"
+		"soundmark": "/aɪ/ /no/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我知道的一切",
 		"english": "everything I know",
-		"soundmark": "/'ɛvriθɪŋ/ /aɪ/ /no/"
+		"soundmark": "/'ɛvriθɪŋ/ /aɪ/ /no/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我(已经)教了你我知道的一切",
 		"english": "I have taught you everything I know",
-		"soundmark": "/aɪ/ /hæv/ /tɔt/ /ju/ /'ɛvriθɪŋ/ /aɪ/ /no/"
+		"soundmark": "/aɪ/ /hæv/ /tɔt/ /ju/ /'ɛvriθɪŋ/ /aɪ/ /no/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				5,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我(已经)教了",
 		"english": "I have taught",
-		"soundmark": "/aɪ/ /hæv/ /tɔt/"
+		"soundmark": "/aɪ/ /hæv/ /tɔt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我自己",
 		"english": "myself",
-		"soundmark": "/maɪ'sɛlf/"
+		"soundmark": "/maɪ'sɛlf/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我(已经)教了我自己",
 		"english": "I have taught myself",
-		"soundmark": "/aɪ/ /hæv/ /tɔt/ /maɪ'sɛlf/"
+		"soundmark": "/aɪ/ /hæv/ /tɔt/ /maɪ'sɛlf/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "玩",
 		"english": "to play",
-		"soundmark": "/tə/ /ple/"
+		"soundmark": "/tə/ /ple/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "钢琴",
 		"english": "the piano",
-		"soundmark": "/ðə/ /pɪ'æno/"
+		"soundmark": "/ðə/ /pɪ'æno/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "弹钢琴",
 		"english": "to play the piano",
-		"soundmark": "/tə/ /ple/ /ðə/ /pɪ'æno/"
+		"soundmark": "/tə/ /ple/ /ðə/ /pɪ'æno/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "如何",
 		"english": "how",
-		"soundmark": "/haʊ/"
+		"soundmark": "/haʊ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "如何弹钢琴",
 		"english": "how to play the piano",
-		"soundmark": "/haʊ/ /tə/ /ple/ /ðə/ /pɪ'æno/"
+		"soundmark": "/haʊ/ /tə/ /ple/ /ðə/ /pɪ'æno/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			],
+			[
+				1,
+				1,
+				"介词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"疑问宾语",
+				"NP"
+			],
+			[
+				1,
+				4,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我(已经)自学了",
 		"english": "I have taught myself",
-		"soundmark": "/aɪ/ /hæv/ /tɔt/ /maɪ'sɛlf/"
+		"soundmark": "/aɪ/ /hæv/ /tɔt/ /maɪ'sɛlf/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我(已经)自学了如何弹钢琴",
 		"english": "I have taught myself how to play the piano",
-		"soundmark": "/aɪ/ /hæv/ /tɔt/ /maɪ'sɛlf/ /haʊ/ /tə/ /ple/ /ðə/ /pɪ'æno/"
+		"soundmark": "/aɪ/ /hæv/ /tɔt/ /maɪ'sɛlf/ /haʊ/ /tə/ /ple/ /ðə/ /pɪ'æno/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"疑问词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"动词"
+			],
+			[
+				7,
+				7,
+				"冠词"
+			],
+			[
+				8,
+				8,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				4,
+				"宾语",
+				"NP"
+			],
+			[
+				5,
+				5,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "居住",
 		"english": "to live",
-		"soundmark": "/tə/ /lɪv/"
+		"soundmark": "/tə/ /lɪv/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "居住(过去分词)",
 		"english": "lived",
-		"soundmark": "/lɪvd/"
+		"soundmark": "/lɪvd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我(已经)居住了",
 		"english": "I have lived",
-		"soundmark": "/aɪ/ /hæv/ /lɪvd/"
+		"soundmark": "/aɪ/ /hæv/ /lɪvd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "城市",
 		"english": "city",
-		"soundmark": "/'sɪti/"
+		"soundmark": "/'sɪti/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "这个城市",
 		"english": "this city",
-		"soundmark": "/ðɪs/ /'sɪti/"
+		"soundmark": "/ðɪs/ /'sɪti/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在这个城市里",
 		"english": "in this city",
-		"soundmark": "/ɪn/ /ðɪs/ /'sɪti/"
+		"soundmark": "/ɪn/ /ðɪs/ /'sɪti/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我(已经)在这个城市里居住了",
 		"english": "I have lived in this city",
-		"soundmark": "/aɪ/ /hæv/ /lɪvd/ /ɪn/ /ðɪs/ /'sɪti/"
+		"soundmark": "/aɪ/ /hæv/ /lɪvd/ /ɪn/ /ðɪs/ /'sɪti/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				5,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "年",
 		"english": "year",
-		"soundmark": "/jɪr/"
+		"soundmark": "/jɪr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "五年",
 		"english": "five years",
-		"soundmark": "/faɪv/ /jɪrz/"
+		"soundmark": "/faɪv/ /jɪrz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"数词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我(已经)在这个城市里居住了五年了",
 		"english": "I have lived in this city for five years",
-		"soundmark": "/aɪ/ /hæv/ /lɪvd/ /ɪn/ /ðɪs/ /'sɪti/ /fɚ/ /faɪv/ /jɪrz/"
+		"soundmark": "/aɪ/ /hæv/ /lɪvd/ /ɪn/ /ðɪs/ /'sɪti/ /fɚ/ /faɪv/ /jɪrz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"介词"
+			],
+			[
+				7,
+				7,
+				"数词"
+			],
+			[
+				8,
+				8,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				5,
+				"状语",
+				"PP"
+			],
+			[
+				6,
+				8,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "工作",
 		"english": "to work",
-		"soundmark": "/tə/ /wɝk/"
+		"soundmark": "/tə/ /wɝk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "工作(过去分词)",
 		"english": "worked",
-		"soundmark": "/wɝkt/"
+		"soundmark": "/wɝkt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我(已经)工作了",
 		"english": "I have worked",
-		"soundmark": "/aɪ/ /hæv/ /wɝkt/"
+		"soundmark": "/aɪ/ /hæv/ /wɝkt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "公司",
 		"english": "company",
-		"soundmark": "/ˈkʌmpəni/"
+		"soundmark": "/ˈkʌmpəni/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "那个公司",
 		"english": "that company",
-		"soundmark": "/ðæt/ /ˈkʌmpəni/"
+		"soundmark": "/ðæt/ /ˈkʌmpəni/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在那个公司",
 		"english": "at that company",
-		"soundmark": "/ət/ /ðæt/ /ˈkʌmpəni/"
+		"soundmark": "/ət/ /ðæt/ /ˈkʌmpəni/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我(已经)在那个公司工作了",
 		"english": "I have worked at that company",
-		"soundmark": "/aɪ/ /hæv/ /wɝkt/ /ət/ /ðæt/ /ˈkʌmpəni/"
+		"soundmark": "/aɪ/ /hæv/ /wɝkt/ /ət/ /ðæt/ /ˈkʌmpəni/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				5,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "年",
 		"english": "year",
-		"soundmark": "/jɪr/"
+		"soundmark": "/jɪr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "三年",
 		"english": "three years",
-		"soundmark": "/θri/ /jɪrz/"
+		"soundmark": "/θri/ /jɪrz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"数词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我(已经)在那个公司工作了三年了",
 		"english": "I have worked at that company for three years",
-		"soundmark": "/aɪ/ /hæv/ /wɝkt/ /ət/ /ðæt/ /ˈkʌmpəni/ /fɚ/ /θri/ /jɪrz/"
+		"soundmark": "/aɪ/ /hæv/ /wɝkt/ /ət/ /ðæt/ /ˈkʌmpəni/ /fɚ/ /θri/ /jɪrz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"介词"
+			],
+			[
+				7,
+				7,
+				"数词"
+			],
+			[
+				8,
+				8,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				5,
+				"状语",
+				"PP"
+			],
+			[
+				6,
+				8,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "自从......以来",
 		"english": "since",
-		"soundmark": "/sɪns/ /twenty twenty/ /'twɛnti/ /'twɛnti/"
+		"soundmark": "/sɪns/ /twenty twenty/ /'twɛnti/ /'twɛnti/",
+		"posTags": [
+			[
+				0,
+				0,
+				"连词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "自从2020年以来",
 		"english": "since 2020",
-		"soundmark": "/sɪns/ /'twɛnti/ /'twɛnti/"
+		"soundmark": "/sɪns/ /'twɛnti/ /'twɛnti/",
+		"posTags": [
+			[
+				0,
+				0,
+				"连词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我自从2020年以来(已经)在那个公司工作了",
 		"english": "I have worked at that company since 2020",
-		"soundmark": "/aɪ/ /hæv/ /wɝkt/ /ət/ /ðæt/ /ˈkʌmpəni/ /sɪns/ /'twɛnti/ /'twɛnti/"
+		"soundmark": "/aɪ/ /hæv/ /wɝkt/ /ət/ /ðæt/ /ˈkʌmpəni/ /sɪns/ /'twɛnti/ /'twɛnti/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"连词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				7,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "学习",
 		"english": "to study",
-		"soundmark": "/tə/ /'stʌdi/"
+		"soundmark": "/tə/ /'stʌdi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "学习(过去分词)",
 		"english": "studied",
-		"soundmark": "/ˈstʌdid/"
+		"soundmark": "/ˈstʌdid/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我们(已经)学习了",
 		"english": "we have studied",
-		"soundmark": "/wi/ /hæv/ /ˈstʌdid/"
+		"soundmark": "/wi/ /hæv/ /ˈstʌdid/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "英文",
 		"english": "English",
-		"soundmark": "/ˈɪŋɡlɪʃ/"
+		"soundmark": "/ˈɪŋɡlɪʃ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"专有名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我们(已经)学习了英文",
 		"english": "we have studied English",
-		"soundmark": "/wi/ /hæv/ /ˈstʌdid/ /ˈɪŋɡlɪʃ/"
+		"soundmark": "/wi/ /hæv/ /ˈstʌdid/ /ˈɪŋɡlɪʃ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"专有名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "年",
 		"english": "year",
-		"soundmark": "/jɪr/"
+		"soundmark": "/jɪr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "三年",
 		"english": "three years",
-		"soundmark": "/θri/ /jɪrz/"
+		"soundmark": "/θri/ /jɪrz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"数词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我们(已经)学习了英文三年了",
 		"english": "we have studied English for three years",
-		"soundmark": "/wi/ /hæv/ /ˈstʌdid/ /ˈɪŋɡlɪʃ/ /fɚ/ /θri/ /jɪrz/"
+		"soundmark": "/wi/ /hæv/ /ˈstʌdid/ /ˈɪŋɡlɪʃ/ /fɚ/ /θri/ /jɪrz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"专有名词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"数词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				3,
+				"宾语",
+				"NP"
+			],
+			[
+				4,
+				6,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "自从......以来",
 		"english": "since",
-		"soundmark": "/sɪns/ /twenty twenty/ /'twɛnti/ /'twɛnti/"
+		"soundmark": "/sɪns/ /twenty twenty/ /'twɛnti/ /'twɛnti/",
+		"posTags": [
+			[
+				0,
+				0,
+				"连词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "自从2020年以来",
 		"english": "since 2020",
-		"soundmark": "/sɪns/ /'twɛnti/ /'twɛnti/"
+		"soundmark": "/sɪns/ /'twɛnti/ /'twɛnti/",
+		"posTags": [
+			[
+				0,
+				0,
+				"连词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我们自从2020年以来(已经)学习英文了",
 		"english": "we have studied English since 2020",
-		"soundmark": "/wi/ /hæv/ /ˈstʌdid/ /ˈɪŋɡlɪʃ/ /sɪns/ /'twɛnti/ /'twɛnti/"
+		"soundmark": "/wi/ /hæv/ /ˈstʌdid/ /ˈɪŋɡlɪʃ/ /sɪns/ /'twɛnti/ /'twɛnti/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"专有名词"
+			],
+			[
+				4,
+				4,
+				"连词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				5,
+				"宾语",
+				"NP"
+			]
+		]
 	}
 ]

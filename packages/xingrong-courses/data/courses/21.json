@@ -2,676 +2,5183 @@
 	{
 		"chinese": "支付；付出",
 		"english": "to pay",
-		"soundmark": "/tə/ /pe/"
+		"soundmark": "/tə/ /pe/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "注意力",
 		"english": "attention",
-		"soundmark": "/ə'tɛnʃən/"
+		"soundmark": "/ə'tɛnʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "需要",
 		"english": "need",
-		"soundmark": "/nid/"
+		"soundmark": "/nid/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "你需要",
 		"english": "you need",
-		"soundmark": "/ju/ /nid/"
+		"soundmark": "/ju/ /nid/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "你需要注意",
 		"english": "you need to pay attention",
-		"soundmark": "/ju/ /nid/ /tə/ /pe/ /ə'tɛnʃən/"
+		"soundmark": "/ju/ /nid/ /tə/ /pe/ /ə'tɛnʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "问题",
 		"english": "question",
-		"soundmark": "/'kwɛstʃən/"
+		"soundmark": "/'kwɛstʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "这个",
 		"english": "this",
-		"soundmark": "/ðɪs/"
+		"soundmark": "/ðɪs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "这个问题",
 		"english": "this question",
-		"soundmark": "/ðɪs/ /'kwɛstʃən/"
+		"soundmark": "/ðɪs/ /'kwɛstʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "注意",
 		"english": "to pay attention",
-		"soundmark": "/tə/ /pe/ /ə'tɛnʃən/"
+		"soundmark": "/tə/ /pe/ /ə'tɛnʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "注意这个问题",
 		"english": "to pay attention to this question",
-		"soundmark": "/tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/"
+		"soundmark": "/tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你需要",
 		"english": "you need",
-		"soundmark": "/ju/ /nid/"
+		"soundmark": "/ju/ /nid/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "你需要注意这个问题",
 		"english": "you need to pay attention to this question",
-		"soundmark": "/ju/ /nid/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/"
+		"soundmark": "/ju/ /nid/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "不",
 		"english": "don't",
-		"soundmark": "/dont/"
+		"soundmark": "/dont/",
+		"posTags": [
+			[
+				0,
+				0,
+				"助动词"
+			],
+			[
+				1,
+				1,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "你不需要注意这个问题",
 		"english": "you don't need to pay attention to this question",
-		"soundmark": "/ju/ /dont/ /nid/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/"
+		"soundmark": "/ju/ /dont/ /nid/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"动词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			],
+			[
+				7,
+				7,
+				"介词"
+			],
+			[
+				8,
+				8,
+				"代词"
+			],
+			[
+				9,
+				9,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				4,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "你(过去)需要注意这个问题",
 		"english": "you needed to pay attention to this question",
-		"soundmark": "/ju/ /nidɪd/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/"
+		"soundmark": "/ju/ /nidɪd/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "你(过去)不需要注意这个问题",
 		"english": "you didn't need to pay attention to this question",
-		"soundmark": "/ju/ /ˈdɪdnt/ /nid/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/"
+		"soundmark": "/ju/ /ˈdɪdnt/ /nid/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"动词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			],
+			[
+				7,
+				7,
+				"介词"
+			],
+			[
+				8,
+				8,
+				"代词"
+			],
+			[
+				9,
+				9,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				4,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "你需要注意这个问题",
 		"english": "you need to pay attention to this question",
-		"soundmark": "/ju/ /nid/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/"
+		"soundmark": "/ju/ /nid/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "信息",
 		"english": "information",
-		"soundmark": "/ɪnfɚ'meʃən/"
+		"soundmark": "/ɪnfɚ'meʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "这个",
 		"english": "this",
-		"soundmark": "/ðɪs/"
+		"soundmark": "/ðɪs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "这个信息",
 		"english": "this information",
-		"soundmark": "/ðɪs/ /ɪnfɚ'meʃən/"
+		"soundmark": "/ðɪs/ /ɪnfɚ'meʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你需要注意这个信息",
 		"english": "you need to pay attention to this information",
-		"soundmark": "/ju/ /nid/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+		"soundmark": "/ju/ /nid/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "你注意这个信息",
 		"english": "you pay attention to this information",
-		"soundmark": "/ju/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+		"soundmark": "/ju/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			],
+			[
+				3,
+				5,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "不",
 		"english": "don't",
-		"soundmark": "/dont/"
+		"soundmark": "/dont/",
+		"posTags": [
+			[
+				0,
+				0,
+				"助动词"
+			],
+			[
+				1,
+				1,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "你没有注意这个信息",
 		"english": "you don't pay attention to this information",
-		"soundmark": "/ju/ /dont/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+		"soundmark": "/ju/ /dont/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				4,
+				"宾语",
+				"NP"
+			],
+			[
+				5,
+				7,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "注意力",
 		"english": "attention",
-		"soundmark": "/ə'tɛnʃən/"
+		"soundmark": "/ə'tɛnʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "你(过去)注意这个信息",
 		"english": "you paid attention to this information",
-		"soundmark": "/ju/ /ped/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+		"soundmark": "/ju/ /ped/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"形容词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				2,
+				"主语",
+				"NP"
+			],
+			[
+				3,
+				5,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你(过去)没有注意这个信息",
 		"english": "you didn't pay attention to this information",
-		"soundmark": "/ju/ /ˈdɪdnt/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+		"soundmark": "/ju/ /ˈdɪdnt/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				4,
+				"宾语",
+				"NP"
+			],
+			[
+				5,
+				7,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "应该",
 		"english": "should",
-		"soundmark": "/ʃʊd/"
+		"soundmark": "/ʃʊd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "你应该",
 		"english": "you should",
-		"soundmark": "/ju/ /ʃʊd/"
+		"soundmark": "/ju/ /ʃʊd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "你应该注意这个信息",
 		"english": "you should pay attention to this information",
-		"soundmark": "/ju/ /ʃʊd/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+		"soundmark": "/ju/ /ʃʊd/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				3,
+				"宾语",
+				"NP"
+			],
+			[
+				4,
+				6,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "你不应该",
 		"english": "you should not",
-		"soundmark": "/ju/ /ʃʊd/ /nɑt/"
+		"soundmark": "/ju/ /ʃʊd/ /nɑt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "你不应该注意这个信息",
 		"english": "you should not pay attention to this information",
-		"soundmark": "/ju/ /ʃʊd/ /nɑt/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+		"soundmark": "/ju/ /ʃʊd/ /nɑt/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				4,
+				"宾语",
+				"NP"
+			],
+			[
+				5,
+				7,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "支付；付出(ing形式)",
 		"english": "paying",
-		"soundmark": "/peɪŋ/"
+		"soundmark": "/peɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "是；赋值(原型)",
 		"english": "be",
-		"soundmark": "/bi/"
+		"soundmark": "/bi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "正在付出",
 		"english": "be paying",
-		"soundmark": "/bi/ /peɪŋ/"
+		"soundmark": "/bi/ /peɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "注意力",
 		"english": "attention",
-		"soundmark": "/ə'tɛnʃən/"
+		"soundmark": "/ə'tɛnʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "正在注意(付出注意力)",
 		"english": "be paying attention",
-		"soundmark": "/bi/ /peɪŋ/ /ə'tɛnʃən/"
+		"soundmark": "/bi/ /peɪŋ/ /ə'tɛnʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "信息",
 		"english": "information",
-		"soundmark": "/ɪnfɚ'meʃən/"
+		"soundmark": "/ɪnfɚ'meʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "这个信息",
 		"english": "this information",
-		"soundmark": "/ðɪs/ /ɪnfɚ'meʃən/"
+		"soundmark": "/ðɪs/ /ɪnfɚ'meʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "正在注意这个信息",
 		"english": "be paying attention to this information",
-		"soundmark": "/bi/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+		"soundmark": "/bi/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				5,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "你",
 		"english": "you",
-		"soundmark": "/ju/"
+		"soundmark": "/ju/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "你(现在)正在注意这个信息",
 		"english": "you are paying attention to this information",
-		"soundmark": "/ju/ /ɚ/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+		"soundmark": "/ju/ /ɚ/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				3,
+				"宾语",
+				"NP"
+			],
+			[
+				4,
+				6,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我",
 		"english": "I",
-		"soundmark": "/aɪ/"
+		"soundmark": "/aɪ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我(现在)正在注意这个信息",
 		"english": "I am paying attention to this information",
-		"soundmark": "/aɪ/ /æm/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+		"soundmark": "/aɪ/ /æm/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				3,
+				"宾语",
+				"NP"
+			],
+			[
+				4,
+				6,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "他",
 		"english": "he",
-		"soundmark": "/hi/"
+		"soundmark": "/hi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "他(现在)正在注意这个信息",
 		"english": "he is paying attention to this information",
-		"soundmark": "/hi/ /ɪz/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+		"soundmark": "/hi/ /ɪz/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				3,
+				"宾语",
+				"NP"
+			],
+			[
+				4,
+				6,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "不",
 		"english": "not",
-		"soundmark": "/nɑt/"
+		"soundmark": "/nɑt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "他(现在)没有正在注意这个信息",
 		"english": "he is not paying attention to this information",
-		"soundmark": "/hi/ /ɪz/ /nɑt/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+		"soundmark": "/hi/ /ɪz/ /nɑt/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				4,
+				"宾语",
+				"NP"
+			],
+			[
+				5,
+				7,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "他(过去)正在注意这个信息",
 		"english": "he was paying attention to this information",
-		"soundmark": "/hi/ /wəz/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+		"soundmark": "/hi/ /wəz/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				3,
+				"宾语",
+				"NP"
+			],
+			[
+				4,
+				6,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "不",
 		"english": "not",
-		"soundmark": "/nɑt/"
+		"soundmark": "/nɑt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "他(过去)没有正在注意这个信息",
 		"english": "he was not paying attention to this information",
-		"soundmark": "/hi/ /wəz/ /nɑt/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+		"soundmark": "/hi/ /wəz/ /nɑt/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				4,
+				"宾语",
+				"NP"
+			],
+			[
+				5,
+				7,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "昨天",
 		"english": "yesterday",
-		"soundmark": "/'jɛstɚde/"
+		"soundmark": "/'jɛstɚde/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "在这个时候",
 		"english": "at this time",
-		"soundmark": "/ət/ /ðɪs/ /taɪm/"
+		"soundmark": "/ət/ /ðɪs/ /taɪm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在昨天这个时候",
 		"english": "at this time yesterday",
-		"soundmark": "/ət/ /ðɪs/ /taɪm/ /'jɛstɚde/"
+		"soundmark": "/ət/ /ðɪs/ /taɪm/ /'jɛstɚde/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他在昨天这个时候没有注意到这个信息",
 		"english": "he was not paying attention to this information at this time yesterday",
-		"soundmark": "/hi/ /wəz/ /nɑt/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/ /ət/ /ðɪs/ /taɪm/ /'jɛstɚde/"
+		"soundmark": "/hi/ /wəz/ /nɑt/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/ /ət/ /ðɪs/ /taɪm/ /'jɛstɚde/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			],
+			[
+				8,
+				8,
+				"介词"
+			],
+			[
+				9,
+				9,
+				"代词"
+			],
+			[
+				10,
+				10,
+				"名词"
+			],
+			[
+				11,
+				11,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				4,
+				"宾语",
+				"NP"
+			],
+			[
+				5,
+				11,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "是；赋值(原型)",
 		"english": "be",
-		"soundmark": "/bi/"
+		"soundmark": "/bi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "正在注意(付出注意力)",
 		"english": "be paying attention",
-		"soundmark": "/bi/ /peɪŋ/ /ə'tɛnʃən/"
+		"soundmark": "/bi/ /peɪŋ/ /ə'tɛnʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "正在注意这个信息",
 		"english": "be paying attention to this information",
-		"soundmark": "/bi/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+		"soundmark": "/bi/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				5,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "将会",
 		"english": "will",
-		"soundmark": "/wɪl/"
+		"soundmark": "/wɪl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "他将会",
 		"english": "he will",
-		"soundmark": "/hi/ /wɪl/"
+		"soundmark": "/hi/ /wɪl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "他将会正在注意这个信息",
 		"english": "he will be paying attention to this information",
-		"soundmark": "/hi/ /wɪl/ /bi/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+		"soundmark": "/hi/ /wɪl/ /bi/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				4,
+				"宾语",
+				"NP"
+			],
+			[
+				5,
+				7,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "明天",
 		"english": "tomorrow",
-		"soundmark": "/tə'mɔro/"
+		"soundmark": "/tə'mɔro/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "在这个时候",
 		"english": "at this time",
-		"soundmark": "/ət/ /ðɪs/ /taɪm/"
+		"soundmark": "/ət/ /ðɪs/ /taɪm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在明天这个时候",
 		"english": "at this time tomorrow",
-		"soundmark": "/ət/ /ðɪs/ /taɪm/ /tə'mɔro/"
+		"soundmark": "/ət/ /ðɪs/ /taɪm/ /tə'mɔro/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他在明天这个时候将会正在注意这个信息",
 		"english": "he will be paying attention to this information at this time tomorrow",
-		"soundmark": "/hi/ /wɪl/ /bi/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/ /ət/ /ðɪs/ /taɪm/ /tə'mɔro/"
+		"soundmark": "/hi/ /wɪl/ /bi/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/ /ət/ /ðɪs/ /taɪm/ /tə'mɔro/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			],
+			[
+				8,
+				8,
+				"介词"
+			],
+			[
+				9,
+				9,
+				"代词"
+			],
+			[
+				10,
+				10,
+				"名词"
+			],
+			[
+				11,
+				11,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				4,
+				"宾语",
+				"NP"
+			],
+			[
+				5,
+				11,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "细节",
 		"english": "the detail",
-		"soundmark": "/ðə/ /ˈditel/"
+		"soundmark": "/ðə/ /ˈditel/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "细节(复数)",
 		"english": "the details",
-		"soundmark": "/ðə/ /ˈditelz/"
+		"soundmark": "/ðə/ /ˈditelz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "所有的",
 		"english": "all",
-		"soundmark": "/ɔl/"
+		"soundmark": "/ɔl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "所有的细节",
 		"english": "all the details",
-		"soundmark": "/ɔl/ /ðə/ /ˈditelz/"
+		"soundmark": "/ɔl/ /ðə/ /ˈditelz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"冠词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "支付；付出",
 		"english": "to pay",
-		"soundmark": "/tə/ /pe/"
+		"soundmark": "/tə/ /pe/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "注意力",
 		"english": "attention",
-		"soundmark": "/ə'tɛnʃən/"
+		"soundmark": "/ə'tɛnʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "注意(付出注意力)",
 		"english": "to pay attention",
-		"soundmark": "/tə/ /pe/ /ə'tɛnʃən/"
+		"soundmark": "/tə/ /pe/ /ə'tɛnʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "注意所有的细节",
 		"english": "to pay attention to all the details",
-		"soundmark": "/tə/ /pe/ /ə'tɛnʃən/ /tə/ /ɔl/ /ðə/ /ˈditelz/"
+		"soundmark": "/tə/ /pe/ /ə'tɛnʃən/ /tə/ /ɔl/ /ðə/ /ˈditelz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"冠词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "重要的",
 		"english": "important",
-		"soundmark": "/ɪm'pɔrtnt/"
+		"soundmark": "/ɪm'pɔrtnt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "它",
 		"english": "it",
-		"soundmark": "/ɪt/"
+		"soundmark": "/ɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "它是重要的",
 		"english": "it is important",
-		"soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/"
+		"soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				2,
+				"表语",
+				"ADJP"
+			]
+		]
 	},
 	{
 		"chinese": "非常",
 		"english": "very",
-		"soundmark": "/ˈvɛri/"
+		"soundmark": "/ˈvɛri/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "它是非常重要的",
 		"english": "it is very important",
-		"soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/"
+		"soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				2,
+				"时间状语",
+				"ADVP"
+			]
+		]
 	},
 	{
 		"chinese": "注意所有的细节(它)是非常重要的",
 		"english": "it is very important to pay attention to all the details",
-		"soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ɔl/ /ðə/ /ˈditelz/"
+		"soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ɔl/ /ðə/ /ˈditelz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"动词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			],
+			[
+				7,
+				7,
+				"介词"
+			],
+			[
+				8,
+				8,
+				"代词"
+			],
+			[
+				9,
+				9,
+				"冠词"
+			],
+			[
+				10,
+				10,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				2,
+				"时间状语",
+				"ADVP"
+			]
+		]
 	},
 	{
 		"chinese": "讨论",
 		"english": "to discuss",
-		"soundmark": "/tə/ /dɪ'skʌs/"
+		"soundmark": "/tə/ /dɪ'skʌs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "某件事情",
 		"english": "something",
-		"soundmark": "/'sʌmθɪŋ/"
+		"soundmark": "/'sʌmθɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "讨论某件事情",
 		"english": "to discuss something",
-		"soundmark": "/tə/ /dɪ'skʌs/ /'sʌmθɪŋ/"
+		"soundmark": "/tə/ /dɪ'skʌs/ /'sʌmθɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "想要(直接地)",
 		"english": "want",
-		"soundmark": "/wɑnt/"
+		"soundmark": "/wɑnt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "愿意;想要(委婉地)",
 		"english": "would like",
-		"soundmark": "/wʊd/ /laɪk/"
+		"soundmark": "/wʊd/ /laɪk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我想要",
 		"english": "I would like",
-		"soundmark": "/aɪ/ /wʊd/ /laɪk/"
+		"soundmark": "/aɪ/ /wʊd/ /laɪk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我想要讨论某件事情",
 		"english": "I would like to discuss something",
-		"soundmark": "/aɪ/ /wʊd/ /laɪk/ /tə/ /dɪ'skʌs/ /'sʌmθɪŋ/"
+		"soundmark": "/aɪ/ /wʊd/ /laɪk/ /tə/ /dɪ'skʌs/ /'sʌmθɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			],
+			[
+				3,
+				3,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "重要的",
 		"english": "important",
-		"soundmark": "/ɪm'pɔrtnt/"
+		"soundmark": "/ɪm'pɔrtnt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "重要的某件事情",
 		"english": "something important",
-		"soundmark": "/'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+		"soundmark": "/'sʌmθɪŋ/ /ɪm'pɔrtnt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我想要讨论重要的某件事情",
 		"english": "I would like to discuss something important",
-		"soundmark": "/aɪ/ /wʊd/ /laɪk/ /tə/ /dɪ'skʌs/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+		"soundmark": "/aɪ/ /wʊd/ /laɪk/ /tə/ /dɪ'skʌs/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			],
+			[
+				3,
+				3,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "和......一起",
 		"english": "with",
-		"soundmark": "/wɪð/"
+		"soundmark": "/wɪð/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "和你一起",
 		"english": "with you",
-		"soundmark": "/wɪð/ /ju/"
+		"soundmark": "/wɪð/ /ju/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我想要和你一起讨论重要的某件事情",
 		"english": "I would like to discuss something important with you",
-		"soundmark": "/aɪ/ /wʊd/ /laɪk/ /tə/ /dɪ'skʌs/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/ /wɪð/ /ju/"
+		"soundmark": "/aɪ/ /wʊd/ /laɪk/ /tə/ /dɪ'skʌs/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/ /wɪð/ /ju/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"形容词"
+			],
+			[
+				7,
+				7,
+				"介词"
+			],
+			[
+				8,
+				8,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			],
+			[
+				3,
+				3,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我们",
 		"english": "we",
-		"soundmark": "/wi/"
+		"soundmark": "/wi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我们想要讨论重要的某件事情",
 		"english": "we would like to discuss something important",
-		"soundmark": "/wi/ /wʊd/ /laɪk/ /tə/ /dɪ'skʌs/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+		"soundmark": "/wi/ /wʊd/ /laɪk/ /tə/ /dɪ'skʌs/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			],
+			[
+				3,
+				3,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我们讨论",
 		"english": "we discuss",
-		"soundmark": "/wi/ /dɪ'skʌs/"
+		"soundmark": "/wi/ /dɪ'skʌs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "可以",
 		"english": "can",
-		"soundmark": "/kən/"
+		"soundmark": "/kən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我们可以讨论",
 		"english": "we can discuss",
-		"soundmark": "/wi/ /kən/ /dɪ'skʌs/"
+		"soundmark": "/wi/ /kən/ /dɪ'skʌs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "所有的",
 		"english": "all",
-		"soundmark": "/ɔl/"
+		"soundmark": "/ɔl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "细节(复数)",
 		"english": "the details",
-		"soundmark": "/ðə/ /ˈditelz/"
+		"soundmark": "/ðə/ /ˈditelz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "所有的细节",
 		"english": "all the details",
-		"soundmark": "/ɔl/ /ðə/ /ˈditelz/"
+		"soundmark": "/ɔl/ /ðə/ /ˈditelz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"冠词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我们可以讨论所有的细节",
 		"english": "we can discuss all the details",
-		"soundmark": "/wi/ /kən/ /dɪ'skʌs/ /ɔl/ /ðə/ /ˈditelz/"
+		"soundmark": "/wi/ /kən/ /dɪ'skʌs/ /ɔl/ /ðə/ /ˈditelz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				5,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "这个计划",
 		"english": "the plan",
-		"soundmark": "/ðə/ /plæn/"
+		"soundmark": "/ðə/ /plæn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "所有的细节",
 		"english": "all the details",
-		"soundmark": "/ɔl/ /ðə/ /ˈditelz/"
+		"soundmark": "/ɔl/ /ðə/ /ˈditelz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"冠词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "这个计划的所有的细节",
 		"english": "all the details of the plan",
-		"soundmark": "/ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/"
+		"soundmark": "/ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"冠词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				5,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我们可以讨论这个计划的所有的细节",
 		"english": "we can discuss all the details of the plan",
-		"soundmark": "/wi/ /kən/ /dɪ'skʌs/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/"
+		"soundmark": "/wi/ /kən/ /dɪ'skʌs/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"介词"
+			],
+			[
+				7,
+				7,
+				"冠词"
+			],
+			[
+				8,
+				8,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				5,
+				"宾语",
+				"NP"
+			],
+			[
+				6,
+				8,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "一起",
 		"english": "together",
-		"soundmark": "/tə'ɡɛðɚ/"
+		"soundmark": "/tə'ɡɛðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我们可以一起讨论这个计划的所有的细节",
 		"english": "we can discuss all the details of the plan together",
-		"soundmark": "/wi/ /kən/ /dɪ'skʌs/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/"
+		"soundmark": "/wi/ /kən/ /dɪ'skʌs/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"介词"
+			],
+			[
+				7,
+				7,
+				"冠词"
+			],
+			[
+				8,
+				8,
+				"名词"
+			],
+			[
+				9,
+				9,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				5,
+				"宾语",
+				"NP"
+			],
+			[
+				6,
+				9,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "将会",
 		"english": "will",
-		"soundmark": "/wɪl/"
+		"soundmark": "/wɪl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我们将会一起讨论这个计划的所有的细节",
 		"english": "we will discuss all the details of the plan together",
-		"soundmark": "/wi/ /wɪl/ /dɪ'skʌs/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/"
+		"soundmark": "/wi/ /wɪl/ /dɪ'skʌs/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"介词"
+			],
+			[
+				7,
+				7,
+				"冠词"
+			],
+			[
+				8,
+				8,
+				"名词"
+			],
+			[
+				9,
+				9,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				5,
+				"宾语",
+				"NP"
+			],
+			[
+				6,
+				9,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "明天",
 		"english": "tomorrow",
-		"soundmark": "/tə'mɔro/"
+		"soundmark": "/tə'mɔro/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "早上",
 		"english": "morning",
-		"soundmark": "/'mɔrnɪŋ/"
+		"soundmark": "/'mɔrnɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "明天早上",
 		"english": "tomorrow morning",
-		"soundmark": "/tə'mɔro/ /'mɔrnɪŋ/"
+		"soundmark": "/tə'mɔro/ /'mɔrnɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我们明天早上将会一起讨论这个计划的所有的细节",
 		"english": "we will discuss all the details of the plan together tomorrow morning",
-		"soundmark": "/wi/ /wɪl/ /dɪ'skʌs/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/ /tə'mɔro/ /'mɔrnɪŋ/"
+		"soundmark": "/wi/ /wɪl/ /dɪ'skʌs/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/ /tə'mɔro/ /'mɔrnɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"介词"
+			],
+			[
+				7,
+				7,
+				"冠词"
+			],
+			[
+				8,
+				8,
+				"名词"
+			],
+			[
+				9,
+				9,
+				"副词"
+			],
+			[
+				10,
+				10,
+				"名词"
+			],
+			[
+				11,
+				11,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				5,
+				"宾语",
+				"NP"
+			],
+			[
+				6,
+				11,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "讨论(ing形式)",
 		"english": "discussing",
-		"soundmark": "/dɪ'skʌsɪŋ/"
+		"soundmark": "/dɪ'skʌsɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "是；赋值(原型)",
 		"english": "be",
-		"soundmark": "/bi/"
+		"soundmark": "/bi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "正在讨论",
 		"english": "be discussing",
-		"soundmark": "/bi/ /dɪ'skʌsɪŋ/"
+		"soundmark": "/bi/ /dɪ'skʌsɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "这个计划的所有的细节",
 		"english": "all the details of the plan",
-		"soundmark": "/ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/"
+		"soundmark": "/ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"冠词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				5,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "正在讨论这个计划的所有细节",
 		"english": "be discussing all the details of the plan",
-		"soundmark": "/bi/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/"
+		"soundmark": "/bi/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"冠词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				7,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "一起",
 		"english": "together",
-		"soundmark": "/tə'ɡɛðɚ/"
+		"soundmark": "/tə'ɡɛðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "正在一起讨论这个计划的所有细节",
 		"english": "be discussing all the details of the plan together",
-		"soundmark": "/bi/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/"
+		"soundmark": "/bi/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"冠词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			],
+			[
+				8,
+				8,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				8,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我们(现在)正在讨论",
 		"english": "we are discussing",
-		"soundmark": "/wi/ /ɚ/ /dɪ'skʌsɪŋ/"
+		"soundmark": "/wi/ /ɚ/ /dɪ'skʌsɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "这个计划的所有的细节",
 		"english": "all the details of the plan",
-		"soundmark": "/ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/"
+		"soundmark": "/ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"冠词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				5,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我们(现在)正在讨论这个计划的所有的细节",
 		"english": "we are discussing all the details of the plan",
-		"soundmark": "/wi/ /ɚ/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/"
+		"soundmark": "/wi/ /ɚ/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"介词"
+			],
+			[
+				7,
+				7,
+				"冠词"
+			],
+			[
+				8,
+				8,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "一起",
 		"english": "together",
-		"soundmark": "/tə'ɡɛðɚ/"
+		"soundmark": "/tə'ɡɛðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我们(现在)正在一起讨论这个计划的所有的细节",
 		"english": "we are discussing all the details of the plan together",
-		"soundmark": "/wi/ /ɚ/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/"
+		"soundmark": "/wi/ /ɚ/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"介词"
+			],
+			[
+				7,
+				7,
+				"冠词"
+			],
+			[
+				8,
+				8,
+				"名词"
+			],
+			[
+				9,
+				9,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我们(过去)正在一起讨论这个计划的所有的细节",
 		"english": "we were discussing all the details of the plan together",
-		"soundmark": "/wi/ /wɚ/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/"
+		"soundmark": "/wi/ /wɚ/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"介词"
+			],
+			[
+				7,
+				7,
+				"冠词"
+			],
+			[
+				8,
+				8,
+				"名词"
+			],
+			[
+				9,
+				9,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "是；赋值(原型)",
 		"english": "be",
-		"soundmark": "/bi/"
+		"soundmark": "/bi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "正在讨论",
 		"english": "be discussing",
-		"soundmark": "/bi/ /dɪ'skʌsɪŋ/"
+		"soundmark": "/bi/ /dɪ'skʌsɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "正在一起讨论这个计划的所有细节",
 		"english": "be discussing all the details of the plan together",
-		"soundmark": "/bi/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/"
+		"soundmark": "/bi/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"冠词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			],
+			[
+				8,
+				8,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				8,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我们将会",
 		"english": "we will",
-		"soundmark": "/wi/ /wɪl/"
+		"soundmark": "/wi/ /wɪl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我们将会正在一起讨论这个计划的所有的细节",
 		"english": "we will be discussing all the details of the plan together",
-		"soundmark": "/wi/ /wɪl/ /bi/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/"
+		"soundmark": "/wi/ /wɪl/ /bi/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"冠词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			],
+			[
+				7,
+				7,
+				"介词"
+			],
+			[
+				8,
+				8,
+				"冠词"
+			],
+			[
+				9,
+				9,
+				"名词"
+			],
+			[
+				10,
+				10,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "明天",
 		"english": "tomorrow",
-		"soundmark": "/tə'mɔro/"
+		"soundmark": "/tə'mɔro/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "在这个时候",
 		"english": "at this time",
-		"soundmark": "/ət/ /ðɪs/ /taɪm/"
+		"soundmark": "/ət/ /ðɪs/ /taɪm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在明天这个时候",
 		"english": "at this time tomorrow",
-		"soundmark": "/ət/ /ðɪs/ /taɪm/ /tə'mɔro/"
+		"soundmark": "/ət/ /ðɪs/ /taɪm/ /tə'mɔro/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我们在明天这个时候将会正在一起讨论这个计划的所有的细节",
 		"english": "we will be discussing all the details of the plan together at this time tomorrow",
-		"soundmark": "/wi/ /wɪl/ /bi/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/ /ət/ /ðɪs/ /taɪm/ /tə'mɔro/"
+		"soundmark": "/wi/ /wɪl/ /bi/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/ /ət/ /ðɪs/ /taɪm/ /tə'mɔro/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"冠词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			],
+			[
+				7,
+				7,
+				"介词"
+			],
+			[
+				8,
+				8,
+				"冠词"
+			],
+			[
+				9,
+				9,
+				"名词"
+			],
+			[
+				10,
+				10,
+				"副词"
+			],
+			[
+				11,
+				11,
+				"介词"
+			],
+			[
+				12,
+				12,
+				"代词"
+			],
+			[
+				13,
+				13,
+				"名词"
+			],
+			[
+				14,
+				14,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			]
+		]
 	}
 ]

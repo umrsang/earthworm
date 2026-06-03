@@ -2,666 +2,4776 @@
 	{
 		"chinese": "这里",
 		"english": "here",
-		"soundmark": "/hɪr/"
+		"soundmark": "/hɪr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我",
 		"english": "I",
-		"soundmark": "/aɪ/"
+		"soundmark": "/aɪ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我在这里",
 		"english": "I am here",
-		"soundmark": "/aɪ/ /æm/ /hɪr/"
+		"soundmark": "/aɪ/ /æm/ /hɪr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				2,
+				"时间状语",
+				"ADVP"
+			]
+		]
 	},
 	{
 		"chinese": "想要",
 		"english": "want",
-		"soundmark": "/wɑnt/"
+		"soundmark": "/wɑnt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我在这里",
 		"english": "I am here",
-		"soundmark": "/aɪ/ /æm/ /hɪr/"
+		"soundmark": "/aɪ/ /æm/ /hɪr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				2,
+				"时间状语",
+				"ADVP"
+			]
+		]
 	},
 	{
 		"chinese": "我想要在这里",
 		"english": "I want to be here",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /bi/ /hɪr/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /bi/ /hɪr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "不",
 		"english": "don't",
-		"soundmark": "/dont/"
+		"soundmark": "/dont/",
+		"posTags": [
+			[
+				0,
+				0,
+				"助动词"
+			],
+			[
+				1,
+				1,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我不想在这里",
 		"english": "I don't want to be here",
-		"soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /bi/ /hɪr/"
+		"soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /bi/ /hɪr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"动词"
+			],
+			[
+				6,
+				6,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				4,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "那里",
 		"english": "there",
-		"soundmark": "/ðɛr/"
+		"soundmark": "/ðɛr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我不想去那里",
 		"english": "I don't want to be there",
-		"soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /bi/ /ðɛr/"
+		"soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /bi/ /ðɛr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"动词"
+			],
+			[
+				6,
+				6,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				4,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我想要去那里",
 		"english": "I want to be there",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /bi/ /ðɛr/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /bi/ /ðɛr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我不想在这里我想要去那里",
 		"english": "I don't want to be here I want to be there",
-		"soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /bi/ /hɪr/ /aɪ/ /wɑnt/ /tə/ /bi/ /ðɛr/"
+		"soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /bi/ /hɪr/ /aɪ/ /wɑnt/ /tə/ /bi/ /ðɛr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"动词"
+			],
+			[
+				6,
+				6,
+				"副词"
+			],
+			[
+				7,
+				7,
+				"代词"
+			],
+			[
+				8,
+				8,
+				"动词"
+			],
+			[
+				9,
+				9,
+				"介词"
+			],
+			[
+				10,
+				10,
+				"动词"
+			],
+			[
+				11,
+				11,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				4,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我在这里",
 		"english": "I am here",
-		"soundmark": "/aɪ/ /æm/ /hɪr/"
+		"soundmark": "/aɪ/ /æm/ /hɪr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				2,
+				"时间状语",
+				"ADVP"
+			]
+		]
 	},
 	{
 		"chinese": "当......时候",
 		"english": "when",
-		"soundmark": "/wɛn/"
+		"soundmark": "/wɛn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "当我在这里的时候",
 		"english": "when I am here",
-		"soundmark": "/wɛn/ /aɪ/ /æm/ /hɪr/"
+		"soundmark": "/wɛn/ /aɪ/ /æm/ /hɪr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"疑问宾语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我想要去那里",
 		"english": "I want to be there",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /bi/ /ðɛr/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /bi/ /ðɛr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "当我在这里的时候，我想要去那里",
 		"english": "when I am here I want to be there",
-		"soundmark": "/wɛn/ /aɪ/ /æm/ /hɪr/ /aɪ/ /wɑnt/ /tə/ /bi/ /ðɛr/"
+		"soundmark": "/wɛn/ /aɪ/ /æm/ /hɪr/ /aɪ/ /wɑnt/ /tə/ /bi/ /ðɛr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"副词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"动词"
+			],
+			[
+				6,
+				6,
+				"介词"
+			],
+			[
+				7,
+				7,
+				"动词"
+			],
+			[
+				8,
+				8,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"疑问宾语",
+				"NP"
+			],
+			[
+				1,
+				5,
+				"宾语",
+				"NP"
+			],
+			[
+				6,
+				8,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "当我(过去)在这里的时候，我(过去)想要去那里",
 		"english": "when I was here I wanted to be there",
-		"soundmark": "/wɛn/ /aɪ/ /wəz/ /hɪr/ /aɪ/ /wɑntɪd/ /tə/ /bi/ /ðɛr/"
+		"soundmark": "/wɛn/ /aɪ/ /wəz/ /hɪr/ /aɪ/ /wɑntɪd/ /tə/ /bi/ /ðɛr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"副词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"动词"
+			],
+			[
+				6,
+				6,
+				"介词"
+			],
+			[
+				7,
+				7,
+				"动词"
+			],
+			[
+				8,
+				8,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"疑问宾语",
+				"NP"
+			],
+			[
+				1,
+				5,
+				"宾语",
+				"NP"
+			],
+			[
+				6,
+				8,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "老师",
 		"english": "teacher",
-		"soundmark": "/'titʃɚ/"
+		"soundmark": "/'titʃɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我是一名老师",
 		"english": "I am a teacher",
-		"soundmark": "/aɪ/ /æm/ /ə/ /'titʃɚ/"
+		"soundmark": "/aɪ/ /æm/ /ə/ /'titʃɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				3,
+				"表语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "想要",
 		"english": "want",
-		"soundmark": "/wɑnt/"
+		"soundmark": "/wɑnt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我想要成为一名老师",
 		"english": "I want to be a teacher",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /bi/ /ə/ /'titʃɚ/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /bi/ /ə/ /'titʃɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "富有的",
 		"english": "rich",
-		"soundmark": "/rɪtʃ/"
+		"soundmark": "/rɪtʃ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我是富有的",
 		"english": "I am rich",
-		"soundmark": "/aɪ/ /æm/ /rɪtʃ/"
+		"soundmark": "/aɪ/ /æm/ /rɪtʃ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				2,
+				"表语",
+				"ADJP"
+			]
+		]
 	},
 	{
 		"chinese": "想要",
 		"english": "want",
-		"soundmark": "/wɑnt/"
+		"soundmark": "/wɑnt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我想要变得富有",
 		"english": "I want to be rich",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /bi/ /rɪtʃ/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /bi/ /rɪtʃ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我在这里",
 		"english": "I am here",
-		"soundmark": "/aɪ/ /æm/ /hɪr/"
+		"soundmark": "/aɪ/ /æm/ /hɪr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				2,
+				"时间状语",
+				"ADVP"
+			]
+		]
 	},
 	{
 		"chinese": "我(过去)在这里",
 		"english": "I was here",
-		"soundmark": "/aɪ/ /wəz/ /hɪr/"
+		"soundmark": "/aɪ/ /wəz/ /hɪr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				2,
+				"时间状语",
+				"ADVP"
+			]
+		]
 	},
 	{
 		"chinese": "当......时候",
 		"english": "when",
-		"soundmark": "/wɛn/"
+		"soundmark": "/wɛn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "当我(过去)在这里的时候",
 		"english": "when I was here",
-		"soundmark": "/wɛn/ /aɪ/ /wəz/ /hɪr/"
+		"soundmark": "/wɛn/ /aɪ/ /wəz/ /hɪr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"疑问宾语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在......之前；以前",
 		"english": "before",
-		"soundmark": "/bɪ'fɔr/"
+		"soundmark": "/bɪ'fɔr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "当我以前在这里的时候",
 		"english": "when I was here before",
-		"soundmark": "/wɛn/ /aɪ/ /wəz/ /hɪr/ /bɪ'fɔr/"
+		"soundmark": "/wɛn/ /aɪ/ /wəz/ /hɪr/ /bɪ'fɔr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"副词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"疑问宾语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"宾语",
+				"NP"
+			],
+			[
+				4,
+				4,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "注意到；察觉到",
 		"english": "to notice",
-		"soundmark": "/tə/ /ˈnotɪs/"
+		"soundmark": "/tə/ /ˈnotɪs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我",
 		"english": "I",
-		"soundmark": "/aɪ/"
+		"soundmark": "/aɪ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我注意到",
 		"english": "I notice",
-		"soundmark": "/aɪ/ /ˈnotɪs/"
+		"soundmark": "/aɪ/ /ˈnotɪs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "那个",
 		"english": "that",
-		"soundmark": "/ðæt/"
+		"soundmark": "/ðæt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我注意到那个",
 		"english": "I notice that",
-		"soundmark": "/aɪ/ /ˈnotɪs/ /ðæt/"
+		"soundmark": "/aɪ/ /ˈnotɪs/ /ðæt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"连词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我(过去)注意到那个",
 		"english": "I noticed that",
-		"soundmark": "/aɪ/ /ˈnotɪst/ /ðæt/"
+		"soundmark": "/aɪ/ /ˈnotɪst/ /ðæt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"连词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我(过去)没有注意到那个",
 		"english": "I didn't notice that",
-		"soundmark": "/aɪ/ /ˈdɪdnt/ /ˈnotɪs/ /ðæt/"
+		"soundmark": "/aɪ/ /ˈdɪdnt/ /ˈnotɪs/ /ðæt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"连词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "当我以前在这里的时候",
 		"english": "when I was here before",
-		"soundmark": "/wɛn/ /aɪ/ /wəz/ /hɪr/ /bɪ'fɔr/"
+		"soundmark": "/wɛn/ /aɪ/ /wəz/ /hɪr/ /bɪ'fɔr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"副词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"疑问宾语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"宾语",
+				"NP"
+			],
+			[
+				4,
+				4,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我(过去)没有注意那个当我以前在这里的时候",
 		"english": "I didn't notice that when I was here before",
-		"soundmark": "/aɪ/ /ˈdɪdnt/ /ˈnotɪs/ /ðæt/ /wɛn/ /aɪ/ /wəz/ /hɪr/ /bɪ'fɔr/"
+		"soundmark": "/aɪ/ /ˈdɪdnt/ /ˈnotɪs/ /ðæt/ /wɛn/ /aɪ/ /wəz/ /hɪr/ /bɪ'fɔr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"连词"
+			],
+			[
+				5,
+				5,
+				"疑问词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"动词"
+			],
+			[
+				8,
+				8,
+				"副词"
+			],
+			[
+				9,
+				9,
+				"介词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我(过去)注意到",
 		"english": "I noticed",
-		"soundmark": "/aɪ/ /ˈnotɪst/"
+		"soundmark": "/aɪ/ /ˈnotɪst/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "某个东西",
 		"english": "something",
-		"soundmark": "/'sʌmθɪŋ/"
+		"soundmark": "/'sʌmθɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "错误的",
 		"english": "wrong",
-		"soundmark": "/rɔŋ/"
+		"soundmark": "/rɔŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "错误的某个东西",
 		"english": "something wrong",
-		"soundmark": "/'sʌmθɪŋ/ /rɔŋ/"
+		"soundmark": "/'sʌmθɪŋ/ /rɔŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "那里",
 		"english": "there",
-		"soundmark": "/ðɛr/"
+		"soundmark": "/ðɛr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "错误的某个东西在那里",
 		"english": "something wrong is there",
-		"soundmark": "/'sʌmθɪŋ/ /rɔŋ/ /ɪz/ /ðɛr/"
+		"soundmark": "/'sʌmθɪŋ/ /rɔŋ/ /ɪz/ /ðɛr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"形容词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"系动词",
+				"TP"
+			],
+			[
+				3,
+				3,
+				"时间状语",
+				"ADVP"
+			]
+		]
 	},
 	{
 		"chinese": "存在",
 		"english": "there is",
-		"soundmark": "/ðɛr/ /ɪz/"
+		"soundmark": "/ðɛr/ /ɪz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			]
+		]
 	},
 	{
 		"chinese": "存在错误的某个东西",
 		"english": "there is something wrong",
-		"soundmark": "/ðɛr/ /ɪz/ /'sʌmθɪŋ/ /rɔŋ/"
+		"soundmark": "/ðɛr/ /ɪz/ /'sʌmθɪŋ/ /rɔŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "这里",
 		"english": "here",
-		"soundmark": "/hɪr/"
+		"soundmark": "/hɪr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "这里有错误的某个东西",
 		"english": "there is something wrong here",
-		"soundmark": "/ðɛr/ /ɪz/ /'sʌmθɪŋ/ /rɔŋ/ /hɪr/"
+		"soundmark": "/ðɛr/ /ɪz/ /'sʌmθɪŋ/ /rɔŋ/ /hɪr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			],
+			[
+				4,
+				4,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "这里(过去)有错误的某个东西",
 		"english": "there was something wrong here",
-		"soundmark": "/ðɛr/ /wəz/ /'sʌmθɪŋ/ /rɔŋ/ /hɪr/"
+		"soundmark": "/ðɛr/ /wəz/ /'sʌmθɪŋ/ /rɔŋ/ /hɪr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			],
+			[
+				4,
+				4,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我(过去)注意到",
 		"english": "I noticed",
-		"soundmark": "/aɪ/ /ˈnotɪst/"
+		"soundmark": "/aɪ/ /ˈnotɪst/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我(过去)注意到这里(过去)有错误的某个东西",
 		"english": "I noticed there was something wrong here",
-		"soundmark": "/aɪ/ /ˈnotɪst/ /ðɛr/ /wəz/ /'sʌmθɪŋ/ /rɔŋ/ /hɪr/"
+		"soundmark": "/aɪ/ /ˈnotɪst/ /ðɛr/ /wəz/ /'sʌmθɪŋ/ /rɔŋ/ /hɪr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"形容词"
+			],
+			[
+				6,
+				6,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"ADVP"
+			]
+		]
 	},
 	{
 		"chinese": "那个",
 		"english": "that",
-		"soundmark": "/ðæt/"
+		"soundmark": "/ðæt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我(过去)注意到(那个)这里(过去)有错误的某个东西",
 		"english": "I noticed that there was something wrong here",
-		"soundmark": "/aɪ/ /ˈnotɪst/ /ðæt/ /ðɛr/ /wəz/ /'sʌmθɪŋ/ /rɔŋ/ /hɪr/"
+		"soundmark": "/aɪ/ /ˈnotɪst/ /ðæt/ /ðɛr/ /wəz/ /'sʌmθɪŋ/ /rɔŋ/ /hɪr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"连词"
+			],
+			[
+				3,
+				3,
+				"副词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"形容词"
+			],
+			[
+				7,
+				7,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "不同的",
 		"english": "different",
-		"soundmark": "/'dɪfrənt/"
+		"soundmark": "/'dɪfrənt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "某个东西",
 		"english": "something",
-		"soundmark": "/'sʌmθɪŋ/"
+		"soundmark": "/'sʌmθɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "不同的某个东西",
 		"english": "something different",
-		"soundmark": "/'sʌmθɪŋ/ /'dɪfrənt/"
+		"soundmark": "/'sʌmθɪŋ/ /'dɪfrənt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "存在不同的某个东西",
 		"english": "there is something different",
-		"soundmark": "/ðɛr/ /ɪz/ /'sʌmθɪŋ/ /'dɪfrənt/"
+		"soundmark": "/ðɛr/ /ɪz/ /'sʌmθɪŋ/ /'dɪfrənt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "这里",
 		"english": "here",
-		"soundmark": "/hɪr/"
+		"soundmark": "/hɪr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "这里有不同的某个东西",
 		"english": "there is something different here",
-		"soundmark": "/ðɛr/ /ɪz/ /'sʌmθɪŋ/ /'dɪfrənt/ /hɪr/"
+		"soundmark": "/ðɛr/ /ɪz/ /'sʌmθɪŋ/ /'dɪfrənt/ /hɪr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			],
+			[
+				4,
+				4,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "这里(过去)有不同的某个东西",
 		"english": "there was something different here",
-		"soundmark": "/ðɛr/ /wəz/ /'sʌmθɪŋ/ /'dɪfrənt/ /hɪr/"
+		"soundmark": "/ðɛr/ /wəz/ /'sʌmθɪŋ/ /'dɪfrənt/ /hɪr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			],
+			[
+				4,
+				4,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我(过去)注意到",
 		"english": "I noticed",
-		"soundmark": "/aɪ/ /ˈnotɪst/"
+		"soundmark": "/aɪ/ /ˈnotɪst/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我(过去)注意到这里(过去)存在不同的某个东西",
 		"english": "I noticed there was something different here",
-		"soundmark": "/aɪ/ /ˈnotɪst/ /ðɛr/ /wəz/ /'sʌmθɪŋ/ /'dɪfrənt/ /hɪr/"
+		"soundmark": "/aɪ/ /ˈnotɪst/ /ðɛr/ /wəz/ /'sʌmθɪŋ/ /'dɪfrənt/ /hɪr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"形容词"
+			],
+			[
+				6,
+				6,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"ADVP"
+			]
+		]
 	},
 	{
 		"chinese": "那个",
 		"english": "that",
-		"soundmark": "/ðæt/"
+		"soundmark": "/ðæt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我(过去)注意到(那个)这里(过去)存在不同的某个东西",
 		"english": "I noticed that there was something different here",
-		"soundmark": "/aɪ/ /ˈnotɪst/ /ðæt/ /ðɛr/ /wəz/ /'sʌmθɪŋ/ /'dɪfrənt/ /hɪr/"
+		"soundmark": "/aɪ/ /ˈnotɪst/ /ðæt/ /ðɛr/ /wəz/ /'sʌmθɪŋ/ /'dɪfrənt/ /hɪr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"连词"
+			],
+			[
+				3,
+				3,
+				"副词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"形容词"
+			],
+			[
+				7,
+				7,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "不同的",
 		"english": "different",
-		"soundmark": "/'dɪfrənt/"
+		"soundmark": "/'dɪfrənt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "不同之处",
 		"english": "difference",
-		"soundmark": "/'dɪfrəns/"
+		"soundmark": "/'dɪfrəns/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "在......之间",
 		"english": "between",
-		"soundmark": "/bɪ'twin/"
+		"soundmark": "/bɪ'twin/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "和",
 		"english": "and",
-		"soundmark": "/ənd/"
+		"soundmark": "/ənd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"连词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "你和我",
 		"english": "you and me",
-		"soundmark": "/ju/ /ənd/ /mi/"
+		"soundmark": "/ju/ /ənd/ /mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"连词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在你和我之间",
 		"english": "between you and me",
-		"soundmark": "/bɪ'twin/ /ju/ /ənd/ /mi/"
+		"soundmark": "/bɪ'twin/ /ju/ /ənd/ /mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"连词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在你和我之间的不同",
 		"english": "difference between you and me",
-		"soundmark": "/'dɪfrəns/ /bɪ'twin/ /ju/ /ənd/ /mi/"
+		"soundmark": "/'dɪfrəns/ /bɪ'twin/ /ju/ /ənd/ /mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			],
+			[
+				1,
+				1,
+				"介词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"连词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "大的",
 		"english": "big",
-		"soundmark": "/bɪɡ/"
+		"soundmark": "/bɪɡ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "一个大的不同",
 		"english": "a big difference",
-		"soundmark": "/ə/ /bɪɡ/ /'dɪfrəns/"
+		"soundmark": "/ə/ /bɪɡ/ /'dɪfrəns/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"形容词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				2,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在你和我之间的一个大的不同",
 		"english": "a big difference between you and me",
-		"soundmark": "/ə/ /bɪɡ/ /'dɪfrəns/ /bɪ'twin/ /ju/ /ənd/ /mi/"
+		"soundmark": "/ə/ /bɪɡ/ /'dɪfrəns/ /bɪ'twin/ /ju/ /ənd/ /mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"形容词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"连词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				2,
+				"主语",
+				"NP"
+			],
+			[
+				3,
+				6,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "那里",
 		"english": "there",
-		"soundmark": "/ðɛr/"
+		"soundmark": "/ðɛr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "在你和我之间的一个大的不同在那里",
 		"english": "a big difference between you and me is there",
-		"soundmark": "/ə/ /bɪɡ/ /'dɪfrəns/ /bɪ'twin/ /ju/ /ənd/ /mi/ /ɪz/ /ðɛr/"
+		"soundmark": "/ə/ /bɪɡ/ /'dɪfrəns/ /bɪ'twin/ /ju/ /ənd/ /mi/ /ɪz/ /ðɛr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"形容词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"连词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"动词"
+			],
+			[
+				8,
+				8,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				2,
+				"主语",
+				"NP"
+			],
+			[
+				3,
+				6,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "存在",
 		"english": "there is",
-		"soundmark": "/ðɛr/ /ɪz/"
+		"soundmark": "/ðɛr/ /ɪz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			]
+		]
 	},
 	{
 		"chinese": "存在在你和我之间的一个大的不同",
 		"english": "there is a big difference between you and me",
-		"soundmark": "/ðɛr/ /ɪz/ /ə/ /bɪɡ/ /'dɪfrəns/ /bɪ'twin/ /ju/ /ənd/ /mi/"
+		"soundmark": "/ðɛr/ /ɪz/ /ə/ /bɪɡ/ /'dɪfrəns/ /bɪ'twin/ /ju/ /ənd/ /mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"连词"
+			],
+			[
+				8,
+				8,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				4,
+				"表语",
+				"NP"
+			],
+			[
+				5,
+				8,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "武器",
 		"english": "weapon",
-		"soundmark": "/ˈwɛpən/"
+		"soundmark": "/ˈwɛpən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "工具",
 		"english": "tool",
-		"soundmark": "/tul/"
+		"soundmark": "/tul/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "一个武器和一个工具",
 		"english": "a weapon and a tool",
-		"soundmark": "/ə/ /ˈwɛpən/ /ənd/ /ə/ /tul/"
+		"soundmark": "/ə/ /ˈwɛpən/ /ənd/ /ə/ /tul/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"连词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在......之间",
 		"english": "between",
-		"soundmark": "/bɪ'twin/"
+		"soundmark": "/bɪ'twin/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "在一个武器和一个工具之间",
 		"english": "between a weapon and a tool",
-		"soundmark": "/bɪ'twin/ /ə/ /ˈwɛpən/ /ənd/ /ə/ /tul/"
+		"soundmark": "/bɪ'twin/ /ə/ /ˈwɛpən/ /ənd/ /ə/ /tul/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"冠词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"连词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				5,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "存在一个大的不同",
 		"english": "there is a big difference",
-		"soundmark": "/ðɛr/ /ɪz/ /ə/ /bɪɡ/ /'dɪfrəns/"
+		"soundmark": "/ðɛr/ /ɪz/ /ə/ /bɪɡ/ /'dɪfrəns/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				4,
+				"表语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "存在在一个武器和一个工具之间的一个大的不同",
 		"english": "there is a big difference between a weapon and a tool",
-		"soundmark": "/ðɛr/ /ɪz/ /ə/ /bɪɡ/ /'dɪfrəns/ /bɪ'twin/ /ə/ /ˈwɛpən/ /ənd/ /ə/ /tul/"
+		"soundmark": "/ðɛr/ /ɪz/ /ə/ /bɪɡ/ /'dɪfrəns/ /bɪ'twin/ /ə/ /ˈwɛpən/ /ənd/ /ə/ /tul/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"冠词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			],
+			[
+				8,
+				8,
+				"连词"
+			],
+			[
+				9,
+				9,
+				"冠词"
+			],
+			[
+				10,
+				10,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				4,
+				"表语",
+				"NP"
+			],
+			[
+				5,
+				10,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "正确",
 		"english": "right",
-		"soundmark": "/raɪt/"
+		"soundmark": "/raɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "错误",
 		"english": "wrong",
-		"soundmark": "/rɔŋ/"
+		"soundmark": "/rɔŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "正确和错误",
 		"english": "right and wrong",
-		"soundmark": "/raɪt/ /ənd/ /rɔŋ/"
+		"soundmark": "/raɪt/ /ənd/ /rɔŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			],
+			[
+				1,
+				1,
+				"连词"
+			],
+			[
+				2,
+				2,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在......之间",
 		"english": "between",
-		"soundmark": "/bɪ'twin/"
+		"soundmark": "/bɪ'twin/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "在对和错之间",
 		"english": "between right and wrong",
-		"soundmark": "/bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+		"soundmark": "/bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"连词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "不同之处",
 		"english": "difference",
-		"soundmark": "/'dɪfrəns/"
+		"soundmark": "/'dɪfrəns/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "那个不同之处(区别)",
 		"english": "the difference",
-		"soundmark": "/ðə/ /'dɪfrəns/"
+		"soundmark": "/ðə/ /'dɪfrəns/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在对和错之间的区别",
 		"english": "the difference between right and wrong",
-		"soundmark": "/ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+		"soundmark": "/ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"连词"
+			],
+			[
+				5,
+				5,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				5,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "知道",
 		"english": "to know",
-		"soundmark": "/tə/ /no/"
+		"soundmark": "/tə/ /no/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "知道对与错的区别",
 		"english": "to know the difference between right and wrong",
-		"soundmark": "/tə/ /no/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+		"soundmark": "/tə/ /no/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"连词"
+			],
+			[
+				7,
+				7,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我们",
 		"english": "we",
-		"soundmark": "/wi/"
+		"soundmark": "/wi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我们知道",
 		"english": "we know",
-		"soundmark": "/wi/ /no/"
+		"soundmark": "/wi/ /no/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "所有；全部",
 		"english": "all",
-		"soundmark": "/ɔl/"
+		"soundmark": "/ɔl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我们都知道",
 		"english": "we all know",
-		"soundmark": "/wi/ /ɔl/ /no/"
+		"soundmark": "/wi/ /ɔl/ /no/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我们都知道对与错的区别",
 		"english": "we all know the difference between right and wrong",
-		"soundmark": "/wi/ /ɔl/ /no/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+		"soundmark": "/wi/ /ɔl/ /no/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			],
+			[
+				7,
+				7,
+				"连词"
+			],
+			[
+				8,
+				8,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你必须知道",
 		"english": "you have to know",
-		"soundmark": "/ju/ /hæv/ /tə/ /no/"
+		"soundmark": "/ju/ /hæv/ /tə/ /no/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "你必须知道对与错的区别",
 		"english": "you have to know the difference between right and wrong",
-		"soundmark": "/ju/ /hæv/ /tə/ /no/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+		"soundmark": "/ju/ /hæv/ /tə/ /no/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"介词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			],
+			[
+				8,
+				8,
+				"连词"
+			],
+			[
+				9,
+				9,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "告诉",
 		"english": "to tell",
-		"soundmark": "/tə/ /tɛl/"
+		"soundmark": "/tə/ /tɛl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "区别",
 		"english": "the difference",
-		"soundmark": "/ðə/ /'dɪfrəns/"
+		"soundmark": "/ðə/ /'dɪfrəns/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "分辨区别",
 		"english": "to tell the difference",
-		"soundmark": "/tə/ /tɛl/ /ðə/ /'dɪfrəns/"
+		"soundmark": "/tə/ /tɛl/ /ðə/ /'dɪfrəns/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在......之间",
 		"english": "between",
-		"soundmark": "/bɪ'twin/"
+		"soundmark": "/bɪ'twin/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "正确和错误",
 		"english": "right and wrong",
-		"soundmark": "/raɪt/ /ənd/ /rɔŋ/"
+		"soundmark": "/raɪt/ /ənd/ /rɔŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			],
+			[
+				1,
+				1,
+				"连词"
+			],
+			[
+				2,
+				2,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在对和错之间",
 		"english": "between right and wrong",
-		"soundmark": "/bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+		"soundmark": "/bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"连词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "对与错的区别",
 		"english": "the difference between right and wrong",
-		"soundmark": "/ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+		"soundmark": "/ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"连词"
+			],
+			[
+				5,
+				5,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				5,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "分辨是非",
 		"english": "to tell the difference between right and wrong",
-		"soundmark": "/tə/ /tɛl/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+		"soundmark": "/tə/ /tɛl/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"连词"
+			],
+			[
+				7,
+				7,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "年龄大的；老的",
 		"english": "old",
-		"soundmark": "/old/"
+		"soundmark": "/old/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "足够",
 		"english": "enough",
-		"soundmark": "/ɪ'nʌf/"
+		"soundmark": "/ɪ'nʌf/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "足够年龄大",
 		"english": "old enough",
-		"soundmark": "/old/ /ɪ'nʌf/"
+		"soundmark": "/old/ /ɪ'nʌf/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			],
+			[
+				1,
+				1,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你是",
 		"english": "you are",
-		"soundmark": "/ju/ /ɚ/"
+		"soundmark": "/ju/ /ɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			]
+		]
 	},
 	{
 		"chinese": "你是足够年龄大的",
 		"english": "you are old enough",
-		"soundmark": "/ju/ /ɚ/ /old/ /ɪ'nʌf/"
+		"soundmark": "/ju/ /ɚ/ /old/ /ɪ'nʌf/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"形容词"
+			],
+			[
+				3,
+				3,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				3,
+				"表语",
+				"ADJP"
+			]
+		]
 	},
 	{
 		"chinese": "你是年龄大的足够分辨是非",
 		"english": "you are old enough to tell the difference between right and wrong",
-		"soundmark": "/ju/ /ɚ/ /old/ /ɪ'nʌf/ /tə/ /tɛl/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+		"soundmark": "/ju/ /ɚ/ /old/ /ɪ'nʌf/ /tə/ /tɛl/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"形容词"
+			],
+			[
+				3,
+				3,
+				"副词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"动词"
+			],
+			[
+				6,
+				6,
+				"冠词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			],
+			[
+				8,
+				8,
+				"介词"
+			],
+			[
+				9,
+				9,
+				"名词"
+			],
+			[
+				10,
+				10,
+				"连词"
+			],
+			[
+				11,
+				11,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				3,
+				"表语",
+				"ADJP"
+			],
+			[
+				4,
+				11,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "孩子",
 		"english": "child",
-		"soundmark": "/tʃaɪld/"
+		"soundmark": "/tʃaɪld/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "孩子们",
 		"english": "children",
-		"soundmark": "/'tʃɪldrən/"
+		"soundmark": "/'tʃɪldrən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我们的",
 		"english": "our",
-		"soundmark": "/'aʊɚ/"
+		"soundmark": "/'aʊɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我们的孩子们",
 		"english": "our children",
-		"soundmark": "/'aʊɚ/ /'tʃɪldrən/"
+		"soundmark": "/'aʊɚ/ /'tʃɪldrən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "教",
 		"english": "to teach",
-		"soundmark": "/tə/ /titʃ/"
+		"soundmark": "/tə/ /titʃ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我们需要",
 		"english": "we need",
-		"soundmark": "/wi/ /nid/"
+		"soundmark": "/wi/ /nid/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我们需要教",
 		"english": "we need to teach",
-		"soundmark": "/wi/ /nid/ /tə/ /titʃ/"
+		"soundmark": "/wi/ /nid/ /tə/ /titʃ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我们需要教我们的孩子们",
 		"english": "we need to teach our children",
-		"soundmark": "/wi/ /nid/ /tə/ /titʃ/ /'aʊɚ/ /'tʃɪldrən/"
+		"soundmark": "/wi/ /nid/ /tə/ /titʃ/ /'aʊɚ/ /'tʃɪldrən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "分辨区别",
 		"english": "to tell the difference",
-		"soundmark": "/tə/ /tɛl/ /ðə/ /'dɪfrəns/"
+		"soundmark": "/tə/ /tɛl/ /ðə/ /'dɪfrəns/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在对和错之间",
 		"english": "between right and wrong",
-		"soundmark": "/bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+		"soundmark": "/bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"连词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "辨别是非",
 		"english": "to tell the difference between right and wrong",
-		"soundmark": "/tə/ /tɛl/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+		"soundmark": "/tə/ /tɛl/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"连词"
+			],
+			[
+				7,
+				7,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "如何",
 		"english": "how",
-		"soundmark": "/haʊ/"
+		"soundmark": "/haʊ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "如何辨别是非",
 		"english": "how to tell the difference between right and wrong",
-		"soundmark": "/haʊ/ /tə/ /tɛl/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+		"soundmark": "/haʊ/ /tə/ /tɛl/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			],
+			[
+				1,
+				1,
+				"介词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			],
+			[
+				7,
+				7,
+				"连词"
+			],
+			[
+				8,
+				8,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"疑问宾语",
+				"NP"
+			],
+			[
+				1,
+				8,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我们需要教我们的孩子们如何辨别是非",
 		"english": "we need to teach our children how to tell the difference between right and wrong",
-		"soundmark": "/wi/ /nid/ /tə/ /titʃ/ /'aʊɚ/ /'tʃɪldrən/ /haʊ/ /tə/ /tɛl/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+		"soundmark": "/wi/ /nid/ /tə/ /titʃ/ /'aʊɚ/ /'tʃɪldrən/ /haʊ/ /tə/ /tɛl/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"疑问词"
+			],
+			[
+				7,
+				7,
+				"介词"
+			],
+			[
+				8,
+				8,
+				"动词"
+			],
+			[
+				9,
+				9,
+				"冠词"
+			],
+			[
+				10,
+				10,
+				"名词"
+			],
+			[
+				11,
+				11,
+				"介词"
+			],
+			[
+				12,
+				12,
+				"名词"
+			],
+			[
+				13,
+				13,
+				"连词"
+			],
+			[
+				14,
+				14,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	}
 ]

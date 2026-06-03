@@ -2,761 +2,5239 @@
 	{
 		"chinese": "工作",
 		"english": "job",
-		"soundmark": "/dʒɑb/"
+		"soundmark": "/dʒɑb/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "工作；付出劳动",
 		"english": "to work",
-		"soundmark": "/tə/ /wɝk/"
+		"soundmark": "/tə/ /wɝk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "需要",
 		"english": "need",
-		"soundmark": "/nid/"
+		"soundmark": "/nid/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "他",
 		"english": "he",
-		"soundmark": "/hi/"
+		"soundmark": "/hi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "他需要",
 		"english": "he needs",
-		"soundmark": "/hi/ /nidz/"
+		"soundmark": "/hi/ /nidz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他需要工作",
 		"english": "he needs to work",
-		"soundmark": "/hi/ /nidz/ /tə/ /wɝk/"
+		"soundmark": "/hi/ /nidz/ /tə/ /wɝk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "家",
 		"english": "home",
-		"soundmark": "/hom/"
+		"soundmark": "/hom/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "家庭作业",
 		"english": "homework",
-		"soundmark": "/'homwɝk/"
+		"soundmark": "/'homwɝk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "他的",
 		"english": "his",
-		"soundmark": "/hɪz/"
+		"soundmark": "/hɪz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "他的家庭作业",
 		"english": "his homework",
-		"soundmark": "/hɪz/ /'homwɝk/"
+		"soundmark": "/hɪz/ /'homwɝk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在......上",
 		"english": "on",
-		"soundmark": "/ɑn/"
+		"soundmark": "/ɑn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "在他的家庭作业上",
 		"english": "on his homework",
-		"soundmark": "/ɑn/ /hɪz/ /'homwɝk/"
+		"soundmark": "/ɑn/ /hɪz/ /'homwɝk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他需要在他的家庭作业上工作",
 		"english": "he needs to work on his homework",
-		"soundmark": "/hi/ /nidz/ /tə/ /wɝk/ /ɑn/ /hɪz/ /'homwɝk/"
+		"soundmark": "/hi/ /nidz/ /tə/ /wɝk/ /ɑn/ /hɪz/ /'homwɝk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				6,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他在他的家庭作业上工作",
 		"english": "he works on his homework",
-		"soundmark": "/hi/ /wɝks/ /ɑn/ /hɪz/ /'homwɝk/"
+		"soundmark": "/hi/ /wɝks/ /ɑn/ /hɪz/ /'homwɝk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "工作(ing形式)",
 		"english": "working",
-		"soundmark": "/'wɝkɪŋ/"
+		"soundmark": "/'wɝkɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "是；赋值(原型)",
 		"english": "be",
-		"soundmark": "/bi/"
+		"soundmark": "/bi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "正在工作",
 		"english": "be working",
-		"soundmark": "/bi/ /'wɝkɪŋ/"
+		"soundmark": "/bi/ /'wɝkɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "他(现在)正在工作",
 		"english": "he is working",
-		"soundmark": "/hi/ /ɪz/ /'wɝkɪŋ/"
+		"soundmark": "/hi/ /ɪz/ /'wɝkɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "在他的家庭作业上",
 		"english": "on his homework",
-		"soundmark": "/ɑn/ /hɪz/ /'homwɝk/"
+		"soundmark": "/ɑn/ /hɪz/ /'homwɝk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他(现在)正在在他的家庭作业上工作",
 		"english": "he is working on his homework",
-		"soundmark": "/hi/ /ɪz/ /'wɝkɪŋ/ /ɑn/ /hɪz/ /'homwɝk/"
+		"soundmark": "/hi/ /ɪz/ /'wɝkɪŋ/ /ɑn/ /hɪz/ /'homwɝk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				5,
+				"宾语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我的",
 		"english": "my",
-		"soundmark": "/maɪ/"
+		"soundmark": "/maɪ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我的家庭作业",
 		"english": "my homework",
-		"soundmark": "/maɪ/ /'homwɝk/"
+		"soundmark": "/maɪ/ /'homwɝk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "正在工作",
 		"english": "be working",
-		"soundmark": "/bi/ /'wɝkɪŋ/"
+		"soundmark": "/bi/ /'wɝkɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我(现在)正在工作",
 		"english": "I am working",
-		"soundmark": "/aɪ/ /æm/ /'wɝkɪŋ/"
+		"soundmark": "/aɪ/ /æm/ /'wɝkɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "在......上",
 		"english": "on",
-		"soundmark": "/ɑn/"
+		"soundmark": "/ɑn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我(现在)正在在我的家庭作业上工作",
 		"english": "I am working on my homework",
-		"soundmark": "/aɪ/ /æm/ /'wɝkɪŋ/ /ɑn/ /maɪ/ /'homwɝk/"
+		"soundmark": "/aɪ/ /æm/ /'wɝkɪŋ/ /ɑn/ /maɪ/ /'homwɝk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				5,
+				"宾语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "它；那件事",
 		"english": "it",
-		"soundmark": "/ɪt/"
+		"soundmark": "/ɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我(现在)正在在那件事上工作",
 		"english": "I am working on it",
-		"soundmark": "/aɪ/ /æm/ /'wɝkɪŋ/ /ɑn/ /ɪt/"
+		"soundmark": "/aɪ/ /æm/ /'wɝkɪŋ/ /ɑn/ /ɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				4,
+				"宾语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "仍然",
 		"english": "still",
-		"soundmark": "/stɪl/"
+		"soundmark": "/stɪl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我(现在)仍然正在在那件事上工作",
 		"english": "I am still working on it",
-		"soundmark": "/aɪ/ /æm/ /stɪl/ /'wɝkɪŋ/ /ɑn/ /ɪt/"
+		"soundmark": "/aɪ/ /æm/ /stɪl/ /'wɝkɪŋ/ /ɑn/ /ɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				2,
+				"时间状语",
+				"ADVP"
+			]
+		]
 	},
 	{
 		"chinese": "我们",
 		"english": "we",
-		"soundmark": "/wi/"
+		"soundmark": "/wi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我们(现在)正在在那件事上工作",
 		"english": "we are working on it",
-		"soundmark": "/wi/ /ɚ/ /'wɝkɪŋ/ /ɑn/ /ɪt/"
+		"soundmark": "/wi/ /ɚ/ /'wɝkɪŋ/ /ɑn/ /ɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				4,
+				"宾语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "项目",
 		"english": "project",
-		"soundmark": "/ˈprɑdʒɛkt/"
+		"soundmark": "/ˈprɑdʒɛkt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "新的",
 		"english": "new",
-		"soundmark": "/nu/"
+		"soundmark": "/nu/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "一个新的项目",
 		"english": "a new project",
-		"soundmark": "/ə/ /nu/ /ˈprɑdʒɛkt/"
+		"soundmark": "/ə/ /nu/ /ˈprɑdʒɛkt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"形容词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				2,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我们(现在)正在在一个新的项目上工作",
 		"english": "we are working on a new project",
-		"soundmark": "/wi/ /ɚ/ /'wɝkɪŋ/ /ɑn/ /ə/ /nu/ /ˈprɑdʒɛkt/"
+		"soundmark": "/wi/ /ɚ/ /'wɝkɪŋ/ /ɑn/ /ə/ /nu/ /ˈprɑdʒɛkt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"形容词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				6,
+				"宾语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "将会",
 		"english": "will",
-		"soundmark": "/wɪl/"
+		"soundmark": "/wɪl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "正在工作",
 		"english": "be working",
-		"soundmark": "/bi/ /'wɝkɪŋ/"
+		"soundmark": "/bi/ /'wɝkɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "将会正在工作",
 		"english": "will be working",
-		"soundmark": "/wɪl/ /bi/ /'wɝkɪŋ/"
+		"soundmark": "/wɪl/ /bi/ /'wɝkɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "一个新的项目",
 		"english": "a new project",
-		"soundmark": "/ə/ /nu/ /ˈprɑdʒɛkt/"
+		"soundmark": "/ə/ /nu/ /ˈprɑdʒɛkt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"形容词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				2,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我们将会正在在一个新的项目上工作",
 		"english": "we will be working on a new project",
-		"soundmark": "/wi/ /wɪl/ /bi/ /'wɝkɪŋ/ /ɑn/ /ə/ /nu/ /ˈprɑdʒɛkt/"
+		"soundmark": "/wi/ /wɪl/ /bi/ /'wɝkɪŋ/ /ɑn/ /ə/ /nu/ /ˈprɑdʒɛkt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"冠词"
+			],
+			[
+				6,
+				6,
+				"形容词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				7,
+				"宾语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "周；星期",
 		"english": "week",
-		"soundmark": "/wik/"
+		"soundmark": "/wik/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "下一个",
 		"english": "next",
-		"soundmark": "/nɛkst/"
+		"soundmark": "/nɛkst/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "下周",
 		"english": "next week",
-		"soundmark": "/nɛkst/ /wik/"
+		"soundmark": "/nɛkst/ /wik/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我们下周将会正在在一个新的项目上工作",
 		"english": "we will be working on a new project next week",
-		"soundmark": "/wi/ /wɪl/ /bi/ /'wɝkɪŋ/ /ɑn/ /ə/ /nu/ /ˈprɑdʒɛkt/ /nɛkst/ /wik/"
+		"soundmark": "/wi/ /wɪl/ /bi/ /'wɝkɪŋ/ /ɑn/ /ə/ /nu/ /ˈprɑdʒɛkt/ /nɛkst/ /wik/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"冠词"
+			],
+			[
+				6,
+				6,
+				"形容词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			],
+			[
+				8,
+				8,
+				"形容词"
+			],
+			[
+				9,
+				9,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				9,
+				"宾语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "它；那件事",
 		"english": "it",
-		"soundmark": "/ɪt/"
+		"soundmark": "/ɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我们下周将会正在在那件事上工作",
 		"english": "we will be working on it next week",
-		"soundmark": "/wi/ /wɪl/ /bi/ /'wɝkɪŋ/ /ɑn/ /ɪt/ /nɛkst/ /wik/"
+		"soundmark": "/wi/ /wɪl/ /bi/ /'wɝkɪŋ/ /ɑn/ /ɪt/ /nɛkst/ /wik/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"形容词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				7,
+				"宾语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我(现在)正在在那件事上工作",
 		"english": "I am working on it",
-		"soundmark": "/aɪ/ /æm/ /'wɝkɪŋ/ /ɑn/ /ɪt/"
+		"soundmark": "/aɪ/ /æm/ /'wɝkɪŋ/ /ɑn/ /ɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				4,
+				"宾语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "寻找",
 		"english": "to look for",
-		"soundmark": "/tə/ /lʊk/ /fɝ/"
+		"soundmark": "/tə/ /lʊk/ /fɝ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "寻找(ing形式)",
 		"english": "looking for",
-		"soundmark": "/ˈlʊkɪŋ/ /fɝ/"
+		"soundmark": "/ˈlʊkɪŋ/ /fɝ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"介词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"谓语",
+				"VP"
+			],
+			[
+				1,
+				1,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "是；赋值(原型)",
 		"english": "be",
-		"soundmark": "/bi/"
+		"soundmark": "/bi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "正在寻找",
 		"english": "be looking for",
-		"soundmark": "/bi/ /ˈlʊkɪŋ/ /fɝ/"
+		"soundmark": "/bi/ /ˈlʊkɪŋ/ /fɝ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "她",
 		"english": "she",
-		"soundmark": "/ʃi/"
+		"soundmark": "/ʃi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "她(现在)正在寻找",
 		"english": "she is looking for",
-		"soundmark": "/ʃi/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/"
+		"soundmark": "/ʃi/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				3,
+				"宾语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "她的",
 		"english": "her",
-		"soundmark": "/hɚ/"
+		"soundmark": "/hɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "玩具",
 		"english": "toy",
-		"soundmark": "/tɔɪ/"
+		"soundmark": "/tɔɪ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "她的玩具",
 		"english": "her toy",
-		"soundmark": "/hɚ/ /tɔɪ/"
+		"soundmark": "/hɚ/ /tɔɪ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "她(现在)正在寻找她的玩具",
 		"english": "she is looking for her toy",
-		"soundmark": "/ʃi/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/"
+		"soundmark": "/ʃi/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				5,
+				"宾语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我的",
 		"english": "my",
-		"soundmark": "/maɪ/"
+		"soundmark": "/maɪ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "女儿",
 		"english": "daughter",
-		"soundmark": "/'dɔtɚ/"
+		"soundmark": "/'dɔtɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我的女儿",
 		"english": "my daughter",
-		"soundmark": "/maɪ/ /'dɔtɚ/"
+		"soundmark": "/maɪ/ /'dɔtɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我的女儿(现在)正在寻找她的玩具",
 		"english": "my daughter is looking for her toy",
-		"soundmark": "/maɪ/ /'dɔtɚ/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/"
+		"soundmark": "/maɪ/ /'dɔtɚ/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				6,
+				"宾语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "找到",
 		"english": "to find",
-		"soundmark": "/tə/ /faɪnd/"
+		"soundmark": "/tə/ /faɪnd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "她的玩具",
 		"english": "her toy",
-		"soundmark": "/hɚ/ /tɔɪ/"
+		"soundmark": "/hɚ/ /tɔɪ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "找到她的玩具",
 		"english": "to find her toy",
-		"soundmark": "/tə/ /faɪnd/ /hɚ/ /tɔɪ/"
+		"soundmark": "/tə/ /faɪnd/ /hɚ/ /tɔɪ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我的女儿",
 		"english": "my daughter",
-		"soundmark": "/maɪ/ /'dɔtɚ/"
+		"soundmark": "/maɪ/ /'dɔtɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我的女儿找到她的玩具",
 		"english": "my daughter finds her toy",
-		"soundmark": "/maɪ/ /'dɔtɚ/ /faɪndz/ /hɚ/ /tɔɪ/"
+		"soundmark": "/maɪ/ /'dɔtɚ/ /faɪndz/ /hɚ/ /tɔɪ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				2,
+				"主语",
+				"NP"
+			],
+			[
+				3,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "能",
 		"english": "can",
-		"soundmark": "/kæn/"
+		"soundmark": "/kæn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我的女儿可以找到她的玩具",
 		"english": "my daughter can find her toy",
-		"soundmark": "/maɪ/ /'dɔtɚ/ /kæn/ /faɪnd/ /hɚ/ /tɔɪ/"
+		"soundmark": "/maɪ/ /'dɔtɚ/ /kæn/ /faɪnd/ /hɚ/ /tɔɪ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"情态动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				5,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "不能",
 		"english": "can't",
-		"soundmark": "/kænt/"
+		"soundmark": "/kænt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			],
+			[
+				1,
+				1,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我的女儿不能找到她的玩具",
 		"english": "my daughter can't find her toy",
-		"soundmark": "/maɪ/ /'dɔtɚ/ /kænt/ /faɪnd/ /hɚ/ /tɔɪ/"
+		"soundmark": "/maɪ/ /'dɔtɚ/ /kænt/ /faɪnd/ /hɚ/ /tɔɪ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"情态动词"
+			],
+			[
+				3,
+				3,
+				"副词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				4,
+				"谓语",
+				"VP"
+			],
+			[
+				5,
+				6,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "但是",
 		"english": "but",
-		"soundmark": "/bʌt/"
+		"soundmark": "/bʌt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"连词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "但是我的女儿不能找到她的玩具",
 		"english": "but my daughter can't find her toy",
-		"soundmark": "/bʌt/ /maɪ/ /'dɔtɚ/ /kænt/ /faɪnd/ /hɚ/ /tɔɪ/"
+		"soundmark": "/bʌt/ /maɪ/ /'dɔtɚ/ /kænt/ /faɪnd/ /hɚ/ /tɔɪ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"连词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"情态动词"
+			],
+			[
+				4,
+				4,
+				"副词"
+			],
+			[
+				5,
+				5,
+				"动词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我的女儿(现在)正在寻找她的玩具",
 		"english": "my daughter is looking for her toy",
-		"soundmark": "/maɪ/ /'dɔtɚ/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/"
+		"soundmark": "/maɪ/ /'dɔtɚ/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				6,
+				"宾语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我的女儿(现在)正在寻找她的玩具但是我的女儿不能找到她的玩具",
 		"english": "my daughter is looking for her toy but my daughter can't find her toy",
-		"soundmark": "/maɪ/ /'dɔtɚ/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/ /bʌt/ /maɪ/ /'dɔtɚ/ /kænt/ /faɪnd/ /hɚ/ /tɔɪ/"
+		"soundmark": "/maɪ/ /'dɔtɚ/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/ /bʌt/ /maɪ/ /'dɔtɚ/ /kænt/ /faɪnd/ /hɚ/ /tɔɪ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			],
+			[
+				7,
+				7,
+				"连词"
+			],
+			[
+				8,
+				8,
+				"代词"
+			],
+			[
+				9,
+				9,
+				"名词"
+			],
+			[
+				10,
+				10,
+				"情态动词"
+			],
+			[
+				11,
+				11,
+				"副词"
+			],
+			[
+				12,
+				12,
+				"动词"
+			],
+			[
+				13,
+				13,
+				"代词"
+			],
+			[
+				14,
+				14,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				14,
+				"宾语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "她",
 		"english": "she",
-		"soundmark": "/ʃi/"
+		"soundmark": "/ʃi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "它",
 		"english": "it",
-		"soundmark": "/ɪt/"
+		"soundmark": "/ɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "但是她不能找到它",
 		"english": "but she can't find it",
-		"soundmark": "/bʌt/ /ʃi/ /kænt/ /faɪnd/ /ɪt/"
+		"soundmark": "/bʌt/ /ʃi/ /kænt/ /faɪnd/ /ɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"连词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"情态动词"
+			],
+			[
+				3,
+				3,
+				"副词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我的女儿(现在)正在寻找她的玩具但是她不能找到它",
 		"english": "my daughter is looking for her toy but she can't find it",
-		"soundmark": "/maɪ/ /'dɔtɚ/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/ /bʌt/ /ʃi/ /kænt/ /faɪnd/ /ɪt/"
+		"soundmark": "/maɪ/ /'dɔtɚ/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/ /bʌt/ /ʃi/ /kænt/ /faɪnd/ /ɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			],
+			[
+				7,
+				7,
+				"连词"
+			],
+			[
+				8,
+				8,
+				"代词"
+			],
+			[
+				9,
+				9,
+				"情态动词"
+			],
+			[
+				10,
+				10,
+				"副词"
+			],
+			[
+				11,
+				11,
+				"动词"
+			],
+			[
+				12,
+				12,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				12,
+				"宾语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我的女儿(过去)正在寻找她的玩具",
 		"english": "my daughter was looking for her toy",
-		"soundmark": "/maɪ/ /'dɔtɚ/ /wəz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/"
+		"soundmark": "/maɪ/ /'dɔtɚ/ /wəz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				6,
+				"宾语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "但是她(过去)不能找到它",
 		"english": "but she couldn't find it",
-		"soundmark": "/bʌt/ /ʃi/ /kʊdnt/ /faɪnd/ /ɪt/"
+		"soundmark": "/bʌt/ /ʃi/ /kʊdnt/ /faɪnd/ /ɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"连词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"情态动词"
+			],
+			[
+				3,
+				3,
+				"副词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我的女儿(过去)正在寻找她的玩具但是她(过去)不能找到它",
 		"english": "my daughter was looking for her toy but she couldn't find it",
-		"soundmark": "/maɪ/ /'dɔtɚ/ /wəz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/ /bʌt/ /ʃi/ /kʊdnt/ /faɪnd/ /ɪt/"
+		"soundmark": "/maɪ/ /'dɔtɚ/ /wəz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/ /bʌt/ /ʃi/ /kʊdnt/ /faɪnd/ /ɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			],
+			[
+				7,
+				7,
+				"连词"
+			],
+			[
+				8,
+				8,
+				"代词"
+			],
+			[
+				9,
+				9,
+				"情态动词"
+			],
+			[
+				10,
+				10,
+				"副词"
+			],
+			[
+				11,
+				11,
+				"动词"
+			],
+			[
+				12,
+				12,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				12,
+				"宾语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "听见；听说",
 		"english": "to hear",
-		"soundmark": "/tə/ /hɪr/"
+		"soundmark": "/tə/ /hɪr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我",
 		"english": "me",
-		"soundmark": "/mi/"
+		"soundmark": "/mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "听见我",
 		"english": "to hear me",
-		"soundmark": "/tə/ /hɪr/ /mi/"
+		"soundmark": "/tə/ /hɪr/ /mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你",
 		"english": "you",
-		"soundmark": "/ju/"
+		"soundmark": "/ju/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "你听见我",
 		"english": "you hear me",
-		"soundmark": "/ju/ /hɪr/ /mi/"
+		"soundmark": "/ju/ /hɪr/ /mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "可以",
 		"english": "can",
-		"soundmark": "/kæn/"
+		"soundmark": "/kæn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "你可以听见我",
 		"english": "you can hear me",
-		"soundmark": "/ju/ /kæn/ /hɪr/ /mi/"
+		"soundmark": "/ju/ /kæn/ /hɪr/ /mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "是否",
 		"english": "if",
-		"soundmark": "/ɪf/"
+		"soundmark": "/ɪf/",
+		"posTags": [
+			[
+				0,
+				0,
+				"连词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "是否你可以听见我",
 		"english": "if you can hear me",
-		"soundmark": "/ɪf/ /ju/ /kæn/ /hɪr/ /mi/"
+		"soundmark": "/ɪf/ /ju/ /kæn/ /hɪr/ /mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"连词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"情态动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我想要",
 		"english": "I want",
-		"soundmark": "/aɪ/ /wɑnt/"
+		"soundmark": "/aɪ/ /wɑnt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "知道",
 		"english": "to know",
-		"soundmark": "/tə/ /no/"
+		"soundmark": "/tə/ /no/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我想要知道",
 		"english": "I want to know",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /no/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /no/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我想要知道是否你可以听见我",
 		"english": "I want to know if you can hear me",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /no/ /ɪf/ /ju/ /kæn/ /hɪr/ /mi/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /no/ /ɪf/ /ju/ /kæn/ /hɪr/ /mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"连词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"情态动词"
+			],
+			[
+				7,
+				7,
+				"动词"
+			],
+			[
+				8,
+				8,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我知道",
 		"english": "I know",
-		"soundmark": "/aɪ/ /no/"
+		"soundmark": "/aɪ/ /no/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我知道你可以听见我",
 		"english": "I know you can hear me",
-		"soundmark": "/aɪ/ /no/ /ju/ /kæn/ /hɪr/ /mi/"
+		"soundmark": "/aɪ/ /no/ /ju/ /kæn/ /hɪr/ /mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"情态动词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你可以听见我",
 		"english": "you can hear me",
-		"soundmark": "/ju/ /kæn/ /hɪr/ /mi/"
+		"soundmark": "/ju/ /kæn/ /hɪr/ /mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你可以听见我吗？",
 		"english": "can you hear me",
-		"soundmark": "/kæn/ /ju/ /hɪr/ /mi/"
+		"soundmark": "/kæn/ /ju/ /hɪr/ /mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				1,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				0,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "音乐",
 		"english": "music",
-		"soundmark": "/'mjuzɪk/"
+		"soundmark": "/'mjuzɪk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "你可以听见音乐",
 		"english": "you can hear music",
-		"soundmark": "/ju/ /kæn/ /hɪr/ /'mjuzɪk/"
+		"soundmark": "/ju/ /kæn/ /hɪr/ /'mjuzɪk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "一些",
 		"english": "some",
-		"soundmark": "/səm/"
+		"soundmark": "/səm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "你可以听见一些音乐",
 		"english": "you can hear some music",
-		"soundmark": "/ju/ /kæn/ /hɪr/ /səm/ /'mjuzɪk/"
+		"soundmark": "/ju/ /kæn/ /hɪr/ /səm/ /'mjuzɪk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "听",
 		"english": "to listen",
-		"soundmark": "/tə/ /'lɪsn/"
+		"soundmark": "/tə/ /'lɪsn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我想要",
 		"english": "I want",
-		"soundmark": "/aɪ/ /wɑnt/"
+		"soundmark": "/aɪ/ /wɑnt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我想要听",
 		"english": "I want to listen",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /'lɪsn/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /'lɪsn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我听",
 		"english": "I listen",
-		"soundmark": "/aɪ/ /'lɪsn/"
+		"soundmark": "/aɪ/ /'lɪsn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "听(ing形式)",
 		"english": "listening",
-		"soundmark": "/ˈlɪsnɪŋ/"
+		"soundmark": "/ˈlɪsnɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我(现在)正在听",
 		"english": "I am listening",
-		"soundmark": "/aɪ/ /æm/ /ˈlɪsnɪŋ/"
+		"soundmark": "/aɪ/ /æm/ /ˈlɪsnɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "音乐",
 		"english": "music",
-		"soundmark": "/'mjuzɪk/"
+		"soundmark": "/'mjuzɪk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我(现在)正在听音乐",
 		"english": "I am listening to music",
-		"soundmark": "/aɪ/ /æm/ /ˈlɪsnɪŋ/ /tə/ /'mjuzɪk/"
+		"soundmark": "/aɪ/ /æm/ /ˈlɪsnɪŋ/ /tə/ /'mjuzɪk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				4,
+				"宾语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "她",
 		"english": "she",
-		"soundmark": "/ʃi/"
+		"soundmark": "/ʃi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "她(现在)正在听音乐",
 		"english": "she is listening to music",
-		"soundmark": "/ʃi/ /ɪz/ /ˈlɪsnɪŋ/ /tə/ /'mjuzɪk/"
+		"soundmark": "/ʃi/ /ɪz/ /ˈlɪsnɪŋ/ /tə/ /'mjuzɪk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				4,
+				"宾语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "她(过去)正在听音乐",
 		"english": "she was listening to music",
-		"soundmark": "/ʃi/ /wəz/ /ˈlɪsnɪŋ/ /tə/ /'mjuzɪk/"
+		"soundmark": "/ʃi/ /wəz/ /ˈlɪsnɪŋ/ /tə/ /'mjuzɪk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				4,
+				"宾语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我",
 		"english": "I",
-		"soundmark": "/aɪ/"
+		"soundmark": "/aɪ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我(过去)正在听音乐",
 		"english": "I was listening to music",
-		"soundmark": "/aɪ/ /wəz/ /ˈlɪsnɪŋ/ /tə/ /'mjuzɪk/"
+		"soundmark": "/aɪ/ /wəz/ /ˈlɪsnɪŋ/ /tə/ /'mjuzɪk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				4,
+				"宾语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "一些",
 		"english": "some",
-		"soundmark": "/səm/"
+		"soundmark": "/səm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我(过去)正在听一些音乐",
 		"english": "I was listening to some music",
-		"soundmark": "/aɪ/ /wəz/ /ˈlɪsnɪŋ/ /tə/ /səm/ /'mjuzɪk/"
+		"soundmark": "/aɪ/ /wəz/ /ˈlɪsnɪŋ/ /tə/ /səm/ /'mjuzɪk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				5,
+				"宾语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "你(现在)正在听",
 		"english": "you are listening",
-		"soundmark": "/ju/ /ɚ/ /ˈlɪsnɪŋ/"
+		"soundmark": "/ju/ /ɚ/ /ˈlɪsnɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "你(现在)正在听音乐",
 		"english": "you are listening to music",
-		"soundmark": "/ju/ /ɚ/ /ˈlɪsnɪŋ/ /tə/ /'mjuzɪk/"
+		"soundmark": "/ju/ /ɚ/ /ˈlɪsnɪŋ/ /tə/ /'mjuzɪk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				4,
+				"宾语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "你听",
 		"english": "you listen",
-		"soundmark": "/ju/ /'lɪsn/"
+		"soundmark": "/ju/ /'lɪsn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "认真地",
 		"english": "carefully",
-		"soundmark": "/'kɛrfəli/"
+		"soundmark": "/'kɛrfəli/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "你认真地听",
 		"english": "you listen carefully",
-		"soundmark": "/ju/ /'lɪsn/ /'kɛrfəli/"
+		"soundmark": "/ju/ /'lɪsn/ /'kɛrfəli/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"ADVP"
+			]
+		]
 	},
 	{
 		"chinese": "如果",
 		"english": "if",
-		"soundmark": "/ɪf/"
+		"soundmark": "/ɪf/",
+		"posTags": [
+			[
+				0,
+				0,
+				"连词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "如果你认真地听",
 		"english": "if you listen carefully",
-		"soundmark": "/ɪf/ /ju/ /'lɪsn/ /'kɛrfəli/"
+		"soundmark": "/ɪf/ /ju/ /'lɪsn/ /'kɛrfəli/",
+		"posTags": [
+			[
+				0,
+				0,
+				"连词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你可以听到一些音乐",
 		"english": "you can hear some music",
-		"soundmark": "/ju/ /kæn/ /hɪr/ /səm/ /'mjuzɪk/"
+		"soundmark": "/ju/ /kæn/ /hɪr/ /səm/ /'mjuzɪk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "如果你认真地听你可以听到一些音乐",
 		"english": "if you listen carefully you can hear some music",
-		"soundmark": "/ɪf/ /ju/ /'lɪsn/ /'kɛrfəli/ /ju/ /kæn/ /hɪr/ /səm/ /'mjuzɪk/"
+		"soundmark": "/ɪf/ /ju/ /'lɪsn/ /'kɛrfəli/ /ju/ /kæn/ /hɪr/ /səm/ /'mjuzɪk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"连词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"副词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"情态动词"
+			],
+			[
+				6,
+				6,
+				"动词"
+			],
+			[
+				7,
+				7,
+				"代词"
+			],
+			[
+				8,
+				8,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "这段音乐",
 		"english": "the music",
-		"soundmark": "/ðə/ /'mjuzɪk/"
+		"soundmark": "/ðə/ /'mjuzɪk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "如果你认真地听这段音乐",
 		"english": "if you listen to the music carefully",
-		"soundmark": "/ɪf/ /ju/ /'lɪsn/ /tə/ /ðə/ /'mjuzɪk/ /'kɛrfəli/"
+		"soundmark": "/ɪf/ /ju/ /'lɪsn/ /tə/ /ðə/ /'mjuzɪk/ /'kɛrfəli/",
+		"posTags": [
+			[
+				0,
+				0,
+				"连词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "吉他",
 		"english": "guitar",
-		"soundmark": "/ɡɪ'tɑr/"
+		"soundmark": "/ɡɪ'tɑr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "一把吉他",
 		"english": "a guitar",
-		"soundmark": "/ə/ /ɡɪ'tɑr/"
+		"soundmark": "/ə/ /ɡɪ'tɑr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你可以听见",
 		"english": "you can hear",
-		"soundmark": "/ju/ /kæn/ /hɪr/"
+		"soundmark": "/ju/ /kæn/ /hɪr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "你可以听见一把吉他",
 		"english": "you can hear a guitar",
-		"soundmark": "/ju/ /kæn/ /hɪr/ /ə/ /ɡɪ'tɑr/"
+		"soundmark": "/ju/ /kæn/ /hɪr/ /ə/ /ɡɪ'tɑr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "后面的",
 		"english": "back",
-		"soundmark": "/bæk/"
+		"soundmark": "/bæk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "场地",
 		"english": "ground",
-		"soundmark": "/ɡraʊnd/"
+		"soundmark": "/ɡraʊnd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "背景",
 		"english": "background",
-		"soundmark": "/'bækɡraʊnd/"
+		"soundmark": "/'bækɡraʊnd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "在背景里",
 		"english": "in the background",
-		"soundmark": "/ɪn/ /ðə/ /'bækɡraʊnd/"
+		"soundmark": "/ɪn/ /ðə/ /'bækɡraʊnd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"冠词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你可以听见一把吉他在背景里",
 		"english": "you can hear a guitar in the background",
-		"soundmark": "/ju/ /kæn/ /hɪr/ /ə/ /ɡɪ'tɑr/ /ɪn/ /ðə/ /background/ /'bækɡraʊnd/"
+		"soundmark": "/ju/ /kæn/ /hɪr/ /ə/ /ɡɪ'tɑr/ /ɪn/ /ðə/ /background/ /'bækɡraʊnd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"冠词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				4,
+				"宾语",
+				"NP"
+			],
+			[
+				5,
+				7,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "如果你认真地听这段音乐你可以听见一把吉他在背景里",
 		"english": "if you listen to the music carefully you can hear a guitar in the background",
-		"soundmark": "/ɪf/ /ju/ /'lɪsn/ /tə/ /ðə/ /'mjuzɪk/ /'kɛrfəli/ /ju/ /kæn/ /hɪr/ /ə/ /ɡɪ'tɑr/ /ɪn/ /ðə/ /'bækɡraʊnd/"
+		"soundmark": "/ɪf/ /ju/ /'lɪsn/ /tə/ /ðə/ /'mjuzɪk/ /'kɛrfəli/ /ju/ /kæn/ /hɪr/ /ə/ /ɡɪ'tɑr/ /ɪn/ /ðə/ /'bækɡraʊnd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"连词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"副词"
+			],
+			[
+				7,
+				7,
+				"代词"
+			],
+			[
+				8,
+				8,
+				"情态动词"
+			],
+			[
+				9,
+				9,
+				"动词"
+			],
+			[
+				10,
+				10,
+				"冠词"
+			],
+			[
+				11,
+				11,
+				"名词"
+			],
+			[
+				12,
+				12,
+				"介词"
+			],
+			[
+				13,
+				13,
+				"冠词"
+			],
+			[
+				14,
+				14,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你认真地听",
 		"english": "you listen carefully",
-		"soundmark": "/ju/ /'lɪsn/ /'kɛrfəli/"
+		"soundmark": "/ju/ /'lɪsn/ /'kɛrfəli/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"ADVP"
+			]
+		]
 	},
 	{
 		"chinese": "不",
 		"english": "don't",
-		"soundmark": "/dont/"
+		"soundmark": "/dont/",
+		"posTags": [
+			[
+				0,
+				0,
+				"助动词"
+			],
+			[
+				1,
+				1,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "你不认真地听",
 		"english": "you don't listen carefully",
-		"soundmark": "/ju/ /dont/ /'lɪsn/ /'kɛrfəli/"
+		"soundmark": "/ju/ /dont/ /'lɪsn/ /'kɛrfəli/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				4,
+				"状语",
+				"ADVP"
+			]
+		]
 	},
 	{
 		"chinese": "如果",
 		"english": "if",
-		"soundmark": "/ɪf/"
+		"soundmark": "/ɪf/",
+		"posTags": [
+			[
+				0,
+				0,
+				"连词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "如果你不认真地听",
 		"english": "if you don't listen carefully",
-		"soundmark": "/ɪf/ /ju/ /dont/ /'lɪsn/ /'kɛrfəli/"
+		"soundmark": "/ɪf/ /ju/ /dont/ /'lɪsn/ /'kɛrfəli/",
+		"posTags": [
+			[
+				0,
+				0,
+				"连词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"助动词"
+			],
+			[
+				3,
+				3,
+				"副词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "听见",
 		"english": "to hear",
-		"soundmark": "/tə/ /hɪr/"
+		"soundmark": "/tə/ /hɪr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "你",
 		"english": "you",
-		"soundmark": "/ju/"
+		"soundmark": "/ju/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "你将会听见",
 		"english": "you will hear",
-		"soundmark": "/ju/ /wɪl/ /hɪr/"
+		"soundmark": "/ju/ /wɪl/ /hɪr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "东西",
 		"english": "thing",
-		"soundmark": "/θɪŋ/"
+		"soundmark": "/θɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "没有东西",
 		"english": "nothing",
-		"soundmark": "/'nʌθɪŋ/"
+		"soundmark": "/'nʌθɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "你将会听见没有东西",
 		"english": "you will hear nothing",
-		"soundmark": "/ju/ /wɪl/ /hɪr/ /'nʌθɪŋ/"
+		"soundmark": "/ju/ /wɪl/ /hɪr/ /'nʌθɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "如果你不认真地听",
 		"english": "if you don't listen carefully",
-		"soundmark": "/ɪf/ /ju/ /dont/ /'lɪsn/ /'kɛrfəli/"
+		"soundmark": "/ɪf/ /ju/ /dont/ /'lɪsn/ /'kɛrfəli/",
+		"posTags": [
+			[
+				0,
+				0,
+				"连词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"助动词"
+			],
+			[
+				3,
+				3,
+				"副词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "如果你不认真地听你将会什么都听不到",
 		"english": "if you don't listen carefully you will hear nothing",
-		"soundmark": "/ɪf/ /ju/ /dont/ /'lɪsn/ /'kɛrfəli/ /ju/ /wɪl/ /hɪr/ /'nʌθɪŋ/"
+		"soundmark": "/ɪf/ /ju/ /dont/ /'lɪsn/ /'kɛrfəli/ /ju/ /wɪl/ /hɪr/ /'nʌθɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"连词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"助动词"
+			],
+			[
+				3,
+				3,
+				"副词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"副词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"情态动词"
+			],
+			[
+				8,
+				8,
+				"动词"
+			],
+			[
+				9,
+				9,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	}
 ]

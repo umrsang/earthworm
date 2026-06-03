@@ -2,751 +2,5083 @@
 	{
 		"chinese": "手",
 		"english": "hand",
-		"soundmark": "/hænd/"
+		"soundmark": "/hænd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "递给",
 		"english": "to hand",
-		"soundmark": "/tə/ /hænd/"
+		"soundmark": "/tə/ /hænd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "握；牵",
 		"english": "to hold",
-		"soundmark": "/tə/ /hold/"
+		"soundmark": "/tə/ /hold/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "手",
 		"english": "hand",
-		"soundmark": "/hænd/"
+		"soundmark": "/hænd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我的",
 		"english": "my",
-		"soundmark": "/maɪ/"
+		"soundmark": "/maɪ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我的手",
 		"english": "my hand",
-		"soundmark": "/maɪ/ /hænd/"
+		"soundmark": "/maɪ/ /hænd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "牵我的手",
 		"english": "to hold my hand",
-		"soundmark": "/tə/ /hold/ /maɪ/ /hænd/"
+		"soundmark": "/tə/ /hold/ /maɪ/ /hænd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "想要",
 		"english": "want",
-		"soundmark": "/wɑnt/"
+		"soundmark": "/wɑnt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我想要你",
 		"english": "I want you",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/"
+		"soundmark": "/aɪ/ /wɑnt/ /ju/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "牵我的手",
 		"english": "to hold my hand",
-		"soundmark": "/tə/ /hold/ /maɪ/ /hænd/"
+		"soundmark": "/tə/ /hold/ /maɪ/ /hænd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我想要你牵我的手",
 		"english": "I want you to hold my hand",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /hold/ /maɪ/ /hænd/"
+		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /hold/ /maɪ/ /hænd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			],
+			[
+				3,
+				3,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "握；牵",
 		"english": "to hold",
-		"soundmark": "/tə/ /hold/"
+		"soundmark": "/tə/ /hold/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "牵（ing形式）",
 		"english": "holding",
-		"soundmark": "/'holdɪŋ/"
+		"soundmark": "/'holdɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "是；赋值(原型)",
 		"english": "be",
-		"soundmark": "/bi/"
+		"soundmark": "/bi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "正在牵着",
 		"english": "be holding",
-		"soundmark": "/bi/ /'holdɪŋ/"
+		"soundmark": "/bi/ /'holdɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我",
 		"english": "I",
-		"soundmark": "/aɪ/"
+		"soundmark": "/aɪ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我（现在）正在牵着",
 		"english": "I am holding",
-		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/"
+		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "你的",
 		"english": "your",
-		"soundmark": "/jʊr/"
+		"soundmark": "/jʊr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "你的手",
 		"english": "your hand",
-		"soundmark": "/jʊr/ /hænd/"
+		"soundmark": "/jʊr/ /hænd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我（现在）正在牵着你的手",
 		"english": "I am holding your hand",
-		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/ /jʊr/ /hænd/"
+		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/ /jʊr/ /hænd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "刀",
 		"english": "knife",
-		"soundmark": "/naɪf/"
+		"soundmark": "/naɪf/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我（现在）正在握着",
 		"english": "I am holding",
-		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/"
+		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我（现在）正在握着一把刀",
 		"english": "I am holding a knife",
-		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /naɪf/"
+		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /naɪf/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我的手",
 		"english": "my hand",
-		"soundmark": "/maɪ/ /hænd/"
+		"soundmark": "/maɪ/ /hænd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在......里",
 		"english": "in",
-		"soundmark": "/ɪn/"
+		"soundmark": "/ɪn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "在我的手里",
 		"english": "in my hand",
-		"soundmark": "/ɪn/ /maɪ/ /hænd/"
+		"soundmark": "/ɪn/ /maɪ/ /hænd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我（现在）正在在我的手里握着一把刀",
 		"english": "I am holding a knife in my hand",
-		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /naɪf/ /ɪn/ /maɪ/ /hænd/"
+		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /naɪf/ /ɪn/ /maɪ/ /hænd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				4,
+				"宾语",
+				"NP"
+			],
+			[
+				5,
+				7,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "右",
 		"english": "right",
-		"soundmark": "/raɪt/"
+		"soundmark": "/raɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "右手",
 		"english": "right hand",
-		"soundmark": "/raɪt/ /hænd/"
+		"soundmark": "/raɪt/ /hænd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在我的右手里",
 		"english": "in my right hand",
-		"soundmark": "/ɪn/ /maɪ/ /raɪt/ /hænd/"
+		"soundmark": "/ɪn/ /maɪ/ /raɪt/ /hænd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我（现在）正在握着一把刀",
 		"english": "I am holding a knife",
-		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /naɪf/"
+		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /naɪf/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我（现在）正在在我的右手里握着一把刀",
 		"english": "I am holding a knife in my right hand",
-		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /naɪf/ /ɪn/ /maɪ/ /raɪt/ /hænd/"
+		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /naɪf/ /ɪn/ /maɪ/ /raɪt/ /hænd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			],
+			[
+				8,
+				8,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				4,
+				"宾语",
+				"NP"
+			],
+			[
+				5,
+				8,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "叉子",
 		"english": "fork",
-		"soundmark": "/fɔrk/"
+		"soundmark": "/fɔrk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我（现在）正在握着",
 		"english": "I am holding",
-		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/"
+		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我（现在）正在握着一把叉子",
 		"english": "I am holding a fork",
-		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /fɔrk/"
+		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /fɔrk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在我的手里",
 		"english": "in my hand",
-		"soundmark": "/ɪn/ /maɪ/ /hænd/"
+		"soundmark": "/ɪn/ /maɪ/ /hænd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "左",
 		"english": "left",
-		"soundmark": "/lɛft/"
+		"soundmark": "/lɛft/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "在我的左手里",
 		"english": "in my left hand",
-		"soundmark": "/ɪn/ /maɪ/ /lɛft/ /hænd/"
+		"soundmark": "/ɪn/ /maɪ/ /lɛft/ /hænd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我（现在）正在握着一把叉子",
 		"english": "I am holding a fork",
-		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /fɔrk/"
+		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /fɔrk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我（现在）正在在我的左手里握着一把叉子",
 		"english": "I am holding a fork in my left hand",
-		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /fɔrk/ /ɪn/ /maɪ/ /lɛft/ /hænd/"
+		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /fɔrk/ /ɪn/ /maɪ/ /lɛft/ /hænd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			],
+			[
+				8,
+				8,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				4,
+				"宾语",
+				"NP"
+			],
+			[
+				5,
+				8,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "人",
 		"english": "people",
-		"soundmark": "/'pipl/"
+		"soundmark": "/'pipl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "四个",
 		"english": "four",
-		"soundmark": "/fɔr/"
+		"soundmark": "/fɔr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"数词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "四个人",
 		"english": "four people",
-		"soundmark": "/fɔr/ /'pipl/"
+		"soundmark": "/fɔr/ /'pipl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"数词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "汽车",
 		"english": "car",
-		"soundmark": "/kɑr/"
+		"soundmark": "/kɑr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "这辆车",
 		"english": "this car",
-		"soundmark": "/ðɪs/ /kɑr/"
+		"soundmark": "/ðɪs/ /kɑr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "握；容纳",
 		"english": "to hold",
-		"soundmark": "/tə/ /hold/"
+		"soundmark": "/tə/ /hold/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "容纳四个人",
 		"english": "to hold four people",
-		"soundmark": "/tə/ /hold/ /fɔr/ /'pipl/"
+		"soundmark": "/tə/ /hold/ /fɔr/ /'pipl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"数词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "可以",
 		"english": "can",
-		"soundmark": "/kæn/"
+		"soundmark": "/kæn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "这辆汽车可以容纳四个人",
 		"english": "this car can hold four people",
-		"soundmark": "/ðɪs/ /kɑr/ /kæn/ /hold/ /fɔr/ /'pipl/"
+		"soundmark": "/ðɪs/ /kɑr/ /kæn/ /hold/ /fɔr/ /'pipl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"情态动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"数词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				5,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "不可以",
 		"english": "can't",
-		"soundmark": "/kænt/"
+		"soundmark": "/kænt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			],
+			[
+				1,
+				1,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "这辆汽车不可以容纳四个人",
 		"english": "this car can't hold four people",
-		"soundmark": "/ðɪs/ /kɑr/ /kænt/ /hold/ /fɔr/ /'pipl/"
+		"soundmark": "/ðɪs/ /kɑr/ /kænt/ /hold/ /fɔr/ /'pipl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"情态动词"
+			],
+			[
+				3,
+				3,
+				"副词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"数词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				4,
+				"谓语",
+				"VP"
+			],
+			[
+				5,
+				6,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "人",
 		"english": "people",
-		"soundmark": "/'pipl/"
+		"soundmark": "/'pipl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "十个",
 		"english": "ten",
-		"soundmark": "/tɛn/"
+		"soundmark": "/tɛn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"数词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "十个人",
 		"english": "ten people",
-		"soundmark": "/tɛn/ /'pipl/"
+		"soundmark": "/tɛn/ /'pipl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"数词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "握；容纳",
 		"english": "to hold",
-		"soundmark": "/tə/ /hold/"
+		"soundmark": "/tə/ /hold/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "容纳十个人",
 		"english": "to hold ten people",
-		"soundmark": "/tə/ /hold/ /tɛn/ /'pipl/"
+		"soundmark": "/tə/ /hold/ /tɛn/ /'pipl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"数词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "房间",
 		"english": "room",
-		"soundmark": "/rum/"
+		"soundmark": "/rum/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "这个房间",
 		"english": "this room",
-		"soundmark": "/ðɪs/ /rum/"
+		"soundmark": "/ðɪs/ /rum/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "可以",
 		"english": "can",
-		"soundmark": "/kæn/"
+		"soundmark": "/kæn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "这个房间可以容纳十个人",
 		"english": "this room can hold ten people",
-		"soundmark": "/ðɪs/ /rum/ /kæn/ /hold/ /tɛn/ /'pipl/"
+		"soundmark": "/ðɪs/ /rum/ /kæn/ /hold/ /tɛn/ /'pipl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"情态动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"数词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				5,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "不可以",
 		"english": "can't",
-		"soundmark": "/kænt/"
+		"soundmark": "/kænt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			],
+			[
+				1,
+				1,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "这个房间不可以容纳十个人",
 		"english": "this room can't hold ten people",
-		"soundmark": "/ðɪs/ /rum/ /kænt/ /hold/ /tɛn/ /'pipl/"
+		"soundmark": "/ðɪs/ /rum/ /kænt/ /hold/ /tɛn/ /'pipl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"情态动词"
+			],
+			[
+				3,
+				3,
+				"副词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"数词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				4,
+				"谓语",
+				"VP"
+			],
+			[
+				5,
+				6,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "这个房间",
 		"english": "this room",
-		"soundmark": "/ðɪs/ /rum/"
+		"soundmark": "/ðɪs/ /rum/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "大的",
 		"english": "big",
-		"soundmark": "/bɪɡ/"
+		"soundmark": "/bɪɡ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "是",
 		"english": "is",
-		"soundmark": "/ɪz/"
+		"soundmark": "/ɪz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "这个房间是大的",
 		"english": "this room is big",
-		"soundmark": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/"
+		"soundmark": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"系动词",
+				"TP"
+			],
+			[
+				3,
+				3,
+				"表语",
+				"ADJP"
+			]
+		]
 	},
 	{
 		"chinese": "容纳十个人",
 		"english": "to hold ten people",
-		"soundmark": "/tə/ /hold/ /tɛn/ /'pipl/"
+		"soundmark": "/tə/ /hold/ /tɛn/ /'pipl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"数词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "足够",
 		"english": "enough",
-		"soundmark": "/ɪ'nʌf/"
+		"soundmark": "/ɪ'nʌf/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "足够容纳十个人",
 		"english": "enough to hold ten people",
-		"soundmark": "/ɪ'nʌf/ /tə/ /hold/ /tɛn/ /'pipl/"
+		"soundmark": "/ɪ'nʌf/ /tə/ /hold/ /tɛn/ /'pipl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			],
+			[
+				1,
+				1,
+				"介词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"数词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "这个房间是大的",
 		"english": "this room is big",
-		"soundmark": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/"
+		"soundmark": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"系动词",
+				"TP"
+			],
+			[
+				3,
+				3,
+				"表语",
+				"ADJP"
+			]
+		]
 	},
 	{
 		"chinese": "这个房间是大的（大到）足够容纳十个人",
 		"english": "this room is big enough to hold ten people",
-		"soundmark": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/ /ɪ'nʌf/ /tə/ /hold/ /tɛn/ /'pipl/"
+		"soundmark": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/ /ɪ'nʌf/ /tə/ /hold/ /tɛn/ /'pipl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			],
+			[
+				4,
+				4,
+				"副词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"动词"
+			],
+			[
+				7,
+				7,
+				"数词"
+			],
+			[
+				8,
+				8,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"系动词",
+				"TP"
+			],
+			[
+				3,
+				4,
+				"表语",
+				"ADJP"
+			],
+			[
+				5,
+				8,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "这个房间是足够大的",
 		"english": "this room is big enough",
-		"soundmark": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/ /ɪ'nʌf/"
+		"soundmark": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/ /ɪ'nʌf/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			],
+			[
+				4,
+				4,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"系动词",
+				"TP"
+			],
+			[
+				3,
+				4,
+				"表语",
+				"ADJP"
+			]
+		]
 	},
 	{
 		"chinese": "我们",
 		"english": "us",
-		"soundmark": "/ʌs/"
+		"soundmark": "/ʌs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "对......来说",
 		"english": "for",
-		"soundmark": "/fɝ/"
+		"soundmark": "/fɝ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "对我们来说",
 		"english": "for us",
-		"soundmark": "/fɝ/ /ʌs/"
+		"soundmark": "/fɝ/ /ʌs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "这个房间是足够大的对我们来说",
 		"english": "this room is big enough for us",
-		"soundmark": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/ /ɪ'nʌf/ /fɝ/ /ʌs/"
+		"soundmark": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/ /ɪ'nʌf/ /fɝ/ /ʌs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			],
+			[
+				4,
+				4,
+				"副词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"系动词",
+				"TP"
+			],
+			[
+				3,
+				4,
+				"表语",
+				"ADJP"
+			],
+			[
+				5,
+				6,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "遇见；碰面",
 		"english": "to meet",
-		"soundmark": "/tə/ /mit/"
+		"soundmark": "/tə/ /mit/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "碰面（ing形式）",
 		"english": "meeting",
-		"soundmark": "/'mitɪŋ/"
+		"soundmark": "/'mitɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "会议",
 		"english": "meeting",
-		"soundmark": "/'mitɪŋ/"
+		"soundmark": "/'mitɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "握；容纳；举行",
 		"english": "to hold",
-		"soundmark": "/tə/ /hold/"
+		"soundmark": "/tə/ /hold/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "举行一次会议",
 		"english": "to hold a meeting",
-		"soundmark": "/tə/ /hold/ /ə/ /'mitɪŋ/"
+		"soundmark": "/tə/ /hold/ /ə/ /'mitɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "决定",
 		"english": "to decide",
-		"soundmark": "/tə/ /dɪ'saɪd/"
+		"soundmark": "/tə/ /dɪ'saɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我们",
 		"english": "we",
-		"soundmark": "/wi/"
+		"soundmark": "/wi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我们决定",
 		"english": "we decide",
-		"soundmark": "/wi/ /dɪ'saɪd/"
+		"soundmark": "/wi/ /dɪ'saɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我们决定举行一次会议",
 		"english": "we decide to hold a meeting",
-		"soundmark": "/wi/ /dɪ'saɪd/ /tə/ /hold/ /ə/ /'mitɪŋ/"
+		"soundmark": "/wi/ /dɪ'saɪd/ /tə/ /hold/ /ə/ /'mitɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "在......里",
 		"english": "in",
-		"soundmark": "/ɪn/"
+		"soundmark": "/ɪn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "这个房间",
 		"english": "this room",
-		"soundmark": "/ðɪs/ /rum/"
+		"soundmark": "/ðɪs/ /rum/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在这个房间里",
 		"english": "in this room",
-		"soundmark": "/ɪn/ /ðɪs/ /rum/"
+		"soundmark": "/ɪn/ /ðɪs/ /rum/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我们决定在这个房间里举行一次会议",
 		"english": "we decide to hold a meeting in this room",
-		"soundmark": "/wi/ /dɪ'saɪd/ /tə/ /hold/ /ə/ /'mitɪŋ/ /ɪn/ /ðɪs/ /rum/"
+		"soundmark": "/wi/ /dɪ'saɪd/ /tə/ /hold/ /ə/ /'mitɪŋ/ /ɪn/ /ðɪs/ /rum/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"介词"
+			],
+			[
+				7,
+				7,
+				"代词"
+			],
+			[
+				8,
+				8,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "明天",
 		"english": "tomorrow",
-		"soundmark": "/tə'mɔro/"
+		"soundmark": "/tə'mɔro/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "早上",
 		"english": "morning",
-		"soundmark": "/'mɔrnɪŋ/"
+		"soundmark": "/'mɔrnɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "明天早上",
 		"english": "tomorrow morning",
-		"soundmark": "/tə'mɔro/ /'mɔrnɪŋ/"
+		"soundmark": "/tə'mɔro/ /'mɔrnɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我们决定明天早上在这个房间里举行一次会议",
 		"english": "we decide to hold a meeting in this room tomorrow morning",
-		"soundmark": "/wi/ /dɪ'saɪd/ /tə/ /hold/ /ə/ /'mitɪŋ/ /ɪn/ /ðɪs/ /rum/ /tə'mɔro/ /'mɔrnɪŋ/"
+		"soundmark": "/wi/ /dɪ'saɪd/ /tə/ /hold/ /ə/ /'mitɪŋ/ /ɪn/ /ðɪs/ /rum/ /tə'mɔro/ /'mɔrnɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"介词"
+			],
+			[
+				7,
+				7,
+				"代词"
+			],
+			[
+				8,
+				8,
+				"名词"
+			],
+			[
+				9,
+				9,
+				"名词"
+			],
+			[
+				10,
+				10,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "将会",
 		"english": "will",
-		"soundmark": "/wɪl/"
+		"soundmark": "/wɪl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我们将会举行一次会议",
 		"english": "we will hold a meeting",
-		"soundmark": "/wi/ /wɪl/ /hold/ /ə/ /'mitɪŋ/"
+		"soundmark": "/wi/ /wɪl/ /hold/ /ə/ /'mitɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "明天早上我们将会在这个房间里举行一次会议",
 		"english": "we will hold a meeting in this room tomorrow morning",
-		"soundmark": "/wi/ /wɪl/ /hold/ /ə/ /'mitɪŋ/ /ɪn/ /ðɪs/ /rum/ /tə'mɔro/ /'mɔrnɪŋ/"
+		"soundmark": "/wi/ /wɪl/ /hold/ /ə/ /'mitɪŋ/ /ɪn/ /ðɪs/ /rum/ /tə'mɔro/ /'mɔrnɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			],
+			[
+				8,
+				8,
+				"名词"
+			],
+			[
+				9,
+				9,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				4,
+				"宾语",
+				"NP"
+			],
+			[
+				5,
+				9,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "大的",
 		"english": "big",
-		"soundmark": "/bɪɡ/"
+		"soundmark": "/bɪɡ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "这个房间",
 		"english": "this room",
-		"soundmark": "/ðɪs/ /rum/"
+		"soundmark": "/ðɪs/ /rum/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "这个房间是大的",
 		"english": "this room is big",
-		"soundmark": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/"
+		"soundmark": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"系动词",
+				"TP"
+			],
+			[
+				3,
+				3,
+				"表语",
+				"ADJP"
+			]
+		]
 	},
 	{
 		"chinese": "足够",
 		"english": "enough",
-		"soundmark": "/ɪ'nʌf/"
+		"soundmark": "/ɪ'nʌf/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "举行一次会议",
 		"english": "to hold a meeting",
-		"soundmark": "/tə/ /hold/ /ə/ /'mitɪŋ/"
+		"soundmark": "/tə/ /hold/ /ə/ /'mitɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "足够举行一次会议",
 		"english": "enough to hold a meeting",
-		"soundmark": "/ɪ'nʌf/ /tə/ /hold/ /ə/ /'mitɪŋ/"
+		"soundmark": "/ɪ'nʌf/ /tə/ /hold/ /ə/ /'mitɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			],
+			[
+				1,
+				1,
+				"介词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "这个房间是大的（大到）足够举行一次会议",
 		"english": "this room is big enough to hold a meeting",
-		"soundmark": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/ /ɪ'nʌf/ /tə/ /hold/ /ə/ /'mitɪŋ/"
+		"soundmark": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/ /ɪ'nʌf/ /tə/ /hold/ /ə/ /'mitɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			],
+			[
+				4,
+				4,
+				"副词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"动词"
+			],
+			[
+				7,
+				7,
+				"冠词"
+			],
+			[
+				8,
+				8,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"系动词",
+				"TP"
+			],
+			[
+				3,
+				4,
+				"表语",
+				"ADJP"
+			],
+			[
+				5,
+				8,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "这个房间是足够大的",
 		"english": "this room is big enough",
-		"soundmark": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/ /ɪ'nʌf/"
+		"soundmark": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/ /ɪ'nʌf/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			],
+			[
+				4,
+				4,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"系动词",
+				"TP"
+			],
+			[
+				3,
+				4,
+				"表语",
+				"ADJP"
+			]
+		]
 	},
 	{
 		"chinese": "小的",
 		"english": "small",
-		"soundmark": "/smɔl/"
+		"soundmark": "/smɔl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "这个房间是小的",
 		"english": "this room is small",
-		"soundmark": "/ðɪs/ /rum/ /ɪz/ /smɔl/"
+		"soundmark": "/ðɪs/ /rum/ /ɪz/ /smɔl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"系动词",
+				"TP"
+			],
+			[
+				3,
+				3,
+				"表语",
+				"ADJP"
+			]
+		]
 	},
 	{
 		"chinese": "非常",
 		"english": "very",
-		"soundmark": "/ˈvɛri/"
+		"soundmark": "/ˈvɛri/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "这个房间是非常小的",
 		"english": "this room is very small",
-		"soundmark": "/ðɪs/ /rum/ /ɪz/ /ˈvɛri/ /smɔl/"
+		"soundmark": "/ðɪs/ /rum/ /ɪz/ /ˈvɛri/ /smɔl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"副词"
+			],
+			[
+				4,
+				4,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"系动词",
+				"TP"
+			],
+			[
+				3,
+				3,
+				"时间状语",
+				"ADVP"
+			]
+		]
 	},
 	{
 		"chinese": "因为",
 		"english": "because",
-		"soundmark": "/bɪ'kɔz/"
+		"soundmark": "/bɪ'kɔz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"连词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "因为这个房间是非常小的",
 		"english": "because this room is very small",
-		"soundmark": "/bɪ'kɔz/ /ðɪs/ /rum/ /ɪz/ /ˈvɛri/ /smɔl/"
+		"soundmark": "/bɪ'kɔz/ /ðɪs/ /rum/ /ɪz/ /ˈvɛri/ /smɔl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"连词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"副词"
+			],
+			[
+				5,
+				5,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "会议",
 		"english": "meeting",
-		"soundmark": "/'mitɪŋ/"
+		"soundmark": "/'mitɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "握；容纳；举行",
 		"english": "to hold",
-		"soundmark": "/tə/ /hold/"
+		"soundmark": "/tə/ /hold/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "举行一次会议",
 		"english": "to hold a meeting",
-		"soundmark": "/tə/ /hold/ /ə/ /'mitɪŋ/"
+		"soundmark": "/tə/ /hold/ /ə/ /'mitɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在......里",
 		"english": "in",
-		"soundmark": "/ɪn/"
+		"soundmark": "/ɪn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "这个房间",
 		"english": "this room",
-		"soundmark": "/ðɪs/ /rum/"
+		"soundmark": "/ðɪs/ /rum/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在这个房间里",
 		"english": "in this room",
-		"soundmark": "/ɪn/ /ðɪs/ /rum/"
+		"soundmark": "/ɪn/ /ðɪs/ /rum/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在这个房间里举行一次会议",
 		"english": "to hold a meeting in this room",
-		"soundmark": "/tə/ /hold/ /ə/ /'mitɪŋ/ /ɪn/ /ðɪs/ /rum/"
+		"soundmark": "/tə/ /hold/ /ə/ /'mitɪŋ/ /ɪn/ /ðɪs/ /rum/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "不可能的",
 		"english": "impossible",
-		"soundmark": "/ɪm'pɑsəbl/"
+		"soundmark": "/ɪm'pɑsəbl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "它；这件事情",
 		"english": "it",
-		"soundmark": "/ɪt/"
+		"soundmark": "/ɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "它是不可能的",
 		"english": "it is impossible",
-		"soundmark": "/ɪt/ /ɪz/ /ɪm'pɑsəbl/"
+		"soundmark": "/ɪt/ /ɪz/ /ɪm'pɑsəbl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				2,
+				"表语",
+				"ADJP"
+			]
+		]
 	},
 	{
 		"chinese": "在这个房间里举行一次会议是不可能的",
 		"english": "it is impossible to hold a meeting in this room",
-		"soundmark": "/ɪt/ /ɪz/ /ɪm'pɑsəbl/ /tə/ /hold/ /ə/ /'mitɪŋ/ /ɪn/ /ðɪs/ /rum/"
+		"soundmark": "/ɪt/ /ɪz/ /ɪm'pɑsəbl/ /tə/ /hold/ /ə/ /'mitɪŋ/ /ɪn/ /ðɪs/ /rum/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"形容词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"冠词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			],
+			[
+				7,
+				7,
+				"介词"
+			],
+			[
+				8,
+				8,
+				"代词"
+			],
+			[
+				9,
+				9,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				2,
+				"表语",
+				"ADJP"
+			],
+			[
+				3,
+				9,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "因为这个房间是非常小的",
 		"english": "because this room is very small",
-		"soundmark": "/bɪ'kɔz/ /ðɪs/ /rum/ /ɪz/ /ˈvɛri/ /smɔl/"
+		"soundmark": "/bɪ'kɔz/ /ðɪs/ /rum/ /ɪz/ /ˈvɛri/ /smɔl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"连词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"副词"
+			],
+			[
+				5,
+				5,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在这个房间里举行一次会议是不可能的因为这个房间是非常小的",
 		"english": "it is impossible to hold a meeting in this room because this room is very small",
-		"soundmark": "/ɪt/ /ɪz/ /ɪm'pɑsəbl/ /tə/ /hold/ /ə/ /'mitɪŋ/ /ɪn/ /ðɪs/ /rum/ /bɪ'kɔz/ /ðɪs/ /rum/ /ɪz/ /ˈvɛri/ /smɔl/"
+		"soundmark": "/ɪt/ /ɪz/ /ɪm'pɑsəbl/ /tə/ /hold/ /ə/ /'mitɪŋ/ /ɪn/ /ðɪs/ /rum/ /bɪ'kɔz/ /ðɪs/ /rum/ /ɪz/ /ˈvɛri/ /smɔl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"形容词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"冠词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			],
+			[
+				7,
+				7,
+				"介词"
+			],
+			[
+				8,
+				8,
+				"代词"
+			],
+			[
+				9,
+				9,
+				"名词"
+			],
+			[
+				10,
+				10,
+				"连词"
+			],
+			[
+				11,
+				11,
+				"代词"
+			],
+			[
+				12,
+				12,
+				"名词"
+			],
+			[
+				13,
+				13,
+				"动词"
+			],
+			[
+				14,
+				14,
+				"副词"
+			],
+			[
+				15,
+				15,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				2,
+				"表语",
+				"ADJP"
+			],
+			[
+				3,
+				15,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "握；容纳；举行",
 		"english": "to hold",
-		"soundmark": "/tə/ /hold/"
+		"soundmark": "/tə/ /hold/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "举行一次会议",
 		"english": "to hold a meeting",
-		"soundmark": "/tə/ /hold/ /ə/ /'mitɪŋ/"
+		"soundmark": "/tə/ /hold/ /ə/ /'mitɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "决定",
 		"english": "to decide",
-		"soundmark": "/tə/ /dɪ'saɪd/"
+		"soundmark": "/tə/ /dɪ'saɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "他们",
 		"english": "they",
-		"soundmark": "/ðe/"
+		"soundmark": "/ðe/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "他们（过去）决定",
 		"english": "they decided",
-		"soundmark": "/ðe/ /dɪ'saɪdɪd/"
+		"soundmark": "/ðe/ /dɪ'saɪdɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "他们（过去）决定举行一次会议",
 		"english": "they decided to hold a meeting",
-		"soundmark": "/ðe/ /dɪ'saɪdɪd/ /tə/ /hold/ /ə/ /'mitɪŋ/"
+		"soundmark": "/ðe/ /dɪ'saɪdɪd/ /tə/ /hold/ /ə/ /'mitɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "脸",
 		"english": "face",
-		"soundmark": "/fes/"
+		"soundmark": "/fes/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "面对",
 		"english": "to face",
-		"soundmark": "/tə/ /fes/"
+		"soundmark": "/tə/ /fes/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "面对(ing形式)",
 		"english": "facing",
-		"soundmark": "/'fesɪŋ/"
+		"soundmark": "/'fesɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "是；赋值(原型)",
 		"english": "be",
-		"soundmark": "/bi/"
+		"soundmark": "/bi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "正在面对",
 		"english": "be facing",
-		"soundmark": "/bi/ /'fesɪŋ/"
+		"soundmark": "/bi/ /'fesɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "他们",
 		"english": "they",
-		"soundmark": "/ðe/"
+		"soundmark": "/ðe/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "他们(现在)正在面对",
 		"english": "they are facing",
-		"soundmark": "/ðe/ /ɚ/ /'fesɪŋ/"
+		"soundmark": "/ðe/ /ɚ/ /'fesɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "那个问题",
 		"english": "the problem",
-		"soundmark": "/ðə/ /'prɑbləm/"
+		"soundmark": "/ðə/ /'prɑbləm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他们(现在)正在面对的那个问题",
 		"english": "the problem they are facing",
-		"soundmark": "/ðə/ /'prɑbləm/ /ðe/ /ɚ/ /'fesɪŋ/"
+		"soundmark": "/ðə/ /'prɑbləm/ /ðe/ /ɚ/ /'fesɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "解决",
 		"english": "to solve",
-		"soundmark": "/tə/ /sɔlv/"
+		"soundmark": "/tə/ /sɔlv/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "那个问题",
 		"english": "the problem",
-		"soundmark": "/ðə/ /'prɑbləm/"
+		"soundmark": "/ðə/ /'prɑbləm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "解决那个问题",
 		"english": "to solve the problem",
-		"soundmark": "/tə/ /sɔlv/ /ðə/ /'prɑbləm/"
+		"soundmark": "/tə/ /sɔlv/ /ðə/ /'prɑbləm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "解决他们（现在）正在面对的那个问题",
 		"english": "to solve the problem they are facing",
-		"soundmark": "/tə/ /sɔlv/ /ðə/ /'prɑbləm/ /ðe/ /ɚ/ /'fesɪŋ/"
+		"soundmark": "/tə/ /sɔlv/ /ðə/ /'prɑbləm/ /ðe/ /ɚ/ /'fesɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"动词"
+			],
+			[
+				6,
+				6,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "如何",
 		"english": "how",
-		"soundmark": "/haʊ/"
+		"soundmark": "/haʊ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "如何解决他们（现在）正在面对的那个问题",
 		"english": "how to solve the problem they are facing",
-		"soundmark": "/haʊ/ /tə/ /sɔlv/ /ðə/ /'prɑbləm/ /ðe/ /ɚ/ /'fesɪŋ/"
+		"soundmark": "/haʊ/ /tə/ /sɔlv/ /ðə/ /'prɑbləm/ /ðe/ /ɚ/ /'fesɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			],
+			[
+				1,
+				1,
+				"介词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"动词"
+			],
+			[
+				7,
+				7,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"疑问宾语",
+				"NP"
+			],
+			[
+				1,
+				7,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "讨论",
 		"english": "to discuss",
-		"soundmark": "/tə/ /dɪ'skʌs/"
+		"soundmark": "/tə/ /dɪ'skʌs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "讨论如何解决他们（现在）正在面对的那个问题",
 		"english": "to discuss how to solve the problem they are facing",
-		"soundmark": "/tə/ /dɪ'skʌs/ /haʊ/ /tə/ /sɔlv/ /ðə/ /'prɑbləm/ /ðe/ /ɚ/ /'fesɪŋ/"
+		"soundmark": "/tə/ /dɪ'skʌs/ /haʊ/ /tə/ /sɔlv/ /ðə/ /'prɑbləm/ /ðe/ /ɚ/ /'fesɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"疑问词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"冠词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			],
+			[
+				7,
+				7,
+				"代词"
+			],
+			[
+				8,
+				8,
+				"动词"
+			],
+			[
+				9,
+				9,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "举行一次会议",
 		"english": "to hold a meeting",
-		"soundmark": "/tə/ /hold/ /ə/ /'mitɪŋ/"
+		"soundmark": "/tə/ /hold/ /ə/ /'mitɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他们（过去）决定",
 		"english": "they decided",
-		"soundmark": "/ðe/ /dɪ'saɪdɪd/"
+		"soundmark": "/ðe/ /dɪ'saɪdɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "他们（过去）决定举行一次会议",
 		"english": "they decided to hold a meeting",
-		"soundmark": "/ðe/ /dɪ'saɪdɪd/ /tə/ /hold/ /ə/ /'mitɪŋ/"
+		"soundmark": "/ðe/ /dɪ'saɪdɪd/ /tə/ /hold/ /ə/ /'mitɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "他们（过去）决定举行一次会议讨论如何解决他们（现在）正在面对的那个问题",
 		"english": "they decided to hold a meeting to discuss how to solve the problem they are facing",
-		"soundmark": "/ðe/ /dɪ'saɪdɪd/ /tə/ /hold/ /ə/ /'mitɪŋ/ /tə/ /dɪ'skʌs/ /haʊ/ /tə/ /sɔlv/ /ðə/ /'prɑbləm/ /ðe/ /ɚ/ /'fesɪŋ/"
+		"soundmark": "/ðe/ /dɪ'saɪdɪd/ /tə/ /hold/ /ə/ /'mitɪŋ/ /tə/ /dɪ'skʌs/ /haʊ/ /tə/ /sɔlv/ /ðə/ /'prɑbləm/ /ðe/ /ɚ/ /'fesɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"介词"
+			],
+			[
+				7,
+				7,
+				"动词"
+			],
+			[
+				8,
+				8,
+				"疑问词"
+			],
+			[
+				9,
+				9,
+				"介词"
+			],
+			[
+				10,
+				10,
+				"动词"
+			],
+			[
+				11,
+				11,
+				"冠词"
+			],
+			[
+				12,
+				12,
+				"名词"
+			],
+			[
+				13,
+				13,
+				"代词"
+			],
+			[
+				14,
+				14,
+				"动词"
+			],
+			[
+				15,
+				15,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	}
 ]

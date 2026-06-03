@@ -2,646 +2,4527 @@
 	{
 		"chinese": "手",
 		"english": "hand",
-		"soundmark": "/hænd/"
+		"soundmark": "/hænd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "手（复数）",
 		"english": "hands",
-		"soundmark": "/hændz/"
+		"soundmark": "/hændz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "递给",
 		"english": "to hand",
-		"soundmark": "/tə/ /hænd/"
+		"soundmark": "/tə/ /hænd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他",
 		"english": "him",
-		"soundmark": "/hɪm/"
+		"soundmark": "/hɪm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "递给他",
 		"english": "to hand him",
-		"soundmark": "/tə/ /hænd/ /hɪm/"
+		"soundmark": "/tə/ /hænd/ /hɪm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "香蕉",
 		"english": "banana",
-		"soundmark": "/bə'nænə/"
+		"soundmark": "/bə'nænə/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "一个香蕉",
 		"english": "a banana",
-		"soundmark": "/ə/ /bə'nænə/"
+		"soundmark": "/ə/ /bə'nænə/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "递给他一个香蕉",
 		"english": "to hand him a banana",
-		"soundmark": "/tə/ /hænd/ /hɪm/ /ə/ /bə'nænə/"
+		"soundmark": "/tə/ /hænd/ /hɪm/ /ə/ /bə'nænə/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他",
 		"english": "he",
-		"soundmark": "/hi/"
+		"soundmark": "/hi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "想要",
 		"english": "want",
-		"soundmark": "/wɑnt/"
+		"soundmark": "/wɑnt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "他想要",
 		"english": "he wants",
-		"soundmark": "/hi/ /wɑnts/"
+		"soundmark": "/hi/ /wɑnts/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我",
 		"english": "me",
-		"soundmark": "/mi/"
+		"soundmark": "/mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "他想要我",
 		"english": "he wants me",
-		"soundmark": "/hi/ /wɑnts/ /mi/"
+		"soundmark": "/hi/ /wɑnts/ /mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "递给他一个香蕉",
 		"english": "to hand him a banana",
-		"soundmark": "/tə/ /hænd/ /hɪm/ /ə/ /bə'nænə/"
+		"soundmark": "/tə/ /hænd/ /hɪm/ /ə/ /bə'nænə/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他想要我递给他一个香蕉",
 		"english": "he wants me to hand him a banana",
-		"soundmark": "/hi/ /wɑnts/ /mi/ /tə/ /hænd/ /hɪm/ /ə/ /bə'nænə/"
+		"soundmark": "/hi/ /wɑnts/ /mi/ /tə/ /hænd/ /hɪm/ /ə/ /bə'nænə/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"冠词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				7,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "手机",
 		"english": "phone",
-		"soundmark": "/fon/"
+		"soundmark": "/fon/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "他的",
 		"english": "his",
-		"soundmark": "/hɪz/"
+		"soundmark": "/hɪz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "他的手机",
 		"english": "his phone",
-		"soundmark": "/hɪz/ /fon/"
+		"soundmark": "/hɪz/ /fon/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "递给他",
 		"english": "to hand him",
-		"soundmark": "/tə/ /hænd/ /hɪm/"
+		"soundmark": "/tə/ /hænd/ /hɪm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "递给他他的手机",
 		"english": "to hand him his phone",
-		"soundmark": "/tə/ /hænd/ /hɪm/ /hɪz/ /fon/"
+		"soundmark": "/tə/ /hænd/ /hɪm/ /hɪz/ /fon/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他想要我",
 		"english": "he wants me",
-		"soundmark": "/hi/ /wɑnts/ /mi/"
+		"soundmark": "/hi/ /wɑnts/ /mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他想要我递给他他的手机",
 		"english": "he wants me to hand him his phone",
-		"soundmark": "/hi/ /wɑnts/ /mi/ /tə/ /hænd/ /hɪm/ /hɪz/ /fon/"
+		"soundmark": "/hi/ /wɑnts/ /mi/ /tə/ /hænd/ /hɪm/ /hɪz/ /fon/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				7,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我",
 		"english": "me",
-		"soundmark": "/mi/"
+		"soundmark": "/mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "递给我",
 		"english": "to hand me",
-		"soundmark": "/tə/ /hænd/ /mi/"
+		"soundmark": "/tə/ /hænd/ /mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "包",
 		"english": "bag",
-		"soundmark": "/bæɡ/"
+		"soundmark": "/bæɡ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "你的",
 		"english": "your",
-		"soundmark": "/jʊr/"
+		"soundmark": "/jʊr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "你的包",
 		"english": "your bag",
-		"soundmark": "/jʊr/ /bæɡ/"
+		"soundmark": "/jʊr/ /bæɡ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "递给我你的包",
 		"english": "to hand me your bag",
-		"soundmark": "/tə/ /hænd/ /mi/ /jʊr/ /bæɡ/"
+		"soundmark": "/tə/ /hænd/ /mi/ /jʊr/ /bæɡ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "想要",
 		"english": "want",
-		"soundmark": "/wɑnt/"
+		"soundmark": "/wɑnt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我想要你",
 		"english": "I want you",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/"
+		"soundmark": "/aɪ/ /wɑnt/ /ju/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我想要你递给我你的包",
 		"english": "I want you to hand me your bag",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /hænd/ /mi/ /jʊr/ /bæɡ/"
+		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /hænd/ /mi/ /jʊr/ /bæɡ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			],
+			[
+				3,
+				7,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "学校",
 		"english": "school",
-		"soundmark": "/skul/"
+		"soundmark": "/skul/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "包",
 		"english": "bag",
-		"soundmark": "/bæɡ/"
+		"soundmark": "/bæɡ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "书包",
 		"english": "school bag",
-		"soundmark": "/skul/ /bæɡ/"
+		"soundmark": "/skul/ /bæɡ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你的",
 		"english": "your",
-		"soundmark": "/jʊr/"
+		"soundmark": "/jʊr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "你的书包",
 		"english": "your school bag",
-		"soundmark": "/jʊr/ /skul/ /bæɡ/"
+		"soundmark": "/jʊr/ /skul/ /bæɡ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				2,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "递给我",
 		"english": "to hand me",
-		"soundmark": "/tə/ /hænd/ /mi/"
+		"soundmark": "/tə/ /hænd/ /mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "递给我你的书包",
 		"english": "to hand me your school bag",
-		"soundmark": "/tə/ /hænd/ /mi/ /jʊr/ /skul/ /bæɡ/"
+		"soundmark": "/tə/ /hænd/ /mi/ /jʊr/ /skul/ /bæɡ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				5,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我想要你",
 		"english": "I want you",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/"
+		"soundmark": "/aɪ/ /wɑnt/ /ju/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我想要你递给我你的书包",
 		"english": "I want you to hand me your school bag",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /hænd/ /mi/ /jʊr/ /skul/ /bæɡ/"
+		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /hænd/ /mi/ /jʊr/ /skul/ /bæɡ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			],
+			[
+				8,
+				8,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			],
+			[
+				3,
+				8,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我的",
 		"english": "my",
-		"soundmark": "/maɪ/"
+		"soundmark": "/maɪ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我的书包",
 		"english": "my school bag",
-		"soundmark": "/maɪ/ /skul/ /bæɡ/"
+		"soundmark": "/maɪ/ /skul/ /bæɡ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				2,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "递给我我的书包",
 		"english": "to hand me my school bag",
-		"soundmark": "/tə/ /hænd/ /mi/ /maɪ/ /skul/ /bæɡ/"
+		"soundmark": "/tə/ /hænd/ /mi/ /maɪ/ /skul/ /bæɡ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				5,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我想要你",
 		"english": "I want you",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/"
+		"soundmark": "/aɪ/ /wɑnt/ /ju/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我想要你递给我我的书包",
 		"english": "I want you to hand me my school bag",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /hænd/ /mi/ /maɪ/ /skul/ /bæɡ/"
+		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /hænd/ /mi/ /maɪ/ /skul/ /bæɡ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			],
+			[
+				8,
+				8,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			],
+			[
+				3,
+				8,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "手机",
 		"english": "phone",
-		"soundmark": "/fon/"
+		"soundmark": "/fon/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我的",
 		"english": "my",
-		"soundmark": "/maɪ/"
+		"soundmark": "/maɪ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我的手机",
 		"english": "my phone",
-		"soundmark": "/maɪ/ /fon/"
+		"soundmark": "/maɪ/ /fon/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "递给我",
 		"english": "to hand me",
-		"soundmark": "/tə/ /hænd/ /mi/"
+		"soundmark": "/tə/ /hænd/ /mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "递给我我的手机",
 		"english": "to hand me my phone",
-		"soundmark": "/tə/ /hænd/ /mi/ /maɪ/ /fon/"
+		"soundmark": "/tə/ /hænd/ /mi/ /maɪ/ /fon/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我想要你",
 		"english": "I want you",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/"
+		"soundmark": "/aɪ/ /wɑnt/ /ju/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我想要你递给我我的手机",
 		"english": "I want you to hand me my phone",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /hænd/ /mi/ /maɪ/ /fon/"
+		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /hænd/ /mi/ /maɪ/ /fon/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			],
+			[
+				3,
+				7,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "需要",
 		"english": "need",
-		"soundmark": "/nid/"
+		"soundmark": "/nid/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "你需要",
 		"english": "you need",
-		"soundmark": "/ju/ /nid/"
+		"soundmark": "/ju/ /nid/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "递给我我的手机",
 		"english": "to hand me my phone",
-		"soundmark": "/tə/ /hænd/ /mi/ /maɪ/ /fon/"
+		"soundmark": "/tə/ /hænd/ /mi/ /maɪ/ /fon/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你需要递给我我的手机",
 		"english": "you need to hand me my phone",
-		"soundmark": "/ju/ /nid/ /tə/ /hænd/ /mi/ /maɪ/ /fon/"
+		"soundmark": "/ju/ /nid/ /tə/ /hænd/ /mi/ /maɪ/ /fon/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				6,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "你递给我我的手机",
 		"english": "you hand me my phone",
-		"soundmark": "/ju/ /hænd/ /mi/ /maɪ/ /fon/"
+		"soundmark": "/ju/ /hænd/ /mi/ /maɪ/ /fon/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "递给我我的手机",
 		"english": "hand me my phone",
-		"soundmark": "/hænd/ /mi/ /maɪ/ /fon/"
+		"soundmark": "/hænd/ /mi/ /maɪ/ /fon/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "一个香蕉",
 		"english": "a banana",
-		"soundmark": "/ə/ /bə'nænə/"
+		"soundmark": "/ə/ /bə'nænə/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "递给我一个香蕉",
 		"english": "hand me a banana",
-		"soundmark": "/hænd/ /mi/ /ə/ /bə'nænə/"
+		"soundmark": "/hænd/ /mi/ /ə/ /bə'nænə/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我的包",
 		"english": "my bag",
-		"soundmark": "/maɪ/ /bæɡ/"
+		"soundmark": "/maɪ/ /bæɡ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "递给我我的包",
 		"english": "hand me my bag",
-		"soundmark": "/hænd/ /mi/ /maɪ/ /bæɡ/"
+		"soundmark": "/hænd/ /mi/ /maɪ/ /bæɡ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "请求麻烦一下",
 		"english": "please",
-		"soundmark": "/pliz/"
+		"soundmark": "/pliz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "麻烦一下递给我我的包",
 		"english": "please hand me my bag",
-		"soundmark": "/pliz/ /hænd/ /mi/ /maɪ/ /bæɡ/"
+		"soundmark": "/pliz/ /hænd/ /mi/ /maɪ/ /bæɡ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "麻烦一下递给我一个香蕉",
 		"english": "please hand me a banana",
-		"soundmark": "/pliz/ /hænd/ /mi/ /ə/ /bə'nænə/"
+		"soundmark": "/pliz/ /hænd/ /mi/ /ə/ /bə'nænə/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "麻烦一下递给我我的手机",
 		"english": "please hand me my phone",
-		"soundmark": "/pliz/ /hænd/ /mi/ /maɪ/ /fon/"
+		"soundmark": "/pliz/ /hænd/ /mi/ /maɪ/ /fon/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "可以",
 		"english": "can",
-		"soundmark": "/kən/"
+		"soundmark": "/kən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "你可以",
 		"english": "you can",
-		"soundmark": "/ju/ /kən/"
+		"soundmark": "/ju/ /kən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "递给我我的手机",
 		"english": "to hand me my phone",
-		"soundmark": "/tə/ /hænd/ /mi/ /maɪ/ /fon/"
+		"soundmark": "/tə/ /hænd/ /mi/ /maɪ/ /fon/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你可以递给我我的手机",
 		"english": "you can hand me my phone",
-		"soundmark": "/ju/ /kən/ /hænd/ /mi/ /maɪ/ /fon/"
+		"soundmark": "/ju/ /kən/ /hænd/ /mi/ /maɪ/ /fon/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				5,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你可以递给我我的手机吗？",
 		"english": "can you hand me my phone",
-		"soundmark": "/kən/ /ju/ /hænd/ /mi/ /maɪ/ /fon/"
+		"soundmark": "/kən/ /ju/ /hænd/ /mi/ /maɪ/ /fon/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				1,
+				2,
+				"主语",
+				"NP"
+			],
+			[
+				0,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				5,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你可以......吗？",
 		"english": "can you",
-		"soundmark": "/kən/ /ju/"
+		"soundmark": "/kən/ /ju/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				1,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "一个香蕉",
 		"english": "a banana",
-		"soundmark": "/ə/ /bə'nænə/"
+		"soundmark": "/ə/ /bə'nænə/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "递给我",
 		"english": "to hand me",
-		"soundmark": "/tə/ /hænd/ /mi/"
+		"soundmark": "/tə/ /hænd/ /mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "递给我一个香蕉",
 		"english": "to hand me a banana",
-		"soundmark": "/tə/ /hænd/ /mi/ /ə/ /bə'nænə/"
+		"soundmark": "/tə/ /hænd/ /mi/ /ə/ /bə'nænə/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你可以递给我一个香蕉吗？",
 		"english": "can you hand me a banana",
-		"soundmark": "/kən/ /ju/ /hænd/ /mi/ /ə/ /bə'nænə/"
+		"soundmark": "/kən/ /ju/ /hænd/ /mi/ /ə/ /bə'nænə/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				1,
+				2,
+				"主语",
+				"NP"
+			],
+			[
+				0,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				5,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "请求麻烦一下",
 		"english": "please",
-		"soundmark": "/pliz/"
+		"soundmark": "/pliz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "你可以麻烦一下递给我我的手机吗？",
 		"english": "can you please hand me my phone",
-		"soundmark": "/kən/ /ju/ /pliz/ /hænd/ /mi/ /maɪ/ /fon/"
+		"soundmark": "/kən/ /ju/ /pliz/ /hænd/ /mi/ /maɪ/ /fon/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				1,
+				3,
+				"主语",
+				"NP"
+			],
+			[
+				0,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				6,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你可以麻烦一下......吗？",
 		"english": "can you please",
-		"soundmark": "/kən/ /ju/ /pliz/"
+		"soundmark": "/kən/ /ju/ /pliz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				1,
+				2,
+				"主语",
+				"NP"
+			],
+			[
+				0,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "递给我一个香蕉",
 		"english": "to hand me a banana",
-		"soundmark": "/tə/ /hænd/ /mi/ /ə/ /bə'nænə/"
+		"soundmark": "/tə/ /hænd/ /mi/ /ə/ /bə'nænə/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你可以麻烦一下递给我一个香蕉吗？",
 		"english": "can you please hand me a banana",
-		"soundmark": "/kən/ /ju/ /pliz/ /hænd/ /mi/ /ə/ /bə'nænə/"
+		"soundmark": "/kən/ /ju/ /pliz/ /hænd/ /mi/ /ə/ /bə'nænə/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"冠词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				1,
+				3,
+				"主语",
+				"NP"
+			],
+			[
+				0,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				6,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "可以",
 		"english": "can",
-		"soundmark": "/kən/"
+		"soundmark": "/kən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "可以（礼貌版）",
 		"english": "could",
-		"soundmark": "/kʊd/"
+		"soundmark": "/kʊd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "你可以麻烦一下递给我一个香蕉吗？",
 		"english": "can you please hand me a banana",
-		"soundmark": "/kən/ /ju/ /pliz/ /hænd/ /mi/ /ə/ /bə'nænə/"
+		"soundmark": "/kən/ /ju/ /pliz/ /hænd/ /mi/ /ə/ /bə'nænə/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"冠词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				1,
+				3,
+				"主语",
+				"NP"
+			],
+			[
+				0,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				6,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你可以（礼貌版）麻烦一下递给我一个香蕉吗？",
 		"english": "could you please hand me a banana",
-		"soundmark": "/kʊd/ /ju/ /pliz/ /hænd/ /mi/ /ə/ /bə'nænə/"
+		"soundmark": "/kʊd/ /ju/ /pliz/ /hænd/ /mi/ /ə/ /bə'nænə/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"冠词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				1,
+				3,
+				"主语",
+				"NP"
+			],
+			[
+				0,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				6,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你可以（礼貌版）麻烦一下......吗？",
 		"english": "could you please",
-		"soundmark": "/kʊd/ /ju/ /pliz/"
+		"soundmark": "/kʊd/ /ju/ /pliz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				1,
+				2,
+				"主语",
+				"NP"
+			],
+			[
+				0,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "递给我我的手机",
 		"english": "to hand me my phone",
-		"soundmark": "/tə/ /hænd/ /mi/ /maɪ/ /fon/"
+		"soundmark": "/tə/ /hænd/ /mi/ /maɪ/ /fon/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你可以（礼貌版）麻烦一下递给我我的手机吗？",
 		"english": "could you please hand me my phone",
-		"soundmark": "/kʊd/ /ju/ /pliz/ /hænd/ /mi/ /maɪ/ /fon/"
+		"soundmark": "/kʊd/ /ju/ /pliz/ /hænd/ /mi/ /maɪ/ /fon/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				1,
+				3,
+				"主语",
+				"NP"
+			],
+			[
+				0,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				6,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你可以（礼貌版）麻烦一下......吗？",
 		"english": "could you please",
-		"soundmark": "/kʊd/ /ju/ /pliz/"
+		"soundmark": "/kʊd/ /ju/ /pliz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				1,
+				2,
+				"主语",
+				"NP"
+			],
+			[
+				0,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "递给我我的书包",
 		"english": "to hand me my school bag",
-		"soundmark": "/tə/ /hænd/ /mi/ /maɪ/ /skul/ /bæɡ/"
+		"soundmark": "/tə/ /hænd/ /mi/ /maɪ/ /skul/ /bæɡ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				5,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你可以（礼貌版）麻烦一下递给我我的书包吗？",
 		"english": "could you please hand me my school bag",
-		"soundmark": "/kʊd/ /ju/ /pliz/ /hænd/ /mi/ /maɪ/ /skul/ /bæɡ/"
+		"soundmark": "/kʊd/ /ju/ /pliz/ /hænd/ /mi/ /maɪ/ /skul/ /bæɡ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				1,
+				3,
+				"主语",
+				"NP"
+			],
+			[
+				0,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				7,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你可以（礼貌版）麻烦一下......吗？",
 		"english": "could you please",
-		"soundmark": "/kʊd/ /ju/ /pliz/"
+		"soundmark": "/kʊd/ /ju/ /pliz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				1,
+				2,
+				"主语",
+				"NP"
+			],
+			[
+				0,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "帮助",
 		"english": "to help",
-		"soundmark": "/tə/ /hɛlp/"
+		"soundmark": "/tə/ /hɛlp/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "帮助我",
 		"english": "to help me",
-		"soundmark": "/tə/ /hɛlp/ /mi/"
+		"soundmark": "/tə/ /hɛlp/ /mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你可以（礼貌版）麻烦一下帮助我吗？",
 		"english": "could you please help me",
-		"soundmark": "/kʊd/ /ju/ /pliz/ /hɛlp/ /mi/"
+		"soundmark": "/kʊd/ /ju/ /pliz/ /hɛlp/ /mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				1,
+				2,
+				"主语",
+				"NP"
+			],
+			[
+				0,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "告诉",
 		"english": "to tell",
-		"soundmark": "/tə/ /tɛl/"
+		"soundmark": "/tə/ /tɛl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我",
 		"english": "me",
-		"soundmark": "/mi/"
+		"soundmark": "/mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "告诉我",
 		"english": "to tell me",
-		"soundmark": "/tə/ /tɛl/ /mi/"
+		"soundmark": "/tə/ /tɛl/ /mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "事实；真相",
 		"english": "the truth",
-		"soundmark": "/ðə/ /trʊθ/"
+		"soundmark": "/ðə/ /trʊθ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "告诉我真相",
 		"english": "to tell me the truth",
-		"soundmark": "/tə/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+		"soundmark": "/tə/ /tɛl/ /mi/ /ðə/ /trʊθ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "请问你可以......吗？",
 		"english": "could you please",
-		"soundmark": "/kʊd/ /ju/ /pliz/"
+		"soundmark": "/kʊd/ /ju/ /pliz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				1,
+				2,
+				"主语",
+				"NP"
+			],
+			[
+				0,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "请问你可以告诉我真相吗？",
 		"english": "could you please tell me the truth",
-		"soundmark": "/kʊd/ /ju/ /pliz/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+		"soundmark": "/kʊd/ /ju/ /pliz/ /tɛl/ /mi/ /ðə/ /trʊθ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"冠词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				1,
+				2,
+				"主语",
+				"NP"
+			],
+			[
+				0,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				6,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "离开",
 		"english": "to leave",
-		"soundmark": "/tə/ /liv/"
+		"soundmark": "/tə/ /liv/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我",
 		"english": "me",
-		"soundmark": "/mi/"
+		"soundmark": "/mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "离开我",
 		"english": "to leave me",
-		"soundmark": "/tə/ /liv/ /mi/"
+		"soundmark": "/tə/ /liv/ /mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "单独；一个人",
 		"english": "alone",
-		"soundmark": "/ə'lon/"
+		"soundmark": "/ə'lon/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "离开我（让我变成）单独一个人",
 		"english": "to leave me alone",
-		"soundmark": "/tə/ /liv/ /mi/ /ə'lon/"
+		"soundmark": "/tə/ /liv/ /mi/ /ə'lon/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "请问你可以......吗？",
 		"english": "could you please",
-		"soundmark": "/kʊd/ /ju/ /pliz/"
+		"soundmark": "/kʊd/ /ju/ /pliz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				1,
+				2,
+				"主语",
+				"NP"
+			],
+			[
+				0,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "请问你可以走开别烦我吗？",
 		"english": "could you please leave me alone",
-		"soundmark": "/kʊd/ /ju/ /pliz/ /tə/ /liv/ /mi/ /ə'lon/"
+		"soundmark": "/kʊd/ /ju/ /pliz/ /tə/ /liv/ /mi/ /ə'lon/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				1,
+				2,
+				"主语",
+				"NP"
+			],
+			[
+				0,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				5,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "打电话",
 		"english": "to call",
-		"soundmark": "/tə/ /kɔl/"
+		"soundmark": "/tə/ /kɔl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我",
 		"english": "me",
-		"soundmark": "/mi/"
+		"soundmark": "/mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "打电话给我",
 		"english": "to call me",
-		"soundmark": "/tə/ /kɔl/ /mi/"
+		"soundmark": "/tə/ /kɔl/ /mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "今晚",
 		"english": "tonight",
-		"soundmark": "/tə'naɪt/"
+		"soundmark": "/tə'naɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "今晚打电话给我",
 		"english": "to call me tonight",
-		"soundmark": "/tə/ /kɔl/ /mi/ /tə'naɪt/"
+		"soundmark": "/tə/ /kɔl/ /mi/ /tə'naɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "请问你可以......吗？",
 		"english": "could you please",
-		"soundmark": "/kʊd/ /ju/ /pliz/"
+		"soundmark": "/kʊd/ /ju/ /pliz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				1,
+				2,
+				"主语",
+				"NP"
+			],
+			[
+				0,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "请问你可以今晚打电话给我吗？",
 		"english": "could you please call me tonight",
-		"soundmark": "/kʊd/ /ju/ /pliz/ /kɔl/ /mi/ /tə'naɪt/"
+		"soundmark": "/kʊd/ /ju/ /pliz/ /kɔl/ /mi/ /tə'naɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				1,
+				2,
+				"主语",
+				"NP"
+			],
+			[
+				0,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				5,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "给",
 		"english": "to give",
-		"soundmark": "/tə/ /ɡɪv/"
+		"soundmark": "/tə/ /ɡɪv/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我",
 		"english": "me",
-		"soundmark": "/mi/"
+		"soundmark": "/mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "给我",
 		"english": "to give me",
-		"soundmark": "/tə/ /ɡɪv/ /mi/"
+		"soundmark": "/tə/ /ɡɪv/ /mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "手",
 		"english": "hand",
-		"soundmark": "/hænd/"
+		"soundmark": "/hænd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "一只手",
 		"english": "a hand",
-		"soundmark": "/ə/ /hænd/"
+		"soundmark": "/ə/ /hænd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "给我帮把手",
 		"english": "to give me a hand",
-		"soundmark": "/tə/ /ɡɪv/ /mi/ /ə/ /hænd/"
+		"soundmark": "/tə/ /ɡɪv/ /mi/ /ə/ /hænd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "请问你可以......吗？",
 		"english": "could you please",
-		"soundmark": "/kʊd/ /ju/ /pliz/"
+		"soundmark": "/kʊd/ /ju/ /pliz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				1,
+				2,
+				"主语",
+				"NP"
+			],
+			[
+				0,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "请问你可以给我帮把手吗？",
 		"english": "could you please give me a hand",
-		"soundmark": "/kʊd/ /ju/ /pliz/ /ɡɪv/ /mi/ /ə/ /hænd/"
+		"soundmark": "/kʊd/ /ju/ /pliz/ /ɡɪv/ /mi/ /ə/ /hænd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"冠词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				1,
+				2,
+				"主语",
+				"NP"
+			],
+			[
+				0,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				6,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "打开",
 		"english": "to open",
-		"soundmark": "/tə/ /'opən/"
+		"soundmark": "/tə/ /'opən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "门",
 		"english": "the door",
-		"soundmark": "/ðə/ /dɔr/"
+		"soundmark": "/ðə/ /dɔr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "打开门",
 		"english": "to open the door",
-		"soundmark": "/tə/ /'opən/ /ðə/ /dɔr/"
+		"soundmark": "/tə/ /'opən/ /ðə/ /dɔr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "请问你可以......吗？",
 		"english": "could you please",
-		"soundmark": "/kʊd/ /ju/ /pliz/"
+		"soundmark": "/kʊd/ /ju/ /pliz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				1,
+				2,
+				"主语",
+				"NP"
+			],
+			[
+				0,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "请问你可以打开门吗",
 		"english": "could you please open the door",
-		"soundmark": "/kʊd/ /ju/ /pliz/ /'opən/ /ðə/ /dɔr/"
+		"soundmark": "/kʊd/ /ju/ /pliz/ /'opən/ /ðə/ /dɔr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				1,
+				2,
+				"主语",
+				"NP"
+			],
+			[
+				0,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				5,
+				"宾语",
+				"NP"
+			]
+		]
 	}
 ]

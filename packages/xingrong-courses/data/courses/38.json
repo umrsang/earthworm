@@ -2,1011 +2,7564 @@
 	{
 		"chinese": "球",
 		"english": "ball",
-		"soundmark": "/bɔl/"
+		"soundmark": "/bɔl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "篮子",
 		"english": "basket",
-		"soundmark": "/'bæskɪt/"
+		"soundmark": "/'bæskɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "篮球",
 		"english": "basketball",
-		"soundmark": "/'bæskɪtbɔl/"
+		"soundmark": "/'bæskɪtbɔl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "玩",
 		"english": "to play",
-		"soundmark": "/tə/ /ple/"
+		"soundmark": "/tə/ /ple/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "打篮球",
 		"english": "to play basketball",
-		"soundmark": "/tə/ /ple/ /'bæskɪtbɔl/"
+		"soundmark": "/tə/ /ple/ /'bæskɪtbɔl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我想要",
 		"english": "I want",
-		"soundmark": "/aɪ/ /wɑnt/"
+		"soundmark": "/aɪ/ /wɑnt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我想要打篮球",
 		"english": "I want to play basketball",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /ple/ /'bæskɪtbɔl/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /ple/ /'bæskɪtbɔl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我(过去)想要打篮球",
 		"english": "I wanted to play basketball",
-		"soundmark": "/aɪ/ /wɑntɪd/ /tə/ /ple/ /'bæskɪtbɔl/"
+		"soundmark": "/aɪ/ /wɑntɪd/ /tə/ /ple/ /'bæskɪtbɔl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "使用",
 		"english": "to use",
-		"soundmark": "/tə/ /juz/"
+		"soundmark": "/tə/ /juz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我(过去)想要打篮球",
 		"english": "I wanted to play basketball",
-		"soundmark": "/aɪ/ /wɑntɪd/ /tə/ /ple/ /'bæskɪtbɔl/"
+		"soundmark": "/aɪ/ /wɑntɪd/ /tə/ /ple/ /'bæskɪtbɔl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我过去常常打篮球",
 		"english": "I used to play basketball",
-		"soundmark": "/aɪ/ /juzd/ /tə/ /ple/ /'bæskɪtbɔl/"
+		"soundmark": "/aɪ/ /juzd/ /tə/ /ple/ /'bæskɪtbɔl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "过去常常做......",
 		"english": "used to do",
-		"soundmark": "/juzd/ /tə/ /du/"
+		"soundmark": "/juzd/ /tə/ /du/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"介词"
+			],
+			[
+				2,
+				2,
+				"助动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"谓语",
+				"VP"
+			],
+			[
+				1,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "学校",
 		"english": "school",
-		"soundmark": "/skul/"
+		"soundmark": "/skul/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "高",
 		"english": "high",
-		"soundmark": "/haɪ/"
+		"soundmark": "/haɪ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "高中",
 		"english": "high school",
-		"soundmark": "/haɪ/ /skul/"
+		"soundmark": "/haɪ/ /skul/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在高中",
 		"english": "in high school",
-		"soundmark": "/ɪn/ /haɪ/ /skul/"
+		"soundmark": "/ɪn/ /haɪ/ /skul/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我在高中常常打篮球",
 		"english": "I used to play basketball in high school",
-		"soundmark": "/aɪ/ /juzd/ /tə/ /ple/ /'bæskɪtbɔl/ /ɪn/ /haɪ/ /skul/"
+		"soundmark": "/aɪ/ /juzd/ /tə/ /ple/ /'bæskɪtbɔl/ /ɪn/ /haɪ/ /skul/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "在高中",
 		"english": "in high school",
-		"soundmark": "/ɪn/ /haɪ/ /skul/"
+		"soundmark": "/ɪn/ /haɪ/ /skul/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我在高中",
 		"english": "I am in high school",
-		"soundmark": "/aɪ/ /æm/ /ɪn/ /haɪ/ /skul/"
+		"soundmark": "/aɪ/ /æm/ /ɪn/ /haɪ/ /skul/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				4,
+				"表语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我(过去)在高中",
 		"english": "I was in high school",
-		"soundmark": "/aɪ/ /wəz/ /ɪn/ /haɪ/ /skul/"
+		"soundmark": "/aɪ/ /wəz/ /ɪn/ /haɪ/ /skul/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				4,
+				"表语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "当......的时候",
 		"english": "when",
-		"soundmark": "/wɛn/"
+		"soundmark": "/wɛn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "当我(过去)在高中的时候",
 		"english": "when I was in high school",
-		"soundmark": "/wɛn/ /aɪ/ /wəz/ /ɪn/ /haɪ/ /skul/"
+		"soundmark": "/wɛn/ /aɪ/ /wəz/ /ɪn/ /haɪ/ /skul/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"疑问宾语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			],
+			[
+				3,
+				5,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我过去常常打篮球当我在高中的时候",
 		"english": "I used to play basketball when I was in high school",
-		"soundmark": "/aɪ/ /juzd/ /tə/ /ple/ /'bæskɪtbɔl/ /ɪn/ /haɪ/ /skul/ /wɛn/ /aɪ/ /wəz/ /ɪn/ /haɪ/ /skul/"
+		"soundmark": "/aɪ/ /juzd/ /tə/ /ple/ /'bæskɪtbɔl/ /ɪn/ /haɪ/ /skul/ /wɛn/ /aɪ/ /wəz/ /ɪn/ /haɪ/ /skul/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"疑问词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"动词"
+			],
+			[
+				8,
+				8,
+				"介词"
+			],
+			[
+				9,
+				9,
+				"名词"
+			],
+			[
+				10,
+				10,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "象棋",
 		"english": "chess",
-		"soundmark": "/tʃɛs/"
+		"soundmark": "/tʃɛs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "玩",
 		"english": "to play",
-		"soundmark": "/tə/ /ple/"
+		"soundmark": "/tə/ /ple/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "下象棋",
 		"english": "to play chess",
-		"soundmark": "/tə/ /ple/ /tʃɛs/"
+		"soundmark": "/tə/ /ple/ /tʃɛs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "过去常常做......",
 		"english": "used to do",
-		"soundmark": "/juzd/ /tə/ /du/"
+		"soundmark": "/juzd/ /tə/ /du/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"介词"
+			],
+			[
+				2,
+				2,
+				"助动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"谓语",
+				"VP"
+			],
+			[
+				1,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我过去常常下象棋",
 		"english": "I used to play chess",
-		"soundmark": "/aɪ/ /juzd/ /tə/ /ple/ /tʃɛs/"
+		"soundmark": "/aɪ/ /juzd/ /tə/ /ple/ /tʃɛs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "年轻的",
 		"english": "young",
-		"soundmark": "/jʌŋ/"
+		"soundmark": "/jʌŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我是年轻的",
 		"english": "I am young",
-		"soundmark": "/aɪ/ /æm/ /jʌŋ/"
+		"soundmark": "/aɪ/ /æm/ /jʌŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				2,
+				"表语",
+				"ADJP"
+			]
+		]
 	},
 	{
 		"chinese": "我(过去)是年轻的",
 		"english": "I was young",
-		"soundmark": "/aɪ/ /wəz/ /jʌŋ/"
+		"soundmark": "/aɪ/ /wəz/ /jʌŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				2,
+				"表语",
+				"ADJP"
+			]
+		]
 	},
 	{
 		"chinese": "当......的时候",
 		"english": "when",
-		"soundmark": "/wɛn/"
+		"soundmark": "/wɛn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "当我(过去)是年轻的时候",
 		"english": "when I was young",
-		"soundmark": "/wɛn/ /aɪ/ /wəz/ /jʌŋ/"
+		"soundmark": "/wɛn/ /aɪ/ /wəz/ /jʌŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"疑问宾语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我过去常常下象棋当我(过去)是年轻的时候",
 		"english": "I used to play chess when I was young",
-		"soundmark": "/aɪ/ /juzd/ /tə/ /ple/ /tʃɛs/ /wɛn/ /aɪ/ /wəz/ /jʌŋ/"
+		"soundmark": "/aɪ/ /juzd/ /tə/ /ple/ /tʃɛs/ /wɛn/ /aɪ/ /wəz/ /jʌŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"疑问词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"动词"
+			],
+			[
+				8,
+				8,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "看",
 		"english": "to watch",
-		"soundmark": "/tə/ /wɑtʃ/"
+		"soundmark": "/tə/ /wɑtʃ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "卡通片",
 		"english": "cartoons",
-		"soundmark": "/kɑrˈtunz/"
+		"soundmark": "/kɑrˈtunz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "看卡通片",
 		"english": "to watch cartoons",
-		"soundmark": "/tə/ /wɑtʃ/ /kɑrˈtunz/"
+		"soundmark": "/tə/ /wɑtʃ/ /kɑrˈtunz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "过去常常做......",
 		"english": "used to do",
-		"soundmark": "/juzd/ /tə/ /du/"
+		"soundmark": "/juzd/ /tə/ /du/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"介词"
+			],
+			[
+				2,
+				2,
+				"助动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"谓语",
+				"VP"
+			],
+			[
+				1,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我过去常常看卡通片",
 		"english": "I used to watch cartoons",
-		"soundmark": "/aɪ/ /juzd/ /tə/ /wɑtʃ/ /kɑrˈtunz/"
+		"soundmark": "/aɪ/ /juzd/ /tə/ /wɑtʃ/ /kɑrˈtunz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "早上",
 		"english": "morning",
-		"soundmark": "/'mɔrnɪŋ/"
+		"soundmark": "/'mɔrnɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "每一个",
 		"english": "every",
-		"soundmark": "/'ɛvri/"
+		"soundmark": "/'ɛvri/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "每天早上",
 		"english": "every morning",
-		"soundmark": "/'ɛvri/ /'mɔrnɪŋ/"
+		"soundmark": "/'ɛvri/ /'mɔrnɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我过去每天早上都会看卡通片",
 		"english": "I used to watch cartoons every morning",
-		"soundmark": "/aɪ/ /juzd/ /tə/ /wɑtʃ/ /kɑrˈtunz/ /'ɛvri/ /'mɔrnɪŋ/"
+		"soundmark": "/aɪ/ /juzd/ /tə/ /wɑtʃ/ /kɑrˈtunz/ /'ɛvri/ /'mɔrnɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "孩子",
 		"english": "kid",
-		"soundmark": "/kɪd/"
+		"soundmark": "/kɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我是一个孩子",
 		"english": "I am a kid",
-		"soundmark": "/aɪ/ /æm/ /ə/ /kɪd/"
+		"soundmark": "/aɪ/ /æm/ /ə/ /kɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				3,
+				"表语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我(过去)是一个孩子",
 		"english": "I was a kid",
-		"soundmark": "/aɪ/ /wəz/ /ə/ /kɪd/"
+		"soundmark": "/aɪ/ /wəz/ /ə/ /kɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				3,
+				"表语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "当我(过去)是一个孩子的时候",
 		"english": "when I was a kid",
-		"soundmark": "/wɛn/ /aɪ/ /wəz/ /ə/ /kɪd/"
+		"soundmark": "/wɛn/ /aɪ/ /wəz/ /ə/ /kɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"疑问宾语",
+				"NP"
+			],
+			[
+				1,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我过去每天早上都会看卡通片当我(过去)是一个孩子的时候",
 		"english": "I used to watch cartoons every morning when I was a kid",
-		"soundmark": "/aɪ/ /juzd/ /tə/ /wɑtʃ/ /kɑrˈtunz/ /'ɛvri/ /'mɔrnɪŋ/ /wɛn/ /aɪ/ /wəz/ /ə/ /kɪd/"
+		"soundmark": "/aɪ/ /juzd/ /tə/ /wɑtʃ/ /kɑrˈtunz/ /'ɛvri/ /'mɔrnɪŋ/ /wɛn/ /aɪ/ /wəz/ /ə/ /kɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			],
+			[
+				7,
+				7,
+				"疑问词"
+			],
+			[
+				8,
+				8,
+				"代词"
+			],
+			[
+				9,
+				9,
+				"动词"
+			],
+			[
+				10,
+				10,
+				"冠词"
+			],
+			[
+				11,
+				11,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "喝",
 		"english": "to drink",
-		"soundmark": "/tə/ /drɪŋk/"
+		"soundmark": "/tə/ /drɪŋk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "咖啡",
 		"english": "coffee",
-		"soundmark": "/'kɔfi/"
+		"soundmark": "/'kɔfi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "喝咖啡",
 		"english": "to drink coffee",
-		"soundmark": "/tə/ /drɪŋk/ /'kɔfi/"
+		"soundmark": "/tə/ /drɪŋk/ /'kɔfi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "过去常常做......",
 		"english": "used to do",
-		"soundmark": "/juzd/ /tə/ /du/"
+		"soundmark": "/juzd/ /tə/ /du/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"介词"
+			],
+			[
+				2,
+				2,
+				"助动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"谓语",
+				"VP"
+			],
+			[
+				1,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "过去常常喝咖啡",
 		"english": "used to drink coffee",
-		"soundmark": "/juzd/ /tə/ /drɪŋk/ /'kɔfi/"
+		"soundmark": "/juzd/ /tə/ /drɪŋk/ /'kɔfi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"介词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"谓语",
+				"VP"
+			],
+			[
+				1,
+				3,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我过去常常喝咖啡",
 		"english": "I used to drink coffee",
-		"soundmark": "/aɪ/ /juzd/ /tə/ /drɪŋk/ /'kɔfi/"
+		"soundmark": "/aɪ/ /juzd/ /tə/ /drɪŋk/ /'kɔfi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "早上",
 		"english": "morning",
-		"soundmark": "/'mɔrnɪŋ/"
+		"soundmark": "/'mɔrnɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "每天早上",
 		"english": "every morning",
-		"soundmark": "/'ɛvri/ /'mɔrnɪŋ/"
+		"soundmark": "/'ɛvri/ /'mɔrnɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我过去每天早上喝咖啡",
 		"english": "I used to drink coffee every morning",
-		"soundmark": "/aɪ/ /juzd/ /tə/ /drɪŋk/ /'kɔfi/ /'ɛvri/ /'mɔrnɪŋ/"
+		"soundmark": "/aɪ/ /juzd/ /tə/ /drɪŋk/ /'kɔfi/ /'ɛvri/ /'mɔrnɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "喜欢",
 		"english": "like",
-		"soundmark": "/laɪk/"
+		"soundmark": "/laɪk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "更喜欢",
 		"english": "to prefer",
-		"soundmark": "/tə/ /prɪˈfɝ/"
+		"soundmark": "/tə/ /prɪˈfɝ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "茶",
 		"english": "tea",
-		"soundmark": "/ti/"
+		"soundmark": "/ti/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "更喜欢茶",
 		"english": "to prefer tea",
-		"soundmark": "/tə/ /prɪˈfɝ/ /ti/"
+		"soundmark": "/tə/ /prɪˈfɝ/ /ti/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我更喜欢茶",
 		"english": "I prefer tea",
-		"soundmark": "/aɪ/ /prɪˈfɝ/ /ti/"
+		"soundmark": "/aɪ/ /prɪˈfɝ/ /ti/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "现在",
 		"english": "now",
-		"soundmark": "/naʊ/"
+		"soundmark": "/naʊ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "现在我更喜欢茶",
 		"english": "now I prefer tea",
-		"soundmark": "/naʊ/ /aɪ/ /prɪˈfɝ/ /ti/"
+		"soundmark": "/naʊ/ /aɪ/ /prɪˈfɝ/ /ti/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "但是",
 		"english": "but",
-		"soundmark": "/bʌt/"
+		"soundmark": "/bʌt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"连词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "但是现在我更喜欢茶",
 		"english": "but now I prefer tea",
-		"soundmark": "/bʌt/ /naʊ/ /aɪ/ /prɪˈfɝ/ /ti/"
+		"soundmark": "/bʌt/ /naʊ/ /aɪ/ /prɪˈfɝ/ /ti/",
+		"posTags": [
+			[
+				0,
+				0,
+				"连词"
+			],
+			[
+				1,
+				1,
+				"副词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我过去每天早上喝咖啡",
 		"english": "I used to drink coffee every morning",
-		"soundmark": "/aɪ/ /juzd/ /tə/ /drɪŋk/ /'kɔfi/ /'ɛvri/ /'mɔrnɪŋ/"
+		"soundmark": "/aɪ/ /juzd/ /tə/ /drɪŋk/ /'kɔfi/ /'ɛvri/ /'mɔrnɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我过去每天早上喝咖啡但是现在我更喜欢茶",
 		"english": "I used to drink coffee every morning but now I prefer tea",
-		"soundmark": "/aɪ/ /juzd/ /tə/ /drɪŋk/ /'kɔfi/ /'ɛvri/ /'mɔrnɪŋ/ /bʌt/ /naʊ/ /aɪ/ /prɪˈfɝ/ /ti/"
+		"soundmark": "/aɪ/ /juzd/ /tə/ /drɪŋk/ /'kɔfi/ /'ɛvri/ /'mɔrnɪŋ/ /bʌt/ /naʊ/ /aɪ/ /prɪˈfɝ/ /ti/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			],
+			[
+				7,
+				7,
+				"连词"
+			],
+			[
+				8,
+				8,
+				"副词"
+			],
+			[
+				9,
+				9,
+				"代词"
+			],
+			[
+				10,
+				10,
+				"动词"
+			],
+			[
+				11,
+				11,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "老师",
 		"english": "teacher",
-		"soundmark": "/'titʃɚ/"
+		"soundmark": "/'titʃɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "她是一名老师",
 		"english": "she is a teacher",
-		"soundmark": "/ʃi/ /ɪz/ /ə/ /'titʃɚ/"
+		"soundmark": "/ʃi/ /ɪz/ /ə/ /'titʃɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				3,
+				"表语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "她(过去)是一名老师",
 		"english": "she was a teacher",
-		"soundmark": "/ʃi/ /wəz/ /ə/ /'titʃɚ/"
+		"soundmark": "/ʃi/ /wəz/ /ə/ /'titʃɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				3,
+				"表语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "过去常常做......",
 		"english": "used to do",
-		"soundmark": "/juzd/ /tə/ /du/"
+		"soundmark": "/juzd/ /tə/ /du/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"介词"
+			],
+			[
+				2,
+				2,
+				"助动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"谓语",
+				"VP"
+			],
+			[
+				1,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "曾经是......",
 		"english": "used to be",
-		"soundmark": "/juzd/ /tə/ /bi/"
+		"soundmark": "/juzd/ /tə/ /bi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"介词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"谓语",
+				"VP"
+			],
+			[
+				1,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "她曾经是一名老师",
 		"english": "she used to be a teacher",
-		"soundmark": "/ʃi/ /juzd/ /tə/ /bi/ /ə/ /'titʃɚ/"
+		"soundmark": "/ʃi/ /juzd/ /tə/ /bi/ /ə/ /'titʃɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "退出",
 		"english": "to quit",
-		"soundmark": "/tə/ /kwɪt/"
+		"soundmark": "/tə/ /kwɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "工作",
 		"english": "job",
-		"soundmark": "/dʒɑb/"
+		"soundmark": "/dʒɑb/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "她的工作",
 		"english": "her job",
-		"soundmark": "/hɚ/ /dʒɑb/"
+		"soundmark": "/hɚ/ /dʒɑb/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "辞去她的工作",
 		"english": "to quit her job",
-		"soundmark": "/tə/ /kwɪt/ /hɚ/ /dʒɑb/"
+		"soundmark": "/tə/ /kwɪt/ /hɚ/ /dʒɑb/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "她辞去她的工作",
 		"english": "she quit her job",
-		"soundmark": "/ʃi/ /kwɪt/ /hɚ/ /dʒɑb/"
+		"soundmark": "/ʃi/ /kwɪt/ /hɚ/ /dʒɑb/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "她辞去了她的工作",
 		"english": "she quit her job",
-		"soundmark": "/ʃi/ /kwɪt/ /hɚ/ /dʒɑb/"
+		"soundmark": "/ʃi/ /kwɪt/ /hɚ/ /dʒɑb/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "但是她辞去了她的工作",
 		"english": "but she quit her job",
-		"soundmark": "/bʌt/ /ʃi/ /kwɪt/ /hɚ/ /dʒɑb/"
+		"soundmark": "/bʌt/ /ʃi/ /kwɪt/ /hɚ/ /dʒɑb/",
+		"posTags": [
+			[
+				0,
+				0,
+				"连词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "上一个",
 		"english": "last",
-		"soundmark": "/læst/"
+		"soundmark": "/læst/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "年",
 		"english": "year",
-		"soundmark": "/jɪr/"
+		"soundmark": "/jɪr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "去年",
 		"english": "last year",
-		"soundmark": "/læst/ /jɪr/"
+		"soundmark": "/læst/ /jɪr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "但是去年她辞去了她的工作",
 		"english": "but she quit her job last year",
-		"soundmark": "/bʌt/ /ʃi/ /kwɪt/ /hɚ/ /dʒɑb/ /læst/ /jɪr/"
+		"soundmark": "/bʌt/ /ʃi/ /kwɪt/ /hɚ/ /dʒɑb/ /læst/ /jɪr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"连词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"形容词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				6,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "她曾经是一名老师",
 		"english": "she used to be a teacher",
-		"soundmark": "/ʃi/ /juzd/ /tə/ /bi/ /ə/ /'titʃɚ/"
+		"soundmark": "/ʃi/ /juzd/ /tə/ /bi/ /ə/ /'titʃɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "她曾经是一名老师但是她去年辞去了她的工作",
 		"english": "she used to be a teacher but she quit her job last year",
-		"soundmark": "/ʃi/ /juzd/ /tə/ /bi/ /ə/ /'titʃɚ/ /bʌt/ /ʃi/ /kwɪt/ /hɚ/ /dʒɑb/ /læst/ /jɪr/"
+		"soundmark": "/ʃi/ /juzd/ /tə/ /bi/ /ə/ /'titʃɚ/ /bʌt/ /ʃi/ /kwɪt/ /hɚ/ /dʒɑb/ /læst/ /jɪr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"连词"
+			],
+			[
+				7,
+				7,
+				"代词"
+			],
+			[
+				8,
+				8,
+				"名词"
+			],
+			[
+				9,
+				9,
+				"代词"
+			],
+			[
+				10,
+				10,
+				"名词"
+			],
+			[
+				11,
+				11,
+				"形容词"
+			],
+			[
+				12,
+				12,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "曾经是......",
 		"english": "used to be",
-		"soundmark": "/juzd/ /tə/ /bi/"
+		"soundmark": "/juzd/ /tə/ /bi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"介词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"谓语",
+				"VP"
+			],
+			[
+				1,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "抽烟",
 		"english": "to smoke",
-		"soundmark": "/tə/ /smok/"
+		"soundmark": "/tə/ /smok/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "烟民",
 		"english": "smoker",
-		"soundmark": "/'smokɚ/"
+		"soundmark": "/'smokɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "曾经是一个烟民",
 		"english": "used to be a smoker",
-		"soundmark": "/juzd/ /tə/ /bi/ /ə/ /'smokɚ/"
+		"soundmark": "/juzd/ /tə/ /bi/ /ə/ /'smokɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"介词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"谓语",
+				"VP"
+			],
+			[
+				1,
+				4,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "你曾经是一个烟民",
 		"english": "you used to be a smoker",
-		"soundmark": "/ju/ /juzd/ /tə/ /bi/ /ə/ /'smokɚ/"
+		"soundmark": "/ju/ /juzd/ /tə/ /bi/ /ə/ /'smokɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "退出",
 		"english": "to quit",
-		"soundmark": "/tə/ /kwɪt/"
+		"soundmark": "/tə/ /kwɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你退出",
 		"english": "you quit",
-		"soundmark": "/ju/ /kwɪt/"
+		"soundmark": "/ju/ /kwɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你戒了",
 		"english": "you quit",
-		"soundmark": "/ju/ /kwɪt/"
+		"soundmark": "/ju/ /kwɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "但是现在",
 		"english": "but now",
-		"soundmark": "/bʌt/ /naʊ/"
+		"soundmark": "/bʌt/ /naʊ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"连词"
+			],
+			[
+				1,
+				1,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "但是现在你戒了",
 		"english": "but now you quit",
-		"soundmark": "/bʌt/ /naʊ/ /ju/ /kwɪt/"
+		"soundmark": "/bʌt/ /naʊ/ /ju/ /kwɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"连词"
+			],
+			[
+				1,
+				1,
+				"副词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你曾经是一个烟民",
 		"english": "you used to be a smoker",
-		"soundmark": "/ju/ /juzd/ /tə/ /bi/ /ə/ /'smokɚ/"
+		"soundmark": "/ju/ /juzd/ /tə/ /bi/ /ə/ /'smokɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "你曾经是一个烟民但是现在你戒了",
 		"english": "you used to be a smoker but now you quit",
-		"soundmark": "/ju/ /juzd/ /tə/ /bi/ /ə/ /'smokɚ/ /bʌt/ /naʊ/ /ju/ /kwɪt/"
+		"soundmark": "/ju/ /juzd/ /tə/ /bi/ /ə/ /'smokɚ/ /bʌt/ /naʊ/ /ju/ /kwɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"连词"
+			],
+			[
+				7,
+				7,
+				"副词"
+			],
+			[
+				8,
+				8,
+				"代词"
+			],
+			[
+				9,
+				9,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "陌生的",
 		"english": "strange",
-		"soundmark": "/strendʒ/"
+		"soundmark": "/strendʒ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "陌生人",
 		"english": "stranger",
-		"soundmark": "/'strendʒɚ/"
+		"soundmark": "/'strendʒɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我们是陌生人",
 		"english": "we are strangers",
-		"soundmark": "/wi/ /ɚ/ /'strendʒɚz/"
+		"soundmark": "/wi/ /ɚ/ /'strendʒɚz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				2,
+				"表语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "曾经是......",
 		"english": "used to be",
-		"soundmark": "/juzd/ /tə/ /bi/"
+		"soundmark": "/juzd/ /tə/ /bi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"介词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"谓语",
+				"VP"
+			],
+			[
+				1,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我们曾经是陌生人",
 		"english": "we used to be strangers",
-		"soundmark": "/wi/ /juzd/ /tə/ /bi/ /'strendʒɚz/"
+		"soundmark": "/wi/ /juzd/ /tə/ /bi/ /'strendʒɚz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "朋友",
 		"english": "friend",
-		"soundmark": "/frɛnd/"
+		"soundmark": "/frɛnd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我们是朋友",
 		"english": "we are friends",
-		"soundmark": "/wi/ /ɚ/ /frɛndz/"
+		"soundmark": "/wi/ /ɚ/ /frɛndz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				2,
+				"表语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "但是现在",
 		"english": "but now",
-		"soundmark": "/bʌt/ /naʊ/"
+		"soundmark": "/bʌt/ /naʊ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"连词"
+			],
+			[
+				1,
+				1,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "但是现在我们是朋友",
 		"english": "but now we are friends",
-		"soundmark": "/bʌt/ /naʊ/ /wi/ /ɚ/ /frɛndz/"
+		"soundmark": "/bʌt/ /naʊ/ /wi/ /ɚ/ /frɛndz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"连词"
+			],
+			[
+				1,
+				1,
+				"副词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我们曾经是陌生人",
 		"english": "we used to be strangers",
-		"soundmark": "/wi/ /juzd/ /tə/ /bi/ /'strendʒɚz/"
+		"soundmark": "/wi/ /juzd/ /tə/ /bi/ /'strendʒɚz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我们曾经是陌生人但是现在我们是朋友",
 		"english": "we used to be strangers but now we are friends",
-		"soundmark": "/wi/ /juzd/ /tə/ /bi/ /'strendʒɚz/ /bʌt/ /naʊ/ /wi/ /ɚ/ /frɛndz/"
+		"soundmark": "/wi/ /juzd/ /tə/ /bi/ /'strendʒɚz/ /bʌt/ /naʊ/ /wi/ /ɚ/ /frɛndz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"连词"
+			],
+			[
+				6,
+				6,
+				"副词"
+			],
+			[
+				7,
+				7,
+				"代词"
+			],
+			[
+				8,
+				8,
+				"动词"
+			],
+			[
+				9,
+				9,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我们是朋友",
 		"english": "we are friends",
-		"soundmark": "/wi/ /ɚ/ /frɛndz/"
+		"soundmark": "/wi/ /ɚ/ /frɛndz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				2,
+				"表语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "曾经是......",
 		"english": "used to be",
-		"soundmark": "/juzd/ /tə/ /bi/"
+		"soundmark": "/juzd/ /tə/ /bi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"介词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"谓语",
+				"VP"
+			],
+			[
+				1,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我们曾经是朋友",
 		"english": "we used to be friends",
-		"soundmark": "/wi/ /juzd/ /tə/ /bi/ /frɛndz/"
+		"soundmark": "/wi/ /juzd/ /tə/ /bi/ /frɛndz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "亲密的",
 		"english": "close",
-		"soundmark": "/klos/"
+		"soundmark": "/klos/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我们曾经是亲密的朋友",
 		"english": "we used to be close friends",
-		"soundmark": "/wi/ /juzd/ /tə/ /bi/ /klos/ /frɛndz/"
+		"soundmark": "/wi/ /juzd/ /tə/ /bi/ /klos/ /frɛndz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "更多",
 		"english": "more",
-		"soundmark": "/mɔr/"
+		"soundmark": "/mɔr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "任何",
 		"english": "any",
-		"soundmark": "/'ɛni/"
+		"soundmark": "/'ɛni/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "任何更多",
 		"english": "anymore",
-		"soundmark": "/ɛniˈmɔr/"
+		"soundmark": "/ɛniˈmɔr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "再也不",
 		"english": "not anymore",
-		"soundmark": "/nɑt/ /ɛniˈmɔr/"
+		"soundmark": "/nɑt/ /ɛniˈmɔr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我们曾经是亲密的朋友但是再也不是了",
 		"english": "we used to be close friends but not anymore",
-		"soundmark": "/wi/ /juzd/ /tə/ /bi/ /klos/ /frɛndz/ /bʌt/ /nɑt/ /ɛniˈmɔr/"
+		"soundmark": "/wi/ /juzd/ /tə/ /bi/ /klos/ /frɛndz/ /bʌt/ /nɑt/ /ɛniˈmɔr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"连词"
+			],
+			[
+				7,
+				7,
+				"副词"
+			],
+			[
+				8,
+				8,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "爱",
 		"english": "to love",
-		"soundmark": "/tə/ /lʌv/"
+		"soundmark": "/tə/ /lʌv/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他",
 		"english": "him",
-		"soundmark": "/hɪm/"
+		"soundmark": "/hɪm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "爱他",
 		"english": "to love him",
-		"soundmark": "/tə/ /lʌv/ /hɪm/"
+		"soundmark": "/tə/ /lʌv/ /hɪm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "她爱他",
 		"english": "she loves him",
-		"soundmark": "/ʃi/ /lʌvz/ /hɪm/"
+		"soundmark": "/ʃi/ /lʌvz/ /hɪm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "过去常常做......",
 		"english": "used to do",
-		"soundmark": "/juzd/ /tə/ /du/"
+		"soundmark": "/juzd/ /tə/ /du/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"介词"
+			],
+			[
+				2,
+				2,
+				"助动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"谓语",
+				"VP"
+			],
+			[
+				1,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "她过去爱他",
 		"english": "she used to love him",
-		"soundmark": "/ʃi/ /juzd/ /tə/ /lʌv/ /hɪm/"
+		"soundmark": "/ʃi/ /juzd/ /tə/ /lʌv/ /hɪm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				4,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "再也不",
 		"english": "not anymore",
-		"soundmark": "/nɑt/ /ɛniˈmɔr/"
+		"soundmark": "/nɑt/ /ɛniˈmɔr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "她过去爱他但是再也不会了",
 		"english": "she used to love him but not anymore",
-		"soundmark": "/ʃi/ /juzd/ /tə/ /lʌv/ /hɪm/ /bʌt/ /nɑt/ /ɛniˈmɔr/"
+		"soundmark": "/ʃi/ /juzd/ /tə/ /lʌv/ /hɪm/ /bʌt/ /nɑt/ /ɛniˈmɔr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"连词"
+			],
+			[
+				6,
+				6,
+				"副词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				7,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "驾驶",
 		"english": "to drive",
-		"soundmark": "/tə/ /draɪv/"
+		"soundmark": "/tə/ /draɪv/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "汽车",
 		"english": "car",
-		"soundmark": "/kɑr/"
+		"soundmark": "/kɑr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "开车",
 		"english": "to drive a car",
-		"soundmark": "/tə/ /draɪv/ /ə/ /kɑr/"
+		"soundmark": "/tə/ /draɪv/ /ə/ /kɑr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "去工作",
 		"english": "to work",
-		"soundmark": "/tə/ /wɝk/"
+		"soundmark": "/tə/ /wɝk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "开车去工作",
 		"english": "to drive a car to work",
-		"soundmark": "/tə/ /draɪv/ /ə/ /kɑr/ /tə/ /wɝk/"
+		"soundmark": "/tə/ /draɪv/ /ə/ /kɑr/ /tə/ /wɝk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			],
+			[
+				4,
+				5,
+				"介词短语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "他开车去工作",
 		"english": "he drives a car to work",
-		"soundmark": "/hi/ /draɪvz/ /ə/ /kɑr/ /tə/ /wɝk/"
+		"soundmark": "/hi/ /draɪvz/ /ə/ /kɑr/ /tə/ /wɝk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				5,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "过去常常做......",
 		"english": "used to do",
-		"soundmark": "/juzd/ /tə/ /du/"
+		"soundmark": "/juzd/ /tə/ /du/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"介词"
+			],
+			[
+				2,
+				2,
+				"助动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"谓语",
+				"VP"
+			],
+			[
+				1,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "他过去常常开车去工作",
 		"english": "he used to drive a car to work",
-		"soundmark": "/hi/ /juzd/ /tə/ /draɪv/ /ə/ /kɑr/ /tə/ /wɝk/"
+		"soundmark": "/hi/ /juzd/ /tə/ /draɪv/ /ə/ /kɑr/ /tə/ /wɝk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"介词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "再也不",
 		"english": "not anymore",
-		"soundmark": "/nɑt/ /ɛniˈmɔr/"
+		"soundmark": "/nɑt/ /ɛniˈmɔr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他过去常常开车去工作但是再也不会了",
 		"english": "he used to drive a car to work but not anymore",
-		"soundmark": "/hi/ /juzd/ /tə/ /draɪv/ /ə/ /kɑr/ /tə/ /wɝk/ /bʌt/ /nɑt/ /ɛniˈmɔr/"
+		"soundmark": "/hi/ /juzd/ /tə/ /draɪv/ /ə/ /kɑr/ /tə/ /wɝk/ /bʌt/ /nɑt/ /ɛniˈmɔr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"介词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			],
+			[
+				8,
+				8,
+				"连词"
+			],
+			[
+				9,
+				9,
+				"副词"
+			],
+			[
+				10,
+				10,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "工作",
 		"english": "to work",
-		"soundmark": "/tə/ /wɝk/"
+		"soundmark": "/tə/ /wɝk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "公司",
 		"english": "company",
-		"soundmark": "/ˈkʌmpəni/"
+		"soundmark": "/ˈkʌmpəni/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "那个",
 		"english": "that",
-		"soundmark": "/ðæt/"
+		"soundmark": "/ðæt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "那个公司",
 		"english": "that company",
-		"soundmark": "/ðæt/ /ˈkʌmpəni/"
+		"soundmark": "/ðæt/ /ˈkʌmpəni/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在那个公司",
 		"english": "at that company",
-		"soundmark": "/ət/ /ðæt/ /ˈkʌmpəni/"
+		"soundmark": "/ət/ /ðæt/ /ˈkʌmpəni/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在那个公司工作",
 		"english": "to work at that company",
-		"soundmark": "/tə/ /wɝk/ /ət/ /ðæt/ /ˈkʌmpəni/"
+		"soundmark": "/tə/ /wɝk/ /ət/ /ðæt/ /ˈkʌmpəni/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他在那个公司工作",
 		"english": "he works at that company",
-		"soundmark": "/hi/ /wɝks/ /ət/ /ðæt/ /ˈkʌmpəni/"
+		"soundmark": "/hi/ /wɝks/ /ət/ /ðæt/ /ˈkʌmpəni/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "过去常常做......",
 		"english": "used to do",
-		"soundmark": "/juzd/ /tə/ /du/"
+		"soundmark": "/juzd/ /tə/ /du/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"介词"
+			],
+			[
+				2,
+				2,
+				"助动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"谓语",
+				"VP"
+			],
+			[
+				1,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "他曾经在那个公司工作",
 		"english": "he used to work at that company",
-		"soundmark": "/hi/ /juzd/ /tə/ /wɝk/ /ət/ /ðæt/ /ˈkʌmpəni/"
+		"soundmark": "/hi/ /juzd/ /tə/ /wɝk/ /ət/ /ðæt/ /ˈkʌmpəni/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"状语",
+				"PP"
+			],
+			[
+				4,
+				6,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "再也不",
 		"english": "not anymore",
-		"soundmark": "/nɑt/ /ɛniˈmɔr/"
+		"soundmark": "/nɑt/ /ɛniˈmɔr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他曾经在那个公司工作但是再也不会了",
 		"english": "he used to work at that company but not anymore",
-		"soundmark": "/hi/ /juzd/ /tə/ /wɝk/ /ət/ /ðæt/ /ˈkʌmpəni/ /bʌt/ /nɑt/ /ɛniˈmɔr/"
+		"soundmark": "/hi/ /juzd/ /tə/ /wɝk/ /ət/ /ðæt/ /ˈkʌmpəni/ /bʌt/ /nɑt/ /ɛniˈmɔr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			],
+			[
+				7,
+				7,
+				"连词"
+			],
+			[
+				8,
+				8,
+				"副词"
+			],
+			[
+				9,
+				9,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"状语",
+				"PP"
+			],
+			[
+				4,
+				9,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "餐厅",
 		"english": "restaurant",
-		"soundmark": "/'rɛstrɑnt/"
+		"soundmark": "/'rɛstrɑnt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "那个餐厅",
 		"english": "that restaurant",
-		"soundmark": "/ðæt/ /'rɛstrɑnt/"
+		"soundmark": "/ðæt/ /'rɛstrɑnt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "去",
 		"english": "to go",
-		"soundmark": "/tə/ /ɡo/"
+		"soundmark": "/tə/ /ɡo/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "去那个餐厅",
 		"english": "to go to that restaurant",
-		"soundmark": "/tə/ /ɡo/ /tə/ /ðæt/ /'rɛstrɑnt/"
+		"soundmark": "/tə/ /ɡo/ /tə/ /ðæt/ /'rɛstrɑnt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我们去那个餐厅",
 		"english": "we go to that restaurant",
-		"soundmark": "/wi/ /ɡo/ /tə/ /ðæt/ /'rɛstrɑnt/"
+		"soundmark": "/wi/ /ɡo/ /tə/ /ðæt/ /'rɛstrɑnt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				4,
+				"表语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "过去常常做......",
 		"english": "used to do",
-		"soundmark": "/juzd/ /tə/ /du/"
+		"soundmark": "/juzd/ /tə/ /du/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"介词"
+			],
+			[
+				2,
+				2,
+				"助动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"谓语",
+				"VP"
+			],
+			[
+				1,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我们过去常常去那个餐厅",
 		"english": "we used to go to that restaurant",
-		"soundmark": "/wi/ /juzd/ /tə/ /ɡo/ /tə/ /ðæt/ /'rɛstrɑnt/"
+		"soundmark": "/wi/ /juzd/ /tə/ /ɡo/ /tə/ /ðæt/ /'rɛstrɑnt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "再也不",
 		"english": "not anymore",
-		"soundmark": "/nɑt/ /ɛniˈmɔr/"
+		"soundmark": "/nɑt/ /ɛniˈmɔr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我们过去常常去那个餐厅但是再也不会了",
 		"english": "we used to go to that restaurant but not anymore",
-		"soundmark": "/wi/ /juzd/ /tə/ /ɡo/ /tə/ /ðæt/ /'rɛstrɑnt/ /bʌt/ /nɑt/ /ɛniˈmɔr/"
+		"soundmark": "/wi/ /juzd/ /tə/ /ɡo/ /tə/ /ðæt/ /'rɛstrɑnt/ /bʌt/ /nɑt/ /ɛniˈmɔr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			],
+			[
+				7,
+				7,
+				"连词"
+			],
+			[
+				8,
+				8,
+				"副词"
+			],
+			[
+				9,
+				9,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "朋友",
 		"english": "friend",
-		"soundmark": "/frɛnd/"
+		"soundmark": "/frɛnd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我们是朋友",
 		"english": "we are friends",
-		"soundmark": "/wi/ /ɚ/ /frɛndz/"
+		"soundmark": "/wi/ /ɚ/ /frɛndz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				2,
+				"表语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我们不是朋友",
 		"english": "we are not friends",
-		"soundmark": "/wi/ /ɚ/ /nɑt/ /frɛndz/"
+		"soundmark": "/wi/ /ɚ/ /nɑt/ /frɛndz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"系动词",
+				"TP"
+			],
+			[
+				3,
+				3,
+				"表语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "再也不",
 		"english": "not anymore",
-		"soundmark": "/nɑt/ /ɛniˈmɔr/"
+		"soundmark": "/nɑt/ /ɛniˈmɔr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我们再也不是朋友",
 		"english": "we are not friends anymore",
-		"soundmark": "/wi/ /ɚ/ /nɑt/ /frɛndz/ /ɛniˈmɔr/"
+		"soundmark": "/wi/ /ɚ/ /nɑt/ /frɛndz/ /ɛniˈmɔr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"系动词",
+				"TP"
+			],
+			[
+				3,
+				4,
+				"表语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "有名的",
 		"english": "famous",
-		"soundmark": "/'feməs/"
+		"soundmark": "/'feməs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "她是有名的",
 		"english": "she is famous",
-		"soundmark": "/ʃi/ /ɪz/ /'feməs/"
+		"soundmark": "/ʃi/ /ɪz/ /'feməs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				2,
+				"表语",
+				"ADJP"
+			]
+		]
 	},
 	{
 		"chinese": "她不是有名的",
 		"english": "she is not famous",
-		"soundmark": "/ʃi/ /ɪz/ /nɑt/ /'feməs/"
+		"soundmark": "/ʃi/ /ɪz/ /nɑt/ /'feməs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"系动词",
+				"TP"
+			],
+			[
+				3,
+				3,
+				"表语",
+				"ADJP"
+			]
+		]
 	},
 	{
 		"chinese": "再也不",
 		"english": "not anymore",
-		"soundmark": "/nɑt/ /ɛniˈmɔr/"
+		"soundmark": "/nɑt/ /ɛniˈmɔr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "她再也不是有名的",
 		"english": "she is not famous anymore",
-		"soundmark": "/ʃi/ /ɪz/ /nɑt/ /'feməs/ /ɛniˈmɔr/"
+		"soundmark": "/ʃi/ /ɪz/ /nɑt/ /'feməs/ /ɛniˈmɔr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"系动词",
+				"TP"
+			],
+			[
+				3,
+				3,
+				"表语",
+				"ADJP"
+			]
+		]
 	},
 	{
 		"chinese": "老板",
 		"english": "boss",
-		"soundmark": "/bɔs/"
+		"soundmark": "/bɔs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我的老板",
 		"english": "my boss",
-		"soundmark": "/maɪ/ /bɔs/"
+		"soundmark": "/maɪ/ /bɔs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你是我的老板",
 		"english": "you are my boss",
-		"soundmark": "/ju/ /ɚ/ /maɪ/ /bɔs/"
+		"soundmark": "/ju/ /ɚ/ /maɪ/ /bɔs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			]
+		]
 	},
 	{
 		"chinese": "你不是我的老板",
 		"english": "you are not my boss",
-		"soundmark": "/ju/ /ɚ/ /nɑt/ /maɪ/ /bɔs/"
+		"soundmark": "/ju/ /ɚ/ /nɑt/ /maɪ/ /bɔs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"系动词",
+				"TP"
+			]
+		]
 	},
 	{
 		"chinese": "再也不",
 		"english": "not anymore",
-		"soundmark": "/nɑt/ /ɛniˈmɔr/"
+		"soundmark": "/nɑt/ /ɛniˈmɔr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你再也不是我的老板",
 		"english": "you are not my boss anymore",
-		"soundmark": "/ju/ /ɚ/ /nɑt/ /maɪ/ /bɔs/ /ɛniˈmɔr/"
+		"soundmark": "/ju/ /ɚ/ /nɑt/ /maɪ/ /bɔs/ /ɛniˈmɔr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"系动词",
+				"TP"
+			]
+		]
 	},
 	{
 		"chinese": "退出",
 		"english": "to quit",
-		"soundmark": "/tə/ /kwɪt/"
+		"soundmark": "/tə/ /kwɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我辞职",
 		"english": "I quit",
-		"soundmark": "/aɪ/ /kwɪt/"
+		"soundmark": "/aɪ/ /kwɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你再也不是我的老板。我辞职。",
 		"english": "you are not my boss anymore I quit",
-		"soundmark": "/ju/ /ɚ/ /nɑt/ /maɪ/ /bɔs/ /ɛniˈmɔr/ /aɪ/ /kwɪt/"
+		"soundmark": "/ju/ /ɚ/ /nɑt/ /maɪ/ /bɔs/ /ɛniˈmɔr/ /aɪ/ /kwɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"系动词",
+				"TP"
+			]
+		]
 	},
 	{
 		"chinese": "重要的",
 		"english": "important",
-		"soundmark": "/ɪm'pɔrtnt/"
+		"soundmark": "/ɪm'pɔrtnt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "它是重要的",
 		"english": "it is important",
-		"soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/"
+		"soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				2,
+				"表语",
+				"ADJP"
+			]
+		]
 	},
 	{
 		"chinese": "它不是重要的",
 		"english": "it is not important",
-		"soundmark": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/"
+		"soundmark": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"系动词",
+				"TP"
+			],
+			[
+				3,
+				3,
+				"表语",
+				"ADJP"
+			]
+		]
 	},
 	{
 		"chinese": "再也不",
 		"english": "not anymore",
-		"soundmark": "/nɑt/ /ɛniˈmɔr/"
+		"soundmark": "/nɑt/ /ɛniˈmɔr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "它再也不是重要的",
 		"english": "it is not important anymore",
-		"soundmark": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/ /ɛniˈmɔr/"
+		"soundmark": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/ /ɛniˈmɔr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"系动词",
+				"TP"
+			],
+			[
+				3,
+				3,
+				"表语",
+				"ADJP"
+			]
+		]
 	},
 	{
 		"chinese": "喝",
 		"english": "to drink",
-		"soundmark": "/tə/ /drɪŋk/"
+		"soundmark": "/tə/ /drɪŋk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "咖啡",
 		"english": "coffee",
-		"soundmark": "/'kɔfi/"
+		"soundmark": "/'kɔfi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "喝咖啡",
 		"english": "to drink coffee",
-		"soundmark": "/tə/ /drɪŋk/ /'kɔfi/"
+		"soundmark": "/tə/ /drɪŋk/ /'kɔfi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我喝咖啡",
 		"english": "I drink coffee",
-		"soundmark": "/aɪ/ /drɪŋk/ /'kɔfi/"
+		"soundmark": "/aɪ/ /drɪŋk/ /'kɔfi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我不喝咖啡",
 		"english": "I don't drink coffee",
-		"soundmark": "/aɪ/ /dont/ /drɪŋk/ /'kɔfi/"
+		"soundmark": "/aɪ/ /dont/ /drɪŋk/ /'kɔfi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "再也不",
 		"english": "not anymore",
-		"soundmark": "/nɑt/ /ɛniˈmɔr/"
+		"soundmark": "/nɑt/ /ɛniˈmɔr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我再也不喝咖啡了",
 		"english": "I don't drink coffee anymore",
-		"soundmark": "/aɪ/ /dont/ /drɪŋk/ /'kɔfi/ /ɛniˈmɔr/"
+		"soundmark": "/aɪ/ /dont/ /drɪŋk/ /'kɔfi/ /ɛniˈmɔr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				5,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "玩",
 		"english": "to play",
-		"soundmark": "/tə/ /ple/"
+		"soundmark": "/tə/ /ple/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "游戏",
 		"english": "games",
-		"soundmark": "/ɡemz/"
+		"soundmark": "/ɡemz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "玩游戏",
 		"english": "to play games",
-		"soundmark": "/tə/ /ple/ /ɡemz/"
+		"soundmark": "/tə/ /ple/ /ɡemz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "视频",
 		"english": "video",
-		"soundmark": "/'vɪdɪo/"
+		"soundmark": "/'vɪdɪo/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "电子游戏",
 		"english": "video games",
-		"soundmark": "/'vɪdɪo/ /ɡemz/"
+		"soundmark": "/'vɪdɪo/ /ɡemz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "玩电子游戏",
 		"english": "to play video games",
-		"soundmark": "/tə/ /ple/ /'vɪdɪo/ /ɡemz/"
+		"soundmark": "/tə/ /ple/ /'vɪdɪo/ /ɡemz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他玩电子游戏",
 		"english": "he plays video games",
-		"soundmark": "/hi/ /plez/ /'vɪdɪo/ /ɡemz/"
+		"soundmark": "/hi/ /plez/ /'vɪdɪo/ /ɡemz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				3,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他不玩电子游戏",
 		"english": "he doesn't play video games",
-		"soundmark": "/hi/ /ˈdʌznt/ /ple/ /'vɪdɪo/ /ɡemz/"
+		"soundmark": "/hi/ /ˈdʌznt/ /ple/ /'vɪdɪo/ /ɡemz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				5,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "再也不",
 		"english": "not anymore",
-		"soundmark": "/nɑt/ /ɛniˈmɔr/"
+		"soundmark": "/nɑt/ /ɛniˈmɔr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他再也不玩电子游戏",
 		"english": "he doesn't play video games anymore",
-		"soundmark": "/hi/ /ˈdʌznt/ /ple/ /'vɪdɪo/ /ɡemz/ /ɛniˈmɔr/"
+		"soundmark": "/hi/ /ˈdʌznt/ /ple/ /'vɪdɪo/ /ɡemz/ /ɛniˈmɔr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				6,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我们玩电子游戏",
 		"english": "we play video games",
-		"soundmark": "/wi/ /ple/ /'vɪdɪo/ /ɡemz/"
+		"soundmark": "/wi/ /ple/ /'vɪdɪo/ /ɡemz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我们不玩电子游戏",
 		"english": "we don't play video games",
-		"soundmark": "/wi/ /dont/ /ple/ /'vɪdɪo/ /ɡemz/"
+		"soundmark": "/wi/ /dont/ /ple/ /'vɪdɪo/ /ɡemz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				5,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我们再也不玩电子游戏",
 		"english": "we don't play video games anymore",
-		"soundmark": "/wi/ /dont/ /ple/ /'vɪdɪo/ /ɡemz/ /ɛniˈmɔr/"
+		"soundmark": "/wi/ /dont/ /ple/ /'vɪdɪo/ /ɡemz/ /ɛniˈmɔr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				6,
+				"宾语",
+				"NP"
+			]
+		]
 	}
 ]

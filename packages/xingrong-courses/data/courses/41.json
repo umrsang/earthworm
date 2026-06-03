@@ -2,776 +2,5471 @@
 	{
 		"chinese": "保持",
 		"english": "to keep",
-		"soundmark": "/tə/ /kip/"
+		"soundmark": "/tə/ /kip/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "他需要",
 		"english": "he needs",
-		"soundmark": "/hi/ /nidz/"
+		"soundmark": "/hi/ /nidz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他需要保持",
 		"english": "he needs to keep",
-		"soundmark": "/hi/ /nidz/ /tə/ /kip/"
+		"soundmark": "/hi/ /nidz/ /tə/ /kip/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "练习",
 		"english": "to practice",
-		"soundmark": "/tə/ /ˈpræktɪs/"
+		"soundmark": "/tə/ /ˈpræktɪs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "练习(ing形式)",
 		"english": "practicing",
-		"soundmark": "/ˈpræktɪsɪŋ/"
+		"soundmark": "/ˈpræktɪsɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "他需要保持练习",
 		"english": "he needs to keep practicing",
-		"soundmark": "/hi/ /nidz/ /tə/ /kip/ /ˈpræktɪsɪŋ/"
+		"soundmark": "/hi/ /nidz/ /tə/ /kip/ /ˈpræktɪsɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "技术",
 		"english": "skills",
-		"soundmark": "/'skɪlz/"
+		"soundmark": "/'skɪlz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "他的技术",
 		"english": "his skills",
-		"soundmark": "/hɪz/ /'skɪlz/"
+		"soundmark": "/hɪz/ /'skɪlz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "提升",
 		"english": "to improve",
-		"soundmark": "/tə/ /ɪmˈpruv/"
+		"soundmark": "/tə/ /ɪmˈpruv/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "提升他的技术",
 		"english": "to improve his skills",
-		"soundmark": "/tə/ /ɪmˈpruv/ /hɪz/ /'skɪlz/"
+		"soundmark": "/tə/ /ɪmˈpruv/ /hɪz/ /'skɪlz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他需要保持练习",
 		"english": "he needs to keep practicing",
-		"soundmark": "/hi/ /nidz/ /tə/ /kip/ /ˈpræktɪsɪŋ/"
+		"soundmark": "/hi/ /nidz/ /tə/ /kip/ /ˈpræktɪsɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他需要保持练习来提升他的技术",
 		"english": "he needs to keep practicing to improve his skills",
-		"soundmark": "/hi/ /nidz/ /tə/ /kip/ /ˈpræktɪsɪŋ/ /tə/ /ɪmˈpruv/ /hɪz/ /'skɪlz/"
+		"soundmark": "/hi/ /nidz/ /tə/ /kip/ /ˈpræktɪsɪŋ/ /tə/ /ɪmˈpruv/ /hɪz/ /'skɪlz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"动词"
+			],
+			[
+				7,
+				7,
+				"代词"
+			],
+			[
+				8,
+				8,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "掌握",
 		"english": "to master",
-		"soundmark": "/'mæstɚ/"
+		"soundmark": "/'mæstɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你将会",
 		"english": "you will",
-		"soundmark": "/ju/ /wɪl/"
+		"soundmark": "/ju/ /wɪl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "你将会掌握",
 		"english": "you will master",
-		"soundmark": "/ju/ /wɪl/ /'mæstɚ/"
+		"soundmark": "/ju/ /wɪl/ /'mæstɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "那个技术",
 		"english": "the skill",
-		"soundmark": "/ðə/ /'skɪl/"
+		"soundmark": "/ðə/ /'skɪl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你将会掌握那个技术",
 		"english": "you will master the skill",
-		"soundmark": "/ju/ /wɪl/ /'mæstɚ/ /ðə/ /'skɪl/"
+		"soundmark": "/ju/ /wɪl/ /'mæstɚ/ /ðə/ /'skɪl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你保持",
 		"english": "you keep",
-		"soundmark": "/ju/ /kip/"
+		"soundmark": "/ju/ /kip/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			]
+		]
 	},
 	{
 		"chinese": "练习",
 		"english": "to practice",
-		"soundmark": "/tə/ /ˈpræktɪs/"
+		"soundmark": "/tə/ /ˈpræktɪs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "练习(ing形式)",
 		"english": "practicing",
-		"soundmark": "/ˈpræktɪsɪŋ/"
+		"soundmark": "/ˈpræktɪsɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "你保持练习",
 		"english": "you keep practicing",
-		"soundmark": "/ju/ /kip/ /ˈpræktɪsɪŋ/"
+		"soundmark": "/ju/ /kip/ /ˈpræktɪsɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "你保持练习那么你将会掌握那个技术",
 		"english": "you keep practicing and you will master the skill",
-		"soundmark": "/ju/ /kip/ /ˈpræktɪsɪŋ/ /ənd/ /ju/ /wɪl/ /'mæstɚ/ /ðə/ /'skɪl/"
+		"soundmark": "/ju/ /kip/ /ˈpræktɪsɪŋ/ /ənd/ /ju/ /wɪl/ /'mæstɚ/ /ðə/ /'skɪl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"连词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"情态动词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			],
+			[
+				7,
+				7,
+				"冠词"
+			],
+			[
+				8,
+				8,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "保持练习那么你将会掌握那个技术",
 		"english": "keep practicing and you will master the skill",
-		"soundmark": "/kip/ /ˈpræktɪsɪŋ/ /ənd/ /ju/ /wɪl/ /'mæstɚ/ /ðə/ /'skɪl/"
+		"soundmark": "/kip/ /ˈpræktɪsɪŋ/ /ənd/ /ju/ /wɪl/ /'mæstɚ/ /ðə/ /'skɪl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"连词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"情态动词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"冠词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "新的",
 		"english": "new",
-		"soundmark": "/nu/"
+		"soundmark": "/nu/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "新的技术",
 		"english": "new skills",
-		"soundmark": "/nu/ /'skɪlz/"
+		"soundmark": "/nu/ /'skɪlz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "学习",
 		"english": "to learn",
-		"soundmark": "/tə/ /lɝn/"
+		"soundmark": "/tə/ /lɝn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "学习新的技术",
 		"english": "to learn new skills",
-		"soundmark": "/tə/ /lɝn/ /nu/ /'skɪlz/"
+		"soundmark": "/tə/ /lɝn/ /nu/ /'skɪlz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"形容词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "学习新的技术(ing形式)",
 		"english": "learning new skills",
-		"soundmark": "/'lɝnɪŋ/ /nu/ /'skɪlz/"
+		"soundmark": "/'lɝnɪŋ/ /nu/ /'skɪlz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"形容词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"谓语",
+				"VP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "保持",
 		"english": "to keep",
-		"soundmark": "/tə/ /kip/"
+		"soundmark": "/tə/ /kip/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "她保持",
 		"english": "she keeps",
-		"soundmark": "/ʃi/ /kips/"
+		"soundmark": "/ʃi/ /kips/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "她一直学习新的技术",
 		"english": "she keeps learning new skills",
-		"soundmark": "/ʃi/ /kips/ /'lɝnɪŋ/ /nu/ /'skɪlz/"
+		"soundmark": "/ʃi/ /kips/ /'lɝnɪŋ/ /nu/ /'skɪlz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "提升",
 		"english": "to improve",
-		"soundmark": "/tə/ /ɪmˈpruv/"
+		"soundmark": "/tə/ /ɪmˈpruv/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "她自己",
 		"english": "herself",
-		"soundmark": "/hɝ'sɛlf/"
+		"soundmark": "/hɝ'sɛlf/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "提升她自己",
 		"english": "to improve herself",
-		"soundmark": "/tə/ /ɪmˈpruv/ /hɝ'sɛlf/"
+		"soundmark": "/tə/ /ɪmˈpruv/ /hɝ'sɛlf/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "她一直学习新的技术来提升她自己",
 		"english": "she keeps learning new skills to improve herself",
-		"soundmark": "/ʃi/ /kips/ /'lɝnɪŋ/ /nu/ /'skɪlz/ /tə/ /ɪmˈpruv/ /hɝ'sɛlf/"
+		"soundmark": "/ʃi/ /kips/ /'lɝnɪŋ/ /nu/ /'skɪlz/ /tə/ /ɪmˈpruv/ /hɝ'sɛlf/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"动词"
+			],
+			[
+				7,
+				7,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				4,
+				"宾语",
+				"NP"
+			],
+			[
+				5,
+				5,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "锁",
 		"english": "to lock",
-		"soundmark": "/tə/ /lɑk/"
+		"soundmark": "/tə/ /lɑk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "门",
 		"english": "the door",
-		"soundmark": "/ðə/ /dɔr/"
+		"soundmark": "/ðə/ /dɔr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "锁门",
 		"english": "to lock the door",
-		"soundmark": "/tə/ /lɑk/ /ðə/ /dɔr/"
+		"soundmark": "/tə/ /lɑk/ /ðə/ /dɔr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "忘记",
 		"english": "to forget",
-		"soundmark": "/tə/ /fɚ'ɡɛt/"
+		"soundmark": "/tə/ /fɚ'ɡɛt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "忘记锁门",
 		"english": "to forget to lock the door",
-		"soundmark": "/tə/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/"
+		"soundmark": "/tə/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "忘记锁门(ing形式)",
 		"english": "forgetting to lock the door",
-		"soundmark": "/fɚ'ɡɛtɪŋ/ /tə/ /lɑk/ /ðə/ /dɔr/"
+		"soundmark": "/fɚ'ɡɛtɪŋ/ /tə/ /lɑk/ /ðə/ /dɔr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"介词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"谓语",
+				"VP"
+			],
+			[
+				1,
+				4,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "保持",
 		"english": "to keep",
-		"soundmark": "/tə/ /kip/"
+		"soundmark": "/tə/ /kip/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "她保持",
 		"english": "she keeps",
-		"soundmark": "/ʃi/ /kips/"
+		"soundmark": "/ʃi/ /kips/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "她总是忘记锁门",
 		"english": "she keeps forgetting to lock the door",
-		"soundmark": "/ʃi/ /kips/ /fɚ'ɡɛtɪŋ/ /tə/ /lɑk/ /ðə/ /dɔr/"
+		"soundmark": "/ʃi/ /kips/ /fɚ'ɡɛtɪŋ/ /tə/ /lɑk/ /ðə/ /dɔr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"冠词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				3,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "离开",
 		"english": "to leave",
-		"soundmark": "/tə/ /liv/"
+		"soundmark": "/tə/ /liv/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "她离开",
 		"english": "she leaves",
-		"soundmark": "/ʃi/ /livz/"
+		"soundmark": "/ʃi/ /livz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "当......的时候",
 		"english": "when",
-		"soundmark": "/wɛn/"
+		"soundmark": "/wɛn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "当她离开的时候",
 		"english": "when she leaves",
-		"soundmark": "/wɛn/ /ʃi/ /livz/"
+		"soundmark": "/wɛn/ /ʃi/ /livz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"疑问宾语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "她总是忘记锁门",
 		"english": "she keeps forgetting to lock the door",
-		"soundmark": "/ʃi/ /kips/ /fɚ'ɡɛtɪŋ/ /tə/ /lɑk/ /ðə/ /dɔr/"
+		"soundmark": "/ʃi/ /kips/ /fɚ'ɡɛtɪŋ/ /tə/ /lɑk/ /ðə/ /dɔr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"冠词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				3,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "她总是忘记锁门当她离开的时候",
 		"english": "she keeps forgetting to lock the door when she leaves",
-		"soundmark": "/ʃi/ /kips/ /fɚ'ɡɛtɪŋ/ /tə/ /lɑk/ /ðə/ /dɔr/ /wɛn/ /ʃi/ /livz/"
+		"soundmark": "/ʃi/ /kips/ /fɚ'ɡɛtɪŋ/ /tə/ /lɑk/ /ðə/ /dɔr/ /wɛn/ /ʃi/ /livz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"冠词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			],
+			[
+				7,
+				7,
+				"疑问词"
+			],
+			[
+				8,
+				8,
+				"代词"
+			],
+			[
+				9,
+				9,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				3,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "钥匙",
 		"english": "keys",
-		"soundmark": "/kiz/"
+		"soundmark": "/kiz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "他的钥匙",
 		"english": "his keys",
-		"soundmark": "/hɪz/ /kiz/"
+		"soundmark": "/hɪz/ /kiz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "忘记",
 		"english": "to forget",
-		"soundmark": "/tə/ /fɚ'ɡɛt/"
+		"soundmark": "/tə/ /fɚ'ɡɛt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "忘记他的钥匙",
 		"english": "to forget his keys",
-		"soundmark": "/tə/ /fɚ'ɡɛt/ /hɪz/ /kiz/"
+		"soundmark": "/tə/ /fɚ'ɡɛt/ /hɪz/ /kiz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "家",
 		"english": "home",
-		"soundmark": "/hom/"
+		"soundmark": "/hom/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "在家",
 		"english": "at home",
-		"soundmark": "/ət/ /hom/"
+		"soundmark": "/ət/ /hom/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "忘记他的钥匙在家里",
 		"english": "to forget his keys at home",
-		"soundmark": "/tə/ /fɚ'ɡɛt/ /hɪz/ /kiz/ /ət/ /hom/"
+		"soundmark": "/tə/ /fɚ'ɡɛt/ /hɪz/ /kiz/ /ət/ /hom/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			],
+			[
+				4,
+				5,
+				"介词短语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "忘记他的钥匙在家里(ing形式)",
 		"english": "forgetting his keys at home",
-		"soundmark": "/fɚ'ɡɛtɪŋ/ /hɪz/ /kiz/ /ət/ /hom/"
+		"soundmark": "/fɚ'ɡɛtɪŋ/ /hɪz/ /kiz/ /ət/ /hom/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"谓语",
+				"VP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			],
+			[
+				3,
+				4,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "保持",
 		"english": "to keep",
-		"soundmark": "/tə/ /kip/"
+		"soundmark": "/tə/ /kip/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "他保持",
 		"english": "he keeps",
-		"soundmark": "/hi/ /kips/"
+		"soundmark": "/hi/ /kips/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他总是忘记他的钥匙在家里",
 		"english": "he keeps forgetting his keys at home",
-		"soundmark": "/hi/ /kips/ /fɚ'ɡɛtɪŋ/ /hɪz/ /kiz/ /ət/ /hom/"
+		"soundmark": "/hi/ /kips/ /fɚ'ɡɛtɪŋ/ /hɪz/ /kiz/ /ət/ /hom/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				4,
+				"宾语",
+				"NP"
+			],
+			[
+				5,
+				6,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "想法",
 		"english": "mind",
-		"soundmark": "/maɪnd/"
+		"soundmark": "/maɪnd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "他的想法",
 		"english": "his mind",
-		"soundmark": "/hɪz/ /maɪnd/"
+		"soundmark": "/hɪz/ /maɪnd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "改变",
 		"english": "to change",
-		"soundmark": "/tə/ /tʃendʒ/"
+		"soundmark": "/tə/ /tʃendʒ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "改变他的想法",
 		"english": "to change his mind",
-		"soundmark": "/tə/ /tʃendʒ/ /hɪz/ /maɪnd/"
+		"soundmark": "/tə/ /tʃendʒ/ /hɪz/ /maɪnd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "改变他的想法(ing形式)",
 		"english": "changing his mind",
-		"soundmark": "/'tʃendʒɪŋ/ /hɪz/ /maɪnd/"
+		"soundmark": "/'tʃendʒɪŋ/ /hɪz/ /maɪnd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"谓语",
+				"VP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "保持",
 		"english": "to keep",
-		"soundmark": "/tə/ /kip/"
+		"soundmark": "/tə/ /kip/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "他保持",
 		"english": "he keeps",
-		"soundmark": "/hi/ /kips/"
+		"soundmark": "/hi/ /kips/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他总是改变他的想法",
 		"english": "he keeps changing his mind",
-		"soundmark": "/hi/ /kips/ /'tʃendʒɪŋ/ /hɪz/ /maɪnd/"
+		"soundmark": "/hi/ /kips/ /'tʃendʒɪŋ/ /hɪz/ /maɪnd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "时间",
 		"english": "time",
-		"soundmark": "/taɪm/"
+		"soundmark": "/taɪm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "所有的时间",
 		"english": "all the time",
-		"soundmark": "/ɔl/ /ðə/ /taɪm/"
+		"soundmark": "/ɔl/ /ðə/ /taɪm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"冠词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他(一直)总是改变他的想法",
 		"english": "he keeps changing his mind all the time",
-		"soundmark": "/hi/ /kips/ /'tʃendʒɪŋ/ /hɪz/ /maɪnd/ /ɔl/ /ðə/ /taɪm/"
+		"soundmark": "/hi/ /kips/ /'tʃendʒɪŋ/ /hɪz/ /maɪnd/ /ɔl/ /ðə/ /taɪm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"冠词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				7,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "想法",
 		"english": "mind",
-		"soundmark": "/maɪnd/"
+		"soundmark": "/maɪnd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "介意",
 		"english": "to mind",
-		"soundmark": "/tə/ /maɪnd/"
+		"soundmark": "/tə/ /maɪnd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我介意",
 		"english": "I mind",
-		"soundmark": "/aɪ/ /maɪnd/"
+		"soundmark": "/aɪ/ /maɪnd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "打开",
 		"english": "to open",
-		"soundmark": "/tə/ /'opən/"
+		"soundmark": "/tə/ /'opən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "这个窗户",
 		"english": "the window",
-		"soundmark": "/ðə/ /'wɪndo/"
+		"soundmark": "/ðə/ /'wɪndo/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "打开这个窗户",
 		"english": "to open the window",
-		"soundmark": "/tə/ /'opən/ /ðə/ /'wɪndo/"
+		"soundmark": "/tə/ /'opən/ /ðə/ /'wɪndo/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "打开这个窗户(ing形式)",
 		"english": "opening the window",
-		"soundmark": "/'opənɪŋ/ /ðə/ /'wɪndo/"
+		"soundmark": "/'opənɪŋ/ /ðə/ /'wɪndo/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"冠词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"谓语",
+				"VP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我介意打开这个窗户",
 		"english": "I mind opening the window",
-		"soundmark": "/aɪ/ /maɪnd/ /'opənɪŋ/ /ðə/ /'wɪndo/"
+		"soundmark": "/aɪ/ /maɪnd/ /'opənɪŋ/ /ðə/ /'wɪndo/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我不介意打开这个窗户",
 		"english": "I don't mind opening the window",
-		"soundmark": "/aɪ/ /dont/ /maɪnd/ /'opənɪŋ/ /ðə/ /'wɪndo/"
+		"soundmark": "/aɪ/ /dont/ /maɪnd/ /'opənɪŋ/ /ðə/ /'wɪndo/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"冠词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "支付",
 		"english": "to pay",
-		"soundmark": "/tə/ /pe/"
+		"soundmark": "/tə/ /pe/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "账单",
 		"english": "the bill",
-		"soundmark": "/ðə/ /bɪl/"
+		"soundmark": "/ðə/ /bɪl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "支付账单",
 		"english": "to pay the bill",
-		"soundmark": "/tə/ /pe/ /ðə/ /bɪl/"
+		"soundmark": "/tə/ /pe/ /ðə/ /bɪl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "支付账单(ing形式)",
 		"english": "paying the bill",
-		"soundmark": "/'peɪŋ/ /ðə/ /bɪl/"
+		"soundmark": "/'peɪŋ/ /ðə/ /bɪl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"冠词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"谓语",
+				"VP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "介意",
 		"english": "to mind",
-		"soundmark": "/tə/ /maɪnd/"
+		"soundmark": "/tə/ /maɪnd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他介意",
 		"english": "he minds",
-		"soundmark": "/hi/ /maɪndz/"
+		"soundmark": "/hi/ /maɪndz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他介意支付账单",
 		"english": "he minds paying the bill",
-		"soundmark": "/hi/ /maɪndz/ /'peɪŋ/ /ðə/ /bɪl/"
+		"soundmark": "/hi/ /maɪndz/ /'peɪŋ/ /ðə/ /bɪl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他不介意支付账单",
 		"english": "he doesn't mind paying the bill",
-		"soundmark": "/hi/ /ˈdʌznt/ /maɪnd/ /'peɪŋ/ /ðə/ /bɪl/"
+		"soundmark": "/hi/ /ˈdʌznt/ /maɪnd/ /'peɪŋ/ /ðə/ /bɪl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"冠词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "玩具",
 		"english": "toy",
-		"soundmark": "/tɔɪ/"
+		"soundmark": "/tɔɪ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "他的玩具",
 		"english": "his toys",
-		"soundmark": "/hɪz/ /tɔɪz/"
+		"soundmark": "/hɪz/ /tɔɪz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "分享",
 		"english": "to share",
-		"soundmark": "/tə/ /ʃɛr/"
+		"soundmark": "/tə/ /ʃɛr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "分享他的玩具",
 		"english": "to share his toys",
-		"soundmark": "/tə/ /ʃɛr/ /hɪz/ /tɔɪz/"
+		"soundmark": "/tə/ /ʃɛr/ /hɪz/ /tɔɪz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "朋友",
 		"english": "friend",
-		"soundmark": "/frɛnd/"
+		"soundmark": "/frɛnd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "他的朋友们",
 		"english": "his friends",
-		"soundmark": "/hɪz/ /frɛndz/"
+		"soundmark": "/hɪz/ /frɛndz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "和",
 		"english": "with",
-		"soundmark": "/wɪð/"
+		"soundmark": "/wɪð/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "和他的朋友们",
 		"english": "with his friends",
-		"soundmark": "/wɪð/ /hɪz/ /frɛndz/"
+		"soundmark": "/wɪð/ /hɪz/ /frɛndz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "和他的朋友们分享他的玩具",
 		"english": "to share his toys with his friends",
-		"soundmark": "/tə/ /ʃɛr/ /hɪz/ /tɔɪz/ /wɪð/ /hɪz/ /frɛndz/"
+		"soundmark": "/tə/ /ʃɛr/ /hɪz/ /tɔɪz/ /wɪð/ /hɪz/ /frɛndz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "和他的朋友们分享他的玩具（ing 形式）",
 		"english": "sharing his toys with his friends",
-		"soundmark": "/'ʃɛriŋ/ /hɪz/ /tɔɪz/ /wɪð/ /hɪz/ /frɛndz/"
+		"soundmark": "/'ʃɛriŋ/ /hɪz/ /tɔɪz/ /wɪð/ /hɪz/ /frɛndz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"谓语",
+				"VP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			],
+			[
+				3,
+				5,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "他介意",
 		"english": "he minds",
-		"soundmark": "/hi/ /maɪndz/"
+		"soundmark": "/hi/ /maɪndz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他介意和他的朋友们分享他的玩具",
 		"english": "he minds sharing his toys with his friends",
-		"soundmark": "/hi/ /maɪndz/ /'ʃɛəriŋ/ /hɪz/ /tɔɪz/ /wɪð/ /hɪz/ /frɛndz/"
+		"soundmark": "/hi/ /maɪndz/ /'ʃɛəriŋ/ /hɪz/ /tɔɪz/ /wɪð/ /hɪz/ /frɛndz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				4,
+				"宾语",
+				"NP"
+			],
+			[
+				5,
+				7,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "他不介意和他的朋友们分享他的玩具",
 		"english": "he doesn't mind sharing his toys with his friends",
-		"soundmark": "/hi/ /ˈdʌznt/ /maɪnd/ /'ʃɛəriŋ/ /hɪz/ /tɔɪz/ /wɪð/ /hɪz/ /frɛndz/"
+		"soundmark": "/hi/ /ˈdʌznt/ /maɪnd/ /'ʃɛəriŋ/ /hɪz/ /tɔɪz/ /wɪð/ /hɪz/ /frɛndz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			],
+			[
+				7,
+				7,
+				"介词"
+			],
+			[
+				8,
+				8,
+				"代词"
+			],
+			[
+				9,
+				9,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他不介意",
 		"english": "he doesn't mind",
-		"soundmark": "/hi/ /ˈdʌznt/ /maɪnd/"
+		"soundmark": "/hi/ /ˈdʌznt/ /maɪnd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他的食物",
 		"english": "his food",
-		"soundmark": "/hɪz/ /fud/"
+		"soundmark": "/hɪz/ /fud/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "分享",
 		"english": "to share",
-		"soundmark": "/tə/ /ʃɛr/"
+		"soundmark": "/tə/ /ʃɛr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "分享他的食物",
 		"english": "to share his food",
-		"soundmark": "/tə/ /ʃɛr/ /hɪz/ /fud/"
+		"soundmark": "/tə/ /ʃɛr/ /hɪz/ /fud/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "别人",
 		"english": "others",
-		"soundmark": "/'ʌðɚz/"
+		"soundmark": "/'ʌðɚz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "和",
 		"english": "with",
-		"soundmark": "/wɪð/"
+		"soundmark": "/wɪð/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "和别人",
 		"english": "with others",
-		"soundmark": "/wɪð/ /'ʌðɚz/"
+		"soundmark": "/wɪð/ /'ʌðɚz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "和别人分享他的食物",
 		"english": "to share his food with others",
-		"soundmark": "/tə/ /ʃɛr/ /hɪz/ /fud/ /wɪð/ /'ʌðɚz/"
+		"soundmark": "/tə/ /ʃɛr/ /hɪz/ /fud/ /wɪð/ /'ʌðɚz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			],
+			[
+				4,
+				5,
+				"介词短语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "和别人分享他的食物(ing形式)",
 		"english": "sharing his food with others",
-		"soundmark": "/'ʃɛriŋ/ /hɪz/ /fud/ /wɪð/ /'ʌðɚz/"
+		"soundmark": "/'ʃɛriŋ/ /hɪz/ /fud/ /wɪð/ /'ʌðɚz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"谓语",
+				"VP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			],
+			[
+				3,
+				4,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "介意",
 		"english": "to mind",
-		"soundmark": "/tə/ /maɪnd/"
+		"soundmark": "/tə/ /maɪnd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他介意",
 		"english": "he minds",
-		"soundmark": "/hi/ /maɪndz/"
+		"soundmark": "/hi/ /maɪndz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他不介意",
 		"english": "he doesn't mind",
-		"soundmark": "/hi/ /ˈdʌznt/ /maɪnd/"
+		"soundmark": "/hi/ /ˈdʌznt/ /maɪnd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他不介意和别人分享他的食物",
 		"english": "he doesn't mind sharing his food with others",
-		"soundmark": "/hi/ /ˈdʌznt/ /maɪnd/ /'ʃɛriŋ/ /hɪz/ /fud/ /wɪð/ /'ʌðɚz/"
+		"soundmark": "/hi/ /ˈdʌznt/ /maɪnd/ /'ʃɛriŋ/ /hɪz/ /fud/ /wɪð/ /'ʌðɚz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			],
+			[
+				7,
+				7,
+				"介词"
+			],
+			[
+				8,
+				8,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "等",
 		"english": "to wait",
-		"soundmark": "/tə/ /wet/"
+		"soundmark": "/tə/ /wet/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "她",
 		"english": "her",
-		"soundmark": "/hɚ/"
+		"soundmark": "/hɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "等她",
 		"english": "to wait for her",
-		"soundmark": "/tə/ /wet/ /fɚ/ /hɚ/"
+		"soundmark": "/tə/ /wet/ /fɚ/ /hɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"介词短语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "机场",
 		"english": "airport",
-		"soundmark": "/'ɛrpɔrt/"
+		"soundmark": "/'ɛrpɔrt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "在机场",
 		"english": "at the airport",
-		"soundmark": "/ət/ /ði/ /'ɛrpɔrt/"
+		"soundmark": "/ət/ /ði/ /'ɛrpɔrt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"冠词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在机场等她",
 		"english": "to wait for her at the airport",
-		"soundmark": "/tə/ /wet/ /fɚ/ /hɚ/ /ət/ /ði/ /'ɛrpɔrt/"
+		"soundmark": "/tə/ /wet/ /fɚ/ /hɚ/ /ət/ /ði/ /'ɛrpɔrt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"冠词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "在机场等她(ing形式)",
 		"english": "waiting for her at the airport",
-		"soundmark": "/'wetɪŋ/ /fɚ/ /hɚ/ /ət/ /ði/ /'ɛrpɔrt/"
+		"soundmark": "/'wetɪŋ/ /fɚ/ /hɚ/ /ət/ /ði/ /'ɛrpɔrt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"介词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"谓语",
+				"VP"
+			],
+			[
+				1,
+				5,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "他不介意",
 		"english": "he doesn't mind",
-		"soundmark": "/hi/ /ˈdʌznt/ /maɪnd/"
+		"soundmark": "/hi/ /ˈdʌznt/ /maɪnd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他不介意在机场等她",
 		"english": "he doesn't mind waiting for her at the airport",
-		"soundmark": "/hi/ /ˈdʌznt/ /maɪnd/ /'wetɪŋ/ /fɚ/ /hɚ/ /ət/ /ði/ /'ɛrpɔrt/"
+		"soundmark": "/hi/ /ˈdʌznt/ /maɪnd/ /'wetɪŋ/ /fɚ/ /hɚ/ /ət/ /ði/ /'ɛrpɔrt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"介词"
+			],
+			[
+				8,
+				8,
+				"冠词"
+			],
+			[
+				9,
+				9,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "介意",
 		"english": "to mind",
-		"soundmark": "/tə/ /maɪnd/"
+		"soundmark": "/tə/ /maɪnd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他们介意",
 		"english": "they mind",
-		"soundmark": "/ðe/ /maɪnd/"
+		"soundmark": "/ðe/ /maɪnd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "秘密",
 		"english": "secret",
-		"soundmark": "/'sikrət/"
+		"soundmark": "/'sikrət/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "他们的秘密",
 		"english": "their secrets",
-		"soundmark": "/ðɛr/ /'sikrəts/"
+		"soundmark": "/ðɛr/ /'sikrəts/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "分享",
 		"english": "to share",
-		"soundmark": "/tə/ /ʃɛr/"
+		"soundmark": "/tə/ /ʃɛr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "分享他们的秘密",
 		"english": "to share their secrets",
-		"soundmark": "/tə/ /ʃɛr/ /ðɛr/ /'sikrəts/"
+		"soundmark": "/tə/ /ʃɛr/ /ðɛr/ /'sikrəts/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "任何人",
 		"english": "anyone",
-		"soundmark": "/'ɛnɪwʌn/"
+		"soundmark": "/'ɛnɪwʌn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "和",
 		"english": "with",
-		"soundmark": "/wɪð/"
+		"soundmark": "/wɪð/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "和任何人",
 		"english": "with anyone",
-		"soundmark": "/wɪð/ /'ɛnɪwʌn/"
+		"soundmark": "/wɪð/ /'ɛnɪwʌn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "和任何人分享他们的秘密",
 		"english": "to share their secrets with anyone",
-		"soundmark": "/tə/ /ʃɛr/ /ðɛr/ /'sikrəts/ /wɪð/ /'ɛnɪwʌn/"
+		"soundmark": "/tə/ /ʃɛr/ /ðɛr/ /'sikrəts/ /wɪð/ /'ɛnɪwʌn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			],
+			[
+				4,
+				5,
+				"介词短语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "和任何人分享他们的秘密(ing形式)",
 		"english": "sharing their secrets with anyone",
-		"soundmark": "/'ʃɛriŋ/ /ðɛr/ /'sikrəts/ /wɪð/ /'ɛnɪwʌn/"
+		"soundmark": "/'ʃɛriŋ/ /ðɛr/ /'sikrəts/ /wɪð/ /'ɛnɪwʌn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"谓语",
+				"VP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			],
+			[
+				3,
+				4,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "他们介意",
 		"english": "they mind",
-		"soundmark": "/ðe/ /maɪnd/"
+		"soundmark": "/ðe/ /maɪnd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他们不介意",
 		"english": "they don't mind",
-		"soundmark": "/ðe/ /dont/ /maɪnd/"
+		"soundmark": "/ðe/ /dont/ /maɪnd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他们不介意和任何人分享他们的秘密",
 		"english": "they don't mind sharing their secrets with anyone",
-		"soundmark": "/ðe/ /dont/ /maɪnd/ /'ʃɛriŋ/ /ðɛr/ /'sikrəts/ /wɪð/ /'ɛnɪwʌn/"
+		"soundmark": "/ðe/ /dont/ /maɪnd/ /'ʃɛriŋ/ /ðɛr/ /'sikrəts/ /wɪð/ /'ɛnɪwʌn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			],
+			[
+				7,
+				7,
+				"介词"
+			],
+			[
+				8,
+				8,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他介意",
 		"english": "he minds",
-		"soundmark": "/hi/ /maɪndz/"
+		"soundmark": "/hi/ /maɪndz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "建议",
 		"english": "advice",
-		"soundmark": "/əd'vaɪs/"
+		"soundmark": "/əd'vaɪs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "一些",
 		"english": "some",
-		"soundmark": "/səm/"
+		"soundmark": "/səm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "一些建议",
 		"english": "some advice",
-		"soundmark": "/səm/ /əd'vaɪs/"
+		"soundmark": "/səm/ /əd'vaɪs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "问题",
 		"english": "problem",
-		"soundmark": "/'prɑbləm/"
+		"soundmark": "/'prɑbləm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "这个问题",
 		"english": "this problem",
-		"soundmark": "/ðɪs/ /'prɑbləm/"
+		"soundmark": "/ðɪs/ /'prɑbləm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "关于",
 		"english": "about",
-		"soundmark": "/ə'baʊt/"
+		"soundmark": "/ə'baʊt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "关于这个问题",
 		"english": "about this problem",
-		"soundmark": "/ə'baʊt/ /ðɪs/ /'prɑbləm/"
+		"soundmark": "/ə'baʊt/ /ðɪs/ /'prɑbləm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "关于这个问题的一些建议",
 		"english": "some advice about this problem",
-		"soundmark": "/səm/ /əd'vaɪs/ /ə'baʊt/ /ðɪs/ /'prɑbləm/"
+		"soundmark": "/səm/ /əd'vaɪs/ /ə'baʊt/ /ðɪs/ /'prɑbləm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "给",
 		"english": "to give",
-		"soundmark": "/tə/ /ɡɪv/"
+		"soundmark": "/tə/ /ɡɪv/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "给我",
 		"english": "to give me",
-		"soundmark": "/tə/ /ɡɪv/ /mi/"
+		"soundmark": "/tə/ /ɡɪv/ /mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "给我一些建议",
 		"english": "to give me some advice",
-		"soundmark": "/tə/ /ɡɪv/ /mi/ /səm/ /əd'vaɪs/"
+		"soundmark": "/tə/ /ɡɪv/ /mi/ /səm/ /əd'vaɪs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "给我关于这个问题的一些建议",
 		"english": "to give me some advice about this problem",
-		"soundmark": "/tə/ /ɡɪv/ /mi/ /səm/ /əd'vaɪs/ /ə'baʊt/ /ðɪs/ /'prɑbləm/"
+		"soundmark": "/tə/ /ɡɪv/ /mi/ /səm/ /əd'vaɪs/ /ə'baʊt/ /ðɪs/ /'prɑbləm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "给我关于这个问题的一些建议（ing 形式）",
 		"english": "giving me some advice about this problem",
-		"soundmark": "/ɡɪviŋ/ /mi/ /səm/ /əd'vaɪs/ /ə'baʊt/ /ðɪs/ /'prɑbləm/"
+		"soundmark": "/ɡɪviŋ/ /mi/ /səm/ /əd'vaɪs/ /ə'baʊt/ /ðɪs/ /'prɑbləm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"谓语",
+				"VP"
+			],
+			[
+				1,
+				3,
+				"宾语",
+				"NP"
+			],
+			[
+				4,
+				6,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "他介意",
 		"english": "he minds",
-		"soundmark": "/hi/ /maɪndz/"
+		"soundmark": "/hi/ /maɪndz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他不介意",
 		"english": "he doesn't mind",
-		"soundmark": "/hi/ /ˈdʌznt/ /maɪnd/"
+		"soundmark": "/hi/ /ˈdʌznt/ /maɪnd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他不介意给我关于这个问题的一些建议",
 		"english": "he doesn't mind giving me some advice about this problem",
-		"soundmark": "/hi/ /ˈdʌznt/ /maɪnd/ /ɡɪviŋ/ /mi/ /səm/ /əd'vaɪs/ /ə'baʊt/ /ðɪs/ /'prɑbləm/"
+		"soundmark": "/hi/ /ˈdʌznt/ /maɪnd/ /ɡɪviŋ/ /mi/ /səm/ /əd'vaɪs/ /ə'baʊt/ /ðɪs/ /'prɑbləm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			],
+			[
+				8,
+				8,
+				"介词"
+			],
+			[
+				9,
+				9,
+				"代词"
+			],
+			[
+				10,
+				10,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	}
 ]

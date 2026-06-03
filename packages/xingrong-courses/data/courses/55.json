@@ -2,636 +2,4083 @@
 	{
 		"chinese": "解决",
 		"english": "to solve",
-		"soundmark": "/tə/ /sɔlv/"
+		"soundmark": "/tə/ /sɔlv/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "解决(ed形式)",
 		"english": "solved",
-		"soundmark": "/sɔlvd/"
+		"soundmark": "/sɔlvd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "被解决",
 		"english": "be solved",
-		"soundmark": "/bi/ /sɔlvd/"
+		"soundmark": "/bi/ /sɔlvd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "那个问题",
 		"english": "the problem",
-		"soundmark": "/ðə/ /'prɑbləm/"
+		"soundmark": "/ðə/ /'prɑbləm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "那个问题被解决",
 		"english": "the problem is solved",
-		"soundmark": "/ðə/ /'prɑbləm/ /ɪz/ /sɔlvd/"
+		"soundmark": "/ðə/ /'prɑbləm/ /ɪz/ /sɔlvd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				3,
+				"宾语",
+				"ADJP"
+			]
+		]
 	},
 	{
 		"chinese": "(已经)被解决",
 		"english": "has been solved",
-		"soundmark": "/hæz/ /bɪn/ /sɔlvd/"
+		"soundmark": "/hæz/ /bɪn/ /sɔlvd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"助动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "那个问题(已经)被解决",
 		"english": "the problem has been solved",
-		"soundmark": "/ðə/ /'prɑbləm/ /hæz/ /bɪn/ /sɔlvd/"
+		"soundmark": "/ðə/ /'prɑbləm/ /hæz/ /bɪn/ /sɔlvd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"助动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				4,
+				"宾语",
+				"ADJP"
+			]
+		]
 	},
 	{
 		"chinese": "(过去已经)被解决",
 		"english": "had been solved",
-		"soundmark": "/hæd/ /bɪn/ /sɔlvd/"
+		"soundmark": "/hæd/ /bɪn/ /sɔlvd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"助动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "那个问题(过去已经)被解决",
 		"english": "the problem had been solved",
-		"soundmark": "/ðə/ /'prɑbləm/ /hæd/ /bɪn/ /sɔlvd/"
+		"soundmark": "/ðə/ /'prɑbləm/ /hæd/ /bɪn/ /sɔlvd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"助动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				4,
+				"宾语",
+				"ADJP"
+			]
+		]
 	},
 	{
 		"chinese": "通过他",
 		"english": "by him",
-		"soundmark": "/baɪ/ /hɪm/"
+		"soundmark": "/baɪ/ /hɪm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "那个问题(过去已经)通过他被解决",
 		"english": "the problem had been solved by him",
-		"soundmark": "/ðə/ /'prɑbləm/ /hæd/ /bɪn/ /sɔlvd/ /baɪ/ /hɪm/"
+		"soundmark": "/ðə/ /'prɑbləm/ /hæd/ /bɪn/ /sɔlvd/ /baɪ/ /hɪm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"助动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				4,
+				"宾语",
+				"ADJP"
+			],
+			[
+				5,
+				6,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "其他",
 		"english": "else",
-		"soundmark": "/ɛls/"
+		"soundmark": "/ɛls/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "任何人",
 		"english": "anyone",
-		"soundmark": "/'ɛnɪwʌn/"
+		"soundmark": "/'ɛnɪwʌn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "其他任何人",
 		"english": "anyone else",
-		"soundmark": "/'ɛnɪwʌn/ /ɛls/"
+		"soundmark": "/'ɛnɪwʌn/ /ɛls/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "注意到",
 		"english": "to notice",
-		"soundmark": "/tə/ /ˈnotɪs/"
+		"soundmark": "/tə/ /ˈnotɪs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "注意到(过去)",
 		"english": "noticed",
-		"soundmark": "/ˈnotɪst/"
+		"soundmark": "/ˈnotɪst/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "它",
 		"english": "it",
-		"soundmark": "/ɪt/"
+		"soundmark": "/ɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "注意到(过去)它",
 		"english": "noticed it",
-		"soundmark": "/ˈnotɪst/ /ɪt/"
+		"soundmark": "/ˈnotɪst/ /ɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"谓语",
+				"VP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "其他任何人注意到(过去)它",
 		"english": "anyone else noticed it",
-		"soundmark": "/'ɛnɪwʌn/ /ɛls/ /ˈnotɪst/ /ɪt/"
+		"soundmark": "/'ɛnɪwʌn/ /ɛls/ /ˈnotɪst/ /ɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"形容词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在......之前",
 		"english": "before",
-		"soundmark": "/bɪ'fɔr/"
+		"soundmark": "/bɪ'fɔr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "在其他任何人注意到(过去)它之前",
 		"english": "before anyone else noticed it",
-		"soundmark": "/bɪ'fɔr/ /'ɛnɪwʌn/ /ɛls/ /ˈnotɪst/ /ɪt/"
+		"soundmark": "/bɪ'fɔr/ /'ɛnɪwʌn/ /ɛls/ /ˈnotɪst/ /ɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"形容词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "那个问题(过去已经)被他解决",
 		"english": "the problem had been solved by him",
-		"soundmark": "/ðə/ /'prɑbləm/ /hæd/ /bɪn/ /sɔlvd/ /baɪ/ /hɪm/"
+		"soundmark": "/ðə/ /'prɑbləm/ /hæd/ /bɪn/ /sɔlvd/ /baɪ/ /hɪm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"助动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				4,
+				"宾语",
+				"ADJP"
+			],
+			[
+				5,
+				6,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "在其他任何人注意到(过去)它之前那个问题(过去已经)被他解决",
 		"english": "the problem had been solved by him before anyone else noticed it",
-		"soundmark": "/ðə/ /'prɑbləm/ /hæd/ /bɪn/ /sɔlvd/ /baɪ/ /hɪm/ /bɪ'fɔr/ /'ɛnɪwʌn/ /ɛls/ /ˈnotɪst/ /ɪt/"
+		"soundmark": "/ðə/ /'prɑbləm/ /hæd/ /bɪn/ /sɔlvd/ /baɪ/ /hɪm/ /bɪ'fɔr/ /'ɛnɪwʌn/ /ɛls/ /ˈnotɪst/ /ɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"助动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"介词"
+			],
+			[
+				8,
+				8,
+				"代词"
+			],
+			[
+				9,
+				9,
+				"形容词"
+			],
+			[
+				10,
+				10,
+				"动词"
+			],
+			[
+				11,
+				11,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				4,
+				"宾语",
+				"ADJP"
+			],
+			[
+				5,
+				11,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "粉刷",
 		"english": "to paint",
-		"soundmark": "/tə/ /pent/"
+		"soundmark": "/tə/ /pent/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "粉刷(ed形式)",
 		"english": "painted",
-		"soundmark": "/ˈpentɪd/"
+		"soundmark": "/ˈpentɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "被粉刷",
 		"english": "be painted",
-		"soundmark": "/bi/ /ˈpentɪd/"
+		"soundmark": "/bi/ /ˈpentɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "(已经)被粉刷",
 		"english": "has been painted",
-		"soundmark": "/hæz/ /bɪn/ /ˈpentɪd/"
+		"soundmark": "/hæz/ /bɪn/ /ˈpentɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"助动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "(过去已经)被粉刷",
 		"english": "had been painted",
-		"soundmark": "/hæd/ /bɪn/ /ˈpentɪd/"
+		"soundmark": "/hæd/ /bɪn/ /ˈpentɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"助动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "那个房子",
 		"english": "the house",
-		"soundmark": "/ðə/ /haʊs/"
+		"soundmark": "/ðə/ /haʊs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "那个房子(过去已经)被粉刷",
 		"english": "the house had been painted",
-		"soundmark": "/ðə/ /haʊs/ /hæd/ /bɪn/ /ˈpentɪd/"
+		"soundmark": "/ðə/ /haʊs/ /hæd/ /bɪn/ /ˈpentɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"助动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				4,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "搬",
 		"english": "to move",
-		"soundmark": "/tə/ /muv/"
+		"soundmark": "/tə/ /muv/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "搬(过去)",
 		"english": "moved",
-		"soundmark": "/muvd/"
+		"soundmark": "/muvd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "他们搬(过去)",
 		"english": "they moved",
-		"soundmark": "/ðe/ /muvd/"
+		"soundmark": "/ðe/ /muvd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "往里面",
 		"english": "in",
-		"soundmark": "/ɪn/"
+		"soundmark": "/ɪn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "他们搬(过去)进去",
 		"english": "they moved in",
-		"soundmark": "/ðe/ /muvd/ /ɪn/"
+		"soundmark": "/ðe/ /muvd/ /ɪn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "在......之前",
 		"english": "before",
-		"soundmark": "/bɪ'fɔr/"
+		"soundmark": "/bɪ'fɔr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "在他们搬(过去)进去之前",
 		"english": "before they moved in",
-		"soundmark": "/bɪ'fɔr/ /ðe/ /muvd/ /ɪn/"
+		"soundmark": "/bɪ'fɔr/ /ðe/ /muvd/ /ɪn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "那个房子(过去已经)被粉刷",
 		"english": "the house had been painted",
-		"soundmark": "/ðə/ /haʊs/ /hæd/ /bɪn/ /ˈpentɪd/"
+		"soundmark": "/ðə/ /haʊs/ /hæd/ /bɪn/ /ˈpentɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"助动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				4,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "在他们搬(过去)进去之前那个房子(过去已经)被粉刷",
 		"english": "the house had been painted before they moved in",
-		"soundmark": "/ðə/ /haʊs/ /hæd/ /bɪn/ /ˈpentɪd/ /bɪ'fɔr/ /ðe/ /muvd/ /ɪn/"
+		"soundmark": "/ðə/ /haʊs/ /hæd/ /bɪn/ /ˈpentɪd/ /bɪ'fɔr/ /ðe/ /muvd/ /ɪn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"助动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"动词"
+			],
+			[
+				8,
+				8,
+				"介词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				4,
+				"谓语",
+				"VP"
+			],
+			[
+				5,
+				8,
+				"宾语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "建造",
 		"english": "to build",
-		"soundmark": "/tə/ /bɪld/"
+		"soundmark": "/tə/ /bɪld/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "建筑物",
 		"english": "building",
-		"soundmark": "/'bɪldɪŋ/"
+		"soundmark": "/'bɪldɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "那个建筑物",
 		"english": "the building",
-		"soundmark": "/ðə/ /'bɪldɪŋ/"
+		"soundmark": "/ðə/ /'bɪldɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "疏散",
 		"english": "to evacuate",
-		"soundmark": "/tə/ /ɪˈvækjuet/"
+		"soundmark": "/tə/ /ɪˈvækjuet/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "疏散(ed形式)",
 		"english": "evacuated",
-		"soundmark": "/ɪˈvækjuetɪd/"
+		"soundmark": "/ɪˈvækjuetɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "被疏散",
 		"english": "be evacuated",
-		"soundmark": "/bi/ /ɪˈvækjuetɪd/"
+		"soundmark": "/bi/ /ɪˈvækjuetɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "(过去已经)被疏散",
 		"english": "had been evacuated",
-		"soundmark": "/hæd/ /bɪn/ /ɪˈvækjuetɪd/"
+		"soundmark": "/hæd/ /bɪn/ /ɪˈvækjuetɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"助动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "那个建筑物(过去已经)被疏散",
 		"english": "the building had been evacuated",
-		"soundmark": "/ðə/ /'bɪldɪŋ/ /hæd/ /bɪn/ /ɪˈvækjuetɪd/"
+		"soundmark": "/ðə/ /'bɪldɪŋ/ /hæd/ /bɪn/ /ɪˈvækjuetɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"助动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				4,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "火",
 		"english": "fire",
-		"soundmark": "/ˈfaɪər/"
+		"soundmark": "/ˈfaɪər/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "蔓延",
 		"english": "to spread",
-		"soundmark": "/tə/ /sprɛd/"
+		"soundmark": "/tə/ /sprɛd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "蔓延(过去)",
 		"english": "spread",
-		"soundmark": "/sprɛd/"
+		"soundmark": "/sprɛd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "火势蔓延(过去)",
 		"english": "the fire spread",
-		"soundmark": "/ðə/ /ˈfaɪər/ /sprɛd/"
+		"soundmark": "/ðə/ /ˈfaɪər/ /sprɛd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				2,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在......之前",
 		"english": "before",
-		"soundmark": "/bɪ'fɔr/"
+		"soundmark": "/bɪ'fɔr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "在火势蔓延(过去)之前",
 		"english": "before the fire spread",
-		"soundmark": "/bɪ'fɔr/ /ðə/ /ˈfaɪər/ /sprɛd/"
+		"soundmark": "/bɪ'fɔr/ /ðə/ /ˈfaɪər/ /sprɛd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"冠词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "那个建筑物(过去已经)被疏散",
 		"english": "the building had been evacuated",
-		"soundmark": "/ðə/ /'bɪldɪŋ/ /hæd/ /bɪn/ /ɪˈvækjuetɪd/"
+		"soundmark": "/ðə/ /'bɪldɪŋ/ /hæd/ /bɪn/ /ɪˈvækjuetɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"助动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				4,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "在火势蔓延(过去)之前那个建筑物(过去已经)被疏散",
 		"english": "the building had been evacuated before the fire spread",
-		"soundmark": "/ðə/ /'bɪldɪŋ/ /hæd/ /bɪn/ /ɪˈvækjuetɪd/ /bɪ'fɔr/ /ðə/ /ˈfaɪər/ /sprɛd/"
+		"soundmark": "/ðə/ /'bɪldɪŋ/ /hæd/ /bɪn/ /ɪˈvækjuetɪd/ /bɪ'fɔr/ /ðə/ /ˈfaɪər/ /sprɛd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"助动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"冠词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			],
+			[
+				8,
+				8,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				4,
+				"谓语",
+				"VP"
+			],
+			[
+				5,
+				8,
+				"宾语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "停车",
 		"english": "to park",
-		"soundmark": "/tə/ /pɑrk/"
+		"soundmark": "/tə/ /pɑrk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "停车(ed形式)",
 		"english": "parked",
-		"soundmark": "/pɑrkt/"
+		"soundmark": "/pɑrkt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "(过去已经)被停",
 		"english": "had been parked",
-		"soundmark": "/hæd/ /bɪn/ /pɑrkt/"
+		"soundmark": "/hæd/ /bɪn/ /pɑrkt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"助动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "那辆车",
 		"english": "the car",
-		"soundmark": "/ðə/ /kɑr/"
+		"soundmark": "/ðə/ /kɑr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "那辆车(过去已经)被停",
 		"english": "the car had been parked",
-		"soundmark": "/ðə/ /kɑr/ /hæd/ /bɪn/ /pɑrkt/"
+		"soundmark": "/ðə/ /kɑr/ /hæd/ /bɪn/ /pɑrkt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"助动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				4,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "车库",
 		"english": "garage",
-		"soundmark": "/ɡəˈrɑʒ/"
+		"soundmark": "/ɡəˈrɑʒ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "在车库里",
 		"english": "in the garage",
-		"soundmark": "/ɪn/ /ðə/ /ɡəˈrɑʒ/"
+		"soundmark": "/ɪn/ /ðə/ /ɡəˈrɑʒ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"冠词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "那辆车(过去已经)被停在车库里",
 		"english": "the car had been parked in the garage",
-		"soundmark": "/ðə/ /kɑr/ /hæd/ /bɪn/ /pɑrkt/ /ɪn/ /ðə/ /ɡəˈrɑʒ/"
+		"soundmark": "/ðə/ /kɑr/ /hæd/ /bɪn/ /pɑrkt/ /ɪn/ /ðə/ /ɡəˈrɑʒ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"助动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"冠词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				4,
+				"谓语",
+				"VP"
+			],
+			[
+				5,
+				7,
+				"宾语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "暴风雨",
 		"english": "storm",
-		"soundmark": "/stɔrm/"
+		"soundmark": "/stɔrm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "在......之前",
 		"english": "before",
-		"soundmark": "/bɪ'fɔr/"
+		"soundmark": "/bɪ'fɔr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "在暴风雨之前",
 		"english": "before the storm",
-		"soundmark": "/bɪ'fɔr/ /ðə/ /stɔrm/"
+		"soundmark": "/bɪ'fɔr/ /ðə/ /stɔrm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"冠词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在暴风雨之前那辆车(过去已经)被停在车库里",
 		"english": "the car had been parked in the garage before the storm",
-		"soundmark": "/ðə/ /kɑr/ /hæd/ /bɪn/ /pɑrkt/ /ɪn/ /ðə/ /ɡəˈrɑʒ/ /bɪ'fɔr/ /ðə/ /stɔrm/"
+		"soundmark": "/ðə/ /kɑr/ /hæd/ /bɪn/ /pɑrkt/ /ɪn/ /ðə/ /ɡəˈrɑʒ/ /bɪ'fɔr/ /ðə/ /stɔrm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"助动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"冠词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			],
+			[
+				8,
+				8,
+				"介词"
+			],
+			[
+				9,
+				9,
+				"冠词"
+			],
+			[
+				10,
+				10,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				4,
+				"谓语",
+				"VP"
+			],
+			[
+				5,
+				10,
+				"宾语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "建造",
 		"english": "to constructe",
-		"soundmark": "/tə/ /kənˈstrʌkt/"
+		"soundmark": "/tə/ /kənˈstrʌkt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "建造(ed形式)",
 		"english": "constructed",
-		"soundmark": "/kənˈstrʌktɪd/"
+		"soundmark": "/kənˈstrʌktɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "被建造",
 		"english": "be constructed",
-		"soundmark": "/bi/ /kənˈstrʌktɪd/"
+		"soundmark": "/bi/ /kənˈstrʌktɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "(过去已经)被建造",
 		"english": "had been constructed",
-		"soundmark": "/hæd/ /bɪn/ /kənˈstrʌktɪd/"
+		"soundmark": "/hæd/ /bɪn/ /kənˈstrʌktɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"助动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "那座桥",
 		"english": "the bridge",
-		"soundmark": "/ðə/ /brɪdʒ/"
+		"soundmark": "/ðə/ /brɪdʒ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "那座桥(过去已经)被建造",
 		"english": "the bridge had been constructed",
-		"soundmark": "/ðə/ /brɪdʒ/ /hæd/ /bɪn/ /kənˈstrʌktɪd/"
+		"soundmark": "/ðə/ /brɪdʒ/ /hæd/ /bɪn/ /kənˈstrʌktɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"助动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				4,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "雨",
 		"english": "rain",
-		"soundmark": "/ren/"
+		"soundmark": "/ren/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "多雨的",
 		"english": "rainy",
-		"soundmark": "/'reni/"
+		"soundmark": "/'reni/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "季节",
 		"english": "season",
-		"soundmark": "/'sizn/"
+		"soundmark": "/'sizn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "雨季",
 		"english": "rainy season",
-		"soundmark": "/'reni/ /'sizn/"
+		"soundmark": "/'reni/ /'sizn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在......之前",
 		"english": "before",
-		"soundmark": "/bɪ'fɔr/"
+		"soundmark": "/bɪ'fɔr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "在雨季之前",
 		"english": "before the rainy season",
-		"soundmark": "/bɪ'fɔr/ /ðə/ /'reni/ /'sizn/"
+		"soundmark": "/bɪ'fɔr/ /ðə/ /'reni/ /'sizn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"冠词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "那座桥(过去已经)被建造",
 		"english": "the bridge had been constructed",
-		"soundmark": "/ðə/ /brɪdʒ/ /hæd/ /bɪn/ /kənˈstrʌktɪd/"
+		"soundmark": "/ðə/ /brɪdʒ/ /hæd/ /bɪn/ /kənˈstrʌktɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"助动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				4,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "在雨季之前那座桥(过去已经)被建造",
 		"english": "the bridge had been constructed before the rainy season",
-		"soundmark": "/ðə/ /brɪdʒ/ /hæd/ /bɪn/ /kənˈstrʌktɪd/ /bɪ'fɔr/ /ðə/ /'reni/ /'sizn/"
+		"soundmark": "/ðə/ /brɪdʒ/ /hæd/ /bɪn/ /kənˈstrʌktɪd/ /bɪ'fɔr/ /ðə/ /'reni/ /'sizn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"助动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"冠词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			],
+			[
+				8,
+				8,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				4,
+				"谓语",
+				"VP"
+			],
+			[
+				5,
+				8,
+				"宾语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "纠正",
 		"english": "to correct",
-		"soundmark": "/tə/ /kə'rɛkt/"
+		"soundmark": "/tə/ /kə'rɛkt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "纠正(ed形式)",
 		"english": "corrected",
-		"soundmark": "/kə'rɛktɪd/"
+		"soundmark": "/kə'rɛktɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "被纠正",
 		"english": "be corrected",
-		"soundmark": "/bi/ /kə'rɛktɪd/"
+		"soundmark": "/bi/ /kə'rɛktɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "(过去已经)被纠正",
 		"english": "had been corrected",
-		"soundmark": "/hæd/ /bɪn/ /kə'rɛktɪd/"
+		"soundmark": "/hæd/ /bɪn/ /kə'rɛktɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"助动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "错误",
 		"english": "error",
-		"soundmark": "/ˈɛrər/"
+		"soundmark": "/ˈɛrər/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "那个错误(过去已经)被纠正",
 		"english": "the error had been corrected",
-		"soundmark": "/ði/ /ˈɛrər/ /hæd/ /bɪn/ /kə'rɛktɪd/"
+		"soundmark": "/ði/ /ˈɛrər/ /hæd/ /bɪn/ /kə'rɛktɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"助动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				4,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "提交",
 		"english": "to submit",
-		"soundmark": "/tə/ /səbˈmɪt/"
+		"soundmark": "/tə/ /səbˈmɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "提交(ed形式)",
 		"english": "submitted",
-		"soundmark": "/səbˈmɪtɪd/"
+		"soundmark": "/səbˈmɪtɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "被提交",
 		"english": "be submitted",
-		"soundmark": "/bi/ /səbˈmɪtɪd/"
+		"soundmark": "/bi/ /səbˈmɪtɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "报告",
 		"english": "report",
-		"soundmark": "/rɪ'pɔrt/"
+		"soundmark": "/rɪ'pɔrt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "那个报告(过去)被提交",
 		"english": "the report was submitted",
-		"soundmark": "/ðə/ /rɪ'pɔrt/ /wəz/ /səbˈmɪtɪd/"
+		"soundmark": "/ðə/ /rɪ'pɔrt/ /wəz/ /səbˈmɪtɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "在......之前",
 		"english": "before",
-		"soundmark": "/bɪ'fɔr/"
+		"soundmark": "/bɪ'fɔr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "在那个报告(过去)被提交之前",
 		"english": "before the report was submitted",
-		"soundmark": "/bɪ'fɔr/ /ðə/ /rɪ'pɔrt/ /wəz/ /səbˈmɪtɪd/"
+		"soundmark": "/bɪ'fɔr/ /ðə/ /rɪ'pɔrt/ /wəz/ /səbˈmɪtɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"冠词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "那个错误(过去已经)被纠正",
 		"english": "the error had been corrected",
-		"soundmark": "/ði/ /ˈɛrər/ /hæd/ /bɪn/ /kə'rɛktɪd/"
+		"soundmark": "/ði/ /ˈɛrər/ /hæd/ /bɪn/ /kə'rɛktɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"助动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				4,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "在那个报告(过去)被提交之前那个错误(过去已经)被纠正",
 		"english": "the error had been corrected before the report was submitted",
-		"soundmark": "/ði/ /ˈɛrər/ /hæd/ /bɪn/ /kə'rɛktɪd/ /bɪ'fɔr/ /ðə/ /rɪ'pɔrt/ /wəz/ /səbˈmɪtɪd/"
+		"soundmark": "/ði/ /ˈɛrər/ /hæd/ /bɪn/ /kə'rɛktɪd/ /bɪ'fɔr/ /ðə/ /rɪ'pɔrt/ /wəz/ /səbˈmɪtɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"助动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"冠词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			],
+			[
+				8,
+				8,
+				"动词"
+			],
+			[
+				9,
+				9,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				4,
+				"谓语",
+				"VP"
+			],
+			[
+				5,
+				9,
+				"宾语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "卖",
 		"english": "to sell",
-		"soundmark": "/tə/ /sɛl/"
+		"soundmark": "/tə/ /sɛl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "卖光",
 		"english": "to sell out",
-		"soundmark": "/tə/ /sɛl/ /aʊt/"
+		"soundmark": "/tə/ /sɛl/ /aʊt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "卖光(ed形式)",
 		"english": "sold out",
-		"soundmark": "/sold/ /aʊt/"
+		"soundmark": "/sold/ /aʊt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			],
+			[
+				1,
+				1,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "被卖光",
 		"english": "be sold out",
-		"soundmark": "/bi/ /sold/ /aʊt/"
+		"soundmark": "/bi/ /sold/ /aʊt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "(过去已经)被卖光了",
 		"english": "had been sold out",
-		"soundmark": "/hæd/ /bɪn/ /sold/ /aʊt/"
+		"soundmark": "/hæd/ /bɪn/ /sold/ /aʊt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"助动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				2,
+				2,
+				"主语",
+				"NP"
+			],
+			[
+				0,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "票",
 		"english": "ticket",
-		"soundmark": "/'tɪkɪt/"
+		"soundmark": "/'tɪkɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "那些票",
 		"english": "the tickets",
-		"soundmark": "/ðə/ /'tɪkɪts/"
+		"soundmark": "/ðə/ /'tɪkɪts/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "那些票(过去已经)被卖光了",
 		"english": "the tickets had been sold out",
-		"soundmark": "/ðə/ /'tɪkɪts/ /hæd/ /bɪn/ /sold/ /aʊt/"
+		"soundmark": "/ðə/ /'tɪkɪts/ /hæd/ /bɪn/ /sold/ /aʊt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"助动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"系动词",
+				"TP"
+			],
+			[
+				4,
+				4,
+				"表语",
+				"NP"
+			],
+			[
+				5,
+				5,
+				"时间状语",
+				"ADVP"
+			]
+		]
 	},
 	{
 		"chinese": "到达",
 		"english": "to arrive",
-		"soundmark": "/tə/ /ə'raɪv/"
+		"soundmark": "/tə/ /ə'raɪv/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "达到(过去)",
 		"english": "arrived",
-		"soundmark": "/ə'raɪvd/"
+		"soundmark": "/ə'raɪvd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我们到达(过去)",
 		"english": "we arrived",
-		"soundmark": "/wi/ /ə'raɪvd/"
+		"soundmark": "/wi/ /ə'raɪvd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "时间",
 		"english": "the time",
-		"soundmark": "/ðə/ /taɪm/"
+		"soundmark": "/ðə/ /taɪm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我们到达(过去)的时间",
 		"english": "the time we arrived",
-		"soundmark": "/ðə/ /taɪm/ /wi/ /ə'raɪvd/"
+		"soundmark": "/ðə/ /taɪm/ /wi/ /ə'raɪvd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在我们到达(过去)的时间",
 		"english": "by the time we arrived",
-		"soundmark": "/baɪ/ /ðə/ /taɪm/ /wi/ /ə'raɪvd/"
+		"soundmark": "/baɪ/ /ðə/ /taɪm/ /wi/ /ə'raɪvd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"冠词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "那些票(过去已经)被卖光了",
 		"english": "the tickets had been sold out",
-		"soundmark": "/ðə/ /'tɪkɪts/ /hæd/ /bɪn/ /sold/ /aʊt/"
+		"soundmark": "/ðə/ /'tɪkɪts/ /hæd/ /bɪn/ /sold/ /aʊt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"助动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"系动词",
+				"TP"
+			],
+			[
+				4,
+				4,
+				"表语",
+				"NP"
+			],
+			[
+				5,
+				5,
+				"时间状语",
+				"ADVP"
+			]
+		]
 	},
 	{
 		"chinese": "在我们到达(过去)的时间那些票(过去已经)被卖光了",
 		"english": "the tickets had been sold out by the time we arrived",
-		"soundmark": "/ðə/ /'tɪkɪts/ /hæd/ /bɪn/ /sold/ /aʊt/ /baɪ/ /ðə/ /taɪm/ /wi/ /ə'raɪvd/"
+		"soundmark": "/ðə/ /'tɪkɪts/ /hæd/ /bɪn/ /sold/ /aʊt/ /baɪ/ /ðə/ /taɪm/ /wi/ /ə'raɪvd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"助动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"副词"
+			],
+			[
+				6,
+				6,
+				"介词"
+			],
+			[
+				7,
+				7,
+				"冠词"
+			],
+			[
+				8,
+				8,
+				"名词"
+			],
+			[
+				9,
+				9,
+				"代词"
+			],
+			[
+				10,
+				10,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"系动词",
+				"TP"
+			],
+			[
+				4,
+				4,
+				"表语",
+				"NP"
+			],
+			[
+				5,
+				5,
+				"时间状语",
+				"ADVP"
+			],
+			[
+				6,
+				10,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "改变",
 		"english": "to change",
-		"soundmark": "/tə/ /tʃendʒ/"
+		"soundmark": "/tə/ /tʃendʒ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "改变(ed形式)",
 		"english": "changed",
-		"soundmark": "/tʃendʒd/"
+		"soundmark": "/tʃendʒd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "被改变",
 		"english": "be changed",
-		"soundmark": "/bi/ /tʃendʒd/"
+		"soundmark": "/bi/ /tʃendʒd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "(过去已经)被改变",
 		"english": "had been changed",
-		"soundmark": "/hæd/ /bɪn/ /tʃendʒd/"
+		"soundmark": "/hæd/ /bɪn/ /tʃendʒd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"助动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "密码",
 		"english": "password",
-		"soundmark": "/ˈpæswɝd/"
+		"soundmark": "/ˈpæswɝd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "那个密码(过去已经)被改变",
 		"english": "the password had been changed",
-		"soundmark": "/ðə/ /ˈpæswɝd/ /hæd/ /bɪn/ /tʃendʒd/"
+		"soundmark": "/ðə/ /ˈpæswɝd/ /hæd/ /bɪn/ /tʃendʒd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"助动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				4,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "非法入侵",
 		"english": "to hack",
-		"soundmark": "/tə/ /hæk/"
+		"soundmark": "/tə/ /hæk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "非法入侵(ed形式)",
 		"english": "hacked",
-		"soundmark": "/hækt/"
+		"soundmark": "/hækt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "被非法入侵",
 		"english": "be hacked",
-		"soundmark": "/bi/ /hækt/"
+		"soundmark": "/bi/ /hækt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "系统",
 		"english": "system",
-		"soundmark": "/ˈsɪstəm/"
+		"soundmark": "/ˈsɪstəm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "系统被(过去)非法入侵",
 		"english": "the system was hacked",
-		"soundmark": "/ðə/ /ˈsɪstəm/ /wəz/ /hækt/"
+		"soundmark": "/ðə/ /ˈsɪstəm/ /wəz/ /hækt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "在......之前",
 		"english": "before",
-		"soundmark": "/bɪ'fɔr/"
+		"soundmark": "/bɪ'fɔr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "在系统被(过去)非法入侵之前",
 		"english": "before the system was hacked",
-		"soundmark": "/bɪ'fɔr/ /ðə/ /ˈsɪstəm/ /wəz/ /hækt/"
+		"soundmark": "/bɪ'fɔr/ /ðə/ /ˈsɪstəm/ /wəz/ /hækt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"冠词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "那个密码(过去已经)被改变",
 		"english": "the password had been changed",
-		"soundmark": "/ðə/ /ˈpæswɝd/ /hæd/ /bɪn/ /tʃendʒd/"
+		"soundmark": "/ðə/ /ˈpæswɝd/ /hæd/ /bɪn/ /tʃendʒd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"助动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				4,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "在系统被(过去)非法入侵之前那个密码(过去已经)被改变",
 		"english": "the password had been changed before the system was hacked",
-		"soundmark": "/ðə/ /ˈpæswɝd/ /hæd/ /bɪn/ /tʃendʒd/ /bɪ'fɔr/ /ðə/ /ˈsɪstəm/ /wəz/ /hækt/"
+		"soundmark": "/ðə/ /ˈpæswɝd/ /hæd/ /bɪn/ /tʃendʒd/ /bɪ'fɔr/ /ðə/ /ˈsɪstəm/ /wəz/ /hækt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"助动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"冠词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			],
+			[
+				8,
+				8,
+				"动词"
+			],
+			[
+				9,
+				9,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				4,
+				"谓语",
+				"VP"
+			],
+			[
+				5,
+				9,
+				"宾语",
+				"PP"
+			]
+		]
 	}
 ]

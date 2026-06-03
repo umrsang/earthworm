@@ -2,646 +2,4844 @@
 	{
 		"chinese": "这个",
 		"english": "this",
-		"soundmark": "/ðɪs/"
+		"soundmark": "/ðɪs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "问题",
 		"english": "problem",
-		"soundmark": "/'prɑbləm/"
+		"soundmark": "/'prɑbləm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "这个问题",
 		"english": "this problem",
-		"soundmark": "/ðɪs/ /'prɑbləm/"
+		"soundmark": "/ðɪs/ /'prɑbləm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "解决",
 		"english": "to solve",
-		"soundmark": "/tə/ /sɑlv/"
+		"soundmark": "/tə/ /sɑlv/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "解决这个问题",
 		"english": "to solve this problem",
-		"soundmark": "/tə/ /sɑlv/ /ðɪs/ /'prɑbləm/"
+		"soundmark": "/tə/ /sɑlv/ /ðɪs/ /'prɑbləm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "应该",
 		"english": "should",
-		"soundmark": "/ʃʊd/"
+		"soundmark": "/ʃʊd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我们应该",
 		"english": "we should",
-		"soundmark": "/wi/ /ʃʊd/"
+		"soundmark": "/wi/ /ʃʊd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "尝试",
 		"english": "to try",
-		"soundmark": "/tə/ /traɪ/"
+		"soundmark": "/tə/ /traɪ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我们应该尝试",
 		"english": "we should try",
-		"soundmark": "/wi/ /ʃʊd/ /traɪ/"
+		"soundmark": "/wi/ /ʃʊd/ /traɪ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "解决这个问题",
 		"english": "to solve this problem",
-		"soundmark": "/tə/ /sɑlv/ /ðɪs/ /'prɑbləm/"
+		"soundmark": "/tə/ /sɑlv/ /ðɪs/ /'prɑbləm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我们应该尝试解决这个问题",
 		"english": "we should try to solve this problem",
-		"soundmark": "/wi/ /ʃʊd/ /traɪ/ /tə/ /sɑlv/ /ðɪs/ /'prɑbləm/"
+		"soundmark": "/wi/ /ʃʊd/ /traɪ/ /tə/ /sɑlv/ /ðɪs/ /'prɑbləm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				3,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "很快",
 		"english": "soon",
-		"soundmark": "/sun/"
+		"soundmark": "/sun/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "可能",
 		"english": "possible",
-		"soundmark": "/'pɑsəbl/"
+		"soundmark": "/'pɑsəbl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "尽可能地快",
 		"english": "as soon as possible",
-		"soundmark": "/əz/ /sun/ /əz/ /'pɑsəbl/"
+		"soundmark": "/əz/ /sun/ /əz/ /'pɑsəbl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			],
+			[
+				1,
+				1,
+				"副词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我们应该尝试尽快解决这个问题",
 		"english": "we should try to solve this problem as soon as possible",
-		"soundmark": "/wi/ /ʃʊd/ /traɪ/ /tə/ /sɑlv/ /ðɪs/ /'prɑbləm/ /əz/ /sun/ /əz/ /'pɑsəbl/"
+		"soundmark": "/wi/ /ʃʊd/ /traɪ/ /tə/ /sɑlv/ /ðɪs/ /'prɑbləm/ /əz/ /sun/ /əz/ /'pɑsəbl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			],
+			[
+				7,
+				7,
+				"副词"
+			],
+			[
+				8,
+				8,
+				"副词"
+			],
+			[
+				9,
+				9,
+				"副词"
+			],
+			[
+				10,
+				10,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				3,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "将会",
 		"english": "will",
-		"soundmark": "/wɪl/"
+		"soundmark": "/wɪl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我将会尝试解决这个问题",
 		"english": "I will try to solve this problem",
-		"soundmark": "/aɪ/ /wɪl/ /traɪ/ /tə/ /sɑlv/ /ðɪs/ /'prɑbləm/"
+		"soundmark": "/aɪ/ /wɪl/ /traɪ/ /tə/ /sɑlv/ /ðɪs/ /'prɑbləm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				3,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "设法做到",
 		"english": "to manage",
-		"soundmark": "/tə/ /ˈmænɪdʒ/"
+		"soundmark": "/tə/ /ˈmænɪdʒ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我将会设法解决这个问题",
 		"english": "I will manage to solve this problem",
-		"soundmark": "/aɪ/ /wɪl/ /ˈmænɪdʒ/ /tə/ /sɑlv/ /ðɪs/ /'prɑbləm/"
+		"soundmark": "/aɪ/ /wɪl/ /ˈmænɪdʒ/ /tə/ /sɑlv/ /ðɪs/ /'prɑbləm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				3,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "家庭作业",
 		"english": "homework",
-		"soundmark": "/’homwɝk/"
+		"soundmark": "/’homwɝk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我的家庭作业",
 		"english": "my homework",
-		"soundmark": "/maɪ/ /’homwɝk/"
+		"soundmark": "/maɪ/ /’homwɝk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "完成",
 		"english": "to finish",
-		"soundmark": "/tə/ /ˈfɪnɪʃ/"
+		"soundmark": "/tə/ /ˈfɪnɪʃ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "完成我的家庭作业",
 		"english": "to finish my homework",
-		"soundmark": "/tə/ /ˈfɪnɪʃ/ /maɪ/ /’homwɝk/"
+		"soundmark": "/tə/ /ˈfɪnɪʃ/ /maɪ/ /’homwɝk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我将会尝试完成我的家庭作业",
 		"english": "I will try to finish my homework",
-		"soundmark": "/aɪ/ /wɪl/ /traɪ/ /tə/ /ˈfɪnɪʃ/ /maɪ/ /’homwɝk/"
+		"soundmark": "/aɪ/ /wɪl/ /traɪ/ /tə/ /ˈfɪnɪʃ/ /maɪ/ /’homwɝk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				3,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "就寝时间",
 		"english": "bedtime",
-		"soundmark": "/'bɛdtaɪm/"
+		"soundmark": "/'bɛdtaɪm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "在......之前",
 		"english": "before",
-		"soundmark": "/bɪ'fɔr/"
+		"soundmark": "/bɪ'fɔr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "在睡觉之前",
 		"english": "before bedtime",
-		"soundmark": "/bɪ'fɔr/ /'bɛdtaɪm/"
+		"soundmark": "/bɪ'fɔr/ /'bɛdtaɪm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我将会尝试在睡觉之前完成我的家庭作业",
 		"english": "I will try to finish my homework before bedtime",
-		"soundmark": "/aɪ/ /wɪl/ /traɪ/ /tə/ /ˈfɪnɪʃ/ /maɪ/ /’homwɝk/ /bɪ'fɔr/ /'bɛdtaɪm/"
+		"soundmark": "/aɪ/ /wɪl/ /traɪ/ /tə/ /ˈfɪnɪʃ/ /maɪ/ /’homwɝk/ /bɪ'fɔr/ /'bɛdtaɪm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			],
+			[
+				7,
+				7,
+				"介词"
+			],
+			[
+				8,
+				8,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				3,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "设法做到",
 		"english": "to manage",
-		"soundmark": "/tə/ /ˈmænɪdʒ/"
+		"soundmark": "/tə/ /ˈmænɪdʒ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我将会设法在睡觉之前完成我的家庭作业",
 		"english": "I will manage to finish my homework before bedtime",
-		"soundmark": "/aɪ/ /wɪl/ /ˈmænɪdʒ/ /tə/ /ˈfɪnɪʃ/ /maɪ/ /’homwɝk/ /bɪ'fɔr/ /'bɛdtaɪm/"
+		"soundmark": "/aɪ/ /wɪl/ /ˈmænɪdʒ/ /tə/ /ˈfɪnɪʃ/ /maɪ/ /’homwɝk/ /bɪ'fɔr/ /'bɛdtaɪm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			],
+			[
+				7,
+				7,
+				"介词"
+			],
+			[
+				8,
+				8,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				3,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "设法做到",
 		"english": "to manage",
-		"soundmark": "/tə/ /ˈmænɪdʒ/"
+		"soundmark": "/tə/ /ˈmænɪdʒ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "做",
 		"english": "to do",
-		"soundmark": "/tə/ /du/"
+		"soundmark": "/tə/ /du/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "做这件事",
 		"english": "to do it",
-		"soundmark": "/tə/ /du/ /ɪt/"
+		"soundmark": "/tə/ /du/ /ɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你做这件事",
 		"english": "you do it",
-		"soundmark": "/ju/ /du/ /ɪt/"
+		"soundmark": "/ju/ /du/ /ɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "没有",
 		"english": "don't",
-		"soundmark": "/dont/"
+		"soundmark": "/dont/",
+		"posTags": [
+			[
+				0,
+				0,
+				"助动词"
+			],
+			[
+				1,
+				1,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "你没有做这件事",
 		"english": "you don't do it",
-		"soundmark": "/ju/ /dont/ /du/ /ɪt/"
+		"soundmark": "/ju/ /dont/ /du/ /ɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"助动词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你有做这件事",
 		"english": "you do do it",
-		"soundmark": "/ju/ /du/ /du/ /ɪt/"
+		"soundmark": "/ju/ /du/ /du/ /ɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"助动词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你没有做这件事",
 		"english": "you don't do it",
-		"soundmark": "/ju/ /dont/ /du/ /ɪt/"
+		"soundmark": "/ju/ /dont/ /du/ /ɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"助动词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你(过去)没有做这件事",
 		"english": "you didn't do it",
-		"soundmark": "/ju/ /ˈdɪdnt/ /du/ /ɪt/"
+		"soundmark": "/ju/ /ˈdɪdnt/ /du/ /ɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"助动词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你(过去)有做这件事",
 		"english": "you did do it",
-		"soundmark": "/ju/ /dɪd/ /du/ /ɪt/"
+		"soundmark": "/ju/ /dɪd/ /du/ /ɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"助动词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你(过去)有做这件事吗？",
 		"english": "did you do it",
-		"soundmark": "/dɪd/ /ju/ /du/ /ɪt/"
+		"soundmark": "/dɪd/ /ju/ /du/ /ɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"助动词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"助动词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				1,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				0,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "如何",
 		"english": "how",
-		"soundmark": "/haʊ/"
+		"soundmark": "/haʊ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "你(过去)如何做这件事的？ ",
 		"english": "how did you do it",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /du/ /ɪt/"
+		"soundmark": "/haʊ/ /dɪd/ /ju/ /du/ /ɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"助动词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"疑问宾语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "设法做到",
 		"english": "to manage",
-		"soundmark": "/tə/ /ˈmænɪdʒ/"
+		"soundmark": "/tə/ /ˈmænɪdʒ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "你(过去)如何设法做到这件事的？",
 		"english": "how did you manage to do it",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /du/ /ɪt/"
+		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /du/ /ɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"助动词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"疑问宾语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			],
+			[
+				4,
+				6,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "你(过去)如何设法做到......",
 		"english": "how did you manage",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/"
+		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"疑问宾语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "到达",
 		"english": "to get",
-		"soundmark": "/tə/ /ɡɛt/"
+		"soundmark": "/tə/ /ɡɛt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "这里",
 		"english": "here",
-		"soundmark": "/hɪr/"
+		"soundmark": "/hɪr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "到达这里",
 		"english": "to get here",
-		"soundmark": "/tə/ /ɡɛt/ /hɪr/"
+		"soundmark": "/tə/ /ɡɛt/ /hɪr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "迅速地",
 		"english": "quickly",
-		"soundmark": "/ˈkwɪklɪ/"
+		"soundmark": "/ˈkwɪklɪ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "如此",
 		"english": "so",
-		"soundmark": "/so/"
+		"soundmark": "/so/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "如此迅速地",
 		"english": "so quickly",
-		"soundmark": "/so/ /ˈkwɪklɪ/"
+		"soundmark": "/so/ /ˈkwɪklɪ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			],
+			[
+				1,
+				1,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "如此迅速地到达这里",
 		"english": "to get here so quickly",
-		"soundmark": "/tə/ /ɡɛt/ /hɪr/ /so/ /ˈkwɪklɪ/"
+		"soundmark": "/tə/ /ɡɛt/ /hɪr/ /so/ /ˈkwɪklɪ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"副词"
+			],
+			[
+				4,
+				4,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "你(过去)如何设法做到",
 		"english": "how did you manage",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/"
+		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"疑问宾语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你(过去)如何设法做到如此迅速地到达这里的？",
 		"english": "how did you manage to get here so quickly",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /ɡɛt/ /hɪr/ /so/ /ˈkwɪklɪ/"
+		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /ɡɛt/ /hɪr/ /so/ /ˈkwɪklɪ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"动词"
+			],
+			[
+				6,
+				6,
+				"副词"
+			],
+			[
+				7,
+				7,
+				"副词"
+			],
+			[
+				8,
+				8,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"疑问宾语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			],
+			[
+				4,
+				8,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "你(过去)如何设法做到",
 		"english": "how did you manage",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/"
+		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"疑问宾语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "钱",
 		"english": "money",
-		"soundmark": "/ˈmʌni/"
+		"soundmark": "/ˈmʌni/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "做",
 		"english": "to make",
-		"soundmark": "/tə/ /mek/"
+		"soundmark": "/tə/ /mek/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "赚钱",
 		"english": "to make money",
-		"soundmark": "/tə/ /mek/ /ˈmʌni/"
+		"soundmark": "/tə/ /mek/ /ˈmʌni/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "如此",
 		"english": "so",
-		"soundmark": "/so/"
+		"soundmark": "/so/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "多",
 		"english": "much",
-		"soundmark": "/mʌtʃ/"
+		"soundmark": "/mʌtʃ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "如此多",
 		"english": "so much",
-		"soundmark": "/so/ /mʌtʃ/"
+		"soundmark": "/so/ /mʌtʃ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			],
+			[
+				1,
+				1,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "钱",
 		"english": "money",
-		"soundmark": "/ˈmʌni/"
+		"soundmark": "/ˈmʌni/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "如此多的钱",
 		"english": "so much money",
-		"soundmark": "/so/ /mʌtʃ/ /ˈmʌni/"
+		"soundmark": "/so/ /mʌtʃ/ /ˈmʌni/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			],
+			[
+				1,
+				1,
+				"副词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "做",
 		"english": "to make",
-		"soundmark": "/tə/ /mek/"
+		"soundmark": "/tə/ /mek/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "赚如此多的钱",
 		"english": "to make so much money",
-		"soundmark": "/tə/ /mek/ /so/ /mʌtʃ/ /ˈmʌni/"
+		"soundmark": "/tə/ /mek/ /so/ /mʌtʃ/ /ˈmʌni/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"副词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "你(过去)如何设法做到",
 		"english": "how did you manage",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/"
+		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"疑问宾语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你(过去)如何设法做到赚如此多的钱的？",
 		"english": "how did you manage to make so much money",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /mek/ /so/ /mʌtʃ/ /ˈmʌni/"
+		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /mek/ /so/ /mʌtʃ/ /ˈmʌni/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"动词"
+			],
+			[
+				6,
+				6,
+				"副词"
+			],
+			[
+				7,
+				7,
+				"副词"
+			],
+			[
+				8,
+				8,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"疑问宾语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			],
+			[
+				4,
+				8,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "时间",
 		"english": "time",
-		"soundmark": "/taɪm/"
+		"soundmark": "/taɪm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "短",
 		"english": "short",
-		"soundmark": "/ʃɔrt/"
+		"soundmark": "/ʃɔrt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "一段短的时间",
 		"english": "a short time",
-		"soundmark": "/ə/ /ʃɔrt/ /taɪm/"
+		"soundmark": "/ə/ /ʃɔrt/ /taɪm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"形容词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				2,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在......里",
 		"english": "in",
-		"soundmark": "/ɪn/"
+		"soundmark": "/ɪn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "在一段短的时间里",
 		"english": "in a short time",
-		"soundmark": "/ɪn/ /ə/ /ʃɔrt/ /taɪm/"
+		"soundmark": "/ɪn/ /ə/ /ʃɔrt/ /taɪm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"冠词"
+			],
+			[
+				2,
+				2,
+				"形容词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "如此",
 		"english": "such",
-		"soundmark": "/sʌtʃ/"
+		"soundmark": "/sʌtʃ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "在一段如此短的时间里",
 		"english": "in such a short time",
-		"soundmark": "/ɪn/ /sʌtʃ/ /ə/ /ʃɔrt/ /taɪm/"
+		"soundmark": "/ɪn/ /sʌtʃ/ /ə/ /ʃɔrt/ /taɪm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"副词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你(过去)如何设法做到赚如此多的钱的？",
 		"english": "how did you manage to make so much money",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /mek/ /so/ /mʌtʃ/ /ˈmʌni/"
+		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /mek/ /so/ /mʌtʃ/ /ˈmʌni/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"动词"
+			],
+			[
+				6,
+				6,
+				"副词"
+			],
+			[
+				7,
+				7,
+				"副词"
+			],
+			[
+				8,
+				8,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"疑问宾语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			],
+			[
+				4,
+				8,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "你(过去)如何设法做到在一段如此短的时间里赚如此多的钱的？",
 		"english": "how did you manage to make so much money in such a short time",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /mek/ /so/ /mʌtʃ/ /ˈmʌni/ /ɪn/ /sʌtʃ/ /ə/ /ʃɔrt/ /taɪm/"
+		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /mek/ /so/ /mʌtʃ/ /ˈmʌni/ /ɪn/ /sʌtʃ/ /ə/ /ʃɔrt/ /taɪm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"动词"
+			],
+			[
+				6,
+				6,
+				"副词"
+			],
+			[
+				7,
+				7,
+				"副词"
+			],
+			[
+				8,
+				8,
+				"名词"
+			],
+			[
+				9,
+				9,
+				"介词"
+			],
+			[
+				10,
+				10,
+				"副词"
+			],
+			[
+				11,
+				11,
+				"冠词"
+			],
+			[
+				12,
+				12,
+				"形容词"
+			],
+			[
+				13,
+				13,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"疑问宾语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			],
+			[
+				4,
+				13,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "写",
 		"english": "to write",
-		"soundmark": "/tə/ /raɪt/"
+		"soundmark": "/tə/ /raɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "这本书",
 		"english": "this book",
-		"soundmark": "/ðɪs/ /bʊk/"
+		"soundmark": "/ðɪs/ /bʊk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "写这本书",
 		"english": "to write this book",
-		"soundmark": "/tə/ /raɪt/ /ðɪs/ /bʊk/"
+		"soundmark": "/tə/ /raɪt/ /ðɪs/ /bʊk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你(过去)如何设法做到",
 		"english": "how did you manage",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/"
+		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"疑问宾语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你(过去)如何设法做到写这本书的？",
 		"english": "how did you manage to write this book",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /raɪt/ /ðɪs/ /bʊk/"
+		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /raɪt/ /ðɪs/ /bʊk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"动词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"疑问宾语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			],
+			[
+				4,
+				7,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "监狱",
 		"english": "prison",
-		"soundmark": "/ˈprɪzn/"
+		"soundmark": "/ˈprɪzn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "在监狱里",
 		"english": "in prison",
-		"soundmark": "/ɪn/ /ˈprɪzn/"
+		"soundmark": "/ɪn/ /ˈprɪzn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你",
 		"english": "you",
-		"soundmark": "/ju/"
+		"soundmark": "/ju/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "你在监狱里",
 		"english": "you are in prison",
-		"soundmark": "/ju/ /ɚ/ /ɪn/ /ˈprɪzn/"
+		"soundmark": "/ju/ /ɚ/ /ɪn/ /ˈprɪzn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				3,
+				"表语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "你(过去)在监狱里",
 		"english": "you were in prison",
-		"soundmark": "/ju/ /wɚ/ /ɪn/ /ˈprɪzn/"
+		"soundmark": "/ju/ /wɚ/ /ɪn/ /ˈprɪzn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				3,
+				"表语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "当",
 		"english": "when",
-		"soundmark": "/wɛn/"
+		"soundmark": "/wɛn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "当你(过去)在监狱里",
 		"english": "when you were in prison",
-		"soundmark": "/wɛn/ /ju/ /wɚ/ /ɪn/ /ˈprɪzn/"
+		"soundmark": "/wɛn/ /ju/ /wɚ/ /ɪn/ /ˈprɪzn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"疑问宾语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			],
+			[
+				3,
+				4,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "你(过去)如何设法做到写这本书的？",
 		"english": "how did you manage to write this book",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /raɪt/ /ðɪs/ /bʊk/"
+		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /raɪt/ /ðɪs/ /bʊk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"动词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"疑问宾语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			],
+			[
+				4,
+				7,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "你(过去)如何设法做到写这本书的当你(过去)在监狱里？",
 		"english": "how did you manage to write this book when you were in prison",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /raɪt/ /ðɪs/ /bʊk/ /wɛn/ /ju/ /wɚ/ /ɪn/ /ˈprɪzn/"
+		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /raɪt/ /ðɪs/ /bʊk/ /wɛn/ /ju/ /wɚ/ /ɪn/ /ˈprɪzn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"动词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			],
+			[
+				8,
+				8,
+				"疑问词"
+			],
+			[
+				9,
+				9,
+				"代词"
+			],
+			[
+				10,
+				10,
+				"动词"
+			],
+			[
+				11,
+				11,
+				"介词"
+			],
+			[
+				12,
+				12,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"疑问宾语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			],
+			[
+				4,
+				12,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "说话",
 		"english": "to speak",
-		"soundmark": "/tə/ /spik/"
+		"soundmark": "/tə/ /spik/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "演讲",
 		"english": "speaking",
-		"soundmark": "/'spikɪŋ/"
+		"soundmark": "/'spikɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "公开的",
 		"english": "public",
-		"soundmark": "/ˈpʌblɪk/"
+		"soundmark": "/ˈpʌblɪk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "公开演讲",
 		"english": "public speaking",
-		"soundmark": "/ˈpʌblɪk/ /'spikɪŋ/"
+		"soundmark": "/ˈpʌblɪk/ /'spikɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "恐惧",
 		"english": "fear",
-		"soundmark": "/fɪr/"
+		"soundmark": "/fɪr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "公开演讲的恐惧",
 		"english": "fear of public speaking",
-		"soundmark": "/fɪr/ /əv/ /ˈpʌblɪk/ /'spikɪŋ/"
+		"soundmark": "/fɪr/ /əv/ /ˈpʌblɪk/ /'spikɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			],
+			[
+				1,
+				1,
+				"介词"
+			],
+			[
+				2,
+				2,
+				"形容词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你的公开演讲的恐惧",
 		"english": "your fear of public speaking",
-		"soundmark": "/jʊr/ /fɪr/ /əv/ /ˈpʌblɪk/ /'spikɪŋ/"
+		"soundmark": "/jʊr/ /fɪr/ /əv/ /ˈpʌblɪk/ /'spikɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "克服",
 		"english": "to overcome",
-		"soundmark": "/tə/ /ˌovɚˈkʌm/"
+		"soundmark": "/tə/ /ˌovɚˈkʌm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "克服你的公开演讲的恐惧",
 		"english": "to overcome your fear of public speaking",
-		"soundmark": "/tə/ /ˌovɚˈkʌm/ /jʊr/ /fɪr/ /əv/ /ˈpʌblɪk/ /'spikɪŋ/"
+		"soundmark": "/tə/ /ˌovɚˈkʌm/ /jʊr/ /fɪr/ /əv/ /ˈpʌblɪk/ /'spikɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"形容词"
+			],
+			[
+				6,
+				6,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				5,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你(过去)如何设法做到",
 		"english": "how did you manage",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/"
+		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"疑问宾语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你(过去)如何设法做到克服你的公开演讲的恐惧的？",
 		"english": "how did you manage to overcome your fear of public speaking",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /ˌovɚˈkʌm/ /jʊr/ /fɪr/ /əv/ /ˈpʌblɪk/ /'spikɪŋ/"
+		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /ˌovɚˈkʌm/ /jʊr/ /fɪr/ /əv/ /ˈpʌblɪk/ /'spikɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			],
+			[
+				8,
+				8,
+				"介词"
+			],
+			[
+				9,
+				9,
+				"形容词"
+			],
+			[
+				10,
+				10,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"疑问宾语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			],
+			[
+				4,
+				10,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "工作",
 		"english": "work",
-		"soundmark": "/wɝk/"
+		"soundmark": "/wɝk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "生活",
 		"english": "life",
-		"soundmark": "/laɪf/"
+		"soundmark": "/laɪf/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "工作和生活",
 		"english": "work and life",
-		"soundmark": "/wɝk/ /ənd/ /laɪf/"
+		"soundmark": "/wɝk/ /ənd/ /laɪf/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"连词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "在......之间",
 		"english": "between",
-		"soundmark": "/bɪ'twin/"
+		"soundmark": "/bɪ'twin/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "在工作和生活之间",
 		"english": "between work and life",
-		"soundmark": "/bɪ'twin/ /wɝk/ /ənd/ /laɪf/"
+		"soundmark": "/bɪ'twin/ /wɝk/ /ənd/ /laɪf/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"连词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "平衡",
 		"english": "the balance",
-		"soundmark": "/ðə/ /'bæləns/"
+		"soundmark": "/ðə/ /'bæləns/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在工作和生活之间的平衡",
 		"english": "the balance between work and life",
-		"soundmark": "/ðə/ /'bæləns/ /bɪ'twin/ /wɝk/ /ənd/ /laɪf/"
+		"soundmark": "/ðə/ /'bæləns/ /bɪ'twin/ /wɝk/ /ənd/ /laɪf/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"连词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				5,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "保持",
 		"english": "to keep",
-		"soundmark": "/tə/ /kip/"
+		"soundmark": "/tə/ /kip/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "保持在工作和生活之间的平衡",
 		"english": "to keep the balance between work and life",
-		"soundmark": "/tə/ /kip/ /ðə/ /'bæləns/ /bɪ'twin/ /wɝk/ /ənd/ /laɪf/"
+		"soundmark": "/tə/ /kip/ /ðə/ /'bæləns/ /bɪ'twin/ /wɝk/ /ənd/ /laɪf/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"连词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你(过去)如何设法做到",
 		"english": "how did you manage",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/"
+		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"疑问宾语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你(过去)如何设法做到保持在工作和生活之间的平衡的？",
 		"english": "how did you manage to keep the balance between work and life",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /kip/ /ðə/ /'bæləns/ /bɪ'twin/ /wɝk/ /ənd/ /laɪf/"
+		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /kip/ /ðə/ /'bæləns/ /bɪ'twin/ /wɝk/ /ənd/ /laɪf/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"动词"
+			],
+			[
+				6,
+				6,
+				"冠词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			],
+			[
+				8,
+				8,
+				"介词"
+			],
+			[
+				9,
+				9,
+				"名词"
+			],
+			[
+				10,
+				10,
+				"连词"
+			],
+			[
+				11,
+				11,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"疑问宾语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			],
+			[
+				4,
+				11,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "钱",
 		"english": "money",
-		"soundmark": "/ˈmʌni/"
+		"soundmark": "/ˈmʌni/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "足够的",
 		"english": "enough",
-		"soundmark": "/ɪ'nʌf/"
+		"soundmark": "/ɪ'nʌf/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "足够的钱",
 		"english": "enough money",
-		"soundmark": "/ɪ'nʌf/ /ˈmʌni/"
+		"soundmark": "/ɪ'nʌf/ /ˈmʌni/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "存",
 		"english": "to save",
-		"soundmark": "/tə/ /sev/"
+		"soundmark": "/tə/ /sev/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "存足够的钱",
 		"english": "to save enough money",
-		"soundmark": "/tə/ /sev/ /ɪ'nʌf/ /ˈmʌni/"
+		"soundmark": "/tə/ /sev/ /ɪ'nʌf/ /ˈmʌni/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"形容词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "度假",
 		"english": "vacation",
-		"soundmark": "/veˈkeʃn/"
+		"soundmark": "/veˈkeʃn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "那个度假",
 		"english": "that vacation",
-		"soundmark": "/ðæt/ /veˈkeʃn/"
+		"soundmark": "/ðæt/ /veˈkeʃn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "为那个度假存足够的钱",
 		"english": "to save enough money for that vacation",
-		"soundmark": "/tə/ /sev/ /ɪ'nʌf/ /ˈmʌni/ /ðæt/ /veˈkeʃn/"
+		"soundmark": "/tə/ /sev/ /ɪ'nʌf/ /ˈmʌni/ /ðæt/ /veˈkeʃn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"形容词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你(过去)如何设法做到",
 		"english": "how did you manage",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/"
+		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"疑问宾语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你(过去)如何设法做到为那个度假存足够的钱的？",
 		"english": "how did you manage to save enough money for that vacation",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /sev/ /ɪ'nʌf/ /ˈmʌni/ /ðæt/ /veˈkeʃn/"
+		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /sev/ /ɪ'nʌf/ /ˈmʌni/ /ðæt/ /veˈkeʃn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"动词"
+			],
+			[
+				6,
+				6,
+				"形容词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			],
+			[
+				8,
+				8,
+				"介词"
+			],
+			[
+				9,
+				9,
+				"代词"
+			],
+			[
+				10,
+				10,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"疑问宾语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			],
+			[
+				4,
+				10,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "短",
 		"english": "short",
-		"soundmark": "/ʃɔrt/"
+		"soundmark": "/ʃɔrt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "一段短的时间",
 		"english": "a short time",
-		"soundmark": "/ə/ /ʃɔrt/ /taɪm/"
+		"soundmark": "/ə/ /ʃɔrt/ /taɪm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"形容词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				2,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在一段短的时间里",
 		"english": "in a short time",
-		"soundmark": "/ɪn/ /ə/ /ʃɔrt/ /taɪm/"
+		"soundmark": "/ɪn/ /ə/ /ʃɔrt/ /taɪm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"冠词"
+			],
+			[
+				2,
+				2,
+				"形容词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在一段如此短的时间里",
 		"english": "in such a short time",
-		"soundmark": "/ɪn/ /sʌtʃ/ /ə/ /ʃɔrt/ /taɪm/"
+		"soundmark": "/ɪn/ /sʌtʃ/ /ə/ /ʃɔrt/ /taɪm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"副词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你(过去)如何设法做到为那个度假存足够的钱的？",
 		"english": "how did you manage to save enough money for that vacation",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /sev/ /ɪ'nʌf/ /ˈmʌni/ /ðæt/ /veˈkeʃn/"
+		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /sev/ /ɪ'nʌf/ /ˈmʌni/ /ðæt/ /veˈkeʃn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"动词"
+			],
+			[
+				6,
+				6,
+				"形容词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			],
+			[
+				8,
+				8,
+				"介词"
+			],
+			[
+				9,
+				9,
+				"代词"
+			],
+			[
+				10,
+				10,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"疑问宾语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			],
+			[
+				4,
+				10,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "你(过去)如何设法做到在一段如此短的时间里为那个度假存足够的钱的？",
 		"english": "how did you manage to save enough money for that vacation in such a short time",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /sev/ /ɪ'nʌf/ /ˈmʌni/ /ðæt/ /veˈkeʃn/ /ɪn/ /sʌtʃ/ /ə/ /ʃɔrt/ /taɪm/"
+		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /sev/ /ɪ'nʌf/ /ˈmʌni/ /ðæt/ /veˈkeʃn/ /ɪn/ /sʌtʃ/ /ə/ /ʃɔrt/ /taɪm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"动词"
+			],
+			[
+				6,
+				6,
+				"形容词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			],
+			[
+				8,
+				8,
+				"介词"
+			],
+			[
+				9,
+				9,
+				"代词"
+			],
+			[
+				10,
+				10,
+				"名词"
+			],
+			[
+				11,
+				11,
+				"介词"
+			],
+			[
+				12,
+				12,
+				"副词"
+			],
+			[
+				13,
+				13,
+				"冠词"
+			],
+			[
+				14,
+				14,
+				"形容词"
+			],
+			[
+				15,
+				15,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"疑问宾语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			],
+			[
+				4,
+				15,
+				"状语",
+				"PP"
+			]
+		]
 	}
 ]

@@ -2,916 +2,5745 @@
 	{
 		"chinese": "清洗",
 		"english": "to wash",
-		"soundmark": "/tə/ /wɔʃ/"
+		"soundmark": "/tə/ /wɔʃ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "清洗（过去分词）",
 		"english": "washed",
-		"soundmark": "/wɔʃt/"
+		"soundmark": "/wɔʃt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "被清洗了",
 		"english": "be washed",
-		"soundmark": "/bi/ /wɔʃt/"
+		"soundmark": "/bi/ /wɔʃt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "这辆车",
 		"english": "the car",
-		"soundmark": "/ðə/ /kɑr/"
+		"soundmark": "/ðə/ /kɑr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "这辆车被清洗了",
 		"english": "the car is washed",
-		"soundmark": "/ðə/ /kɑr/ /ɪz/ /wɔʃt/"
+		"soundmark": "/ðə/ /kɑr/ /ɪz/ /wɔʃt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "他",
 		"english": "him",
-		"soundmark": "/hɪm/"
+		"soundmark": "/hɪm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "通过",
 		"english": "by",
-		"soundmark": "/baɪ/"
+		"soundmark": "/baɪ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "通过他",
 		"english": "by him",
-		"soundmark": "/baɪ/ /hɪm/"
+		"soundmark": "/baɪ/ /hɪm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "这辆车通过他被清洗了",
 		"english": "the car is washed by him",
-		"soundmark": "/ðə/ /kɑr/ /ɪz/ /wɔʃt/ /baɪ/ /hɪm/"
+		"soundmark": "/ðə/ /kɑr/ /ɪz/ /wɔʃt/ /baɪ/ /hɪm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				5,
+				"宾语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "这辆车（过去）被他清洗了",
 		"english": "the car was washed by him",
-		"soundmark": "/ðə/ /kɑr/ /wəz/ /wɔʃt/ /baɪ/ /hɪm/"
+		"soundmark": "/ðə/ /kɑr/ /wəz/ /wɔʃt/ /baɪ/ /hɪm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				5,
+				"宾语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "昨天",
 		"english": "yesterday",
-		"soundmark": "/'jɛstɚde/"
+		"soundmark": "/'jɛstɚde/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "这辆车昨天被他清洗了",
 		"english": "the car was washed by him yesterday",
-		"soundmark": "/ðə/ /kɑr/ /wəz/ /wɔʃt/ /baɪ/ /hɪm/ /'jɛstɚde/"
+		"soundmark": "/ðə/ /kɑr/ /wəz/ /wɔʃt/ /baɪ/ /hɪm/ /'jɛstɚde/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				6,
+				"宾语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "回答",
 		"english": "to answer",
-		"soundmark": "/tə/ /'ænsɚ/"
+		"soundmark": "/tə/ /'ænsɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "回答（过去分词）",
 		"english": "answered",
-		"soundmark": "/'ænsɚd/"
+		"soundmark": "/'ænsɚd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "被回答了",
 		"english": "be answered",
-		"soundmark": "/bi/ /'ænsɚd/"
+		"soundmark": "/bi/ /'ænsɚd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "这个问题",
 		"english": "the question",
-		"soundmark": "/ðə/ /'kwɛstʃən/"
+		"soundmark": "/ðə/ /'kwɛstʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "这个问题被回答了",
 		"english": "the question is answered",
-		"soundmark": "/ðə/ /'kwɛstʃən/ /ɪz/ /'ænsɚd/"
+		"soundmark": "/ðə/ /'kwɛstʃən/ /ɪz/ /'ænsɚd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "那个学生",
 		"english": "the student",
-		"soundmark": "/ðə/ /'studnt/"
+		"soundmark": "/ðə/ /'studnt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "通过那个学生",
 		"english": "by the student",
-		"soundmark": "/baɪ/ /ðə/ /'studnt/"
+		"soundmark": "/baɪ/ /ðə/ /'studnt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"冠词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "这个问题被那个学生回答了",
 		"english": "the question is answered by the student",
-		"soundmark": "/ðə/ /'kwɛstʃən/ /ɪz/ /'ænsɚd/ /baɪ/ /ðə/ /'studnt/"
+		"soundmark": "/ðə/ /'kwɛstʃən/ /ɪz/ /'ænsɚd/ /baɪ/ /ðə/ /'studnt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"冠词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				6,
+				"宾语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "这个问题（过去）被那个学生回答了",
 		"english": "the question was answered by the student",
-		"soundmark": "/ðə/ /'kwɛstʃən/ /wəz/ /'ænsɚd/ /baɪ/ /ðə/ /'studnt/"
+		"soundmark": "/ðə/ /'kwɛstʃən/ /wəz/ /'ænsɚd/ /baɪ/ /ðə/ /'studnt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"冠词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				6,
+				"宾语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "解决",
 		"english": "to solve",
-		"soundmark": "/tə/ /sɑlv/"
+		"soundmark": "/tə/ /sɑlv/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "解决（过去分词）",
 		"english": "solved",
-		"soundmark": "/sɑlvd/"
+		"soundmark": "/sɑlvd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "被解决了",
 		"english": "be solved",
-		"soundmark": "/bi/ /sɑlvd/"
+		"soundmark": "/bi/ /sɑlvd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "那个问题",
 		"english": "the problem",
-		"soundmark": "/ðə/ /'prɑbləm/"
+		"soundmark": "/ðə/ /'prɑbləm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "那个问题被解决了",
 		"english": "the problem is solved",
-		"soundmark": "/ðə/ /'prɑbləm/ /ɪz/ /sɑlvd/"
+		"soundmark": "/ðə/ /'prɑbləm/ /ɪz/ /sɑlvd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				3,
+				"宾语",
+				"ADJP"
+			]
+		]
 	},
 	{
 		"chinese": "那个问题（过去）被解决了",
 		"english": "the problem was solved",
-		"soundmark": "/ðə/ /'prɑbləm/ /wəz/ /sɑlvd/"
+		"soundmark": "/ðə/ /'prɑbləm/ /wəz/ /sɑlvd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				3,
+				"宾语",
+				"ADJP"
+			]
+		]
 	},
 	{
 		"chinese": "紧急",
 		"english": "urgent",
-		"soundmark": "/'ɝdʒənt/"
+		"soundmark": "/'ɝdʒənt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "那个紧急的问题",
 		"english": "the urgent problem",
-		"soundmark": "/ðə/ /'ɝdʒənt/ /'prɑbləm/"
+		"soundmark": "/ðə/ /'ɝdʒənt/ /'prɑbləm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				2,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "那个紧急的问题（过去）被解决了",
 		"english": "the urgent problem was solved",
-		"soundmark": "/ðə/ /'ɝdʒənt/ /'prɑbləm/ /wəz/ /sɑlvd/"
+		"soundmark": "/ðə/ /'ɝdʒənt/ /'prɑbləm/ /wəz/ /sɑlvd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				2,
+				"主语",
+				"NP"
+			],
+			[
+				3,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				4,
+				"宾语",
+				"ADJP"
+			]
+		]
 	},
 	{
 		"chinese": "他们",
 		"english": "them",
-		"soundmark": "/ðəm/"
+		"soundmark": "/ðəm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "通过他们",
 		"english": "by them",
-		"soundmark": "/baɪ/ /ðəm/"
+		"soundmark": "/baɪ/ /ðəm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "那个紧急的问题（过去）被他们解决了",
 		"english": "the urgent problem was solved by them",
-		"soundmark": "/ðə/ /'ɝdʒənt/ /'prɑbləm/ /wəz/ /sɑlvd/ /baɪ/ /ðəm/"
+		"soundmark": "/ðə/ /'ɝdʒənt/ /'prɑbləm/ /wəz/ /sɑlvd/ /baɪ/ /ðəm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				2,
+				"主语",
+				"NP"
+			],
+			[
+				3,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				4,
+				"宾语",
+				"ADJP"
+			],
+			[
+				5,
+				6,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "告诉",
 		"english": "to tell",
-		"soundmark": "/tə/ /tɛl/"
+		"soundmark": "/tə/ /tɛl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "告诉（过去分词）",
 		"english": "told",
-		"soundmark": "/told/"
+		"soundmark": "/told/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "被告诉",
 		"english": "be told",
-		"soundmark": "/bi/ /told/"
+		"soundmark": "/bi/ /told/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "故事",
 		"english": "story",
-		"soundmark": "/'stɔri/"
+		"soundmark": "/'stɔri/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "这个故事",
 		"english": "the story",
-		"soundmark": "/ðə/ /'stɔri/"
+		"soundmark": "/ðə/ /'stɔri/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "这个故事被讲述",
 		"english": "the story is told",
-		"soundmark": "/ðə/ /'stɔri/ /ɪz/ /told/"
+		"soundmark": "/ðə/ /'stɔri/ /ɪz/ /told/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"系动词",
+				"TP"
+			],
+			[
+				3,
+				3,
+				"表语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "这个故事（过去）被讲述",
 		"english": "the story was told",
-		"soundmark": "/ðə/ /'stɔri/ /wəz/ /told/"
+		"soundmark": "/ðə/ /'stɔri/ /wəz/ /told/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"系动词",
+				"TP"
+			],
+			[
+				3,
+				3,
+				"表语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "父亲",
 		"english": "father",
-		"soundmark": "/'fɑðɚ/"
+		"soundmark": "/'fɑðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "爷爷",
 		"english": "grandfather",
-		"soundmark": "/'grænfɑðɚ/"
+		"soundmark": "/'grænfɑðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我的爷爷",
 		"english": "my grandfather",
-		"soundmark": "/maɪ/ /'grænfɑðɚ/"
+		"soundmark": "/maɪ/ /'grænfɑðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "通过我的爷爷",
 		"english": "by my grandfather",
-		"soundmark": "/baɪ/ /maɪ/ /'grænfɑðɚ/"
+		"soundmark": "/baɪ/ /maɪ/ /'grænfɑðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "这个故事（过去）被我的爷爷讲述",
 		"english": "the story was told by my grandfather",
-		"soundmark": "/ðə/ /'stɔri/ /wəz/ /told/ /baɪ/ /maɪ/ /'grænfɑðɚ/"
+		"soundmark": "/ðə/ /'stɔri/ /wəz/ /told/ /baɪ/ /maɪ/ /'grænfɑðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"系动词",
+				"TP"
+			],
+			[
+				3,
+				3,
+				"表语",
+				"NP"
+			],
+			[
+				4,
+				6,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "被告诉",
 		"english": "be told",
-		"soundmark": "/bi/ /told/"
+		"soundmark": "/bi/ /told/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "她（过去）被告诉",
 		"english": "she was told",
-		"soundmark": "/ʃi/ /wəz/ /told/"
+		"soundmark": "/ʃi/ /wəz/ /told/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				2,
+				"表语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "喝",
 		"english": "to drink",
-		"soundmark": "/tə/ /drɪŋk/"
+		"soundmark": "/tə/ /drɪŋk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "水",
 		"english": "water",
-		"soundmark": "/'wɔtɚ/"
+		"soundmark": "/'wɔtɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "喝水",
 		"english": "to drink water",
-		"soundmark": "/tə/ /drɪŋk/ /'wɔtɚ/"
+		"soundmark": "/tə/ /drɪŋk/ /'wɔtɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "更多",
 		"english": "more",
-		"soundmark": "/mɔr/"
+		"soundmark": "/mɔr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "喝更多的水",
 		"english": "to drink more water",
-		"soundmark": "/tə/ /drɪŋk/ /mɔr/ /'wɔtɚ/"
+		"soundmark": "/tə/ /drɪŋk/ /mɔr/ /'wɔtɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "她（过去）被告诉",
 		"english": "she was told",
-		"soundmark": "/ʃi/ /wəz/ /told/"
+		"soundmark": "/ʃi/ /wəz/ /told/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				2,
+				"表语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "她（过去）被告诉喝更多的水",
 		"english": "she was told to drink more water",
-		"soundmark": "/ʃi/ /wəz/ /told/ /tə/ /drɪŋk/ /mɔr/ /'wɔtɚ/"
+		"soundmark": "/ʃi/ /wəz/ /told/ /tə/ /drɪŋk/ /mɔr/ /'wɔtɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"副词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				2,
+				"表语",
+				"NP"
+			],
+			[
+				3,
+				6,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "医生",
 		"english": "the doctor",
-		"soundmark": "/ðə/ /'dɑktɚ/"
+		"soundmark": "/ðə/ /'dɑktɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "通过医生",
 		"english": "by the doctor",
-		"soundmark": "/baɪ/ /ðə/ /'dɑktɚ/"
+		"soundmark": "/baɪ/ /ðə/ /'dɑktɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"冠词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "她被医生告诉",
 		"english": "she was told by the doctor",
-		"soundmark": "/ʃi/ /wəz/ /told/ /baɪ/ /ðə/ /'dɑktɚ/"
+		"soundmark": "/ʃi/ /wəz/ /told/ /baɪ/ /ðə/ /'dɑktɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				2,
+				"表语",
+				"NP"
+			],
+			[
+				3,
+				5,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "喝更多的水",
 		"english": "to drink more water",
-		"soundmark": "/tə/ /drɪŋk/ /mɔr/ /'wɔtɚ/"
+		"soundmark": "/tə/ /drɪŋk/ /mɔr/ /'wɔtɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "她（过去）被医生告诉喝更多的水",
 		"english": "she was told by the doctor to drink more water",
-		"soundmark": "/ʃi/ /wəz/ /told/ /baɪ/ /ðə/ /'dɑktɚ/ /tə/ /drɪŋk/ /mɔr/ /'wɔtɚ/"
+		"soundmark": "/ʃi/ /wəz/ /told/ /baɪ/ /ðə/ /'dɑktɚ/ /tə/ /drɪŋk/ /mɔr/ /'wɔtɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"介词"
+			],
+			[
+				7,
+				7,
+				"动词"
+			],
+			[
+				8,
+				8,
+				"副词"
+			],
+			[
+				9,
+				9,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				2,
+				"表语",
+				"NP"
+			],
+			[
+				3,
+				9,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "水",
 		"english": "water",
-		"soundmark": "/'wɔtɚ/"
+		"soundmark": "/'wɔtɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "浇水",
 		"english": "to water",
-		"soundmark": "/tə/ /'wɔtɚ/"
+		"soundmark": "/tə/ /'wɔtɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "浇水（过去分词）",
 		"english": "watered",
-		"soundmark": "/'wɔtɚd/"
+		"soundmark": "/'wɔtɚd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "被浇水",
 		"english": "be watered",
-		"soundmark": "/bi/ /'wɔtɚd/"
+		"soundmark": "/bi/ /'wɔtɚd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "将会",
 		"english": "will",
-		"soundmark": "/wɪl/"
+		"soundmark": "/wɪl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "将会被浇水",
 		"english": "will be watered",
-		"soundmark": "/wɪl/ /bi/ /'wɔtɚd/"
+		"soundmark": "/wɪl/ /bi/ /'wɔtɚd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "花",
 		"english": "flower",
-		"soundmark": "/'flaʊɚ/"
+		"soundmark": "/'flaʊɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "这些花",
 		"english": "the flowers",
-		"soundmark": "/ðə/ /'flaʊɚz/"
+		"soundmark": "/ðə/ /'flaʊɚz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "这些花将会被浇水",
 		"english": "the flowers will be watered",
-		"soundmark": "/ðə/ /'flaʊɚz/ /wɪl/ /bi/ /'wɔtɚd/"
+		"soundmark": "/ðə/ /'flaʊɚz/ /wɪl/ /bi/ /'wɔtɚd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"情态动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				4,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我",
 		"english": "me",
-		"soundmark": "/mi/"
+		"soundmark": "/mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "通过我",
 		"english": "by me",
-		"soundmark": "/baɪ/ /mi/"
+		"soundmark": "/baɪ/ /mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "这些花将会被我浇水",
 		"english": "the flowers will be watered by me",
-		"soundmark": "/ðə/ /'flaʊɚz/ /wɪl/ /bi/ /'wɔtɚd/ /baɪ/ /mi/"
+		"soundmark": "/ðə/ /'flaʊɚz/ /wɪl/ /bi/ /'wɔtɚd/ /baɪ/ /mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"情态动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				4,
+				"谓语",
+				"VP"
+			],
+			[
+				5,
+				6,
+				"宾语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "说",
 		"english": "to speak",
-		"soundmark": "/tə/ /spik/"
+		"soundmark": "/tə/ /spik/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "演讲者",
 		"english": "speaker",
-		"soundmark": "/'spikɚ/"
+		"soundmark": "/'spikɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "那个演讲者",
 		"english": "the speaker",
-		"soundmark": "/ðə/ /'spikɚ/"
+		"soundmark": "/ðə/ /'spikɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "邀请",
 		"english": "to invite",
-		"soundmark": "/tə/ /ɪn'vaɪt/"
+		"soundmark": "/tə/ /ɪn'vaɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "邀请（过去分词）",
 		"english": "invited",
-		"soundmark": "/ɪn'vaɪtɪd/"
+		"soundmark": "/ɪn'vaɪtɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "被邀请",
 		"english": "be invited",
-		"soundmark": "/bi/ /ɪn'vaɪtɪd/"
+		"soundmark": "/bi/ /ɪn'vaɪtɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "那个演讲者被邀请了",
 		"english": "the speaker is invited",
-		"soundmark": "/ðə/ /'spikɚ/ /ɪz/ /ɪn'vaɪtɪd/"
+		"soundmark": "/ðə/ /'spikɚ/ /ɪz/ /ɪn'vaɪtɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "那个演讲者（过去）被邀请了",
 		"english": "the speaker was invited",
-		"soundmark": "/ðə/ /'spikɚ/ /wəz/ /ɪn'vaɪtɪd/"
+		"soundmark": "/ðə/ /'spikɚ/ /wəz/ /ɪn'vaɪtɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "通过他们",
 		"english": "by them",
-		"soundmark": "/baɪ/ /ðəm/"
+		"soundmark": "/baɪ/ /ðəm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "那个演讲者（过去）被他们邀请了",
 		"english": "the speaker was invited by them",
-		"soundmark": "/ðə/ /'spikɚ/ /wəz/ /ɪn'vaɪtɪd/ /baɪ/ /ðəm/"
+		"soundmark": "/ðə/ /'spikɚ/ /wəz/ /ɪn'vaɪtɪd/ /baɪ/ /ðəm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				5,
+				"宾语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "邀请",
 		"english": "to invite",
-		"soundmark": "/tə/ /ɪn'vaɪt/"
+		"soundmark": "/tə/ /ɪn'vaɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "邀请（名词）",
 		"english": "invitation",
-		"soundmark": "/ɪnvɪ'teʃən/"
+		"soundmark": "/ɪnvɪ'teʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "那个邀请",
 		"english": "the invitation",
-		"soundmark": "/ði/ /ɪnvɪ'teʃən/"
+		"soundmark": "/ði/ /ɪnvɪ'teʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "接受",
 		"english": "to accept",
-		"soundmark": "/tə/ /ək'sɛpt/"
+		"soundmark": "/tə/ /ək'sɛpt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "接受（过去分词）",
 		"english": "accepted",
-		"soundmark": "/ək'sɛptɪd/"
+		"soundmark": "/ək'sɛptɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "被接受了",
 		"english": "be accepted",
-		"soundmark": "/bi/ /ək'sɛptɪd/"
+		"soundmark": "/bi/ /ək'sɛptɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "那个邀请被接受了",
 		"english": "the invitation is accepted",
-		"soundmark": "/ði/ /ɪnvɪ'teʃən/ /ɪz/ /ək'sɛptɪd/"
+		"soundmark": "/ði/ /ɪnvɪ'teʃən/ /ɪz/ /ək'sɛptɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "那个邀请（过去）被接受了",
 		"english": "the invitation was accepted",
-		"soundmark": "/ði/ /ɪnvɪ'teʃən/ /wəz/ /ək'sɛptɪd/"
+		"soundmark": "/ði/ /ɪnvɪ'teʃən/ /wəz/ /ək'sɛptɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "通过他们",
 		"english": "by them",
-		"soundmark": "/baɪ/ /ðəm/"
+		"soundmark": "/baɪ/ /ðəm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "那个邀请（过去）被他们接受了",
 		"english": "the invitation was accepted by them",
-		"soundmark": "/ði/ /ɪnvɪ'teʃən/ /wəz/ /ək'sɛptɪd/ /baɪ/ /ðəm/"
+		"soundmark": "/ði/ /ɪnvɪ'teʃən/ /wəz/ /ək'sɛptɪd/ /baɪ/ /ðəm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				5,
+				"宾语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "加入",
 		"english": "to join",
-		"soundmark": "/tə/ /dʒɔɪn/"
+		"soundmark": "/tə/ /dʒɔɪn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "团队",
 		"english": "team",
-		"soundmark": "/tim/"
+		"soundmark": "/tim/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我们的团队",
 		"english": "our team",
-		"soundmark": "/'aʊɚ/ /tim/"
+		"soundmark": "/'aʊɚ/ /tim/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "加入我们的团队",
 		"english": "to join our team",
-		"soundmark": "/tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+		"soundmark": "/tə/ /dʒɔɪn/ /'aʊɚ/ /tim/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "那个邀请",
 		"english": "the invitation",
-		"soundmark": "/ði/ /ɪnvɪ'teʃən/"
+		"soundmark": "/ði/ /ɪnvɪ'teʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "加入我们团队的那个邀请",
 		"english": "the invitation to join our team",
-		"soundmark": "/ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+		"soundmark": "/ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "被接受了",
 		"english": "be accepted",
-		"soundmark": "/bi/ /ək'sɛptɪd/"
+		"soundmark": "/bi/ /ək'sɛptɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "加入我们团队的那个邀请（过去）被接受了",
 		"english": "the invitation to join our team was accepted",
-		"soundmark": "/ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/ /wəz/ /ək'sɛptɪd/"
+		"soundmark": "/ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/ /wəz/ /ək'sɛptɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"动词"
+			],
+			[
+				7,
+				7,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "通过他们",
 		"english": "by them",
-		"soundmark": "/baɪ/ /ðəm/"
+		"soundmark": "/baɪ/ /ðəm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "加入我们团队的那个邀请（过去）被他们接受了",
 		"english": "the invitation to join our team was accepted by them",
-		"soundmark": "/ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/ /wəz/ /ək'sɛptɪd/ /baɪ/ /ðəm/"
+		"soundmark": "/ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/ /wəz/ /ək'sɛptɪd/ /baɪ/ /ðəm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"动词"
+			],
+			[
+				7,
+				7,
+				"动词"
+			],
+			[
+				8,
+				8,
+				"介词"
+			],
+			[
+				9,
+				9,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "被接受",
 		"english": "be accepted",
-		"soundmark": "/bi/ /ək'sɛptɪd/"
+		"soundmark": "/bi/ /ək'sɛptɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "将会",
 		"english": "will",
-		"soundmark": "/wɪl/"
+		"soundmark": "/wɪl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "将会被接受",
 		"english": "will be accepted",
-		"soundmark": "/wɪl/ /bi/ /ək'sɛptɪd/"
+		"soundmark": "/wɪl/ /bi/ /ək'sɛptɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "那个挑战",
 		"english": "the challenge",
-		"soundmark": "/ðə/ /ˈtʃælɪndʒ/"
+		"soundmark": "/ðə/ /ˈtʃælɪndʒ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "那个挑战将会被接受",
 		"english": "the challenge will be accepted",
-		"soundmark": "/ðə/ /ˈtʃælɪndʒ/ /wɪl/ /bi/ /ək'sɛptɪd/"
+		"soundmark": "/ðə/ /ˈtʃælɪndʒ/ /wɪl/ /bi/ /ək'sɛptɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"情态动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				4,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "通过我们",
 		"english": "by us",
-		"soundmark": "/baɪ/ /ʌs/"
+		"soundmark": "/baɪ/ /ʌs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "那个挑战将会被我们接受",
 		"english": "the challenge will be accepted by us",
-		"soundmark": "/ðə/ /ˈtʃælɪndʒ/ /wɪl/ /bi/ /ək'sɛptɪd/ /baɪ/ /ʌs/"
+		"soundmark": "/ðə/ /ˈtʃælɪndʒ/ /wɪl/ /bi/ /ək'sɛptɪd/ /baɪ/ /ʌs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"情态动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				4,
+				"谓语",
+				"VP"
+			],
+			[
+				5,
+				6,
+				"宾语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "完成",
 		"english": "to finish",
-		"soundmark": "/tə/ /'fɪnɪʃ/"
+		"soundmark": "/tə/ /'fɪnɪʃ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "完成（过去分词）",
 		"english": "finished",
-		"soundmark": "/'fɪnɪʃt/"
+		"soundmark": "/'fɪnɪʃt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "被完成",
 		"english": "be finished",
-		"soundmark": "/bi/ /'fɪnɪʃt/"
+		"soundmark": "/bi/ /'fɪnɪʃt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "应该",
 		"english": "should",
-		"soundmark": "/ʃʊd/"
+		"soundmark": "/ʃʊd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "应该被完成",
 		"english": "should be finished",
-		"soundmark": "/ʃʊd/ /bi/ /'fɪnɪʃt/"
+		"soundmark": "/ʃʊd/ /bi/ /'fɪnɪʃt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "家庭作业",
 		"english": "the homework",
-		"soundmark": "/ðə/ /'homwɝk/"
+		"soundmark": "/ðə/ /'homwɝk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "家庭作业应该被完成",
 		"english": "the homework should be finished",
-		"soundmark": "/ðə/ /'homwɝk/ /ʃʊd/ /bi/ /'fɪnɪʃt/"
+		"soundmark": "/ðə/ /'homwɝk/ /ʃʊd/ /bi/ /'fɪnɪʃt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"情态动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				4,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "通过你",
 		"english": "by you",
-		"soundmark": "/baɪ/ /ju/"
+		"soundmark": "/baɪ/ /ju/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "家庭作业应该被你完成",
 		"english": "the homework should be finished by you",
-		"soundmark": "/ðə/ /'homwɝk/ /ʃʊd/ /bi/ /'fɪnɪʃt/ /baɪ/ /ju/"
+		"soundmark": "/ðə/ /'homwɝk/ /ʃʊd/ /bi/ /'fɪnɪʃt/ /baɪ/ /ju/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"情态动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				4,
+				"谓语",
+				"VP"
+			],
+			[
+				5,
+				6,
+				"宾语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "晚饭",
 		"english": "dinner",
-		"soundmark": "/'dɪnɚ/"
+		"soundmark": "/'dɪnɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "在......之前",
 		"english": "before",
-		"soundmark": "/bɪ'fɔr/"
+		"soundmark": "/bɪ'fɔr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "在晚饭之前",
 		"english": "before dinner",
-		"soundmark": "/bɪ'fɔr/ /'dɪnɚ/"
+		"soundmark": "/bɪ'fɔr/ /'dɪnɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "家庭作业应该在晚饭之前被你完成",
 		"english": "the homework should be finished by you before dinner",
-		"soundmark": "/ðə/ /'homwɝk/ /ʃʊd/ /bi/ /'fɪnɪʃt/ /baɪ/ /ju/ /bɪ'fɔr/ /'dɪnɚ/"
+		"soundmark": "/ðə/ /'homwɝk/ /ʃʊd/ /bi/ /'fɪnɪʃt/ /baɪ/ /ju/ /bɪ'fɔr/ /'dɪnɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"情态动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"介词"
+			],
+			[
+				8,
+				8,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				4,
+				"谓语",
+				"VP"
+			],
+			[
+				5,
+				8,
+				"宾语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "烹饪；做饭",
 		"english": "to cook",
-		"soundmark": "/tə/ /kʊk/"
+		"soundmark": "/tə/ /kʊk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "烹饪（过去分词）",
 		"english": "cooked",
-		"soundmark": "/kʊkt/"
+		"soundmark": "/kʊkt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "被烹饪",
 		"english": "be cooked",
-		"soundmark": "/bi/ /kʊkt/"
+		"soundmark": "/bi/ /kʊkt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "母亲",
 		"english": "mother",
-		"soundmark": "/'mʌðɚ/"
+		"soundmark": "/'mʌðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我的母亲",
 		"english": "my mother",
-		"soundmark": "/maɪ/ /'mʌðɚ/"
+		"soundmark": "/maɪ/ /'mʌðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "通过我的母亲",
 		"english": "by my mother",
-		"soundmark": "/baɪ/ /maɪ/ /'mʌðɚ/"
+		"soundmark": "/baɪ/ /maɪ/ /'mʌðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "被我妈烹饪",
 		"english": "be cooked by my mother",
-		"soundmark": "/bi/ /kʊkt/ /baɪ/ /maɪ/ /'mʌðɚ/"
+		"soundmark": "/bi/ /kʊkt/ /baɪ/ /maɪ/ /'mʌðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				4,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "晚饭",
 		"english": "dinner",
-		"soundmark": "/'dɪnɚ/"
+		"soundmark": "/'dɪnɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "这顿晚饭",
 		"english": "the dinner",
-		"soundmark": "/ðə/ /'dɪnɚ/"
+		"soundmark": "/ðə/ /'dɪnɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "这顿晚饭是被我妈做的",
 		"english": "the dinner is cooked by my mother",
-		"soundmark": "/ðə/ /'dɪnɚ/ /ɪz/ /kʊkt/ /baɪ/ /maɪ/ /'mʌðɚ/"
+		"soundmark": "/ðə/ /'dɪnɚ/ /ɪz/ /kʊkt/ /baɪ/ /maɪ/ /'mʌðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				6,
+				"宾语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "这顿晚饭（过去）是被我妈做的",
 		"english": "the dinner was cooked by my mother",
-		"soundmark": "/ðə/ /'dɪnɚ/ /wəz/ /kʊkt/ /baɪ/ /maɪ/ /'mʌðɚ/"
+		"soundmark": "/ðə/ /'dɪnɚ/ /wəz/ /kʊkt/ /baɪ/ /maɪ/ /'mʌðɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				6,
+				"宾语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "打破",
 		"english": "to break",
-		"soundmark": "/tə/ /brek/"
+		"soundmark": "/tə/ /brek/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "打破（过去分词）",
 		"english": "broken",
-		"soundmark": "/'brokən/"
+		"soundmark": "/'brokən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "被打破",
 		"english": "be broken",
-		"soundmark": "/bi/ /'brokən/"
+		"soundmark": "/bi/ /'brokən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "窗户",
 		"english": "window",
-		"soundmark": "/'wɪndo/"
+		"soundmark": "/'wɪndo/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "那个窗户",
 		"english": "the window",
-		"soundmark": "/ðə/ /'wɪndo/"
+		"soundmark": "/ðə/ /'wɪndo/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "那个窗户被打破了",
 		"english": "the window is broken",
-		"soundmark": "/ðə/ /'wɪndo/ /ɪz/ /'brokən/"
+		"soundmark": "/ðə/ /'wɪndo/ /ɪz/ /'brokən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"系动词",
+				"TP"
+			],
+			[
+				3,
+				3,
+				"表语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "石头",
 		"english": "stone",
-		"soundmark": "/ston/"
+		"soundmark": "/ston/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "通过",
 		"english": "by",
-		"soundmark": "/baɪ/"
+		"soundmark": "/baɪ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "通过一个石头",
 		"english": "by a stone",
-		"soundmark": "/baɪ/ /ə/ /ston/"
+		"soundmark": "/baɪ/ /ə/ /ston/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"冠词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "那个窗户被一个石头打破了",
 		"english": "the window is broken by a stone",
-		"soundmark": "/ðə/ /'wɪndo/ /ɪz/ /'brokən/ /baɪ/ /ə/ /ston/"
+		"soundmark": "/ðə/ /'wɪndo/ /ɪz/ /'brokən/ /baɪ/ /ə/ /ston/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"冠词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"系动词",
+				"TP"
+			],
+			[
+				3,
+				3,
+				"表语",
+				"NP"
+			],
+			[
+				4,
+				6,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "那个窗户（过去）被一个石头打破了",
 		"english": "the window was broken by a stone",
-		"soundmark": "/ðə/ /'wɪndo/ /wəz/ /'brokən/ /baɪ/ /ə/ /ston/"
+		"soundmark": "/ðə/ /'wɪndo/ /wəz/ /'brokən/ /baɪ/ /ə/ /ston/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"冠词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"系动词",
+				"TP"
+			],
+			[
+				3,
+				3,
+				"表语",
+				"NP"
+			],
+			[
+				4,
+				6,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "关闭",
 		"english": "to close",
-		"soundmark": "/tə/ /kloz/"
+		"soundmark": "/tə/ /kloz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "关闭（过去分词）",
 		"english": "closed",
-		"soundmark": "/klozd/"
+		"soundmark": "/klozd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "被关闭",
 		"english": "be closed",
-		"soundmark": "/bi/ /klozd/"
+		"soundmark": "/bi/ /klozd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "将会",
 		"english": "will",
-		"soundmark": "/wɪl/"
+		"soundmark": "/wɪl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "将会被关闭",
 		"english": "will be closed",
-		"soundmark": "/wɪl/ /bi/ /klozd/"
+		"soundmark": "/wɪl/ /bi/ /klozd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "那个窗户",
 		"english": "the window",
-		"soundmark": "/ðə/ /'wɪndo/"
+		"soundmark": "/ðə/ /'wɪndo/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "那个窗户将会被关闭",
 		"english": "the window will be closed",
-		"soundmark": "/ðə/ /'wɪndo/ /wɪl/ /bi/ /klozd/"
+		"soundmark": "/ðə/ /'wɪndo/ /wɪl/ /bi/ /klozd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"情态动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				4,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "通过我",
 		"english": "by me",
-		"soundmark": "/baɪ/ /mi/"
+		"soundmark": "/baɪ/ /mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "那个窗户将会被我关闭",
 		"english": "the window will be closed by me",
-		"soundmark": "/ðə/ /'wɪndo/ /wɪl/ /bi/ /klozd/ /baɪ/ /mi/"
+		"soundmark": "/ðə/ /'wɪndo/ /wɪl/ /bi/ /klozd/ /baɪ/ /mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"情态动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				4,
+				"谓语",
+				"VP"
+			],
+			[
+				5,
+				6,
+				"宾语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "保持",
 		"english": "to keep",
-		"soundmark": "/tə/ /kip/"
+		"soundmark": "/tə/ /kip/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "保持（过去分词）",
 		"english": "kept",
-		"soundmark": "/kɛpt/"
+		"soundmark": "/kɛpt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "被保持",
 		"english": "be kept",
-		"soundmark": "/bi/ /kɛpt/"
+		"soundmark": "/bi/ /kɛpt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "将会",
 		"english": "will",
-		"soundmark": "/wɪl/"
+		"soundmark": "/wɪl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "将会被保持",
 		"english": "will be kept",
-		"soundmark": "/wɪl/ /bi/ /kɛpt/"
+		"soundmark": "/wɪl/ /bi/ /kɛpt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				2,
+				2,
+				"主语",
+				"NP"
+			],
+			[
+				0,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "秘密",
 		"english": "secret",
-		"soundmark": "/'sikrət/"
+		"soundmark": "/'sikrət/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "这个秘密",
 		"english": "the secret",
-		"soundmark": "/ðə/ /'sikrət/"
+		"soundmark": "/ðə/ /'sikrət/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "这个秘密将会被保持",
 		"english": "the secret will be kept",
-		"soundmark": "/ðə/ /'sikrət/ /wɪl/ /bi/ /kɛpt/"
+		"soundmark": "/ðə/ /'sikrət/ /wɪl/ /bi/ /kɛpt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"情态动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"系动词",
+				"TP"
+			],
+			[
+				4,
+				4,
+				"表语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "通过他",
 		"english": "by him",
-		"soundmark": "/baɪ/ /hɪm/"
+		"soundmark": "/baɪ/ /hɪm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "这个秘密将会被他保持",
 		"english": "the secret will be kept by him",
-		"soundmark": "/ðə/ /'sikrət/ /wɪl/ /bi/ /kɛpt/ /baɪ/ /hɪm/"
+		"soundmark": "/ðə/ /'sikrət/ /wɪl/ /bi/ /kɛpt/ /baɪ/ /hɪm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"情态动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"系动词",
+				"TP"
+			],
+			[
+				4,
+				4,
+				"表语",
+				"NP"
+			],
+			[
+				5,
+				6,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "保存；拯救",
 		"english": "to save",
-		"soundmark": "/tə/ /sev/"
+		"soundmark": "/tə/ /sev/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "拯救（过去分词）",
 		"english": "saved",
-		"soundmark": "/sevd/"
+		"soundmark": "/sevd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "被拯救",
 		"english": "be saved",
-		"soundmark": "/bi/ /sevd/"
+		"soundmark": "/bi/ /sevd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "将会被拯救",
 		"english": "will be saved",
-		"soundmark": "/wɪl/ /bi/ /sevd/"
+		"soundmark": "/wɪl/ /bi/ /sevd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "世界",
 		"english": "the world",
-		"soundmark": "/ðə/ /wɝld/"
+		"soundmark": "/ðə/ /wɝld/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "世界将会被拯救",
 		"english": "the world will be saved",
-		"soundmark": "/ðə/ /wɝld/ /wɪl/ /bi/ /sevd/"
+		"soundmark": "/ðə/ /wɝld/ /wɪl/ /bi/ /sevd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"情态动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				4,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "通过他们",
 		"english": "by them",
-		"soundmark": "/baɪ/ /ðəm/"
+		"soundmark": "/baɪ/ /ðəm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "世界将会被他们拯救",
 		"english": "the world will be saved by them",
-		"soundmark": "/ðə/ /wɝld/ /wɪl/ /bi/ /sevd/ /baɪ/ /ðəm/"
+		"soundmark": "/ðə/ /wɝld/ /wɪl/ /bi/ /sevd/ /baɪ/ /ðəm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"情态动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				4,
+				"谓语",
+				"VP"
+			],
+			[
+				5,
+				6,
+				"宾语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "脚",
 		"english": "foot",
-		"soundmark": "/fʊt/"
+		"soundmark": "/fʊt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "球",
 		"english": "ball",
-		"soundmark": "/bɔl/"
+		"soundmark": "/bɔl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "足球",
 		"english": "football",
-		"soundmark": "/'fʊtbɔl/"
+		"soundmark": "/'fʊtbɔl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "比赛",
 		"english": "match",
-		"soundmark": "/mætʃ/"
+		"soundmark": "/mætʃ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "足球比赛",
 		"english": "football match",
-		"soundmark": "/'fʊtbɔl/ /mætʃ/"
+		"soundmark": "/'fʊtbɔl/ /mætʃ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "那场足球比赛",
 		"english": "the football match",
-		"soundmark": "/ðə/ /'fʊtbɔl/ /mætʃ/"
+		"soundmark": "/ðə/ /'fʊtbɔl/ /mætʃ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				2,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "举行",
 		"english": "to hold",
-		"soundmark": "/tə/ /hold/"
+		"soundmark": "/tə/ /hold/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "举行（过去分词）",
 		"english": "held",
-		"soundmark": "/hɛld/"
+		"soundmark": "/hɛld/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "被举行",
 		"english": "be held",
-		"soundmark": "/bi/ /hɛld/"
+		"soundmark": "/bi/ /hɛld/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "将会被举行",
 		"english": "will be held",
-		"soundmark": "/wɪl/ /bi/ /hɛld/"
+		"soundmark": "/wɪl/ /bi/ /hɛld/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				2,
+				2,
+				"主语",
+				"NP"
+			],
+			[
+				0,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "那场足球比赛将会被举行",
 		"english": "the football match will be held",
-		"soundmark": "/ðə/ /'fʊtbɔl/ /mætʃ/ /wɪl/ /bi/ /hɛld/"
+		"soundmark": "/ðə/ /'fʊtbɔl/ /mætʃ/ /wɪl/ /bi/ /hɛld/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"情态动词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				2,
+				"主语",
+				"NP"
+			],
+			[
+				3,
+				4,
+				"系动词",
+				"TP"
+			],
+			[
+				5,
+				5,
+				"表语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "明天",
 		"english": "tomorrow",
-		"soundmark": "/tə'mɔro/"
+		"soundmark": "/tə'mɔro/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "那场足球比赛明天将会被举行",
 		"english": "the football match will be held tomorrow",
-		"soundmark": "/ðə/ /'fʊtbɔl/ /mætʃ/ /wɪl/ /bi/ /hɛld/ /tə'mɔro/"
+		"soundmark": "/ðə/ /'fʊtbɔl/ /mætʃ/ /wɪl/ /bi/ /hɛld/ /tə'mɔro/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"情态动词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				2,
+				"主语",
+				"NP"
+			],
+			[
+				3,
+				4,
+				"系动词",
+				"TP"
+			],
+			[
+				5,
+				6,
+				"表语",
+				"NP"
+			]
+		]
 	}
 ]

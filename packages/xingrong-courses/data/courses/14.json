@@ -2,816 +2,6307 @@
 	{
 		"chinese": "我",
 		"english": "I",
-		"soundmark": "/aɪ/"
+		"soundmark": "/aɪ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我是",
 		"english": "I am",
-		"soundmark": "/aɪ/ /æm/"
+		"soundmark": "/aɪ/ /æm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			]
+		]
 	},
 	{
 		"chinese": "年轻的",
 		"english": "young",
-		"soundmark": "/jʌŋ/"
+		"soundmark": "/jʌŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我是年轻的",
 		"english": "I am young",
-		"soundmark": "/aɪ/ /æm/ /jʌŋ/"
+		"soundmark": "/aɪ/ /æm/ /jʌŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				2,
+				"表语",
+				"ADJP"
+			]
+		]
 	},
 	{
 		"chinese": "我是不年轻的",
 		"english": "I am not young",
-		"soundmark": "/aɪ/ /æm/ /nɑt/ /jʌŋ/"
+		"soundmark": "/aɪ/ /æm/ /nɑt/ /jʌŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"系动词",
+				"TP"
+			],
+			[
+				3,
+				3,
+				"表语",
+				"ADJP"
+			]
+		]
 	},
 	{
 		"chinese": "我（过去）是年轻的",
 		"english": "I was young",
-		"soundmark": "/aɪ/ /wəz/ /jʌŋ/"
+		"soundmark": "/aɪ/ /wəz/ /jʌŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				2,
+				"表语",
+				"ADJP"
+			]
+		]
 	},
 	{
 		"chinese": "我（过去）是不年轻的",
 		"english": "I was not young",
-		"soundmark": "/aɪ/ /wəz/ /nɑt/ /jʌŋ/"
+		"soundmark": "/aɪ/ /wəz/ /nɑt/ /jʌŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"系动词",
+				"TP"
+			],
+			[
+				3,
+				3,
+				"表语",
+				"ADJP"
+			]
+		]
 	},
 	{
 		"chinese": "他是",
 		"english": "he is",
-		"soundmark": "/hi/ /ɪz/"
+		"soundmark": "/hi/ /ɪz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			]
+		]
 	},
 	{
 		"chinese": "他是年轻的",
 		"english": "he is young",
-		"soundmark": "/hi/ /ɪz/ /jʌŋ/"
+		"soundmark": "/hi/ /ɪz/ /jʌŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				2,
+				"表语",
+				"ADJP"
+			]
+		]
 	},
 	{
 		"chinese": "他是不年轻的",
 		"english": "he is not young",
-		"soundmark": "/hi/ /ɪz/ /nɑt/ /jʌŋ/"
+		"soundmark": "/hi/ /ɪz/ /nɑt/ /jʌŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"系动词",
+				"TP"
+			],
+			[
+				3,
+				3,
+				"表语",
+				"ADJP"
+			]
+		]
 	},
 	{
 		"chinese": "他（过去）是年轻的",
 		"english": "he was young",
-		"soundmark": "/hi/ /wəz/ /jʌŋ/"
+		"soundmark": "/hi/ /wəz/ /jʌŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				2,
+				"表语",
+				"ADJP"
+			]
+		]
 	},
 	{
 		"chinese": "他（过去）是不年轻的",
 		"english": "he was not young",
-		"soundmark": "/hi/ /wəz/ /nɑt/ /jʌŋ/"
+		"soundmark": "/hi/ /wəz/ /nɑt/ /jʌŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"系动词",
+				"TP"
+			],
+			[
+				3,
+				3,
+				"表语",
+				"ADJP"
+			]
+		]
 	},
 	{
 		"chinese": "我们是",
 		"english": "we are",
-		"soundmark": "/wi/ /ɚ/"
+		"soundmark": "/wi/ /ɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			]
+		]
 	},
 	{
 		"chinese": "我们是年轻的",
 		"english": "we are young",
-		"soundmark": "/wi/ /ɚ/ /jʌŋ/"
+		"soundmark": "/wi/ /ɚ/ /jʌŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				2,
+				"表语",
+				"ADJP"
+			]
+		]
 	},
 	{
 		"chinese": "我们是不年轻的",
 		"english": "we are not young",
-		"soundmark": "/wi/ /ɚ/ /nɑt/ /jʌŋ/"
+		"soundmark": "/wi/ /ɚ/ /nɑt/ /jʌŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"系动词",
+				"TP"
+			],
+			[
+				3,
+				3,
+				"表语",
+				"ADJP"
+			]
+		]
 	},
 	{
 		"chinese": "我们（过去）是年轻的",
 		"english": "we were young",
-		"soundmark": "/wi/ /wɚ/ /jʌŋ/"
+		"soundmark": "/wi/ /wɚ/ /jʌŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				2,
+				"表语",
+				"ADJP"
+			]
+		]
 	},
 	{
 		"chinese": "我们（过去）是不年轻的",
 		"english": "we were not young",
-		"soundmark": "/wi/ /wɚ/ /nɑt/ /jʌŋ/"
+		"soundmark": "/wi/ /wɚ/ /nɑt/ /jʌŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"系动词",
+				"TP"
+			],
+			[
+				3,
+				3,
+				"表语",
+				"ADJP"
+			]
+		]
 	},
 	{
 		"chinese": "你是",
 		"english": "you are",
-		"soundmark": "/ju/ /ɚ/"
+		"soundmark": "/ju/ /ɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			]
+		]
 	},
 	{
 		"chinese": "你是年轻的",
 		"english": "you are young",
-		"soundmark": "/ju/ /ɚ/ /jʌŋ/"
+		"soundmark": "/ju/ /ɚ/ /jʌŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				2,
+				"表语",
+				"ADJP"
+			]
+		]
 	},
 	{
 		"chinese": "你是不年轻的",
 		"english": "you are not young",
-		"soundmark": "/ju/ /ɚ/ /nɑt/ /jʌŋ/"
+		"soundmark": "/ju/ /ɚ/ /nɑt/ /jʌŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"系动词",
+				"TP"
+			],
+			[
+				3,
+				3,
+				"表语",
+				"ADJP"
+			]
+		]
 	},
 	{
 		"chinese": "你（过去）是年轻的",
 		"english": "you were young",
-		"soundmark": "/ju/ /wɚ/ /jʌŋ/"
+		"soundmark": "/ju/ /wɚ/ /jʌŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				2,
+				"表语",
+				"ADJP"
+			]
+		]
 	},
 	{
 		"chinese": "你（过去）是不年轻的",
 		"english": "you were not young",
-		"soundmark": "/ju/ /wɚ/ /nɑt/ /jʌŋ/"
+		"soundmark": "/ju/ /wɚ/ /nɑt/ /jʌŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"系动词",
+				"TP"
+			],
+			[
+				3,
+				3,
+				"表语",
+				"ADJP"
+			]
+		]
 	},
 	{
 		"chinese": "非常",
 		"english": "very",
-		"soundmark": "/ˈvɛri/"
+		"soundmark": "/ˈvɛri/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "你（过去）是非常年轻的",
 		"english": "you were very young",
-		"soundmark": "/ju/ /wɚ/ /ˈvɛri/ /jʌŋ/"
+		"soundmark": "/ju/ /wɚ/ /ˈvɛri/ /jʌŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				2,
+				"时间状语",
+				"ADVP"
+			]
+		]
 	},
 	{
 		"chinese": "见到",
 		"english": "to see",
-		"soundmark": "/tə/ /si/"
+		"soundmark": "/tə/ /si/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我（过去）见到你",
 		"english": "I saw you",
-		"soundmark": "/aɪ/ /sɔ/ /ju/"
+		"soundmark": "/aɪ/ /sɔ/ /ju/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "当......的时候",
 		"english": "when",
-		"soundmark": "/wɛn/"
+		"soundmark": "/wɛn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "当我（过去）见到你的时候",
 		"english": "when I saw you",
-		"soundmark": "/wɛn/ /aɪ/ /sɔ/ /ju/"
+		"soundmark": "/wɛn/ /aɪ/ /sɔ/ /ju/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"疑问宾语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "第一次",
 		"english": "first",
-		"soundmark": "/fɝst/"
+		"soundmark": "/fɝst/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "当我第一次（过去）见到你的时候",
 		"english": "when I first saw you",
-		"soundmark": "/wɛn/ /aɪ/ /fɝst/ /sɔ/ /ju/"
+		"soundmark": "/wɛn/ /aɪ/ /fɝst/ /sɔ/ /ju/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"形容词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"疑问宾语",
+				"NP"
+			],
+			[
+				1,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "当我第一次（过去）见到你的时候你（过去）是非常年轻的",
 		"english": "you were very young when I first saw you",
-		"soundmark": "/ju/ /wɚ/ /ˈvɛri/ /jʌŋ/ /wɛn/ /aɪ/ /fɝst/ /sɔ/ /ju/"
+		"soundmark": "/ju/ /wɚ/ /ˈvɛri/ /jʌŋ/ /wɛn/ /aɪ/ /fɝst/ /sɔ/ /ju/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			],
+			[
+				4,
+				4,
+				"疑问词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"形容词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			],
+			[
+				8,
+				8,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				2,
+				"时间状语",
+				"ADVP"
+			]
+		]
 	},
 	{
 		"chinese": "吃",
 		"english": "to eat",
-		"soundmark": "/tə/ /it/"
+		"soundmark": "/tə/ /it/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "一个苹果",
 		"english": "an apple",
-		"soundmark": "/ən/ /'æpl/"
+		"soundmark": "/ən/ /'æpl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "吃一个苹果",
 		"english": "to eat an apple",
-		"soundmark": "/tə/ /it/ /ən/ /'æpl/"
+		"soundmark": "/tə/ /it/ /ən/ /'æpl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我想要吃一个苹果",
 		"english": "I want to eat an apple",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /it/ /ən/ /'æpl/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /it/ /ən/ /'æpl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "每天",
 		"english": "every day",
-		"soundmark": "/'ɛvri/ /de/"
+		"soundmark": "/'ɛvri/ /de/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我想要每天吃一个苹果",
 		"english": "I want to eat an apple every day",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /it/ /ən/ /'æpl/ /'ɛvri/ /de/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /it/ /ən/ /'æpl/ /'ɛvri/ /de/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我每天吃一个苹果",
 		"english": "I eat an apple every day",
-		"soundmark": "/aɪ/ /it/ /ən/ /'æpl/ /'ɛvri/ /de/"
+		"soundmark": "/aɪ/ /it/ /ən/ /'æpl/ /'ɛvri/ /de/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				5,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "吃了",
 		"english": "ate",
-		"soundmark": "/et/"
+		"soundmark": "/et/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "吃了一个苹果",
 		"english": "ate an apple",
-		"soundmark": "/et/ /ən/ /'æpl/"
+		"soundmark": "/et/ /ən/ /'æpl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			],
+			[
+				1,
+				1,
+				"冠词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我吃了一个苹果",
 		"english": "I ate an apple",
-		"soundmark": "/aɪ/ /et/ /ən/ /'æpl/"
+		"soundmark": "/aɪ/ /et/ /ən/ /'æpl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "她吃了一个苹果",
 		"english": "she ate an apple",
-		"soundmark": "/ʃi/ /et/ /ən/ /'æpl/"
+		"soundmark": "/ʃi/ /et/ /ən/ /'æpl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在......之前",
 		"english": "ago",
-		"soundmark": "/ə'ɡo/"
+		"soundmark": "/ə'ɡo/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "一小时",
 		"english": "an hour",
-		"soundmark": "/ən/ /'aʊɚ/"
+		"soundmark": "/ən/ /'aʊɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在一小时之前",
 		"english": "an hour ago",
-		"soundmark": "/ən/ /'aʊɚ/ /ə'ɡo/"
+		"soundmark": "/ən/ /'aʊɚ/ /ə'ɡo/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "她在一小时之前吃了一个苹果",
 		"english": "she ate an apple an hour ago",
-		"soundmark": "/ʃi/ /et/ /ən/ /'æpl/ /ən/ /'aʊɚ/ /ə'ɡo/"
+		"soundmark": "/ʃi/ /et/ /ən/ /'æpl/ /ən/ /'aʊɚ/ /ə'ɡo/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				6,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "她在一小时之前没吃一个苹果",
 		"english": "she didn't eat an apple an hour ago",
-		"soundmark": "/ʃi/ /dɪdnt/ /it/ /ən/ /'æpl/ /ən/ /'aʊɚ/ /ə'ɡo/"
+		"soundmark": "/ʃi/ /dɪdnt/ /it/ /ən/ /'æpl/ /ən/ /'aʊɚ/ /ə'ɡo/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"冠词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			],
+			[
+				8,
+				8,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				8,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "喝",
 		"english": "to drink",
-		"soundmark": "/tə/ /drɪŋk/"
+		"soundmark": "/tə/ /drɪŋk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "一些水",
 		"english": "some water",
-		"soundmark": "/səm/ /'wɔtɚ/"
+		"soundmark": "/səm/ /'wɔtɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "喝一些水",
 		"english": "to drink some water",
-		"soundmark": "/tə/ /drɪŋk/ /səm/ /'wɔtɚ/"
+		"soundmark": "/tə/ /drɪŋk/ /səm/ /'wɔtɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我想要喝一些水",
 		"english": "I want to drink some water",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /drɪŋk/ /səm/ /'wɔtɚ/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /drɪŋk/ /səm/ /'wɔtɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "每天早上",
 		"english": "every morning",
-		"soundmark": "/'ɛvri/ /'mɔrnɪŋ/"
+		"soundmark": "/'ɛvri/ /'mɔrnɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我想要每天早上喝一些水",
 		"english": "I want to drink some water every morning",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /drɪŋk/ /səm/ /'wɔtɚ/ /'ɛvri/ /'mɔrnɪŋ/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /drɪŋk/ /səm/ /'wɔtɚ/ /'ɛvri/ /'mɔrnɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我每天早上喝一些水",
 		"english": "I drink some water every morning",
-		"soundmark": "/aɪ/ /drɪŋk/ /səm/ /'wɔtɚ/ /'ɛvri/ /'mɔrnɪŋ/"
+		"soundmark": "/aɪ/ /drɪŋk/ /səm/ /'wɔtɚ/ /'ɛvri/ /'mɔrnɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				5,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "喝了",
 		"english": "drank",
-		"soundmark": "/dræŋk/"
+		"soundmark": "/dræŋk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我喝了一些水",
 		"english": "I drank some water",
-		"soundmark": "/aɪ/ /dræŋk/ /səm/ /'wɔtɚ/"
+		"soundmark": "/aɪ/ /dræŋk/ /səm/ /'wɔtɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "这个",
 		"english": "this",
-		"soundmark": "/ðɪs/"
+		"soundmark": "/ðɪs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "早上",
 		"english": "morning",
-		"soundmark": "/'mɔrnɪŋ/"
+		"soundmark": "/'mɔrnɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "今天早上",
 		"english": "this morning",
-		"soundmark": "/ðɪs/ /'mɔrnɪŋ/"
+		"soundmark": "/ðɪs/ /'mɔrnɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我今天早上喝了一些水",
 		"english": "I drank some water this morning",
-		"soundmark": "/aɪ/ /dræŋk/ /səm/ /'wɔtɚ/ /ðɪs/ /'mɔrnɪŋ/"
+		"soundmark": "/aɪ/ /dræŋk/ /səm/ /'wɔtɚ/ /ðɪs/ /'mɔrnɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				5,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "任何",
 		"english": "any",
-		"soundmark": "/'ɛni/"
+		"soundmark": "/'ɛni/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我今天早上没喝任何水",
 		"english": "I didn't drink any water this morning",
-		"soundmark": "/aɪ/ /dɪdnt/ /drɪŋk/ /'ɛni/ /'wɔtɚ/ /ðɪs/ /'mɔrnɪŋ/"
+		"soundmark": "/aɪ/ /dɪdnt/ /drɪŋk/ /'ɛni/ /'wɔtɚ/ /ðɪs/ /'mɔrnɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				7,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "知道",
 		"english": "to know",
-		"soundmark": "/tə/ /no/"
+		"soundmark": "/tə/ /no/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "他（过去）知道答案",
 		"english": "he knew the answer",
-		"soundmark": "/hi/ /nju/ /ði/ /'ænsɚ/"
+		"soundmark": "/hi/ /nju/ /ði/ /'ænsɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "问题的答案",
 		"english": "the answer to the question",
-		"soundmark": "/ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"soundmark": "/ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他（过去）知道问题的答案",
 		"english": "he knew the answer to the question",
-		"soundmark": "/hi/ /nju/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"soundmark": "/hi/ /nju/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"冠词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				6,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "已经",
 		"english": "already",
-		"soundmark": "/ɔl'rɛdi/"
+		"soundmark": "/ɔl'rɛdi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "他已经知道问题的答案",
 		"english": "he already knew the answer to the question",
-		"soundmark": "/hi/ /ɔl'rɛdi/ /nju/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"soundmark": "/hi/ /ɔl'rɛdi/ /nju/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"副词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"冠词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				7,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他（过去）不知道问题的答案",
 		"english": "he didn't know the answer to the question",
-		"soundmark": "/hi/ /dɪdnt/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"soundmark": "/hi/ /dɪdnt/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"介词"
+			],
+			[
+				7,
+				7,
+				"冠词"
+			],
+			[
+				8,
+				8,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				5,
+				"宾语",
+				"NP"
+			],
+			[
+				6,
+				8,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "忘记",
 		"english": "to forget",
-		"soundmark": "/tə/ /fɚ'ɡɛt/"
+		"soundmark": "/tə/ /fɚ'ɡɛt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "告诉",
 		"english": "to tell",
-		"soundmark": "/tə/ /tɛl/"
+		"soundmark": "/tə/ /tɛl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我（过去）忘记告诉你",
 		"english": "I forgot to tell you",
-		"soundmark": "/aɪ/ /fɚ'ɡɑt/ /tə/ /tɛl/ /ju/"
+		"soundmark": "/aɪ/ /fɚ'ɡɑt/ /tə/ /tɛl/ /ju/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他已经知道问题的答案",
 		"english": "he already knew the answer to the question",
-		"soundmark": "/hi/ /ɔl'rɛdi/ /nju/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"soundmark": "/hi/ /ɔl'rɛdi/ /nju/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"副词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"冠词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				7,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我（过去）忘记告诉你他已经知道问题的答案",
 		"english": "I forgot to tell you he already knew the answer to the question",
-		"soundmark": "/aɪ/ /fɚ'ɡɑt/ /tə/ /tɛl/ /ju/ /hi/ /ɔl'rɛdi/ /nju/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"soundmark": "/aɪ/ /fɚ'ɡɑt/ /tə/ /tɛl/ /ju/ /hi/ /ɔl'rɛdi/ /nju/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"副词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			],
+			[
+				8,
+				8,
+				"冠词"
+			],
+			[
+				9,
+				9,
+				"名词"
+			],
+			[
+				10,
+				10,
+				"介词"
+			],
+			[
+				11,
+				11,
+				"冠词"
+			],
+			[
+				12,
+				12,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我的",
 		"english": "my",
-		"soundmark": "/maɪ/"
+		"soundmark": "/maɪ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "工作",
 		"english": "job",
-		"soundmark": "/dʒɑb/"
+		"soundmark": "/dʒɑb/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我的工作",
 		"english": "my job",
-		"soundmark": "/maɪ/ /dʒɑb/"
+		"soundmark": "/maɪ/ /dʒɑb/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "失去",
 		"english": "to lose",
-		"soundmark": "/tə/ /luz/"
+		"soundmark": "/tə/ /luz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "失去了",
 		"english": "lost",
-		"soundmark": "/lɔst/"
+		"soundmark": "/lɔst/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我失去了我的工作",
 		"english": "I lost my job",
-		"soundmark": "/aɪ/ /lɔst/ /maɪ/ /dʒɑb/"
+		"soundmark": "/aɪ/ /lɔst/ /maɪ/ /dʒɑb/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在......之前",
 		"english": "ago",
-		"soundmark": "/ə'ɡo/"
+		"soundmark": "/ə'ɡo/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "两年",
 		"english": "two years",
-		"soundmark": "/tu/ /jɪrz/"
+		"soundmark": "/tu/ /jɪrz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"数词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在两年之前",
 		"english": "two years ago",
-		"soundmark": "/tu/ /jɪrz/ /ə'ɡo/"
+		"soundmark": "/tu/ /jɪrz/ /ə'ɡo/",
+		"posTags": [
+			[
+				0,
+				0,
+				"数词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我在两年前失去了我的工作",
 		"english": "I lost my job two years ago",
-		"soundmark": "/aɪ/ /lɔst/ /maɪ/ /dʒɑb/ /tu/ /jɪrz/ /ə'ɡo/"
+		"soundmark": "/aɪ/ /lɔst/ /maɪ/ /dʒɑb/ /tu/ /jɪrz/ /ə'ɡo/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"数词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				6,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我在两年前没有失去我的工作",
 		"english": "I didn't lose my job two years ago",
-		"soundmark": "/aɪ/ /dɪdnt/ /luz/ /maɪ/ /dʒɑb/ /tu/ /jɪrz/ /ə'ɡo/"
+		"soundmark": "/aɪ/ /dɪdnt/ /luz/ /maɪ/ /dʒɑb/ /tu/ /jɪrz/ /ə'ɡo/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"数词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			],
+			[
+				8,
+				8,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				8,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "离开",
 		"english": "to leave",
-		"soundmark": "/tə/ /liv/"
+		"soundmark": "/tə/ /liv/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "离开了",
 		"english": "left",
-		"soundmark": "/lɛft/"
+		"soundmark": "/lɛft/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "她的",
 		"english": "her",
-		"soundmark": "/hɚ/"
+		"soundmark": "/hɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "办公室",
 		"english": "office",
-		"soundmark": "/'ɑfɪs/"
+		"soundmark": "/'ɑfɪs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "她的办公室",
 		"english": "her office",
-		"soundmark": "/hɚ/ /'ɑfɪs/"
+		"soundmark": "/hɚ/ /'ɑfɪs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我离开了她的办公室",
 		"english": "I left her office",
-		"soundmark": "/aɪ/ /lɛft/ /hɚ/ /'ɑfɪs/"
+		"soundmark": "/aɪ/ /lɛft/ /hɚ/ /'ɑfɪs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在......之前",
 		"english": "ago",
-		"soundmark": "/ə'ɡo/"
+		"soundmark": "/ə'ɡo/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "一小时",
 		"english": "an hour",
-		"soundmark": "/ən/ /'aʊɚ/"
+		"soundmark": "/ən/ /'aʊɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在一小时之前",
 		"english": "an hour ago",
-		"soundmark": "/ən/ /'aʊɚ/ /ə'ɡo/"
+		"soundmark": "/ən/ /'aʊɚ/ /ə'ɡo/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我在一小时之前离开了她的办公室",
 		"english": "I left her office an hour ago",
-		"soundmark": "/aɪ/ /lɛft/ /hɚ/ /'ɑfɪs/ /ən/ /'aʊɚ/ /ə'ɡo/"
+		"soundmark": "/aɪ/ /lɛft/ /hɚ/ /'ɑfɪs/ /ən/ /'aʊɚ/ /ə'ɡo/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				6,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我在一小时之前没有离开她的办公室",
 		"english": "I didn't leave her office an hour ago",
-		"soundmark": "/aɪ/ /dɪdnt/ /liv/ /hɚ/ /'ɑfɪs/ /ən/ /'aʊɚ/ /ə'ɡo/"
+		"soundmark": "/aɪ/ /dɪdnt/ /liv/ /hɚ/ /'ɑfɪs/ /ən/ /'aʊɚ/ /ə'ɡo/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"冠词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			],
+			[
+				8,
+				8,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				8,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "睡觉",
 		"english": "to sleep",
-		"soundmark": "/tə/ /slip/"
+		"soundmark": "/tə/ /slip/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "房间",
 		"english": "room",
-		"soundmark": "/rum/"
+		"soundmark": "/rum/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我的房间",
 		"english": "my room",
-		"soundmark": "/maɪ/ /rum/"
+		"soundmark": "/maɪ/ /rum/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在我的房间（过去）睡觉",
 		"english": "slept in my room",
-		"soundmark": "/slɛpt/ /ɪn/ /maɪ/ /rum/"
+		"soundmark": "/slɛpt/ /ɪn/ /maɪ/ /rum/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			],
+			[
+				1,
+				1,
+				"介词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "上一个",
 		"english": "last",
-		"soundmark": "/læst/"
+		"soundmark": "/læst/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "晚上",
 		"english": "night",
-		"soundmark": "/naɪt/"
+		"soundmark": "/naɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "昨晚",
 		"english": "last night",
-		"soundmark": "/læst/ /naɪt/"
+		"soundmark": "/læst/ /naɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "她昨晚睡在我的房间",
 		"english": "she slept in my room last night",
-		"soundmark": "/ʃi/ /slɛpt/ /ɪn/ /maɪ/ /rum/ /læst/ /naɪt/"
+		"soundmark": "/ʃi/ /slɛpt/ /ɪn/ /maɪ/ /rum/ /læst/ /naɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"形容词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				6,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "她昨晚没有睡在我的房间",
 		"english": "she didn't sleep in my room last night",
-		"soundmark": "/ʃi/ /dɪdnt/ /slip/ /ɪn/ /maɪ/ /rum/ /læst/ /naɪt/"
+		"soundmark": "/ʃi/ /dɪdnt/ /slip/ /ɪn/ /maɪ/ /rum/ /læst/ /naɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			],
+			[
+				7,
+				7,
+				"形容词"
+			],
+			[
+				8,
+				8,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				8,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "明白",
 		"english": "to understand",
-		"soundmark": "/tə/ /ʌndɚ'stænd/"
+		"soundmark": "/tə/ /ʌndɚ'stænd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "你必须明白",
 		"english": "you have to understand",
-		"soundmark": "/ju/ /hæv/ /tə/ /ʌndɚ'stænd/"
+		"soundmark": "/ju/ /hæv/ /tə/ /ʌndɚ'stænd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "你明白",
 		"english": "you understand",
-		"soundmark": "/ju/ /ʌndɚ'stænd/"
+		"soundmark": "/ju/ /ʌndɚ'stænd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "你不明白",
 		"english": "you don't understand",
-		"soundmark": "/ju/ /dont/ /ʌndɚ'stænd/"
+		"soundmark": "/ju/ /dont/ /ʌndɚ'stænd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "你（过去）明白",
 		"english": "you understood",
-		"soundmark": "/ju/ /ʌndɚˈstʊd/"
+		"soundmark": "/ju/ /ʌndɚˈstʊd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你不（过去）明白",
 		"english": "you didn't understand",
-		"soundmark": "/ju/ /dɪdnt/ /ʌndɚ'stænd/"
+		"soundmark": "/ju/ /dɪdnt/ /ʌndɚ'stænd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "告诉",
 		"english": "to tell",
-		"soundmark": "/tə/ /tɛl/"
+		"soundmark": "/tə/ /tɛl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "告诉过",
 		"english": "told",
-		"soundmark": "/told/"
+		"soundmark": "/told/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我告诉过你",
 		"english": "I told you",
-		"soundmark": "/aɪ/ /told/ /ju/"
+		"soundmark": "/aɪ/ /told/ /ju/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "她昨晚没有睡在我的房间",
 		"english": "she didn't sleep in my room last night",
-		"soundmark": "/ʃi/ /dɪdnt/ /slip/ /ɪn/ /maɪ/ /rum/ /læst/ /naɪt/"
+		"soundmark": "/ʃi/ /dɪdnt/ /slip/ /ɪn/ /maɪ/ /rum/ /læst/ /naɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			],
+			[
+				7,
+				7,
+				"形容词"
+			],
+			[
+				8,
+				8,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				8,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我告诉过你她昨晚没有睡在我的房间",
 		"english": "I told you she didn't sleep in my room last night",
-		"soundmark": "/aɪ/ /told/ /ju/ /ʃi/ /dɪdnt/ /slip/ /ɪn/ /maɪ/ /rum/ /læst/ /naɪt/"
+		"soundmark": "/aɪ/ /told/ /ju/ /ʃi/ /dɪdnt/ /slip/ /ɪn/ /maɪ/ /rum/ /læst/ /naɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"助动词"
+			],
+			[
+				5,
+				5,
+				"副词"
+			],
+			[
+				6,
+				6,
+				"动词"
+			],
+			[
+				7,
+				7,
+				"介词"
+			],
+			[
+				8,
+				8,
+				"代词"
+			],
+			[
+				9,
+				9,
+				"名词"
+			],
+			[
+				10,
+				10,
+				"形容词"
+			],
+			[
+				11,
+				11,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "但是",
 		"english": "but",
-		"soundmark": "/bʌt/"
+		"soundmark": "/bʌt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"连词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "你（过去）不明白",
 		"english": "you didn't understand",
-		"soundmark": "/ju/ /dɪdnt/ /ʌndɚ'stænd/"
+		"soundmark": "/ju/ /dɪdnt/ /ʌndɚ'stænd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "但是你（过去）不明白",
 		"english": "but you didn't understand",
-		"soundmark": "/bʌt/ /ju/ /dɪdnt/ /ʌndɚ'stænd/"
+		"soundmark": "/bʌt/ /ju/ /dɪdnt/ /ʌndɚ'stænd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"连词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"助动词"
+			],
+			[
+				3,
+				3,
+				"副词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我告诉过你她昨晚没有睡在我的房间但是你（过去）不明白",
 		"english": "I told you she didn't sleep in my room last night but you didn't understand",
-		"soundmark": "/aɪ/ /told/ /ju/ /ʃi/ /dɪdnt/ /slip/ /ɪn/ /maɪ/ /rum/ /læst/ /naɪt/ /bʌt/ /ju/ /dɪdnt/ /ʌndɚ'stænd/"
+		"soundmark": "/aɪ/ /told/ /ju/ /ʃi/ /dɪdnt/ /slip/ /ɪn/ /maɪ/ /rum/ /læst/ /naɪt/ /bʌt/ /ju/ /dɪdnt/ /ʌndɚ'stænd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"助动词"
+			],
+			[
+				5,
+				5,
+				"副词"
+			],
+			[
+				6,
+				6,
+				"动词"
+			],
+			[
+				7,
+				7,
+				"介词"
+			],
+			[
+				8,
+				8,
+				"代词"
+			],
+			[
+				9,
+				9,
+				"名词"
+			],
+			[
+				10,
+				10,
+				"形容词"
+			],
+			[
+				11,
+				11,
+				"名词"
+			],
+			[
+				12,
+				12,
+				"连词"
+			],
+			[
+				13,
+				13,
+				"代词"
+			],
+			[
+				14,
+				14,
+				"助动词"
+			],
+			[
+				15,
+				15,
+				"副词"
+			],
+			[
+				16,
+				16,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "买",
 		"english": "to buy",
-		"soundmark": "/tə/ /baɪ/"
+		"soundmark": "/tə/ /baɪ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "一个房子",
 		"english": "a house",
-		"soundmark": "/ə/ /haʊs/"
+		"soundmark": "/ə/ /haʊs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "买一个房子",
 		"english": "to buy a house",
-		"soundmark": "/tə/ /baɪ/ /ə/ /haʊs/"
+		"soundmark": "/tə/ /baɪ/ /ə/ /haʊs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我想要买一个房子",
 		"english": "I want to buy a house",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /baɪ/ /ə/ /haʊs/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /baɪ/ /ə/ /haʊs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "买了",
 		"english": "bought",
-		"soundmark": "/bɔt/"
+		"soundmark": "/bɔt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我买了一个房子",
 		"english": "I bought a house",
-		"soundmark": "/aɪ/ /bɔt/ /ə/ /haʊs/"
+		"soundmark": "/aɪ/ /bɔt/ /ə/ /haʊs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在......之前",
 		"english": "ago",
-		"soundmark": "/ə'ɡo/"
+		"soundmark": "/ə'ɡo/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "两年",
 		"english": "two years",
-		"soundmark": "/tu/ /jɪrz/"
+		"soundmark": "/tu/ /jɪrz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"数词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在两年之前",
 		"english": "two years ago",
-		"soundmark": "/tu/ /jɪrz/ /ə'ɡo/"
+		"soundmark": "/tu/ /jɪrz/ /ə'ɡo/",
+		"posTags": [
+			[
+				0,
+				0,
+				"数词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我在两年之前买了一个房子",
 		"english": "I bought a house two years ago",
-		"soundmark": "/aɪ/ /bɔt/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/"
+		"soundmark": "/aɪ/ /bɔt/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"数词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				6,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我在两年之前没有买一个房子",
 		"english": "I didn't buy a house two years ago",
-		"soundmark": "/aɪ/ /dɪdnt/ /baɪ/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/"
+		"soundmark": "/aɪ/ /dɪdnt/ /baɪ/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"数词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			],
+			[
+				8,
+				8,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				8,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他在两年之前买了一个房子",
 		"english": "he bought a house two years ago",
-		"soundmark": "/hi/ /bɔt/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/"
+		"soundmark": "/hi/ /bɔt/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"数词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				6,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他在两年之前没有买一个房子",
 		"english": "he didn't buy a house two years ago",
-		"soundmark": "/hi/ /dɪdnt/ /baɪ/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/"
+		"soundmark": "/hi/ /dɪdnt/ /baɪ/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"数词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			],
+			[
+				8,
+				8,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				8,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "明白",
 		"english": "to understand",
-		"soundmark": "/tə/ /ʌndɚ'stænd/"
+		"soundmark": "/tə/ /ʌndɚ'stænd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "你必须明白",
 		"english": "you have to understand",
-		"soundmark": "/ju/ /hæv/ /tə/ /ʌndɚ'stænd/"
+		"soundmark": "/ju/ /hæv/ /tə/ /ʌndɚ'stænd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "你必须明白我在两年之前买了一个房子",
 		"english": "you have to understand I bought a house two years ago",
-		"soundmark": "/ju/ /hæv/ /tə/ /ʌndɚ'stænd/ /aɪ/ /bɔt/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/"
+		"soundmark": "/ju/ /hæv/ /tə/ /ʌndɚ'stænd/ /aɪ/ /bɔt/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"冠词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			],
+			[
+				8,
+				8,
+				"数词"
+			],
+			[
+				9,
+				9,
+				"名词"
+			],
+			[
+				10,
+				10,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "洗",
 		"english": "to wash",
-		"soundmark": "/tə/ /wɔʃ/"
+		"soundmark": "/tə/ /wɔʃ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我的",
 		"english": "my",
-		"soundmark": "/maɪ/"
+		"soundmark": "/maɪ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "脸",
 		"english": "face",
-		"soundmark": "/fes/"
+		"soundmark": "/fes/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我的脸",
 		"english": "my face",
-		"soundmark": "/maɪ/ /fes/"
+		"soundmark": "/maɪ/ /fes/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "洗我的脸",
 		"english": "to wash my face",
-		"soundmark": "/tə/ /wɔʃ/ /maɪ/ /fes/"
+		"soundmark": "/tə/ /wɔʃ/ /maɪ/ /fes/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我需要洗我的脸",
 		"english": "I need to wash my face",
-		"soundmark": "/aɪ/ /nid/ /tə/ /wɔʃ/ /maɪ/ /fes/"
+		"soundmark": "/aɪ/ /nid/ /tə/ /wɔʃ/ /maɪ/ /fes/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "每天",
 		"english": "every day",
-		"soundmark": "/'ɛvri/ /de/"
+		"soundmark": "/'ɛvri/ /de/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我需要每天洗我的脸",
 		"english": "I need to wash my face every day",
-		"soundmark": "/aɪ/ /nid/ /tə/ /wɑʃ/ /maɪ/ /fes/ /'ɛvri/ /de/"
+		"soundmark": "/aɪ/ /nid/ /tə/ /wɑʃ/ /maɪ/ /fes/ /'ɛvri/ /de/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我每天洗我的脸",
 		"english": "I wash my face every day",
-		"soundmark": "/aɪ/ /wɔʃ/ /maɪ/ /fes/ /'ɛvri/ /de/"
+		"soundmark": "/aɪ/ /wɔʃ/ /maɪ/ /fes/ /'ɛvri/ /de/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				5,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "洗了",
 		"english": "washed",
-		"soundmark": "/wɔʃt/"
+		"soundmark": "/wɔʃt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我洗了我的脸",
 		"english": "I washed my face",
-		"soundmark": "/aɪ/ /wɔʃt/ /maɪ/ /fes/"
+		"soundmark": "/aɪ/ /wɔʃt/ /maɪ/ /fes/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "今天早上",
 		"english": "this morning",
-		"soundmark": "/ðɪs/ /'mɔrnɪŋ/"
+		"soundmark": "/ðɪs/ /'mɔrnɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我今天早上洗了我的脸",
 		"english": "I washed my face this morning",
-		"soundmark": "/aɪ/ /wɔʃt/ /maɪ/ /fes/ /ðɪs/ /'mɔrnɪŋ/"
+		"soundmark": "/aɪ/ /wɔʃt/ /maɪ/ /fes/ /ðɪs/ /'mɔrnɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				5,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我告诉过你",
 		"english": "I told you",
-		"soundmark": "/aɪ/ /told/ /ju/"
+		"soundmark": "/aɪ/ /told/ /ju/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我告诉过你我今天早上洗了我的脸",
 		"english": "I told you I washed my face this morning",
-		"soundmark": "/aɪ/ /told/ /ju/ /aɪ/ /wɔʃt/ /maɪ/ /fes/ /ðɪs/ /'mɔrnɪŋ/"
+		"soundmark": "/aɪ/ /told/ /ju/ /aɪ/ /wɔʃt/ /maɪ/ /fes/ /ðɪs/ /'mɔrnɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			],
+			[
+				7,
+				7,
+				"代词"
+			],
+			[
+				8,
+				8,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "打电话给",
 		"english": "to call",
-		"soundmark": "/tə/ /kɔl/"
+		"soundmark": "/tə/ /kɔl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "打电话给他",
 		"english": "to call him",
-		"soundmark": "/tə/ /kɔl/ /hɪm/"
+		"soundmark": "/tə/ /kɔl/ /hɪm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我需要打电话给他",
 		"english": "I need to call him",
-		"soundmark": "/aɪ/ /nid/ /tə/ /kɔl/ /hɪm/"
+		"soundmark": "/aɪ/ /nid/ /tə/ /kɔl/ /hɪm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我打电话给他",
 		"english": "I call him",
-		"soundmark": "/aɪ/ /kɔl/ /hɪm/"
+		"soundmark": "/aɪ/ /kɔl/ /hɪm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "打了电话给",
 		"english": "called",
-		"soundmark": "/kɔld/"
+		"soundmark": "/kɔld/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我打了电话给他",
 		"english": "I called him",
-		"soundmark": "/aɪ/ /kɔld/ /hɪm/"
+		"soundmark": "/aɪ/ /kɔld/ /hɪm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "昨晚",
 		"english": "last night",
-		"soundmark": "/læst/ /naɪt/"
+		"soundmark": "/læst/ /naɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我昨晚打了电话给他",
 		"english": "I called him last night",
-		"soundmark": "/aɪ/ /kɔld/ /hɪm/ /læst/ /naɪt/"
+		"soundmark": "/aɪ/ /kɔld/ /hɪm/ /læst/ /naɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他告诉我",
 		"english": "he told me",
-		"soundmark": "/hi/ /told/ /mi/"
+		"soundmark": "/hi/ /told/ /mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他两年前买了一个房子",
 		"english": "he bought a house two years ago",
-		"soundmark": "/hi/ /bɔt/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/"
+		"soundmark": "/hi/ /bɔt/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"数词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				6,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他告诉我他两年前买了一个房子",
 		"english": "he told me he bought a house two years ago",
-		"soundmark": "/hi/ /told/ /mi/ /hi/ /bɔt/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/"
+		"soundmark": "/hi/ /told/ /mi/ /hi/ /bɔt/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"冠词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			],
+			[
+				7,
+				7,
+				"数词"
+			],
+			[
+				8,
+				8,
+				"名词"
+			],
+			[
+				9,
+				9,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				9,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我昨晚打了电话给他而且他告诉我他在两年之前买了一个房子",
 		"english": "I called him last night and he told me he bought a house two years ago",
-		"soundmark": "/aɪ/ /kɔld/ /hɪm/ /læst/ /naɪt/ /ənd/ /hi/ /told/ /mi/ /hi/ /bɔt/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/"
+		"soundmark": "/aɪ/ /kɔld/ /hɪm/ /læst/ /naɪt/ /ənd/ /hi/ /told/ /mi/ /hi/ /bɔt/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"连词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			],
+			[
+				8,
+				8,
+				"代词"
+			],
+			[
+				9,
+				9,
+				"代词"
+			],
+			[
+				10,
+				10,
+				"名词"
+			],
+			[
+				11,
+				11,
+				"冠词"
+			],
+			[
+				12,
+				12,
+				"名词"
+			],
+			[
+				13,
+				13,
+				"数词"
+			],
+			[
+				14,
+				14,
+				"名词"
+			],
+			[
+				15,
+				15,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				15,
+				"宾语",
+				"NP"
+			]
+		]
 	}
 ]

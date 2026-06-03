@@ -2,606 +2,4256 @@
 	{
 		"chinese": "注意到；察觉到",
 		"english": "to notice",
-		"soundmark": "/tə/ /ˈnotɪs/"
+		"soundmark": "/tə/ /ˈnotɪs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "你将会",
 		"english": "you will",
-		"soundmark": "/ju/ /wɪl/"
+		"soundmark": "/ju/ /wɪl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "你将会注意到",
 		"english": "you will notice",
-		"soundmark": "/ju/ /wɪl/ /ˈnotɪs/"
+		"soundmark": "/ju/ /wɪl/ /ˈnotɪs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "那个",
 		"english": "that",
-		"soundmark": "/ðæt/"
+		"soundmark": "/ðæt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "你将会注意到那个",
 		"english": "you will notice that",
-		"soundmark": "/ju/ /wɪl/ /ˈnotɪs/ /ðæt/"
+		"soundmark": "/ju/ /wɪl/ /ˈnotɪs/ /ðæt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"连词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "付出",
 		"english": "to pay",
-		"soundmark": "/tə/ /pe/"
+		"soundmark": "/tə/ /pe/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "注意力",
 		"english": "attention",
-		"soundmark": "/ə'tɛnʃən/"
+		"soundmark": "/ə'tɛnʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "付出注意力",
 		"english": "to pay attention",
-		"soundmark": "/tə/ /pe/ /ə'tɛnʃən/"
+		"soundmark": "/tə/ /pe/ /ə'tɛnʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "付出注意力在......",
 		"english": "to pay attention to",
-		"soundmark": "/tə/ /pe/ /ə'tɛnʃən/ /tə/"
+		"soundmark": "/tə/ /pe/ /ə'tɛnʃən/ /tə/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "密切的",
 		"english": "close",
-		"soundmark": "/kloz/"
+		"soundmark": "/kloz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "密切关注",
 		"english": "to pay close attention",
-		"soundmark": "/tə/ /pe/ /kloz/ /ə'tɛnʃən/"
+		"soundmark": "/tə/ /pe/ /kloz/ /ə'tɛnʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				2,
+				"不定式短语",
+				"VP"
+			],
+			[
+				3,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你密切关注",
 		"english": "you pay close attention",
-		"soundmark": "/ju/ /pe/ /kloz/ /ə'tɛnʃən/"
+		"soundmark": "/ju/ /pe/ /kloz/ /ə'tɛnʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "如果",
 		"english": "if",
-		"soundmark": "/ɪf/"
+		"soundmark": "/ɪf/",
+		"posTags": [
+			[
+				0,
+				0,
+				"连词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "如果你密切关注",
 		"english": "if you pay close attention",
-		"soundmark": "/ɪf/ /ju/ /pe/ /kloz/ /ə'tɛnʃən/"
+		"soundmark": "/ɪf/ /ju/ /pe/ /kloz/ /ə'tɛnʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"连词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你将会注意到那个如果你密切关注",
 		"english": "you will notice that if you pay close attention",
-		"soundmark": "/ju/ /wɪl/ /ˈnotɪs/ /ðæt/ /ɪf/ /ju/ /pe/ /kloz/ /ə'tɛnʃən/"
+		"soundmark": "/ju/ /wɪl/ /ˈnotɪs/ /ðæt/ /ɪf/ /ju/ /pe/ /kloz/ /ə'tɛnʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"连词"
+			],
+			[
+				4,
+				4,
+				"连词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"动词"
+			],
+			[
+				7,
+				7,
+				"动词"
+			],
+			[
+				8,
+				8,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "不同的",
 		"english": "different",
-		"soundmark": "/'dɪfrənt/"
+		"soundmark": "/'dɪfrənt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "不同之处",
 		"english": "difference",
-		"soundmark": "/'dɪfrəns/"
+		"soundmark": "/'dɪfrəns/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "很多",
 		"english": "many",
-		"soundmark": "/'mɛni/"
+		"soundmark": "/'mɛni/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "很多不同之处",
 		"english": "many differences",
-		"soundmark": "/'mɛni/ /'dɪfrənsɪz/"
+		"soundmark": "/'mɛni/ /'dɪfrənsɪz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "存在（复数）",
 		"english": "there are",
-		"soundmark": "/ðɛr/ /ɚ/"
+		"soundmark": "/ðɛr/ /ɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			]
+		]
 	},
 	{
 		"chinese": "存在很多不同之处",
 		"english": "there are many differences",
-		"soundmark": "/ðɛr/ /ɚ/ /'mɛni/ /'dɪfrənsɪz/"
+		"soundmark": "/ðɛr/ /ɚ/ /'mɛni/ /'dɪfrənsɪz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"形容词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				2,
+				"表语",
+				"ADJP"
+			]
+		]
 	},
 	{
 		"chinese": "美国的",
 		"english": "American",
-		"soundmark": "/ə'mɛrikən/"
+		"soundmark": "/ə'mɛrikən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"专有名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "英语",
 		"english": "English",
-		"soundmark": "/ˈɪŋɡlɪʃ/"
+		"soundmark": "/ˈɪŋɡlɪʃ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"专有名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "美式英语",
 		"english": "American English",
-		"soundmark": "/ə'mɛrikən/ /ˈɪŋɡlɪʃ/"
+		"soundmark": "/ə'mɛrikən/ /ˈɪŋɡlɪʃ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"专有名词"
+			],
+			[
+				1,
+				1,
+				"专有名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "英国的",
 		"english": "British",
-		"soundmark": "/'brɪtɪʃ/"
+		"soundmark": "/'brɪtɪʃ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"专有名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "英式英语",
 		"english": "British English",
-		"soundmark": "/'brɪtɪʃ/ /ˈɪŋɡlɪʃ/"
+		"soundmark": "/'brɪtɪʃ/ /ˈɪŋɡlɪʃ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"专有名词"
+			],
+			[
+				1,
+				1,
+				"专有名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "美式英语和英式英语",
 		"english": "American English and British English",
-		"soundmark": "/ə'mɛrikən/ /ˈɪŋɡlɪʃ/ /ənd/ /'brɪtɪʃ/ /ˈɪŋɡlɪʃ/"
+		"soundmark": "/ə'mɛrikən/ /ˈɪŋɡlɪʃ/ /ənd/ /'brɪtɪʃ/ /ˈɪŋɡlɪʃ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"专有名词"
+			],
+			[
+				1,
+				1,
+				"专有名词"
+			],
+			[
+				2,
+				2,
+				"连词"
+			],
+			[
+				3,
+				3,
+				"专有名词"
+			],
+			[
+				4,
+				4,
+				"专有名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在......之间",
 		"english": "between",
-		"soundmark": "/bɪ'twin/"
+		"soundmark": "/bɪ'twin/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "在美式英语和英式英语之间",
 		"english": "between American English and British English",
-		"soundmark": "/bɪ'twin/ /ə'mɛrikən/ /ˈɪŋɡlɪʃ/ /ənd/ /'brɪtɪʃ/ /ˈɪŋɡlɪʃ/"
+		"soundmark": "/bɪ'twin/ /ə'mɛrikən/ /ˈɪŋɡlɪʃ/ /ənd/ /'brɪtɪʃ/ /ˈɪŋɡlɪʃ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"专有名词"
+			],
+			[
+				2,
+				2,
+				"专有名词"
+			],
+			[
+				3,
+				3,
+				"连词"
+			],
+			[
+				4,
+				4,
+				"专有名词"
+			],
+			[
+				5,
+				5,
+				"专有名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				5,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "存在很多不同之处",
 		"english": "there are many differences",
-		"soundmark": "/ðɛr/ /ɚ/ /'mɛni/ /'dɪfrənsɪz/"
+		"soundmark": "/ðɛr/ /ɚ/ /'mɛni/ /'dɪfrənsɪz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"形容词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				2,
+				"表语",
+				"ADJP"
+			]
+		]
 	},
 	{
 		"chinese": "在美式英语和英式英语之间存在很多不同之处",
 		"english": "there are many differences between American English and British English",
-		"soundmark": "/ðɛr/ /ɚ/ /'mɛni/ /'dɪfrənsɪz/ /bɪ'twin/ /ə'mɛrikən/ /ˈɪŋɡlɪʃ/ /ənd/ /'brɪtɪʃ/ /ˈɪŋɡlɪʃ/"
+		"soundmark": "/ðɛr/ /ɚ/ /'mɛni/ /'dɪfrənsɪz/ /bɪ'twin/ /ə'mɛrikən/ /ˈɪŋɡlɪʃ/ /ənd/ /'brɪtɪʃ/ /ˈɪŋɡlɪʃ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"形容词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"专有名词"
+			],
+			[
+				6,
+				6,
+				"专有名词"
+			],
+			[
+				7,
+				7,
+				"连词"
+			],
+			[
+				8,
+				8,
+				"专有名词"
+			],
+			[
+				9,
+				9,
+				"专有名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				2,
+				"表语",
+				"ADJP"
+			]
+		]
 	},
 	{
 		"chinese": "你将会注意到",
 		"english": "you will notice",
-		"soundmark": "/ju/ /wɪl/ /ˈnotɪs/"
+		"soundmark": "/ju/ /wɪl/ /ˈnotɪs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "你将会注意到那个",
 		"english": "you will notice that",
-		"soundmark": "/ju/ /wɪl/ /ˈnotɪs/ /ðæt/"
+		"soundmark": "/ju/ /wɪl/ /ˈnotɪs/ /ðæt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"连词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "你将会注意到（那个）在美式英语和英式英语之间存在很多不同之处",
 		"english": "you will notice that there are many differences between American English and British English",
-		"soundmark": "/ju/ /wɪl/ /ˈnotɪs/ /ðæt/ /ðɛr/ /ɚ/ /'mɛni/ /'dɪfrənsɪz/ /bɪ'twin/ /ə'mɛrikən/ /ˈɪŋɡlɪʃ/ /ənd/ /'brɪtɪʃ/ /ˈɪŋɡlɪʃ/"
+		"soundmark": "/ju/ /wɪl/ /ˈnotɪs/ /ðæt/ /ðɛr/ /ɚ/ /'mɛni/ /'dɪfrənsɪz/ /bɪ'twin/ /ə'mɛrikən/ /ˈɪŋɡlɪʃ/ /ənd/ /'brɪtɪʃ/ /ˈɪŋɡlɪʃ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"连词"
+			],
+			[
+				4,
+				4,
+				"副词"
+			],
+			[
+				5,
+				5,
+				"动词"
+			],
+			[
+				6,
+				6,
+				"形容词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			],
+			[
+				8,
+				8,
+				"介词"
+			],
+			[
+				9,
+				9,
+				"专有名词"
+			],
+			[
+				10,
+				10,
+				"专有名词"
+			],
+			[
+				11,
+				11,
+				"连词"
+			],
+			[
+				12,
+				12,
+				"专有名词"
+			],
+			[
+				13,
+				13,
+				"专有名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "如果你密切关注",
 		"english": "if you pay close attention",
-		"soundmark": "/ɪf/ /ju/ /pe/ /kloz/ /ə'tɛnʃən/"
+		"soundmark": "/ɪf/ /ju/ /pe/ /kloz/ /ə'tɛnʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"连词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你将会注意到（那个）在美式英语和英式英语之间存在很多不同之处如果你密切关注",
 		"english": "you will notice that there are many differences between American English and British English if you pay close attention",
-		"soundmark": "/ju/ /wɪl/ /ˈnotɪs/ /ðæt/ /ðɛr/ /ɚ/ /'mɛni/ /'dɪfrənsɪz/ /bɪ'twin/ /ə'mɛrikən/ /ˈɪŋɡlɪʃ/ /ənd/ /'brɪtɪʃ/ /ˈɪŋɡlɪʃ/ /ɪf/ /ju/ /pe/ /kloz/ /ə'tɛnʃən/"
+		"soundmark": "/ju/ /wɪl/ /ˈnotɪs/ /ðæt/ /ðɛr/ /ɚ/ /'mɛni/ /'dɪfrənsɪz/ /bɪ'twin/ /ə'mɛrikən/ /ˈɪŋɡlɪʃ/ /ənd/ /'brɪtɪʃ/ /ˈɪŋɡlɪʃ/ /ɪf/ /ju/ /pe/ /kloz/ /ə'tɛnʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"连词"
+			],
+			[
+				4,
+				4,
+				"副词"
+			],
+			[
+				5,
+				5,
+				"动词"
+			],
+			[
+				6,
+				6,
+				"形容词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			],
+			[
+				8,
+				8,
+				"介词"
+			],
+			[
+				9,
+				9,
+				"专有名词"
+			],
+			[
+				10,
+				10,
+				"专有名词"
+			],
+			[
+				11,
+				11,
+				"连词"
+			],
+			[
+				12,
+				12,
+				"专有名词"
+			],
+			[
+				13,
+				13,
+				"专有名词"
+			],
+			[
+				14,
+				14,
+				"连词"
+			],
+			[
+				15,
+				15,
+				"代词"
+			],
+			[
+				16,
+				16,
+				"动词"
+			],
+			[
+				17,
+				17,
+				"动词"
+			],
+			[
+				18,
+				18,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "不同之处",
 		"english": "difference",
-		"soundmark": "/'dɪfrəns/"
+		"soundmark": "/'dɪfrəns/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "不同的",
 		"english": "different",
-		"soundmark": "/'dɪfrənt/"
+		"soundmark": "/'dɪfrənt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "你",
 		"english": "you",
-		"soundmark": "/ju/"
+		"soundmark": "/ju/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "你是不同的",
 		"english": "you are different",
-		"soundmark": "/ju/ /ɚ/ /'dɪfrənt/"
+		"soundmark": "/ju/ /ɚ/ /'dɪfrənt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				2,
+				"表语",
+				"ADJP"
+			]
+		]
 	},
 	{
 		"chinese": "假装",
 		"english": "to pretend",
-		"soundmark": "/tə/ /prɪˈtɛnd/"
+		"soundmark": "/tə/ /prɪˈtɛnd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你假装是不同的",
 		"english": "you pretend to be different",
-		"soundmark": "/ju/ /prɪˈtɛnd/ /tə/ /bi/ /'dɪfrənt/"
+		"soundmark": "/ju/ /prɪˈtɛnd/ /tə/ /bi/ /'dɪfrənt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "需要",
 		"english": "need",
-		"soundmark": "/nid/"
+		"soundmark": "/nid/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "你需要假装是不同的",
 		"english": "you need to pretend to be different",
-		"soundmark": "/ju/ /nid/ /tə/ /prɪˈtɛnd/ /tə/ /bi/ /'dɪfrənt/"
+		"soundmark": "/ju/ /nid/ /tə/ /prɪˈtɛnd/ /tə/ /bi/ /'dɪfrənt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"动词"
+			],
+			[
+				6,
+				6,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"状语",
+				"PP"
+			],
+			[
+				4,
+				4,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "不",
 		"english": "don't",
-		"soundmark": "/dont/"
+		"soundmark": "/dont/",
+		"posTags": [
+			[
+				0,
+				0,
+				"助动词"
+			],
+			[
+				1,
+				1,
+				"副词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "你不需要假装是不同的",
 		"english": "you don't need to pretend to be different",
-		"soundmark": "/ju/ /dont/ /nid/ /tə/ /prɪˈtɛnd/ /tə/ /bi/ /'dɪfrənt/"
+		"soundmark": "/ju/ /dont/ /nid/ /tə/ /prɪˈtɛnd/ /tə/ /bi/ /'dɪfrənt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"介词"
+			],
+			[
+				7,
+				7,
+				"动词"
+			],
+			[
+				8,
+				8,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				5,
+				"状语",
+				"PP"
+			],
+			[
+				6,
+				6,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "无辜的",
 		"english": "innocent",
-		"soundmark": "/ˈɪnəsnt/"
+		"soundmark": "/ˈɪnəsnt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "你不需要假装是无辜的",
 		"english": "you don't need to pretend to be innocent",
-		"soundmark": "/ju/ /dont/ /nid/ /tə/ /prɪˈtɛnd/ /tə/ /bi/ /ˈɪnəsnt/"
+		"soundmark": "/ju/ /dont/ /nid/ /tə/ /prɪˈtɛnd/ /tə/ /bi/ /ˈɪnəsnt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"介词"
+			],
+			[
+				7,
+				7,
+				"动词"
+			],
+			[
+				8,
+				8,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				5,
+				"状语",
+				"PP"
+			],
+			[
+				6,
+				6,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我不想",
 		"english": "I don't want",
-		"soundmark": "/aɪ/ /dont/ /wɑnt/"
+		"soundmark": "/aɪ/ /dont/ /wɑnt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我不想假装是不同的",
 		"english": "I don't want to pretend to be different",
-		"soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /prɪˈtɛnd/ /tə/ /bi/ /'dɪfrənt/"
+		"soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /prɪˈtɛnd/ /tə/ /bi/ /'dɪfrənt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"介词"
+			],
+			[
+				7,
+				7,
+				"动词"
+			],
+			[
+				8,
+				8,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				5,
+				"状语",
+				"PP"
+			],
+			[
+				6,
+				6,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "那个人",
 		"english": "the person",
-		"soundmark": "/ðə/ /'pɝsn/"
+		"soundmark": "/ðə/ /'pɝsn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我不想假装是那个人",
 		"english": "I don't want to pretend to be the person",
-		"soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /prɪˈtɛnd/ /tə/ /bi/ /ðə/ /'pɝsn/"
+		"soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /prɪˈtɛnd/ /tə/ /bi/ /ðə/ /'pɝsn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"介词"
+			],
+			[
+				7,
+				7,
+				"动词"
+			],
+			[
+				8,
+				8,
+				"冠词"
+			],
+			[
+				9,
+				9,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				5,
+				"状语",
+				"PP"
+			],
+			[
+				6,
+				6,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "她",
 		"english": "she",
-		"soundmark": "/ʃi/"
+		"soundmark": "/ʃi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "医生",
 		"english": "doctor",
-		"soundmark": "/'dɑktɚ/"
+		"soundmark": "/'dɑktɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "她是一名医生",
 		"english": "she is a doctor",
-		"soundmark": "/ʃi/ /ɪz/ /ə/ /'dɑktɚ/"
+		"soundmark": "/ʃi/ /ɪz/ /ə/ /'dɑktɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				3,
+				"表语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "她想要",
 		"english": "she wants",
-		"soundmark": "/ʃi/ /wɑnts/"
+		"soundmark": "/ʃi/ /wɑnts/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "她想要成为一名医生",
 		"english": "she wants to be a doctor",
-		"soundmark": "/ʃi/ /wɑnts/ /tə/ /bi/ /ə/ /'dɑktɚ/"
+		"soundmark": "/ʃi/ /wɑnts/ /tə/ /bi/ /ə/ /'dɑktɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "那个人",
 		"english": "the person",
-		"soundmark": "/ðə/ /'pɝsn/"
+		"soundmark": "/ðə/ /'pɝsn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "她想要成为那个人",
 		"english": "she wants to be the person",
-		"soundmark": "/ʃi/ /wɑnts/ /tə/ /bi/ /ðə/ /'pɝsn/"
+		"soundmark": "/ʃi/ /wɑnts/ /tə/ /bi/ /ðə/ /'pɝsn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我",
 		"english": "me",
-		"soundmark": "/mi/"
+		"soundmark": "/mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "她想要我成为那个人",
 		"english": "she wants me to be the person",
-		"soundmark": "/ʃi/ /wɑnts/ /mi/ /tə/ /bi/ /ðə/ /'pɝsn/"
+		"soundmark": "/ʃi/ /wɑnts/ /mi/ /tə/ /bi/ /ðə/ /'pɝsn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"冠词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "她想要我成为的那个人",
 		"english": "the person she wants me to be",
-		"soundmark": "/ðə/ /'pɝsn/ /ʃi/ /wɑnts/ /mi/ /tə/ /bi/"
+		"soundmark": "/ðə/ /'pɝsn/ /ʃi/ /wɑnts/ /mi/ /tə/ /bi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				5,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我不想假装是那个人",
 		"english": "I don't want to pretend to be the person",
-		"soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /prɪˈtɛnd/ /tə/ /bi/ /ðə/ /'pɝsn/"
+		"soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /prɪˈtɛnd/ /tə/ /bi/ /ðə/ /'pɝsn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"介词"
+			],
+			[
+				7,
+				7,
+				"动词"
+			],
+			[
+				8,
+				8,
+				"冠词"
+			],
+			[
+				9,
+				9,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				5,
+				"状语",
+				"PP"
+			],
+			[
+				6,
+				6,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我不想假装是她想要我成为的那个人",
 		"english": "I don't want to pretend to be the person she wants me to be",
-		"soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /prɪˈtɛnd/ /tə/ /bi/ /ðə/ /'pɝsn/ /ʃi/ /wɑnts/ /mi/ /tə/ /bi/"
+		"soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /prɪˈtɛnd/ /tə/ /bi/ /ðə/ /'pɝsn/ /ʃi/ /wɑnts/ /mi/ /tə/ /bi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"介词"
+			],
+			[
+				7,
+				7,
+				"动词"
+			],
+			[
+				8,
+				8,
+				"冠词"
+			],
+			[
+				9,
+				9,
+				"名词"
+			],
+			[
+				10,
+				10,
+				"代词"
+			],
+			[
+				11,
+				11,
+				"名词"
+			],
+			[
+				12,
+				12,
+				"代词"
+			],
+			[
+				13,
+				13,
+				"介词"
+			],
+			[
+				14,
+				14,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				5,
+				"状语",
+				"PP"
+			],
+			[
+				6,
+				6,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "假装",
 		"english": "to pretend",
-		"soundmark": "/tə/ /prɪˈtɛnd/"
+		"soundmark": "/tə/ /prɪˈtɛnd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你需要",
 		"english": "you need",
-		"soundmark": "/ju/ /nid/"
+		"soundmark": "/ju/ /nid/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "你不需要",
 		"english": "you don't need",
-		"soundmark": "/ju/ /dont/ /nid/"
+		"soundmark": "/ju/ /dont/ /nid/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "你不需要假装",
 		"english": "you don't need to pretend",
-		"soundmark": "/ju/ /dont/ /nid/ /tə/ /prɪˈtɛnd/"
+		"soundmark": "/ju/ /dont/ /nid/ /tə/ /prɪˈtɛnd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				5,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "那个",
 		"english": "that",
-		"soundmark": "/ðæt/"
+		"soundmark": "/ðæt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "你不需要假装（那个）",
 		"english": "you don't need to pretend that",
-		"soundmark": "/ju/ /dont/ /nid/ /tə/ /prɪˈtɛnd/ /ðæt/"
+		"soundmark": "/ju/ /dont/ /nid/ /tə/ /prɪˈtɛnd/ /ðæt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				6,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "注意到；察觉到",
 		"english": "to notice",
-		"soundmark": "/tə/ /ˈnotɪs/"
+		"soundmark": "/tə/ /ˈnotɪs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "你注意到",
 		"english": "you notice",
-		"soundmark": "/ju/ /ˈnotɪs/"
+		"soundmark": "/ju/ /ˈnotɪs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "你（过去）注意到",
 		"english": "you noticed",
-		"soundmark": "/ju/ /ˈnotɪst/"
+		"soundmark": "/ju/ /ˈnotɪst/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "你（过去）没有注意到",
 		"english": "you didn't notice",
-		"soundmark": "/ju/ /ˈdɪdnt/ /ˈnotɪs/"
+		"soundmark": "/ju/ /ˈdɪdnt/ /ˈnotɪs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "你不需要假装（那个）你（过去）没有注意到",
 		"english": "you don't need to pretend that you didn't notice",
-		"soundmark": "/ju/ /dont/ /nid/ /tə/ /prɪˈtɛnd/ /ðæt/ /ju/ /ˈdɪdnt/ /ˈnotɪs/"
+		"soundmark": "/ju/ /dont/ /nid/ /tə/ /prɪˈtɛnd/ /ðæt/ /ju/ /ˈdɪdnt/ /ˈnotɪs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"代词"
+			],
+			[
+				8,
+				8,
+				"助动词"
+			],
+			[
+				9,
+				9,
+				"副词"
+			],
+			[
+				10,
+				10,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				7,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "重要的",
 		"english": "important",
-		"soundmark": "/ɪm'pɔrtnt/"
+		"soundmark": "/ɪm'pɔrtnt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "它",
 		"english": "it",
-		"soundmark": "/ɪt/"
+		"soundmark": "/ɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "它是重要的",
 		"english": "it is important",
-		"soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/"
+		"soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				2,
+				"表语",
+				"ADJP"
+			]
+		]
 	},
 	{
 		"chinese": "更",
 		"english": "more",
-		"soundmark": "/mɔr/"
+		"soundmark": "/mɔr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "它是更重要的",
 		"english": "it is more important",
-		"soundmark": "/ɪt/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/"
+		"soundmark": "/ɪt/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				2,
+				"时间状语",
+				"ADVP"
+			]
+		]
 	},
 	{
 		"chinese": "任何事情",
 		"english": "anything",
-		"soundmark": "/’ɛnɪθɪŋ/"
+		"soundmark": "/’ɛnɪθɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "比",
 		"english": "than",
-		"soundmark": "/ðæn/"
+		"soundmark": "/ðæn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"连词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "比任何事情",
 		"english": "than anything",
-		"soundmark": "/ðæn/ /’ɛnɪθɪŋ/"
+		"soundmark": "/ðæn/ /’ɛnɪθɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"连词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "它是比任何事情更重要的",
 		"english": "it is more important than anything",
-		"soundmark": "/ɪt/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /’ɛnɪθɪŋ/"
+		"soundmark": "/ɪt/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /’ɛnɪθɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			],
+			[
+				4,
+				4,
+				"连词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				2,
+				"时间状语",
+				"ADVP"
+			]
+		]
 	},
 	{
 		"chinese": "其他的",
 		"english": "else",
-		"soundmark": "/ɛls/"
+		"soundmark": "/ɛls/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "其他的任何事情",
 		"english": "anything else",
-		"soundmark": "/’ɛnɪθɪŋ/ /ɛls/"
+		"soundmark": "/’ɛnɪθɪŋ/ /ɛls/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "它是比其他的任何事情更重要的",
 		"english": "it is more important than anything else",
-		"soundmark": "/ɪt/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /’ɛnɪθɪŋ/ /ɛls/"
+		"soundmark": "/ɪt/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /’ɛnɪθɪŋ/ /ɛls/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			],
+			[
+				4,
+				4,
+				"连词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				2,
+				"时间状语",
+				"ADVP"
+			]
+		]
 	},
 	{
 		"chinese": "家庭",
 		"english": "family",
-		"soundmark": "/ˈfæməli/"
+		"soundmark": "/ˈfæməli/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "比",
 		"english": "than",
-		"soundmark": "/ðæn/"
+		"soundmark": "/ðæn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"连词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "比家庭",
 		"english": "than family",
-		"soundmark": "/ðæn/ /ˈfæməli/"
+		"soundmark": "/ðæn/ /ˈfæməli/",
+		"posTags": [
+			[
+				0,
+				0,
+				"连词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "没有东西",
 		"english": "nothing",
-		"soundmark": "/'nʌθɪŋ/"
+		"soundmark": "/'nʌθɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "没有东西比家庭是更重要的",
 		"english": "nothing is more important than family",
-		"soundmark": "/'nʌθɪŋ/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /ˈfæməli/"
+		"soundmark": "/'nʌθɪŋ/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /ˈfæməli/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			],
+			[
+				4,
+				4,
+				"连词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				2,
+				"时间状语",
+				"ADVP"
+			]
+		]
 	},
 	{
 		"chinese": "朋友",
 		"english": "friend",
-		"soundmark": "/frɛnd/"
+		"soundmark": "/frɛnd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "船",
 		"english": "ship",
-		"soundmark": "/ʃɪp/"
+		"soundmark": "/ʃɪp/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "友谊",
 		"english": "friendship",
-		"soundmark": "/ˈfrɛndʃɪp/"
+		"soundmark": "/ˈfrɛndʃɪp/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我们的",
 		"english": "our",
-		"soundmark": "/'aʊɚ/"
+		"soundmark": "/'aʊɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我们的友谊",
 		"english": "our friendship",
-		"soundmark": "/'aʊɚ/ /ˈfrɛndʃɪp/"
+		"soundmark": "/'aʊɚ/ /ˈfrɛndʃɪp/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "没有东西比我们的友谊是更重要的",
 		"english": "nothing is more important than our friendship",
-		"soundmark": "/'nʌθɪŋ/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /'aʊɚ/ /ˈfrɛndʃɪp/"
+		"soundmark": "/'nʌθɪŋ/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /'aʊɚ/ /ˈfrɛndʃɪp/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			],
+			[
+				4,
+				4,
+				"连词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				2,
+				"时间状语",
+				"ADVP"
+			]
+		]
 	},
 	{
 		"chinese": "家庭",
 		"english": "family",
-		"soundmark": "/ˈfæməli/"
+		"soundmark": "/ˈfæməli/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我的",
 		"english": "my",
-		"soundmark": "/maɪ/"
+		"soundmark": "/maɪ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我的家庭",
 		"english": "my family",
-		"soundmark": "/maɪ/ /ˈfæməli/"
+		"soundmark": "/maɪ/ /ˈfæməli/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "任何事情",
 		"english": "anything",
-		"soundmark": "/’ɛnɪθɪŋ/"
+		"soundmark": "/’ɛnɪθɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我的家庭比任何事情是更重要的",
 		"english": "my family is more important than anything",
-		"soundmark": "/maɪ/ /ˈfæməli/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /’ɛnɪθɪŋ/"
+		"soundmark": "/maɪ/ /ˈfæməli/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /’ɛnɪθɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"副词"
+			],
+			[
+				4,
+				4,
+				"形容词"
+			],
+			[
+				5,
+				5,
+				"连词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"系动词",
+				"TP"
+			],
+			[
+				3,
+				3,
+				"时间状语",
+				"ADVP"
+			]
+		]
 	},
 	{
 		"chinese": "其他的",
 		"english": "else",
-		"soundmark": "/ɛls/"
+		"soundmark": "/ɛls/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我的家庭比其他的任何事情是更重要的",
 		"english": "my family is more important than anything else",
-		"soundmark": "/maɪ/ /ˈfæməli/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /’ɛnɪθɪŋ/ /ɛls/"
+		"soundmark": "/maɪ/ /ˈfæməli/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /’ɛnɪθɪŋ/ /ɛls/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"副词"
+			],
+			[
+				4,
+				4,
+				"形容词"
+			],
+			[
+				5,
+				5,
+				"连词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"系动词",
+				"TP"
+			],
+			[
+				3,
+				3,
+				"时间状语",
+				"ADVP"
+			]
+		]
 	},
 	{
 		"chinese": "生活；生命",
 		"english": "life",
-		"soundmark": "/laɪf/"
+		"soundmark": "/laɪf/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "人",
 		"english": "man",
-		"soundmark": "/mæn/"
+		"soundmark": "/mæn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "人的生命",
 		"english": "man's life",
-		"soundmark": "/mænz/ /laɪf/"
+		"soundmark": "/mænz/ /laɪf/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "一个人的生命",
 		"english": "a man's life",
-		"soundmark": "/ə/ /mænz/ /laɪf/"
+		"soundmark": "/ə/ /mænz/ /laɪf/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				2,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "金钱",
 		"english": "money",
-		"soundmark": "/ˈmʌni/"
+		"soundmark": "/ˈmʌni/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "一个人的生命比金钱是更重要的",
 		"english": "a man's life is more important than money",
-		"soundmark": "/ə/ /mænz/ /laɪf/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /ˈmʌni/"
+		"soundmark": "/ə/ /mænz/ /laɪf/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /ˈmʌni/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"副词"
+			],
+			[
+				5,
+				5,
+				"形容词"
+			],
+			[
+				6,
+				6,
+				"连词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				2,
+				"主语",
+				"NP"
+			],
+			[
+				3,
+				3,
+				"系动词",
+				"TP"
+			],
+			[
+				4,
+				4,
+				"时间状语",
+				"ADVP"
+			]
+		]
 	},
 	{
 		"chinese": "做",
 		"english": "to do",
-		"soundmark": "/tə/ /du/"
+		"soundmark": "/tə/ /du/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "你",
 		"english": "you",
-		"soundmark": "/ju/"
+		"soundmark": "/ju/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "你做",
 		"english": "you do",
-		"soundmark": "/ju/ /du/"
+		"soundmark": "/ju/ /du/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "那件事情",
 		"english": "the thing",
-		"soundmark": "/ðə/ /θɪŋ/"
+		"soundmark": "/ðə/ /θɪŋ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "你做的那件事情",
 		"english": "the thing you do",
-		"soundmark": "/ðə/ /θɪŋ/ /ju/ /du/"
+		"soundmark": "/ðə/ /θɪŋ/ /ju/ /du/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"助动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你做的内容",
 		"english": "what you do",
-		"soundmark": "/wɑt/ /ju/ /du/"
+		"soundmark": "/wɑt/ /ju/ /du/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"助动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"疑问宾语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "说",
 		"english": "to say",
-		"soundmark": "/tə/ /seɪ/"
+		"soundmark": "/tə/ /seɪ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "你说",
 		"english": "you say",
-		"soundmark": "/ju/ /seɪ/"
+		"soundmark": "/ju/ /seɪ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "你说的内容",
 		"english": "what you say",
-		"soundmark": "/wɑt/ /ju/ /seɪ/"
+		"soundmark": "/wɑt/ /ju/ /seɪ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"疑问宾语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你做的内容比你说的内容是更重要的",
 		"english": "what you do is more important than what you say",
-		"soundmark": "/wɑt/ /ju/ /du/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /wɑt/ /ju/ /seɪ/"
+		"soundmark": "/wɑt/ /ju/ /du/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /wɑt/ /ju/ /seɪ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"疑问词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"助动词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"副词"
+			],
+			[
+				5,
+				5,
+				"形容词"
+			],
+			[
+				6,
+				6,
+				"连词"
+			],
+			[
+				7,
+				7,
+				"疑问词"
+			],
+			[
+				8,
+				8,
+				"代词"
+			],
+			[
+				9,
+				9,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"疑问宾语",
+				"NP"
+			],
+			[
+				1,
+				9,
+				"宾语",
+				"NP"
+			]
+		]
 	}
 ]

@@ -2,691 +2,5866 @@
 	{
 		"chinese": "我们的",
 		"english": "our",
-		"soundmark": "/'aʊɚ/"
+		"soundmark": "/'aʊɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "团队",
 		"english": "team",
-		"soundmark": "/tim/"
+		"soundmark": "/tim/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我们的团队",
 		"english": "our team",
-		"soundmark": "/'aʊɚ/ /tim/"
+		"soundmark": "/'aʊɚ/ /tim/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "加入",
 		"english": "to join",
-		"soundmark": "/tə/ /dʒɔɪn/"
+		"soundmark": "/tə/ /dʒɔɪn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "加入我们的团队",
 		"english": "to join our team",
-		"soundmark": "/tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+		"soundmark": "/tə/ /dʒɔɪn/ /'aʊɚ/ /tim/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "决定",
 		"english": "to decide",
-		"soundmark": "/tə/ /dɪ'saɪd/"
+		"soundmark": "/tə/ /dɪ'saɪd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "决定加入我们的团队",
 		"english": "to decide to join our team",
-		"soundmark": "/tə/ /dɪ'saɪd/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+		"soundmark": "/tə/ /dɪ'saɪd/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "他决定加入我们的团队",
 		"english": "he decides to join our team",
-		"soundmark": "/hi/ /dɪ'saɪdz/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+		"soundmark": "/hi/ /dɪ'saɪdz/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他（过去）决定加入我们的团队",
 		"english": "he decided to join our team",
-		"soundmark": "/hi/ /dɪ'saɪdɪd/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+		"soundmark": "/hi/ /dɪ'saɪdɪd/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "邀请",
 		"english": "to invite",
-		"soundmark": "/tə/ /ɪn'vaɪt/"
+		"soundmark": "/tə/ /ɪn'vaɪt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "邀请（名词）",
 		"english": "invitation",
-		"soundmark": "/ɪnvɪ'teʃən/"
+		"soundmark": "/ɪnvɪ'teʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "这个邀请",
 		"english": "the invitation",
-		"soundmark": "/ði/ /ɪnvɪ'teʃən/"
+		"soundmark": "/ði/ /ɪnvɪ'teʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "接受",
 		"english": "to accept",
-		"soundmark": "/tə/ /ək'sɛpt/"
+		"soundmark": "/tə/ /ək'sɛpt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "接受这个邀请",
 		"english": "to accept the invitation",
-		"soundmark": "/tə/ /ək'sɛpt/ /ði/ /ɪnvɪ'teʃən/"
+		"soundmark": "/tə/ /ək'sɛpt/ /ði/ /ɪnvɪ'teʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "加入我们的团队",
 		"english": "to join our team",
-		"soundmark": "/tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+		"soundmark": "/tə/ /dʒɔɪn/ /'aʊɚ/ /tim/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "加入我们的团队的邀请",
 		"english": "the invitation to join our team",
-		"soundmark": "/ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+		"soundmark": "/ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "接受加入我们团队的邀请",
 		"english": "to accept the invitation to join our team",
-		"soundmark": "/tə/ /ək'sɛpt/ /ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+		"soundmark": "/tə/ /ək'sɛpt/ /ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"动词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他接受加入我们团队的邀请",
 		"english": "he accepts the invitation to join our team",
-		"soundmark": "/hi/ /ək'sɛpts/ /ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+		"soundmark": "/hi/ /ək'sɛpts/ /ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"动词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他不接受加入我们团队的邀请",
 		"english": "he doesn't accept the invitation to join our team",
-		"soundmark": "/hi/ /ˈdʌznt/ /ək'sɛpt/ /ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+		"soundmark": "/hi/ /ˈdʌznt/ /ək'sɛpt/ /ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"介词"
+			],
+			[
+				7,
+				7,
+				"动词"
+			],
+			[
+				8,
+				8,
+				"代词"
+			],
+			[
+				9,
+				9,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				5,
+				"宾语",
+				"NP"
+			],
+			[
+				6,
+				6,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "他接受了加入我们团队的邀请",
 		"english": "he accepted the invitation to join our team",
-		"soundmark": "/hi/ /ək'sɛptɪd/ /ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+		"soundmark": "/hi/ /ək'sɛptɪd/ /ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"动词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			],
+			[
+				4,
+				4,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "他（过去）没有接受加入我们团队的邀请",
 		"english": "he didn't accept the invitation to join our team",
-		"soundmark": "/hi/ /ˈdɪdnt/ /ək'sɛpt/ /ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+		"soundmark": "/hi/ /ˈdɪdnt/ /ək'sɛpt/ /ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"介词"
+			],
+			[
+				7,
+				7,
+				"动词"
+			],
+			[
+				8,
+				8,
+				"代词"
+			],
+			[
+				9,
+				9,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				5,
+				"宾语",
+				"NP"
+			],
+			[
+				6,
+				6,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "这个礼物",
 		"english": "the gift",
-		"soundmark": "/ðə/ /ɡɪft/"
+		"soundmark": "/ðə/ /ɡɪft/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "接受",
 		"english": "to accept",
-		"soundmark": "/tə/ /ək'sɛpt/"
+		"soundmark": "/tə/ /ək'sɛpt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "接受这个礼物",
 		"english": "to accept the gift",
-		"soundmark": "/tə/ /ək'sɛpt/ /ðə/ /ɡɪft/"
+		"soundmark": "/tə/ /ək'sɛpt/ /ðə/ /ɡɪft/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他",
 		"english": "he",
-		"soundmark": "/hi/"
+		"soundmark": "/hi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "他接受这个礼物",
 		"english": "he accepts the gift",
-		"soundmark": "/hi/ /ək'sɛpts/ /ðə/ /ɡɪft/"
+		"soundmark": "/hi/ /ək'sɛpts/ /ðə/ /ɡɪft/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他不接受这个礼物",
 		"english": "he doesn't accept the gift",
-		"soundmark": "/hi/ /ˈdʌznt/ /ək'sɛpt/ /ðə/ /ɡɪft/"
+		"soundmark": "/hi/ /ˈdʌznt/ /ək'sɛpt/ /ðə/ /ɡɪft/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				5,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他（过去）接受这个礼物",
 		"english": "he accepted the gift",
-		"soundmark": "/hi/ /ək'sɛptɪd/ /ðə/ /ɡɪft/"
+		"soundmark": "/hi/ /ək'sɛptɪd/ /ðə/ /ɡɪft/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他（过去）没有接受这个礼物",
 		"english": "he didn't accept the gift",
-		"soundmark": "/hi/ /ˈdɪdnt/ /ək'sɛpt/ /ðə/ /ɡɪft/"
+		"soundmark": "/hi/ /ˈdɪdnt/ /ək'sɛpt/ /ðə/ /ɡɪft/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				5,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他想要",
 		"english": "he wants",
-		"soundmark": "/hi/ /wɑnts/"
+		"soundmark": "/hi/ /wɑnts/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他想要接受这个礼物",
 		"english": "he wants to accept the gift",
-		"soundmark": "/hi/ /wɑnts/ /tə/ /ək'sɛpt/ /ðə/ /ɡɪft/"
+		"soundmark": "/hi/ /wɑnts/ /tə/ /ək'sɛpt/ /ðə/ /ɡɪft/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "他不想接受这个礼物",
 		"english": "he doesn't want to accept the gift",
-		"soundmark": "/hi/ /ˈdʌznt/ /wɑnt/ /tə/ /ək'sɛpt/ /ðə/ /ɡɪft/"
+		"soundmark": "/hi/ /ˈdʌznt/ /wɑnt/ /tə/ /ək'sɛpt/ /ðə/ /ɡɪft/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"动词"
+			],
+			[
+				6,
+				6,
+				"冠词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				4,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "他（过去）想要接受这个礼物",
 		"english": "he wanted to accept the gift",
-		"soundmark": "/hi/ /wɑntɪd/ /tə/ /ək'sɛpt/ /ðə/ /ɡɪft/"
+		"soundmark": "/hi/ /wɑntɪd/ /tə/ /ək'sɛpt/ /ðə/ /ɡɪft/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "他（过去）不想接受这个礼物",
 		"english": "he didn't want to accept the gift",
-		"soundmark": "/hi/ /ˈdɪdnt/ /wɑnt/ /tə/ /ək'sɛpt/ /ðə/ /ɡɪft/"
+		"soundmark": "/hi/ /ˈdɪdnt/ /wɑnt/ /tə/ /ək'sɛpt/ /ðə/ /ɡɪft/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"动词"
+			],
+			[
+				6,
+				6,
+				"冠词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				4,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "完成",
 		"english": "to finish",
-		"soundmark": "/tə/ /'fɪnɪʃ/"
+		"soundmark": "/tə/ /'fɪnɪʃ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "你的",
 		"english": "your",
-		"soundmark": "/jʊr/"
+		"soundmark": "/jʊr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "家庭作业",
 		"english": "homework",
-		"soundmark": "/'hom'wɝk/"
+		"soundmark": "/'hom'wɝk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "你的家庭作业",
 		"english": "your homework",
-		"soundmark": "/jʊr/ /'hom'wɝk/"
+		"soundmark": "/jʊr/ /'hom'wɝk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "完成你的家庭作业",
 		"english": "to finish your homework",
-		"soundmark": "/tə/ /'fɪnɪʃ/ /jʊr/ /'hom'wɝk/"
+		"soundmark": "/tə/ /'fɪnɪʃ/ /jʊr/ /'hom'wɝk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我想要你",
 		"english": "I want you",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/"
+		"soundmark": "/aɪ/ /wɑnt/ /ju/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我想要你完成你的家庭作业",
 		"english": "I want you to finish your homework",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /'fɪnɪʃ/ /jʊr/ /'hom'wɝk/"
+		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /'fɪnɪʃ/ /jʊr/ /'hom'wɝk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			],
+			[
+				3,
+				3,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "看",
 		"english": "to watch",
-		"soundmark": "/tə/ /wɔtʃ/"
+		"soundmark": "/tə/ /wɔtʃ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "电视",
 		"english": "TV",
-		"soundmark": "/ˈtiˈvi/"
+		"soundmark": "/ˈtiˈvi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"专有名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "看电视",
 		"english": "to watch TV",
-		"soundmark": "/tə/ /wɔtʃ/ /ˈtiˈvi/"
+		"soundmark": "/tə/ /wɔtʃ/ /ˈtiˈvi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"专有名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你看电视",
 		"english": "you watch TV",
-		"soundmark": "/ju/ /wɔtʃ/ /ˈtiˈvi/"
+		"soundmark": "/ju/ /wɔtʃ/ /ˈtiˈvi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"专有名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在......之前",
 		"english": "before",
-		"soundmark": "/bɪ'fɔr/"
+		"soundmark": "/bɪ'fɔr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "在你看电视之前",
 		"english": "before you watch TV",
-		"soundmark": "/bɪ'fɔr/ /ju/ /wɔtʃ/ /ˈtiˈvi/"
+		"soundmark": "/bɪ'fɔr/ /ju/ /wɔtʃ/ /ˈtiˈvi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"专有名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我想要你完成你的家庭作业",
 		"english": "I want you to finish your homework",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /'fɪnɪʃ/ /jʊr/ /'hom'wɝk/"
+		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /'fɪnɪʃ/ /jʊr/ /'hom'wɝk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			],
+			[
+				3,
+				3,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我想要你完成你的家庭作业在你看电视之前",
 		"english": "I want you to finish your homework before you watch TV",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /'fɪnɪʃ/ /jʊr/ /'hom'wɝk/ /bɪ'fɔr/ /ju/ /wɔtʃ/ /ˈtiˈvi/"
+		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /'fɪnɪʃ/ /jʊr/ /'hom'wɝk/ /bɪ'fɔr/ /ju/ /wɔtʃ/ /ˈtiˈvi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			],
+			[
+				7,
+				7,
+				"介词"
+			],
+			[
+				8,
+				8,
+				"代词"
+			],
+			[
+				9,
+				9,
+				"动词"
+			],
+			[
+				10,
+				10,
+				"专有名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			],
+			[
+				3,
+				3,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "可以",
 		"english": "can",
-		"soundmark": "/kæn/"
+		"soundmark": "/kæn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"情态动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "你可以",
 		"english": "you can",
-		"soundmark": "/ju/ /kæn/"
+		"soundmark": "/ju/ /kæn/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "你可以看电视",
 		"english": "you can watch TV",
-		"soundmark": "/ju/ /kæn/ /wɔtʃ/ /ˈtiˈvi/"
+		"soundmark": "/ju/ /kæn/ /wɔtʃ/ /ˈtiˈvi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"专有名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你不可以看电视",
 		"english": "you can not watch TV",
-		"soundmark": "/ju/ /kæn/ /nɑt/ /wɔtʃ/ /ˈtiˈvi/"
+		"soundmark": "/ju/ /kæn/ /nɑt/ /wɔtʃ/ /ˈtiˈvi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"专有名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "想要",
 		"english": "want",
-		"soundmark": "/wɑnt/"
+		"soundmark": "/wɑnt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "你想要",
 		"english": "you want",
-		"soundmark": "/ju/ /wɑnt/"
+		"soundmark": "/ju/ /wɑnt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "是否；如果",
 		"english": "if",
-		"soundmark": "/ɪf/"
+		"soundmark": "/ɪf/",
+		"posTags": [
+			[
+				0,
+				0,
+				"连词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "如果你想的话",
 		"english": "if you want",
-		"soundmark": "/ɪf/ /ju/ /wɑnt/"
+		"soundmark": "/ɪf/ /ju/ /wɑnt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"连词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你可以看电视",
 		"english": "you can watch TV",
-		"soundmark": "/ju/ /kæn/ /wɔtʃ/ /ˈtiˈvi/"
+		"soundmark": "/ju/ /kæn/ /wɔtʃ/ /ˈtiˈvi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"专有名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "你可以看电视如果你想的话",
 		"english": "you can watch TV if you want",
-		"soundmark": "/ju/ /kæn/ /wɔtʃ/ /ˈtiˈvi/ /ɪf/ /ju/ /wɑnt/"
+		"soundmark": "/ju/ /kæn/ /wɔtʃ/ /ˈtiˈvi/ /ɪf/ /ju/ /wɑnt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"专有名词"
+			],
+			[
+				4,
+				4,
+				"连词"
+			],
+			[
+				5,
+				5,
+				"代词"
+			],
+			[
+				6,
+				6,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"谓语",
+				"VP"
+			],
+			[
+				3,
+				5,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "回答",
 		"english": "to answer",
-		"soundmark": "/tə/ /'ænsɚ/"
+		"soundmark": "/tə/ /'ænsɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "这个问题",
 		"english": "the question",
-		"soundmark": "/ðə/ /'kwɛstʃən/"
+		"soundmark": "/ðə/ /'kwɛstʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "回答这个问题",
 		"english": "to answer the question",
-		"soundmark": "/tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/"
+		"soundmark": "/tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "拒绝",
 		"english": "to refuse",
-		"soundmark": "/tə/ /ri'fjuz/"
+		"soundmark": "/tə/ /ri'fjuz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "拒绝回答这个问题",
 		"english": "to refuse to answer the question",
-		"soundmark": "/tə/ /ri'fjuz/ /tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/"
+		"soundmark": "/tə/ /ri'fjuz/ /tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我想拒绝回答这个问题",
 		"english": "I want to refuse to answer the question",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /ri'fjuz/ /tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /ri'fjuz/ /tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"冠词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我拒绝回答这个问题",
 		"english": "I refuse to answer the question",
-		"soundmark": "/aɪ/ /ri'fjuz/ /tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/"
+		"soundmark": "/aɪ/ /ri'fjuz/ /tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				5,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我（过去）拒绝回答这个问题",
 		"english": "I refused to answer the question",
-		"soundmark": "/aɪ/ /ri'fjuzd/ /tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/"
+		"soundmark": "/aɪ/ /ri'fjuzd/ /tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				5,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "这个问题",
 		"english": "the question",
-		"soundmark": "/ðə/ /'kwɛstʃən/"
+		"soundmark": "/ðə/ /'kwɛstʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "困难的",
 		"english": "difficult",
-		"soundmark": "/'dɪfɪkəlt/"
+		"soundmark": "/'dɪfɪkəlt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "这个问题是困难的",
 		"english": "the question is difficult",
-		"soundmark": "/ðə/ /'kwɛstʃən/ /ɪz/ /'dɪfɪkəlt/"
+		"soundmark": "/ðə/ /'kwɛstʃən/ /ɪz/ /'dɪfɪkəlt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"系动词",
+				"TP"
+			],
+			[
+				3,
+				3,
+				"表语",
+				"ADJP"
+			]
+		]
 	},
 	{
 		"chinese": "这个问题（过去）是困难的",
 		"english": "the question was difficult",
-		"soundmark": "/ðə/ /'kwɛstʃən/ /wəz/ /'dɪfɪkəlt/"
+		"soundmark": "/ðə/ /'kwɛstʃən/ /wəz/ /'dɪfɪkəlt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"系动词",
+				"TP"
+			],
+			[
+				3,
+				3,
+				"表语",
+				"ADJP"
+			]
+		]
 	},
 	{
 		"chinese": "非常",
 		"english": "very",
-		"soundmark": "/ˈvɛri/"
+		"soundmark": "/ˈvɛri/",
+		"posTags": [
+			[
+				0,
+				0,
+				"副词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "这个问题（过去）是非常困难的",
 		"english": "the question was very difficult",
-		"soundmark": "/ðə/ /'kwɛstʃən/ /wəz/ /ˈvɛri/ /'dɪfɪkəlt/"
+		"soundmark": "/ðə/ /'kwɛstʃən/ /wəz/ /ˈvɛri/ /'dɪfɪkəlt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"副词"
+			],
+			[
+				4,
+				4,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"系动词",
+				"TP"
+			],
+			[
+				3,
+				3,
+				"时间状语",
+				"ADVP"
+			]
+		]
 	},
 	{
 		"chinese": "对我来说",
 		"english": "for me",
-		"soundmark": "/fɝ/ /mi/"
+		"soundmark": "/fɝ/ /mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "这个问题（过去）是非常困难的对我来说",
 		"english": "the question was very difficult for me",
-		"soundmark": "/ðə/ /'kwɛstʃən/ /wəz/ /ˈvɛri/ /'dɪfɪkəlt/ /fɝ/ /mi/"
+		"soundmark": "/ðə/ /'kwɛstʃən/ /wəz/ /ˈvɛri/ /'dɪfɪkəlt/ /fɝ/ /mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"副词"
+			],
+			[
+				4,
+				4,
+				"形容词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			],
+			[
+				2,
+				2,
+				"系动词",
+				"TP"
+			],
+			[
+				3,
+				3,
+				"时间状语",
+				"ADVP"
+			]
+		]
 	},
 	{
 		"chinese": "因为",
 		"english": "because",
-		"soundmark": "/bɪ'kɔz/"
+		"soundmark": "/bɪ'kɔz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"连词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "因为这个问题（过去）是非常困难的对我来说",
 		"english": "because the question was very difficult for me",
-		"soundmark": "/bɪ'kɔz/ /ðə/ /'kwɛstʃən/ /wəz/ /ˈvɛri/ /'dɪfɪkəlt/ /fɝ/ /mi/"
+		"soundmark": "/bɪ'kɔz/ /ðə/ /'kwɛstʃən/ /wəz/ /ˈvɛri/ /'dɪfɪkəlt/ /fɝ/ /mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"连词"
+			],
+			[
+				1,
+				1,
+				"冠词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"副词"
+			],
+			[
+				5,
+				5,
+				"形容词"
+			],
+			[
+				6,
+				6,
+				"介词"
+			],
+			[
+				7,
+				7,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我（过去）拒绝回答这个问题",
 		"english": "I refused to answer the question",
-		"soundmark": "/aɪ/ /ri'fjuzd/ /tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/"
+		"soundmark": "/aɪ/ /ri'fjuzd/ /tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				5,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我（过去）拒绝回答这个问题因为这个问题（过去）是非常困难的对我来说",
 		"english": "I refused to answer the question because the question was very difficult for me",
-		"soundmark": "/aɪ/ /ri'fjuzd/ /tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/ /bɪ'kɔz/ /ðə/ /'kwɛstʃən/ /wəz/ /ˈvɛri/ /'dɪfɪkəlt/ /fɝ/ /mi/"
+		"soundmark": "/aɪ/ /ri'fjuzd/ /tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/ /bɪ'kɔz/ /ðə/ /'kwɛstʃən/ /wəz/ /ˈvɛri/ /'dɪfɪkəlt/ /fɝ/ /mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"连词"
+			],
+			[
+				7,
+				7,
+				"冠词"
+			],
+			[
+				8,
+				8,
+				"名词"
+			],
+			[
+				9,
+				9,
+				"动词"
+			],
+			[
+				10,
+				10,
+				"副词"
+			],
+			[
+				11,
+				11,
+				"形容词"
+			],
+			[
+				12,
+				12,
+				"介词"
+			],
+			[
+				13,
+				13,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				8,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我（过去）拒绝回答这个问题因为它（过去）是非常困难的对我来说",
 		"english": "I refused to answer the question because it was very difficult for me",
-		"soundmark": "/aɪ/ /ri'fjuzd/ /tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/ /bɪ'kɔz/ /ɪt/ /wəz/ /ˈvɛri/ /'dɪfɪkəlt/ /fɝ/ /mi/"
+		"soundmark": "/aɪ/ /ri'fjuzd/ /tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/ /bɪ'kɔz/ /ɪt/ /wəz/ /ˈvɛri/ /'dɪfɪkəlt/ /fɝ/ /mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"连词"
+			],
+			[
+				7,
+				7,
+				"代词"
+			],
+			[
+				8,
+				8,
+				"动词"
+			],
+			[
+				9,
+				9,
+				"副词"
+			],
+			[
+				10,
+				10,
+				"形容词"
+			],
+			[
+				11,
+				11,
+				"介词"
+			],
+			[
+				12,
+				12,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				7,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "困难的",
 		"english": "difficult",
-		"soundmark": "/'dɪfɪkəlt/"
+		"soundmark": "/'dɪfɪkəlt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "它是困难的",
 		"english": "it is difficult",
-		"soundmark": "/ɪt/ /ɪz/ /'dɪfɪkəlt/"
+		"soundmark": "/ɪt/ /ɪz/ /'dɪfɪkəlt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				2,
+				"表语",
+				"ADJP"
+			]
+		]
 	},
 	{
 		"chinese": "完成",
 		"english": "to finish",
-		"soundmark": "/tə/ /'fɪnɪʃ/"
+		"soundmark": "/tə/ /'fɪnɪʃ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "这个工作",
 		"english": "the work",
-		"soundmark": "/ðə/ /wɝk/"
+		"soundmark": "/ðə/ /wɝk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "完成这个工作",
 		"english": "to finish the work",
-		"soundmark": "/tə/ /'fɪnɪʃ/ /ðə/ /wɝk/"
+		"soundmark": "/tə/ /'fɪnɪʃ/ /ðə/ /wɝk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "完成这个工作（它）是困难的",
 		"english": "it is difficult to finish the work",
-		"soundmark": "/ɪt/ /ɪz/ /'dɪfɪkəlt/ /tə/ /'fɪnɪʃ/ /ðə/ /wɝk/"
+		"soundmark": "/ɪt/ /ɪz/ /'dɪfɪkəlt/ /tə/ /'fɪnɪʃ/ /ðə/ /wɝk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"形容词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"冠词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				2,
+				"表语",
+				"ADJP"
+			],
+			[
+				3,
+				6,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "一天",
 		"english": "a day",
-		"soundmark": "/ə/ /de/"
+		"soundmark": "/ə/ /de/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在一天内",
 		"english": "in a day",
-		"soundmark": "/ɪn/ /ə/ /de/"
+		"soundmark": "/ɪn/ /ə/ /de/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"冠词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在一天内完成这个工作（它）是困难的",
 		"english": "it is difficult to finish the work in a day",
-		"soundmark": "/ɪt/ /ɪz/ /'dɪfɪkəlt/ /tə/ /'fɪnɪʃ/ /ðə/ /wɝk/ /ɪn/ /ə/ /de/"
+		"soundmark": "/ɪt/ /ɪz/ /'dɪfɪkəlt/ /tə/ /'fɪnɪʃ/ /ðə/ /wɝk/ /ɪn/ /ə/ /de/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"形容词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"冠词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			],
+			[
+				7,
+				7,
+				"介词"
+			],
+			[
+				8,
+				8,
+				"冠词"
+			],
+			[
+				9,
+				9,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				2,
+				"表语",
+				"ADJP"
+			],
+			[
+				3,
+				9,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "危险的",
 		"english": "dangerous",
-		"soundmark": "/'dendʒərəs/"
+		"soundmark": "/'dendʒərəs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "它是危险的",
 		"english": "it is dangerous",
-		"soundmark": "/ɪt/ /ɪz/ /'dendʒərəs/"
+		"soundmark": "/ɪt/ /ɪz/ /'dendʒərəs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				2,
+				"表语",
+				"ADJP"
+			]
+		]
 	},
 	{
 		"chinese": "游泳",
 		"english": "to swim",
-		"soundmark": "/tə/ /swɪm/"
+		"soundmark": "/tə/ /swɪm/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "大海",
 		"english": "the sea",
-		"soundmark": "/ðə/ /si/"
+		"soundmark": "/ðə/ /si/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在大海里",
 		"english": "in the sea",
-		"soundmark": "/ɪn/ /ðə/ /si/"
+		"soundmark": "/ɪn/ /ðə/ /si/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"冠词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在大海里游泳",
 		"english": "to swim in the sea",
-		"soundmark": "/tə/ /swɪm/ /ɪn/ /ðə/ /si/"
+		"soundmark": "/tə/ /swɪm/ /ɪn/ /ðə/ /si/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "在大海里游泳（它）是危险的",
 		"english": "it is dangerous to swim in the sea",
-		"soundmark": "/ɪt/ /ɪz/ /'dendʒərəs/ /tə/ /swɪm/ /ɪn/ /ðə/ /si/"
+		"soundmark": "/ɪt/ /ɪz/ /'dendʒərəs/ /tə/ /swɪm/ /ɪn/ /ðə/ /si/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"形容词"
+			],
+			[
+				3,
+				3,
+				"介词"
+			],
+			[
+				4,
+				4,
+				"动词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"冠词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				2,
+				"表语",
+				"ADJP"
+			],
+			[
+				3,
+				7,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "认为",
 		"english": "think",
-		"soundmark": "/θɪŋk/"
+		"soundmark": "/θɪŋk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"动词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "我认为",
 		"english": "I think",
-		"soundmark": "/aɪ/ /θɪŋk/"
+		"soundmark": "/aɪ/ /θɪŋk/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我认为在大海里游泳（它）是危险的",
 		"english": "I think it is dangerous to swim in the sea",
-		"soundmark": "/aɪ/ /θɪŋk/ /ɪt/ /ɪz/ /'dendʒərəs/ /tə/ /swɪm/ /ɪn/ /ðə/ /si/"
+		"soundmark": "/aɪ/ /θɪŋk/ /ɪt/ /ɪz/ /'dendʒərəs/ /tə/ /swɪm/ /ɪn/ /ðə/ /si/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"形容词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"动词"
+			],
+			[
+				7,
+				7,
+				"介词"
+			],
+			[
+				8,
+				8,
+				"冠词"
+			],
+			[
+				9,
+				9,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我不认为在大海里游泳（它）是危险的",
 		"english": "I don't think it is dangerous to swim in the sea",
-		"soundmark": "/aɪ/ /dont/ /θɪŋk/ /ɪt/ /ɪz/ /'dendʒərəs/ /tə/ /swɪm/ /ɪn/ /ðə/ /si/"
+		"soundmark": "/aɪ/ /dont/ /θɪŋk/ /ɪt/ /ɪz/ /'dendʒərəs/ /tə/ /swɪm/ /ɪn/ /ðə/ /si/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"代词"
+			],
+			[
+				5,
+				5,
+				"动词"
+			],
+			[
+				6,
+				6,
+				"形容词"
+			],
+			[
+				7,
+				7,
+				"介词"
+			],
+			[
+				8,
+				8,
+				"动词"
+			],
+			[
+				9,
+				9,
+				"介词"
+			],
+			[
+				10,
+				10,
+				"冠词"
+			],
+			[
+				11,
+				11,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				4,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我拒绝",
 		"english": "I refuse",
-		"soundmark": "/aɪ/ /ri'fjuz/"
+		"soundmark": "/aɪ/ /ri'fjuz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我拒绝在大海里游泳",
 		"english": "I refuse to swim in the sea",
-		"soundmark": "/aɪ/ /ri'fjuz/ /tə/ /swɪm/ /ɪn/ /ðə/ /si/"
+		"soundmark": "/aɪ/ /ri'fjuz/ /tə/ /swɪm/ /ɪn/ /ðə/ /si/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"冠词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "因为",
 		"english": "because",
-		"soundmark": "/bɪ'kɔz/"
+		"soundmark": "/bɪ'kɔz/",
+		"posTags": [
+			[
+				0,
+				0,
+				"连词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "因为它是危险的",
 		"english": "because it is dangerous",
-		"soundmark": "/bɪ'kɔz/ /ɪt/ /ɪz/ /'dendʒərəs/"
+		"soundmark": "/bɪ'kɔz/ /ɪt/ /ɪz/ /'dendʒərəs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"连词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我拒绝在大海里游泳因为它是危险的",
 		"english": "I refuse to swim in the sea because it is dangerous",
-		"soundmark": "/aɪ/ /ri'fjuz/ /tə/ /swɪm/ /ɪn/ /ðə/ /si/ /bɪ'kɔz/ /ɪt/ /ɪz/ /'dendʒərəs/"
+		"soundmark": "/aɪ/ /ri'fjuz/ /tə/ /swɪm/ /ɪn/ /ðə/ /si/ /bɪ'kɔz/ /ɪt/ /ɪz/ /'dendʒərəs/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"冠词"
+			],
+			[
+				6,
+				6,
+				"名词"
+			],
+			[
+				7,
+				7,
+				"连词"
+			],
+			[
+				8,
+				8,
+				"代词"
+			],
+			[
+				9,
+				9,
+				"动词"
+			],
+			[
+				10,
+				10,
+				"形容词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "接受",
 		"english": "to accept",
-		"soundmark": "/tə/ /ək'sɛpt/"
+		"soundmark": "/tə/ /ək'sɛpt/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "这个挑战",
 		"english": "the challenge",
-		"soundmark": "/ðə/ /'tʃælɪndʒ/"
+		"soundmark": "/ðə/ /'tʃælɪndʒ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "接受这个挑战",
 		"english": "to accept the challenge",
-		"soundmark": "/tə/ /ək'sɛpt/ /ðə/ /'tʃælɪndʒ/"
+		"soundmark": "/tə/ /ək'sɛpt/ /ðə/ /'tʃælɪndʒ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"不定式短语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我必须接受这个挑战",
 		"english": "I have to accept the challenge",
-		"soundmark": "/aɪ/ /hæv/ /tə/ /ək'sɛpt/ /ðə/ /'tʃælɪndʒ/"
+		"soundmark": "/aɪ/ /hæv/ /tə/ /ək'sɛpt/ /ðə/ /'tʃælɪndʒ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我（过去）必须接受这个挑战",
 		"english": "I had to accept the challenge",
-		"soundmark": "/aɪ/ /hæd/ /tə/ /ək'sɛpt/ /ðə/ /'tʃælɪndʒ/"
+		"soundmark": "/aɪ/ /hæd/ /tə/ /ək'sɛpt/ /ðə/ /'tʃælɪndʒ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"介词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我（过去）不必接受这个挑战",
 		"english": "I didn't have to accept the challenge",
-		"soundmark": "/aɪ/ /ˈdɪdnt/ /hæv/ /tə/ /ək'sɛpt/ /ðə/ /'tʃælɪndʒ/"
+		"soundmark": "/aɪ/ /ˈdɪdnt/ /hæv/ /tə/ /ək'sɛpt/ /ðə/ /'tʃælɪndʒ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"助动词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"动词"
+			],
+			[
+				6,
+				6,
+				"冠词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				4,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我接受这个挑战",
 		"english": "I accept the challenge",
-		"soundmark": "/aɪ/ /ək'sɛpt/ /ðə/ /'tʃælɪndʒ/"
+		"soundmark": "/aɪ/ /ək'sɛpt/ /ðə/ /'tʃælɪndʒ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我不接受这个挑战",
 		"english": "I don't accept the challenge",
-		"soundmark": "/aɪ/ /dont/ /ək'sɛpt/ /ðə/ /'tʃælɪndʒ/"
+		"soundmark": "/aɪ/ /dont/ /ək'sɛpt/ /ðə/ /'tʃælɪndʒ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				5,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我（过去）接受这个挑战",
 		"english": "I accepted the challenge",
-		"soundmark": "/aɪ/ /ək'sɛptɪd/ /ðə/ /'tʃælɪndʒ/"
+		"soundmark": "/aɪ/ /ək'sɛptɪd/ /ðə/ /'tʃælɪndʒ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我（过去）不接受这个挑战",
 		"english": "I didn't accept the challenge",
-		"soundmark": "/aɪ/ /ˈdɪdnt/ /ək'sɛpt/ /ðə/ /'tʃælɪndʒ/"
+		"soundmark": "/aɪ/ /ˈdɪdnt/ /ək'sɛpt/ /ðə/ /'tʃælɪndʒ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"助动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"动词"
+			],
+			[
+				4,
+				4,
+				"冠词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"谓语",
+				"VP"
+			],
+			[
+				4,
+				5,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "大的",
 		"english": "big",
-		"soundmark": "/bɪɡ/"
+		"soundmark": "/bɪɡ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "一个大的挑战",
 		"english": "a big challenge",
-		"soundmark": "/ə/ /bɪɡ/ /'tʃælɪndʒ/"
+		"soundmark": "/ə/ /bɪɡ/ /'tʃælɪndʒ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"形容词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				2,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "英语",
 		"english": "English",
-		"soundmark": "/ˈɪŋɡlɪʃ/"
+		"soundmark": "/ˈɪŋɡlɪʃ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"专有名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "英语是一个大的挑战",
 		"english": "English is a big challenge",
-		"soundmark": "/ˈɪŋɡlɪʃ/ /ɪz/ /ə/ /bɪɡ/ /'tʃælɪndʒ/"
+		"soundmark": "/ˈɪŋɡlɪʃ/ /ɪz/ /ə/ /bɪɡ/ /'tʃælɪndʒ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"专有名词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				4,
+				"表语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "对我来说",
 		"english": "for me",
-		"soundmark": "/fɝ/ /mi/"
+		"soundmark": "/fɝ/ /mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "英语是一个大的挑战对我来说",
 		"english": "English is a big challenge for me",
-		"soundmark": "/ˈɪŋɡlɪʃ/ /ɪz/ /ə/ /bɪɡ/ /'tʃælɪndʒ/ /fɝ/ /mi/"
+		"soundmark": "/ˈɪŋɡlɪʃ/ /ɪz/ /ə/ /bɪɡ/ /'tʃælɪndʒ/ /fɝ/ /mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"专有名词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"冠词"
+			],
+			[
+				3,
+				3,
+				"形容词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"介词"
+			],
+			[
+				6,
+				6,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"系动词",
+				"TP"
+			],
+			[
+				2,
+				4,
+				"表语",
+				"NP"
+			],
+			[
+				5,
+				6,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "英语不是一个大的挑战对我来说",
 		"english": "English is not a big challenge for me",
-		"soundmark": "/ˈɪŋɡlɪʃ/ /ɪz/ /nɑt/ /ə/ /bɪɡ/ /'tʃælɪndʒ/ /fɝ/ /mi/"
+		"soundmark": "/ˈɪŋɡlɪʃ/ /ɪz/ /nɑt/ /ə/ /bɪɡ/ /'tʃælɪndʒ/ /fɝ/ /mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"专有名词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"形容词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"介词"
+			],
+			[
+				7,
+				7,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"系动词",
+				"TP"
+			],
+			[
+				3,
+				5,
+				"表语",
+				"NP"
+			],
+			[
+				6,
+				7,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "掌握",
 		"english": "to master",
-		"soundmark": "/tə/ /'mæstɚ/"
+		"soundmark": "/tə/ /'mæstɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "英语",
 		"english": "English",
-		"soundmark": "/ˈɪŋɡlɪʃ/"
+		"soundmark": "/ˈɪŋɡlɪʃ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"专有名词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "掌握英语",
 		"english": "to master English",
-		"soundmark": "/tə/ /'mæstɚ/ /ˈɪŋɡlɪʃ/"
+		"soundmark": "/tə/ /'mæstɚ/ /ˈɪŋɡlɪʃ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			],
+			[
+				2,
+				2,
+				"专有名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我将会",
 		"english": "I will",
-		"soundmark": "/aɪ/ /wɪl/"
+		"soundmark": "/aɪ/ /wɪl/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我将会掌握英语",
 		"english": "I will master English",
-		"soundmark": "/aɪ/ /wɪl/ /'mæstɚ/ /ˈɪŋɡlɪʃ/"
+		"soundmark": "/aɪ/ /wɪl/ /'mæstɚ/ /ˈɪŋɡlɪʃ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"专有名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "将来",
 		"english": "the future",
-		"soundmark": "/ðə/ /'fjʊtʃɚ/"
+		"soundmark": "/ðə/ /'fjʊtʃɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"冠词"
+			],
+			[
+				1,
+				1,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				1,
+				"主语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "在将来",
 		"english": "in the future",
-		"soundmark": "/ɪn/ /ðə/ /'fjʊtʃɚ/"
+		"soundmark": "/ɪn/ /ðə/ /'fjʊtʃɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"冠词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "不远的",
 		"english": "near",
-		"soundmark": "/nɪr/"
+		"soundmark": "/nɪr/",
+		"posTags": [
+			[
+				0,
+				0,
+				"形容词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "在不远的将来",
 		"english": "in the near future",
-		"soundmark": "/ɪn/ /ðə/ /nɪr/ /'fjʊtʃɚ/"
+		"soundmark": "/ɪn/ /ðə/ /nɪr/ /'fjʊtʃɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"介词"
+			],
+			[
+				1,
+				1,
+				"冠词"
+			],
+			[
+				2,
+				2,
+				"形容词"
+			],
+			[
+				3,
+				3,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				3,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "我将会在不远的将来掌握英语",
 		"english": "I will master English in the near future",
-		"soundmark": "/aɪ/ /wɪl/ /'mæstɚ/ /ˈɪŋɡlɪʃ/ /ɪn/ /ðə/ /nɪr/ /'fjʊtʃɚ/"
+		"soundmark": "/aɪ/ /wɪl/ /'mæstɚ/ /ˈɪŋɡlɪʃ/ /ɪn/ /ðə/ /nɪr/ /'fjʊtʃɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"情态动词"
+			],
+			[
+				2,
+				2,
+				"名词"
+			],
+			[
+				3,
+				3,
+				"专有名词"
+			],
+			[
+				4,
+				4,
+				"介词"
+			],
+			[
+				5,
+				5,
+				"冠词"
+			],
+			[
+				6,
+				6,
+				"形容词"
+			],
+			[
+				7,
+				7,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				3,
+				"宾语",
+				"NP"
+			],
+			[
+				4,
+				7,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "我知道",
 		"english": "I know",
-		"soundmark": "/aɪ/ /no/"
+		"soundmark": "/aɪ/ /no/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			]
+		]
 	},
 	{
 		"chinese": "我知道我将会在不远的将来掌握英语",
 		"english": "I know I will master English in the near future",
-		"soundmark": "/aɪ/ /no/ /aɪ/ /wɪl/ /'mæstɚ/ /ˈɪŋɡlɪʃ/ /ɪn/ /ðə/ /nɪr/ /'fjʊtʃɚ/"
+		"soundmark": "/aɪ/ /no/ /aɪ/ /wɪl/ /'mæstɚ/ /ˈɪŋɡlɪʃ/ /ɪn/ /ðə/ /nɪr/ /'fjʊtʃɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"代词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"代词"
+			],
+			[
+				3,
+				3,
+				"情态动词"
+			],
+			[
+				4,
+				4,
+				"名词"
+			],
+			[
+				5,
+				5,
+				"专有名词"
+			],
+			[
+				6,
+				6,
+				"介词"
+			],
+			[
+				7,
+				7,
+				"冠词"
+			],
+			[
+				8,
+				8,
+				"形容词"
+			],
+			[
+				9,
+				9,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"谓语",
+				"VP"
+			],
+			[
+				2,
+				2,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "而且",
 		"english": "and",
-		"soundmark": "/ənd/"
+		"soundmark": "/ənd/",
+		"posTags": [
+			[
+				0,
+				0,
+				"连词"
+			]
+		],
+		"syntaxTags": []
 	},
 	{
 		"chinese": "而且我知道我将会在不远的将来掌握英语",
 		"english": "and I know I will master english in the near future",
-		"soundmark": "/ənd/ /aɪ/ /no/ /aɪ/ /wɪl/ /'mæstɚ/ /ˈɪŋɡlɪʃ/ /ɪn/ /ðə/ /nɪr/ /'fjʊtʃɚ/"
+		"soundmark": "/ənd/ /aɪ/ /no/ /aɪ/ /wɪl/ /'mæstɚ/ /ˈɪŋɡlɪʃ/ /ɪn/ /ðə/ /nɪr/ /'fjʊtʃɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"连词"
+			],
+			[
+				1,
+				1,
+				"代词"
+			],
+			[
+				2,
+				2,
+				"动词"
+			],
+			[
+				3,
+				3,
+				"代词"
+			],
+			[
+				4,
+				4,
+				"情态动词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"专有名词"
+			],
+			[
+				7,
+				7,
+				"介词"
+			],
+			[
+				8,
+				8,
+				"冠词"
+			],
+			[
+				9,
+				9,
+				"形容词"
+			],
+			[
+				10,
+				10,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				1,
+				"宾语",
+				"NP"
+			]
+		]
 	},
 	{
 		"chinese": "英语不是一个大的挑战对我来说",
 		"english": "English is not a big challenge for me",
-		"soundmark": "/ˈɪŋɡlɪʃ/ /ɪz/ /nɑt/ /ə/ /bɪɡ/ /'tʃælɪndʒ/ /fɝ/ /mi/"
+		"soundmark": "/ˈɪŋɡlɪʃ/ /ɪz/ /nɑt/ /ə/ /bɪɡ/ /'tʃælɪndʒ/ /fɝ/ /mi/",
+		"posTags": [
+			[
+				0,
+				0,
+				"专有名词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"形容词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"介词"
+			],
+			[
+				7,
+				7,
+				"代词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"系动词",
+				"TP"
+			],
+			[
+				3,
+				5,
+				"表语",
+				"NP"
+			],
+			[
+				6,
+				7,
+				"状语",
+				"PP"
+			]
+		]
 	},
 	{
 		"chinese": "英语不是一个大的挑战对我来说而且我知道我将会在不远的将来掌握英语",
 		"english": "English is not a big challenge for me and I know I will master english in the near future",
-		"soundmark": "/ˈɪŋɡlɪʃ/ /ɪz/ /nɑt/ /ə/ /bɪɡ/ /'tʃælɪndʒ/ /fɝ/ /mi/ /ənd/ /aɪ/ /no/ /aɪ/ /wɪl/ /'mæstɚ/ /ˈɪŋɡlɪʃ/ /ɪn/ /ðə/ /nɪr/ /'fjʊtʃɚ/"
+		"soundmark": "/ˈɪŋɡlɪʃ/ /ɪz/ /nɑt/ /ə/ /bɪɡ/ /'tʃælɪndʒ/ /fɝ/ /mi/ /ənd/ /aɪ/ /no/ /aɪ/ /wɪl/ /'mæstɚ/ /ˈɪŋɡlɪʃ/ /ɪn/ /ðə/ /nɪr/ /'fjʊtʃɚ/",
+		"posTags": [
+			[
+				0,
+				0,
+				"专有名词"
+			],
+			[
+				1,
+				1,
+				"动词"
+			],
+			[
+				2,
+				2,
+				"副词"
+			],
+			[
+				3,
+				3,
+				"冠词"
+			],
+			[
+				4,
+				4,
+				"形容词"
+			],
+			[
+				5,
+				5,
+				"名词"
+			],
+			[
+				6,
+				6,
+				"介词"
+			],
+			[
+				7,
+				7,
+				"代词"
+			],
+			[
+				8,
+				8,
+				"连词"
+			],
+			[
+				9,
+				9,
+				"代词"
+			],
+			[
+				10,
+				10,
+				"动词"
+			],
+			[
+				11,
+				11,
+				"代词"
+			],
+			[
+				12,
+				12,
+				"情态动词"
+			],
+			[
+				13,
+				13,
+				"名词"
+			],
+			[
+				14,
+				14,
+				"专有名词"
+			],
+			[
+				15,
+				15,
+				"介词"
+			],
+			[
+				16,
+				16,
+				"冠词"
+			],
+			[
+				17,
+				17,
+				"形容词"
+			],
+			[
+				18,
+				18,
+				"名词"
+			]
+		],
+		"syntaxTags": [
+			[
+				0,
+				0,
+				"主语",
+				"NP"
+			],
+			[
+				1,
+				2,
+				"系动词",
+				"TP"
+			],
+			[
+				3,
+				5,
+				"表语",
+				"NP"
+			],
+			[
+				6,
+				18,
+				"状语",
+				"PP"
+			]
+		]
 	}
 ]

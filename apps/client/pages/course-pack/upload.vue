@@ -195,8 +195,12 @@
 
     <!-- 上传区域 -->
     <div
-      class="group cursor-pointer rounded-2xl border border-dashed border-white/[0.12] bg-white/[0.02] p-12 text-center transition-all duration-300 hover:border-purple-500/30 hover:bg-white/[0.04]"
+      class="group rounded-2xl border border-dashed border-white/[0.12] bg-white/[0.02] p-12 text-center transition-all duration-300 hover:border-purple-500/30 hover:bg-white/[0.04]"
+      :class="isDragOver ? 'border-purple-500/50 bg-purple-500/5' : ''"
       @click="triggerFileInput"
+      @dragover.prevent="onDragOver"
+      @dragleave.prevent="onDragLeave"
+      @drop.prevent="onDrop"
     >
       <input
         ref="fileInput"
@@ -377,6 +381,8 @@ import JSZip from "jszip";
 import { ref } from "vue";
 import { toast } from "vue-sonner";
 
+import { getHttp } from "~/api/http";
+
 interface CourseUnit {
   title: string;
   description: string;
@@ -396,12 +402,36 @@ interface CoursePackInfo {
 const fileInput = ref<HTMLInputElement | null>(null);
 const isProcessing = ref(false);
 const isUploading = ref(false);
+const isDragOver = ref(false);
 const coursePackInfo = ref<CoursePackInfo | null>(null);
 const errorMessage = ref("");
 const showFormatGuide = ref(false);
 
 function triggerFileInput() {
   fileInput.value?.click();
+}
+
+function onDragOver() {
+  isDragOver.value = true;
+}
+
+function onDragLeave() {
+  isDragOver.value = false;
+}
+
+function onDrop(event: DragEvent) {
+  isDragOver.value = false;
+  const file = event.dataTransfer?.files[0];
+  if (!file) return;
+  if (!file.name.endsWith(".zip")) {
+    errorMessage.value = "请上传 .zip 格式的文件";
+    return;
+  }
+  errorMessage.value = "";
+  isProcessing.value = true;
+  parseZipFile(file).finally(() => {
+    isProcessing.value = false;
+  });
 }
 
 async function handleFileSelect(event: Event) {
@@ -452,7 +482,12 @@ async function parseZipFile(file: File) {
   }
 
   const dataFiles = Object.keys(zipContent.files)
-    .filter((name) => name.includes("/data/") && name.endsWith(".json"))
+    .filter(
+      (name) =>
+        !zipContent.files[name].dir &&
+        name.endsWith(".json") &&
+        (name.includes("/data/") || name.startsWith("data/")),
+    )
     .sort();
 
   if (dataFiles.length === 0) {
@@ -470,7 +505,8 @@ async function parseZipFile(file: File) {
     // 兼容新旧格式：新格式为 { title, description, data: [] }，旧格式为 []
     const isNewFormat = !Array.isArray(parsed) && parsed.data;
     const unitData = isNewFormat ? parsed.data : parsed;
-    const unitTitle = isNewFormat && parsed.title ? parsed.title : `第${fileName.replace(".json", "")}单元`;
+    const unitTitle =
+      isNewFormat && parsed.title ? parsed.title : `第${fileName.replace(".json", "")}单元`;
     const unitDescription = isNewFormat && parsed.description ? parsed.description : "";
 
     courses.push({
@@ -514,7 +550,8 @@ async function handleUpload() {
   isUploading.value = true;
 
   try {
-    const response = await $fetch("/api/course-pack/upload", {
+    const http = getHttp();
+    const response = await http("/course-pack/upload", {
       method: "POST",
       body: coursePackInfo.value,
     });
