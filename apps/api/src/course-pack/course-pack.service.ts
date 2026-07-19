@@ -1,8 +1,7 @@
 import { Inject, Injectable, NotFoundException } from "@nestjs/common";
 import { and, asc, eq, or } from "drizzle-orm";
 
-import { createCoursePack } from "@earthworm/game-data-sdk";
-import { course, coursePack } from "@earthworm/schema";
+import { course, coursePack, statement } from "@earthworm/schema";
 import { CourseHistoryService } from "../course-history/course-history.service";
 import { CourseService } from "../course/course.service";
 import { DB, DbType } from "../global/providers/db.provider";
@@ -166,34 +165,72 @@ export class CoursePackService {
   }
 
   async uploadCoursePack(userId: string, uploadDto: UploadCoursePackDto) {
-    // 转换上传的数据格式为 CreateCoursePack 格式
-    const coursePackData = {
+    // 计算当前用户的课程包最大 order
+    const existingPacks = await this.db.query.coursePack.findMany({
+      where: eq(coursePack.creatorId, userId),
+      orderBy: asc(coursePack.order),
+    });
+    const nextOrder =
+      existingPacks.length > 0 ? Math.max(...existingPacks.map((p) => p.order)) + 1 : 1;
+
+    // 插入课程包
+    await this.db.insert(coursePack).values({
+      order: nextOrder,
       title: uploadDto.title,
       description: uploadDto.description,
-      cover: "", // 可以后续添加封面上传功能
-      uId: userId,
-      shareLevel: "private", // 默认为私有，用户可以后续修改
-      courses: uploadDto.courses.map((courseUnit) => ({
+      creatorId: userId,
+      shareLevel: "public",
+      isFree: true,
+      cover: "",
+    });
+
+    // 查询刚插入的课程包
+    const [coursePackEntity] = await this.db
+      .select()
+      .from(coursePack)
+      .where(and(eq(coursePack.creatorId, userId), eq(coursePack.title, uploadDto.title)))
+      .orderBy(asc(coursePack.order))
+      .limit(1);
+
+    const courseIds: string[] = [];
+
+    // 逐个插入 course 和 statement
+    for (const [index, courseUnit] of uploadDto.courses.entries()) {
+      await this.db.insert(course).values({
+        coursePackId: coursePackEntity.id,
+        order: index + 1,
         title: courseUnit.title,
         description: courseUnit.description,
-        learningContent: "", // 可以从课程规划文档中提取
-        statements: courseUnit.data.map((item) => ({
-          english: item.english,
-          chinese: item.chinese,
-          phonetic: item.soundmark,
-          posTags: item.posTags,
-          syntaxTags: item.syntaxTags,
-        })),
-      })),
-    };
+      });
 
-    // 调用 game-data-sdk 的 createCoursePack 函数
-    const result = await createCoursePack(coursePackData);
+      const [courseEntity] = await this.db
+        .select({ id: course.id })
+        .from(course)
+        .where(and(eq(course.coursePackId, coursePackEntity.id), eq(course.order, index + 1)))
+        .limit(1);
+
+      courseIds.push(courseEntity.id);
+
+      // 插入 statements
+      const statementInserts = courseUnit.data.map((item, sIndex) =>
+        this.db.insert(statement).values({
+          chinese: item.chinese,
+          english: item.english,
+          soundmark: item.soundmark || "",
+          posTags: item.posTags ? JSON.stringify(item.posTags) : null,
+          syntaxTags: item.syntaxTags ? JSON.stringify(item.syntaxTags) : null,
+          order: sIndex + 1,
+          courseId: courseEntity.id,
+        }),
+      );
+
+      await Promise.all(statementInserts);
+    }
 
     return {
       success: true,
-      coursePackId: result.coursePackId,
-      courseIds: result.courseIds,
+      coursePackId: coursePackEntity.id,
+      courseIds,
       message: "课程包上传成功",
     };
   }

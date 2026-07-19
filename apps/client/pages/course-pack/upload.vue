@@ -196,11 +196,11 @@
     <!-- 上传区域 -->
     <div
       class="group rounded-2xl border border-dashed border-white/[0.12] bg-white/[0.02] p-12 text-center transition-all duration-300 hover:border-purple-500/30 hover:bg-white/[0.04]"
-      :class="isDragOver ? 'border-purple-500/50 bg-purple-500/5' : ''"
+      :class="isDragging ? 'border-purple-500/50 bg-purple-500/5' : ''"
       @click="triggerFileInput"
-      @dragover.prevent="onDragOver"
-      @dragleave.prevent="onDragLeave"
-      @drop.prevent="onDrop"
+      @dragover.prevent="isDragging = true"
+      @dragleave.prevent="isDragging = false"
+      @drop.prevent="handleDrop"
     >
       <input
         ref="fileInput"
@@ -211,7 +211,8 @@
       />
       <UIcon
         name="i-ph-cloud-arrow-up"
-        class="mx-auto mb-4 h-12 w-12 text-gray-600 transition-colors group-hover:text-purple-400"
+        class="mx-auto mb-4 h-12 w-12 transition-colors"
+        :class="isDragging ? 'text-purple-400' : 'text-gray-600 group-hover:text-purple-400'"
       ></UIcon>
       <p class="text-base font-medium text-gray-400">点击或拖拽上传课程包文件</p>
       <p class="mt-2 text-sm text-gray-600">支持 .zip 格式</p>
@@ -379,9 +380,12 @@
 <script setup lang="ts">
 import JSZip from "jszip";
 import { ref } from "vue";
+import { useRouter } from "vue-router";
 import { toast } from "vue-sonner";
 
-import { getHttp } from "~/api/http";
+import { uploadCoursePack } from "~/api/course-pack-upload";
+
+const router = useRouter();
 
 interface CourseUnit {
   title: string;
@@ -402,7 +406,7 @@ interface CoursePackInfo {
 const fileInput = ref<HTMLInputElement | null>(null);
 const isProcessing = ref(false);
 const isUploading = ref(false);
-const isDragOver = ref(false);
+const isDragging = ref(false);
 const coursePackInfo = ref<CoursePackInfo | null>(null);
 const errorMessage = ref("");
 const showFormatGuide = ref(false);
@@ -411,27 +415,24 @@ function triggerFileInput() {
   fileInput.value?.click();
 }
 
-function onDragOver() {
-  isDragOver.value = true;
-}
+async function handleDrop(event: DragEvent) {
+  isDragging.value = false;
+  const files = event.dataTransfer?.files;
+  const file = files?.[0];
 
-function onDragLeave() {
-  isDragOver.value = false;
-}
-
-function onDrop(event: DragEvent) {
-  isDragOver.value = false;
-  const file = event.dataTransfer?.files[0];
   if (!file) return;
-  if (!file.name.endsWith(".zip")) {
-    errorMessage.value = "请上传 .zip 格式的文件";
-    return;
-  }
+
   errorMessage.value = "";
   isProcessing.value = true;
-  parseZipFile(file).finally(() => {
+
+  try {
+    await parseZipFile(file);
+  } catch (error: any) {
+    errorMessage.value = error.message || "解析课程包失败";
+    console.error("解析错误:", error);
+  } finally {
     isProcessing.value = false;
-  });
+  }
 }
 
 async function handleFileSelect(event: Event) {
@@ -481,17 +482,34 @@ async function parseZipFile(file: File) {
     coursePackName = firstFolder ? firstFolder.split("/")[0] : file.name.replace(".zip", "");
   }
 
+  // 支持多种可能的 data 目录路径格式
   const dataFiles = Object.keys(zipContent.files)
-    .filter(
-      (name) =>
-        !zipContent.files[name].dir &&
-        name.endsWith(".json") &&
-        (name.includes("/data/") || name.startsWith("data/")),
-    )
-    .sort();
+    .filter((name) => {
+      const lowerName = name.toLowerCase();
+      const isJsonFile = name.endsWith(".json");
+      // 支持 data/, Data/, DATA/ 等各种情况
+      const hasDataFolder =
+        lowerName.includes("/data/") ||
+        (lowerName.includes("data/") && lowerName.startsWith("data/"));
+      return hasDataFolder && isJsonFile && !zipContent.files[name].dir;
+    })
+    .sort((a, b) => {
+      // 按文件名中的数字排序
+      const aNum = parseInt(a.match(/(\d+)/)?.[1] || "0", 10);
+      const bNum = parseInt(b.match(/(\d+)/)?.[1] || "0", 10);
+      return aNum - bNum;
+    });
 
   if (dataFiles.length === 0) {
-    throw new Error("未找到课程数据文件（data/*.json）");
+    // 提供更详细的错误信息来帮助调试
+    const allJsonFiles = Object.keys(zipContent.files).filter(
+      (name) => name.endsWith(".json") && !zipContent.files[name].dir,
+    );
+    const debugMsg =
+      allJsonFiles.length > 0
+        ? `找到 JSON 文件，但路径不符合要求。期望路径格式为 data/*.json，找到的 JSON 文件：${allJsonFiles.join(", ")}`
+        : "未找到课程数据文件（data/*.json）";
+    throw new Error(debugMsg);
   }
 
   const courses: CourseUnit[] = [];
@@ -548,22 +566,36 @@ async function handleUpload() {
   if (!coursePackInfo.value) return;
 
   isUploading.value = true;
+  errorMessage.value = "";
 
   try {
-    const http = getHttp();
-    const response = await http("/course-pack/upload", {
-      method: "POST",
-      body: coursePackInfo.value,
-    });
+    // 准备要发送的数据，去掉前端展示用的字段
+    const uploadData = {
+      name: coursePackInfo.value.name,
+      title: coursePackInfo.value.title,
+      description: coursePackInfo.value.description,
+      courses: coursePackInfo.value.courses.map((course) => ({
+        title: course.title,
+        description: course.description,
+        dataFile: course.dataFile,
+        data: course.data,
+      })),
+    };
 
+    console.log("发送上传请求:", uploadData);
+    const response = await uploadCoursePack(uploadData);
+
+    console.log("上传响应:", response);
     toast.success("课程包上传成功！");
 
     setTimeout(() => {
-      navigateTo("/course-pack");
-    }, 1000);
+      router.push("/course-pack");
+    }, 1500);
   } catch (error: any) {
-    errorMessage.value = error.data?.message || error.message || "上传失败";
-    toast.error("上传失败");
+    console.error("上传错误:", error);
+    const errorMsg = error?.message || error?.toString() || "上传失败，请检查网络连接和文件格式";
+    errorMessage.value = errorMsg;
+    toast.error(errorMsg);
   } finally {
     isUploading.value = false;
   }
@@ -575,6 +607,7 @@ async function handleUpload() {
 .fade-leave-active {
   transition: opacity 0.2s ease;
 }
+
 .fade-enter-from,
 .fade-leave-to {
   opacity: 0;

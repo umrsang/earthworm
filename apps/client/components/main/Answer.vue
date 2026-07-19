@@ -2,8 +2,8 @@
   <div class="text-center">
     <MainSyntaxAnnotation
       :tokens="words.map((w) => ({ word: w }))"
-      :pos-tags="[]"
-      :syntax-tags="[]"
+      :pos-tags="parsedPosTags"
+      :syntax-tags="parsedSyntaxTags"
       :chinese="courseStore.currentStatement?.chinese ?? ''"
       :soundmark="courseStore.currentStatement?.soundmark ?? ''"
     />
@@ -48,6 +48,37 @@ const { isAutoPlaySound } = useAutoPronunciation();
 const { goToNextQuestion } = useAnswer();
 
 const words = computed(() => courseStore.currentStatement?.english.split(" "));
+
+interface Tag {
+  start: number;
+  end: number;
+  label: string;
+  type?: string;
+}
+
+function parseRawTags(raw: any): Tag[] {
+  if (!raw) return [];
+  let arr = raw;
+  if (typeof arr === "string") {
+    try {
+      arr = JSON.parse(arr);
+    } catch {
+      return [];
+    }
+  }
+  if (!Array.isArray(arr)) return [];
+  return arr.map((item: any[]) => ({
+    start: item[0],
+    end: item[1],
+    label: item[2],
+    type: item[3],
+  }));
+}
+
+const parsedPosTags = computed(() => parseRawTags((courseStore.currentStatement as any)?.posTags));
+const parsedSyntaxTags = computed(() =>
+  parseRawTags((courseStore.currentStatement as any)?.syntaxTags),
+);
 
 registerShortcutKeyForNextQuestion();
 

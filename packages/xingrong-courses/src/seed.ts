@@ -82,7 +82,11 @@ const courses = fs.readdirSync(path.resolve(__dirname, "../data/courses"));
       let order = 1;
       const statementInsertTask = statementList.map(async (statement) => {
         return await db.insert(statementSchema).values({
-          ...statement,
+          chinese: statement.chinese,
+          english: statement.english,
+          soundmark: statement.soundmark,
+          posTags: statement.posTags,
+          syntaxTags: statement.syntaxTags,
           order: order++,
           courseId,
         });

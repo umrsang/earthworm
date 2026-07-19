@@ -51,9 +51,9 @@ export class CoursePackController {
     return this.coursePackService.completeCourse(user.userId, coursePackId, courseId);
   }
 
-  @UseGuards(AuthGuard)
+  // @UseGuards(AuthGuard)
   @Post("upload")
-  async uploadCoursePack(@User() user: UserEntity, @Body() uploadDto: UploadCoursePackDto) {
-    return await this.coursePackService.uploadCoursePack(user.userId, uploadDto);
+  async uploadCoursePack(@Body() uploadDto: UploadCoursePackDto) {
+    return await this.coursePackService.uploadCoursePack("anonymous", uploadDto);
   }
 }

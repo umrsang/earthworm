@@ -50,7 +50,21 @@ export function usePronunciation() {
   }
 
   function getPronunciationUrl(english: string | undefined): string {
-    return `https://dict.youdao.com/dictvoice?type=${getPronunciationType()}&audio=${english}`;
+    // 有道对连字符和缩写形式（I'm, don't 等）会返回 500
+    // 替换连字符为空格，展开常见缩写
+    let sanitized = english || "";
+    sanitized = sanitized.replace(/-/g, " ");
+    sanitized = sanitized.replace(/(\w)'m\b/gi, "$1 am");
+    sanitized = sanitized.replace(/(\w)'re\b/gi, "$1 are");
+    sanitized = sanitized.replace(/(\w)'s\b/gi, "$1 is");
+    sanitized = sanitized.replace(/(\w)'ll\b/gi, "$1 will");
+    sanitized = sanitized.replace(/(\w)'ve\b/gi, "$1 have");
+    sanitized = sanitized.replace(/(\w)'d\b/gi, "$1 would");
+    sanitized = sanitized.replace(/(\w)n't\b/gi, "$1 not");
+    sanitized = sanitized.replace(/let's\b/gi, "let us");
+    // 去掉剩余的撇号
+    sanitized = sanitized.replace(/'/g, "");
+    return `https://dict.youdao.com/dictvoice?type=${getPronunciationType()}&audio=${sanitized}`;
   }
 
   // 切换发音

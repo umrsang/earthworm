@@ -1,12 +1,30 @@
 import { usePronunciation } from "~/composables/user/pronunciation";
 
+// 浏览器 SpeechSynthesis 降级播放
+function speakWithSynthesis(text: string) {
+  if (typeof window === "undefined" || !window.speechSynthesis) return;
+  const utterance = new SpeechSynthesisUtterance(text);
+  utterance.lang = "en-US";
+  utterance.rate = 1;
+  window.speechSynthesis.speak(utterance);
+}
+
 // 便于测试
 // 后面不使用 audio 后也可以不破坏业务逻辑
 const audio = new Audio();
-export function updateSource(src: string) {
+let currentText = "";
+export function updateSource(src: string, text?: string) {
   audio.src = src;
+  currentText = text || "";
   audio.load();
 }
+
+// 有道 TTS 失败时降级到浏览器语音合成
+audio.onerror = () => {
+  if (currentText) {
+    speakWithSynthesis(currentText);
+  }
+};
 
 const { getPronunciationUrl } = usePronunciation();
 export function usePlayWordSound() {
@@ -20,6 +38,13 @@ export function usePlayWordSound() {
 
   wordAudio.onended = () => {
     isPlaying = false;
+  };
+
+  wordAudio.onerror = () => {
+    isPlaying = false;
+    if (lastWord) {
+      speakWithSynthesis(lastWord);
+    }
   };
 
   function handlePlayWordSound(word: string) {

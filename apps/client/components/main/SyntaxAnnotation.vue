@@ -56,7 +56,7 @@
         <path
           :d="curlyBracket(tag)"
           fill="none"
-          :stroke="tagStroke(tag.type)"
+          :stroke="tagStroke(tag)"
           stroke-width="1.8"
           stroke-linecap="round"
           stroke-linejoin="round"
@@ -68,7 +68,7 @@
           dominant-baseline="middle"
           font-size="11"
           font-weight="600"
-          :fill="tagStroke(tag.type)"
+          :fill="tagStroke(tag)"
         >
           {{ tag.label }}
         </text>
@@ -79,25 +79,6 @@
   <!-- 音标 + 中文 -->
   <div class="mt-4 text-center text-sm text-gray-500">{{ props.soundmark }}</div>
   <div class="mt-1 text-center text-base text-gray-400">{{ props.chinese }}</div>
-
-  <!-- 图例 -->
-  <div
-    v-if="props.syntaxTags.length"
-    class="mt-4 flex flex-wrap justify-center gap-2"
-  >
-    <span
-      v-for="tag in props.syntaxTags"
-      :key="tag.label"
-      class="flex items-center gap-1.5 rounded-full px-3 py-1 text-xs font-medium"
-      :style="{ background: tagBg(tag.type), color: tagStroke(tag.type) }"
-    >
-      <span
-        class="inline-block h-2 w-2 rounded-full"
-        :style="{ background: tagStroke(tag.type) }"
-      ></span>
-      {{ tag.label }}
-    </span>
-  </div>
 </template>
 
 <script setup lang="ts">
@@ -141,13 +122,8 @@ function wordPxW(word: string): number {
 
 // ─── 列宽 ─────────────────────────────────────────────────────────────────────
 function colW(word: string): number {
-  const l = word.length;
-  if (l <= 1) return 60;
-  if (l <= 2) return 76;
-  if (l <= 3) return 96;
-  if (l <= 5) return 118;
-  if (l <= 7) return 140;
-  return 162;
+  // 基于实际像素宽度 + padding，确保长单词不会贴在一起
+  return wordPxW(word) + 32;
 }
 
 function colLeft(idx: number): number {
@@ -218,27 +194,31 @@ function curlyBracket(tag: Tag): string {
 }
 
 // ─── 颜色 ─────────────────────────────────────────────────────────────────────
-const palette: Record<string, { stroke: string; word: string; bg: string }> = {
-  NP: { stroke: "#fbbf24", word: "#fde68a", bg: "rgba(251,191,36,0.13)" },
-  VP: { stroke: "#c084fc", word: "#e9d5ff", bg: "rgba(192,132,252,0.13)" },
-  PP: { stroke: "#22d3ee", word: "#a5f3fc", bg: "rgba(34,211,238,0.13)" },
-  ADVP: { stroke: "#34d399", word: "#a7f3d0", bg: "rgba(52,211,153,0.13)" },
-  TP: { stroke: "#fb923c", word: "#fed7aa", bg: "rgba(251,146,60,0.13)" },
+// 按句法角色（label）分配颜色，避免同 type 但不同角色撞色
+const labelPalette: Record<string, { stroke: string; word: string; bg: string }> = {
+  主语: { stroke: "#fbbf24", word: "#fde68a", bg: "rgba(251,191,36,0.13)" },
+  谓语: { stroke: "#c084fc", word: "#e9d5ff", bg: "rgba(192,132,252,0.13)" },
+  宾语: { stroke: "#22d3ee", word: "#a5f3fc", bg: "rgba(34,211,238,0.13)" },
+  表语: { stroke: "#34d399", word: "#a7f3d0", bg: "rgba(52,211,153,0.13)" },
+  状语: { stroke: "#fb923c", word: "#fed7aa", bg: "rgba(251,146,60,0.13)" },
+  定语: { stroke: "#f472b6", word: "#fbcfe8", bg: "rgba(244,114,182,0.13)" },
+  补语: { stroke: "#a78bfa", word: "#ddd6fe", bg: "rgba(167,139,250,0.13)" },
 };
 const fallback = { stroke: "#a5b4fc", word: "#ffffff", bg: "rgba(165,180,252,0.13)" };
 
-function tagStroke(type?: string) {
-  return (type && palette[type]?.stroke) || fallback.stroke;
+function getTagColor(tag: Tag) {
+  return labelPalette[tag.label] || fallback;
 }
-function tagBg(type?: string) {
-  return (type && palette[type]?.bg) || fallback.bg;
+
+function tagStroke(tag: Tag) {
+  return getTagColor(tag).stroke;
 }
 
 function wordColor(idx: number): string {
   const matches = props.syntaxTags.filter((t) => t.start <= idx && idx <= t.end);
   if (!matches.length) return "#ffffff";
   const smallest = matches.reduce((a, b) => (a.end - a.start <= b.end - b.start ? a : b));
-  return (smallest.type && palette[smallest.type]?.word) || "#ffffff";
+  return getTagColor(smallest).word;
 }
 
 // ─── 工具 ─────────────────────────────────────────────────────────────────────

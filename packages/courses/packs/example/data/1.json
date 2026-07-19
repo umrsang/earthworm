@@ -47,9 +47,9 @@
       ]
     },
     {
-      "english": "I'm twenty-five years old",
-      "chinese": "我二十五岁",
-      "soundmark": "/aɪm ˈtwentɪfaɪv jɪəz əʊld/",
+      "english": "I'm five years old",
+      "chinese": "我五岁",
+      "soundmark": "/aɪm faɪv jɪəz əʊld/",
       "posTags": [
         [0, 0, "代词"],
         [1, 1, "数词"],
