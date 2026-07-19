@@ -108,7 +108,7 @@ import { useLearningTimeTracker } from "~/composables/main/learningTimeTracker";
 import { useShareModal } from "~/composables/main/shareImage/share";
 import { useDailySentence, useSummary } from "~/composables/main/summary";
 import { useNavigation } from "~/composables/useNavigation";
-import { isAuthenticated, signIn } from "~/services/auth";
+import { isAuthenticated } from "~/services/auth";
 import { useCourseStore } from "~/store/course";
 import { useCoursePackStore } from "~/store/coursePack";
 import { useGameStore } from "~/store/game";
@@ -221,7 +221,7 @@ function useCourse() {
         async onConfirm() {
           courseStore.resetStatementIndex();
           showQuestion();
-          signIn();
+          navigateTo("/callback");
         },
       });
 

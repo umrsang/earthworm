@@ -1,10 +1,8 @@
-import { getRedisConnectionToken } from "@nestjs-modules/ioredis";
 import { INestApplication } from "@nestjs/common";
 import { Test, TestingModule } from "@nestjs/testing";
-import { Redis } from "ioredis";
 import * as request from "supertest";
 
-import { createLogtoUser } from "../../../test/fixture/user";
+import { createTestUser } from "../../../test/fixture/user";
 import { cleanDB, signin } from "../../../test/helper/utils";
 import { AppModule } from "../../app/app.module";
 import { appGlobalMiddleware } from "../../app/useGlobal";
@@ -14,7 +12,6 @@ import { DB, DbType } from "../../global/providers/db.provider";
 describe("rank e2e", () => {
   let app: INestApplication;
   let db: DbType;
-  let redis: Redis;
   let token: string;
 
   beforeEach(async () => {
@@ -25,16 +22,14 @@ describe("rank e2e", () => {
     app = moduleFixture.createNestApplication();
     appGlobalMiddleware(app);
     db = moduleFixture.get<DbType>(DB);
-    redis = moduleFixture.get<Redis>(getRedisConnectionToken());
 
     await app.init();
     await cleanDB(db);
-    await setupDBData(moduleFixture, redis);
+    await setupDBData(moduleFixture);
     token = await signin(moduleFixture);
   });
 
   afterEach(async () => {
-    await redis.flushdb();
     await cleanDB(db);
     await endDB();
     await app.close();
@@ -59,7 +54,7 @@ describe("rank e2e", () => {
       });
   });
 
-  it("get: /rank/progress/weekly", async () => {
+  it("get: /rank/progress/weekly has self", async () => {
     await request(app.getHttpServer())
       .get("/rank/progress/weekly")
       .set("Authorization", `Bearer ${token}`)
@@ -73,8 +68,18 @@ describe("rank e2e", () => {
   });
 });
 
-async function setupDBData(builder: TestingModule, redis: Redis) {
-  const { userId } = await createLogtoUser(builder, "xiaoming");
-  const FINISH_COUNT_KEY = `user:finishCount`;
-  await redis.zadd(FINISH_COUNT_KEY, 1, userId);
+async function setupDBData(builder: TestingModule) {
+  const { userId } = await createTestUser(builder, "xiaoming");
+  const db = builder.get<DbType>(DB);
+  const { userRank } = await import("@earthworm/schema");
+  const { RankPeriod } = await import("../rank.service");
+
+  // Insert rank data for all periods
+  for (const period of Object.values(RankPeriod)) {
+    await db.insert(userRank).values({
+      userId,
+      period,
+      count: 1,
+    });
+  }
 }

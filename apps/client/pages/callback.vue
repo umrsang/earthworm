@@ -1,161 +1,102 @@
-<!-- 用于 logto 的登录回调 -->
 <script setup lang="ts">
-import { useHandleSignInCallback } from "@logto/vue";
 import { navigateTo } from "nuxt/app";
-import { onMounted, onUnmounted, ref, watch } from "vue";
+import { ref } from "vue";
 import { toast } from "vue-sonner";
 
 import { fetchCurrentUser } from "~/api/user";
-import { getSignInCallback } from "~/services/auth";
+import { getSignInCallback, register, signIn } from "~/services/auth";
 import { useUserStore } from "~/store/user";
 
 const userStore = useUserStore();
-const { username, isLoadingFetchUserSetup, isShowSettingUsernameModal, handleChangeUsername } =
-  useUsername();
+const isLogin = ref(true);
+const username = ref("");
+const password = ref("");
+const isLoading = ref(false);
 
-const useAutoRedirect = (delay: number) => {
-  const redirectTimer = ref<NodeJS.Timeout | null>(null);
-  const startAutoRedirect = () => {
-    redirectTimer.value = setTimeout(() => {
-      navigateTo("/");
-    }, delay);
-  };
-
-  const stopAutoRedirect = () => {
-    if (redirectTimer.value) {
-      clearTimeout(redirectTimer.value);
-      redirectTimer.value = null;
-    }
-  };
-
-  return { startAutoRedirect, stopAutoRedirect };
-};
-
-const { startAutoRedirect, stopAutoRedirect } = useAutoRedirect(3000);
-
-const { isLoading, error } = useHandleSignInCallback(async () => {
-  stopAutoRedirect();
-  const res = await fetchCurrentUser();
-  userStore.initUser(res);
-
-  // 新用户并且没有用户名需要设置
-  if (userStore.isNewUser()) {
-    isShowSettingUsernameModal.value = true;
-  } else {
-    await navigateTo(getSignInCallback());
-  }
-});
-
-onMounted(() => {
-  startAutoRedirect();
-});
-
-onUnmounted(() => {
-  stopAutoRedirect();
-});
-
-// 如果登录失败，则跳转到首页
-watch(error, (newError) => {
-  if (newError) {
-    toast.error(`登录失败`, {
-      description: `请清空缓存后重新尝试 报错信息: ${newError}`,
-      duration: 4000,
-      onAutoClose: () => {
-        navigateTo("/");
-      },
-    });
-  }
-});
-
-function useUsername() {
-  const username = ref("");
-  const isShowSettingUsernameModal = ref(false);
-  const isLoadingFetchUserSetup = ref(false);
-
-  async function handleChangeUsername() {
-    if (!checkUsername()) return;
-
-    isLoadingFetchUserSetup.value = true;
-    await userStore.setupNewUser({
-      username: username.value,
-      avatar: userStore.user?.avatar!,
-    });
-    isLoadingFetchUserSetup.value = false;
-
-    navigateTo(getSignInCallback());
-    isShowSettingUsernameModal.value = false;
+async function handleSubmit() {
+  if (!username.value || !password.value) {
+    toast.error("请填写用户名和密码");
+    return;
   }
 
-  function checkUsername() {
-    const minLength = 2;
-    const errorMessage = {
-      empty: "用户名不能为空",
-      minLength: `用户名至少输入 ${minLength} 个字符`,
-      invalid: "用户名只能包含字母、数字和下划线，且首字符必须是字母或下划线",
-    };
-
-    if (!username.value) {
-      toast.error(errorMessage.empty);
-      return false;
+  isLoading.value = true;
+  try {
+    if (isLogin.value) {
+      await signIn(username.value, password.value);
+    } else {
+      await register(username.value, password.value);
     }
 
-    if (username.value.length < minLength) {
-      toast.error(errorMessage.minLength);
-      return false;
-    }
+    const res = await fetchCurrentUser();
+    userStore.initUser(res);
 
-    const regex = /^[A-Za-z_]\w*$/;
-    if (!regex.test(username.value)) {
-      toast.error(errorMessage.invalid);
-      return false;
+    if (userStore.isNewUser()) {
+      // 新用户需要设置用户名
+      await navigateTo("/");
+    } else {
+      await navigateTo(getSignInCallback());
     }
-
-    return true;
+  } catch (e: any) {
+    toast.error(e?.message || "操作失败");
+  } finally {
+    isLoading.value = false;
   }
-
-  return {
-    checkUsername,
-    username,
-    isShowSettingUsernameModal,
-    isLoadingFetchUserSetup,
-    handleChangeUsername,
-  };
 }
 </script>
 
 <template>
-  <div class="flex w-full flex-col pt-2">
-    <template v-if="isLoading && !isShowSettingUsernameModal">
-      <Loading></Loading>
-    </template>
-    <UModal
-      v-model="isShowSettingUsernameModal"
-      :ui="{ width: 'w-full sm:max-w-lg' }"
-      prevent-close
-    >
-      <UCard>
-        <h3 class="mb-4 text-lg font-bold">设置用户名</h3>
-        <input
-          v-model="username"
-          type="text"
-          placeholder="请输入用户名"
-          class="input input-sm input-bordered w-full"
-          maxlength="20"
-          @keydown.enter="handleChangeUsername"
-        />
-        <div class="modal-action">
-          <UButton
-            type="submit"
-            @click="handleChangeUsername"
-          >
-            确定
-            <span
-              v-if="isLoadingFetchUserSetup"
-              class="loading loading-spinner loading-lg"
-            ></span>
-          </UButton>
+  <div class="flex min-h-screen items-center justify-center">
+    <div class="card w-full max-w-md bg-base-100 shadow-xl">
+      <div class="card-body">
+        <h2 class="card-title text-center text-2xl font-bold">
+          {{ isLogin ? "登录" : "注册" }}
+        </h2>
+        <div class="form-control">
+          <label class="label">
+            <span class="label-text">用户名</span>
+          </label>
+          <input
+            v-model="username"
+            type="text"
+            placeholder="请输入用户名"
+            class="input input-bordered w-full"
+            @keydown.enter="handleSubmit"
+          />
         </div>
-      </UCard>
-    </UModal>
+        <div class="form-control">
+          <label class="label">
+            <span class="label-text">密码</span>
+          </label>
+          <input
+            v-model="password"
+            type="password"
+            placeholder="请输入密码"
+            class="input input-bordered w-full"
+            @keydown.enter="handleSubmit"
+          />
+        </div>
+        <div class="card-actions mt-4">
+          <button
+            class="btn btn-primary w-full"
+            :disabled="isLoading"
+            @click="handleSubmit"
+          >
+            <span
+              v-if="isLoading"
+              class="loading loading-spinner"
+            ></span>
+            {{ isLogin ? "登录" : "注册" }}
+          </button>
+        </div>
+        <div class="mt-2 text-center">
+          <button
+            class="btn btn-link btn-sm"
+            @click="isLogin = !isLogin"
+          >
+            {{ isLogin ? "没有账号？去注册" : "已有账号？去登录" }}
+          </button>
+        </div>
+      </div>
+    </div>
   </div>
 </template>

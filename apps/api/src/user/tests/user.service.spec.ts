@@ -4,7 +4,6 @@ import { insertCourse, insertCoursePack } from "../../../test/fixture/db";
 import { cleanDB, testImportModules } from "../../../test/helper/utils";
 import { endDB } from "../../common/db";
 import { DB, DbType } from "../../global/providers/db.provider";
-import { LogtoService } from "../../logto/logto.service";
 import { MembershipService } from "../../membership/membership.service";
 import { UserCourseProgressService } from "../../user-course-progress/user-course-progress.service";
 import { UserService } from "../user.service";
@@ -12,7 +11,6 @@ import { UserService } from "../user.service";
 describe("UserService", () => {
   let db: DbType;
   let userService: UserService;
-  let logtoServiceMock: jest.Mocked<LogtoService>;
   let membershipServiceMock: jest.Mocked<MembershipService>;
   let userCourseProgressServiceMock: jest.Mocked<UserCourseProgressService>;
 
@@ -20,7 +18,6 @@ describe("UserService", () => {
     const testHelper = await setupTesting();
     db = testHelper.db;
     userService = testHelper.userService;
-    logtoServiceMock = testHelper.logtoService as jest.Mocked<LogtoService>;
     membershipServiceMock = testHelper.membershipService as jest.Mocked<MembershipService>;
     userCourseProgressServiceMock =
       testHelper.userCourseProgressService as jest.Mocked<UserCourseProgressService>;
@@ -37,37 +34,8 @@ describe("UserService", () => {
   });
 
   describe("findUser", () => {
-    it("should return user info with membership details", async () => {
-      const userId = "testUserId";
-      const logtoUserInfo = { id: userId, name: "Test User" };
-      const membershipDetails = {
-        type: "founder",
-        startDate: new Date(),
-        endDate: new Date(),
-        isActive: true,
-      };
-
-      (logtoServiceMock.logtoApi.get as jest.Mock).mockResolvedValue({ data: logtoUserInfo });
-      membershipServiceMock.isMember.mockResolvedValue(true);
-      membershipServiceMock.getMembershipDetails.mockResolvedValue(membershipDetails);
-
-      const result = await userService.findUser(userId);
-
-      expect(result).toEqual({
-        ...logtoUserInfo,
-        membership: {
-          isMember: true,
-          details: membershipDetails,
-        },
-      });
-    });
-
-    it("should return undefined on error", async () => {
-      const userId = "testUserId";
-      (logtoServiceMock.logtoApi.get as jest.Mock).mockRejectedValue(new Error("API Error"));
-
-      const result = await userService.findUser(userId);
-
+    it("should return undefined if user not found", async () => {
+      const result = await userService.findUser("non-existent");
       expect(result).toBeUndefined();
     });
   });
@@ -98,9 +66,7 @@ describe("UserService", () => {
     it("should return undefined on error", async () => {
       const userId = "testUserId";
       membershipServiceMock.isMember.mockRejectedValue(new Error("Service Error"));
-
       const result = await userService.findCurrentUser(userId);
-
       expect(result).toBeUndefined();
     });
   });
@@ -133,7 +99,7 @@ describe("UserService", () => {
       const user = { userId: "newUserId" };
       const dto = { username: "newUser", avatar: "" };
       jest.spyOn(userService as any, "updateUser").mockResolvedValue({});
-      jest.spyOn(userService as any, "getRandomNumber").mockReturnValue(5); // 模拟随机数
+      jest.spyOn(userService as any, "getRandomNumber").mockReturnValue(5);
       const coursePackEntity = await insertCoursePack(db);
       const courseEntity = await insertCourse(db, coursePackEntity.id);
       const result = await userService.setupNewUser(user, dto);
@@ -159,13 +125,6 @@ describe("UserService", () => {
 });
 
 async function setupTesting() {
-  const logtoServiceMock = {
-    logtoApi: {
-      get: jest.fn(),
-      patch: jest.fn(),
-    },
-  };
-
   const membershipServiceMock = {
     isMember: jest.fn(),
     getMembershipDetails: jest.fn(),
@@ -178,7 +137,6 @@ async function setupTesting() {
     imports: testImportModules,
     providers: [
       UserService,
-      { provide: LogtoService, useValue: logtoServiceMock },
       { provide: MembershipService, useValue: membershipServiceMock },
       { provide: UserCourseProgressService, useValue: userCourseProgressServiceMock },
     ],
@@ -187,7 +145,6 @@ async function setupTesting() {
   return {
     db: moduleRef.get<DbType>(DB),
     userService: moduleRef.get<UserService>(UserService),
-    logtoService: moduleRef.get<LogtoService>(LogtoService),
     membershipService: moduleRef.get<MembershipService>(MembershipService),
     userCourseProgressService: moduleRef.get<UserCourseProgressService>(UserCourseProgressService),
   };

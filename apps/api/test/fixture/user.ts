@@ -1,6 +1,5 @@
 import { TestingModule } from "@nestjs/testing";
 
-import { LogtoService } from "../../src/logto/logto.service";
 import { UserEntity } from "../../src/user/user.decorators";
 
 export function createUser(): UserEntity {
@@ -9,25 +8,20 @@ export function createUser(): UserEntity {
   };
 }
 
-// NOTE: 修复在 AppModule 前导入时获取不到正确的环境变量
-export const getTokenOwner = () => process.env.LOGTO_CLIENT_ID;
+export async function createTestUser(builder: TestingModule, username: string) {
+  // 直接通过数据库创建用户，不再依赖 Logto
+  const { DB } = await import("../../src/global/providers/db.provider");
+  const db = builder.get(DB);
+  const { user } = await import("@earthworm/schema");
+  const argon2 = await import("argon2");
+  const { createId } = await import("@paralleldrive/cuid2");
 
-export async function createLogtoUser(builder: TestingModule, username: string) {
-  const logto = builder.get(LogtoService);
-
-  const params = new URLSearchParams([["search.username", username]]);
-  const { data: users } = await logto.logtoApi.get("/api/users", {
-    params,
-  });
-
-  for (const user of users) {
-    await logto.logtoApi.delete(`/api/users/${user.id}`);
-  }
-
-  // // 2. 创建一个 user
-  const { data } = await logto.logtoApi.post("/api/users", {
+  const userId = createId();
+  await db.insert(user).values({
+    id: userId,
     username,
+    password: await argon2.hash("password123"),
   });
 
-  return { userId: data.id, username };
+  return { userId, username };
 }

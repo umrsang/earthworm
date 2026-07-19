@@ -16,7 +16,7 @@ export function setupHttp() {
     baseURL,
     headers: { "Content-Type": "application/json" },
     async onRequest({ options }) {
-      const token = await getToken();
+      const token = getToken();
       options.headers = { ...options.headers, Authorization: `Bearer ${token}` };
     },
     async onResponseError({ request, response, options }) {

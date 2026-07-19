@@ -1,34 +1,75 @@
-import { useLogto } from "@logto/vue";
+import { useStorage } from "@vueuse/core";
 import { useRuntimeConfig } from "nuxt/app";
 
-let logto: ReturnType<typeof useLogto>;
 let runtimeConfig: ReturnType<typeof useRuntimeConfig>;
-export async function setupAuth() {
-  logto = useLogto();
+
+export function setupAuth() {
   runtimeConfig = useRuntimeConfig();
 }
 
-export async function signIn(callback?: string) {
-  callback && setSignInCallback(callback);
-  logto.signIn(runtimeConfig.public.signInRedirectURI);
+const token = useStorage("earthworm_token", "");
+const user = useStorage<Record<string, any> | null>("earthworm_user", null);
+
+export function setToken(t: string) {
+  token.value = t;
 }
 
-export function signOut() {
-  return logto.signOut(runtimeConfig.public.signOutRedirectURI);
+export function getToken() {
+  return token.value;
+}
+
+export function setUser(u: Record<string, any>) {
+  user.value = u;
+}
+
+export function getUser() {
+  return user.value;
 }
 
 export function isAuthenticated() {
-  return logto.isAuthenticated.value;
+  return !!token.value;
 }
 
-export async function getToken() {
-  const accessToken = await logto.getAccessToken(runtimeConfig.public.backendEndpoint);
-
-  return accessToken;
+export function signOut() {
+  token.value = "";
+  user.value = null;
+  navigateTo("/");
 }
 
-export function fetchUserInfo() {
-  return logto.fetchUserInfo();
+export async function signIn(username: string, password: string) {
+  const baseURL = runtimeConfig.public.apiBase as string;
+  const response = await $fetch<{ token: string; userId: string; username: string }>(
+    `${baseURL}/user/login`,
+    {
+      method: "POST",
+      body: { username, password },
+    },
+  );
+
+  setToken(response.token);
+  return response;
+}
+
+export async function register(username: string, password: string) {
+  const baseURL = runtimeConfig.public.apiBase as string;
+  const response = await $fetch<{ token: string; userId: string; username: string }>(
+    `${baseURL}/user/register`,
+    {
+      method: "POST",
+      body: { username, password },
+    },
+  );
+
+  setToken(response.token);
+  return response;
+}
+
+export async function fetchUserInfo() {
+  const baseURL = runtimeConfig.public.apiBase as string;
+  const response = await $fetch(`${baseURL}/user`, {
+    headers: { Authorization: `Bearer ${getToken()}` },
+  });
+  return response;
 }
 
 export function getSignInCallback() {
@@ -41,6 +82,6 @@ export function getSignInCallback() {
   }
 }
 
-function setSignInCallback(callback: string) {
+export function setSignInCallback(callback: string) {
   sessionStorage.setItem("callback", callback);
 }

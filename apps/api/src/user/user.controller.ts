@@ -1,13 +1,28 @@
 import { Body, Controller, Get, Patch, Post, UseGuards } from "@nestjs/common";
 
+import { AuthService } from "../auth/auth.service";
 import { AuthGuard } from "../guards/auth.guard";
 import { User, UserEntity } from "../user/user.decorators";
-import { UpdateUserDto } from "./model/user.dto";
+import { LoginDto, RegisterDto, UpdateUserDto } from "./model/user.dto";
 import { UserService } from "./user.service";
 
 @Controller("user")
 export class UserController {
-  constructor(private readonly userService: UserService) {}
+  constructor(
+    private readonly userService: UserService,
+    private readonly authService: AuthService,
+  ) {}
+
+  @Post("register")
+  async register(@Body() dto: RegisterDto) {
+    return this.authService.register(dto.username, dto.password);
+  }
+
+  @Post("login")
+  async login(@Body() dto: LoginDto) {
+    return this.authService.login(dto.username, dto.password);
+  }
+
   @UseGuards(AuthGuard)
   @Patch()
   updateInfo(@User() user: UserEntity, @Body() dto: UpdateUserDto) {
@@ -21,11 +36,6 @@ export class UserController {
     return userInfo;
   }
 
-  // 给新用户第一次登录使用
-  // 目前使用 email 和 github 登录的用户 都不存在 username
-  // 所以这个接口有两个目的
-  // 1. 设置 username
-  // 2. 默认添加星荣的课程包到最近的课程包
   @UseGuards(AuthGuard)
   @Post("setup")
   async initializeUser(@User() user: UserEntity, @Body() dto: UpdateUserDto) {

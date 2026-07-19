@@ -21,8 +21,6 @@ export default defineNuxtConfig({
   devServer: {
     port: 3378,
   },
-  // default is true, reference to https://nuxt.com/docs/guide/directory-structure/components
-  // components: true,
   imports: {
     autoImport: false,
   },
@@ -47,12 +45,8 @@ export default defineNuxtConfig({
   plugins: ["~/plugins/logto.ts", "~/plugins/http.ts"],
   runtimeConfig: {
     public: {
-      apiBase: process.env.API_BASE || "",
-      endpoint: process.env.LOGTO_ENDPOINT || "",
-      appId: process.env.LOGTO_APP_ID || "",
-      backendEndpoint: process.env.BACKEND_ENDPOINT || "",
-      signInRedirectURI: process.env.LOGTO_SIGN_IN_REDIRECT_URI || "",
-      signOutRedirectURI: process.env.LOGTO_SIGN_OUT_REDIRECT_URI || "",
+      apiBase: process.env.API_BASE || "http://localhost:3001",
+      backendEndpoint: process.env.BACKEND_ENDPOINT || "http://localhost:3001/",
       helpDocsURL: process.env.HELP_DOCS_URL || "",
     },
   },

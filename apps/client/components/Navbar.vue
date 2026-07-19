@@ -19,9 +19,7 @@
                 src="/logo.png"
                 alt="earth-worm-logo"
               />
-              <h1 class="text-wrap text-2xl font-extrabold leading-normal text-white">
-                Earthworm
-              </h1>
+              <h1 class="text-wrap text-2xl font-extrabold leading-normal text-white">Earthworm</h1>
             </div>
           </NuxtLink>
 
@@ -69,7 +67,7 @@
             v-else
             aria-label="Login"
             class="btn btn-sm mr-1 border-none bg-purple-500 text-white shadow-md hover:bg-purple-600 focus:outline-none"
-            @click="signIn()"
+            @click="navigateTo('/callback')"
           >
             登录
           </button>
@@ -81,12 +79,12 @@
 
 <script setup lang="ts">
 import { useWindowScroll } from "@vueuse/core";
-import { useRuntimeConfig } from "nuxt/app";
+import { navigateTo, useRuntimeConfig } from "nuxt/app";
 import { computed } from "vue";
 import { useRoute } from "vue-router";
 
 import { useUserMenu } from "~/composables/user/useUserMenu";
-import { isAuthenticated, signIn } from "~/services/auth";
+import { isAuthenticated } from "~/services/auth";
 import { useUserStore } from "~/store/user";
 
 const runtimeConfig = useRuntimeConfig();

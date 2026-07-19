@@ -1,5 +1,4 @@
 import type { MembershipType, SetupUser, User } from "~/types";
-import { fetchUserInfo } from "~/services/auth";
 import { getHttp } from "./http";
 
 export interface SetupUserApiResponse {
@@ -28,15 +27,12 @@ export async function fetchSetupNewUser(data: { username: string; avatar: string
 
 export async function fetchCurrentUser() {
   const http = getHttp();
-  // 这里必须在 client 获取 user info
-  // 他会触发 token 的刷新
-  const logtoUserInfo = await fetchUserInfo();
   const extraInfo = await http<UserApiResponse>("/user", { method: "get" });
 
   return {
-    ...logtoUserInfo,
+    username: "",
+    avatar: "",
+    id: "1",
     ...extraInfo,
-    avatar: logtoUserInfo!.picture || "", // 添加 avatar 字段，默认值为 picture （ picture 这个属性不够清晰 不喜欢）
-    id: logtoUserInfo!.sub || "", // logto 把 user 唯一 id  叫做 sub ， 不喜欢
   } as User;
 }

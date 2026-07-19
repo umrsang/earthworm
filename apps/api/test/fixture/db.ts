@@ -2,7 +2,8 @@ import { eq } from "drizzle-orm";
 import { DbType } from "src/global/providers/db.provider";
 
 import { course, coursePack, statement, userCourseProgress } from "@earthworm/schema";
-import { getTokenOwner } from "../../test/fixture/user";
+
+const TEST_USER_ID = "test-user-id";
 
 type CoursePackInsert = typeof coursePack.$inferInsert;
 
@@ -101,7 +102,7 @@ export async function insertUserCourseProgress(
   courseId: string,
   statementIndex: number,
 ) {
-  const userId = getTokenOwner();
+  const userId = TEST_USER_ID;
 
   await db.insert(userCourseProgress).values({
     userId,

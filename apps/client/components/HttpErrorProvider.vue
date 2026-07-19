@@ -6,7 +6,7 @@
 import { toast } from "vue-sonner";
 
 import { injectHttpStatusErrorHandler } from "~/api/http.js";
-import { signIn } from "~/services/auth";
+import { setSignInCallback } from "~/services/auth";
 
 useHttpStatusError();
 
@@ -17,7 +17,8 @@ function useHttpStatusError() {
         toast.error(errMessage, {
           duration: 2000,
           onAutoClose() {
-            signIn(window.location.pathname);
+            setSignInCallback(window.location.pathname);
+            navigateTo("/callback");
           },
         });
         break;
