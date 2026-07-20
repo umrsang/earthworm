@@ -5,7 +5,9 @@ import { course, coursePack, statement } from "@earthworm/schema";
 import { CourseHistoryService } from "../course-history/course-history.service";
 import { CourseService } from "../course/course.service";
 import { DB, DbType } from "../global/providers/db.provider";
+import { CreatorGuard } from "../guards/creator.guard";
 import { MembershipService } from "../membership/membership.service";
+import { UpdateCoursePackDto } from "./dto/update-course-pack.dto";
 import { UploadCoursePackDto } from "./dto/upload-course-pack.dto";
 
 @Injectable()
@@ -15,6 +17,7 @@ export class CoursePackService {
     private readonly courseService: CourseService,
     private readonly courseHistoryService: CourseHistoryService,
     private readonly membershipService: MembershipService,
+    private readonly creatorGuard: CreatorGuard,
   ) {}
 
   async findAll(userId?: string) {
@@ -233,5 +236,41 @@ export class CoursePackService {
       courseIds,
       message: "课程包上传成功",
     };
+  }
+
+  async updateCoursePack(userId: string, coursePackId: string, dto: UpdateCoursePackDto) {
+    await this.creatorGuard.checkCoursePackOwner(userId, coursePackId);
+
+    const data: Record<string, unknown> = {};
+    if (dto.title !== undefined) data.title = dto.title;
+    if (dto.description !== undefined) data.description = dto.description;
+    if (dto.isFree !== undefined) data.isFree = dto.isFree;
+    if (dto.cover !== undefined) data.cover = dto.cover;
+    if (dto.shareLevel !== undefined) data.shareLevel = dto.shareLevel;
+
+    if (Object.keys(data).length === 0) {
+      throw new NotFoundException("没有需要更新的字段");
+    }
+
+    await this.db.update(coursePack).set(data).where(eq(coursePack.id, coursePackId));
+
+    return this.findOne(coursePackId);
+  }
+
+  async deleteCoursePack(userId: string, coursePackId: string) {
+    await this.creatorGuard.checkCoursePackOwner(userId, coursePackId);
+
+    // 级联删除 courses 和 statements
+    const courses = await this.db.query.course.findMany({
+      where: eq(course.coursePackId, coursePackId),
+    });
+
+    for (const c of courses) {
+      await this.db.delete(statement).where(eq(statement.courseId, c.id));
+    }
+    await this.db.delete(course).where(eq(course.coursePackId, coursePackId));
+    await this.db.delete(coursePack).where(eq(coursePack.id, coursePackId));
+
+    return { success: true, message: "课程包已删除" };
   }
 }

@@ -4,8 +4,10 @@ import { and, asc, eq, gt } from "drizzle-orm";
 import { course, statement } from "@earthworm/schema";
 import { CourseHistoryService } from "../course-history/course-history.service";
 import { DB, DbType } from "../global/providers/db.provider";
+import { CreatorGuard } from "../guards/creator.guard";
 import { RankService } from "../rank/rank.service";
 import { UserCourseProgressService } from "../user-course-progress/user-course-progress.service";
+import { UpdateCourseDto } from "./dto/update-course.dto";
 
 @Injectable()
 export class CourseService {
@@ -14,6 +16,7 @@ export class CourseService {
     private readonly rankService: RankService,
     private readonly courseHistoryService: CourseHistoryService,
     private readonly userCourseProgressService: UserCourseProgressService,
+    private readonly creatorGuard: CreatorGuard,
   ) {}
 
   async find(coursePackId: string, courseId: string) {
@@ -87,5 +90,34 @@ export class CourseService {
     return {
       nextCourse: await this._findNext(coursePackId, courseId),
     };
+  }
+
+  async update(userId: string, courseId: string, dto: UpdateCourseDto) {
+    await this.creatorGuard.checkCourseOwner(userId, courseId);
+
+    const data: Record<string, unknown> = {};
+    if (dto.title !== undefined) data.title = dto.title;
+    if (dto.description !== undefined) data.description = dto.description;
+    if (dto.video !== undefined) data.video = dto.video;
+    if (dto.order !== undefined) data.order = dto.order;
+
+    if (Object.keys(data).length === 0) {
+      throw new NotFoundException("没有需要更新的字段");
+    }
+
+    await this.db.update(course).set(data).where(eq(course.id, courseId));
+
+    const [updated] = await this.db.select().from(course).where(eq(course.id, courseId));
+    return updated;
+  }
+
+  async delete(userId: string, courseId: string) {
+    await this.creatorGuard.checkCourseOwner(userId, courseId);
+
+    // 级联删除 statements
+    await this.db.delete(statement).where(eq(statement.courseId, courseId));
+    await this.db.delete(course).where(eq(course.id, courseId));
+
+    return { success: true, message: "课程已删除" };
   }
 }
