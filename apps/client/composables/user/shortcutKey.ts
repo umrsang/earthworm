@@ -100,6 +100,16 @@ export function useShortcutKeyMode() {
     return "";
   }
 
+  // 收集所有按下的修饰键，顺序为 Ctrl/Command → Alt → Shift
+  function getAllKeyModifiers(e: KeyboardEvent): string[] {
+    const modifiers: string[] = [];
+    if (e.ctrlKey) modifiers.push(KEYBOARD.CTRL);
+    if (e.metaKey) modifiers.push(KEYBOARD.COMMAND);
+    if (e.altKey) modifiers.push(KEYBOARD.ALT);
+    if (e.shiftKey) modifiers.push(KEYBOARD.SHIFT);
+    return modifiers;
+  }
+
   function saveShortcutKeys() {
     const trimmedShortcutKeyStr = shortcutKeyStr.value.trim();
     if (trimmedShortcutKeyStr) {
@@ -145,12 +155,18 @@ export function useShortcutKeyMode() {
     }
 
     const key = convertMacKey(e.key);
-    if (SPECIAL_KEYS.has(e.key) || !mainKey) {
+    if (SPECIAL_KEYS.has(e.key)) {
+      // 仅按下修饰键时不清空已有内容
+      return;
+    }
+
+    const modifiers = getAllKeyModifiers(e);
+    if (modifiers.length === 0) {
       // 单键
       shortcutKeyStr.value = key;
     } else {
-      // 组合键
-      shortcutKeyStr.value = `${mainKey}+${key}`;
+      // 组合键（支持多修饰键，如 Ctrl+Shift+P）
+      shortcutKeyStr.value = [...modifiers, key].join("+");
     }
   }
 

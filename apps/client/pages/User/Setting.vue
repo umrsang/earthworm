@@ -121,6 +121,48 @@
     </section>
 
     <section>
+      <h2 class="text-xl font-medium">学习提醒</h2>
+      <table class="table">
+        <tbody>
+          <tr class="hover">
+            <td class="label-text">开启每日学习提醒</td>
+            <td class="text-right">
+              <input
+                type="checkbox"
+                class="toggle toggle-secondary"
+                :checked="reminderEnabled"
+                @change="toggleReminder"
+              />
+            </td>
+          </tr>
+          <tr class="hover">
+            <td class="label-text">提醒时间</td>
+            <td class="text-right">
+              <input
+                type="time"
+                class="input input-bordered input-sm"
+                :value="reminderTime"
+                :disabled="!reminderEnabled"
+                @change="handleReminderTimeChange"
+              />
+            </td>
+          </tr>
+          <tr v-if="reminderEnabled && notificationPermission !== 'granted'">
+            <td class="label-text text-warning">浏览器通知未开启，点击下方按钮授权</td>
+            <td class="text-right">
+              <button
+                class="btn btn-outline btn-secondary btn-sm"
+                @click="requestNotificationPermission"
+              >
+                开启通知
+              </button>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section>
       <h2 class="text-xl font-medium">答题设置</h2>
       <table class="table">
         <tbody>
@@ -180,6 +222,7 @@
 import { useAutoNextQuestion } from "~/composables/user/autoNext";
 import { useErrorTip } from "~/composables/user/errorTip";
 import { GamePlayMode, useGamePlayMode } from "~/composables/user/gamePlayMode";
+import { useLearningReminder } from "~/composables/user/learningReminder";
 import { PronunciationType, usePronunciation } from "~/composables/user/pronunciation";
 import { SHORTCUT_KEY_TYPES, useShortcutKeyMode } from "~/composables/user/shortcutKey";
 import {
@@ -205,6 +248,19 @@ const { showWordsWidth, toggleAutoWordsWidth } = useShowWordsWidth();
 const { useSpace, toggleUseSpaceSubmitAnswer } = useSpaceSubmitAnswer();
 const { showErrorTip, toggleShowErrorTip } = useErrorTip();
 const { shortcutKeys, handleEdit } = useShortcutKeyMode();
+const {
+  reminderEnabled,
+  reminderTime,
+  notificationPermission,
+  toggleReminder,
+  setReminderTime,
+  requestNotificationPermission,
+} = useLearningReminder();
+
+function handleReminderTimeChange(e: Event) {
+  const target = e.target as HTMLInputElement;
+  setReminderTime(target.value);
+}
 
 const { getGamePlayModeOptions, currentGamePlayMode, toggleGamePlayMode } = useGamePlayMode();
 

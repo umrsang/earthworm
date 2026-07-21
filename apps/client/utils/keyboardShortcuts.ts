@@ -5,6 +5,8 @@ export interface Shortcut {
   key: string;
   ctrlKey: boolean;
   metaKey: boolean;
+  altKey: boolean;
+  shiftKey: boolean;
   command: (keyboardEvent: KeyboardEvent) => void;
 }
 
@@ -25,6 +27,8 @@ function parseKey(keyString: string) {
     key: keys[keys.length - 1], // 取数组最后一个元素作为 key
     ctrlKey: keys.includes("ctrl"),
     metaKey: keys.includes("command"),
+    altKey: keys.includes("alt"),
+    shiftKey: keys.includes("shift"),
   };
 
   return result;
@@ -35,6 +39,8 @@ function findMatchingShortcut(event: KeyboardEvent): Shortcut[] {
     const preciseMatching =
       shortcut.ctrlKey === event.ctrlKey &&
       shortcut.metaKey === event.metaKey &&
+      shortcut.altKey === event.altKey &&
+      shortcut.shiftKey === event.shiftKey &&
       shortcut.key === convertMacKey(event.key).toLowerCase();
 
     const anyMatching = shortcut.key === "*";
@@ -80,7 +86,9 @@ export function cancelShortcut(keyOrShortcut: string | Shortcut, command?: Short
       if (
         shortcuts[i].key === normalShortcut!.key &&
         shortcuts[i].ctrlKey === normalShortcut!.ctrlKey &&
-        shortcuts[i].metaKey === normalShortcut!.metaKey
+        shortcuts[i].metaKey === normalShortcut!.metaKey &&
+        shortcuts[i].altKey === normalShortcut!.altKey &&
+        shortcuts[i].shiftKey === normalShortcut!.shiftKey
       ) {
         shortcuts.splice(i, 1);
       }
@@ -88,12 +96,14 @@ export function cancelShortcut(keyOrShortcut: string | Shortcut, command?: Short
     return;
   }
 
-  const index = shortcuts.findIndex(({ key, command, ctrlKey, metaKey }) => {
+  const index = shortcuts.findIndex(({ key, command, ctrlKey, metaKey, altKey, shiftKey }) => {
     // 精准匹配对应快捷键对象
     return (
       key === normalShortcut.key &&
       ctrlKey === normalShortcut.ctrlKey &&
       metaKey === normalShortcut.metaKey &&
+      altKey === normalShortcut.altKey &&
+      shiftKey === normalShortcut.shiftKey &&
       command === normalShortcut.command
     );
   });

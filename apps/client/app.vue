@@ -31,11 +31,18 @@ import { Toaster } from "vue-sonner";
 
 import { fetchCurrentUser } from "~/api/user";
 import { Theme, useDarkMode } from "~/composables/darkMode";
+import { useLearningReminder } from "~/composables/user/learningReminder";
 import { isAuthenticated } from "~/services/auth";
 import { useUserStore } from "./store/user";
 
 const { initDarkMode, darkMode } = useDarkMode();
 initDarkMode();
+
+// 初始化学习提醒
+const { initReminder, isReminderEnabled } = useLearningReminder();
+if (isReminderEnabled()) {
+  initReminder();
+}
 
 const userStore = useUserStore();
 const { status } = useAsyncData("initApplication", async () => {

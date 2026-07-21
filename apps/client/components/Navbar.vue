@@ -46,7 +46,18 @@
           </nav>
         </div>
 
-        <div class="flex items-center">
+        <div class="flex items-center gap-2">
+          <!-- 主题切换按钮 -->
+          <button
+            aria-label="Toggle theme"
+            class="flex h-8 w-8 items-center justify-center rounded-full text-white transition-all hover:scale-110 hover:bg-white/10"
+            @click="toggleDarkMode"
+          >
+            <UIcon
+              :name="isDarkMode ? 'i-ph-moon' : 'i-ph-sun'"
+              class="h-5 w-5"
+            />
+          </button>
           <!-- 显示用户信息 -->
           <div
             v-if="isAuthenticated()"
@@ -83,12 +94,15 @@ import { navigateTo, useRuntimeConfig } from "nuxt/app";
 import { computed } from "vue";
 import { useRoute } from "vue-router";
 
+import { Theme, useDarkMode } from "~/composables/darkMode";
 import { useUserMenu } from "~/composables/user/useUserMenu";
 import { isAuthenticated } from "~/services/auth";
 import { useUserStore } from "~/store/user";
 
 const runtimeConfig = useRuntimeConfig();
 const { openUserMenu } = useUserMenu();
+const { darkMode, toggleDarkMode } = useDarkMode();
+const isDarkMode = computed(() => darkMode.value === Theme.DARK);
 
 const route = useRoute();
 const userStore = useUserStore();

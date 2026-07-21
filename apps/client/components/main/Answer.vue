@@ -22,6 +22,10 @@
           下一题
         </button>
       </div>
+
+      <!-- 语音评测 -->
+      <MainPronunciationEvaluation />
+
       <div class="md:hidden">
         <MainMasteredBtn></MainMasteredBtn>
       </div>

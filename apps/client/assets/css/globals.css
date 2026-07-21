@@ -82,7 +82,7 @@ body {
   }
 }
 
-/* @layer base {
+@layer base {
   * {
     @apply border-border;
   }
@@ -90,7 +90,7 @@ body {
   body {
     @apply bg-background text-foreground;
   }
-} */
+}
 
 ::view-transition-new(root),
 ::view-transition-old(root) {
