@@ -47,3 +47,26 @@ function transformerFetchCompleteCourse(apiResponse: CompleteCourseResponse): {
     nextCourse: apiResponse.nextCourse as Course,
   };
 }
+
+export async function updateCourse(
+  courseId: string,
+  data: {
+    title?: string;
+    description?: string;
+    video?: string;
+    order?: number;
+  },
+) {
+  const http = getHttp();
+  return await http<CourseApiResponse>(`/course/${courseId}`, {
+    method: "PUT",
+    body: data,
+  });
+}
+
+export async function deleteCourse(courseId: string) {
+  const http = getHttp();
+  return await http<{ success: boolean; message: string }>(`/course/${courseId}`, {
+    method: "DELETE",
+  });
+}

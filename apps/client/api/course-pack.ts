@@ -8,6 +8,7 @@ export type CoursePacksItemApiResponse = {
   isFree: boolean;
   description: string;
   cover: string;
+  creatorId: string;
 };
 
 export interface CoursePackApiResponse {
@@ -16,6 +17,7 @@ export interface CoursePackApiResponse {
   description: string;
   isFree: boolean;
   cover: string;
+  creatorId: string;
   courses: CourseApiResponse[];
 }
 
@@ -31,4 +33,28 @@ export async function fetchCoursePack(coursePackId: string) {
   return (await http<CoursePackApiResponse>(`/course-pack/${coursePackId}`, {
     method: "get",
   })) as CoursePack;
+}
+
+export async function updateCoursePack(
+  coursePackId: string,
+  data: {
+    title?: string;
+    description?: string;
+    isFree?: boolean;
+    cover?: string;
+    shareLevel?: string;
+  },
+) {
+  const http = getHttp();
+  return await http<CoursePackApiResponse>(`/course-pack/${coursePackId}`, {
+    method: "PUT",
+    body: data,
+  });
+}
+
+export async function deleteCoursePack(coursePackId: string) {
+  const http = getHttp();
+  return await http<{ success: boolean; message: string }>(`/course-pack/${coursePackId}`, {
+    method: "DELETE",
+  });
 }
