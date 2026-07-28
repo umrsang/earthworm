@@ -378,12 +378,15 @@
 </template>
 
 <script setup lang="ts">
+import { definePageMeta } from "#imports";
 import JSZip from "jszip";
 import { ref } from "vue";
 import { useRouter } from "vue-router";
 import { toast } from "vue-sonner";
 
 import { uploadCoursePack } from "~/api/course-pack-upload";
+
+definePageMeta({ middleware: "auth" });
 
 const router = useRouter();
 

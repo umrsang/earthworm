@@ -1,9 +1,10 @@
 import { defineNuxtRouteMiddleware, navigateTo } from "nuxt/app";
 
-import { isAuthenticated } from "~/services/auth";
+import { isAuthenticated, setSignInCallback } from "~/services/auth";
 
-export default defineNuxtRouteMiddleware((to, from) => {
+export default defineNuxtRouteMiddleware((to) => {
   if (!isAuthenticated()) {
-    return navigateTo("/");
+    setSignInCallback(to.fullPath);
+    return navigateTo("/callback");
   }
 });

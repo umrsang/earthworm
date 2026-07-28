@@ -1,0 +1,143 @@
+<!doctype html>
+<html
+  lang="zh-CN"
+  data-theme="dark"
+>
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0"
+    />
+    <meta
+      name="description"
+      content="Earthworm v2.0 学习工作台高保真交互原型"
+    />
+    <title>Earthworm v2.0 原型</title>
+    <link
+      rel="stylesheet"
+      href="./styles.css"
+    />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside
+        class="sidebar"
+        aria-label="主导航"
+      >
+        <button
+          class="brand"
+          data-page="today"
+          aria-label="返回今日学习"
+        >
+          <span class="brand-mark">E</span>
+          <span>
+            <strong>Earthworm</strong>
+            <small>Learning OS</small>
+          </span>
+        </button>
+
+        <nav class="main-nav">
+          <button
+            class="nav-item is-active"
+            data-page="today"
+          >
+            <span class="nav-icon">⌂</span><span>今日</span>
+          </button>
+          <button
+            class="nav-item"
+            data-page="courses"
+          >
+            <span class="nav-icon">▤</span><span>课程</span>
+          </button>
+          <button
+            class="nav-item"
+            data-page="review"
+          >
+            <span class="nav-icon">↻</span><span>复习</span>
+            <span class="nav-badge">8</span>
+          </button>
+          <button
+            class="nav-item"
+            data-page="insights"
+          >
+            <span class="nav-icon">⌁</span><span>数据</span>
+          </button>
+          <button
+            class="nav-item"
+            data-page="creator"
+          >
+            <span class="nav-icon">✎</span><span>创作</span>
+          </button>
+        </nav>
+
+        <div class="sidebar-bottom">
+          <div class="goal-mini">
+            <div class="goal-mini-head"><span>今日进度</span><strong>60%</strong></div>
+            <div class="progress-track"><i style="width: 60%"></i></div>
+            <small>12 / 20 句 · 还需约 6 分钟</small>
+          </div>
+          <button
+            class="nav-item"
+            data-page="settings"
+          >
+            <span class="nav-icon">⚙</span><span>设置</span>
+          </button>
+          <button
+            class="profile-chip"
+            data-action="profile"
+          >
+            <span class="avatar">林</span>
+            <span><strong>林小满</strong><small>连续学习 12 天</small></span>
+            <span class="chevron">⌄</span>
+          </button>
+        </div>
+      </aside>
+
+      <div class="mobile-topbar">
+        <button
+          class="brand compact"
+          data-page="today"
+        >
+          <span class="brand-mark">E</span><strong>Earthworm</strong>
+        </button>
+        <button
+          class="icon-button"
+          data-action="notifications"
+          aria-label="打开通知"
+        >
+          ♢<span class="dot"></span>
+        </button>
+      </div>
+
+      <main
+        id="main"
+        tabindex="-1"
+      ></main>
+
+      <nav
+        class="mobile-nav"
+        aria-label="移动端主导航"
+      >
+        <button
+          class="is-active"
+          data-page="today"
+        >
+          <span>⌂</span>今日
+        </button>
+        <button data-page="courses"><span>▤</span>课程</button>
+        <button data-page="review"><span>↻</span>复习<i>8</i></button>
+        <button data-page="insights"><span>⌁</span>数据</button>
+        <button data-page="settings"><span>⚙</span>我的</button>
+      </nav>
+    </div>
+
+    <div id="modal-root"></div>
+    <div
+      id="toast-root"
+      aria-live="polite"
+      aria-atomic="true"
+    ></div>
+    <script src="./app.js"></script>
+  </body>
+</html>

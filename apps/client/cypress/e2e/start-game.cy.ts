@@ -3,28 +3,9 @@ describe("start game", () => {
     cy.visit("/");
   });
 
-  it("navigates to the game scene as a guest", () => {
-    cy.intercept("GET", "/courses/try", {
-      statusCode: 200,
-      body: {
-        id: "1",
-        title: "第一课",
-        statements: [
-          {
-            chinese: "我",
-            english: "I",
-            id: 30725,
-            soundmark: "/aɪ/",
-          },
-        ],
-      },
-    }).as("getTryCourse");
-
+  it("redirects guests to sign in before starting", () => {
     cy.contains("开启Earthworm").click();
-    // 目前对于游客来讲 是写死的 course id 为 1 ，所以这里暂时只验证是否有调用 try course 接口即可
-    // 后面如果 try course 的 id 是基于后端接口返回的话 那么在修改此处的测试写法
-    cy.wait("@getTryCourse").its("request.method").should("equal", "GET");
-    cy.url().should("include", "/main/1");
+    cy.url().should("include", "/callback");
   });
 
   it("navigates to the game scene and shows course for logged-in users", () => {

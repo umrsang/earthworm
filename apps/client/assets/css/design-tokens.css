@@ -1,0 +1,83 @@
+:root,
+:root[data-theme="light"] {
+  color-scheme: light;
+
+  --ew-primitive-white: #ffffff;
+  --ew-primitive-black-950: #0a0a16;
+  --ew-primitive-black-900: #12122a;
+  --ew-primitive-gray-50: #f7f7fa;
+  --ew-primitive-gray-200: #e5e7eb;
+  --ew-primitive-gray-500: #6b7280;
+  --ew-primitive-gray-700: #374151;
+  --ew-primitive-gray-900: #111827;
+  --ew-primitive-purple-400: #c084fc;
+  --ew-primitive-purple-500: #a855f7;
+  --ew-primitive-purple-600: #9333ea;
+  --ew-primitive-red-500: #ef4444;
+  --ew-primitive-green-500: #22c55e;
+
+  --ew-color-bg-page: var(--ew-primitive-white);
+  --ew-color-bg-surface: var(--ew-primitive-gray-50);
+  --ew-color-bg-elevated: var(--ew-primitive-white);
+  --ew-color-text-primary: var(--ew-primitive-gray-700);
+  --ew-color-text-secondary: var(--ew-primitive-gray-500);
+  --ew-color-text-brand: var(--ew-primitive-purple-600);
+  --ew-color-border-default: var(--ew-primitive-gray-200);
+  --ew-color-border-strong: #d1d5db;
+  --ew-color-action-primary: var(--ew-primitive-purple-600);
+  --ew-color-action-primary-hover: var(--ew-primitive-purple-500);
+  --ew-color-status-success: var(--ew-primitive-green-500);
+  --ew-color-status-danger: var(--ew-primitive-red-500);
+}
+
+:root[data-theme="dark"],
+:root.dark {
+  color-scheme: dark;
+
+  --ew-color-bg-page: var(--ew-primitive-black-950);
+  --ew-color-bg-surface: var(--ew-primitive-black-900);
+  --ew-color-bg-elevated: var(--ew-primitive-black-900);
+  --ew-color-text-primary: var(--ew-primitive-white);
+  --ew-color-text-secondary: #9ca3af;
+  --ew-color-text-brand: var(--ew-primitive-purple-400);
+  --ew-color-border-default: #ffffff0f;
+  --ew-color-border-strong: #ffffff1f;
+  --ew-color-action-primary: var(--ew-primitive-purple-600);
+  --ew-color-action-primary-hover: var(--ew-primitive-purple-500);
+  --ew-color-status-success: var(--ew-primitive-green-500);
+  --ew-color-status-danger: var(--ew-primitive-red-500);
+}
+
+:root {
+  --ew-space-1: 4px;
+  --ew-space-2: 8px;
+  --ew-space-3: 12px;
+  --ew-space-4: 16px;
+  --ew-space-5: 20px;
+  --ew-space-6: 24px;
+  --ew-space-8: 32px;
+  --ew-space-12: 48px;
+  --ew-radius-sm: 8px;
+  --ew-radius-md: 12px;
+  --ew-radius-lg: 16px;
+  --ew-radius-xl: 24px;
+  --ew-radius-full: 999px;
+  --ew-layout-content-max: 1200px;
+  --ew-control-button-height: 44px;
+  --ew-control-input-height: 48px;
+  --ew-type-display-size: 48px;
+  --ew-type-display-line: 56px;
+  --ew-type-h1-size: 36px;
+  --ew-type-h1-line: 44px;
+  --ew-type-h2-size: 24px;
+  --ew-type-h2-line: 32px;
+  --ew-type-h3-size: 18px;
+  --ew-type-h3-line: 26px;
+  --ew-type-body-size: 16px;
+  --ew-type-body-line: 24px;
+  --ew-type-body-sm-size: 14px;
+  --ew-type-body-sm-line: 20px;
+  --ew-type-label-size: 12px;
+  --ew-type-label-line: 16px;
+  --ew-shadow-elevated: 0 24px 64px rgb(10 10 22 / 20%);
+}

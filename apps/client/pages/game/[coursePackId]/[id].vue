@@ -11,6 +11,7 @@
 </template>
 
 <script setup lang="ts">
+import { definePageMeta } from "#imports";
 import { onMounted, ref } from "vue";
 import { useRoute } from "vue-router";
 import { toast } from "vue-sonner";
@@ -21,6 +22,8 @@ import { isAuthenticated } from "~/services/auth";
 import { useCourseStore } from "~/store/course";
 import { useCoursePackStore } from "~/store/coursePack";
 import { useMasteredElementsStore } from "~/store/masteredElements";
+
+definePageMeta({ middleware: "auth" });
 
 const isLoading = ref(true);
 const route = useRoute();

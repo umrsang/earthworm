@@ -12,7 +12,7 @@
 import { onMounted, onUnmounted } from "vue";
 import { useRouter } from "vue-router";
 
-import { isAuthenticated } from "~/services/auth";
+import { isAuthenticated, setSignInCallback } from "~/services/auth";
 import { cancelShortcut, registerShortcut } from "~/utils/keyboardShortcuts";
 
 const { startEarthworm } = useShortcutToGame();
@@ -21,9 +21,13 @@ function useShortcutToGame() {
   const router = useRouter();
 
   async function startEarthworm() {
+    const target = "/course-pack";
     if (!isAuthenticated()) {
-      router.push(`/course-pack`);
+      setSignInCallback(target);
+      await router.push("/callback");
+      return;
     }
+    await router.push(target);
   }
 
   onMounted(() => {

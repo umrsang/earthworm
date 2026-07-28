@@ -156,6 +156,7 @@
 
 <script setup lang="ts">
 import { navigateTo } from "#app";
+import { definePageMeta } from "#imports";
 import { computed, ref } from "vue";
 import { useRoute } from "vue-router";
 import { toast } from "vue-sonner";
@@ -163,6 +164,8 @@ import { toast } from "vue-sonner";
 import { useActiveCourseMap } from "~/composables/courses/activeCourse";
 import { useCoursePackStore } from "~/store/coursePack";
 import { useUserStore } from "~/store/user";
+
+definePageMeta({ middleware: "auth" });
 
 const isLoading = ref(false);
 const route = useRoute();

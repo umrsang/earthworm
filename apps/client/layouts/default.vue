@@ -1,5 +1,5 @@
 <template>
-  <div class="h-full w-full bg-[#0a0a16] text-white">
+  <div class="h-full w-full bg-[var(--ew-color-bg-page)] text-[var(--ew-color-text-primary)]">
     <div class="m-auto flex h-fit min-h-screen flex-col items-center">
       <Navbar />
       <!-- 面包屑：和 Navbar 同容器对齐，仅非首页显示 -->

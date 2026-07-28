@@ -140,3 +140,5 @@ cache
 course-db
 .codefree
 .github
+.pnpm-store/
+.tmp-localappdata

@@ -185,6 +185,7 @@
 </template>
 
 <script setup lang="ts">
+import { definePageMeta } from "#imports";
 import { ref } from "vue";
 import { toast } from "vue-sonner";
 
@@ -193,6 +194,8 @@ import CoursePackCard from "~/components/courses/CoursePackCard.vue";
 import { useNavigation } from "~/composables/useNavigation";
 import { useCoursePackStore } from "~/store/coursePack";
 import { useUserStore } from "~/store/user";
+
+definePageMeta({ middleware: "auth" });
 
 const coursePackStore = useCoursePackStore();
 const userStore = useUserStore();
