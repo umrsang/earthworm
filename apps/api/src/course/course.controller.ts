@@ -1,13 +1,24 @@
-import { Body, Controller, Delete, Param, Put, UseGuards } from "@nestjs/common";
+import { Body, Controller, Delete, Param, Post, Put, UseGuards } from "@nestjs/common";
 
 import { AuthGuard } from "../guards/auth.guard";
 import { User, UserEntity } from "../user/user.decorators";
 import { CourseService } from "./course.service";
+import { CreateCourseDto } from "./dto/create-course.dto";
 import { UpdateCourseDto } from "./dto/update-course.dto";
 
 @Controller("course")
 export class CourseController {
   constructor(private readonly courseService: CourseService) {}
+
+  @UseGuards(AuthGuard)
+  @Post("course-pack/:coursePackId")
+  async create(
+    @User() user: UserEntity,
+    @Param("coursePackId") coursePackId: string,
+    @Body() dto: CreateCourseDto,
+  ) {
+    return this.courseService.create(user.userId, coursePackId, dto);
+  }
 
   @UseGuards(AuthGuard)
   @Put(":courseId")

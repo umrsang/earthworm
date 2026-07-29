@@ -1,13 +1,24 @@
-import { Body, Controller, Delete, Param, Put, UseGuards } from "@nestjs/common";
+import { Body, Controller, Delete, Param, Post, Put, UseGuards } from "@nestjs/common";
 
 import { AuthGuard } from "../guards/auth.guard";
 import { User, UserEntity } from "../user/user.decorators";
+import { CreateStatementDto } from "./dto/create-statement.dto";
 import { UpdateStatementDto } from "./dto/update-statement.dto";
 import { StatementService } from "./statement.service";
 
 @Controller("statement")
 export class StatementController {
   constructor(private readonly statementService: StatementService) {}
+
+  @UseGuards(AuthGuard)
+  @Post("course/:courseId")
+  async create(
+    @User() user: UserEntity,
+    @Param("courseId") courseId: string,
+    @Body() dto: CreateStatementDto,
+  ) {
+    return this.statementService.create(user.userId, courseId, dto);
+  }
 
   @UseGuards(AuthGuard)
   @Put(":statementId")

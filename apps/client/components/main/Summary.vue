@@ -88,12 +88,14 @@
   </UModal>
 
   <canvas
+    v-if="showModal"
     ref="confettiCanvasRef"
     class="pointer-events-none absolute left-0 top-0 z-[1000] h-full w-full"
   ></canvas>
 </template>
 
 <script setup lang="ts">
+import { navigateTo } from "#app";
 import { useModal } from "#imports";
 import { computed, ref, watch } from "vue";
 import { toast } from "vue-sonner";

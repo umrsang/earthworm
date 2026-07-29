@@ -1,5 +1,5 @@
 import { useStorage } from "@vueuse/core";
-import { useRuntimeConfig } from "nuxt/app";
+import { navigateTo, useRuntimeConfig } from "nuxt/app";
 
 let runtimeConfig: ReturnType<typeof useRuntimeConfig>;
 

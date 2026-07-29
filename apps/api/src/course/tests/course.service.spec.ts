@@ -8,6 +8,7 @@ import { cleanDB, testImportModules } from "../../../test/helper/utils";
 import { endDB } from "../../common/db";
 import { CourseHistoryService } from "../../course-history/course-history.service";
 import { DB } from "../../global/providers/db.provider";
+import { CreatorGuard } from "../../guards/creator.guard";
 import { RankService } from "../../rank/rank.service";
 import { UserCourseProgressService } from "../../user-course-progress/user-course-progress.service";
 import { CourseService } from "../course.service";
@@ -152,6 +153,10 @@ async function setupTesting() {
       { provide: RankService, useValue: mockRankService },
       { provide: CourseHistoryService, useValue: mockCourseHistoryService },
       { provide: UserCourseProgressService, useValue: mockUserCourseProgressService },
+      {
+        provide: CreatorGuard,
+        useValue: { checkCoursePackOwner: jest.fn(), checkCourseOwner: jest.fn() },
+      },
     ],
   }).compile();
 

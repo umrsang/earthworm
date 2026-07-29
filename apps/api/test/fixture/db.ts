@@ -1,4 +1,4 @@
-import { eq } from "drizzle-orm";
+import { and, eq } from "drizzle-orm";
 import { DbType } from "src/global/providers/db.provider";
 
 import { course, coursePack, statement, userCourseProgress } from "@earthworm/schema";
@@ -15,6 +15,7 @@ export async function insertCoursePack(db: DbType, values?: Partial<CoursePackIn
     isFree: true,
     creatorId: "test",
     shareLevel: "public",
+    status: "published",
   } satisfies CoursePackInsert;
 
   const insertValues = {
@@ -57,7 +58,9 @@ export async function insertCourse(
   const [entity] = await db
     .select()
     .from(course)
-    .where(eq(course.coursePackId, insertValues.coursePackId))
+    .where(
+      and(eq(course.coursePackId, insertValues.coursePackId), eq(course.order, insertValues.order)),
+    )
     .orderBy(course.createdAt)
     .limit(1);
 
@@ -89,7 +92,7 @@ export async function insertStatement(
   const [entity] = await db
     .select()
     .from(statement)
-    .where(eq(statement.courseId, insertValues.courseId))
+    .where(and(eq(statement.courseId, insertValues.courseId), eq(statement.order, order)))
     .orderBy(statement.createdAt)
     .limit(1);
 

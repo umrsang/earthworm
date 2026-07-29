@@ -1,4 +1,13 @@
-import { IsBoolean, IsInt, IsNotEmpty, IsOptional, IsString, Length, Min } from "class-validator";
+import {
+  IsBoolean,
+  IsIn,
+  IsInt,
+  IsNotEmpty,
+  IsOptional,
+  IsString,
+  Length,
+  Min,
+} from "class-validator";
 
 export class CreateCoursePackDto {
   @IsNotEmpty()
@@ -10,12 +19,32 @@ export class CreateCoursePackDto {
   @IsString()
   description?: string;
 
+  @IsOptional()
   @IsInt()
-  order: number;
+  @Min(1)
+  order?: number;
 
-  @IsInt()
-  difficulty: number;
+  @IsOptional()
+  @IsString()
+  difficulty?: string;
 
+  @IsOptional()
   @IsBoolean()
-  isFree: boolean;
+  isFree?: boolean;
+
+  @IsOptional()
+  @IsString()
+  cover?: string;
+
+  @IsOptional()
+  @IsIn(["public", "private", "founder_only"])
+  shareLevel?: "public" | "private" | "founder_only";
+
+  @IsOptional()
+  @IsIn(["draft", "published"])
+  status?: "draft" | "published";
+
+  @IsOptional()
+  @IsString({ each: true })
+  tags?: string[];
 }

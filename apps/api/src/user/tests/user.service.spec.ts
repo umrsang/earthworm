@@ -1,5 +1,6 @@
 import { Test, TestingModule } from "@nestjs/testing";
 
+import { user as userTable } from "@earthworm/schema";
 import { insertCourse, insertCoursePack } from "../../../test/fixture/db";
 import { cleanDB, testImportModules } from "../../../test/helper/utils";
 import { endDB } from "../../common/db";
@@ -52,15 +53,24 @@ describe("UserService", () => {
 
       membershipServiceMock.isMember.mockResolvedValue(true);
       membershipServiceMock.getMembershipDetails.mockResolvedValue(membershipDetails);
+      await db.insert(userTable).values({
+        id: userId,
+        username: "current-user",
+        password: "test-password",
+      });
 
       const result = await userService.findCurrentUser(userId);
 
-      expect(result).toEqual({
-        membership: {
-          isMember: true,
-          details: membershipDetails,
-        },
-      });
+      expect(result).toEqual(
+        expect.objectContaining({
+          id: userId,
+          username: "current-user",
+          membership: {
+            isMember: true,
+            details: membershipDetails,
+          },
+        }),
+      );
     });
 
     it("should return undefined on error", async () => {

@@ -42,7 +42,13 @@ export class UserService {
 
   async findCurrentUser(uId: string) {
     try {
+      const userInfo = await this.db.query.user.findFirst({
+        where: eq(userTable.id, uId),
+        columns: { password: false },
+      });
+      if (!userInfo) return undefined;
       return {
+        ...userInfo,
         membership: await this.getMembershipInfo(uId),
       };
     } catch (error) {

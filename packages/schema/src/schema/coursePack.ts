@@ -1,6 +1,6 @@
 import { createId } from "@paralleldrive/cuid2";
 import { relations } from "drizzle-orm";
-import { boolean, int, mysqlTable, text, timestamp, varchar } from "drizzle-orm/mysql-core";
+import { boolean, int, json, mysqlTable, text, timestamp, varchar } from "drizzle-orm/mysql-core";
 
 import { course } from "./course";
 
@@ -13,6 +13,9 @@ export const coursePack = mysqlTable("course_packs", {
   description: text("description"),
   isFree: boolean("is_free"),
   cover: text("cover"),
+  difficulty: varchar("difficulty", { length: 32 }),
+  tags: json("tags"),
+  status: varchar("status", { length: 32 }).notNull().default("draft"),
   creatorId: varchar("creator_id", { length: 128 }).notNull(),
   shareLevel: varchar("share_level", { length: 64 }).default("private"),
   createdAt: timestamp("created_at").notNull().defaultNow(),

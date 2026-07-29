@@ -1,5 +1,5 @@
 import { ApiProperty } from "@nestjs/swagger";
-import { IsNotEmpty, Length } from "class-validator";
+import { IsNotEmpty, Length, Matches } from "class-validator";
 
 export class RegisterDto {
   @ApiProperty({
@@ -15,7 +15,8 @@ export class RegisterDto {
     description: "密码不能为空,长度应在6-20位之间",
   })
   @IsNotEmpty({ message: "密码不能为空" })
-  @Length(6, 20, { message: "密码长度为6-20位" })
+  @Length(8, 20, { message: "密码长度为8-20位" })
+  @Matches(/^(?=.*[A-Za-z])(?=.*\d).+$/, { message: "密码必须同时包含字母和数字" })
   password: string;
 }
 

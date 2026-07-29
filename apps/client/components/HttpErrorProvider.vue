@@ -3,6 +3,7 @@
 </template>
 
 <script setup lang="ts">
+import { navigateTo } from "#app";
 import { toast } from "vue-sonner";
 
 import { injectHttpStatusErrorHandler } from "~/api/http.js";

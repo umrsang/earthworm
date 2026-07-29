@@ -43,6 +43,18 @@ onMounted(async () => {
   await courseStore.setup(coursePackId as string, id as string);
   await coursePackStore.setupCoursePack(coursePackId as string);
 
+  const targetStatementId =
+    typeof route.query.statementId === "string" ? route.query.statementId : undefined;
+  if (targetStatementId) {
+    const targetIndex =
+      courseStore.currentCourse?.statements.findIndex(
+        (statement) => statement.id === targetStatementId,
+      ) ?? -1;
+    if (targetIndex >= 0) {
+      courseStore.toSpecificStatement(targetIndex);
+    }
+  }
+
   if (courseStore.isAllMastered()) {
     toast.info("你已经全部都掌握 自动帮你跳转到课程列表啦", {
       duration: 1500,

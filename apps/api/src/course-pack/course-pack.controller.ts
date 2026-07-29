@@ -1,8 +1,10 @@
-import { Body, Controller, Delete, Get, Param, Post, Put, UseGuards } from "@nestjs/common";
+import { Body, Controller, Delete, Get, Param, Post, Put, Query, UseGuards } from "@nestjs/common";
 
 import { AuthGuard, UncheckAuth } from "../guards/auth.guard";
 import { User, UserEntity } from "../user/user.decorators";
 import { CoursePackService } from "./course-pack.service";
+import { CoursePackQueryDto } from "./dto/course-pack-query.dto";
+import { CreateCoursePackDto } from "./dto/create-course-pack.dto";
 import { UpdateCoursePackDto } from "./dto/update-course-pack.dto";
 import { UploadCoursePackDto } from "./dto/upload-course-pack.dto";
 
@@ -13,8 +15,20 @@ export class CoursePackController {
   @UncheckAuth()
   @UseGuards(AuthGuard)
   @Get()
-  async findAll(@User() user: UserEntity) {
-    return await this.coursePackService.findAll(user.userId);
+  async findAll(@User() user: UserEntity, @Query() query: CoursePackQueryDto) {
+    return await this.coursePackService.findAll(user.userId, query);
+  }
+
+  @UseGuards(AuthGuard)
+  @Get("creator/mine")
+  async findMine(@User() user: UserEntity) {
+    return this.coursePackService.findAllCreatedBy(user.userId);
+  }
+
+  @UseGuards(AuthGuard)
+  @Get("creator/summary")
+  async creatorSummary(@User() user: UserEntity) {
+    return this.coursePackService.getCreatorSummary(user.userId);
   }
 
   @UncheckAuth()
@@ -50,6 +64,12 @@ export class CoursePackController {
     @Param("courseId") courseId: string,
   ) {
     return this.coursePackService.completeCourse(user.userId, coursePackId, courseId);
+  }
+
+  @UseGuards(AuthGuard)
+  @Post()
+  async createCoursePack(@User() user: UserEntity, @Body() dto: CreateCoursePackDto) {
+    return this.coursePackService.createCoursePack(user.userId, dto);
   }
 
   @UseGuards(AuthGuard)

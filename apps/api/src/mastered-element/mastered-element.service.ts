@@ -1,3 +1,5 @@
+import { randomUUID } from "crypto";
+
 import { BadRequestException, Inject, Injectable, NotFoundException } from "@nestjs/common";
 import { and, desc, eq } from "drizzle-orm";
 
@@ -21,9 +23,11 @@ export class MasteredElementService {
       throw new BadRequestException("这个内容已经掌握了");
     }
 
+    const id = randomUUID();
     await this.db.insert(masteredElementsSchema).values({
+      id,
       userId,
-      content: JSON.stringify(content),
+      content,
       masteredAt: new Date(),
     });
 
@@ -31,16 +35,11 @@ export class MasteredElementService {
     const [entity] = await this.db
       .select()
       .from(masteredElementsSchema)
-      .where(
-        and(
-          eq(masteredElementsSchema.userId, userId),
-          eq(masteredElementsSchema.content, JSON.stringify(content)),
-        ),
-      )
+      .where(eq(masteredElementsSchema.id, id))
       .orderBy(desc(masteredElementsSchema.masteredAt))
       .limit(1);
 
-    return { ...entity, content: JSON.parse(entity.content as string) };
+    return { ...entity, content: this.normalizeContent(entity.content) };
   }
 
   async getMasteredElements(userId: string) {
@@ -52,7 +51,7 @@ export class MasteredElementService {
 
     return result.map((item) => ({
       ...item,
-      content: JSON.parse(item.content as string),
+      content: this.normalizeContent(item.content),
     }));
   }
 
@@ -85,14 +84,14 @@ export class MasteredElementService {
     const result = await this.db
       .select()
       .from(masteredElementsSchema)
-      .where(
-        and(
-          eq(masteredElementsSchema.userId, userId),
-          eq(masteredElementsSchema.content, JSON.stringify(content)),
-        ),
-      )
-      .limit(1);
+      .where(eq(masteredElementsSchema.userId, userId));
 
-    return result.length > 0;
+    return result.some(
+      (item) => JSON.stringify(this.normalizeContent(item.content)) === JSON.stringify(content),
+    );
+  }
+
+  private normalizeContent(content: unknown) {
+    return typeof content === "string" ? JSON.parse(content) : content;
   }
 }

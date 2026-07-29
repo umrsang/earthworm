@@ -1,9 +1,10 @@
 import { Inject, Injectable, NotFoundException } from "@nestjs/common";
-import { eq } from "drizzle-orm";
+import { and, desc, eq } from "drizzle-orm";
 
 import { statement } from "@earthworm/schema";
 import { DB, DbType } from "../global/providers/db.provider";
 import { CreatorGuard } from "../guards/creator.guard";
+import { CreateStatementDto } from "./dto/create-statement.dto";
 import { UpdateStatementDto } from "./dto/update-statement.dto";
 
 @Injectable()
@@ -12,6 +13,27 @@ export class StatementService {
     @Inject(DB) private db: DbType,
     private readonly creatorGuard: CreatorGuard,
   ) {}
+
+  async create(userId: string, courseId: string, dto: CreateStatementDto) {
+    await this.creatorGuard.checkCourseOwner(userId, courseId);
+    const latest = await this.db.query.statement.findFirst({
+      where: eq(statement.courseId, courseId),
+      orderBy: desc(statement.order),
+    });
+    const order = dto.order ?? (latest?.order ?? 0) + 1;
+    await this.db.insert(statement).values({
+      courseId,
+      order,
+      chinese: dto.chinese,
+      english: dto.english,
+      soundmark: dto.soundmark ?? "",
+      posTags: dto.posTags ? JSON.stringify(dto.posTags) : null,
+      syntaxTags: dto.syntaxTags ? JSON.stringify(dto.syntaxTags) : null,
+    });
+    return this.db.query.statement.findFirst({
+      where: and(eq(statement.courseId, courseId), eq(statement.order, order)),
+    });
+  }
 
   async update(userId: string, statementId: string, dto: UpdateStatementDto) {
     await this.creatorGuard.checkStatementOwner(userId, statementId);

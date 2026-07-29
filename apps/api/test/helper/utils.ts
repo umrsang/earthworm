@@ -16,6 +16,14 @@ export async function cleanDB(db: DbType) {
   await db.execute(sql`TRUNCATE TABLE mastered_elements`);
   await db.execute(sql`TRUNCATE TABLE memberships`);
   await db.execute(sql`TRUNCATE TABLE users`);
+  await db.execute(sql`TRUNCATE TABLE learning_attempts`);
+  await db.execute(sql`TRUNCATE TABLE review_items`);
+  await db.execute(sql`TRUNCATE TABLE daily_plans`);
+  await db.execute(sql`TRUNCATE TABLE user_course_library`);
+  await db.execute(sql`TRUNCATE TABLE user_preferences`);
+  await db.execute(sql`TRUNCATE TABLE notifications`);
+  await db.execute(sql`TRUNCATE TABLE user_rank`);
+  await db.execute(sql`TRUNCATE TABLE user_learn_record`);
   await db.execute(sql`SET FOREIGN_KEY_CHECKS = 1`);
 }
 

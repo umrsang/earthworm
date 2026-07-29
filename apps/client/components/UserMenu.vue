@@ -84,6 +84,36 @@ const modal = useModal();
 const showMenuOptions = computed(() => {
   return [
     {
+      title: "今日学习",
+      name: "today",
+      eventName: () => handleNavigate("/today"),
+      icon: "i-ph-calendar-check",
+    },
+    {
+      title: "课程中心",
+      name: "courses",
+      eventName: () => handleNavigate("/course-pack"),
+      icon: "i-ph-books",
+    },
+    {
+      title: "复习中心",
+      name: "review",
+      eventName: () => handleNavigate("/review"),
+      icon: "i-ph-arrows-clockwise",
+    },
+    {
+      title: "学习洞察",
+      name: "insights",
+      eventName: () => handleNavigate("/insights"),
+      icon: "i-ph-chart-line-up",
+    },
+    {
+      title: "通知中心",
+      name: "notifications",
+      eventName: () => handleNavigate("/notifications"),
+      icon: "i-ph-bell",
+    },
+    {
       title: "设置",
       name: "setting",
       eventName: handleSetting,
@@ -91,13 +121,13 @@ const showMenuOptions = computed(() => {
     },
     {
       title: "掌握列表",
-      name: "setting",
+      name: "mastered-elements",
       eventName: handleMasteredElements,
       icon: "i-ph-book",
     },
     {
       title: "编辑器",
-      name: "setting",
+      name: "editor",
       eventName: handleGoToEditor,
       icon: "i-ph-planet-duotone",
     },
@@ -146,6 +176,11 @@ function handleMasteredElements() {
 function handleSetting() {
   closeUserMenu();
   navigateTo("/user/setting");
+}
+
+function handleNavigate(path: string) {
+  closeUserMenu();
+  navigateTo(path);
 }
 
 function handleLogout() {

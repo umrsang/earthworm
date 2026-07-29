@@ -5,6 +5,8 @@
   "main": "src/index.ts",
   "scripts": {
     "init": "drizzle-kit push",
+    "init:test": "drizzle-kit push --config drizzle.config.test.ts",
+    "init:ci": "drizzle-kit push --config drizzle.config.test.ts",
     "db:studio": "drizzle-kit studio",
     "generate": "drizzle-kit generate",
     "migrate": "drizzle-kit migrate"

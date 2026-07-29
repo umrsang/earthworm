@@ -1,3 +1,4 @@
+import { recordLearningAttempt } from "~/api/learning-experience";
 import { courseTimer } from "~/composables/courses/courseTimer";
 import { useGameMode } from "~/composables/main/game";
 import { useInput } from "~/composables/main/question";
@@ -46,6 +47,7 @@ export function useWrapperQuestionInput() {
   }
 
   function handleAnswerRight() {
+    recordCurrentAttempt(true);
     courseTimer.timeEnd(String(courseStore.statementIndex)); // 停止当前题目的计时
     playRightSound();
 
@@ -61,6 +63,25 @@ export function useWrapperQuestionInput() {
     }
   }
 
+  function handleAnswerWrong() {
+    recordCurrentAttempt(false);
+    handleAnswerError();
+  }
+
+  function recordCurrentAttempt(isCorrect: boolean) {
+    const currentCourse = courseStore.currentCourse;
+    const currentStatement = courseStore.currentStatement;
+    if (!currentCourse || !currentStatement) return;
+    void recordLearningAttempt({
+      coursePackId: currentCourse.coursePackId,
+      courseId: currentCourse.id,
+      statementId: currentStatement.id,
+      answer: inputValue.value,
+      isCorrect,
+      durationMs: 0,
+    });
+  }
+
   return {
     initializeQuestionInput,
     isFixMode,
@@ -69,7 +90,7 @@ export function useWrapperQuestionInput() {
     inputValue,
     setInputValue,
     submitAnswer() {
-      submitAnswer(handleAnswerRight, handleAnswerError);
+      submitAnswer(handleAnswerRight, handleAnswerWrong);
       focusInput();
     },
     handleKeyboardInput(e: KeyboardEvent) {
@@ -77,7 +98,7 @@ export function useWrapperQuestionInput() {
         useSpaceSubmitAnswer: {
           enable: isUseSpaceSubmitAnswer(),
           rightCallback: handleAnswerRight,
-          errorCallback: handleAnswerError,
+          errorCallback: handleAnswerWrong,
         },
       });
     },

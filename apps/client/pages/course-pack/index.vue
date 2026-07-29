@@ -2,8 +2,8 @@
   <div class="flex w-full flex-col">
     <div class="mb-8 flex items-center justify-between">
       <div>
-        <h2 class="text-2xl font-bold text-white">课程包</h2>
-        <p class="mt-1 text-sm text-gray-500">选择一个课程包开始学习</p>
+        <h2 class="text-2xl font-bold text-[var(--ew-color-text-primary)]">课程包</h2>
+        <p class="mt-1 text-sm text-[var(--ew-color-text-secondary)]">选择一个课程包开始学习</p>
       </div>
       <NuxtLink
         to="/course-pack/upload"
@@ -28,6 +28,13 @@
           :key="coursePack.id"
         >
           <div class="group/card relative">
+            <button
+              class="absolute left-2 top-2 z-10 rounded-full bg-black/50 px-2.5 py-1.5 text-lg text-amber-300 backdrop-blur"
+              :aria-label="favoriteIds.has(coursePack.id) ? '取消收藏' : '收藏课程'"
+              @click.stop="toggleFavorite(coursePack.id)"
+            >
+              {{ favoriteIds.has(coursePack.id) ? "★" : "☆" }}
+            </button>
             <CoursePackCard
               :coursePack="{
                 id: coursePack.id,
@@ -190,6 +197,7 @@ import { ref } from "vue";
 import { toast } from "vue-sonner";
 
 import type { CoursePack, CoursePacksItem } from "~/types";
+import { fetchCourseLibrary, setCoursePackFavorite } from "~/api/learning-experience";
 import CoursePackCard from "~/components/courses/CoursePackCard.vue";
 import { useNavigation } from "~/composables/useNavigation";
 import { useCoursePackStore } from "~/store/coursePack";
@@ -209,6 +217,7 @@ const isDeleting = ref(false);
 const editForm = ref({ title: "", description: "", isFree: true, shareLevel: "public" });
 const editingId = ref("");
 const deleteTarget = ref<CoursePacksItem | null>(null);
+const favoriteIds = ref(new Set<string>());
 
 setup();
 
@@ -218,6 +227,19 @@ async function setup() {
     await coursePackStore.setupCoursePacks();
     isLoading.value = false;
   }
+  const library = await fetchCourseLibrary();
+  favoriteIds.value = new Set(
+    library.filter((item) => item.isFavorite).map((item) => item.coursePackId),
+  );
+}
+
+async function toggleFavorite(coursePackId: string) {
+  const isFavorite = !favoriteIds.value.has(coursePackId);
+  await setCoursePackFavorite(coursePackId, isFavorite);
+  const next = new Set(favoriteIds.value);
+  isFavorite ? next.add(coursePackId) : next.delete(coursePackId);
+  favoriteIds.value = next;
+  toast.success(isFavorite ? "已收藏课程" : "已取消收藏");
 }
 
 function isOwner(coursePack: CoursePacksItem) {

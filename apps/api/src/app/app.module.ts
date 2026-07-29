@@ -7,6 +7,7 @@ import { CoursePackModule } from "../course-pack/course-pack.module";
 import { CourseModule } from "../course/course.module";
 import { CronJobModule } from "../cron-job/cron-job.module";
 import { GlobalModule } from "../global/global.module";
+import { LearningExperienceModule } from "../learning-experience/learning-experience.module";
 import { MasteredElementModule } from "../mastered-element/mastered-element.module";
 import { MembershipModule } from "../membership/membership.module";
 import { RankModule } from "../rank/rank.module";
@@ -32,6 +33,7 @@ import { UserModule } from "../user/user.module";
     MembershipModule,
     MasteredElementModule,
     StatementModule,
+    LearningExperienceModule,
     ScheduleModule.forRoot(),
   ],
 })

@@ -1,5 +1,5 @@
 import { Inject, Injectable, NotFoundException } from "@nestjs/common";
-import { and, asc, eq, gt } from "drizzle-orm";
+import { and, asc, desc, eq } from "drizzle-orm";
 
 import { course, statement } from "@earthworm/schema";
 import { CourseHistoryService } from "../course-history/course-history.service";
@@ -7,6 +7,7 @@ import { DB, DbType } from "../global/providers/db.provider";
 import { CreatorGuard } from "../guards/creator.guard";
 import { RankService } from "../rank/rank.service";
 import { UserCourseProgressService } from "../user-course-progress/user-course-progress.service";
+import { CreateCourseDto } from "./dto/create-course.dto";
 import { UpdateCourseDto } from "./dto/update-course.dto";
 
 @Injectable()
@@ -19,14 +20,30 @@ export class CourseService {
     private readonly creatorGuard: CreatorGuard,
   ) {}
 
+  async create(userId: string, coursePackId: string, dto: CreateCourseDto) {
+    await this.creatorGuard.checkCoursePackOwner(userId, coursePackId);
+    const latest = await this.db.query.course.findFirst({
+      where: eq(course.coursePackId, coursePackId),
+      orderBy: desc(course.order),
+    });
+    const order = dto.order ?? (latest?.order ?? 0) + 1;
+    await this.db.insert(course).values({
+      coursePackId,
+      title: dto.title,
+      description: dto.description,
+      video: dto.video,
+      order,
+    });
+    return this.db.query.course.findFirst({
+      where: and(eq(course.coursePackId, coursePackId), eq(course.order, order)),
+    });
+  }
+
   async find(coursePackId: string, courseId: string) {
     const courseEntity = await this.db.query.course.findFirst({
       where: and(eq(course.id, courseId), eq(course.coursePackId, coursePackId)),
       with: {
         statements: {
-          columns: {
-            id: false,
-          },
           orderBy: [asc(statement.order)],
         },
       },

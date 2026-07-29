@@ -9,6 +9,7 @@ import { endDB } from "../../common/db";
 import { CourseHistoryService } from "../../course-history/course-history.service";
 import { CourseService } from "../../course/course.service";
 import { DB } from "../../global/providers/db.provider";
+import { CreatorGuard } from "../../guards/creator.guard";
 import { MembershipService } from "../../membership/membership.service";
 import { CoursePackService } from "../course-pack.service";
 
@@ -243,6 +244,14 @@ async function setupTesting() {
     providers: [
       CoursePackService,
       { provide: CourseService, useValue: MockCourseService },
+      {
+        provide: CreatorGuard,
+        useValue: {
+          checkCoursePackOwner: jest.fn(),
+          checkCourseOwner: jest.fn(),
+          checkStatementOwner: jest.fn(),
+        },
+      },
       {
         provide: CourseHistoryService,
         useValue: MockCourseHistoryService,

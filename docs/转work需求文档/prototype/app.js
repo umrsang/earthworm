@@ -125,10 +125,10 @@ function authPage() {
   return `
     <div class="auth-page">
       <section class="auth-story">
-        <button class="brand auth-brand" data-page="today" aria-label="返回产品首页">
+        <a class="brand auth-brand" href="./landing.html" aria-label="返回产品首页">
           <span class="brand-mark">E</span>
           <span><strong>Earthworm</strong><small>Learning OS</small></span>
-        </button>
+        </a>
         <div class="auth-story-copy">
           <span class="status-pill purple">每天 15 分钟，真正掌握英语表达</span>
           <h1>把零散学习，变成<br /><em>每天都能完成的进步。</em></h1>
@@ -181,7 +181,7 @@ function authPage() {
             <span>${isLogin ? "还没有账号？" : "已经有账号？"}</span>
             <button data-action="${isLogin ? "show-register" : "show-login"}">${isLogin ? "免费创建账号" : "返回登录"}</button>
           </div>
-          <button class="button ghost auth-back" data-page="today">← 暂不登录，返回首页</button>
+          <a class="button ghost auth-back" href="./landing.html">← 暂不登录，返回产品首页</a>
         </div>
       </section>
     </div>`;

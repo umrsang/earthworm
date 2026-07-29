@@ -47,7 +47,7 @@ const { showQuestion } = useGameMode();
 const { isAutoPlaySound } = useAutoPronunciation();
 const { goToNextQuestion } = useAnswer();
 
-const words = computed(() => courseStore.currentStatement?.english.split(" "));
+const words = computed(() => courseStore.currentStatement?.english.split(" ") ?? []);
 
 interface Tag {
   start: number;

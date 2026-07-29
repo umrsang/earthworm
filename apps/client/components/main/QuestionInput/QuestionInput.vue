@@ -158,7 +158,7 @@ function getWordsClassNames(index: number) {
   }
 
   // 默认样式
-  return "text-gray-400 border-b-white/[0.15]";
+  return "text-[var(--ew-color-text-secondary)] border-b-[var(--ew-color-border-strong)]";
 }
 
 // 输入宽度

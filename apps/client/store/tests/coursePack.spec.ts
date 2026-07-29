@@ -22,6 +22,7 @@ describe("course pack store", () => {
       isFree: true,
       courses: [],
       cover: "",
+      creatorId: "creator",
     };
 
     const firstCourse: Course = {

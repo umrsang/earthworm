@@ -55,7 +55,7 @@ const items = computed<BreadcrumbItem[]>(() => {
   const path = route.path;
   if (path === "/" || path === "") return [];
 
-  const result: BreadcrumbItem[] = [{ label: "首页", path: "/" }];
+  const result: BreadcrumbItem[] = [{ label: "首页", to: "/" }];
 
   // 静态路由匹配
   if (parentMap[path]) {

@@ -177,6 +177,9 @@
 </template>
 
 <script setup lang="ts">
+import { onMounted, watch } from "vue";
+
+import { fetchPreferences, updatePreferences } from "~/api/learning-experience";
 import { useAutoNextQuestion } from "~/composables/user/autoNext";
 import { useErrorTip } from "~/composables/user/errorTip";
 import { GamePlayMode, useGamePlayMode } from "~/composables/user/gamePlayMode";
@@ -207,6 +210,53 @@ const { showErrorTip, toggleShowErrorTip } = useErrorTip();
 const { shortcutKeys, handleEdit } = useShortcutKeyMode();
 
 const { getGamePlayModeOptions, currentGamePlayMode, toggleGamePlayMode } = useGamePlayMode();
+
+let hydrating = true;
+onMounted(async () => {
+  const settings = await fetchPreferences();
+  applyBoolean(settings.autoNext, autoNextQuestion, toggleAutoQuestion);
+  applyBoolean(settings.keyboardSound, keyboardSound, toggleKeyboardSound);
+  applyBoolean(settings.autoPlaySound, autoPlaySound, toggleAutoPlaySound);
+  applyBoolean(settings.autoPlayEnglish, autoPlayEnglish, toggleAutoPlayEnglish);
+  applyBoolean(settings.showWordsWidth, showWordsWidth, toggleAutoWordsWidth);
+  applyBoolean(settings.useSpace, useSpace, toggleUseSpaceSubmitAnswer);
+  applyBoolean(settings.errorTips, showErrorTip, toggleShowErrorTip);
+  if (settings.gameMode) toggleGamePlayMode(settings.gameMode as GamePlayMode);
+  if (settings.pronunciation) togglePronunciation(settings.pronunciation as PronunciationType);
+  hydrating = false;
+});
+
+watch(
+  [
+    autoNextQuestion,
+    keyboardSound,
+    autoPlaySound,
+    autoPlayEnglish,
+    showWordsWidth,
+    useSpace,
+    showErrorTip,
+    currentGamePlayMode,
+    pronunciation,
+  ],
+  () => {
+    if (hydrating) return;
+    void updatePreferences({
+      autoNext: autoNextQuestion.value,
+      keyboardSound: keyboardSound.value,
+      autoPlaySound: autoPlaySound.value,
+      autoPlayEnglish: autoPlayEnglish.value,
+      showWordsWidth: showWordsWidth.value,
+      useSpace: useSpace.value,
+      errorTips: showErrorTip.value,
+      gameMode: currentGamePlayMode.value,
+      pronunciation: pronunciation.value,
+    });
+  },
+);
+
+function applyBoolean(value: unknown, target: { value: boolean }, toggle: () => void) {
+  if (typeof value === "boolean" && value !== target.value) toggle();
+}
 
 const shortcutKeyBindList = [
   {
