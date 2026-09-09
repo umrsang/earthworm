@@ -12,7 +12,11 @@
       <!-- Landing 页面无内边距（组件内部自行控制），其他页面加内边距 -->
       <div :class="isLandingPage || isGamePage ? 'flex w-full flex-1' : 'flex w-full flex-1 px-5'">
         <div
-          :class="isGamePage ? 'flex w-full flex-1' : 'mx-auto flex w-full max-w-screen-xl flex-1'"
+          :class="
+            isLandingPage || isGamePage
+              ? 'flex w-full flex-1'
+              : 'mx-auto flex w-full max-w-screen-xl flex-1'
+          "
         >
           <slot />
         </div>

@@ -9,7 +9,7 @@ export const coursePack = mysqlTable("course_packs", {
     .primaryKey()
     .$defaultFn(() => createId()),
   order: int("order").notNull(),
-  title: text("title").notNull(),
+  title: varchar("title", { length: 256 }).notNull(),
   description: text("description"),
   isFree: boolean("is_free"),
   cover: text("cover"),
@@ -17,7 +17,7 @@ export const coursePack = mysqlTable("course_packs", {
   tags: json("tags"),
   status: varchar("status", { length: 32 }).notNull().default("draft"),
   creatorId: varchar("creator_id", { length: 128 }).notNull(),
-  shareLevel: varchar("share_level", { length: 64 }).default("private"),
+  shareLevel: varchar("share_level", { length: 32 }).default("private"),
   createdAt: timestamp("created_at").notNull().defaultNow(),
   updatedAt: timestamp("updated_at").onUpdateNow(),
 });

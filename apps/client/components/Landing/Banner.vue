@@ -1,7 +1,7 @@
 <template>
   <section
     id="home"
-    class="relative overflow-hidden pb-16 pt-24"
+    class="landing-banner relative overflow-hidden pb-8 pt-16 lg:pt-20"
   >
     <!-- 背景光斑 -->
     <div
@@ -81,7 +81,7 @@
     </div>
 
     <!-- 特性标签行 -->
-    <div class="mx-auto mt-16 max-w-screen-xl px-6">
+    <div class="mx-auto mt-12 max-w-screen-xl px-6">
       <div class="grid grid-cols-2 gap-4 sm:grid-cols-4">
         <div
           class="flex items-center gap-3 rounded-xl border border-white/5 bg-white/[0.02] px-4 py-3"

@@ -9,8 +9,6 @@ const envFile =
 
 dotenv.config({ path: path.resolve(__dirname, envFile) });
 
-console.log("process.env.DATABASE_URL: ", process.env.DATABASE_URL);
-
 export default {
   schema: "../schema/src/schema/*",
   out: "./drizzle",

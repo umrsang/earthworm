@@ -1,7 +1,7 @@
 <template>
   <section
     id="features"
-    class="py-24"
+    class="landing-features py-16 lg:py-20"
   >
     <div class="mx-auto max-w-screen-xl px-6">
       <!-- 标题区 -->

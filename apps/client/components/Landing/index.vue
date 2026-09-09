@@ -1,11 +1,11 @@
 <template>
-  <div class="min-h-screen bg-[#0a0a16] font-customFont text-white">
+  <main class="landing-page min-h-screen w-full bg-[#0a0a16] font-customFont text-white">
     <LandingBanner @start-earthworm="startEarthworm" />
     <LandingFeatures />
     <LandingComments />
     <LandingQuestions />
     <LandingContact />
-  </div>
+  </main>
 </template>
 
 <script setup lang="ts">
