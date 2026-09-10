@@ -1,0 +1,25 @@
+{
+  "name": "@earthworm/db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.ts",
+  "scripts": {
+    "sync": "drizzle-kit push",
+    "sync:test": "drizzle-kit push --config drizzle.config.test.ts",
+    "init": "drizzle-kit push",
+    "init:test": "drizzle-kit push --config drizzle.config.test.ts",
+    "init:ci": "drizzle-kit push --config drizzle.config.test.ts",
+    "db:studio": "drizzle-kit studio"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "drizzle-kit": "^0.23.0"
+  },
+  "dependencies": {
+    "drizzle-orm": "^0.32.0",
+    "mysql2": "^3.9.0",
+    "@earthworm/schema": "workspace:^"
+  }
+}

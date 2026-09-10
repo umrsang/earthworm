@@ -1,0 +1,45 @@
+<template>
+  <main class="landing-page min-h-screen w-full bg-[#0a0a16] font-customFont text-white">
+    <LandingBanner @start-earthworm="startEarthworm" />
+    <LandingFeatures />
+    <LandingComments />
+    <LandingQuestions />
+    <LandingContact />
+  </main>
+</template>
+
+<script setup lang="ts">
+import { onMounted, onUnmounted } from "vue";
+import { useRouter } from "vue-router";
+
+import { isAuthenticated, setSignInCallback } from "~/services/auth";
+import { cancelShortcut, registerShortcut } from "~/utils/keyboardShortcuts";
+
+const { startEarthworm } = useShortcutToGame();
+
+function useShortcutToGame() {
+  const router = useRouter();
+
+  async function startEarthworm() {
+    const target = "/course-pack";
+    if (!isAuthenticated()) {
+      setSignInCallback(target);
+      await router.push("/callback");
+      return;
+    }
+    await router.push(target);
+  }
+
+  onMounted(() => {
+    registerShortcut("enter", startEarthworm);
+  });
+
+  onUnmounted(() => {
+    cancelShortcut("enter", startEarthworm);
+  });
+
+  return {
+    startEarthworm,
+  };
+}
+</script>
