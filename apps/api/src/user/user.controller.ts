@@ -1,44 +1,19 @@
-import { Body, Controller, Get, Patch, Post, UseGuards } from "@nestjs/common";
-
-import { AuthService } from "../auth/auth.service";
-import { AuthGuard } from "../guards/auth.guard";
-import { User, UserEntity } from "../user/user.decorators";
-import { LoginDto, RegisterDto, UpdateUserDto } from "./model/user.dto";
+import { Controller, Get, Request, UseGuards } from "@nestjs/common";
+import { JwtAuthGuard } from "../auth/jwt-auth.guard";
 import { UserService } from "./user.service";
 
 @Controller("user")
 export class UserController {
-  constructor(
-    private readonly userService: UserService,
-    private readonly authService: AuthService,
-  ) {}
+  constructor(private readonly userService: UserService) {}
 
-  @Post("register")
-  async register(@Body() dto: RegisterDto) {
-    return this.authService.register(dto.username, dto.password);
-  }
-
-  @Post("login")
-  async login(@Body() dto: LoginDto) {
-    return this.authService.login(dto.username, dto.password);
-  }
-
-  @UseGuards(AuthGuard)
-  @Patch()
-  updateInfo(@User() user: UserEntity, @Body() dto: UpdateUserDto) {
-    return this.userService.updateUser(user, dto);
-  }
-
-  @UseGuards(AuthGuard)
-  @Get()
-  async getCurrentUser(@User() user: UserEntity) {
-    const userInfo = await this.userService.findCurrentUser(user.userId);
-    return userInfo;
-  }
-
-  @UseGuards(AuthGuard)
-  @Post("setup")
-  async initializeUser(@User() user: UserEntity, @Body() dto: UpdateUserDto) {
-    return this.userService.setupNewUser(user, dto);
+  /**
+   * 获取当前登录用户的个人资料信息
+   * @param req.user 经 JWT 认证守卫提取的用户上下文（包含 userId, username）
+   * @returns 用户 ID、用户名、昵称、邮箱、创建时间等详细资料
+   */
+  @UseGuards(JwtAuthGuard)
+  @Get("profile")
+  async getProfile(@Request() req: any) {
+    return this.userService.findProfileById(req.user.userId);
   }
 }

@@ -1,0 +1,548 @@
+:root {
+  --theme-bg-dark: #090914;
+  --theme-bg-darker: #0a0a16;
+  --theme-primary: #a855f7;
+  --theme-primary-hover: #c084fc;
+  --theme-primary-glow: rgba(168, 85, 247, 0.3);
+  --theme-text-light: #ffffff;
+  --theme-text-muted: #9ca3af;
+  --theme-border-translucent: rgba(255, 255, 255, 0.1);
+  --theme-card-translucent: rgba(255, 255, 255, 0.035);
+  --theme-input-bg: rgba(0, 0, 0, 0.25);
+  --radius-xl: 18px;
+  --radius-2xl: 24px;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  background-color: var(--theme-bg-dark);
+  color: var(--theme-text-light);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* =======================================================
+   1. 沉浸式双栏登录/注册页 (复刻 callback.vue)
+   ======================================================= */
+.auth-dual-grid-page {
+  display: grid;
+  min-height: 100vh;
+  width: 100%;
+  background-color: var(--theme-bg-dark);
+}
+
+@media (min-width: 1024px) {
+  .auth-dual-grid-page {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+/* 左侧科技感渐变区 */
+.auth-hero-banner-section {
+  display: none;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  background: linear-gradient(135deg, rgba(126, 34, 206, 0.25), #111126 50%, rgba(6, 182, 212, 0.1));
+  padding: 4rem;
+  border-right: 1px solid var(--theme-border-translucent);
+}
+
+@media (min-width: 1024px) {
+  .auth-hero-banner-section {
+    display: flex;
+  }
+}
+
+.auth-hero-content-wrapper {
+  max-width: 480px;
+}
+
+.auth-hero-brand-title {
+  font-size: 1.8rem;
+  font-weight: 900;
+  color: #fff;
+  text-decoration: none;
+}
+
+.auth-hero-tagline {
+  margin-top: 3.5rem;
+  font-size: 0.875rem;
+  font-weight: 600;
+  letter-spacing: 0.22em;
+  color: #d8b4fe;
+}
+
+.auth-hero-main-title {
+  margin-top: 1.25rem;
+  font-size: 2.85rem;
+  font-weight: 800;
+  line-height: 1.2;
+  color: #fff;
+}
+
+.auth-hero-description {
+  margin-top: 1.5rem;
+  font-size: 1.1rem;
+  line-height: 1.7;
+  color: var(--theme-text-muted);
+}
+
+.auth-hero-progress-card {
+  margin-top: 3rem;
+  border-radius: var(--radius-xl);
+  border: 1px solid var(--theme-border-translucent);
+  background-color: rgba(255, 255, 255, 0.05);
+  padding: 1.5rem;
+  backdrop-filter: blur(10px);
+}
+
+.auth-progress-header {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.9rem;
+  color: #e5e7eb;
+}
+
+.auth-progress-track {
+  margin-top: 1rem;
+  height: 8px;
+  width: 100%;
+  overflow: hidden;
+  border-radius: 9999px;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.auth-progress-fill {
+  height: 100%;
+  width: 60%;
+  border-radius: 9999px;
+  background: linear-gradient(90deg, #a855f7, #22d3ee);
+}
+
+/* 右侧表单区 */
+.auth-form-container-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+}
+
+.auth-form-card {
+  width: 100%;
+  max-width: 440px;
+  border-radius: var(--radius-2xl);
+  border: 1px solid var(--theme-border-translucent);
+  background-color: var(--theme-card-translucent);
+  padding: 2.5rem;
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(12px);
+}
+
+.auth-form-top-tag {
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.2em;
+  color: #c084fc;
+}
+
+.auth-form-heading {
+  margin-top: 0.6rem;
+  font-size: 1.85rem;
+  font-weight: 700;
+  color: #fff;
+}
+
+.auth-form-subheading {
+  margin-top: 0.5rem;
+  font-size: 0.95rem;
+  color: var(--theme-text-muted);
+}
+
+.auth-form-group {
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+.auth-field-item {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.auth-field-label {
+  font-size: 0.875rem;
+  color: #d1d5db;
+}
+
+.auth-field-input {
+  width: 100%;
+  border-radius: 12px;
+  border: 1px solid var(--theme-border-translucent);
+  background-color: var(--theme-input-bg);
+  padding: 0.75rem 1rem;
+  font-size: 0.95rem;
+  color: #fff;
+  outline: none;
+  transition: all 0.2s;
+}
+
+.auth-field-input:focus {
+  border-color: #c084fc;
+  box-shadow: 0 0 0 2px rgba(192, 132, 252, 0.2);
+}
+
+.auth-password-wrapper {
+  position: relative;
+}
+
+.auth-password-toggle-button {
+  position: absolute;
+  right: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  color: #9ca3af;
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+
+.auth-password-toggle-button:hover {
+  color: #fff;
+}
+
+.auth-terms-checkbox-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.6rem;
+  font-size: 0.875rem;
+  color: var(--theme-text-muted);
+  cursor: pointer;
+}
+
+.auth-terms-link {
+  color: #d8b4fe;
+  text-decoration: none;
+}
+
+.auth-terms-link:hover {
+  text-decoration: underline;
+}
+
+.auth-submit-action-button {
+  margin-top: 0.5rem;
+  width: 100%;
+  border-radius: 12px;
+  background-color: var(--theme-primary);
+  padding: 0.85rem;
+  font-size: 1rem;
+  font-weight: 600;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  transition: all 0.2s;
+  box-shadow: 0 4px 14px var(--theme-primary-glow);
+}
+
+.auth-submit-action-button:hover:not(:disabled) {
+  background-color: var(--theme-primary-hover);
+  transform: translateY(-1px);
+}
+
+.auth-submit-action-button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.auth-mode-switch-button {
+  margin-top: 1.25rem;
+  width: 100%;
+  background: none;
+  border: none;
+  font-size: 0.9rem;
+  color: var(--theme-text-muted);
+  cursor: pointer;
+  text-align: center;
+  transition: color 0.2s;
+}
+
+.auth-mode-switch-button:hover {
+  color: #fff;
+}
+
+.auth-feedback-alert {
+  padding: 0.75rem 1rem;
+  border-radius: 12px;
+  background-color: rgba(239, 68, 68, 0.15);
+  border: 1px solid rgba(239, 68, 68, 0.3);
+  color: #f87171;
+  font-size: 0.875rem;
+  margin-bottom: 1rem;
+}
+
+/* =======================================================
+   2. 首页暗黑极光布局 (复刻 Navbar.vue + Landing/Banner.vue)
+   ======================================================= */
+.landing-home-page-container {
+  min-height: 100vh;
+  width: 100%;
+  background-color: var(--theme-bg-darker);
+  color: #fff;
+  position: relative;
+  overflow-x: hidden;
+}
+
+/* 顶部极光导航条 */
+.dark-navbar-header {
+  width: 100%;
+  padding: 1rem 1.5rem;
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  backdrop-filter: blur(12px);
+  background: linear-gradient(90deg, rgba(10, 10, 22, 0.85), rgba(17, 17, 38, 0.85));
+  border-bottom: 1px solid var(--theme-border-translucent);
+}
+
+.dark-navbar-inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.dark-navbar-logo-area {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  text-decoration: none;
+  color: #fff;
+}
+
+.dark-navbar-logo-badge {
+  width: 36px;
+  height: 36px;
+  border-radius: 10px;
+  background: linear-gradient(135deg, var(--theme-primary), #6366f1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 800;
+  font-size: 1.1rem;
+  box-shadow: 0 0 15px var(--theme-primary-glow);
+}
+
+.dark-navbar-logo-text {
+  font-size: 1.4rem;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+}
+
+.dark-navbar-actions-area {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.dark-nav-action-button {
+  padding: 0.5rem 1.25rem;
+  border-radius: 9999px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  border: none;
+  background-color: var(--theme-primary);
+  color: #fff;
+  cursor: pointer;
+  transition: all 0.2s;
+  box-shadow: 0 0 15px var(--theme-primary-glow);
+}
+
+.dark-nav-action-button:hover {
+  background-color: var(--theme-primary-hover);
+}
+
+/* 落地页 Hero 区域 */
+.landing-hero-section {
+  position: relative;
+  padding: 4rem 1.5rem 3rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* 背景光斑 */
+.landing-ambient-glow {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 700px;
+  height: 500px;
+  border-radius: 9999px;
+  background: radial-gradient(circle, rgba(168, 85, 247, 0.15) 0%, rgba(59, 130, 246, 0.05) 60%, transparent 70%);
+  filter: blur(80px);
+  pointer-events: none;
+}
+
+.landing-hero-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  border-radius: 9999px;
+  border: 1px solid var(--theme-border-translucent);
+  background-color: rgba(255, 255, 255, 0.05);
+  padding: 0.4rem 1rem;
+  font-size: 0.875rem;
+  color: #e2e8f0;
+  margin-bottom: 2rem;
+}
+
+.landing-hero-headline {
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+}
+
+@media (min-width: 768px) {
+  .landing-hero-headline {
+    font-size: 4.2rem;
+  }
+}
+
+.text-gradient-purple {
+  background: linear-gradient(90deg, #c084fc, #e9d5ff, #ffffff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.landing-hero-subparagraph {
+  margin-top: 1.75rem;
+  max-width: 680px;
+  font-size: 1.15rem;
+  line-height: 1.8;
+  color: var(--theme-text-muted);
+}
+
+.landing-cta-row {
+  margin-top: 2.5rem;
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+}
+
+.landing-primary-cta-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  border-radius: 9999px;
+  background-color: var(--theme-primary);
+  padding: 0.9rem 2.8rem;
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  transition: all 0.25s;
+  box-shadow: 0 10px 25px -5px var(--theme-primary-glow);
+}
+
+.landing-primary-cta-button:hover {
+  transform: scale(1.04);
+  background-color: var(--theme-primary-hover);
+}
+
+/* 特性网格 */
+.landing-features-grid {
+  margin-top: 4rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+}
+
+.landing-feature-chip {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  border-radius: var(--radius-xl);
+  border: 1px solid var(--theme-border-translucent);
+  background-color: rgba(255, 255, 255, 0.02);
+  padding: 1rem 1.25rem;
+  font-size: 0.95rem;
+  color: #e2e8f0;
+}
+
+/* 登录后工作台卡片区 (复刻 Home/index.vue) */
+.user-profile-dashboard-section {
+  max-width: 1200px;
+  margin: 3rem auto;
+  padding: 0 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+@media (min-width: 1024px) {
+  .user-profile-dashboard-section {
+    flex-direction: row;
+    gap: 3.5rem;
+  }
+}
+
+.user-sidebar-profile-card {
+  width: 100%;
+  max-width: 320px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.user-avatar-circle {
+  width: 140px;
+  height: 140px;
+  border-radius: 9999px;
+  background: linear-gradient(135deg, #4f46e5, #9333ea);
+  border: 3px solid rgba(255, 255, 255, 0.15);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.5rem;
+  font-weight: 800;
+  color: #fff;
+  box-shadow: 0 0 30px var(--theme-primary-glow);
+}
+
+.user-username-heading {
+  margin-top: 1.25rem;
+  font-size: 1.75rem;
+  font-weight: 700;
+}
+
+.user-main-content-panel {
+  flex: 1;
+}
+
+.dark-content-card {
+  border-radius: var(--radius-2xl);
+  border: 1px solid var(--theme-border-translucent);
+  background-color: var(--theme-card-translucent);
+  padding: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+.dark-content-card-title {
+  font-size: 1.3rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  color: #fff;
+}

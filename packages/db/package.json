@@ -1,25 +1,23 @@
 {
-  "name": "@earthworm/db",
+  "name": "@jufun/db",
   "version": "1.0.0",
-  "description": "",
+  "private": true,
   "main": "src/index.ts",
+  "types": "src/index.ts",
   "scripts": {
     "sync": "drizzle-kit push",
-    "sync:test": "drizzle-kit push --config drizzle.config.test.ts",
-    "init": "drizzle-kit push",
-    "init:test": "drizzle-kit push --config drizzle.config.test.ts",
-    "init:ci": "drizzle-kit push --config drizzle.config.test.ts",
-    "db:studio": "drizzle-kit studio"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "drizzle-kit": "^0.23.0"
+    "generate": "drizzle-kit generate"
   },
   "dependencies": {
+    "@jufun/schema": "workspace:*",
+    "@libsql/client": "^0.6.2",
+    "dotenv": "^16.4.5",
     "drizzle-orm": "^0.32.0",
-    "mysql2": "^3.9.0",
-    "@earthworm/schema": "workspace:^"
+    "mysql2": "^3.9.7"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.7",
+    "drizzle-kit": "^0.23.0",
+    "typescript": "^5.4.5"
   }
 }

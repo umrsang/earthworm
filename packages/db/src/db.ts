@@ -1,24 +1,55 @@
 import path from "node:path";
-
+import { createClient, type Client } from "@libsql/client";
 import dotenv from "dotenv";
-import { drizzle } from "drizzle-orm/mysql2";
-import mysql from "mysql2/promise";
+import { drizzle } from "drizzle-orm/libsql";
 
-import { schemas } from "@earthworm/schema";
+import { schemas } from "@jufun/schema";
+import { autoMigrate, DEFAULT_DB_DIR, DEFAULT_DB_FILE, ensureDirectoryExists } from "./migrator";
 
-// 根据环境变量选择不同的 .env 文件
-let envFile = ".env";
-if (process.env.NODE_ENV === "prod") {
-  envFile = ".env.prod";
-} else if (process.env.NODE_ENV === "office") {
-  envFile = ".env.office";
+// 加载环境变量
+dotenv.config();
+
+/**
+ * 获取数据库连接 URL（file 协议格式）
+ */
+export function getDatabaseUrl(): string {
+  if (process.env.DATABASE_URL) {
+    if (process.env.DATABASE_URL.startsWith("file:") || process.env.DATABASE_URL.startsWith("http")) {
+      return process.env.DATABASE_URL;
+    }
+    return `file:${path.resolve(process.cwd(), process.env.DATABASE_URL)}`;
+  }
+  const dbFile = path.resolve(process.cwd(), DEFAULT_DB_DIR, DEFAULT_DB_FILE);
+  return `file:${dbFile}`;
 }
 
-dotenv.config({ path: path.resolve(__dirname, `../../../apps/api/${envFile}`) });
+let clientInstance: Client | null = null;
 
-const connection = mysql.createPool(process.env.DATABASE_URL ?? "");
+/**
+ * 获取或创建底层 LibSQL 客户端连接
+ */
+export function getDbClient(): Client {
+  if (!clientInstance) {
+    const url = getDatabaseUrl();
+    ensureDirectoryExists(url);
+    clientInstance = createClient({ url });
+  }
+  return clientInstance;
+}
 
-export const db = drizzle(connection, {
-  schema: schemas,
-  mode: "default",
-});
+/**
+ * 初始化数据库连接并自动执行结构迁移
+ */
+export async function initDatabase() {
+  const client = getDbClient();
+  await autoMigrate(client);
+  return drizzle(client, { schema: schemas });
+}
+
+/** 默认导出的数据库客户端与 Drizzle 实例 */
+const client = getDbClient();
+// 启动即确保迁移执行
+autoMigrate(client);
+
+export const db = drizzle(client, { schema: schemas });
+export type AppDatabase = typeof db;

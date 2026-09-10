@@ -1,25 +1,31 @@
+import { Logger, ValidationPipe } from "@nestjs/common";
 import { NestFactory } from "@nestjs/core";
-import { DocumentBuilder, SwaggerModule } from "@nestjs/swagger";
-
-import { AppModule } from "./app/app.module";
-import { appGlobalMiddleware } from "./app/useGlobal";
+import { AppModule } from "./app.module";
+import { DEFAULT_PORT } from "./common/constants";
 
 async function bootstrap() {
+  const logger = new Logger("Bootstrap");
   const app = await NestFactory.create(AppModule);
+
+  // 1. 允许跨域（适配本地前端与各开发端口）
   app.enableCors({
-    origin: [/^http:\/\/localhost(:\d+)?$/, /^http:\/\/earthworm\.cuixueshe\.com(:81)?$/],
+    origin: true,
+    credentials: true,
   });
 
-  appGlobalMiddleware(app);
-  const config = new DocumentBuilder()
-    .setTitle("EarthWorm Swagger")
-    .setDescription("The EarthWorm API description")
-    .setVersion("v1.0")
-    .addBearerAuth()
-    .build();
-  const document = SwaggerModule.createDocument(app, config);
-  SwaggerModule.setup("/swagger", app, document);
-  await app.listen(process.env.PORT || 3001);
+  // 2. 开启全局请求参数 DTO 自动校验
+  app.useGlobalPipes(
+    new ValidationPipe({
+      whitelist: true,
+      transform: true,
+    }),
+  );
+
+  const port = process.env.PORT || DEFAULT_PORT;
+  await app.listen(port);
+
+  logger.log(`🚀 [Earthworm API] 服务端已成功启动在端口: http://localhost:${port}`);
+  logger.log(`🔗 核心接口: POST /auth/register, POST /auth/login, GET /user/profile`);
 }
 
 bootstrap();

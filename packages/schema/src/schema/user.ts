@@ -1,15 +1,47 @@
 import { createId } from "@paralleldrive/cuid2";
-import { boolean, mysqlTable, text, timestamp, varchar } from "drizzle-orm/mysql-core";
+import { integer, sqliteTable, text } from "drizzle-orm/sqlite-core";
 
-export const user = mysqlTable("users", {
-  id: varchar("id", { length: 128 })
+/**
+ * 用户表名常量，避免魔法字符串
+ */
+export const USER_TABLE_NAME = "users" as const;
+
+/**
+ * 用户数据表 Schema 定义
+ */
+export const user = sqliteTable(USER_TABLE_NAME, {
+  /** 主键 ID，采用 cuid2 保证分布式唯一性 */
+  id: text("id")
     .primaryKey()
     .$defaultFn(() => createId()),
-  username: varchar("username", { length: 256 }).notNull().unique(),
-  email: varchar("email", { length: 256 }).unique(),
-  password: varchar("password", { length: 256 }).notNull(),
+
+  /** 唯一登录用户名 */
+  username: text("username").notNull().unique(),
+
+  /** 密码哈希串 */
+  password: text("password").notNull(),
+
+  /** 电子邮箱（可选） */
+  email: text("email"),
+
+  /** 昵称（可选） */
+  nickname: text("nickname"),
+
+  /** 头像地址（可选） */
   avatar: text("avatar"),
-  createdAt: timestamp("created_at").notNull().defaultNow(),
-  updatedAt: timestamp("updated_at").onUpdateNow(),
-  isActive: boolean("is_active").notNull().default(true),
+
+  /** 账号创建时间戳（毫秒） */
+  createdAt: integer("created_at", { mode: "timestamp" })
+    .notNull()
+    .$defaultFn(() => new Date()),
+
+  /** 账号最后更新时间戳（毫秒） */
+  updatedAt: integer("updated_at", { mode: "timestamp" })
+    .notNull()
+    .$defaultFn(() => new Date()),
 });
+
+/** 用户查询模型类型推导 */
+export type User = typeof user.$inferSelect;
+/** 用户插入模型类型推导 */
+export type NewUser = typeof user.$inferInsert;
