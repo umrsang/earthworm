@@ -2,10 +2,16 @@ import { Logger, ValidationPipe } from "@nestjs/common";
 import { NestFactory } from "@nestjs/core";
 import { AppModule } from "./app.module";
 import { DEFAULT_PORT } from "./common/constants";
+import { FileLoggerService } from "./common/logging/file-logger.service";
+import { GlobalHttpExceptionFilter } from "./common/logging/http-exception.filter";
 
 async function bootstrap() {
   const logger = new Logger("Bootstrap");
   const app = await NestFactory.create(AppModule);
+  const fileLogger = app.get(FileLoggerService);
+
+  app.useLogger(fileLogger);
+  app.useGlobalFilters(new GlobalHttpExceptionFilter(fileLogger));
 
   // 1. 允许跨域（适配本地前端与各开发端口）
   app.enableCors({

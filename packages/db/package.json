@@ -11,6 +11,8 @@
   "dependencies": {
     "@jufun/schema": "workspace:*",
     "@libsql/client": "^0.6.2",
+    "@paralleldrive/cuid2": "^2.2.2",
+    "argon2": "^0.40.1",
     "dotenv": "^16.4.5",
     "drizzle-orm": "^0.32.0",
     "mysql2": "^3.9.7"

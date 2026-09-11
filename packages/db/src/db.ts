@@ -4,7 +4,7 @@ import dotenv from "dotenv";
 import { drizzle } from "drizzle-orm/libsql";
 
 import { schemas } from "@jufun/schema";
-import { autoMigrate, DEFAULT_DB_DIR, DEFAULT_DB_FILE, ensureDirectoryExists } from "./migrator";
+import { autoMigrate, DEFAULT_DB_DIR, DEFAULT_DB_FILE, ensureDirectoryExists } from "./migrator.ts";
 
 // 加载环境变量
 dotenv.config();

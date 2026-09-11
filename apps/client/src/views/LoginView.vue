@@ -1,81 +1,123 @@
 <template>
-  <div class="auth-dual-grid-page">
-    <!-- 左侧：科技感 Hero 区域 (1:1 复刻 callback.vue 左侧) -->
-    <section class="auth-hero-banner-section">
-      <div class="auth-hero-content-wrapper">
-        <router-link to="/" class="auth-hero-brand-title">{{ $t('app.title') }}</router-link>
-        <p class="auth-hero-tagline">{{ $t('landing.leftHeroTag') }}</p>
-        <h1 class="auth-hero-main-title">{{ $t('landing.leftHeroTitle') }}</h1>
-        <p class="auth-hero-description">{{ $t('landing.leftHeroDesc') }}</p>
+  <!-- 登录/注册主页面根节点，使用语义化 class 容器 -->
+  <div class="auth-page">
+    <!-- 左侧：科技与沉浸式故事介绍区域 (1:1 复刻原型 auth-story) -->
+    <section class="auth-story-section">
+      <!-- 品牌 Logo 导航回首页 -->
+      <router-link to="/" class="brand-logo-button auth-story-brand-link" :aria-label="$t('app.title')">
+        <span class="brand-mark">E</span>
+        <span>
+          <strong class="brand-logo-text-title">{{ $t('app.title') }}</strong>
+          <small class="brand-logo-text-sub">{{ $t('app.subBrand') }}</small>
+        </span>
+      </router-link>
 
-        <!-- 今日学习进度条卡片 -->
-        <div class="auth-hero-progress-card">
-          <div class="auth-progress-header">
-            <span>{{ $t('landing.todayProgress') }}</span>
-            <strong>{{ $t('landing.todayProgressCount') }}</strong>
+      <!-- 品牌故事与价值主张文案 -->
+      <div class="auth-story-copy-block">
+        <span class="status-pill status-pill-purple">{{ $t('auth.storyPill') }}</span>
+        <h1 class="auth-story-main-title">
+          {{ $t('auth.storyTitlePrefix') }}<br />
+          <em class="auth-story-title-emphasis">{{ $t('auth.storyTitleEmphasis') }}</em>
+        </h1>
+        <p class="auth-story-description">{{ $t('auth.storyDescription') }}</p>
+
+        <!-- 3 项量化数据指标展示 -->
+        <div class="auth-story-proof-row">
+          <div>
+            <strong class="auth-proof-item-val">{{ $t('auth.proofStreakVal') }}</strong>
+            <span class="auth-proof-item-label">{{ $t('auth.proofStreakLabel') }}</span>
           </div>
-          <div class="auth-progress-track">
-            <div class="auth-progress-fill"></div>
+          <div>
+            <strong class="auth-proof-item-val">{{ $t('auth.proofAccuracyVal') }}</strong>
+            <span class="auth-proof-item-label">{{ $t('auth.proofAccuracyLabel') }}</span>
+          </div>
+          <div>
+            <strong class="auth-proof-item-val">{{ $t('auth.proofTimeVal') }}</strong>
+            <span class="auth-proof-item-label">{{ $t('auth.proofTimeLabel') }}</span>
           </div>
         </div>
       </div>
     </section>
 
-    <!-- 右侧：登录与注册磨砂表单卡片 (1:1 复刻 callback.vue 右侧) -->
-    <section class="auth-form-container-section">
-      <form class="auth-form-card" @submit.prevent="handleSubmit">
-        <p class="auth-form-top-tag">
+    <!-- 右侧：表单操作面板 (1:1 复刻原型 auth-panel) -->
+    <section class="auth-panel-section">
+      <div class="auth-form-card-wrapper">
+        <!-- 移动端顶部品牌标识 -->
+        <div class="auth-mobile-brand-bar">
+          <span class="brand-mark">E</span>
+          <strong class="brand-logo-text-title">{{ $t('app.title') }}</strong>
+        </div>
+
+        <p class="auth-panel-eyebrow">
           {{ isLogin ? $t('auth.welcomeBack') : $t('auth.createAccount') }}
         </p>
-        <h2 class="auth-form-heading">
+        <h2 class="auth-panel-title">
           {{ isLogin ? $t('auth.loginTitle') : $t('auth.registerTitle') }}
         </h2>
-        <p class="auth-form-subheading">
+        <p class="auth-panel-subdesc">
           {{ isLogin ? $t('auth.loginDesc') : $t('auth.registerDesc') }}
         </p>
 
-        <div v-if="errorMessage" class="auth-feedback-alert" style="margin-top: 1rem;">
+        <!-- 错误提示组件 -->
+        <div v-if="errorMessage" class="auth-feedback-error" style="margin-top: 16px;">
           {{ errorMessage }}
         </div>
 
-        <div class="auth-form-group">
-          <!-- 用户名 -->
-          <div class="auth-field-item">
-            <label class="auth-field-label">{{ $t('auth.username') }}</label>
+        <!-- 提交表单 -->
+        <form class="auth-form-group" @submit.prevent="handleSubmit">
+          <!-- 用户名输入框 -->
+          <div class="auth-form-field">
+            <label for="auth-username-input" class="auth-field-label">{{ $t('auth.username') }}</label>
             <input
+              id="auth-username-input"
               v-model.trim="username"
               type="text"
+              autocomplete="username"
               required
-              class="auth-field-input"
+              class="auth-input-element"
               :placeholder="$t('auth.usernamePlaceholder')"
             />
           </div>
 
-          <!-- 昵称 (注册模式可见) -->
-          <div v-if="!isLogin" class="auth-field-item">
-            <label class="auth-field-label">{{ $t('auth.nickname') }}</label>
+          <!-- 昵称输入框 (注册模式展示) -->
+          <div v-if="!isLogin" class="auth-form-field">
+            <label for="auth-nickname-input" class="auth-field-label">{{ $t('auth.nickname') }}</label>
             <input
+              id="auth-nickname-input"
               v-model.trim="nickname"
               type="text"
-              class="auth-field-input"
+              class="auth-input-element"
               :placeholder="$t('auth.nicknamePlaceholder')"
             />
           </div>
 
-          <!-- 密码与显隐切换 -->
-          <div class="auth-field-item">
-            <label class="auth-field-label">{{ $t('auth.password') }}</label>
-            <div class="auth-password-wrapper">
+          <!-- 密码输入框与显隐切换 -->
+          <div class="auth-form-field">
+            <div class="auth-field-label-row">
+              <label for="auth-password-input" class="auth-field-label">{{ $t('auth.password') }}</label>
+              <!-- 忘记密码轻量操作 -->
+              <button
+                v-if="isLogin"
+                type="button"
+                class="auth-switch-action-btn"
+                @click="handleForgotPassword"
+              >
+                {{ $t('auth.forgotPassword') }}
+              </button>
+            </div>
+            <div class="auth-password-container">
               <input
+                id="auth-password-input"
                 v-model="password"
                 :type="showPassword ? 'text' : 'password'"
+                :autocomplete="isLogin ? 'current-password' : 'new-password'"
                 required
-                class="auth-field-input"
+                class="auth-input-element"
                 :placeholder="$t('auth.passwordPlaceholder')"
               />
               <button
                 type="button"
-                class="auth-password-toggle-button"
+                class="auth-password-toggle-btn"
                 @click="showPassword = !showPassword"
               >
                 {{ showPassword ? $t('auth.hidePassword') : $t('auth.showPassword') }}
@@ -83,58 +125,88 @@
             </div>
           </div>
 
-          <!-- 协议勾选 (注册模式可见) -->
-          <label v-if="!isLogin" class="auth-terms-checkbox-row">
-            <input v-model="agreed" type="checkbox" style="margin-top: 3px;" />
+          <!-- 确认密码输入框 (注册模式展示) -->
+          <div v-if="!isLogin" class="auth-form-field">
+            <label for="auth-confirm-password-input" class="auth-field-label">
+              {{ $t('auth.confirmPassword') }}
+            </label>
+            <input
+              id="auth-confirm-password-input"
+              v-model="confirmPassword"
+              type="password"
+              autocomplete="new-password"
+              required
+              class="auth-input-element"
+              :placeholder="$t('auth.confirmPasswordPlaceholder')"
+            />
+          </div>
+
+          <!-- 登录模式：保持登录复选框 -->
+          <label v-if="isLogin" class="auth-checkbox-row">
+            <input v-model="rememberMe" type="checkbox" />
+            <span>{{ $t('auth.rememberMe') }}</span>
+          </label>
+
+          <!-- 注册模式：服务条款与隐私政策勾选 -->
+          <label v-else class="auth-checkbox-row">
+            <input v-model="agreedTerms" type="checkbox" />
             <span>
               {{ $t('auth.agreeTermsPrefix') }}
-              <a href="#" class="auth-terms-link">{{ $t('auth.terms') }}</a>
+              <a href="javascript:void(0);">{{ $t('auth.terms') }}</a>
               {{ $t('auth.and') }}
-              <a href="#" class="auth-terms-link">{{ $t('auth.privacy') }}</a>
+              <a href="javascript:void(0);">{{ $t('auth.privacy') }}</a>
             </span>
           </label>
 
-          <!-- 提交按钮 -->
+          <!-- 提交主操作按钮 -->
           <button
             type="submit"
             :disabled="isLoading"
-            class="auth-submit-action-button"
+            class="btn-primary auth-submit-btn"
           >
             {{ isLoading ? $t('auth.processing') : isLogin ? $t('auth.loginButton') : $t('auth.registerButton') }}
           </button>
+        </form>
+
+        <!-- 模式切换：登录 / 注册 -->
+        <div class="auth-switch-prompt-row">
+          <span>{{ isLogin ? $t('auth.noAccountPrompt') : $t('auth.hasAccountPrompt') }}</span>
+          <button
+            type="button"
+            class="auth-switch-action-btn"
+            @click="switchAuthMode"
+          >
+            {{ isLogin ? $t('auth.createAccountLink') : $t('auth.loginLink') }}
+          </button>
         </div>
 
-        <!-- 登录/注册模式无刷新切换 -->
-        <button
-          type="button"
-          class="auth-mode-switch-button"
-          @click="switchMode"
-        >
-          {{ isLogin ? $t('auth.noAccountPrompt') : $t('auth.hasAccountPrompt') }}
-        </button>
+        <!-- 返回产品落地页 -->
+        <router-link to="/" class="btn-ghost auth-back-home-btn">
+          {{ $t('auth.backToHome') }}
+        </router-link>
 
-        <!-- 语言切换器 -->
-        <div style="margin-top: 1.5rem; display: flex; justify-content: center;">
-          <div class="language-selector">
+        <!-- 底部语言切换器 -->
+        <div style="margin-top: 24px; display: flex; justify-content: center;">
+          <div class="language-selector-group">
             <button
               type="button"
-              class="language-selector-button"
+              class="language-selector-btn"
               :class="{ 'is-active': currentLocale === 'zh-CN' }"
-              @click="switchLang('zh-CN')"
+              @click="switchLanguage('zh-CN')"
             >
               中文
             </button>
             <button
               type="button"
-              class="language-selector-button"
+              class="language-selector-btn"
               :class="{ 'is-active': currentLocale === 'en-US' }"
-              @click="switchLang('en-US')"
+              @click="switchLanguage('en-US')"
             >
               English
             </button>
           </div>
         </div>
-      </form>
+      </div>
     </section>
   </div>
 </template>
@@ -152,29 +224,52 @@ const { t, locale } = useI18n();
 const router = useRouter();
 const userStore = useUserStore();
 
+// 状态声明
 const isLogin = ref(true);
 const username = ref("");
 const password = ref("");
+const confirmPassword = ref("");
 const nickname = ref("");
-const agreed = ref(false);
+const rememberMe = ref(true);
+const agreedTerms = ref(false);
 const showPassword = ref(false);
 const isLoading = ref(false);
 const errorMessage = ref("");
 
 const currentLocale = computed(() => locale.value);
 
-function switchLang(lang: string) {
+/**
+ * 切换中英多语言
+ * @param lang 语言代码 ('zh-CN' | 'en-US')
+ */
+function switchLanguage(lang: string) {
   setLanguage(lang);
 }
 
-function switchMode() {
+/**
+ * 切换登录与注册模式，重置密码和错误提示
+ */
+function switchAuthMode() {
   isLogin.value = !isLogin.value;
   password.value = "";
+  confirmPassword.value = "";
   errorMessage.value = "";
 }
 
+/**
+ * 点击“忘记密码”提示交互
+ */
+function handleForgotPassword() {
+  errorMessage.value = t("auth.forgotPasswordTip");
+}
+
+/**
+ * 提交登录或注册请求
+ */
 async function handleSubmit() {
   errorMessage.value = "";
+
+  // 基础输入合法性校验
   if (username.value.length < 2) {
     errorMessage.value = t("auth.usernamePlaceholder");
     return;
@@ -183,22 +278,33 @@ async function handleSubmit() {
     errorMessage.value = t("auth.passwordPlaceholder");
     return;
   }
-  if (!isLogin.value && !agreed.value) {
-    errorMessage.value = t("auth.mustAgreeTerms");
-    return;
+  if (!isLogin.value) {
+    if (password.value !== confirmPassword.value) {
+      errorMessage.value = t("auth.passwordNotMatch");
+      return;
+    }
+    if (!agreedTerms.value) {
+      errorMessage.value = t("auth.mustAgreeTerms");
+      return;
+    }
   }
 
   isLoading.value = true;
   try {
     const res = isLogin.value
       ? await loginApi({ username: username.value, password: password.value })
-      : await registerApi({ username: username.value, password: password.value, nickname: nickname.value });
+      : await registerApi({
+          username: username.value,
+          password: password.value,
+          nickname: nickname.value || username.value,
+        });
 
+    // 存储 Token 并获取个人信息后跳转首页
     userStore.setToken(res.token);
     await userStore.fetchProfile();
     router.push(ROUTE_PATHS.HOME);
   } catch (err: any) {
-    errorMessage.value = err.message;
+    errorMessage.value = err.message || t("common.error");
   } finally {
     isLoading.value = false;
   }

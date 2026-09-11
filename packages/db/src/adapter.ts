@@ -102,7 +102,7 @@ async function seedDefaultAdmin(dialect: DbDialect, client: any): Promise<void> 
          VALUES (?, ?, ?, ?, ?, NOW(), NOW());`,
         [adminId, DEFAULT_ADMIN.USERNAME, hashedPassword, DEFAULT_ADMIN.EMAIL, DEFAULT_ADMIN.NICKNAME],
       );
-      console.log(`✅ [DB Adapter] 初始管理员已就绪: 用户名 [${DEFAULT_ADMIN.USERNAME}] / 密码 [${DEFAULT_ADMIN.PASSWORD}]`);
+      console.log(`✅ [DB Adapter] 初始管理员已就绪: 用户名 [${DEFAULT_ADMIN.USERNAME}]`);
     }
   } else {
     const sqlite = client as Client;
@@ -126,7 +126,7 @@ async function seedDefaultAdmin(dialect: DbDialect, client: any): Promise<void> 
           now,
         ],
       });
-      console.log(`✅ [DB Adapter] 初始管理员已就绪: 用户名 [${DEFAULT_ADMIN.USERNAME}] / 密码 [${DEFAULT_ADMIN.PASSWORD}]`);
+      console.log(`✅ [DB Adapter] 初始管理员已就绪: 用户名 [${DEFAULT_ADMIN.USERNAME}]`);
     }
   }
 }

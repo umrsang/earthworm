@@ -1,4 +1,5 @@
 import { Module } from "@nestjs/common";
+import { ConfigModule, ConfigService } from "@nestjs/config";
 import { JwtModule } from "@nestjs/jwt";
 import { PassportModule } from "@nestjs/passport";
 import { AUTH_CONSTANTS } from "../common/constants";
@@ -9,11 +10,15 @@ import { JwtStrategy } from "./jwt.strategy";
 @Module({
   imports: [
     PassportModule.register({ defaultStrategy: "jwt" }),
-    JwtModule.register({
-      secret: process.env.JWT_SECRET || "earthworm_jwt_secret_token_secure_key_2026",
-      signOptions: {
-        expiresIn: (process.env.JWT_EXPIRES_IN || AUTH_CONSTANTS.DEFAULT_JWT_EXPIRES_IN) as any,
-      },
+    JwtModule.registerAsync({
+      imports: [ConfigModule],
+      inject: [ConfigService],
+      useFactory: (configService: ConfigService) => ({
+        secret: configService.get<string>("JWT_SECRET") || AUTH_CONSTANTS.DEFAULT_JWT_SECRET,
+        signOptions: {
+          expiresIn: (configService.get<string>("JWT_EXPIRES_IN") || AUTH_CONSTANTS.DEFAULT_JWT_EXPIRES_IN) as any,
+        },
+      }),
     }),
   ],
   controllers: [AuthController],

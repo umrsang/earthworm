@@ -5,7 +5,8 @@ import { eq } from "drizzle-orm";
 import type { AppDatabase } from "@jufun/db";
 import { user } from "@jufun/schema";
 
-import { DB_TOKEN, ERROR_MESSAGES } from "../common/constants";
+import { DB_TOKEN, ERROR_MESSAGES, LOG_EVENTS } from "../common/constants";
+import { FileLoggerService } from "../common/logging/file-logger.service";
 import { LoginDto, RegisterDto } from "./dto/auth.dto";
 
 @Injectable()
@@ -13,6 +14,7 @@ export class AuthService {
   constructor(
     @Inject(DB_TOKEN) private readonly db: AppDatabase,
     private readonly jwtService: JwtService,
+    private readonly logger: FileLoggerService,
   ) {}
 
   /**
@@ -62,23 +64,37 @@ export class AuthService {
    * @returns 登录成功的用户信息和 JWT Token
    */
   async login(dto: LoginDto) {
+    this.logger.log({ event: LOG_EVENTS.LOGIN_ATTEMPTED, username: dto.username }, AuthService.name);
+
     // 1. 查询目标用户
     const foundUser = await this.db.query.user.findFirst({
       where: eq(user.username, dto.username),
     });
 
     if (!foundUser) {
+      this.logger.warn(
+        { event: LOG_EVENTS.LOGIN_FAILED, username: dto.username, reason: "user_not_found" },
+        AuthService.name,
+      );
       throw new UnauthorizedException(ERROR_MESSAGES.INVALID_CREDENTIALS);
     }
 
     // 2. 校验密码哈希
     const isPasswordValid = await argon2.verify(foundUser.password, dto.password);
     if (!isPasswordValid) {
+      this.logger.warn(
+        { event: LOG_EVENTS.LOGIN_FAILED, username: dto.username, reason: "invalid_password" },
+        AuthService.name,
+      );
       throw new UnauthorizedException(ERROR_MESSAGES.INVALID_CREDENTIALS);
     }
 
     // 3. 签发登录凭据
     const token = this.generateToken(foundUser.id, foundUser.username);
+    this.logger.log(
+      { event: LOG_EVENTS.LOGIN_SUCCEEDED, userId: foundUser.id, username: foundUser.username },
+      AuthService.name,
+    );
 
     return {
       userId: foundUser.id,
