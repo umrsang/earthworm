@@ -21,4 +21,5 @@ dist
 data/
 
 # 本地工具与工作区
-.claude/
+.claude
+.claude/*
