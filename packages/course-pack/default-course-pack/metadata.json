@@ -1,0 +1,10 @@
+{
+  "name": "default-conversation",
+  "title": "日常英语入门示例",
+  "description": "用于验证课程包上传、课程目录、句子游戏以及词性和语法标注展示的默认示例。",
+  "version": "1.0.0",
+  "level": "A1",
+  "tags": ["日常英语", "入门", "示例课程"],
+  "totalUnits": 2,
+  "totalVocab": 40
+}

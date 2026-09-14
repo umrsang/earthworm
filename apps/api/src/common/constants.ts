@@ -39,5 +39,11 @@ export const ERROR_MESSAGES = {
   USER_NOT_FOUND: "用户不存在",
   INVALID_CREDENTIALS: "用户名或密码错误",
   UNAUTHORIZED: "用户未登录或登录凭证已过期",
+  COURSE_PACK_TOO_LARGE: "单个课程包最多包含 10000 句",
+  COURSE_PACK_METADATA_INVALID: "课程包元数据格式不正确",
+  COURSE_ANNOTATION_INVALID: "课程句子标注格式或索引不正确",
+  COURSE_PACK_NOT_FOUND: "课程包不存在或无权访问",
+  COURSE_NOT_FOUND: "课程不存在或无权访问",
+  COURSE_PROGRESS_OUT_OF_RANGE: "学习进度超出课程句子范围",
   INTERNAL_SERVER_ERROR: "服务器内部错误",
 } as const;

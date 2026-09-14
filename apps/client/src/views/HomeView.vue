@@ -605,7 +605,7 @@
           <span class="nav-icon">⌂</span>
           <span>{{ $t('today.navToday') }}</span>
         </button>
-        <button type="button" class="nav-item">
+        <button type="button" class="nav-item" @click="openCoursePacks">
           <span class="nav-icon">▤</span>
           <span>{{ $t('today.navCourses') }}</span>
         </button>
@@ -618,7 +618,7 @@
           <span class="nav-icon">⌁</span>
           <span>{{ $t('today.navInsights') }}</span>
         </button>
-        <button type="button" class="nav-item">
+        <button type="button" class="nav-item" @click="openCourseUpload">
           <span class="nav-icon">✎</span>
           <span>{{ $t('today.navCreator') }}</span>
         </button>
@@ -899,8 +899,17 @@ function goToRegister() {
   router.push(ROUTE_PATHS.REGISTER);
 }
 
+function openCoursePacks() {
+  router.push(ROUTE_PATHS.COURSE_PACKS);
+}
+
+function openCourseUpload() {
+  router.push(ROUTE_PATHS.COURSE_PACK_UPLOAD);
+}
+
 function handleLogout() {
   userStore.logout();
+  router.push(ROUTE_PATHS.HOME);
 }
 
 function toggleUserMenu() {

@@ -5,6 +5,7 @@ import { i18n } from "./locales";
 import { router } from "./router";
 import "./styles/main.css";
 import "./styles/landing.css";
+import "./styles/course.css";
 
 const app = createApp(App);
 const pinia = createPinia();

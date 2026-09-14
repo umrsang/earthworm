@@ -214,13 +214,14 @@
 <script setup lang="ts">
 import { computed, ref } from "vue";
 import { useI18n } from "vue-i18n";
-import { useRouter } from "vue-router";
+import { useRoute, useRouter } from "vue-router";
 import { loginApi, registerApi } from "../api/auth";
 import { ROUTE_PATHS } from "../constants";
 import { setLanguage } from "../locales";
 import { useUserStore } from "../stores/user";
 
 const { t, locale } = useI18n();
+const route = useRoute();
 const router = useRouter();
 const userStore = useUserStore();
 
@@ -299,10 +300,15 @@ async function handleSubmit() {
           nickname: nickname.value || username.value,
         });
 
-    // 存储 Token 并获取个人信息后跳转首页
+    // 存储 Token 并获取个人信息；仅接受站内回跳地址，避免开放重定向。
     userStore.setToken(res.token);
     await userStore.fetchProfile();
-    router.push(ROUTE_PATHS.HOME);
+    const redirect = typeof route.query.redirect === "string"
+      && route.query.redirect.startsWith("/")
+      && !route.query.redirect.startsWith("//")
+      ? route.query.redirect
+      : ROUTE_PATHS.HOME;
+    router.push(redirect);
   } catch (err: any) {
     errorMessage.value = err.message || t("common.error");
   } finally {

@@ -10,7 +10,8 @@
     "db:sync": "pnpm -F @jufun/db sync",
     "db:generate": "pnpm -F @jufun/db generate",
     "build": "pnpm -r run build",
-    "format": "prettier --write ."
+    "format": "prettier --write .",
+    "init": "pnpm install"
   },
   "devDependencies": {
     "concurrently": "^8.2.2",

@@ -1,0 +1,9 @@
+{
+  "name": "@jufun/course-pack",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "pack:default": "node ./scripts/pack-course.mjs ./default-course-pack ./dist/default-course-pack.zip"
+  }
+}

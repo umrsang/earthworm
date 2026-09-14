@@ -19,3 +19,6 @@ dist
 *.db
 *.db-journal
 data/
+
+# 本地工具与工作区
+.claude/
