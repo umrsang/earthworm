@@ -29,17 +29,24 @@
           <button
             v-for="(course, index) in coursePack.courses"
             :key="course.id"
-            class="lesson-row"
+            class="lesson-grid-card"
             type="button"
             @click="startCourse(course.id)"
           >
-            <span class="lesson-order">{{ String(index + 1).padStart(2, '0') }}</span>
-            <span class="lesson-content">
+            <div class="lesson-card-head">
+              <span class="lesson-order">{{ String(index + 1).padStart(2, '0') }}</span>
+              <span v-if="Number(course.completionCount) > 0" class="lesson-status-tag mint">
+                ✓ {{ $t('today.task1Status') }}
+              </span>
+            </div>
+            <div class="lesson-content">
               <strong>{{ course.title }}</strong>
               <span>{{ course.description || $t('coursePack.lessonDescriptionFallback') }}</span>
-              <small>{{ $t('coursePack.lessonMeta', { statements: Number(course.statementCount), completions: Number(course.completionCount) }) }}</small>
-            </span>
-            <span class="lesson-action">{{ getCourseAction(course.id) }} →</span>
+            </div>
+            <div class="lesson-card-foot">
+              <small>{{ $t('coursePack.statementCount', { count: Number(course.statementCount) }) }}</small>
+              <span class="lesson-action">{{ getCourseAction(course.id) }} →</span>
+            </div>
           </button>
         </section>
       </template>

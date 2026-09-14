@@ -1,0 +1,2 @@
+<template><div class="game-dialog-backdrop"><section class="game-dialog game-pause-dialog" role="dialog" aria-modal="true"><span class="game-pause-icon">Ⅱ</span><h2>{{ $t('game.pausedTitle') }}</h2><p>{{ $t('game.pausedDescription') }}</p><strong>{{ time }}</strong><button class="button primary" type="button" @click="$emit('resume')">{{ $t('game.resume') }}</button></section></div></template>
+<script setup lang="ts">defineProps<{ time: string }>(); defineEmits<{ resume: [] }>();</script>

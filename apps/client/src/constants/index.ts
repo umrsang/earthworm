@@ -3,6 +3,7 @@ export const STORAGE_KEYS = {
   TOKEN: "earthworm_auth_token",
   USER_INFO: "earthworm_user_info",
   LOCALE: "earthworm_app_locale",
+  GAME_SETTINGS: "earthworm_game_settings",
 } as const;
 
 /** 支持的多语言语言类型 */

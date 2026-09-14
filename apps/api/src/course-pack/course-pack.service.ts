@@ -14,6 +14,7 @@ import {
   CreateCoursePackDto,
   type PosTagTuple,
   SaveCourseProgressDto,
+  type SaveLearningActivitiesDto,
   type SyntaxTagTuple,
 } from "./dto/course-pack.dto";
 
@@ -21,6 +22,11 @@ const MAX_STATEMENT_COUNT_PER_PACK = 10000;
 const POS_TAG_TUPLE_LENGTH = 3;
 const SYNTAX_TAG_TUPLE_LENGTH = 4;
 const WORD_SEPARATOR_PATTERN = /\s+/;
+const MILLISECONDS_PER_MINUTE = 60_000;
+const MILLISECONDS_PER_DAY = 86_400_000;
+const DASHBOARD_TASK_LIMIT = 3;
+const LEARNING_EVENT_TYPE_ANSWER = "answer";
+const LEARNING_EVENT_TYPE_DURATION = "duration";
 
 export interface CoursePackRow {
   id: string;
@@ -83,6 +89,38 @@ export interface SaveCourseProgressResult {
 
 export interface CompleteCourseResult {
   nextCourse: CourseRow | null;
+}
+
+export interface DashboardCourseProgress {
+  coursePackId: string;
+  coursePackTitle: string;
+  courseId: string;
+  courseTitle: string;
+  statementIndex: number;
+  statementCount: number;
+  completionCount: number;
+}
+
+export interface LearningDashboardResult {
+  today: { durationSeconds: number; completedAnswers: number; attempts: number; correctRate: number };
+  streakDays: number;
+  progress: { totalCourses: number; completedCourses: number; percent: number };
+  recent: DashboardCourseProgress | null;
+  tasks: DashboardCourseProgress[];
+  coursePacks: Array<{
+    id: string;
+    title: string;
+    courses: Array<DashboardCourseProgress>;
+  }>;
+}
+
+/** 按浏览器时区偏移将服务端时间转换为 YYYY-MM-DD。 */
+function getLearningDate(timestamp: number, timezoneOffset: number): string {
+  return new Date(timestamp - timezoneOffset * MILLISECONDS_PER_MINUTE).toISOString().slice(0, 10);
+}
+
+function addLearningDays(date: string, amount: number): string {
+  return new Date(Date.parse(`${date}T00:00:00.000Z`) + amount * MILLISECONDS_PER_DAY).toISOString().slice(0, 10);
 }
 
 /** 将可选文本清理为数据库可用的空值。 */
@@ -249,6 +287,171 @@ export class CoursePackService {
     return { coursePackId, courseIds };
   }
 
+  /**
+   * 幂等记录答题和有效学习时长。
+   * @param userId 当前登录用户 ID
+   * @param dto 学习事件列表与浏览器时区偏移
+   * @returns 本次首次写入的事件数量
+   */
+  async saveLearningActivities(userId: string, dto: SaveLearningActivitiesDto): Promise<{ insertedCount: number }> {
+    const now = Date.now();
+    const learningDate = getLearningDate(now, dto.timezoneOffset);
+    const { dialect, client } = getUnderlyingClient();
+    let insertedCount = 0;
+
+    for (const event of dto.events) {
+      await this.requireOwnedCourse(userId, event.coursePackId, event.courseId);
+      const isAnswer = event.eventType === LEARNING_EVENT_TYPE_ANSWER;
+      const validAnswer = isAnswer
+        && Boolean(event.statementId)
+        && event.durationSeconds === 0
+        && event.attemptCount > 0
+        && event.correctCount <= event.attemptCount;
+      const validDuration = event.eventType === LEARNING_EVENT_TYPE_DURATION
+        && !event.statementId
+        && event.durationSeconds > 0
+        && event.attemptCount === 0
+        && event.correctCount === 0;
+      if (!validAnswer && !validDuration) {
+        throw new BadRequestException(ERROR_MESSAGES.COURSE_PROGRESS_OUT_OF_RANGE);
+      }
+      if (event.statementId) {
+        const statementRows = await this.query<{ id: string }>(
+          "SELECT id FROM statements WHERE id = ? AND course_id = ? LIMIT 1",
+          [event.statementId, event.courseId],
+        );
+        if (!statementRows[0]) throw new BadRequestException(ERROR_MESSAGES.COURSE_PROGRESS_OUT_OF_RANGE);
+      }
+
+      const eventRowId = createId();
+      if (dialect === DB_DIALECTS.MYSQL) {
+        const [result] = await (client as Pool).execute<any>(
+          `INSERT IGNORE INTO learning_activity_events
+           (id, event_id, user_id, course_pack_id, course_id, statement_id, event_type,
+            duration_seconds, attempt_count, correct_count, learning_date)
+           VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`,
+          [eventRowId, event.eventId, userId, event.coursePackId, event.courseId, event.statementId || null,
+            event.eventType, event.durationSeconds, event.attemptCount, event.correctCount, learningDate],
+        );
+        insertedCount += Number(result.affectedRows || 0);
+      } else {
+        const result = await (client as Client).execute({
+          sql: `INSERT OR IGNORE INTO learning_activity_events
+                (id, event_id, user_id, course_pack_id, course_id, statement_id, event_type,
+                 duration_seconds, attempt_count, correct_count, learning_date, created_at)
+                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`,
+          args: [eventRowId, event.eventId, userId, event.coursePackId, event.courseId, event.statementId || null,
+            event.eventType, event.durationSeconds, event.attemptCount, event.correctCount, learningDate, now],
+        });
+        insertedCount += Number(result.rowsAffected || 0);
+      }
+    }
+    return { insertedCount };
+  }
+
+  /** 获取首页真实统计、最近学习和进度管理数据。 */
+  async getDashboard(userId: string, timezoneOffset: number): Promise<LearningDashboardResult> {
+    const today = getLearningDate(Date.now(), timezoneOffset);
+    const aggregateRows = await this.query<{
+      durationSeconds: number;
+      completedAnswers: number;
+      attempts: number;
+      correctAnswers: number;
+    }>(
+      `SELECT COALESCE(SUM(duration_seconds), 0) AS duration_seconds,
+              COALESCE(SUM(correct_count), 0) AS completed_answers,
+              COALESCE(SUM(attempt_count), 0) AS attempts,
+              COALESCE(SUM(correct_count), 0) AS correct_answers
+       FROM learning_activity_events WHERE user_id = ? AND learning_date = ?`,
+      [userId, today],
+    );
+    const aggregate = aggregateRows[0];
+    const attempts = Number(aggregate?.attempts || 0);
+    const correctAnswers = Number(aggregate?.correctAnswers || 0);
+
+    const activityDates = await this.query<{ learningDate: string }>(
+      `SELECT learning_date FROM learning_activity_events
+       WHERE user_id = ? AND (duration_seconds > 0 OR attempt_count > 0)
+       GROUP BY learning_date ORDER BY learning_date DESC`,
+      [userId],
+    );
+    const activeDateSet = new Set(activityDates.map((row) => row.learningDate));
+    let streakCursor = activeDateSet.has(today) ? today : addLearningDays(today, -1);
+    let streakDays = 0;
+    while (activeDateSet.has(streakCursor)) {
+      streakDays += 1;
+      streakCursor = addLearningDays(streakCursor, -1);
+    }
+
+    const courseRows = await this.query<DashboardCourseProgress & { progressUpdatedAt: string | number | null }>(
+      `SELECT cp.id AS course_pack_id, cp.title AS course_pack_title,
+              c.id AS course_id, c.title AS course_title,
+              CASE WHEN ucp.course_id = c.id THEN ucp.statement_index ELSE 0 END AS statement_index,
+              COUNT(DISTINCT s.id) AS statement_count,
+              COALESCE(MAX(ch.completion_count), 0) AS completion_count,
+              CASE WHEN ucp.course_id = c.id THEN ucp.updated_at ELSE NULL END AS progress_updated_at
+       FROM course_packs cp
+       INNER JOIN courses c ON c.course_pack_id = cp.id
+       LEFT JOIN statements s ON s.course_id = c.id
+       LEFT JOIN user_course_progress ucp ON ucp.user_id = ? AND ucp.course_pack_id = cp.id
+       LEFT JOIN course_history ch ON ch.user_id = ? AND ch.course_id = c.id
+       WHERE cp.creator_id = ?
+       GROUP BY cp.id, cp.title, c.id, c.title, c.sort_order, ucp.course_id, ucp.statement_index, ucp.updated_at
+       ORDER BY cp.created_at DESC, c.sort_order ASC`,
+      [userId, userId, userId],
+    );
+    const courses = courseRows.map((row) => ({
+      ...row,
+      statementIndex: Number(row.statementIndex || 0),
+      statementCount: Number(row.statementCount || 0),
+      completionCount: Number(row.completionCount || 0),
+    }));
+    const completedCourses = courses.filter((course) => course.completionCount > 0).length;
+    const recentRow = [...courses]
+      .filter((course) => course.progressUpdatedAt !== null)
+      .sort((first, second) => Number(second.progressUpdatedAt) - Number(first.progressUpdatedAt))[0] || courses[0] || null;
+    const toPublicProgress = (course: typeof courses[number]): DashboardCourseProgress => ({
+      coursePackId: course.coursePackId,
+      coursePackTitle: course.coursePackTitle,
+      courseId: course.courseId,
+      courseTitle: course.courseTitle,
+      statementIndex: course.statementIndex,
+      statementCount: course.statementCount,
+      completionCount: course.completionCount,
+    });
+    const orderedTasks = recentRow
+      ? [recentRow, ...courses.filter((course) => course.courseId !== recentRow.courseId && course.completionCount === 0)]
+      : courses;
+    const coursePackMap = new Map<string, LearningDashboardResult["coursePacks"][number]>();
+    courses.forEach((course) => {
+      const pack = coursePackMap.get(course.coursePackId) || {
+        id: course.coursePackId,
+        title: course.coursePackTitle,
+        courses: [],
+      };
+      pack.courses.push(toPublicProgress(course));
+      coursePackMap.set(course.coursePackId, pack);
+    });
+
+    return {
+      today: {
+        durationSeconds: Number(aggregate?.durationSeconds || 0),
+        completedAnswers: Number(aggregate?.completedAnswers || 0),
+        attempts,
+        correctRate: attempts ? Math.round((correctAnswers / attempts) * 100) : 0,
+      },
+      streakDays,
+      progress: {
+        totalCourses: courses.length,
+        completedCourses,
+        percent: courses.length ? Math.round((completedCourses / courses.length) * 100) : 0,
+      },
+      recent: recentRow ? toPublicProgress(recentRow) : null,
+      tasks: orderedTasks.slice(0, DASHBOARD_TASK_LIMIT).map(toPublicProgress),
+      coursePacks: [...coursePackMap.values()],
+    };
+  }
+
   /** 获取当前用户拥有的课程包列表。 */
   async findAll(userId: string): Promise<CoursePackRow[]> {
     const rows = await this.query<Omit<CoursePackRow, "tags"> & { tags: unknown }>(
@@ -385,6 +588,71 @@ export class CoursePackService {
       });
     }
     return { courseId: course.id, statementIndex: dto.statementIndex };
+  }
+
+  /** 重置单课位置和完成记录，保留学习活动历史。 */
+  async resetCourseProgress(
+    userId: string,
+    coursePackId: string,
+    courseId: string,
+  ): Promise<{ courseId: string }> {
+    await this.requireOwnedCourse(userId, coursePackId, courseId);
+    const { dialect, client } = getUnderlyingClient();
+    if (dialect === DB_DIALECTS.MYSQL) {
+      const connection = await (client as Pool).getConnection();
+      try {
+        await connection.beginTransaction();
+        await connection.execute("DELETE FROM course_history WHERE user_id = ? AND course_id = ?", [userId, courseId]);
+        await connection.execute(
+          `UPDATE user_course_progress SET statement_index = 0, updated_at = CURRENT_TIMESTAMP
+           WHERE user_id = ? AND course_pack_id = ? AND course_id = ?`,
+          [userId, coursePackId, courseId],
+        );
+        await connection.commit();
+      } catch (error) {
+        await connection.rollback();
+        throw error;
+      } finally {
+        connection.release();
+      }
+    } else {
+      const now = Date.now();
+      await (client as Client).batch([
+        { sql: "DELETE FROM course_history WHERE user_id = ? AND course_id = ?", args: [userId, courseId] },
+        {
+          sql: `UPDATE user_course_progress SET statement_index = 0, updated_at = ?
+                WHERE user_id = ? AND course_pack_id = ? AND course_id = ?`,
+          args: [now, userId, coursePackId, courseId],
+        },
+      ], "write");
+    }
+    return { courseId };
+  }
+
+  /** 重置整个课程包的位置和完成记录，保留学习活动历史。 */
+  async resetCoursePackProgress(userId: string, coursePackId: string): Promise<{ coursePackId: string }> {
+    await this.requireOwnedPack(userId, coursePackId);
+    const { dialect, client } = getUnderlyingClient();
+    if (dialect === DB_DIALECTS.MYSQL) {
+      const connection = await (client as Pool).getConnection();
+      try {
+        await connection.beginTransaction();
+        await connection.execute("DELETE FROM course_history WHERE user_id = ? AND course_pack_id = ?", [userId, coursePackId]);
+        await connection.execute("DELETE FROM user_course_progress WHERE user_id = ? AND course_pack_id = ?", [userId, coursePackId]);
+        await connection.commit();
+      } catch (error) {
+        await connection.rollback();
+        throw error;
+      } finally {
+        connection.release();
+      }
+    } else {
+      await (client as Client).batch([
+        { sql: "DELETE FROM course_history WHERE user_id = ? AND course_pack_id = ?", args: [userId, coursePackId] },
+        { sql: "DELETE FROM user_course_progress WHERE user_id = ? AND course_pack_id = ?", args: [userId, coursePackId] },
+      ], "write");
+    }
+    return { coursePackId };
   }
 
   /** 完成课程，并在同一事务中将学习进度移动到下一课。 */

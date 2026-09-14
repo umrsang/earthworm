@@ -1,9 +1,13 @@
 <template>
   <div class="app-root-container">
-    <router-view />
+    <!-- 全局霓虹流体追光背景 -->
+    <NeonGlowBackground />
+    <div class="app-view-layer">
+      <router-view />
+    </div>
   </div>
 </template>
 
 <script setup lang="ts">
-// 根组件仅负责路由视图渲染
+import NeonGlowBackground from "./components/NeonGlowBackground.vue";
 </script>

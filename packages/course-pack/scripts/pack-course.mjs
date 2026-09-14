@@ -21,14 +21,9 @@ const packageDirectory = path.resolve(
   path.dirname(fileURLToPath(import.meta.url)),
   "..",
 );
-const sourceDirectory = path.resolve(
-  packageDirectory,
-  process.argv[2] || DEFAULT_SOURCE_DIRECTORY,
-);
-const outputFile = path.resolve(
-  packageDirectory,
-  process.argv[3] || DEFAULT_OUTPUT_FILE,
-);
+
+const packsDirectory = path.resolve(packageDirectory, "packs");
+const distDirectory = path.resolve(packageDirectory, "dist");
 
 /**
  * 递归收集课程包文件，并使用 POSIX 分隔符作为 ZIP 内部路径。
@@ -149,8 +144,65 @@ function createZip(sourcePath, destinationPath) {
   return files.map((file) => file.archivePath);
 }
 
-const archiveEntries = createZip(sourceDirectory, outputFile);
-console.log(`Created ${path.relative(packageDirectory, outputFile)}`);
-for (const archiveEntry of archiveEntries) {
-  console.log(`- ${archiveEntry}`);
+function packSingle(source, destination) {
+  const archiveEntries = createZip(source, destination);
+  console.log(`\n📦 打包成功: ${path.relative(packageDirectory, destination)}`);
+  for (const archiveEntry of archiveEntries) {
+    console.log(`  - ${archiveEntry}`);
+  }
 }
+
+function run() {
+  const arg1 = process.argv[2];
+  const arg2 = process.argv[3];
+
+  // 1. 如果传了两个参数，完全遵循原有参数：<sourcePath> <destinationZipPath>
+  if (arg1 && arg2) {
+    const source = path.resolve(packageDirectory, arg1);
+    const destination = path.resolve(packageDirectory, arg2);
+    packSingle(source, destination);
+    return;
+  }
+
+  // 2. 如果参数是 all 或者未传参，打包 packs 目录下所有课程包，以及默认包（若存在）
+  if (!arg1 || arg1 === "all") {
+    let packedCount = 0;
+    // 打包 default-course-pack（若存在）
+    const defaultPackDir = path.resolve(packageDirectory, DEFAULT_SOURCE_DIRECTORY);
+    if (fs.existsSync(defaultPackDir)) {
+      packSingle(defaultPackDir, path.resolve(packageDirectory, DEFAULT_OUTPUT_FILE));
+      packedCount += 1;
+    }
+
+    // 打包 packs 目录下的全部子目录
+    if (fs.existsSync(packsDirectory)) {
+      const packDirs = fs
+        .readdirSync(packsDirectory, { withFileTypes: true })
+        .filter((entry) => entry.isDirectory());
+
+      for (const dir of packDirs) {
+        const source = path.join(packsDirectory, dir.name);
+        const destination = path.join(distDirectory, `${dir.name}.zip`);
+        packSingle(source, destination);
+        packedCount += 1;
+      }
+    }
+
+    console.log(`\n🎉 全部打包完成，共打包 ${packedCount} 个课程包！输出目录: ${distDirectory}`);
+    return;
+  }
+
+  // 3. 传了一个参数：可以是课程包目录名（如 workplace-business-starter）或相对路径
+  let sourcePath = path.resolve(packageDirectory, arg1);
+  let packName = path.basename(arg1);
+
+  if (!fs.existsSync(sourcePath) && fs.existsSync(path.join(packsDirectory, arg1))) {
+    sourcePath = path.join(packsDirectory, arg1);
+    packName = arg1;
+  }
+
+  const destinationPath = path.join(distDirectory, `${packName}.zip`);
+  packSingle(sourcePath, destinationPath);
+}
+
+run();

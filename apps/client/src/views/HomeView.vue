@@ -590,67 +590,8 @@
 
   <!-- 场景 B：已登录状态 1:1 复刻原型 desktop-today.png 今日工作台 -->
   <div v-else class="app-shell">
-    <!-- 左侧固定主侧边栏 -->
-    <aside class="sidebar" aria-label="主导航">
-      <router-link to="/" class="brand" :aria-label="$t('app.title')">
-        <span class="brand-mark">E</span>
-        <span>
-          <strong>{{ $t('app.title') }}</strong>
-          <small>{{ $t('app.subBrand') }}</small>
-        </span>
-      </router-link>
-
-      <nav class="main-nav">
-        <button type="button" class="nav-item is-active">
-          <span class="nav-icon">⌂</span>
-          <span>{{ $t('today.navToday') }}</span>
-        </button>
-        <button type="button" class="nav-item" @click="openCoursePacks">
-          <span class="nav-icon">▤</span>
-          <span>{{ $t('today.navCourses') }}</span>
-        </button>
-        <button type="button" class="nav-item">
-          <span class="nav-icon">↻</span>
-          <span>{{ $t('today.navReview') }}</span>
-          <span class="nav-badge">8</span>
-        </button>
-        <button type="button" class="nav-item">
-          <span class="nav-icon">⌁</span>
-          <span>{{ $t('today.navInsights') }}</span>
-        </button>
-        <button type="button" class="nav-item" @click="openCourseUpload">
-          <span class="nav-icon">✎</span>
-          <span>{{ $t('today.navCreator') }}</span>
-        </button>
-      </nav>
-
-      <div class="sidebar-bottom">
-        <div class="goal-mini">
-          <div class="goal-mini-head">
-            <span>{{ $t('today.goalProgress') }}</span>
-            <strong>60%</strong>
-          </div>
-          <div class="progress-track">
-            <i style="width: 60%;"></i>
-          </div>
-          <small>{{ $t('today.goalProgressDetail') }}</small>
-        </div>
-
-        <button type="button" class="nav-item">
-          <span class="nav-icon">⚙</span>
-          <span>{{ $t('today.navSettings') }}</span>
-        </button>
-
-        <button type="button" class="profile-chip" @click="toggleUserMenu">
-          <span class="avatar">{{ userInitial }}</span>
-          <span>
-            <strong>{{ userDisplayName }}</strong>
-            <small>{{ $t('today.streakPrefix') }} 12 {{ $t('today.streakSuffix') }}</small>
-          </span>
-          <span class="chevron">⌄</span>
-        </button>
-      </div>
-    </aside>
+    <!-- 通用主导航：桌面端侧边栏 / 移动端底部 Tab 栏 -->
+    <AppNavigation />
 
     <!-- 工作台核心主内容 -->
     <main class="today-main-layout">
@@ -746,7 +687,7 @@
 
           <div class="task-list">
             <article class="card task-row">
-              <span class="task-icon mint">✓</span>
+              <span class="status-pill mint">{{ $t('today.task1Status') }}</span>
               <div>
                 <h3>{{ $t('today.task1Title') }}</h3>
                 <div class="task-meta">
@@ -755,14 +696,13 @@
                   <span>{{ $t('today.task1Meta2') }}</span>
                 </div>
               </div>
-              <span class="status-pill mint">{{ $t('today.task1Status') }}</span>
               <button type="button" class="button small ghost">
                 {{ $t('today.task1Action') }}
               </button>
             </article>
 
             <article class="card task-row">
-              <span class="task-icon">▤</span>
+              <span class="status-pill purple">{{ $t('today.task2Status') }}</span>
               <div>
                 <h3>{{ $t('today.task2Title') }}</h3>
                 <div class="task-meta">
@@ -771,14 +711,13 @@
                   <span>{{ $t('today.task2Meta2') }}</span>
                 </div>
               </div>
-              <span class="status-pill purple">{{ $t('today.task2Status') }}</span>
               <button type="button" class="button small primary">
                 {{ $t('today.task2Action') }}
               </button>
             </article>
 
             <article class="card task-row">
-              <span class="task-icon amber">!</span>
+              <span class="status-pill amber">{{ $t('today.task3Status') }}</span>
               <div>
                 <h3>{{ $t('today.task3Title') }}</h3>
                 <div class="task-meta">
@@ -787,7 +726,6 @@
                   <span>{{ $t('today.task3Meta2') }}</span>
                 </div>
               </div>
-              <span class="status-pill amber">{{ $t('today.task3Status') }}</span>
               <button type="button" class="button small ghost">
                 {{ $t('today.task3Action') }}
               </button>
@@ -853,6 +791,7 @@
 import { computed, onMounted, ref } from "vue";
 import { useI18n } from "vue-i18n";
 import { useRouter } from "vue-router";
+import AppNavigation from "../components/AppNavigation.vue";
 import { ROUTE_PATHS } from "../constants";
 import { setLanguage } from "../locales";
 import { useUserStore } from "../stores/user";

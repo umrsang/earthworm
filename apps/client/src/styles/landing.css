@@ -2,15 +2,13 @@
 
 :root {
   color-scheme: dark;
-  --bg: #090a12;
-  --bg-soft: #0f111c;
-  --surface: #141724;
-  --surface-2: #1b1f30;
-  --surface-glass: rgba(20, 23, 36, 0.78);
+  --surface: var(--card-bg);
+  --surface-2: var(--card-bg-hover);
+  --surface-glass: var(--card-bg);
   --text: #f7f7fb;
   --text-2: #b7bac8;
   --text-3: #7f8498;
-  --border: rgba(255, 255, 255, 0.09);
+  --border: var(--card-border);
   --purple: #8b5cf6;
   --purple-2: #b69afa;
   --purple-soft: rgba(139, 92, 246, 0.15);
@@ -24,15 +22,13 @@
 
 :root[data-theme="light"] {
   color-scheme: light;
-  --bg: #f7f7fb;
-  --bg-soft: #eeeff7;
-  --surface: #ffffff;
-  --surface-2: #f2f2f8;
-  --surface-glass: rgba(255, 255, 255, 0.86);
+  --surface: var(--card-bg);
+  --surface-2: var(--card-bg-hover);
+  --surface-glass: var(--card-bg);
   --text: #181827;
   --text-2: #55586a;
   --text-3: #85889a;
-  --border: rgba(24, 24, 39, 0.1);
+  --border: var(--card-border);
   --purple-soft: rgba(139, 92, 246, 0.1);
   --mint-soft: rgba(34, 197, 153, 0.11);
   --amber-soft: rgba(245, 158, 11, 0.12);
@@ -94,9 +90,10 @@ p {
   right: 0;
   left: 0;
   z-index: 100;
-  border-bottom: 1px solid var(--border);
-  background: color-mix(in srgb, var(--bg) 82%, transparent);
-  backdrop-filter: blur(22px);
+  border-bottom: 1px solid var(--bar-border);
+  background: var(--bar-bg);
+  backdrop-filter: var(--bar-backdrop-filter);
+  -webkit-backdrop-filter: var(--bar-backdrop-filter);
 }
 
 .nav-shell {
@@ -744,9 +741,12 @@ p {
   position: relative;
   min-height: 370px;
   overflow: hidden;
-  border: 1px solid var(--border);
+  border: 1px solid var(--card-border);
   border-radius: 26px;
-  background: radial-gradient(circle at 100% 0, var(--purple-soft), transparent 35%), var(--surface);
+  background: radial-gradient(circle at 100% 0, var(--purple-soft), transparent 35%), var(--card-bg);
+  backdrop-filter: var(--card-backdrop-filter);
+  -webkit-backdrop-filter: var(--card-backdrop-filter);
+  box-shadow: var(--card-shadow);
   padding: 34px;
 }
 
@@ -1146,9 +1146,12 @@ p {
 
 .public-course-card {
   overflow: hidden;
-  border: 1px solid var(--border);
+  border: 1px solid var(--card-border);
   border-radius: 22px;
-  background: var(--surface);
+  background: var(--card-bg);
+  backdrop-filter: var(--card-backdrop-filter);
+  -webkit-backdrop-filter: var(--card-backdrop-filter);
+  box-shadow: var(--card-shadow);
   transition:
     transform 180ms ease,
     box-shadow 180ms ease;
@@ -1289,9 +1292,12 @@ p {
 }
 
 .story-card {
-  border: 1px solid var(--border);
+  border: 1px solid var(--card-border);
   border-radius: 22px;
-  background: var(--surface);
+  background: var(--card-bg);
+  backdrop-filter: var(--card-backdrop-filter);
+  -webkit-backdrop-filter: var(--card-backdrop-filter);
+  box-shadow: var(--card-shadow);
   padding: 28px;
 }
 
@@ -1892,21 +1898,41 @@ p {
 @media (max-width: 620px) {
   .section-shell,
   .nav-shell {
-    width: min(calc(100% - 32px), var(--max));
+    width: min(calc(100% - 24px), var(--max));
   }
 
   .nav-shell {
-    height: 66px;
+    height: 60px;
+    gap: 8px;
   }
 
+  .nav-actions {
+    gap: 6px;
+  }
+
+  /* 移动端保留紧凑的主操作按钮，提高转化与登录便捷度 */
   .nav-actions > .primary {
-    display: none;
+    display: inline-flex;
+    padding: 6px 12px;
+    font-size: 12px;
+    border-radius: 99px;
+  }
+
+  .language-selector-btn {
+    padding: 3px 6px;
+    font-size: 11px;
+  }
+
+  .theme-button {
+    width: 32px;
+    height: 32px;
+    font-size: 14px;
   }
 
   .brand-mark {
-    width: 35px;
-    height: 35px;
-    border-radius: 11px;
+    width: 32px;
+    height: 32px;
+    border-radius: 9px;
   }
 
   .hero {

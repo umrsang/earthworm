@@ -9,6 +9,7 @@
     "dev:client": "pnpm -F @jufun/client dev",
     "db:sync": "pnpm -F @jufun/db sync",
     "db:generate": "pnpm -F @jufun/db generate",
+    "pack:courses": "pnpm -F @jufun/course-pack pack:all",
     "build": "pnpm -r run build",
     "format": "prettier --write .",
     "init": "pnpm install"

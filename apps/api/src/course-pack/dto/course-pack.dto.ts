@@ -4,6 +4,7 @@ import {
   ArrayMinSize,
   ArrayUnique,
   IsArray,
+  IsIn,
   IsInt,
   IsNotEmpty,
   IsOptional,
@@ -198,4 +199,69 @@ export class SaveCourseProgressDto {
   @Min(0)
   @Max(999999)
   statementIndex!: number;
+}
+
+export const LEARNING_EVENT_TYPES = ["answer", "duration"] as const;
+export type LearningEventType = (typeof LEARNING_EVENT_TYPES)[number];
+
+export class LearningActivityEventDto {
+  @IsString()
+  @Length(1, 128)
+  eventId!: string;
+
+  @IsString()
+  @Length(1, 128)
+  coursePackId!: string;
+
+  @IsString()
+  @Length(1, 128)
+  courseId!: string;
+
+  @IsOptional()
+  @IsString()
+  @Length(1, 128)
+  statementId?: string;
+
+  @IsString()
+  @IsIn(LEARNING_EVENT_TYPES)
+  eventType!: LearningEventType;
+
+  @IsInt()
+  @Min(0)
+  @Max(3600)
+  durationSeconds!: number;
+
+  @IsInt()
+  @Min(0)
+  @Max(100)
+  attemptCount!: number;
+
+  @IsInt()
+  @Min(0)
+  @Max(100)
+  correctCount!: number;
+}
+
+export class SaveLearningActivitiesDto {
+  @IsArray()
+  @ArrayMinSize(1)
+  @ArrayMaxSize(100)
+  @ValidateNested({ each: true })
+  @Type(() => LearningActivityEventDto)
+  events!: LearningActivityEventDto[];
+
+  /** 浏览器 Date#getTimezoneOffset 返回的分钟差。 */
+  @IsInt()
+  @Min(-840)
+  @Max(840)
+  timezoneOffset!: number;
+}
+
+export class DashboardQueryDto {
+  /** 浏览器 Date#getTimezoneOffset 返回的分钟差。 */
+  @Type(() => Number)
+  @IsInt()
+  @Min(-840)
+  @Max(840)
+  timezoneOffset!: number;
 }

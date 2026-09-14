@@ -4,6 +4,8 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "pack": "node ./scripts/pack-course.mjs all",
+    "pack:all": "node ./scripts/pack-course.mjs all",
     "pack:default": "node ./scripts/pack-course.mjs ./default-course-pack ./dist/default-course-pack.zip"
   }
 }

@@ -1,0 +1,10 @@
+{
+  "name": "workplace-business-starter",
+  "title": "职场商务英语 · 沟通实战",
+  "description": "专为职场人士设计的高频沟通表达，涵盖团队站会任务同步、邮件往来确认、建设性反馈、跨部门催办与成果展示汇报。",
+  "version": "1.0.0",
+  "level": "A2-B1",
+  "tags": ["职场英语", "商务沟通", "邮件汇报", "敏捷站会"],
+  "totalUnits": 5,
+  "totalVocab": 150
+}

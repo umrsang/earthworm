@@ -1,28 +1,41 @@
 <template>
-  <main class="course-upload-page">
-    <header class="learning-page-header">
-      <router-link class="brand-link" :to="ROUTE_PATHS.COURSE_PACKS">← {{ $t('coursePack.libraryTitle') }}</router-link>
-    </header>
+  <div class="app-shell course-upload-app-shell">
+    <!-- 主导航：桌面端侧边栏 / 移动端底部 Tab 栏 -->
+    <AppNavigation />
 
-    <section class="learning-page-shell upload-page-shell">
-      <header class="learning-page-title-row">
-        <div>
-          <p class="learning-eyebrow">{{ $t('coursePack.creatorEyebrow') }}</p>
-          <h1>{{ $t('coursePack.uploadTitle') }}</h1>
-          <p>{{ $t('coursePack.uploadDescription') }}</p>
-        </div>
+    <!-- 课程上传主内容区 -->
+    <main class="course-upload-page app-main-shell-layout">
+      <header class="learning-page-header">
+        <router-link class="brand-link" :to="ROUTE_PATHS.COURSE_PACKS">← {{ $t('coursePack.libraryTitle') }}</router-link>
       </header>
 
-      <label v-if="!payload" class="course-upload-dropzone">
-        <input type="file" accept=".zip,application/zip" @change="handleFileChange" />
-        <span class="course-upload-icon">ZIP</span>
-        <strong>{{ parsing ? $t('coursePack.parsing') : $t('coursePack.chooseZip') }}</strong>
-        <span>{{ $t('coursePack.zipHint') }}</span>
-      </label>
+      <section class="learning-page-shell upload-page-shell">
+        <header class="learning-page-title-row">
+          <div>
+            <p class="learning-eyebrow">{{ $t('coursePack.creatorEyebrow') }}</p>
+            <h1>{{ $t('coursePack.uploadTitle') }}</h1>
+            <p>{{ $t('coursePack.uploadDescription') }}</p>
+          </div>
+        </header>
 
-      <div v-if="errorMessage" class="learning-error-message">{{ errorMessage }}</div>
+        <label
+          v-if="!payload"
+          class="course-upload-dropzone"
+          :class="{ 'is-dragover': isDragOver }"
+          @dragenter.prevent="handleDragEnter"
+          @dragover.prevent="handleDragOver"
+          @dragleave.prevent="handleDragLeave"
+          @drop.prevent="handleDrop"
+        >
+          <input type="file" accept=".zip,application/zip" @change="handleFileChange" />
+          <span class="course-upload-icon">ZIP</span>
+          <strong>{{ parsing ? $t('coursePack.parsing') : $t('coursePack.chooseZip') }}</strong>
+          <span>{{ $t('coursePack.zipHint') }}</span>
+        </label>
 
-      <template v-if="payload">
+        <div v-if="errorMessage" class="learning-error-message">{{ errorMessage }}</div>
+
+        <template v-if="payload">
         <section class="upload-form-card">
           <label>
             <span>{{ $t('coursePack.packTitleLabel') }}</span>
@@ -70,6 +83,7 @@
       </template>
     </section>
   </main>
+  </div>
 </template>
 
 <script setup lang="ts">
@@ -77,6 +91,7 @@ import JSZip from "jszip";
 import { ref } from "vue";
 import { useI18n } from "vue-i18n";
 import { useRouter } from "vue-router";
+import AppNavigation from "../components/AppNavigation.vue";
 import {
   createCoursePackApi,
   type CoursePackMetadata,
@@ -107,6 +122,8 @@ const payload = ref<CoursePackUploadPayload | null>(null);
 const parsing = ref(false);
 const uploading = ref(false);
 const errorMessage = ref("");
+const isDragOver = ref(false);
+let dragCounter = 0;
 
 function isRecord(value: unknown): value is Record<string, unknown> {
   return typeof value === "object" && value !== null && !Array.isArray(value);
@@ -259,14 +276,21 @@ async function parseCoursePack(file: File): Promise<CoursePackUploadPayload> {
   };
 }
 
-async function handleFileChange(event: Event) {
-  const file = (event.target as HTMLInputElement).files?.[0];
+async function processFile(file: File) {
   if (!file) return;
   errorMessage.value = "";
+
+  const isZip = file.name.toLowerCase().endsWith(".zip") || file.type === "application/zip" || file.type === "application/x-zip-compressed";
+  if (!isZip) {
+    errorMessage.value = t("coursePack.errorParse");
+    return;
+  }
+
   if (file.size > MAX_ARCHIVE_SIZE_BYTES) {
     errorMessage.value = t("coursePack.errorArchiveTooLarge");
     return;
   }
+
   parsing.value = true;
   try {
     payload.value = await parseCoursePack(file);
@@ -274,6 +298,45 @@ async function handleFileChange(event: Event) {
     errorMessage.value = error instanceof Error ? error.message : t("coursePack.errorParse");
   } finally {
     parsing.value = false;
+  }
+}
+
+async function handleFileChange(event: Event) {
+  const file = (event.target as HTMLInputElement).files?.[0];
+  if (file) {
+    await processFile(file);
+  }
+}
+
+function handleDragEnter(event: DragEvent) {
+  dragCounter += 1;
+  if (event.dataTransfer) {
+    event.dataTransfer.dropEffect = "copy";
+  }
+  isDragOver.value = true;
+}
+
+function handleDragOver(event: DragEvent) {
+  if (event.dataTransfer) {
+    event.dataTransfer.dropEffect = "copy";
+  }
+  isDragOver.value = true;
+}
+
+function handleDragLeave() {
+  dragCounter -= 1;
+  if (dragCounter <= 0) {
+    dragCounter = 0;
+    isDragOver.value = false;
+  }
+}
+
+async function handleDrop(event: DragEvent) {
+  dragCounter = 0;
+  isDragOver.value = false;
+  const file = event.dataTransfer?.files?.[0];
+  if (file) {
+    await processFile(file);
   }
 }
 

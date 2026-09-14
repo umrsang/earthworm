@@ -1,0 +1,2 @@
+<template><section class="game-answer-panel"><p class="game-answer-status">{{ revealed ? $t('game.answerLabel') : `✓ ${$t('game.correctTitle')}` }}</p><GameSyntaxDiagram :statement="statement" /><p class="game-answer-chinese">{{ statement.chinese }}</p><p v-if="statement.soundmark" class="game-soundmark">{{ statement.soundmark }}</p></section></template>
+<script setup lang="ts">import type { CourseStatement } from "../../api/course-pack"; import GameSyntaxDiagram from "./GameSyntaxDiagram.vue"; defineProps<{ statement: CourseStatement; revealed: boolean }>();</script>

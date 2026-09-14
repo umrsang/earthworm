@@ -13,6 +13,7 @@ export type { Client, InStatement } from "@libsql/client";
 export type { Pool, PoolConnection, RowDataPacket } from "mysql2/promise";
 
 import { mysqlSchemas, sqliteSchemas } from "@jufun/schema";
+import { runMigrations } from "./migrations/index";
 
 dotenv.config();
 
@@ -412,7 +413,10 @@ export async function autoMigrateDatabase(): Promise<void> {
     `);
   }
 
-  // 4. 自动种子初始化管理员账号
+  // 4. 基础表就绪后执行独立版本迁移，确保已有数据库安全升级。
+  await runMigrations(dialect, client);
+
+  // 5. 自动种子初始化管理员账号
   await seedDefaultAdmin(dialect, client);
 
   console.log(`✅ [DB Adapter] ${dialect.toUpperCase()} 数据库结构自动迁移与初始化完毕！`);

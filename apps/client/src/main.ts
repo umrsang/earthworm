@@ -6,6 +6,7 @@ import { router } from "./router";
 import "./styles/main.css";
 import "./styles/landing.css";
 import "./styles/course.css";
+import "./styles/game.css";
 
 const app = createApp(App);
 const pinia = createPinia();
