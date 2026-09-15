@@ -8,6 +8,7 @@ import { AUTH_CONSTANTS } from "../common/constants";
 export interface JwtPayload {
   sub: string;
   username: string;
+  role: string;
 }
 
 @Injectable()
@@ -28,6 +29,7 @@ export class JwtStrategy extends PassportStrategy(Strategy) {
     return {
       userId: payload.sub,
       username: payload.username,
+      role: payload.role,
     };
   }
 }

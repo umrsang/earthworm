@@ -21,6 +21,8 @@ export const ROUTE_NAMES = {
   COURSE_PACK_UPLOAD: "CoursePackUpload",
   COURSE_PACK_DETAIL: "CoursePackDetail",
   COURSE_GAME: "CourseGame",
+  ADMIN: "Admin",
+  PROFILE: "Profile",
 } as const;
 
 /** 路由路径常量 */
@@ -32,4 +34,6 @@ export const ROUTE_PATHS = {
   COURSE_PACK_UPLOAD: "/course-packs/upload",
   COURSE_PACK_DETAIL: "/course-packs/:coursePackId",
   COURSE_GAME: "/course-packs/:coursePackId/courses/:courseId/game",
+  ADMIN: "/admin",
+  PROFILE: "/profile",
 } as const;

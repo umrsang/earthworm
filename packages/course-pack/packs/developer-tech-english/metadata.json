@@ -2,9 +2,9 @@
   "name": "developer-tech-english",
   "title": "程序员与技术专业英语",
   "description": "专为研发工程师、技术负责人打造的极客英文表达，涵盖 Pull Request 代码评审、Bug 复现与定位、架构权衡、敏捷排期与开源社区交流。",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "level": "A2-B1",
   "tags": ["程序员", "技术英语", "开源协作", "代码评审", "架构设计"],
-  "totalUnits": 5,
-  "totalVocab": 160
+  "totalUnits": 7,
+  "totalVocab": 200
 }

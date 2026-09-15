@@ -88,7 +88,7 @@
 
 <script setup lang="ts">
 import JSZip from "jszip";
-import { ref } from "vue";
+import { onMounted, ref } from "vue";
 import { useI18n } from "vue-i18n";
 import { useRouter } from "vue-router";
 import AppNavigation from "../components/AppNavigation.vue";
@@ -100,6 +100,7 @@ import {
   type SyntaxTagTuple,
 } from "../api/course-pack";
 import { ROUTE_NAMES, ROUTE_PATHS } from "../constants";
+import { useUserStore } from "../stores/user";
 
 const PREVIEW_COUNT = 3;
 const MAX_ARCHIVE_SIZE_BYTES = 20 * 1024 * 1024;
@@ -118,12 +119,20 @@ const LEGACY_METADATA_FILE_NAME = "package.json";
 const DATA_PATH_PATTERN = /(^|\/)data\/[^/]+\.json$/i;
 const router = useRouter();
 const { t } = useI18n();
+const userStore = useUserStore();
 const payload = ref<CoursePackUploadPayload | null>(null);
 const parsing = ref(false);
 const uploading = ref(false);
 const errorMessage = ref("");
 const isDragOver = ref(false);
 let dragCounter = 0;
+
+onMounted(async () => {
+  if (!userStore.profile) await userStore.fetchProfile().catch(() => null);
+  if (userStore.profile?.role !== "admin") {
+    await router.replace(ROUTE_PATHS.PROFILE);
+  }
+});
 
 function isRecord(value: unknown): value is Record<string, unknown> {
   return typeof value === "object" && value !== null && !Array.isArray(value);

@@ -2,9 +2,9 @@
   "name": "travel-survival-english",
   "title": "出国旅行应急与出行",
   "description": "专为海外出游打造的高频实战口语，涵盖机场出入境、酒店入住、餐厅点餐、问路乘车与免税购物。",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "level": "A1-A2",
   "tags": ["出国旅行", "情景对话", "应急口语", "交通住宿"],
-  "totalUnits": 5,
-  "totalVocab": 120
+  "totalUnits": 7,
+  "totalVocab": 200
 }

@@ -47,13 +47,14 @@ export class AuthService {
       .returning();
 
     // 4. 为新注册用户即时签发 JWT Token，便于注册后直接进入系统
-    const token = this.generateToken(inserted.id, inserted.username);
+    const token = this.generateToken(inserted.id, inserted.username, inserted.role);
 
     return {
       userId: inserted.id,
       username: inserted.username,
       nickname: inserted.nickname,
       email: inserted.email,
+      role: inserted.role,
       token,
     };
   }
@@ -90,7 +91,7 @@ export class AuthService {
     }
 
     // 3. 签发登录凭据
-    const token = this.generateToken(foundUser.id, foundUser.username);
+    const token = this.generateToken(foundUser.id, foundUser.username, foundUser.role);
     this.logger.log(
       { event: LOG_EVENTS.LOGIN_SUCCEEDED, userId: foundUser.id, username: foundUser.username },
       AuthService.name,
@@ -101,6 +102,7 @@ export class AuthService {
       username: foundUser.username,
       nickname: foundUser.nickname,
       email: foundUser.email,
+      role: foundUser.role,
       token,
     };
   }
@@ -109,11 +111,13 @@ export class AuthService {
    * 生成 JWT 访问令牌
    * @param userId 用户 ID
    * @param username 用户名
+   * @param role 用户角色
    */
-  private generateToken(userId: string, username: string): string {
+  private generateToken(userId: string, username: string, role: string): string {
     return this.jwtService.sign({
       sub: userId,
       username,
+      role,
     });
   }
 }

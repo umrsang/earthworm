@@ -134,6 +134,8 @@ importers:
         specifier: ^2.0.13
         version: 2.2.12(typescript@5.9.3)
 
+  packages/course-pack: {}
+
   packages/db:
     dependencies:
       '@jufun/schema':

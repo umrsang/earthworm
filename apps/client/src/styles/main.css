@@ -411,6 +411,10 @@ a {
 .app-shell {
   min-height: 100vh;
   display: flex;
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+  overflow-x: hidden;
 }
 
 /* 左侧固定侧边栏 */
@@ -704,6 +708,56 @@ h1.page-title {
   gap: 10px;
 }
 
+.header-actions .language-selector-group {
+  height: 34px;
+  box-sizing: border-box;
+  border-radius: 10px;
+  padding: 3px;
+}
+
+.header-actions .language-selector-btn {
+  height: 26px;
+  line-height: 26px;
+  padding: 0 10px;
+  border-radius: 7px;
+  box-sizing: border-box;
+}
+
+.header-actions .icon-button.header-notification-btn {
+  width: 34px;
+  height: 34px;
+  min-height: 34px;
+  border-radius: 10px;
+  box-sizing: border-box;
+}
+
+.header-actions .icon-button.header-notification-btn .notification-bell-icon {
+  width: 16px;
+  height: 16px;
+  color: var(--text-2);
+  transition: color 150ms ease;
+}
+
+.header-actions .icon-button.header-notification-btn:hover .notification-bell-icon {
+  color: var(--text);
+}
+
+.header-actions .icon-button.header-notification-btn .dot {
+  top: 7px;
+  right: 7px;
+  width: 5px;
+  height: 5px;
+  box-shadow: 0 0 0 2px var(--surface);
+}
+
+.header-actions .button.small {
+  height: 34px;
+  min-height: 34px;
+  line-height: 32px;
+  border-radius: 10px;
+  box-sizing: border-box;
+}
+
 /* 核心英雄双栏网格 */
 .hero-grid {
   display: grid;
@@ -757,6 +811,7 @@ h1.page-title {
   font-size: 14px;
   line-height: 1.6;
 }
+
 
 .hero-progress {
   max-width: 390px;
@@ -838,6 +893,64 @@ h1.page-title {
   color: var(--text-2);
   text-align: center;
   font-size: 12px;
+}
+
+.hero-progress-note {
+  display: block;
+  margin-top: 6px;
+  font-size: 11px;
+  color: var(--text-3);
+  line-height: 1.4;
+}
+
+.goal-ring-note {
+  display: block;
+  margin-top: 6px;
+  font-size: 11px;
+  color: var(--text-3);
+  line-height: 1.5;
+  text-align: center;
+  max-width: 250px;
+}
+
+/* PC 端与移动端总进度展示形态切换 */
+.goal-ring-desktop-view {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+.goal-progress-mobile-view {
+  display: none;
+  width: 100%;
+}
+
+.mobile-goal-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.mobile-goal-percent {
+  color: var(--mint);
+  font-size: 16px;
+  font-weight: 800;
+}
+
+.mobile-goal-foot {
+  margin-top: 10px;
+  color: var(--text-2);
+  font-size: 12px;
+  text-align: left;
+}
+
+.goal-progress-mobile-view .goal-ring-note {
+  max-width: 100%;
+  text-align: left;
+  margin-top: 6px;
+  line-height: 1.5;
 }
 
 /* Section 头部与任务列表 */
@@ -967,6 +1080,57 @@ h1.page-title {
 /* ==========================================================================
    登录/注册页样式 (.auth-page - 保持清爽双栏)
    ========================================================================== */
+
+.dashboard-state-card,
+.dashboard-empty-card {
+  display: grid;
+  min-height: 180px;
+  place-items: center;
+  gap: 14px;
+  padding: 28px;
+  text-align: center;
+}
+
+.goal-ring {
+  background: conic-gradient(var(--mint) 0 var(--dashboard-progress, 0deg), var(--surface-3) var(--dashboard-progress, 0deg) 360deg);
+}
+
+.dashboard-dialog-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 200;
+  display: grid;
+  place-items: center;
+  padding: 24px;
+  background: rgba(5, 6, 12, 0.72);
+  backdrop-filter: blur(10px);
+}
+
+.dashboard-dialog,
+.dashboard-confirm-dialog {
+  width: min(100%, 720px);
+  max-height: min(82vh, 760px);
+  overflow-y: auto;
+  padding: 24px;
+}
+
+.dashboard-confirm-dialog { width: min(100%, 460px); }
+.dashboard-dialog > header,
+.dashboard-pack-item > header,
+.dashboard-course-row { display: flex; align-items: center; justify-content: space-between; gap: 16px; }
+.dashboard-dialog h2,
+.dashboard-confirm-dialog h2,
+.dashboard-pack-item h3 { margin: 0; }
+.dashboard-dialog > .muted,
+.dashboard-confirm-dialog p { margin-top: 12px; }
+.dashboard-pack-list { display: grid; gap: 16px; margin-top: 22px; }
+.dashboard-pack-item { padding: 16px; border: 1px solid var(--border); border-radius: var(--radius-sm); background: var(--surface); }
+.dashboard-course-row { margin-top: 12px; padding-top: 12px; border-top: 1px solid var(--border); }
+.dashboard-course-row > div { display: grid; gap: 4px; }
+.dashboard-course-row small { color: var(--text-3); }
+.dashboard-danger-button { border-color: rgba(242, 118, 124, 0.38); color: var(--red); }
+.dashboard-confirm-dialog .button-row { justify-content: flex-end; margin-top: 24px; }
+.dashboard-status-message { position: fixed; right: 24px; bottom: 24px; z-index: 220; padding: 12px 16px; border: 1px solid var(--border); border-radius: var(--radius-sm); background: var(--card-bg); color: var(--text); box-shadow: var(--shadow); }
 
 .auth-page {
   display: grid;
@@ -1397,23 +1561,19 @@ h1.page-title {
     margin: 18px 0 16px;
   }
 
-  .goal-ring-wrap {
-    min-height: 200px;
-    padding: 16px;
+  /* 移动端展示两个卡片：总进度卡片在移动端采用进度条形态展示 */
+  .today-goal-ring-card {
+    display: block !important;
+    min-height: auto;
+    padding: 18px 16px;
   }
 
-  .goal-ring {
-    width: 130px;
-    height: 130px;
+  .goal-ring-desktop-view {
+    display: none !important;
   }
 
-  .goal-ring::before {
-    width: 106px;
-    height: 106px;
-  }
-
-  .goal-ring strong {
-    font-size: 24px;
+  .goal-progress-mobile-view {
+    display: block !important;
   }
 
   /* 任务列表移动端排版：开头 Tag + 中间内容 + 右侧固定操作按钮 */
@@ -1479,6 +1639,15 @@ h1.page-title {
     margin: 10px 0 4px;
     font-size: 22px;
   }
+
+  .dashboard-dialog-backdrop { padding: 12px; }
+  .dashboard-dialog,
+  .dashboard-confirm-dialog { max-height: 90vh; padding: 18px; }
+  .dashboard-pack-item > header,
+  .dashboard-course-row { align-items: flex-start; flex-direction: column; }
+  .dashboard-pack-item > header .button,
+  .dashboard-course-row .button { width: 100%; }
+  .dashboard-status-message { right: 16px; bottom: 82px; left: 16px; text-align: center; }
 }
 
 /* ==========================================================================

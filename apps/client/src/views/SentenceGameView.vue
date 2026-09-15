@@ -10,7 +10,7 @@
       @exit="exitGame"
       @contents="contentsOpen = true"
       @settings="settingsOpen = true"
-      @pause="game.pause"
+      @pause="pauseGame"
     />
 
     <section v-if="loading" class="game-center-state">{{ $t('common.loading') }}</section>
@@ -33,7 +33,7 @@
         :phase="game.phase.value"
         :mode="game.settings.value.mode"
         :incorrect-indexes="game.incorrectIndexes.value"
-        @submit="game.submitAnswer"
+        @submit="submitAnswer"
         @start="game.startQuestion"
       />
       <GameAnswerPanel v-else :statement="game.currentStatement.value" :revealed="game.answerRevealed.value" />
@@ -47,7 +47,7 @@
         @next="goNext"
         @play="playCurrent"
         @reveal="game.revealAnswer"
-        @submit="game.submitAnswer"
+        @submit="submitAnswer"
         @retry="game.retry"
       />
     </section>
@@ -61,10 +61,17 @@
 </template>
 
 <script setup lang="ts">
-import { computed, onMounted, ref, watch } from "vue";
+import { computed, onBeforeUnmount, onMounted, ref, watch } from "vue";
 import { useI18n } from "vue-i18n";
 import { useRoute, useRouter } from "vue-router";
-import { completeCourseApi, getCourseApi, saveCourseProgressApi, type CourseDetail } from "../api/course-pack";
+import {
+  completeCourseApi,
+  getCourseApi,
+  saveCourseProgressApi,
+  saveLearningActivitiesApi,
+  type CourseDetail,
+  type LearningActivityEventPayload,
+} from "../api/course-pack";
 import GameAnswerPanel from "../components/game/GameAnswerPanel.vue";
 import GameControls from "../components/game/GameControls.vue";
 import GameConfetti from "../components/game/GameConfetti.vue";
@@ -82,7 +89,11 @@ import { ROUTE_NAMES } from "../constants";
 const route = useRoute();
 const router = useRouter();
 const { t } = useI18n();
+const MAX_DURATION_SECONDS_PER_EVENT = 3600;
+
 const course = ref<CourseDetail | null>(null);
+const activeCoursePackId = ref("");
+const activeCourseId = ref("");
 const loading = ref(true);
 const saving = ref(false);
 const errorMessage = ref("");
@@ -92,11 +103,18 @@ const settingsOpen = ref(false);
 const questionPanel = ref<InstanceType<typeof GameQuestionPanel> | null>(null);
 const game = useSentenceGame(course);
 const soundEffects = useGameSoundEffects();
+const sessionId = `${Date.now()}-${crypto.randomUUID()}`;
+let eventSequence = 0;
+let pendingEvents: LearningActivityEventPayload[] = [];
+let learningActivityRequest: Promise<void> = Promise.resolve();
 const shortcutsBlocked = computed(() => loading.value || saving.value || contentsOpen.value || settingsOpen.value || game.phase.value === "completed");
 game.inputRef.value = questionPanel.value;
 
 onMounted(loadCourse);
-watch(() => route.params.courseId, loadCourse);
+watch(() => route.params.courseId, async () => {
+  await flushLearningDuration();
+  await loadCourse();
+});
 watch(questionPanel, (panel) => { game.inputRef.value = panel; });
 watch(game.correctBurst, () => {
   const correctStatementId = game.currentStatement.value?.id;
@@ -108,13 +126,80 @@ watch(game.correctBurst, () => {
 });
 watch(game.incorrectBurst, () => { soundEffects.playErrorSound(); });
 
-useGameShortcuts({ phase: game.phase, blocked: shortcutsBlocked, submit: game.submitAnswer, next: goNext, previous: goPrevious, retry: game.retry, reveal: game.revealAnswer, play: playCurrent, pause: game.pause, resume: game.resume });
+useGameShortcuts({ phase: game.phase, blocked: shortcutsBlocked, submit: submitAnswer, next: goNext, previous: goPrevious, retry: game.retry, reveal: game.revealAnswer, play: playCurrent, pause: pauseGame, resume: game.resume });
+
+function createEventId(eventType: LearningActivityEventPayload["eventType"]): string {
+  eventSequence += 1;
+  return `${sessionId}-${eventType}-${eventSequence}`;
+}
+
+/** 串行发送学习事件；失败时保留原队列，等待下一次操作重试。 */
+function flushLearningActivities(): Promise<void> {
+  learningActivityRequest = learningActivityRequest.then(async () => {
+    if (!pendingEvents.length) return;
+    const events = [...pendingEvents];
+    try {
+      await saveLearningActivitiesApi(events, new Date().getTimezoneOffset());
+      pendingEvents = pendingEvents.slice(events.length);
+      const durationSeconds = events.reduce(
+        (total, event) => total + (event.eventType === "duration" ? event.durationSeconds : 0),
+        0,
+      );
+      game.timer.confirmSynced(durationSeconds);
+    } catch {
+      // 学习统计失败不阻断游戏，队列会在下一次刷新时继续重试。
+    }
+  });
+  return learningActivityRequest;
+}
+
+function flushLearningDuration(): Promise<void> {
+  const durationSeconds = Math.min(game.timer.getPendingSeconds(), MAX_DURATION_SECONDS_PER_EVENT);
+  const hasQueuedDuration = pendingEvents.some((event) => event.eventType === "duration");
+  if (durationSeconds > 0 && activeCoursePackId.value && activeCourseId.value && !hasQueuedDuration) {
+    pendingEvents.push({
+      eventId: createEventId("duration"),
+      coursePackId: activeCoursePackId.value,
+      courseId: activeCourseId.value,
+      eventType: "duration",
+      durationSeconds,
+      attemptCount: 0,
+      correctCount: 0,
+    });
+  }
+  return flushLearningActivities();
+}
+
+function submitAnswer(): void {
+  const result = game.submitAnswer();
+  if (!result) return;
+  pendingEvents.push({
+    eventId: createEventId("answer"),
+    coursePackId: activeCoursePackId.value,
+    courseId: activeCourseId.value,
+    statementId: result.statementId,
+    eventType: "answer",
+    durationSeconds: 0,
+    attemptCount: result.attemptCount,
+    correctCount: result.correctCount,
+  });
+  void flushLearningActivities();
+}
+
+function pauseGame(): void {
+  game.pause();
+  void flushLearningDuration();
+}
 
 async function loadCourse() {
   loading.value = true;
   errorMessage.value = "";
   try {
-    course.value = await getCourseApi(String(route.params.coursePackId), String(route.params.courseId));
+    const coursePackId = String(route.params.coursePackId);
+    const courseId = String(route.params.courseId);
+    course.value = await getCourseApi(coursePackId, courseId);
+    activeCoursePackId.value = coursePackId;
+    activeCourseId.value = courseId;
     if (!course.value.statements.length) throw new Error(t("game.emptyCourse"));
     const index = Math.min(Math.max(Number(course.value.statementIndex) || 0, 0), course.value.statements.length - 1);
     game.applyCourse(index);
@@ -139,6 +224,7 @@ async function saveIndex(index: number) {
 
 async function moveTo(index: number) {
   if (!course.value || index < 0 || index >= course.value.statements.length || saving.value) return;
+  await flushLearningDuration();
   game.setIndex(index);
   contentsOpen.value = false;
   await saveIndex(index);
@@ -147,6 +233,7 @@ function goPrevious() { void moveTo(game.currentIndex.value - 1); }
 async function goNext() {
   if (!course.value || saving.value) return;
   if (!game.isLastStatement.value) { await moveTo(game.currentIndex.value + 1); return; }
+  await flushLearningDuration();
   saving.value = true;
   try {
     const result = await completeCourseApi(String(route.params.coursePackId), String(route.params.courseId));
@@ -155,10 +242,26 @@ async function goNext() {
   finally { saving.value = false; }
 }
 function selectStatement(index: number) { void moveTo(index); }
-function restartCourse() { game.restart(); void saveIndex(0); }
-function openNextCourse() {
-  if (!game.nextCourse.value) return;
-  router.replace({ name: ROUTE_NAMES.COURSE_GAME, params: { coursePackId: route.params.coursePackId, courseId: game.nextCourse.value.id } });
+async function restartCourse() {
+  await flushLearningDuration();
+  game.restart();
+  void saveIndex(0);
 }
-function exitGame() { game.speech.stop(); game.timer.pause(); soundEffects.stop(); router.push({ name: ROUTE_NAMES.COURSE_PACK_DETAIL, params: { coursePackId: route.params.coursePackId } }); }
+async function openNextCourse() {
+  if (!game.nextCourse.value) return;
+  await flushLearningDuration();
+  await router.replace({ name: ROUTE_NAMES.COURSE_GAME, params: { coursePackId: route.params.coursePackId, courseId: game.nextCourse.value.id } });
+}
+async function exitGame() {
+  game.speech.stop();
+  game.timer.pause();
+  soundEffects.stop();
+  await flushLearningDuration();
+  await router.push({ name: ROUTE_NAMES.COURSE_PACK_DETAIL, params: { coursePackId: route.params.coursePackId } });
+}
+
+onBeforeUnmount(() => {
+  game.timer.pause();
+  void flushLearningDuration();
+});
 </script>

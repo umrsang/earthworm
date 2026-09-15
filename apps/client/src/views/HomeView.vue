@@ -600,7 +600,7 @@
           <div>
             <p class="eyebrow">{{ formattedHeaderDate }}</p>
             <h1 class="page-title">{{ greetingText }}{{ userDisplayName }}</h1>
-            <p class="muted">{{ $t('today.todaySubtitle') }}</p>
+            <p class="muted">{{ dashboardSubtitle }}</p>
           </div>
 
           <div class="header-actions">
@@ -611,7 +611,7 @@
                 :class="{ 'is-active': currentLocale === 'zh-CN' }"
                 @click="switchLanguage('zh-CN')"
               >
-                中文
+                {{ $t('app.languageChinese') }}
               </button>
               <button
                 type="button"
@@ -619,12 +619,16 @@
                 :class="{ 'is-active': currentLocale === 'en-US' }"
                 @click="switchLanguage('en-US')"
               >
-                English
+                {{ $t('app.languageEnglish') }}
               </button>
             </div>
 
-            <button type="button" class="icon-button" aria-label="通知">
-              ♢<span class="dot"></span>
+            <button type="button" class="icon-button header-notification-btn" :aria-label="$t('today.notifications')">
+              <svg class="notification-bell-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"></path>
+                <path d="M13.73 21a2 2 0 0 1-3.46 0"></path>
+              </svg>
+              <span class="dot"></span>
             </button>
 
             <button type="button" class="button ghost small" @click="handleLogout">
@@ -633,155 +637,137 @@
           </div>
         </header>
 
-        <section class="hero-grid">
-          <article class="card today-hero">
-            <div class="hero-copy">
-              <span class="status-pill purple">{{ $t('today.heroTag') }}</span>
-              <h2>{{ $t('today.heroTitle') }}</h2>
-              <p>{{ $t('today.heroDesc') }}</p>
+        <section v-if="dashboardLoading" class="card dashboard-state-card">{{ $t('common.loading') }}</section>
+        <section v-else-if="dashboardError && !dashboard" class="card dashboard-state-card learning-error-message">
+          <p>{{ dashboardError || $t('today.loadFailed') }}</p>
+          <button type="button" class="button small ghost" @click="loadDashboard">{{ $t('today.retry') }}</button>
+        </section>
+        <template v-else-if="dashboard">
+          <section class="hero-grid">
+            <article class="card today-hero">
+              <div class="hero-copy">
+                <span class="status-pill purple">{{ $t('today.heroTag') }}</span>
+                <h2>{{ recentTitle }}</h2>
+                <p>{{ recentDescription }}</p>
+                <!-- 继续学习上方：显示当前正在学习的课程包进度，移动端与 PC 端均清晰展示并附注释说明 -->
+                <div class="hero-progress today-progress-bar-wrap">
+                  <div class="hero-progress-label">
+                    <span>{{ currentPackProgressText }}</span>
+                    <strong>{{ displayPercent }}%</strong>
+                  </div>
+                  <div class="progress-track"><i :style="{ width: `${displayPercent}%` }"></i></div>
+                  <small class="hero-progress-note">
+                    {{ currentPackProgress ? $t('today.currentPackProgressNote', { pack: currentPackProgress.packTitle }) : $t('today.overallProgressNote', { total: dashboard.progress.totalCourses }) }}
+                  </small>
+                </div>
+                <div class="button-row">
+                  <button type="button" class="button primary" @click="openRecentCourse">
+                    ▶ {{ dashboard.recent ? $t('today.continueLearning') : $t('today.browseCourses') }}
+                  </button>
+                  <button type="button" class="button ghost" @click="progressManagerOpen = true">
+                    {{ $t('today.progressManagement') }}
+                  </button>
+                </div>
+              </div>
+            </article>
+            <!-- 右侧卡片：全库总进度卡片（PC 端采用环形图，移动端采用进度条，并均附带详细注释说明） -->
+            <article class="card goal-ring-wrap today-goal-ring-card">
+              <!-- PC 端环形图视图 -->
+              <div class="goal-ring-desktop-view">
+                <div class="goal-ring" :style="{ '--dashboard-progress': `${dashboard.progress.percent * 3.6}deg` }">
+                  <div>
+                    <strong>{{ dashboard.progress.percent }}%</strong>
+                    <small>{{ $t('today.courseCompletion') }}</small>
+                  </div>
+                </div>
+                <p class="goal-foot">
+                  {{ $t('today.allPacksTotalProgress', { completed: dashboard.progress.completedCourses, total: dashboard.progress.totalCourses }) }}
+                </p>
+                <small class="goal-ring-note">
+                  {{ $t('today.overallProgressNote', { total: dashboard.progress.totalCourses }) }}
+                </small>
+              </div>
 
-              <div class="hero-progress">
-                <div class="hero-progress-label">
-                  <span>{{ $t('today.heroProgressLabel') }}</span>
-                  <strong>60%</strong>
+              <!-- 移动端进度条视图 -->
+              <div class="goal-progress-mobile-view">
+                <div class="mobile-goal-header">
+                  <span class="status-pill mint">{{ $t('today.totalProgressTag') }}</span>
+                  <strong class="mobile-goal-percent">{{ dashboard.progress.percent }}%</strong>
                 </div>
                 <div class="progress-track">
-                  <i style="width: 60%;"></i>
+                  <i :style="{ width: `${dashboard.progress.percent}%` }"></i>
                 </div>
+                <p class="mobile-goal-foot">
+                  {{ $t('today.allPacksTotalProgress', { completed: dashboard.progress.completedCourses, total: dashboard.progress.totalCourses }) }}
+                </p>
+                <small class="goal-ring-note">
+                  {{ $t('today.overallProgressNote', { total: dashboard.progress.totalCourses }) }}
+                </small>
               </div>
+            </article>
+          </section>
 
-              <div class="button-row">
-                <button type="button" class="button primary">
-                  ▶ {{ $t('today.btnContinueToday') }}
-                </button>
-                <button type="button" class="button ghost">
-                  {{ $t('today.btnAdjustPlan') }}
-                </button>
-              </div>
+          <section class="section">
+            <div class="section-head">
+              <div><p class="eyebrow">{{ $t('today.queueTag') }}</p><h2>{{ $t('today.recentTasks') }}</h2></div>
             </div>
-          </article>
-
-          <article class="card goal-ring-wrap">
-            <div>
-              <div class="goal-ring">
+            <div v-if="dashboard.tasks.length" class="task-list">
+              <article v-for="task in dashboard.tasks" :key="task.courseId" class="card task-row">
+                <span class="status-pill" :class="task.completionCount > 0 ? 'mint' : 'purple'">
+                  {{ task.completionCount > 0 ? $t('today.completed') : $t('today.inProgress') }}
+                </span>
                 <div>
-                  <strong>{{ $t('today.goalRingTime') }}</strong>
-                  <small>{{ $t('today.goalRingTotal') }}</small>
+                  <h3>{{ task.coursePackTitle }} · {{ task.courseTitle }}</h3>
+                  <div class="task-meta">
+                    <span>{{ $t('today.coursePosition', { current: Math.min(task.statementIndex + 1, task.statementCount), total: task.statementCount }) }}</span>
+                    <span>·</span>
+                    <span>{{ $t('today.completionCount', { count: task.completionCount }) }}</span>
+                  </div>
                 </div>
-              </div>
-              <p class="goal-foot">{{ $t('today.goalRingFoot') }}</p>
+                <button type="button" class="button small primary" @click="openCourse(task)">{{ $t('today.continueLearning') }}</button>
+              </article>
             </div>
-          </article>
-        </section>
-
-        <section class="section">
-          <div class="section-head">
-            <div>
-              <p class="eyebrow">{{ $t('today.queueTag') }}</p>
-              <h2>{{ $t('today.queueTitle') }}</h2>
+            <div v-else class="card dashboard-empty-card">
+              <p>{{ $t('today.emptyCourses') }}</p>
+              <button type="button" class="button primary" @click="openCoursePacks">{{ $t('today.browseCourses') }}</button>
             </div>
-            <button type="button" class="button small ghost">
-              {{ $t('today.viewDetails') }}
-            </button>
-          </div>
+          </section>
 
-          <div class="task-list">
-            <article class="card task-row">
-              <span class="status-pill mint">{{ $t('today.task1Status') }}</span>
-              <div>
-                <h3>{{ $t('today.task1Title') }}</h3>
-                <div class="task-meta">
-                  <span>{{ $t('today.task1Meta1') }}</span>
-                  <span>·</span>
-                  <span>{{ $t('today.task1Meta2') }}</span>
-                </div>
-              </div>
-              <button type="button" class="button small ghost">
-                {{ $t('today.task1Action') }}
-              </button>
-            </article>
-
-            <article class="card task-row">
-              <span class="status-pill purple">{{ $t('today.task2Status') }}</span>
-              <div>
-                <h3>{{ $t('today.task2Title') }}</h3>
-                <div class="task-meta">
-                  <span>{{ $t('today.task2Meta1') }}</span>
-                  <span>·</span>
-                  <span>{{ $t('today.task2Meta2') }}</span>
-                </div>
-              </div>
-              <button type="button" class="button small primary">
-                {{ $t('today.task2Action') }}
-              </button>
-            </article>
-
-            <article class="card task-row">
-              <span class="status-pill amber">{{ $t('today.task3Status') }}</span>
-              <div>
-                <h3>{{ $t('today.task3Title') }}</h3>
-                <div class="task-meta">
-                  <span>{{ $t('today.task3Meta1') }}</span>
-                  <span>·</span>
-                  <span>{{ $t('today.task3Meta2') }}</span>
-                </div>
-              </div>
-              <button type="button" class="button small ghost">
-                {{ $t('today.task3Action') }}
-              </button>
-            </article>
-          </div>
-        </section>
-
-        <section class="section">
-          <div class="section-head">
-            <div>
-              <p class="eyebrow">{{ $t('today.rhythmTag') }}</p>
-              <h2>{{ $t('today.rhythmTitle') }}</h2>
+          <section class="section">
+            <div class="section-head"><div><p class="eyebrow">{{ $t('today.rhythmTag') }}</p><h2>{{ $t('today.todayStatistics') }}</h2></div></div>
+            <div class="metric-grid">
+              <article class="card metric-card"><div class="metric-label"><span>{{ $t('today.effectiveDuration') }}</span><span>◷</span></div><div class="metric-value">{{ formattedDuration }}</div><small class="subtle">{{ $t('today.effectiveDurationHint') }}</small></article>
+              <article class="card metric-card"><div class="metric-label"><span>{{ $t('today.completedAnswers') }}</span><span>✓</span></div><div class="metric-value">{{ dashboard.today.completedAnswers }}</div><small class="subtle">{{ $t('today.attemptCount', { count: dashboard.today.attempts }) }}</small></article>
+              <article class="card metric-card"><div class="metric-label"><span>{{ $t('today.correctRate') }}</span><span>◎</span></div><div class="metric-value">{{ dashboard.today.correctRate }}%</div><small class="subtle">{{ $t('today.correctRateHint') }}</small></article>
+              <article class="card metric-card"><div class="metric-label"><span>{{ $t('today.streakDays') }}</span><span>⌁</span></div><div class="metric-value">{{ $t('today.daysValue', { count: dashboard.streakDays }) }}</div><small class="subtle">{{ $t('today.streakHint') }}</small></article>
             </div>
-            <button type="button" class="button small ghost">
-              {{ $t('today.viewInsights') }}
-            </button>
-          </div>
+          </section>
+        </template>
 
-          <div class="metric-grid">
-            <article class="card metric-card">
-              <div class="metric-label">
-                <span>{{ $t('today.metric1Label') }}</span>
-                <span>◷</span>
-              </div>
-              <div class="metric-value">{{ $t('today.metric1Val') }}</div>
-              <small class="trend-up">{{ $t('today.metric1Trend') }}</small>
-            </article>
+        <p v-if="resetStatusMessage" class="dashboard-status-message" role="status">{{ resetStatusMessage }}</p>
+        <div v-if="progressManagerOpen && dashboard" class="dashboard-dialog-backdrop" @click.self="progressManagerOpen = false">
+          <section class="card dashboard-dialog" role="dialog" aria-modal="true" :aria-label="$t('today.progressManagement')">
+            <header><div><p class="eyebrow">{{ $t('today.progressManagement') }}</p><h2>{{ $t('today.manageCourseProgress') }}</h2></div><button type="button" class="icon-button" :aria-label="$t('common.close')" @click="progressManagerOpen = false">×</button></header>
+            <p class="muted">{{ $t('today.historyPreserved') }}</p>
+            <div class="dashboard-pack-list">
+              <p v-if="!dashboard.coursePacks.length" class="muted">{{ $t('today.emptyCourses') }}</p>
+              <article v-for="pack in dashboard.coursePacks" :key="pack.id" class="dashboard-pack-item">
+                <header><h3>{{ pack.title }}</h3><button type="button" class="button small ghost dashboard-danger-button" @click="requestPackReset(pack)">{{ $t('today.resetCoursePack') }}</button></header>
+                <div v-for="item in pack.courses" :key="item.courseId" class="dashboard-course-row">
+                  <div><strong>{{ item.courseTitle }}</strong><small>{{ $t('today.courseProgressDetail', { current: Math.min(item.statementIndex + 1, item.statementCount), total: item.statementCount, count: item.completionCount }) }}</small></div>
+                  <button type="button" class="button small ghost" @click="requestCourseReset(item)">{{ $t('today.resetCourse') }}</button>
+                </div>
+              </article>
+            </div>
+          </section>
+        </div>
 
-            <article class="card metric-card">
-              <div class="metric-label">
-                <span>{{ $t('today.metric2Label') }}</span>
-                <span>✓</span>
-              </div>
-              <div class="metric-value">{{ $t('today.metric2Val') }}</div>
-              <small class="trend-up">{{ $t('today.metric2Trend') }}</small>
-            </article>
-
-            <article class="card metric-card">
-              <div class="metric-label">
-                <span>{{ $t('today.metric3Label') }}</span>
-                <span>⌁</span>
-              </div>
-              <div class="metric-value">{{ $t('today.metric3Val') }}</div>
-              <small class="subtle">{{ $t('today.metric3Trend') }}</small>
-            </article>
-
-            <article class="card metric-card">
-              <div class="metric-label">
-                <span>{{ $t('today.metric4Label') }}</span>
-                <span>↻</span>
-              </div>
-              <div class="metric-value">{{ $t('today.metric4Val') }}</div>
-              <small class="subtle">{{ $t('today.metric4Trend') }}</small>
-            </article>
-          </div>
-        </section>
+        <div v-if="resetTarget" class="dashboard-dialog-backdrop">
+          <section class="card dashboard-confirm-dialog" role="alertdialog" aria-modal="true" :aria-label="$t('today.confirmResetTitle')">
+            <h2>{{ $t('today.confirmResetTitle') }}</h2><p>{{ $t('today.confirmResetDescription', { title: resetTarget.title }) }}</p><p class="muted">{{ $t('today.historyPreserved') }}</p>
+            <div class="button-row"><button type="button" class="button ghost" :disabled="dashboardResetting" @click="resetTarget = null">{{ $t('common.cancel') }}</button><button type="button" class="button primary dashboard-danger-button" :disabled="dashboardResetting" @click="handleConfirmReset">{{ dashboardResetting ? $t('today.resetting') : $t('common.confirm') }}</button></div>
+          </section>
+        </div>
       </div>
     </main>
   </div>
@@ -791,14 +777,27 @@
 import { computed, onMounted, ref } from "vue";
 import { useI18n } from "vue-i18n";
 import { useRouter } from "vue-router";
+import type { DashboardCourseProgress } from "../api/course-pack";
 import AppNavigation from "../components/AppNavigation.vue";
-import { ROUTE_PATHS } from "../constants";
+import { useLearningDashboard } from "../composables/useLearningDashboard";
+import { ROUTE_NAMES, ROUTE_PATHS } from "../constants";
 import { setLanguage } from "../locales";
 import { useUserStore } from "../stores/user";
 
 const { t, locale } = useI18n();
 const router = useRouter();
 const userStore = useUserStore();
+const progressManagerOpen = ref(false);
+const resetStatusMessage = ref("");
+const {
+  dashboard,
+  loading: dashboardLoading,
+  resetting: dashboardResetting,
+  errorMessage: dashboardError,
+  resetTarget,
+  loadDashboard,
+  confirmReset,
+} = useLearningDashboard();
 
 // 落地页互动状态
 const activeCourseFilter = ref<"all" | "daily" | "travel" | "work">("all");
@@ -808,7 +807,7 @@ const isDarkTheme = ref(true);
 const currentLocale = computed(() => locale.value);
 
 const userDisplayName = computed(() => {
-  return userStore.profile?.nickname || userStore.profile?.username || "林小满";
+  return userStore.profile?.nickname || userStore.profile?.username || t("today.defaultUserName");
 });
 
 const userInitial = computed(() => {
@@ -851,10 +850,105 @@ function handleLogout() {
   router.push(ROUTE_PATHS.HOME);
 }
 
-function toggleUserMenu() {
-  if (confirm(t("auth.logout") + "?")) {
-    handleLogout();
+const dashboardSubtitle = computed(() => dashboard.value
+  ? t("today.dashboardSubtitle", { count: dashboard.value.today.completedAnswers })
+  : t("today.todaySubtitle"));
+const recentTitle = computed(() => dashboard.value?.recent
+  ? t("today.continueCourseTitle", { title: dashboard.value.recent.courseTitle })
+  : t("today.emptyTitle"));
+const recentDescription = computed(() => dashboard.value?.recent
+  ? t("today.recentCourseDescription", {
+      pack: dashboard.value.recent.coursePackTitle,
+      current: Math.min(dashboard.value.recent.statementIndex + 1, dashboard.value.recent.statementCount),
+      total: dashboard.value.recent.statementCount,
+    })
+  : t("today.emptyDescription"));
+
+/**
+ * 计算当前正在学习的单个课程包内部的课程进度。
+ * 解决背景：系统内总计导入了包含 CET-4 等多个词汇包在内的 107 门课时；
+ * 若直接在单课卡片上展示 107 课，会让用户误以为当前单课包有上百课。
+ * 因此优先统计当前正在学习的课程包内部进度，并附注全库累计数据。
+ */
+const currentPackProgress = computed(() => {
+  if (!dashboard.value?.recent) return null;
+  const recentPackId = dashboard.value.recent.coursePackId;
+  const pack = dashboard.value.coursePacks?.find((p) => p.id === recentPackId);
+  if (!pack || !pack.courses?.length) return null;
+  const total = pack.courses.length;
+  const completed = pack.courses.filter((c) => c.completionCount > 0).length;
+  const percent = total > 0 ? Math.round((completed / total) * 100) : 0;
+  return {
+    packTitle: pack.title,
+    totalCourses: total,
+    completedCourses: completed,
+    percent,
+  };
+});
+
+/** 进度展示百分比：优先取当前课包，无课包则使用全库进度 */
+const displayPercent = computed(() => {
+  return currentPackProgress.value ? currentPackProgress.value.percent : (dashboard.value?.progress.percent || 0);
+});
+
+/** 当前课程包进度说明文本 */
+const currentPackProgressText = computed(() => {
+  if (currentPackProgress.value) {
+    return t("today.currentPackProgress", {
+      pack: currentPackProgress.value.packTitle,
+      completed: currentPackProgress.value.completedCourses,
+      total: currentPackProgress.value.totalCourses,
+    });
   }
+  return t("today.overallProgress", {
+    completed: dashboard.value?.progress.completedCourses || 0,
+    total: dashboard.value?.progress.totalCourses || 0,
+  });
+});
+
+/** 全库累计课程与词汇包的详细注释说明 */
+const totalPacksNoteText = computed(() => {
+  return t("today.totalPacksNote", {
+    completed: dashboard.value?.progress.completedCourses || 0,
+    total: dashboard.value?.progress.totalCourses || 0,
+  });
+});
+const formattedDuration = computed(() => {
+  const seconds = dashboard.value?.today.durationSeconds || 0;
+  const minutes = Math.floor(seconds / 60);
+  return minutes > 0 ? t("today.minutesValue", { count: minutes }) : t("today.secondsValue", { count: seconds });
+});
+
+function openCourse(item: DashboardCourseProgress): void {
+  void router.push({
+    name: ROUTE_NAMES.COURSE_GAME,
+    params: { coursePackId: item.coursePackId, courseId: item.courseId },
+  });
+}
+
+function openRecentCourse(): void {
+  if (dashboard.value?.recent) openCourse(dashboard.value.recent);
+  else openCoursePacks();
+}
+
+function requestCourseReset(item: DashboardCourseProgress): void {
+  resetStatusMessage.value = "";
+  resetTarget.value = {
+    type: "course",
+    coursePackId: item.coursePackId,
+    courseId: item.courseId,
+    title: item.courseTitle,
+  };
+}
+
+function requestPackReset(pack: { id: string; title: string }): void {
+  resetStatusMessage.value = "";
+  resetTarget.value = { type: "coursePack", coursePackId: pack.id, title: pack.title };
+}
+
+async function handleConfirmReset(): Promise<void> {
+  const succeeded = await confirmReset();
+  resetStatusMessage.value = succeeded ? t("today.resetSuccess") : t("today.resetFailed");
 }
 
 const greetingText = computed(() => {
@@ -864,22 +958,17 @@ const greetingText = computed(() => {
   return t("today.greetingEvening");
 });
 
-const formattedHeaderDate = computed(() => {
-  const d = new Date();
-  const year = d.getFullYear();
-  const month = d.getMonth() + 1;
-  const date = d.getDate();
-  const weekdaysZh = ["星期日", "星期一", "星期二", "星期三", "星期四", "星期五", "星期六"];
-  const weekdaysEn = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
-  const weekday = locale.value === "zh-CN" ? weekdaysZh[d.getDay()] : weekdaysEn[d.getDay()];
-  const monthText = locale.value === "zh-CN" ? `${month} 月` : `Month ${month}`;
-  const dayText = locale.value === "zh-CN" ? `${date} 日` : `${date}`;
-  return `${year} · ${monthText} ${dayText} · ${weekday}`;
-});
+const formattedHeaderDate = computed(() => new Intl.DateTimeFormat(locale.value, {
+  year: "numeric",
+  month: "long",
+  day: "numeric",
+  weekday: "long",
+}).format(new Date()));
 
 onMounted(async () => {
   if (userStore.token && !userStore.profile) {
     await userStore.fetchProfile();
   }
+  if (userStore.token) await loadDashboard();
 });
 </script>

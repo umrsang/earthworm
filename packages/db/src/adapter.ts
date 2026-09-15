@@ -13,7 +13,7 @@ export type { Client, InStatement } from "@libsql/client";
 export type { Pool, PoolConnection, RowDataPacket } from "mysql2/promise";
 
 import { mysqlSchemas, sqliteSchemas } from "@jufun/schema";
-import { runMigrations } from "./migrations/index";
+import { runMigrations } from "./migrations/index.ts";
 
 dotenv.config();
 
@@ -173,8 +173,8 @@ async function seedDefaultAdmin(dialect: DbDialect, client: any): Promise<void> 
     if (rows.length === 0) {
       console.log(`🌱 [DB Adapter] 未检测到管理员账号，正在自动初始化管理员 [${DEFAULT_ADMIN.USERNAME}]...`);
       await pool.execute(
-        `INSERT INTO users (id, username, password, email, nickname, created_at, updated_at)
-         VALUES (?, ?, ?, ?, ?, NOW(), NOW());`,
+        `INSERT INTO users (id, username, password, email, nickname, role, created_at, updated_at)
+         VALUES (?, ?, ?, ?, ?, 'admin', NOW(), NOW());`,
         [adminId, DEFAULT_ADMIN.USERNAME, hashedPassword, DEFAULT_ADMIN.EMAIL, DEFAULT_ADMIN.NICKNAME],
       );
       console.log(`✅ [DB Adapter] 初始管理员已就绪: 用户名 [${DEFAULT_ADMIN.USERNAME}]`);
@@ -189,8 +189,8 @@ async function seedDefaultAdmin(dialect: DbDialect, client: any): Promise<void> 
     if (res.rows.length === 0) {
       console.log(`🌱 [DB Adapter] 未检测到管理员账号，正在自动初始化管理员 [${DEFAULT_ADMIN.USERNAME}]...`);
       await sqlite.execute({
-        sql: `INSERT INTO users (id, username, password, email, nickname, created_at, updated_at)
-              VALUES (?, ?, ?, ?, ?, ?, ?);`,
+        sql: `INSERT INTO users (id, username, password, email, nickname, role, created_at, updated_at)
+              VALUES (?, ?, ?, ?, ?, 'admin', ?, ?);`,
         args: [
           adminId,
           DEFAULT_ADMIN.USERNAME,
@@ -234,6 +234,7 @@ export async function autoMigrateDatabase(): Promise<void> {
     await ensureMysqlColumns(pool, "users", {
       nickname: "VARCHAR(256) NULL AFTER email",
       avatar: "TEXT NULL AFTER nickname",
+      role: "VARCHAR(32) NOT NULL DEFAULT 'user' AFTER avatar",
     });
 
     // 3. 课程包相关表按依赖顺序创建，外键级联保证删除课程包时同步清理学习数据。
@@ -321,8 +322,9 @@ export async function autoMigrateDatabase(): Promise<void> {
         username TEXT NOT NULL UNIQUE,
         password TEXT NOT NULL,
         email TEXT,
-        nickname TEXT,
-        avatar TEXT,
+      nickname TEXT,
+      avatar TEXT,
+      role TEXT NOT NULL DEFAULT 'user',
         created_at INTEGER NOT NULL,
         updated_at INTEGER NOT NULL
       );
@@ -332,6 +334,7 @@ export async function autoMigrateDatabase(): Promise<void> {
     await ensureSqliteColumns(sqlite, "users", {
       nickname: "TEXT",
       avatar: "TEXT",
+      role: "TEXT NOT NULL DEFAULT 'user'",
     });
 
     // 3. SQLite 默认启用外键，并按依赖顺序创建课程包及学习记录表。

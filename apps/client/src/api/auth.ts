@@ -22,6 +22,8 @@ export interface AuthResponse {
   nickname: string;
   /** 邮箱 */
   email?: string;
+  /** 用户角色 */
+  role: "user" | "admin";
   /** 认证 JWT Token */
   token: string;
 }

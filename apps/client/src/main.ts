@@ -7,6 +7,8 @@ import "./styles/main.css";
 import "./styles/landing.css";
 import "./styles/course.css";
 import "./styles/game.css";
+import "./styles/admin.css";
+import "./styles/profile.css";
 
 const app = createApp(App);
 const pinia = createPinia();

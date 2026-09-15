@@ -7,6 +7,7 @@ export interface UserProfile {
   nickname: string;
   email: string | null;
   avatar: string | null;
+  role: "user" | "admin";
   createdAt: string | number;
   updatedAt: string | number;
 }

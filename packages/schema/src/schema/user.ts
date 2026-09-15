@@ -30,6 +30,9 @@ export const user = sqliteTable(USER_TABLE_NAME, {
   /** 头像地址（可选） */
   avatar: text("avatar"),
 
+  /** 账号角色，admin 可访问系统管理能力 */
+  role: text("role").notNull().default("user"),
+
   /** 账号创建时间戳（毫秒） */
   createdAt: integer("created_at", { mode: "timestamp" })
     .notNull()

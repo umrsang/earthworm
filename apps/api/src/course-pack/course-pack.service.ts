@@ -123,6 +123,15 @@ function addLearningDays(date: string, amount: number): string {
   return new Date(Date.parse(`${date}T00:00:00.000Z`) + amount * MILLISECONDS_PER_DAY).toISOString().slice(0, 10);
 }
 
+/** 将不同数据库驱动返回的时间统一转换为可排序的毫秒时间戳。 */
+function parseTimestamp(value: string | number | Date | null): number {
+  if (value === null) return 0;
+  if (value instanceof Date) return value.getTime();
+  if (typeof value === "number") return value;
+  const parsed = Date.parse(value);
+  return Number.isFinite(parsed) ? parsed : 0;
+}
+
 /** 将可选文本清理为数据库可用的空值。 */
 function normalizeOptionalText(value?: string): string | null {
   return value?.trim() || null;
@@ -299,8 +308,33 @@ export class CoursePackService {
     const { dialect, client } = getUnderlyingClient();
     let insertedCount = 0;
 
+    // 单批事件先集中校验课程与句子归属，避免逐事件产生 N+1 查询。
+    const courseIds = [...new Set(dto.events.map((event) => event.courseId))];
+    const coursePlaceholders = courseIds.map(() => "?").join(", ");
+    const ownedCourses = await this.query<{ id: string; coursePackId: string }>(
+      `SELECT c.id, c.course_pack_id
+       FROM courses c
+       INNER JOIN course_packs cp ON cp.id = c.course_pack_id
+       WHERE cp.creator_id = ? AND c.id IN (${coursePlaceholders})`,
+      [userId, ...courseIds],
+    );
+    const ownedCoursePackIds = new Map(ownedCourses.map((course) => [course.id, course.coursePackId]));
+    if (dto.events.some((event) => ownedCoursePackIds.get(event.courseId) !== event.coursePackId)) {
+      throw new NotFoundException(ERROR_MESSAGES.COURSE_NOT_FOUND);
+    }
+
+    const statementIds = [...new Set(dto.events.flatMap((event) => event.statementId ? [event.statementId] : []))];
+    const statementCourseIds = new Map<string, string>();
+    if (statementIds.length > 0) {
+      const statementPlaceholders = statementIds.map(() => "?").join(", ");
+      const statementRows = await this.query<{ id: string; courseId: string }>(
+        `SELECT id, course_id FROM statements WHERE id IN (${statementPlaceholders})`,
+        statementIds,
+      );
+      statementRows.forEach((statement) => statementCourseIds.set(statement.id, statement.courseId));
+    }
+
     for (const event of dto.events) {
-      await this.requireOwnedCourse(userId, event.coursePackId, event.courseId);
       const isAnswer = event.eventType === LEARNING_EVENT_TYPE_ANSWER;
       const validAnswer = isAnswer
         && Boolean(event.statementId)
@@ -313,14 +347,10 @@ export class CoursePackService {
         && event.attemptCount === 0
         && event.correctCount === 0;
       if (!validAnswer && !validDuration) {
-        throw new BadRequestException(ERROR_MESSAGES.COURSE_PROGRESS_OUT_OF_RANGE);
+        throw new BadRequestException(ERROR_MESSAGES.LEARNING_ACTIVITY_INVALID);
       }
-      if (event.statementId) {
-        const statementRows = await this.query<{ id: string }>(
-          "SELECT id FROM statements WHERE id = ? AND course_id = ? LIMIT 1",
-          [event.statementId, event.courseId],
-        );
-        if (!statementRows[0]) throw new BadRequestException(ERROR_MESSAGES.COURSE_PROGRESS_OUT_OF_RANGE);
+      if (event.statementId && statementCourseIds.get(event.statementId) !== event.courseId) {
+        throw new BadRequestException(ERROR_MESSAGES.LEARNING_ACTIVITY_INVALID);
       }
 
       const eventRowId = createId();
@@ -359,7 +389,7 @@ export class CoursePackService {
       correctAnswers: number;
     }>(
       `SELECT COALESCE(SUM(duration_seconds), 0) AS duration_seconds,
-              COALESCE(SUM(correct_count), 0) AS completed_answers,
+              COALESCE(SUM(attempt_count), 0) AS completed_answers,
               COALESCE(SUM(attempt_count), 0) AS attempts,
               COALESCE(SUM(correct_count), 0) AS correct_answers
        FROM learning_activity_events WHERE user_id = ? AND learning_date = ?`,
@@ -383,7 +413,7 @@ export class CoursePackService {
       streakCursor = addLearningDays(streakCursor, -1);
     }
 
-    const courseRows = await this.query<DashboardCourseProgress & { progressUpdatedAt: string | number | null }>(
+    const courseRows = await this.query<DashboardCourseProgress & { progressUpdatedAt: string | number | Date | null }>(
       `SELECT cp.id AS course_pack_id, cp.title AS course_pack_title,
               c.id AS course_id, c.title AS course_title,
               CASE WHEN ucp.course_id = c.id THEN ucp.statement_index ELSE 0 END AS statement_index,
@@ -409,7 +439,7 @@ export class CoursePackService {
     const completedCourses = courses.filter((course) => course.completionCount > 0).length;
     const recentRow = [...courses]
       .filter((course) => course.progressUpdatedAt !== null)
-      .sort((first, second) => Number(second.progressUpdatedAt) - Number(first.progressUpdatedAt))[0] || courses[0] || null;
+      .sort((first, second) => parseTimestamp(second.progressUpdatedAt) - parseTimestamp(first.progressUpdatedAt))[0] || courses[0] || null;
     const toPublicProgress = (course: typeof courses[number]): DashboardCourseProgress => ({
       coursePackId: course.coursePackId,
       coursePackTitle: course.coursePackTitle,

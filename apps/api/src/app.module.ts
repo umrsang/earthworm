@@ -5,6 +5,7 @@ import { LoggingModule } from "./common/logging/logging.module";
 import { CoursePackModule } from "./course-pack/course-pack.module";
 import { DatabaseModule } from "./database/database.module";
 import { UserModule } from "./user/user.module";
+import { AiModule } from "./ai/ai.module";
 
 @Module({
   imports: [
@@ -17,6 +18,7 @@ import { UserModule } from "./user/user.module";
     AuthModule,
     UserModule,
     CoursePackModule,
+    AiModule,
   ],
 })
 export class AppModule {}

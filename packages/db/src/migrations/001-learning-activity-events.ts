@@ -1,3 +1,7 @@
+/**
+ * 迁移 001：学习活动事件。
+ * 为 SQLite 和 MySQL 创建学习事件表，用于幂等记录答题次数、正确次数和有效学习时长。
+ */
 import type { DbMigration } from "./types";
 
 export const learningActivityEventsMigration: DbMigration = {

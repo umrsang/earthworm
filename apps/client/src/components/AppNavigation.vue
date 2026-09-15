@@ -10,7 +10,7 @@
       </span>
     </router-link>
 
-    <!-- 核心菜单项导航 -->
+    <!-- 核心菜单项导航：移动端底部与桌面端侧边栏统一为 今日、课程、我的 -->
     <nav class="main-nav">
       <!-- 今日工作台 -->
       <button
@@ -23,7 +23,7 @@
         <span>{{ $t('today.navToday') }}</span>
       </button>
 
-      <!-- 课程库 (直属菜单) -->
+      <!-- 课程库 -->
       <button
         type="button"
         class="nav-item"
@@ -34,38 +34,15 @@
         <span>{{ $t('today.navCourses') }}</span>
       </button>
 
-      <!-- 待复习 -->
+      <!-- 我的（复习、数据、系统设置、创作均收纳在此） -->
       <button
         type="button"
         class="nav-item"
-        :class="{ 'is-active': activeKey === 'review' }"
-        @click="navigateTo(ROUTE_PATHS.HOME)"
+        :class="{ 'is-active': activeKey === 'profile' }"
+        @click="navigateTo(ROUTE_PATHS.PROFILE)"
       >
-        <span class="nav-icon">↻</span>
-        <span>{{ $t('today.navReview') }}</span>
-        <span class="nav-badge">8</span>
-      </button>
-
-      <!-- 洞察 -->
-      <button
-        type="button"
-        class="nav-item"
-        :class="{ 'is-active': activeKey === 'insights' }"
-        @click="navigateTo(ROUTE_PATHS.HOME)"
-      >
-        <span class="nav-icon">⌁</span>
-        <span>{{ $t('today.navInsights') }}</span>
-      </button>
-
-      <!-- 创作中心 (直属菜单) -->
-      <button
-        type="button"
-        class="nav-item"
-        :class="{ 'is-active': activeKey === 'creator' }"
-        @click="navigateTo(ROUTE_PATHS.COURSE_PACK_UPLOAD)"
-      >
-        <span class="nav-icon">✎</span>
-        <span>{{ $t('today.navCreator') }}</span>
+        <span class="nav-icon">👤</span>
+        <span>{{ $t('today.navProfile') }}</span>
       </button>
     </nav>
 
@@ -82,11 +59,6 @@
         <small>{{ $t('today.goalProgressDetail') }}</small>
       </div>
 
-      <button type="button" class="nav-item" @click="navigateTo(ROUTE_PATHS.HOME)">
-        <span class="nav-icon">⚙</span>
-        <span>{{ $t('today.navSettings') }}</span>
-      </button>
-
       <button type="button" class="profile-chip" @click="toggleUserMenu">
         <span class="avatar">{{ userInitial }}</span>
         <span>
@@ -101,7 +73,7 @@
     <div v-if="showUserMenu" class="user-dropdown-menu">
       <div class="user-dropdown-header">
         <strong>{{ userDisplayName }}</strong>
-        <small>{{ userStore.user?.username }}</small>
+        <small>{{ userStore.profile?.username }}</small>
       </div>
       <button type="button" class="user-dropdown-item danger" @click="handleLogout">
         {{ $t('auth.logout') }}
@@ -111,7 +83,7 @@
 </template>
 
 <script setup lang="ts">
-import { computed, ref } from "vue";
+import { computed, onMounted, ref } from "vue";
 import { useI18n } from "vue-i18n";
 import { useRoute, useRouter } from "vue-router";
 import { ROUTE_PATHS } from "../constants";
@@ -123,12 +95,21 @@ const router = useRouter();
 const userStore = useUserStore();
 
 const showUserMenu = ref(false);
+const isAdmin = computed(() => userStore.profile?.role === "admin");
+
+onMounted(() => {
+  if (userStore.token && !userStore.profile) void userStore.fetchProfile().catch(() => null);
+});
 
 /** 当前激活的菜单项标识，自动根据路由匹配 */
 const activeKey = computed(() => {
   const currentPath = route.path;
-  if (currentPath === ROUTE_PATHS.COURSE_PACK_UPLOAD) {
-    return "creator";
+  if (
+    currentPath === ROUTE_PATHS.PROFILE ||
+    currentPath === ROUTE_PATHS.ADMIN ||
+    currentPath === ROUTE_PATHS.COURSE_PACK_UPLOAD
+  ) {
+    return "profile";
   }
   if (currentPath.startsWith(ROUTE_PATHS.COURSE_PACKS)) {
     return "courses";
@@ -141,7 +122,7 @@ const activeKey = computed(() => {
 
 /** 当前用户展示昵称或用户名 */
 const userDisplayName = computed(() => {
-  return userStore.user?.nickname || userStore.user?.username || t("today.guestUser");
+  return userStore.profile?.nickname || userStore.profile?.username || t("today.guestUser");
 });
 
 /** 当前用户头像首字母 */

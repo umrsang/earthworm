@@ -32,9 +32,9 @@ const routes: RouteRecordRaw[] = [
   {
     path: ROUTE_PATHS.COURSE_PACK_UPLOAD,
     name: ROUTE_NAMES.COURSE_PACK_UPLOAD,
-    // 上传页依赖 ZIP 解析器，按需加载可避免阻塞登录及其他核心页面初始化。
+    // 上传页依赖 ZIP 解析器，且仅管理员可访问
     component: () => import("../views/CoursePackUploadView.vue"),
-    meta: { requiresAuth: true },
+    meta: { requiresAuth: true, requiresAdmin: true },
   },
   {
     path: ROUTE_PATHS.COURSE_PACK_DETAIL,
@@ -46,6 +46,18 @@ const routes: RouteRecordRaw[] = [
     path: ROUTE_PATHS.COURSE_GAME,
     name: ROUTE_NAMES.COURSE_GAME,
     component: SentenceGameView,
+    meta: { requiresAuth: true },
+  },
+  {
+    path: ROUTE_PATHS.ADMIN,
+    name: ROUTE_NAMES.ADMIN,
+    component: () => import("../views/AdminView.vue"),
+    meta: { requiresAuth: true, requiresAdmin: true },
+  },
+  {
+    path: ROUTE_PATHS.PROFILE,
+    name: ROUTE_NAMES.PROFILE,
+    component: () => import("../views/ProfileView.vue"),
     meta: { requiresAuth: true },
   },
   {
@@ -71,6 +83,20 @@ router.beforeEach((to, _from, next) => {
   if ((to.path === ROUTE_PATHS.LOGIN || to.path === ROUTE_PATHS.REGISTER) && token) {
     next({ path: ROUTE_PATHS.HOME });
     return;
+  }
+  // 严格管理员权限拦截：系统设置与课程包上传仅对管理员开放
+  if (to.meta.requiresAdmin) {
+    const rawUser = localStorage.getItem(STORAGE_KEYS.USER_INFO);
+    let role = "";
+    try {
+      role = rawUser ? JSON.parse(rawUser)?.role : "";
+    } catch {
+      role = "";
+    }
+    if (role !== "admin") {
+      next({ path: ROUTE_PATHS.PROFILE });
+      return;
+    }
   }
   next();
 });

@@ -1,4 +1,5 @@
 import { Body, Controller, Delete, Get, Param, Post, Put, Query, Request, UseGuards } from "@nestjs/common";
+import { AdminGuard } from "../auth/admin.guard";
 import { JwtAuthGuard } from "../auth/jwt-auth.guard";
 import { CoursePackService } from "./course-pack.service";
 import {
@@ -14,10 +15,11 @@ export class CoursePackController {
   constructor(private readonly coursePackService: CoursePackService) {}
 
   /**
-   * 上传解析后的课程包。
+   * 上传解析后的课程包（仅管理员可用）。
    * @param req.user 当前 JWT 用户上下文
    * @param dto 课程包、课程和句子数据
    */
+  @UseGuards(AdminGuard)
   @Post()
   create(@Request() req: any, @Body() dto: CreateCoursePackDto) {
     return this.coursePackService.create(req.user.userId, dto);

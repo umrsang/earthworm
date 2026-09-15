@@ -1,9 +1,12 @@
 import type { Client } from "@libsql/client";
 import type { Pool } from "mysql2/promise";
-import { learningActivityEventsMigration } from "./001-learning-activity-events";
-import type { DbMigration, MigrationDialect } from "./types";
+import { learningActivityEventsMigration } from "./001-learning-activity-events.ts";
+import { aiAnalysisMigration } from "./002-ai-analysis.ts";
+import { statementAiAnalysisMigration } from "./003-statement-ai-analysis.ts";
+import { userStatementAiAnalysisMigration } from "./004-user-statement-ai-analysis.ts";
+import type { DbMigration, MigrationDialect } from "./types.ts";
 
-const MIGRATIONS: DbMigration[] = [learningActivityEventsMigration];
+const MIGRATIONS: DbMigration[] = [learningActivityEventsMigration, aiAnalysisMigration, statementAiAnalysisMigration, userStatementAiAnalysisMigration];
 
 /** 创建迁移记录表，后续结构变更必须以独立版本文件登记。 */
 async function ensureMigrationTable(dialect: MigrationDialect, client: Client | Pool): Promise<void> {
@@ -39,6 +42,7 @@ export async function runMigrations(dialect: MigrationDialect, client: Client | 
     if (await isApplied(dialect, client, migration.version)) continue;
     const statements = migration[dialect];
     if (dialect === "mysql") {
+      // MySQL DDL 会隐式提交，迁移 SQL 必须保持幂等，失败后可在下次启动安全续跑。
       const connection = await (client as Pool).getConnection();
       try {
         await connection.beginTransaction();

@@ -2,6 +2,10 @@
 .course-detail-page,
 .course-upload-page {
   min-height: 100vh;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+  box-sizing: border-box;
   background: transparent;
 }
 
@@ -34,13 +38,18 @@
 }
 
 .learning-page-shell {
-  width: min(1280px, calc(100% - 48px));
+  width: min(1280px, 100%);
+  max-width: 100%;
   margin: 0 auto;
-  padding: 32px 0 60px;
+  padding: 32px clamp(14px, 3.5vw, 24px) 60px;
+  box-sizing: border-box;
+  overflow-x: hidden;
 }
 
 .upload-page-shell {
-  width: min(880px, calc(100% - 48px));
+  width: min(880px, 100%);
+  max-width: 100%;
+  box-sizing: border-box;
 }
 
 .learning-page-title-row {
@@ -94,13 +103,21 @@
 /* 课程包库自适应网格：根据屏幕宽度自适应 1~4 列 */
 .course-pack-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(min(320px, 100%), 1fr));
   gap: 16px;
+  width: 100%;
+  max-width: 100%;
+  min-width: 0;
+  box-sizing: border-box;
 }
 
 .course-pack-card {
   display: flex;
   width: 100%;
+  min-width: 0;
+  max-width: 100%;
+  box-sizing: border-box;
+  overflow: hidden;
   align-items: center;
   gap: 14px;
   border: 1px solid var(--card-border);
@@ -137,26 +154,37 @@
 .lesson-content {
   display: flex;
   min-width: 0;
+  max-width: 100%;
   flex: 1;
   flex-direction: column;
   gap: 4px;
+  overflow: hidden;
 }
 
 .course-pack-card-content strong,
 .lesson-content strong {
+  display: block;
+  width: 100%;
+  max-width: 100%;
   font-size: 15px;
   font-weight: 700;
   color: var(--text);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .course-pack-card-content span,
 .lesson-content span {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
   overflow: hidden;
   color: var(--text-2);
-  text-overflow: ellipsis;
-  white-space: nowrap;
   font-size: 13px;
   line-height: 1.45;
+  word-break: break-word;
+  max-width: 100%;
 }
 
 .course-pack-card-content small,
@@ -266,13 +294,19 @@
 
 .lesson-list {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 280px), 1fr));
   gap: 16px;
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
 }
 
 .upload-preview-list {
   display: grid;
   gap: 10px;
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
 }
 
 /* 课时自适应网格卡片 */
@@ -280,6 +314,9 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  width: 100%;
+  max-width: 100%;
+  min-width: 0;
   min-height: 154px;
   padding: 16px;
   border: 1px solid var(--card-border);
@@ -291,6 +328,8 @@
   transition: all 180ms ease;
   cursor: pointer;
   box-shadow: var(--card-shadow);
+  box-sizing: border-box;
+  overflow: hidden;
 }
 
 .lesson-grid-card:hover {
@@ -303,9 +342,12 @@
 .lesson-card-head {
   display: flex;
   width: 100%;
+  max-width: 100%;
+  min-width: 0;
   align-items: center;
   justify-content: space-between;
   margin-bottom: 10px;
+  box-sizing: border-box;
 }
 
 .lesson-card-head .lesson-order {
@@ -319,6 +361,7 @@
   color: var(--purple-2);
   font-size: 13px;
   font-weight: 850;
+  flex-shrink: 0;
 }
 
 .lesson-status-tag {
@@ -328,6 +371,7 @@
   border-radius: 99px;
   font-size: 11px;
   font-weight: 700;
+  flex-shrink: 0;
 }
 
 .lesson-status-tag.mint {
@@ -338,9 +382,12 @@
 .lesson-grid-card .lesson-content {
   display: flex;
   width: 100%;
+  max-width: 100%;
+  min-width: 0;
   flex-direction: column;
-  gap: 5px;
+  gap: 6px;
   margin-bottom: 14px;
+  overflow: hidden;
 }
 
 .lesson-grid-card .lesson-content strong {
@@ -349,9 +396,13 @@
   color: var(--text);
   line-height: 1.35;
   display: -webkit-box;
-  -webkit-line-clamp: 1;
+  -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
   overflow: hidden;
+  word-break: break-word;
+  overflow-wrap: break-word;
+  width: 100%;
+  max-width: 100%;
 }
 
 .lesson-grid-card .lesson-content span {
@@ -362,17 +413,31 @@
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
   overflow: hidden;
+  word-break: break-word;
+  overflow-wrap: break-word;
+  width: 100%;
+  max-width: 100%;
 }
 
 .lesson-card-foot {
   display: flex;
   width: 100%;
+  max-width: 100%;
+  min-width: 0;
   align-items: center;
   justify-content: space-between;
   margin-top: auto;
   padding-top: 12px;
   border-top: 1px solid var(--border);
   box-sizing: border-box;
+}
+
+.lesson-action {
+  color: var(--purple-2);
+  font-size: 13px;
+  font-weight: 750;
+  white-space: nowrap;
+  flex-shrink: 0;
 }
 
 .lesson-card-foot small {
@@ -850,12 +915,20 @@
 
   /* 页面核心版心边距适配 */
   .learning-page-shell {
-    width: min(100% - 24px, 1120px);
-    padding: 18px 0 40px;
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 18px 14px 40px;
+    box-sizing: border-box;
+    overflow-x: hidden;
   }
 
   .upload-page-shell {
-    width: min(100% - 24px, 900px);
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 18px 14px 40px;
+    box-sizing: border-box;
   }
 
   .learning-page-title-row {
@@ -886,14 +959,21 @@
 
   /* 课程包列表卡片单列与紧凑排版 */
   .course-pack-grid {
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 1fr);
     gap: 12px;
+    width: 100%;
+    max-width: 100%;
   }
 
   .course-pack-card {
     padding: 14px 16px;
     gap: 12px;
     border-radius: 14px;
+    width: 100%;
+    max-width: 100%;
+    min-width: 0;
+    box-sizing: border-box;
+    overflow: hidden;
   }
 
   .course-pack-card:active {
@@ -976,16 +1056,24 @@
     padding: 14px;
   }
 
-  /* 课时卡片移动端适配：单列满宽 */
+  /* 课时卡片移动端适配：单列满宽防撑爆 */
   .lesson-list {
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 1fr);
+    width: 100%;
+    max-width: 100%;
     gap: 12px;
+    box-sizing: border-box;
   }
 
   .lesson-grid-card {
+    width: 100%;
+    max-width: 100%;
+    min-width: 0;
     min-height: auto;
     padding: 14px;
     gap: 8px;
+    box-sizing: border-box;
+    overflow: hidden;
   }
 
   /* 上传页拖拽区与预览卡片移动端精细化排版 */

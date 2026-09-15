@@ -8,6 +8,11 @@ import { useSpeech } from "./useSpeech";
 export type GameMode = "chineseToEnglish" | "dictation";
 export type GamePhase = "ready" | "question" | "incorrect" | "answer" | "paused" | "completed";
 export interface GameSettings { mode: GameMode; autoPlay: boolean; rate: number; times: number; interval: number }
+export interface AnswerResult {
+  statementId: string;
+  attemptCount: 1;
+  correctCount: 0 | 1;
+}
 const DEFAULT_SETTINGS: GameSettings = { mode: "chineseToEnglish", autoPlay: true, rate: 1, times: 1, interval: 3000 };
 
 function loadSettings(): GameSettings {
@@ -61,19 +66,21 @@ export function useSentenceGame(course: Ref<CourseDetail | null>) {
     void focusInput();
   }
 
-  function submitAnswer() {
-    if (!currentStatement.value || !answer.value.trim() || !isQuestionPhase.value) return;
+  function submitAnswer(): AnswerResult | null {
+    if (!currentStatement.value || !answer.value.trim() || !isQuestionPhase.value) return null;
+    const statementId = currentStatement.value.id;
     if (normalizeAnswer(answer.value) === normalizeAnswer(currentStatement.value.english)) {
       phase.value = "answer";
       incorrectIndexes.value = [];
       answerRevealed.value = false;
       correctBurst.value += 1;
       speech.stop();
-      return;
+      return { statementId, attemptCount: 1, correctCount: 1 };
     }
     incorrectIndexes.value = getIncorrectWordIndexes(answer.value, currentStatement.value.english);
     incorrectBurst.value += 1;
     phase.value = "incorrect";
+    return { statementId, attemptCount: 1, correctCount: 0 };
   }
 
   function revealAnswer() {

@@ -6,7 +6,8 @@
   "types": "src/index.ts",
   "scripts": {
     "sync": "drizzle-kit push",
-    "generate": "drizzle-kit generate"
+    "generate": "drizzle-kit generate",
+    "studio": "drizzle-kit studio"
   },
   "dependencies": {
     "@jufun/schema": "workspace:*",
