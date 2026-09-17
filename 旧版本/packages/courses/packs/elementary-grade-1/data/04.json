@@ -1,0 +1,163 @@
+[
+  {
+    "stage": "word",
+    "chinese": "一",
+    "english": "one",
+    "soundmark": "/wʌn/",
+    "example": "one"
+  },
+  {
+    "stage": "word",
+    "chinese": "二",
+    "english": "two",
+    "soundmark": "/tuː/",
+    "example": "two"
+  },
+  {
+    "stage": "word",
+    "chinese": "三",
+    "english": "three",
+    "soundmark": "/θriː/",
+    "example": "three"
+  },
+  {
+    "stage": "word",
+    "chinese": "四",
+    "english": "four",
+    "soundmark": "/fɔːr/",
+    "example": "four"
+  },
+  {
+    "stage": "word",
+    "chinese": "五",
+    "english": "five",
+    "soundmark": "/faɪv/",
+    "example": "five"
+  },
+  {
+    "stage": "word",
+    "chinese": "六",
+    "english": "six",
+    "soundmark": "/sɪks/",
+    "example": "six"
+  },
+  {
+    "stage": "word",
+    "chinese": "七",
+    "english": "seven",
+    "soundmark": "/ˈsevən/",
+    "example": "seven"
+  },
+  {
+    "stage": "word",
+    "chinese": "八",
+    "english": "eight",
+    "soundmark": "/eɪt/",
+    "example": "eight"
+  },
+  {
+    "stage": "word",
+    "chinese": "九",
+    "english": "nine",
+    "soundmark": "/naɪn/",
+    "example": "nine"
+  },
+  {
+    "stage": "word",
+    "chinese": "十",
+    "english": "ten",
+    "soundmark": "/ten/",
+    "example": "ten"
+  },
+  {
+    "stage": "word",
+    "chinese": "数字",
+    "english": "number",
+    "soundmark": "/ˈnʌmbər/",
+    "example": "number"
+  },
+  {
+    "stage": "word",
+    "chinese": "数",
+    "english": "count",
+    "soundmark": "/kaʊnt/",
+    "example": "count"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "一个苹果",
+    "english": "one apple",
+    "soundmark": "/wʌn ˈæpl/",
+    "example": "one apple"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "两本书",
+    "english": "two books",
+    "soundmark": "/tuː bʊks/",
+    "example": "two books"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "多少",
+    "english": "how many",
+    "soundmark": "/haʊ ˈmeni/",
+    "example": "how many"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "我有",
+    "english": "I have",
+    "soundmark": "/aɪ hæv/",
+    "example": "I have"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "有五个",
+    "english": "there are five",
+    "soundmark": "/ðer ɑːr faɪv/",
+    "example": "there are five"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "我有一个苹果。",
+    "english": "I have one apple.",
+    "soundmark": "/aɪ hæv wʌn ˈæpl/",
+    "example": "I have one apple."
+  },
+  {
+    "stage": "sentence",
+    "chinese": "你有多少本书？",
+    "english": "How many books do you have?",
+    "soundmark": "/haʊ ˈmeni bʊks duː juː hæv/",
+    "example": "How many books do you have?"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "有五支笔。",
+    "english": "There are five pens.",
+    "soundmark": "/ðer ɑːr faɪv penz/",
+    "example": "There are five pens."
+  },
+  {
+    "stage": "sentence",
+    "chinese": "一、二、三、四、五。",
+    "english": "One, two, three, four, five.",
+    "soundmark": "/wʌn, tuː, θriː, fɔːr, faɪv/",
+    "example": "One, two, three, four, five."
+  },
+  {
+    "stage": "sentence",
+    "chinese": "六、七、八、九、十。",
+    "english": "Six, seven, eight, nine, ten.",
+    "soundmark": "/sɪks, ˈsevən, eɪt, naɪn, ten/",
+    "example": "Six, seven, eight, nine, ten."
+  },
+  {
+    "stage": "sentence",
+    "chinese": "我有三个朋友。",
+    "english": "I have three friends.",
+    "soundmark": "/aɪ hæv θriː frendz/",
+    "example": "I have three friends."
+  }
+]

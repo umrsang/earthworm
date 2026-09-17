@@ -18,8 +18,8 @@ dist
 *.sqlite-journal
 *.db
 *.db-journal
-data/
 
 # 本地工具与工作区
 .claude
 .claude/*
+.codefree

@@ -1,0 +1,163 @@
+[
+  {
+    "stage": "word",
+    "chinese": "母亲",
+    "english": "mother",
+    "soundmark": "/ˈmʌðər/",
+    "example": "mother"
+  },
+  {
+    "stage": "word",
+    "chinese": "父亲",
+    "english": "father",
+    "soundmark": "/ˈfɑːðər/",
+    "example": "father"
+  },
+  {
+    "stage": "word",
+    "chinese": "妹妹",
+    "english": "sister",
+    "soundmark": "/ˈsɪstər/",
+    "example": "sister"
+  },
+  {
+    "stage": "word",
+    "chinese": "哥哥/弟弟",
+    "english": "brother",
+    "soundmark": "/ˈbrʌðər/",
+    "example": "brother"
+  },
+  {
+    "stage": "word",
+    "chinese": "祖母",
+    "english": "grandmother",
+    "soundmark": "/ˈɡrænmʌðər/",
+    "example": "grandmother"
+  },
+  {
+    "stage": "word",
+    "chinese": "祖父",
+    "english": "grandfather",
+    "soundmark": "/ˈɡrænfɑːðər/",
+    "example": "grandfather"
+  },
+  {
+    "stage": "word",
+    "chinese": "家庭",
+    "english": "family",
+    "soundmark": "/ˈfæməli/",
+    "example": "family"
+  },
+  {
+    "stage": "word",
+    "chinese": "父母",
+    "english": "parent",
+    "soundmark": "/ˈperənt/",
+    "example": "parent"
+  },
+  {
+    "stage": "word",
+    "chinese": "我的",
+    "english": "my",
+    "soundmark": "/maɪ/",
+    "example": "my"
+  },
+  {
+    "stage": "word",
+    "chinese": "他的",
+    "english": "his",
+    "soundmark": "/hɪz/",
+    "example": "his"
+  },
+  {
+    "stage": "word",
+    "chinese": "她的",
+    "english": "her",
+    "soundmark": "/hər/",
+    "example": "her"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "我的母亲",
+    "english": "my mother",
+    "soundmark": "/maɪ ˈmʌðər/",
+    "example": "my mother"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "他的父亲",
+    "english": "his father",
+    "soundmark": "/hɪz ˈfɑːðər/",
+    "example": "his father"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "她的妹妹",
+    "english": "her sister",
+    "soundmark": "/hər ˈsɪstər/",
+    "example": "her sister"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "我的家庭",
+    "english": "my family",
+    "soundmark": "/maɪ ˈfæməli/",
+    "example": "my family"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "我的哥哥",
+    "english": "my brother",
+    "soundmark": "/maɪ ˈbrʌðər/",
+    "example": "my brother"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "我的祖父母",
+    "english": "my grandparents",
+    "soundmark": "/maɪ ˈɡrænperənts/",
+    "example": "my grandparents"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "这是我的母亲。",
+    "english": "This is my mother.",
+    "soundmark": "/ðɪs ɪz maɪ ˈmʌðər/",
+    "example": "This is my mother."
+  },
+  {
+    "stage": "sentence",
+    "chinese": "他是我的哥哥。",
+    "english": "He is my brother.",
+    "soundmark": "/hi ɪz maɪ ˈbrʌðər/",
+    "example": "He is my brother."
+  },
+  {
+    "stage": "sentence",
+    "chinese": "她是我的妹妹。",
+    "english": "She is my sister.",
+    "soundmark": "/ʃi ɪz maɪ ˈsɪstər/",
+    "example": "She is my sister."
+  },
+  {
+    "stage": "sentence",
+    "chinese": "我的家庭很幸福。",
+    "english": "My family is happy.",
+    "soundmark": "/maɪ ˈfæməli ɪz ˈhæpi/",
+    "example": "My family is happy."
+  },
+  {
+    "stage": "sentence",
+    "chinese": "你有兄弟姐妹吗？",
+    "english": "Do you have brothers or sisters?",
+    "soundmark": "/duː juː hæv ˈbrʌðərz ɔːr ˈsɪstərz/",
+    "example": "Do you have brothers or sisters?"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "我有一个哥哥和一个妹妹。",
+    "english": "I have one brother and one sister.",
+    "soundmark": "/aɪ hæv wʌn ˈbrʌðər ənd wʌn ˈsɪstər/",
+    "example": "I have one brother and one sister."
+  }
+]

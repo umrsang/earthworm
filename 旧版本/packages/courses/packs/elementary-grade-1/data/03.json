@@ -1,0 +1,163 @@
+[
+  {
+    "stage": "word",
+    "chinese": "红色",
+    "english": "red",
+    "soundmark": "/red/",
+    "example": "red"
+  },
+  {
+    "stage": "word",
+    "chinese": "蓝色",
+    "english": "blue",
+    "soundmark": "/bluː/",
+    "example": "blue"
+  },
+  {
+    "stage": "word",
+    "chinese": "黄色",
+    "english": "yellow",
+    "soundmark": "/ˈjeloʊ/",
+    "example": "yellow"
+  },
+  {
+    "stage": "word",
+    "chinese": "绿色",
+    "english": "green",
+    "soundmark": "/ɡriːn/",
+    "example": "green"
+  },
+  {
+    "stage": "word",
+    "chinese": "黑色",
+    "english": "black",
+    "soundmark": "/blæk/",
+    "example": "black"
+  },
+  {
+    "stage": "word",
+    "chinese": "白色",
+    "english": "white",
+    "soundmark": "/waɪt/",
+    "example": "white"
+  },
+  {
+    "stage": "word",
+    "chinese": "橙色",
+    "english": "orange",
+    "soundmark": "/ˈɔːrɪndʒ/",
+    "example": "orange"
+  },
+  {
+    "stage": "word",
+    "chinese": "紫色",
+    "english": "purple",
+    "soundmark": "/ˈpɜːrpl/",
+    "example": "purple"
+  },
+  {
+    "stage": "word",
+    "chinese": "粉红色",
+    "english": "pink",
+    "soundmark": "/pɪŋk/",
+    "example": "pink"
+  },
+  {
+    "stage": "word",
+    "chinese": "棕色",
+    "english": "brown",
+    "soundmark": "/braʊn/",
+    "example": "brown"
+  },
+  {
+    "stage": "word",
+    "chinese": "颜色",
+    "english": "color",
+    "soundmark": "/ˈkʌlər/",
+    "example": "color"
+  },
+  {
+    "stage": "word",
+    "chinese": "喜欢",
+    "english": "like",
+    "soundmark": "/laɪk/",
+    "example": "like"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "红苹果",
+    "english": "red apple",
+    "soundmark": "/red ˈæpl/",
+    "example": "red apple"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "蓝天",
+    "english": "blue sky",
+    "soundmark": "/bluː skaɪ/",
+    "example": "blue sky"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "我喜欢",
+    "english": "I like",
+    "soundmark": "/aɪ laɪk/",
+    "example": "I like"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "什么颜色",
+    "english": "what color",
+    "soundmark": "/wʌt ˈkʌlər/",
+    "example": "what color"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "是红色",
+    "english": "is red",
+    "soundmark": "/ɪz red/",
+    "example": "is red"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "这是红色。",
+    "english": "This is red.",
+    "soundmark": "/ðɪs ɪz red/",
+    "example": "This is red."
+  },
+  {
+    "stage": "sentence",
+    "chinese": "我喜欢蓝色。",
+    "english": "I like blue.",
+    "soundmark": "/aɪ laɪk bluː/",
+    "example": "I like blue."
+  },
+  {
+    "stage": "sentence",
+    "chinese": "这是什么颜色？",
+    "english": "What color is it?",
+    "soundmark": "/wʌt ˈkʌlər ɪz ɪt/",
+    "example": "What color is it?"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "它是黄色。",
+    "english": "It is yellow.",
+    "soundmark": "/ɪt ɪz ˈjeloʊ/",
+    "example": "It is yellow."
+  },
+  {
+    "stage": "sentence",
+    "chinese": "你喜欢绿色吗？",
+    "english": "Do you like green?",
+    "soundmark": "/duː juː laɪk ɡriːn/",
+    "example": "Do you like green?"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "我喜欢黑色和白色。",
+    "english": "I like black and white.",
+    "soundmark": "/aɪ laɪk blæk ənd waɪt/",
+    "example": "I like black and white."
+  }
+]

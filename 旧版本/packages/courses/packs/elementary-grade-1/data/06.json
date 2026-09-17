@@ -1,0 +1,163 @@
+[
+  {
+    "stage": "word",
+    "chinese": "猫",
+    "english": "cat",
+    "soundmark": "/kæt/",
+    "example": "cat"
+  },
+  {
+    "stage": "word",
+    "chinese": "狗",
+    "english": "dog",
+    "soundmark": "/dɔːɡ/",
+    "example": "dog"
+  },
+  {
+    "stage": "word",
+    "chinese": "鸟",
+    "english": "bird",
+    "soundmark": "/bɜːrd/",
+    "example": "bird"
+  },
+  {
+    "stage": "word",
+    "chinese": "鱼",
+    "english": "fish",
+    "soundmark": "/fɪʃ/",
+    "example": "fish"
+  },
+  {
+    "stage": "word",
+    "chinese": "猴子",
+    "english": "monkey",
+    "soundmark": "/ˈmʌŋki/",
+    "example": "monkey"
+  },
+  {
+    "stage": "word",
+    "chinese": "大象",
+    "english": "elephant",
+    "soundmark": "/ˈeləfənt/",
+    "example": "elephant"
+  },
+  {
+    "stage": "word",
+    "chinese": "狮子",
+    "english": "lion",
+    "soundmark": "/ˈlaɪən/",
+    "example": "lion"
+  },
+  {
+    "stage": "word",
+    "chinese": "老虎",
+    "english": "tiger",
+    "soundmark": "/ˈtaɪɡər/",
+    "example": "tiger"
+  },
+  {
+    "stage": "word",
+    "chinese": "熊猫",
+    "english": "panda",
+    "soundmark": "/ˈpændə/",
+    "example": "panda"
+  },
+  {
+    "stage": "word",
+    "chinese": "鸭子",
+    "english": "duck",
+    "soundmark": "/dʌk/",
+    "example": "duck"
+  },
+  {
+    "stage": "word",
+    "chinese": "动物",
+    "english": "animal",
+    "soundmark": "/ˈænɪməl/",
+    "example": "animal"
+  },
+  {
+    "stage": "word",
+    "chinese": "喜欢",
+    "english": "like",
+    "soundmark": "/laɪk/",
+    "example": "like"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "一只猫",
+    "english": "a cat",
+    "soundmark": "/ə kæt/",
+    "example": "a cat"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "这只狗",
+    "english": "the dog",
+    "soundmark": "/ðə dɔːɡ/",
+    "example": "the dog"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "我喜欢猫",
+    "english": "I like cats",
+    "soundmark": "/aɪ laɪk kæts/",
+    "example": "I like cats"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "可爱的动物",
+    "english": "cute animal",
+    "soundmark": "/kjuːt ˈænɪməl/",
+    "example": "cute animal"
+  },
+  {
+    "stage": "phrase",
+    "chinese": "什么动物",
+    "english": "what animal",
+    "soundmark": "/wʌt ˈænɪməl/",
+    "example": "what animal"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "我喜欢猫。",
+    "english": "I like cats.",
+    "soundmark": "/aɪ laɪk kæts/",
+    "example": "I like cats."
+  },
+  {
+    "stage": "sentence",
+    "chinese": "这只狗很可爱。",
+    "english": "The dog is cute.",
+    "soundmark": "/ðə dɔːɡ ɪz kjuːt/",
+    "example": "The dog is cute."
+  },
+  {
+    "stage": "sentence",
+    "chinese": "这是什么动物？",
+    "english": "What animal is it?",
+    "soundmark": "/wʌt ˈænɪməl ɪz ɪt/",
+    "example": "What animal is it?"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "它是一只熊猫。",
+    "english": "It is a panda.",
+    "soundmark": "/ɪt ɪz ə ˈpændə/",
+    "example": "It is a panda."
+  },
+  {
+    "stage": "sentence",
+    "chinese": "你喜欢哪种动物？",
+    "english": "What animal do you like?",
+    "soundmark": "/wʌt ˈænɪməl duː juː laɪk/",
+    "example": "What animal do you like?"
+  },
+  {
+    "stage": "sentence",
+    "chinese": "我喜欢猴子和大象。",
+    "english": "I like monkeys and elephants.",
+    "soundmark": "/aɪ laɪk ˈmʌŋkiz ənd ˈeləfənts/",
+    "example": "I like monkeys and elephants."
+  }
+]
