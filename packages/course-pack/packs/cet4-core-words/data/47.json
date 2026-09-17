@@ -1,0 +1,576 @@
+{
+  "title": "Unit 47: 四级核心词汇（following ~ frequently）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "following",
+      "chinese": "写下以下信息：产品名称、型号、购买日期和价格。",
+      "english": "Write down the following information: name of product, type, date purchased and price.",
+      "soundmark": "/'fɑloɪŋ/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "fond",
+      "chinese": "我很喜欢迈克尔。",
+      "english": "I am very fond of Michael.",
+      "soundmark": "/fɑnd/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 3, "表语", "NP"],
+        [4, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "food",
+      "chinese": "那家餐厅物美价廉。",
+      "english": "The restaurant serves good food at affordable prices.",
+      "soundmark": "/fud/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "fool",
+      "chinese": "她竟然那么傻，以为他会留下来。",
+      "english": "What a fool she had been to think that he would stay.",
+      "soundmark": "/ful/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 11, "疑问句", "Question"]]
+    },
+    {
+      "word": "foolish",
+      "chinese": "我这辈子从没听到过这么愚蠢的话。",
+      "english": "I’ve never heard anything so foolish in all my life.",
+      "soundmark": "/'fulɪʃ/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [[0, 9, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "foot",
+      "chinese": "我脚痛。",
+      "english": "My foot hurts.",
+      "soundmark": "/fʊt/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "football",
+      "chinese": "你支持哪个球队？",
+      "english": "Which football team do you support?",
+      "soundmark": "/'fʊtbɔl/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 5, "疑问句", "Question"]]
+    },
+    {
+      "word": "footstep",
+      "chinese": "他听见门厅里有脚步声。",
+      "english": "He heard someone’s footsteps in the hall.",
+      "soundmark": "/'fʊtstɛp/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 6, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "for",
+      "chinese": "我有件礼物送给你。",
+      "english": "I’ve got a present for you.",
+      "soundmark": "/fɚ; strong form fɔr/",
+      "posTags": [[4, 4, "介词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "forbid",
+      "chinese": "由于篇幅限制，无法列出所有捐款人的姓名。",
+      "english": "Lack of space forbids listing the names of all those who contributed.",
+      "soundmark": "/fɚ'bɪd/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "force",
+      "chinese": "由于借贷成本高，许多公司被迫关门。",
+      "english": "Due to the high cost of borrowing, many companies have been forced to close.",
+      "soundmark": "/fɔrs/",
+      "posTags": [[11, 11, "动词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 6, "谓语动词", "VP"],
+        [7, 11, "宾语", "NP"],
+        [12, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "forecast",
+      "chinese": "天气预报说明天是晴天。",
+      "english": "The weather forecast is good for tomorrow.",
+      "soundmark": "/'fɔrkæst/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 4, "宾语", "NP"],
+        [5, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "forehead",
+      "chinese": "…她前额上的皱纹。",
+      "english": "...the lines on her forehead.",
+      "soundmark": "/'fɔr'hɛd/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "foreign",
+      "chinese": "你会讲外语吗？",
+      "english": "Can you speak any foreign languages?",
+      "soundmark": "/'fɔrən/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [[0, 5, "疑问句", "Question"]]
+    },
+    {
+      "word": "foreigner",
+      "chinese": "有些当地人不信任外国人。",
+      "english": "Some of the local people are suspicious of foreigners.",
+      "soundmark": "/'fɔrənɚ/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "系动词", "VP"],
+        [6, 6, "表语", "NP"],
+        [7, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "foremost",
+      "chinese": "经济是许多选民关心的首要问题。",
+      "english": "Economic concerns are foremost on many voters’ minds.",
+      "soundmark": "/'fɔr'most/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "forest",
+      "chinese": "热带森林",
+      "english": "a tropical forest",
+      "soundmark": "/'fɔrɪst/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "forever",
+      "chinese": "我希望那一刻成为永远。",
+      "english": "I wanted that moment to last forever .",
+      "soundmark": "/fɚ'ɛvɚ/",
+      "posTags": [[6, 6, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "forget",
+      "chinese": "对不起，我忘记你的名字了。",
+      "english": "I’m sorry, I’ve forgotten your name.",
+      "soundmark": "/fɚ'ɡɛt/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "forgive",
+      "chinese": "他看上去不是那种不记仇的人。",
+      "english": "He didn’t look the sort of man to forgive and forget (= forgive someone and no longer think about it ) .",
+      "soundmark": "/fɚ'ɡɪv/",
+      "posTags": [[8, 8, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 21, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "fork",
+      "chinese": "把刀叉摆放在桌子上。",
+      "english": "Put the knives and forks on the table.",
+      "soundmark": "/fɔrk/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 4, "宾语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "form",
+      "chinese": "我们反对各种形式的种族主义。",
+      "english": "We oppose racism in all its forms.",
+      "soundmark": "/fɔrm/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "formal",
+      "chinese": "改革后的教会所获得的官方承认",
+      "english": "formal recognition of the reformed church",
+      "soundmark": "/'fɔrml/",
+      "posTags": [[0, 0, "形容词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "formation",
+      "chinese": "我们现在对行星形成过程的早期阶段有了更多的了解。",
+      "english": "We now know a lot more about the early stages of planetary formation.",
+      "soundmark": "/fɔr'meʃən/",
+      "posTags": [[12, 12, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"],
+        [6, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "former",
+      "chinese": "前苏联",
+      "english": "the former Soviet Union",
+      "soundmark": "/'fɔrmɚ/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "formula",
+      "chinese": "计算距离的公式",
+      "english": "the formula for calculating distance",
+      "soundmark": "/'fɔrmjələ/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "forth",
+      "chinese": "房子仍在燃烧，冒出浓浓的黑烟。",
+      "english": "The house was still burning, pouring forth thick black smoke.",
+      "soundmark": "/fɔrθ/",
+      "posTags": [[6, 6, "副词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 9, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "fortnight",
+      "chinese": "十四天的假期",
+      "english": "a fortnight’s holiday",
+      "soundmark": "/'fɔrtnaɪt/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "fortunate",
+      "chinese": "所幸正巧有个过路人听到了她的呼救。",
+      "english": "By a fortunate coincidence, a passer-by heard her cries for help.",
+      "soundmark": "/'fɔrtʃənət/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [
+        [0, 7, "主语", "NP"],
+        [8, 8, "谓语动词", "VP"],
+        [9, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "fortune",
+      "chinese": "我有幸与一位出色的部门主管共事。",
+      "english": "I had the good fortune to work with a brilliant head of department.",
+      "soundmark": "/'fɔrtʃən/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "forty",
+      "chinese": "这个地方建于20世纪40年代，起初是一座赌场。",
+      "english": "The place was built as a casino in the forties.",
+      "soundmark": "/'fɔrti/",
+      "posTags": [[0, 0, "数词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 6, "表语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "forward",
+      "chinese": "他身体前倾，胳膊肘撑在桌子上。",
+      "english": "He leaned forward , his elbows resting on the table.",
+      "soundmark": "/'fɔrwɚd/",
+      "posTags": [[2, 2, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "found",
+      "chinese": "嗜酒者互诫协会1935年创立于俄亥俄州，现在是一个世界性的组织。",
+      "english": "Founded in 1935 in Ohio, Alcoholics Anonymous is now a world-wide organization.",
+      "soundmark": "/faʊnd/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "fountain",
+      "chinese": "他是亚洲事务的信息源。",
+      "english": "He was a fountain of information on Asian affairs.",
+      "soundmark": "/'faʊntn/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 3, "表语", "NP"],
+        [4, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "four",
+      "chinese": "她已婚，有四个孩子。",
+      "english": "She is married with four children.",
+      "soundmark": "/fɔr/",
+      "posTags": [[4, 4, "数词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "fourteen",
+      "chinese": "他过去一天工作14个小时。",
+      "english": "He used to work fourteen hours a day.",
+      "soundmark": "/,fɔr'tin/",
+      "posTags": [[4, 4, "数词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "fourth",
+      "chinese": "然后，我们绘制不同的曲线图，从而它们可以每个图占据屏幕的四分之一。",
+      "english": "Then, we plot the different graphs so that they each take up one fourth of the screen.",
+      "soundmark": "/fɔrθ/",
+      "posTags": [[13, 13, "数词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 10, "宾语", "NP"],
+        [11, 16, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "fox",
+      "chinese": "他是个狡猾的老狐狸。",
+      "english": "He was a sly old fox.",
+      "soundmark": "/fɑks/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 5, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "fragment",
+      "chinese": "玻璃碎片",
+      "english": "glass fragments",
+      "soundmark": "/'fræɡmənt/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 1, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "framework",
+      "chinese": "我们必须在现行的法律框架下行事。",
+      "english": "We have to act within the existing legal framework.",
+      "soundmark": "/'fremwɝk/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "frank",
+      "chinese": "老实说，我认为这个主意不好。",
+      "english": "To be perfectly frank, I think it’s a bad idea.",
+      "soundmark": "/fræŋk/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 9, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "free",
+      "chinese": "他知道只要再过三年他就能自由了。",
+      "english": "He knew he could be free in as little as three years.",
+      "soundmark": "/fri/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "宾语", "NP"],
+        [6, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "freedom",
+      "chinese": "这里的人喜欢他们所拥有的自由与隐私权。",
+      "english": "People here like their freedom and privacy.",
+      "soundmark": "/'fridəm/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "freely",
+      "chinese": "该国首位自由选举产生的总统",
+      "english": "the country’s first freely elected president",
+      "soundmark": "/'frili/",
+      "posTags": [[3, 3, "副词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "freeze",
+      "chinese": "湖上一夜之间就结了冰。",
+      "english": "The lake had frozen overnight.",
+      "soundmark": "/friz/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "freight",
+      "chinese": "你的个人物品我们将以空运方式运送，家具将以海运方式运送。",
+      "english": "We’ll send your personal belongings by air freight and your furniture by sea freight .",
+      "soundmark": "/fret/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 14, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "French",
+      "chinese": "上等的法国葡萄酒",
+      "english": "an excellent French wine",
+      "soundmark": "/fren(t)ʃ/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "frequency",
+      "chinese": "自1950年以来，异卵双胞胎的相对出生率下降了一半。",
+      "english": "The relative frequency of fraternal twins has halved since 1950.",
+      "soundmark": "/'frikwənsi/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 7, "谓语动词", "VP"],
+        [8, 9, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "frequent",
+      "chinese": "火车频频驶过。",
+      "english": "Trains rushed past at frequent intervals .",
+      "soundmark": "/'frikwənt/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "frequently",
+      "chinese": "他经常喝醉。",
+      "english": "He was frequently drunk.",
+      "soundmark": "/'frikwəntli/",
+      "posTags": [[2, 2, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 3, "表语", "NP"]
+      ]
+    }
+  ]
+}

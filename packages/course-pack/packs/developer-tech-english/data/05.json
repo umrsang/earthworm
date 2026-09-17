@@ -1,0 +1,193 @@
+{
+  "title": "开源社区与协作沟通",
+  "description": "参与开源项目、撰写 Issue 报告、遵守贡献指南、讨论技术演进与答谢 Contributor。",
+  "data": [
+    {
+      "chinese": "如果问题依然存在，欢迎随时提 Issue。",
+      "english": "Feel free to open an issue if the problem persists.",
+      "soundmark": "/fiːl friː tə ˈəʊpən ən ˈɪʃuː ɪf ðə ˈprɒbləm pəˈsɪsts/",
+      "posTags": [
+        [0, 0, "动词"],
+        [1, 1, "形容词"],
+        [2, 2, "不定式标记"],
+        [3, 3, "动词"],
+        [4, 4, "限定词"],
+        [5, 5, "名词"],
+        [6, 6, "连词"],
+        [7, 7, "限定词"],
+        [8, 8, "名词"],
+        [9, 9, "动词"]
+      ],
+      "syntaxTags": [
+        [0, 5, "祈使主句", "Imperative"],
+        [6, 9, "条件状语从句", "Clause"]
+      ]
+    },
+    {
+      "chinese": "非常感谢你对我们开源项目做出的杰出贡献！",
+      "english": "Thanks for your great contribution to this project!",
+      "soundmark": "/θæŋks fɔː jɔː ɡreɪt ˌkɒntrɪˈbjuːʃn tə ðɪs ˈprɒdʒekt/",
+      "posTags": [
+        [0, 0, "名词"],
+        [1, 1, "介词"],
+        [2, 2, "代词"],
+        [3, 3, "形容词"],
+        [4, 4, "名词"],
+        [5, 5, "介词"],
+        [6, 6, "限定词"],
+        [7, 7, "名词"]
+      ],
+      "syntaxTags": [[0, 7, "开源致谢", "Formula"]]
+    },
+    {
+      "chinese": "在提交代码前请仔细阅读贡献者行为守则。",
+      "english": "Please read our contributing guidelines before submitting.",
+      "soundmark": "/pliːz riːd ˈaʊər kənˈtrɪbjuːtɪŋ ˈɡaɪdlaɪnz bɪˈfɔː səbˈmɪtɪŋ/",
+      "posTags": [
+        [0, 0, "副词"],
+        [1, 1, "动词"],
+        [2, 2, "代词"],
+        [3, 3, "动词"],
+        [4, 4, "名词"],
+        [5, 5, "介词"],
+        [6, 6, "动词"]
+      ],
+      "syntaxTags": [[0, 6, "指导祈使句", "Imperative"]]
+    },
+    {
+      "chinese": "你能否提供一个可用于复现问题的最小代码仓库？",
+      "english": "Could you provide a minimal reproduction repository?",
+      "soundmark": "/kʊd juː prəˈvaɪd ə ˈmɪnɪml ˌriːprəˈdʌkʃn rɪˈpɒzətri/",
+      "posTags": [
+        [0, 0, "情态动词"],
+        [1, 1, "代词"],
+        [2, 2, "动词"],
+        [3, 3, "限定词"],
+        [4, 4, "形容词"],
+        [5, 5, "名词"],
+        [6, 6, "名词"]
+      ],
+      "syntaxTags": [[0, 6, "求助疑问句", "Question"]]
+    },
+    {
+      "chinese": "如果这个项目对你有帮助，请在 GitHub 上点个 Star 支持一下。",
+      "english": "Please star this repository on GitHub if you find it helpful.",
+      "soundmark": "/pliːz stɑː ðɪs rɪˈpɒzətri ɒn ˈɡɪthʌb ɪf juː faɪnd ɪt ˈhelpfl/",
+      "posTags": [
+        [0, 0, "副词"],
+        [1, 1, "动词"],
+        [2, 2, "限定词"],
+        [3, 3, "名词"],
+        [4, 4, "介词"],
+        [5, 5, "专有名词"],
+        [6, 6, "连词"],
+        [7, 7, "代词"],
+        [8, 8, "动词"],
+        [9, 9, "代词"],
+        [10, 10, "形容词"]
+      ],
+      "syntaxTags": [
+        [0, 5, "主句祈使句", "Imperative"],
+        [6, 10, "条件状语从句", "Clause"]
+      ]
+    },
+    {
+      "chinese": "我们将这条需求标记为社区新手友好任务。",
+      "english": "We marked this issue as good first issue for newcomers.",
+      "soundmark": "/wiː mɑːkt ðɪs ˈɪʃuː æz ɡʊd fɜːst ˈɪʃuː fɔː ˈnjuːkʌmərz/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "动词"],
+        [2, 2, "限定词"],
+        [3, 3, "名词"],
+        [4, 4, "介词"],
+        [5, 5, "形容词"],
+        [6, 6, "形容词"],
+        [7, 7, "名词"],
+        [8, 8, "介词"],
+        [9, 9, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 9, "标记谓宾补", "VP"]
+      ]
+    },
+    {
+      "chinese": "下个大版本发布会带来几个破坏性重大变更。",
+      "english": "The next major release introduces several breaking changes.",
+      "soundmark": "/ðə nekst ˈmeɪdʒər rɪˈliːs ˌɪntrəˈdjuːsɪz ˈsevrəl ˈbreɪkɪŋ ˈtʃeɪndʒɪz/",
+      "posTags": [
+        [0, 0, "限定词"],
+        [1, 1, "形容词"],
+        [2, 2, "形容词"],
+        [3, 3, "名词"],
+        [4, 4, "动词"],
+        [5, 5, "限定词"],
+        [6, 6, "形容词"],
+        [7, 7, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 3, "主语短语", "NP"],
+        [4, 7, "主谓宾", "VP"]
+      ]
+    },
+    {
+      "chinese": "这个提案正在技术指导委员会中深入讨论。",
+      "english": "This RFC is currently under active discussion.",
+      "soundmark": "/ðɪs ɑːr ef siː ɪz ˈkʌrəntli ˈʌndər ˈæktɪv dɪˈskʌʃn/",
+      "posTags": [
+        [0, 0, "限定词"],
+        [1, 1, "名词"],
+        [2, 2, "动词"],
+        [3, 3, "副词"],
+        [4, 4, "介词"],
+        [5, 5, "形容词"],
+        [6, 6, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 1, "主语短语", "NP"],
+        [2, 6, "系表与介宾", "VP"]
+      ]
+    },
+    {
+      "chinese": "欢迎任何人向我们的路线图提交反馈与修改意见。",
+      "english": "Anyone is welcome to submit feedback on our roadmap.",
+      "soundmark": "/ˈeniwʌn ɪz ˈwelkəm tə səbˈmɪt ˈfiːdbæk ɒn ˈaʊər ˈrəʊdmæp/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "动词"],
+        [2, 2, "形容词"],
+        [3, 3, "不定式标记"],
+        [4, 4, "动词"],
+        [5, 5, "名词"],
+        [6, 6, "介词"],
+        [7, 7, "代词"],
+        [8, 8, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 8, "复合系表结构", "VP"]
+      ]
+    },
+    {
+      "chinese": "这个软件包在宽松的 MIT 开源许可协议下分发发布。",
+      "english": "This package is licensed under the permissive MIT license.",
+      "soundmark": "/ðɪs ˈpækɪdʒ ɪz ˈlaɪsnst ˈʌndər ðə pəˈmɪsɪv ˌem aɪ ˈtiː ˈlaɪsns/",
+      "posTags": [
+        [0, 0, "限定词"],
+        [1, 1, "名词"],
+        [2, 2, "动词"],
+        [3, 3, "动词"],
+        [4, 4, "介词"],
+        [5, 5, "限定词"],
+        [6, 6, "形容词"],
+        [7, 7, "专有名词"],
+        [8, 8, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 8, "被动谓语与介宾", "VP"]
+      ]
+    }
+  ]
+}

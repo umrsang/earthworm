@@ -1,0 +1,554 @@
+{
+  "title": "Unit 81: 四级核心词汇（velocity ~ wire）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "velocity",
+      "chinese": "光速",
+      "english": "the velocity of light",
+      "soundmark": "/vəˈlɑsəti/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "venture",
+      "chinese": "天黑以后，他就会壮着胆子出去。",
+      "english": "When darkness fell, he would venture out.",
+      "soundmark": "/'vɛntʃɚ/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [[0, 6, "疑问句", "Question"]]
+    },
+    {
+      "word": "verify",
+      "chinese": "他的说法得到了几位证人的证实。",
+      "english": "His statement was verified by several witnesses.",
+      "soundmark": "/'vɛrɪfaɪ/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "vertical",
+      "chinese": "垂直线",
+      "english": "a vertical line",
+      "soundmark": "/'vɝtɪkl/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "vessel",
+      "chinese": "渔船",
+      "english": "a fishing vessel",
+      "soundmark": "/'vɛsl/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "veteran",
+      "chinese": "越战老兵",
+      "english": "a Vietnam veteran",
+      "soundmark": "/'vɛtərən/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "vibrate",
+      "chinese": "地板随着音乐的节奏在颤动。",
+      "english": "The floor was vibrating to the beat of the music.",
+      "soundmark": "/vaɪ'breɪt/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "系动词", "VP"],
+        [5, 6, "表语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "vice",
+      "chinese": "打击街头犯罪",
+      "english": "the fight against vice on the streets",
+      "soundmark": "/vaɪs/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "vinegar",
+      "chinese": "加糖的醋是从甘蔗和松木中精炼出来的.",
+      "english": "The  sugared  vinegar is  refined from the sugarcane and  pine.",
+      "soundmark": "/'vɪnɪɡɚ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "violent",
+      "chinese": "暴力犯罪的增多",
+      "english": "the increase in violent crime",
+      "soundmark": "/'vaɪələnt/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "violet",
+      "chinese": "她一边闻紫罗兰的芳香， 一边说“好香啊！”",
+      "english": "She inhaled the violet perfume, saying “How sweet!”",
+      "soundmark": "/'vaɪələt/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "virtue",
+      "chinese": "女性常被用作美德的象征。",
+      "english": "Women have often been used as symbols of virtue.",
+      "soundmark": "/'vɝtʃʊ/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"],
+        [7, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "vision",
+      "chinese": "她头部受撞击以后出现暂时性失明。",
+      "english": "She suffered temporary loss of vision after being struck on the head.",
+      "soundmark": "/'vɪʒən/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "visual",
+      "chinese": "画家把自己的思想转换成视觉画面。",
+      "english": "Artists translate their ideas into visual images.",
+      "soundmark": "/'vɪʒʊəl/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [[0, 6, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "vitamin",
+      "chinese": "尽量吃富含维生素和矿物质的食物。",
+      "english": "Try to eat foods that are rich in vitamins and minerals.",
+      "soundmark": "/'vaɪtəmɪn/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 2, "谓语动词", "VP"],
+        [3, 6, "宾语", "NP"],
+        [7, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "vivid",
+      "chinese": "我对那年夏天记忆犹新。",
+      "english": "I’ve got vivid memories of that summer.",
+      "soundmark": "/'vɪvɪd/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "volcano",
+      "chinese": "庞贝城于公元79年在火山爆发中毁灭。",
+      "english": "Pompeii was destroyed when the volcano erupted in 79 AD.",
+      "soundmark": "/vɑl'keno/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 6, "表语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "volt",
+      "chinese": "就是一单位的电子伏特。",
+      "english": "That is one electron volt.",
+      "soundmark": "/volt/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "voltage",
+      "chinese": "这些系统正变得更小而且使用更低的电压。",
+      "english": "The systems are getting smaller and using lower voltages.",
+      "soundmark": "/'voltɪdʒ/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 8, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "volume",
+      "chinese": "贸易量",
+      "english": "the volume of trade",
+      "soundmark": "/'vɑljum/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "voyage",
+      "chinese": "过去从英格兰到印度要航行六个月。",
+      "english": "The voyage from England to India used to take six months.",
+      "soundmark": "/'vɔɪɪdʒ/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "wage",
+      "chinese": "政府和发动了内战的3方一起签订了1份和平协议。",
+      "english": "The government, along with the three factions that had been waging a civil war, signed a peace agreement.",
+      "soundmark": "/wedʒ/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 8, "主语", "NP"],
+        [9, 10, "系动词", "VP"],
+        [11, 17, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "waken",
+      "chinese": "她轻轻地唤醒睡梦中的孩子。",
+      "english": "She gently wakened the sleeping child.",
+      "soundmark": "/'wekən/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "wander",
+      "chinese": "不要让任何一个小孩走开去。",
+      "english": "Don’t let any of the kids wander off.",
+      "soundmark": "/'wɑndɚ/",
+      "posTags": [[6, 6, "动词"]],
+      "syntaxTags": [[0, 7, "祈使句式", "Imperative"]]
+    },
+    {
+      "word": "want",
+      "chinese": "那家画廊由于缺乏资金关闭了。",
+      "english": "The gallery closed down for want of funding.",
+      "soundmark": "/wɑnt/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "warmth",
+      "chinese": "她被火的温暖吸引着，走进了房间。",
+      "english": "She went further into the room, drawn by the warmth of the fire.",
+      "soundmark": "/wɔrmθ/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 11, "主语", "NP"],
+        [12, 12, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "water",
+      "chinese": "浴室地面上都是水。",
+      "english": "There’s water all over the bathroom floor.",
+      "soundmark": "/ˈwɔtɚ; ˈwɑtɚ/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "waterproof",
+      "chinese": "防水上衣",
+      "english": "a waterproof jacket",
+      "soundmark": "/'wɔtɚpruf/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "wave",
+      "chinese": "迪伊凝视着拍岸的波涛。",
+      "english": "Dee watched the waves breaking on the shore.",
+      "soundmark": "/wev/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "wax",
+      "chinese": "蜡笔",
+      "english": "wax crayons",
+      "soundmark": "/waks/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [[0, 1, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "weakness",
+      "chinese": "这项立法有一个根本性缺陷。",
+      "english": "The legislation has a fundamental weakness.",
+      "soundmark": "/'wiknəs/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "wear",
+      "chinese": "这些靠垫开始有点磨破了。",
+      "english": "The cushions are starting to wear a little.",
+      "soundmark": "/wɛr/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 5, "系动词", "VP"],
+        [6, 7, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "weave",
+      "chinese": "只有数量很少的妇女还在编织。",
+      "english": "Only a few of the women still weave.",
+      "soundmark": "/wiv/",
+      "posTags": [[7, 7, "动词"]],
+      "syntaxTags": [
+        [0, 6, "主语", "NP"],
+        [7, 7, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "weed",
+      "chinese": "对付杂草的长期斗争",
+      "english": "the constant battle against weeds",
+      "soundmark": "/wid/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "weep",
+      "chinese": "詹姆斯控制不住感情，哭了起来。",
+      "english": "James broke down and wept.",
+      "soundmark": "/wip/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "weld",
+      "chinese": "新的把手得焊上去。",
+      "english": "The new handle will have to be welded on.",
+      "soundmark": "/wɛld/",
+      "posTags": [[7, 7, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 4, "宾语", "NP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "wheat",
+      "chinese": "小麦地",
+      "english": "a field of wheat",
+      "soundmark": "/wit/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "wheel",
+      "chinese": "我来开车好吗？",
+      "english": "Shall I take the wheel (= drive instead of someone else )?",
+      "soundmark": "/wil/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 11, "疑问句", "Question"]]
+    },
+    {
+      "word": "whip",
+      "chinese": "他抽了一下鞭子，马儿就小跑起来。",
+      "english": "He whipped the horse into a canter.",
+      "soundmark": "/wɪp/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "whisper",
+      "chinese": "你不必轻声轻语，没人听得到我们说话。",
+      "english": "You don’t have to whisper, no one can hear us.",
+      "soundmark": "/'wɪspɚ/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "whistle",
+      "chinese": "救生员吹响哨子。",
+      "english": "The lifeguard blew his whistle.",
+      "soundmark": "/'wɪsl/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "wholly",
+      "chinese": "完全令人满意的解决办法",
+      "english": "a wholly satisfactory solution",
+      "soundmark": "/'holli/",
+      "posTags": [[1, 1, "副词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "wicked",
+      "chinese": "《糖果屋》中那个恶毒的继母",
+      "english": "the wicked stepmother in ‘Hansel and Gretel’",
+      "soundmark": "/'wɪkɪd/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 6, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "widen",
+      "chinese": "他们正在拓宽马路。",
+      "english": "They’re widening the road.",
+      "soundmark": "/'waɪdn/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "widow",
+      "chinese": "上个月遭到行凶抢劫的一位寡居老妇",
+      "english": "an elderly widow who was attacked and robbed last month",
+      "soundmark": "/'wɪdo/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "谓语动词", "VP"],
+        [6, 9, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "width",
+      "chinese": "和房子同宽的有顶露台",
+      "english": "a covered terrace extending the full width of the house",
+      "soundmark": "/wɪdθ/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "willing",
+      "chinese": "我很快就拥有了一批热心的帮手。",
+      "english": "I soon had an army of willing helpers.",
+      "soundmark": "/'wɪlɪŋ/",
+      "posTags": [[6, 6, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "wind",
+      "chinese": "蜿蜒的小路",
+      "english": "a winding path",
+      "soundmark": "/wɪnd; (for v.) waɪnd/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "wing",
+      "chinese": "那只鸟使劲地拍打着翅膀。",
+      "english": "The bird flapped its wings furiously.",
+      "soundmark": "/wɪŋ/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "wire",
+      "chinese": "铁丝网",
+      "english": "a wire fence",
+      "soundmark": "/'waɪɚ/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    }
+  ]
+}

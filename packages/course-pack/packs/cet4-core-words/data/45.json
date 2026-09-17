@@ -1,0 +1,552 @@
+{
+  "title": "Unit 45: 四级核心词汇（Fahrenheit ~ fierce）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "Fahrenheit",
+      "chinese": "72华氏度",
+      "english": "72˚ Fahrenheit (= 72 degrees on the Fahrenheit scale )",
+      "soundmark": "/'færən'haɪt/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 9, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "fail",
+      "chinese": "看来和平谈判可能会失败。",
+      "english": "It looks likely that the peace talks will fail.",
+      "soundmark": "/feɪl/",
+      "posTags": [[8, 8, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "failure",
+      "chinese": "一帆风顺的人往往不太擅长应对失败。",
+      "english": "Successful people often aren’t very good at dealing with failure.",
+      "soundmark": "/'feljɚ/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 6, "主语", "NP"],
+        [7, 7, "谓语动词", "VP"],
+        [8, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "faint",
+      "chinese": "他们渺茫的生还希望",
+      "english": "a faint hope that they might be alive",
+      "soundmark": "/fent/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "fairly",
+      "chinese": "那幢房子有个不小的花园。",
+      "english": "The house had a fairly large garden.",
+      "soundmark": "/'fɛrli/",
+      "posTags": [[4, 4, "副词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "faithful",
+      "chinese": "忠诚的朋友",
+      "english": "a faithful friend",
+      "soundmark": "/'feθfəl/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "fall",
+      "chinese": "那棵树快要倒下了。",
+      "english": "The tree was about to fall.",
+      "soundmark": "/fɔl/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "FALSE",
+      "chinese": "…一副假牙。",
+      "english": "...a set of false teeth.",
+      "soundmark": "/fɔls/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "fame",
+      "chinese": "他称自己对出名真的没有兴趣。",
+      "english": "He claims he is not really interested in fame.",
+      "soundmark": "/fem/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"],
+        [7, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "family",
+      "chinese": "你认识隔壁那家人吗？",
+      "english": "Do you know the family next door?",
+      "soundmark": "/'fæməli/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 6, "疑问句", "Question"]]
+    },
+    {
+      "word": "famine",
+      "chinese": "爱尔兰严重的土豆荒",
+      "english": "the great potato famine in Ireland",
+      "soundmark": "/'fæmɪn/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "famous",
+      "chinese": "著名演员",
+      "english": "a famous actor",
+      "soundmark": "/'feməs/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "fan",
+      "chinese": "成群结队的球迷开始向球场走去。",
+      "english": "Groups of football fans began heading towards the ground.",
+      "soundmark": "/fæn/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "far",
+      "chinese": "我们可以从这里步行去我家，不远。",
+      "english": "We can walk to my house from here. It isn’t far.",
+      "soundmark": "/fɑr/",
+      "posTags": [[10, 10, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"],
+        [6, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "fare",
+      "chinese": "他几乎付不起车费。",
+      "english": "He could barely afford the fare.",
+      "soundmark": "/fɛr/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "farewell",
+      "chinese": "40位同事来参加了她的欢送会。",
+      "english": "40 of her colleagues gathered for her farewell presentation.",
+      "soundmark": "/,fɛr'wɛl/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "farm",
+      "chinese": "一座300公顷的农场",
+      "english": "a 300-hectare farm",
+      "soundmark": "/fɑrm/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "farther",
+      "chinese": "我们决定不再往前走了。",
+      "english": "We decided not to go any farther.",
+      "soundmark": "/'fɑrðɚ/",
+      "posTags": [[6, 6, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 4, "谓语动词", "VP"],
+        [5, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "fashion",
+      "chinese": "请大家有秩序地离开大楼。",
+      "english": "Please leave the building in an orderly fashion.",
+      "soundmark": "/'fæʃən/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [[0, 7, "祈使句式", "Imperative"]]
+    },
+    {
+      "word": "fashionable",
+      "chinese": "眼下流行艳丽的色彩。",
+      "english": "Strong colours are very fashionable at the moment.",
+      "soundmark": "/'fæʃnəbl/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 4, "表语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "fast",
+      "chinese": "速度很快的汽车",
+      "english": "a fast car",
+      "soundmark": "/fæst/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "fasten",
+      "chinese": "离开前要确保所有的窗子都已关严。",
+      "english": "Make sure all the windows are securely fastened before you leave.",
+      "soundmark": "/'fæsən/",
+      "posTags": [[7, 7, "动词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 7, "宾语", "NP"],
+        [8, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "father",
+      "chinese": "叫你父亲帮你。",
+      "english": "Ask your father to help you.",
+      "soundmark": "/'fɑðɚ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 2, "宾语", "NP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "fault",
+      "chinese": "他最大的缺点是傲慢。",
+      "english": "His worst fault is his arrogance.",
+      "soundmark": "/fɔlt/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "系动词", "VP"],
+        [4, 5, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "faulty",
+      "chinese": "商品有问题的话，顾客可以要求退货。",
+      "english": "Customers may ask for a refund if the goods are faulty.",
+      "soundmark": "/'fɔlti/",
+      "posTags": [[10, 10, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "favour",
+      "chinese": "你帮个忙告诉凯莉说我来不了好吗？",
+      "english": "Could you do me a favour and tell Kelly I can’t make it?",
+      "soundmark": "/ˈfevɚ/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [[0, 12, "疑问句", "Question"]]
+    },
+    {
+      "word": "favourable",
+      "chinese": "正面的影评",
+      "english": "favourable film reviews",
+      "soundmark": "/'feivərəbl/",
+      "posTags": [[0, 0, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "favourite",
+      "chinese": "孩子最喜欢的玩具",
+      "english": "a child’s favourite toy",
+      "soundmark": "/'fevərɪt/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "fear",
+      "chinese": "我坐在地板上吓得浑身发抖，因为有一颗子弹射穿窗户打了进来。",
+      "english": "I was sitting on the floor shivering with fear because a bullet had been fired through a window.",
+      "soundmark": "/fɪr/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 17, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "fearful",
+      "chinese": "一个羞涩、胆怯的小孩",
+      "english": "a shy and fearful child",
+      "soundmark": "/'fɪrfəl/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "feast",
+      "chinese": "婚筵",
+      "english": "a wedding feast",
+      "soundmark": "/fist/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "feather",
+      "chinese": "一根鸵鸟羽毛",
+      "english": "an ostrich feather",
+      "soundmark": "/'fɛðɚ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "February",
+      "chinese": "他1943年2月参军。",
+      "english": "He joined the Army in February 1943.",
+      "soundmark": "/'fɛbrʊ'ɛri/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "federal",
+      "chinese": "瑞士是一个联邦共和国。",
+      "english": "Switzerland is a federal republic.",
+      "soundmark": "/'fɛdərəl/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 4, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "fee",
+      "chinese": "月付35英镑，即可使用健身房和游泳池。",
+      "english": "You can use the gym and pool for a fee of £35 a month.",
+      "soundmark": "/fi/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"],
+        [7, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "feeble",
+      "chinese": "他的声音听上去既无力又遥远。",
+      "english": "His voice sounded feeble and far away.",
+      "soundmark": "/'fibl/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "feed",
+      "chinese": "你喂猫了吗？",
+      "english": "Have you fed the cat?",
+      "soundmark": "/fid/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [[0, 4, "疑问句", "Question"]]
+    },
+    {
+      "word": "feel",
+      "chinese": "我感到很沮丧。",
+      "english": "I am feeling very depressed.",
+      "soundmark": "/fiːl/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 4, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "feeling",
+      "chinese": "得知我们赢了，感觉真好。",
+      "english": "Knowing we’d won was a wonderful feeling.",
+      "soundmark": "/'filɪŋ/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "fellow",
+      "chinese": "保罗人很随和。",
+      "english": "Paul’s an easy-going sort of fellow.",
+      "soundmark": "/'fɛlo/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "female",
+      "chinese": "整体来说，女性在这次测试中胜过男性。",
+      "english": "As a group, females performed better on the test than males.",
+      "soundmark": "/'fimel/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"],
+        [6, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "fence",
+      "chinese": "村民们说栅栏将限制公众进入山区。",
+      "english": "Villagers say the fence would restrict public access to the hills.",
+      "soundmark": "/fɛns/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 7, "宾语", "NP"],
+        [8, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "fertile",
+      "chinese": "800英亩的肥沃耕地",
+      "english": "800 acres of fertile cropland",
+      "soundmark": "/ˈfɝtəl; (canadian) ˈfɝˌtaɪl/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "fertilizer",
+      "chinese": "…不使用任何购买的化学品、肥料或杀虫剂的耕作。",
+      "english": "...farming without any purchased chemical, fertilizer or pesticide.",
+      "soundmark": "/'fɝtəlaɪzɚ/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "festival",
+      "chinese": "圣诞节是基督教历的重大节日之一。",
+      "english": "Christmas is one of the main festivals in the Christian Calendar.",
+      "soundmark": "/ˈfɛstəvəl/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 2, "表语", "NP"],
+        [3, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "fever",
+      "chinese": "安迪发烧了，今天不来上班。",
+      "english": "Andy has a fever and won’t be coming into work today.",
+      "soundmark": "/'fivɚ/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 7, "宾语", "NP"],
+        [8, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "few",
+      "chinese": "…把她清醒的个把钟头花在电视机前。",
+      "english": "...spending her few waking hours in front of the TV.",
+      "soundmark": "/fju/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 4, "宾语", "NP"],
+        [5, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "fibre",
+      "chinese": "水果和蔬菜的纤维素含量很高。",
+      "english": "Fruit and vegetables are high in fibre content .",
+      "soundmark": "/'faibə/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "系动词", "VP"],
+        [4, 4, "表语", "NP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "field",
+      "chinese": "田野青翠、丘陵起伏的景色",
+      "english": "a view of green fields and rolling hills",
+      "soundmark": "/fild/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "fierce",
+      "chinese": "城里的激烈战斗",
+      "english": "fierce fighting in the city",
+      "soundmark": "/fɪrs/",
+      "posTags": [[0, 0, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "状语修饰", "PP"]
+      ]
+    }
+  ]
+}

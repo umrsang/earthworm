@@ -1,0 +1,581 @@
+{
+  "title": "Unit 87: 四级核心词汇（media ~ enquiry）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "media",
+      "chinese": "这一丑闻在全国媒体上被广泛报道。",
+      "english": "The scandal was widely reported in the national media .",
+      "soundmark": "/'miːdiə/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 4, "表语", "NP"],
+        [5, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "radical",
+      "chinese": "党内极左翼激进分子",
+      "english": "radicals on the extreme left wing of the party",
+      "soundmark": "/'rædɪkl/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 5, "宾语", "NP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "semester",
+      "chinese": "秋季学期",
+      "english": "the fall semester",
+      "soundmark": "/səˈmɛstɚ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "concession",
+      "chinese": "英国人没有打算作出让步。",
+      "english": "The British were not prepared to make any concessions .",
+      "soundmark": "/kən'sɛʃən/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 6, "系动词", "VP"],
+        [7, 9, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "elective",
+      "chinese": "国民议会中的34个选举席位",
+      "english": "the 34 elective seats in the National Assembly",
+      "soundmark": "/ɪ'lɛktɪv/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [[0, 7, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "accusation",
+      "chinese": "对他提出的主要指控是他想逃避兵役。",
+      "english": "The main accusation levelled against him was that he tried to avoid military service.",
+      "soundmark": "/,ækju'zeʃən/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "exclusive",
+      "chinese": "贝莱尔是洛杉矶郊外一处高级住宅区。",
+      "english": "Bel Air is an exclusive suburb of Los Angeles.",
+      "soundmark": "/ɪk'sklusɪv/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 5, "表语", "NP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "housing",
+      "chinese": "住房条件差引起的健康问题",
+      "english": "health problems caused by bad housing",
+      "soundmark": "/'haʊzɪŋ/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "notion",
+      "chinese": "她根本不明白他是什么意思。",
+      "english": "She had no notion what he meant.",
+      "soundmark": "/'noʃən/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "gram",
+      "chinese": "然后他们将一立方厘米的水的重量定为一克。",
+      "english": "Then they chose one gram for weighing water in a cubic centimetre.",
+      "soundmark": "/ɡræm/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 7, "谓语动词", "VP"],
+        [8, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "empower",
+      "chinese": "《选举权法案》对于赋予少数民族自主权是必不可少的。",
+      "english": "The Voting Rights Act was needed to empower minority groups.",
+      "soundmark": "/ɪm'paʊɚ/",
+      "posTags": [[7, 7, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "宾语", "NP"],
+        [6, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "boring",
+      "chinese": "她丈夫可以说是我见过的最无聊的人。",
+      "english": "Her husband is about the most boring person I’ve ever met.",
+      "soundmark": "/'bɔrɪŋ/",
+      "posTags": [[6, 6, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "classic",
+      "chinese": "可口可乐瓶是上个世纪的经典设计之一。",
+      "english": "The Coca-Cola bottle is one of the classic designs of the last century.",
+      "soundmark": "/'klæsɪk/",
+      "posTags": [[7, 7, "形容词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "系动词", "VP"],
+        [4, 4, "表语", "NP"],
+        [5, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "rub",
+      "chinese": "如果你想把它弄干净，就得更使劲地擦。",
+      "english": "You’ll have to rub harder if you want to get it clean.",
+      "soundmark": "/rʌb/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 7, "宾语", "NP"],
+        [8, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "wealthy",
+      "chinese": "世界上的富国",
+      "english": "the wealthy nations of the world",
+      "soundmark": "/'wɛlθi/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "segment",
+      "chinese": "用几瓣橙子作点缀。",
+      "english": "Decorate with orange segments.",
+      "soundmark": "/'sɛɡmənt/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 3, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "statistic",
+      "chinese": "这项统计数据来自英国政府最近进行的一项研究。",
+      "english": "The statistic comes from a study recently conducted by the British government.",
+      "soundmark": "/stə'tɪstɪk/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "superb",
+      "chinese": "食物好吃极了。",
+      "english": "The food was superb.",
+      "soundmark": "//suːˈpɜːrb//",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 3, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "whatever",
+      "chinese": "凡是与科学有关的她都没有表现出任何兴趣。",
+      "english": "She has shown no interest whatever in anything scientific.",
+      "soundmark": "/wət'ɛvɚ/",
+      "posTags": [[5, 5, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "volunteer",
+      "chinese": "我主动提出来当司机。",
+      "english": "I volunteered my services as a driver.",
+      "soundmark": "/,vɑlən'tɪr/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "boom",
+      "chinese": "生意非常兴隆，钱已不是问题。",
+      "english": "Business was booming , and money wasn’t a problem.",
+      "soundmark": "/buːm/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 8, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "summit",
+      "chinese": "欧洲首脑会议",
+      "english": "the European summit",
+      "soundmark": "/'sʌmɪt/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "ally",
+      "chinese": "他将别无选择，只能与这个新运动结盟。",
+      "english": "He will have no choice but to ally himself with the new movement.",
+      "soundmark": "/'ælaɪ/",
+      "posTags": [[7, 7, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "宾语", "NP"],
+        [6, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "statement",
+      "chinese": "在一份官方声明中，她正式宣布辞职。",
+      "english": "In an official statement, she formally announced her resignation.",
+      "soundmark": "/'stetmənt/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 6, "谓语动词", "VP"],
+        [7, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "target",
+      "chinese": "这个新的项目何时完工没有预定日期。",
+      "english": "There is no target date for completion of the new project.",
+      "soundmark": "/'tɑrɡɪt/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 4, "表语", "NP"],
+        [5, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "truly",
+      "chinese": "他的作品确实十分独特。",
+      "english": "His work is truly original.",
+      "soundmark": "/ˈtruːli/",
+      "posTags": [[3, 3, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "gene",
+      "chinese": "控制细胞分裂的基因",
+      "english": "the genes that regulate cell division",
+      "soundmark": "/dʒin/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "suicide",
+      "chinese": "圣诞节期间自杀的人比其他任何时候都多。",
+      "english": "More people commit suicide at Christmas than at any other time.",
+      "soundmark": "/'suɪsaɪd/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "saving",
+      "chinese": "买房子花掉了他们所有的积蓄。",
+      "english": "Buying a house had taken all their savings.",
+      "soundmark": "/'sevɪŋ/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "waist",
+      "chinese": "那条裙子腰围太大。",
+      "english": "The skirt was too big around the waist.",
+      "soundmark": "/west/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 7, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "scold",
+      "chinese": "不要责骂小狗，但要干脆利落地说“不”。",
+      "english": "Do not scold the puppy, but simply and firmly say ‘no’.",
+      "soundmark": "/skold/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 2, "谓语动词", "VP"],
+        [3, 10, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "rage",
+      "chinese": "“我怎么会知道！”珍妮怒道。",
+      "english": "‘How was I to know!’ Jenny raged.",
+      "soundmark": "/redʒ/",
+      "posTags": [[6, 6, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 2, "表语", "NP"],
+        [3, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "protocol",
+      "chinese": "违反外交礼节",
+      "english": "a breach of diplomatic protocol",
+      "soundmark": "/'protə'kɔl/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "whale",
+      "chinese": "这只离摄影师最近的白鲸正呼出空气以帮助其下潜。",
+      "english": "The whale nearest to the photographer is releasing air to aid its descent.",
+      "soundmark": "/wel/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 7, "系动词", "VP"],
+        [8, 8, "表语", "NP"],
+        [9, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "violin",
+      "chinese": "他在管弦乐队中演奏小提琴。",
+      "english": "He plays the violin in an orchestra.",
+      "soundmark": "/,vaɪə'lɪn/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 6, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "remonstrate",
+      "chinese": "他曾向裁判抗议。",
+      "english": "He remonstrated with the referee.",
+      "soundmark": "/rɪ'mɑnstret/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "cruise",
+      "chinese": "她想坐驳船游览法国的运河。",
+      "english": "She wants to cruise the canals of France in a barge.",
+      "soundmark": "/krʊz/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"],
+        [6, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "topic",
+      "chinese": "如今环境是一个热门话题。",
+      "english": "The environment is a popular topic these days.",
+      "soundmark": "/'tɑpɪk/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 7, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "erroneous",
+      "chinese": "他的经济预测是基于错误假设之上的。",
+      "english": "His economic predictions are based on some erroneous assumptions.",
+      "soundmark": "/ɪ'ronɪəs/",
+      "posTags": [[7, 7, "形容词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "系动词", "VP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "raid",
+      "chinese": "轰炸",
+      "english": "a bombing raid",
+      "soundmark": "/red/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "kindergarten",
+      "chinese": "在我记忆中，我三岁就被送去幼儿园了。",
+      "english": "I to the kindergarten at the age of three.",
+      "soundmark": "/'kɪndɚɡɑrtn/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 6, "谓语动词", "VP"],
+        [7, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "cashier",
+      "chinese": "你是否有出纳员的工作经验？",
+      "english": "Do you have any experience as a cashier?",
+      "soundmark": "/kæ'ʃɪr/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [[0, 7, "疑问句", "Question"]]
+    },
+    {
+      "word": "sheer",
+      "chinese": "从海面垂直拔起的悬崖",
+      "english": "cliffs which rose sheer from the sea",
+      "soundmark": "/ʃɪr/",
+      "posTags": [[3, 3, "副词"]],
+      "syntaxTags": [[0, 6, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "depression",
+      "chinese": "托马斯先生当时正受抑郁症折磨。",
+      "english": "Mr. Thomas was suffering from depression.",
+      "soundmark": "/dɪ'prɛʃən/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "extent",
+      "chinese": "他们调查了年龄会在多大程度上影响语言学习能力。",
+      "english": "They examined the extent to which (= how much ) age affected language-learning ability.",
+      "soundmark": "/ɪk'stɛnt/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "gaol",
+      "chinese": "由于《通行证法》，每年有成千上万的南非黑人被关进监狱。",
+      "english": "Hundreds and thousands of africans are thrown into gaol each year under pass laws.",
+      "soundmark": "/dʒeɪl/",
+      "posTags": [[8, 8, "动词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "系动词", "VP"],
+        [6, 6, "表语", "NP"],
+        [7, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "sauce",
+      "chinese": "意大利面酱",
+      "english": "spaghetti sauces",
+      "soundmark": "/sɔs/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 1, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "shrink",
+      "chinese": "我不太敢洗那件衬衫，怕它会缩水。",
+      "english": "I’m worried about washing that shirt in case it shrinks.",
+      "soundmark": "/ʃrɪŋk/",
+      "posTags": [[9, 9, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "competitive",
+      "chinese": "美国有些行业不如以前有竞争力了。",
+      "english": "Some US industries are not as competitive as they have been in the past.",
+      "soundmark": "/kəm'pɛtətɪv/",
+      "posTags": [[6, 6, "形容词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "系动词", "VP"],
+        [5, 10, "表语", "NP"],
+        [11, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "enquiry",
+      "chinese": "我们很高兴收到您的询问函。",
+      "english": "We are pleased to receive your enquiry.",
+      "soundmark": "/ɛnˈkwaɪri, ˈɛnkwəri/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 4, "系动词", "VP"],
+        [5, 6, "表语", "NP"]
+      ]
+    }
+  ]
+}

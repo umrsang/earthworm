@@ -1,0 +1,576 @@
+{
+  "title": "Unit 52: 四级核心词汇（hero ~ how）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "hero",
+      "chinese": "他父亲是一位战争英雄，曾经是战斗机飞行员。",
+      "english": "His father was a war hero , a former fighter pilot.",
+      "soundmark": "/'hɪro/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 10, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "heroic",
+      "chinese": "她拯救家人的英勇行为",
+      "english": "her heroic efforts to save her family",
+      "soundmark": "/hə'roɪk/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "heroine",
+      "chinese": "女主人公是一位电视台高级主管。",
+      "english": "The heroine is a senior TV executive.",
+      "soundmark": "/'hɛroɪn/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 6, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "hers",
+      "chinese": "他俯身吻她的嘴唇。",
+      "english": "He bent and touched his mouth to hers.",
+      "soundmark": "/hɝz/",
+      "posTags": [[7, 7, "代词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"],
+        [6, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "herself",
+      "chinese": "碎玻璃把她割伤了。",
+      "english": "She cut herself on some broken glass.",
+      "soundmark": "/hɝ'sɛlf/",
+      "posTags": [[2, 2, "代词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "hesitate",
+      "chinese": "我犹豫。",
+      "english": "I hesitate.",
+      "soundmark": "/'hɛzɪtet/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "hi",
+      "chinese": "嗨！你好吗？",
+      "english": "Hi! How are you?",
+      "soundmark": "/haɪ/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [[0, 3, "疑问句", "Question"]]
+    },
+    {
+      "word": "hide",
+      "chinese": "她在一堆书的后面藏了一瓶杜松子酒。",
+      "english": "She keeps a bottle of gin hidden behind a stack of books.",
+      "soundmark": "/haɪd/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "high",
+      "chinese": "这是日本最高的山。",
+      "english": "This is the highest mountain in Japan.",
+      "soundmark": "/haɪ/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 4, "表语", "NP"],
+        [5, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "highly",
+      "chinese": "汤姆的母亲对学校的处理方法持强烈的批评态度。",
+      "english": "Tom’s mother was highly critical of the school’s approach.",
+      "soundmark": "/'haɪli/",
+      "posTags": [[3, 3, "副词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 4, "表语", "NP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "highway",
+      "chinese": "75号州际公路",
+      "english": "Interstate Highway 75",
+      "soundmark": "/'haɪwe/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "hill",
+      "chinese": "他们的房子建在可以俯视大海的小山上。",
+      "english": "Their house is on a hill overlooking the sea.",
+      "soundmark": "/hɪl/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "hillside",
+      "chinese": "飞机在山坡上坠毁。",
+      "english": "The airplane crashed on a hillside.",
+      "soundmark": "/'hɪl'saɪd/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "him",
+      "chinese": "你爱上他了吗？",
+      "english": "Are you in love with him?",
+      "soundmark": "/hɪm/",
+      "posTags": [[5, 5, "代词"]],
+      "syntaxTags": [[0, 5, "疑问句", "Question"]]
+    },
+    {
+      "word": "himself",
+      "chinese": "他收回自己所有的农场。",
+      "english": "He repossessed himself of his farm.",
+      "soundmark": "/hɪm'sɛlf/",
+      "posTags": [[2, 2, "代词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "hint",
+      "chinese": "他暗示过可能会出任教练。",
+      "english": "There have been hints that he may take up coaching.",
+      "soundmark": "/hɪnt/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 7, "宾语", "NP"],
+        [8, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "his",
+      "chinese": "他向我说明了他的观点。",
+      "english": "He stated his views to me.",
+      "soundmark": "/hɪz/",
+      "posTags": [[2, 2, "代词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "historical",
+      "chinese": "历史名胜",
+      "english": "places of historical interest",
+      "soundmark": "/hɪ'stɔrɪkl/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "history",
+      "chinese": "从古至今，妇女的成就都被大大地忽视了。",
+      "english": "Throughout history the achievements of women have been largely ignored.",
+      "soundmark": "/ˈhɪstəri; ˈhɪstri/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 7, "谓语动词", "VP"],
+        [8, 9, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "hobby",
+      "chinese": "你有些什么爱好？",
+      "english": "What are your hobbies?",
+      "soundmark": "/'hɑbi/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [[0, 3, "疑问句", "Question"]]
+    },
+    {
+      "word": "hold",
+      "chinese": "他持有帝国化学工业集团的股份。",
+      "english": "He holds shares in ICI.",
+      "soundmark": "/hold/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "hole",
+      "chinese": "我开始挖洞种那棵植物。",
+      "english": "I began digging a hole for the plant.",
+      "soundmark": "/hol/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "holiday",
+      "chinese": "学校假期从明天开始。",
+      "english": "The school holidays start tomorrow.",
+      "soundmark": "/'hɑləde/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "hollow",
+      "chinese": "空心树",
+      "english": "a hollow tree",
+      "soundmark": "/'hɑlo/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "holy",
+      "chinese": "圣城瓦拉纳西",
+      "english": "the holy city of Varanasi",
+      "soundmark": "/'holi/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "home",
+      "chinese": "他们在加州有个美丽的家。",
+      "english": "They have a beautiful home in California.",
+      "soundmark": "/hom/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "honest",
+      "chinese": "他勤奋老实。",
+      "english": "He was a hard-working, honest man.",
+      "soundmark": "/'ɑnɪst/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 5, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "honeymoon",
+      "chinese": "到1987年，蜜月期已经过去。",
+      "english": "By 1987, the honeymoon was over .",
+      "soundmark": "/'hʌnɪmun/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "系动词", "VP"],
+        [5, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "honour",
+      "chinese": "100多位选手为争取代表郡参加全国总决赛的荣誉进行角逐。",
+      "english": "Over 100 players competed for the honour of representing the county in the National Finals.",
+      "soundmark": "/'ɔnə/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 14, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "honourable",
+      "chinese": "我父亲认为当演员不是受人尊敬的职业。",
+      "english": "My father didn’t think acting was an honorable profession.",
+      "soundmark": "/'ɔnərəbl/",
+      "posTags": [[0, 0, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "hook",
+      "chinese": "汤姆把外套挂在门后的衣钩上。",
+      "english": "Tom hung his coat on the hook behind the door.",
+      "soundmark": "/hʊk/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 6, "谓语动词", "VP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "hope",
+      "chinese": "我真心希望一切顺利。",
+      "english": "I do hope everything goes well.",
+      "soundmark": "/hop/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "hopeful",
+      "chinese": "投票结果是个好兆头，表明教会的态度正在转变。",
+      "english": "The vote is a hopeful sign that attitudes in the church are changing.",
+      "soundmark": "/'hopfl/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 7, "宾语", "NP"],
+        [8, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "hopeless",
+      "chinese": "我们试图阻止火势蔓延，但我们知道这是不可能的。",
+      "english": "We tried to stop the flames from spreading, but we knew it was hopeless.",
+      "soundmark": "/ˈhoʊpləs/",
+      "posTags": [[13, 13, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"],
+        [6, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "horizon",
+      "chinese": "远处小黑点般的一条小船出现在地平线上。",
+      "english": "In the distance, the dot of a boat appeared on the horizon.",
+      "soundmark": "/hə'raɪzn/",
+      "posTags": [[11, 11, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "horizontal",
+      "chinese": "水平面",
+      "english": "a horizontal surface",
+      "soundmark": "/'hɔrə'zɑntl/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "horn",
+      "chinese": "成年母牛头上长有角。",
+      "english": "A mature cow has horns.",
+      "soundmark": "/hɔrn/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "horror",
+      "chinese": "浓烟包围了他们，情形变得更加恐怖。",
+      "english": "Dense smoke surrounded them, adding to the horror of the situation.",
+      "soundmark": "/'hɔrɚ/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "horse",
+      "chinese": "一辆马车",
+      "english": "a horse and cart",
+      "soundmark": "/hɔrs/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "horsepower",
+      "chinese": "两百马力的发动机",
+      "english": "a two-hundred horsepower engine",
+      "soundmark": "/'hɔrs'paʊɚ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "hospital",
+      "chinese": "他们正在建一家新医院。",
+      "english": "They are building a new hospital.",
+      "soundmark": "/'hɑspɪtl/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 5, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "host",
+      "chinese": "主人在门口迎接我们。",
+      "english": "Our host greeted us at the door.",
+      "soundmark": "/host/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "hostess",
+      "chinese": "女主人介绍了他们。",
+      "english": "The hostess introduced them.",
+      "soundmark": "/'hostəs/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "hostile",
+      "chinese": "南安普敦队的球迷对球队的前任教练很不友善。",
+      "english": "Southampton fans gave their former coach a hostile reception .",
+      "soundmark": "/ˈhɑstəl/",
+      "posTags": [[7, 7, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 9, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "hot",
+      "chinese": "一种辛辣的咖喱",
+      "english": "a hot curry",
+      "soundmark": "/hɑt/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "hotel",
+      "chinese": "我已订好机票和酒店。",
+      "english": "I’ve booked the flights and the hotel.",
+      "soundmark": "/ho'tɛl/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "hour",
+      "chinese": "面试大概要持续两小时。",
+      "english": "The interview will last about two hours.",
+      "soundmark": "/'aʊɚ/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "house",
+      "chinese": "美国历史最悠久的出版社",
+      "english": "America’s oldest publishing house",
+      "soundmark": "/haʊs/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "housewife",
+      "chinese": "她19岁就结婚了，是个传统的家庭主妇和4个孩子的母亲。",
+      "english": "Married at nineteen, she was a traditional housewife and mother of four children.",
+      "soundmark": "/'haʊs'waɪf/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "how",
+      "chinese": "你的名字怎么拼写？",
+      "english": "How do you spell your name?",
+      "soundmark": "/haʊ/",
+      "posTags": [[0, 0, "副词"]],
+      "syntaxTags": [[0, 5, "疑问句", "Question"]]
+    }
+  ]
+}

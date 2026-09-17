@@ -1,0 +1,560 @@
+{
+  "title": "Unit 07: 四级核心词汇（engage ~ fiction）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "engage",
+      "chinese": "我从来没有从事过贩毒。",
+      "english": "I have never engaged in drug trafficking.",
+      "soundmark": "/ɪnˈɡeɪdʒ/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "engagement",
+      "chinese": "他们订婚的消息在报上公布了。",
+      "english": "Their engagement was announced in the paper.",
+      "soundmark": "/ɪnˈɡeɪdʒmənt/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "enhance",
+      "chinese": "良好的照明能给房间增色不少。",
+      "english": "Good lighting will enhance any room.",
+      "soundmark": "/ɪnˈhɑːns/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "enormous",
+      "chinese": "巨大的花束",
+      "english": "an enormous bunch of flowers",
+      "soundmark": "/ɪˈnɔːrməs/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "enrich",
+      "chinese": "施上肥料使土壤肥沃。",
+      "english": "Add fertilizer to enrich the soil.",
+      "soundmark": "/ɪnˈrɪtʃ/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 1, "宾语", "NP"],
+        [2, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "enrollment",
+      "chinese": "班级入学，每个学生都有所有的课程安排选择，每个学生都将自己的选择放在 CGTT 中。",
+      "english": "Class enrollment, where each student has all of the course schedule selections, each student having his own bucket in the CGTT.",
+      "soundmark": "/ɪnˈrəʊlmənt/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "谓语动词", "VP"],
+        [6, 6, "宾语", "NP"],
+        [7, 20, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "ensure",
+      "chinese": "确保骑车人安全的设施",
+      "english": "facilities to ensure the safety of cyclists",
+      "soundmark": "/ɪnˈʃʊər/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "entertaining",
+      "chinese": "如今的儿童电视节目要比过去有趣多了。",
+      "english": "Children’s TV nowadays is much more entertaining.",
+      "soundmark": "/ˌentəˈteɪnɪŋ/",
+      "posTags": [[6, 6, "形容词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "系动词", "VP"],
+        [4, 6, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "equal",
+      "chinese": "我们的宪法规定人人平等。",
+      "english": "Our constitution states that all men are equal.",
+      "soundmark": "/ˈiːkwəl/",
+      "posTags": [[7, 7, "形容词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 6, "系动词", "VP"],
+        [7, 7, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "equality",
+      "chinese": "…性别平等。",
+      "english": "...equality of the sexes.",
+      "soundmark": "/ɪˈkwɒləti/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "equivalent",
+      "chinese": "我没有美金，但给了他等值的英镑。",
+      "english": "I had no dollars, but offered him an equivalent amount of sterling.",
+      "soundmark": "/ɪˈkwɪvələnt/",
+      "posTags": [[8, 8, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 9, "宾语", "NP"],
+        [10, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "equivalence",
+      "chinese": "...科学和理性的相等。",
+      "english": "...the equivalence of science and rationality.",
+      "soundmark": "/ɪˈkwɪvələns/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "era",
+      "chinese": "他的去世标志着一个时代的终结。",
+      "english": "His death marked the end of an era.",
+      "soundmark": "/ˈɪərə/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "essay",
+      "chinese": "我们让杰森写一篇关于他家乡的短文。",
+      "english": "We asked Jason to write an essay about his hometown.",
+      "soundmark": "/ˈeseɪ/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "essentially",
+      "chinese": "芭蕾舞基本上是中产阶级感兴趣的东西。",
+      "english": "Ballet is essentially a middle-class interest.",
+      "soundmark": "/ɪˈsenʃəli/",
+      "posTags": [[2, 2, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 5, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "establish",
+      "chinese": "博恩市是德国移民于19世纪40年代建立的。",
+      "english": "The city of Boerne was established by German settlers in the 1840s.",
+      "soundmark": "/ɪˈstæblɪʃ/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 5, "系动词", "VP"],
+        [6, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "esteem",
+      "chinese": "而再往上，我们可能需要自尊和尊重。",
+      "english": "After that, we could go for esteem and respect.",
+      "soundmark": "/ɪˈstiːm/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "谓语动词", "VP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "estimate",
+      "chinese": "估计一下需要多少步才能到达一个近距目标。",
+      "english": "Try to estimate how many steps it will take to get to a close object.",
+      "soundmark": "/ˈestɪmeɪt/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 2, "谓语动词", "VP"],
+        [3, 8, "宾语", "NP"],
+        [9, 14, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "evidence",
+      "chinese": "默罗的证词足以证明海斯犯了谋杀罪。",
+      "english": "Murrow’s evidence was enough to convict Hayes of murder.",
+      "soundmark": "/ˈevɪdəns/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 3, "表语", "NP"],
+        [4, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "evident",
+      "chinese": "显然鲍勃吃午饭吃得津津有味。",
+      "english": "Bob ate his lunch with evident enjoyment.",
+      "soundmark": "/ˈevɪdənt/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [[0, 6, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "evil",
+      "chinese": "她想保护她的孩子不受外界的不良影响。",
+      "english": "She wanted to protect her children from the evils of the outside world.",
+      "soundmark": "/ˈiːvl/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"],
+        [6, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "evolve",
+      "chinese": "学校逐步形成了自己的教学风格。",
+      "english": "The school has evolved its own style of teaching.",
+      "soundmark": "/ɪˈvɒlv/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 6, "宾语", "NP"],
+        [7, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "exaggerate",
+      "chinese": "我三天没睡觉了——一点不夸张。",
+      "english": "I couldn’t sleep for three days – I’m not exaggerating.",
+      "soundmark": "/ɪɡˈzædʒəreɪt/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "excellent",
+      "chinese": "极好的建议",
+      "english": "an excellent suggestion",
+      "soundmark": "/ˈeksələnt/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "exception",
+      "chinese": "天气一直寒冷，但今天是个例外。",
+      "english": "It’s been cold, but today’s an exception.",
+      "soundmark": "/ɪkˈsepʃən/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 6, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "excessive",
+      "chinese": "他的酗酒",
+      "english": "his excessive drinking",
+      "soundmark": "/ɪkˈsesɪv/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "exchange",
+      "chinese": "我用四盒磁带换你的麦当娜激光唱片很公平。",
+      "english": "Four of my cassettes for your Madonna CD is a fair exchange.",
+      "soundmark": "/ɪksˈtʃeɪndʒ/",
+      "posTags": [[11, 11, "动词"]],
+      "syntaxTags": [
+        [0, 7, "主语", "NP"],
+        [8, 8, "系动词", "VP"],
+        [9, 11, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "exclude",
+      "chinese": "不包含奶制品的特别食谱",
+      "english": "a special diet that excludes dairy products",
+      "soundmark": "/ɪkˈskluːd/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [[0, 6, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "expand",
+      "chinese": "水结冰时会膨胀。",
+      "english": "Water expands as it freezes.",
+      "soundmark": "/ɪkˈspænd/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "exploit",
+      "chinese": "开发爱尔兰海资源的迫切需要",
+      "english": "the urgent need to exploit the resources of the Irish Sea",
+      "soundmark": "/ɪkˈsplɔɪt/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "谓语动词", "VP"],
+        [5, 6, "宾语", "NP"],
+        [7, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "explore",
+      "chinese": "管理层需要探讨如何加强办事处的安全措施。",
+      "english": "Management need to explore ways of improving office security.",
+      "soundmark": "/ɪkˈsplɔːr/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 4, "宾语", "NP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "explosion",
+      "chinese": "我们听到一声巨大的爆炸声。",
+      "english": "We heard a loud explosion.",
+      "soundmark": "/ɪkˈspləʊʒən/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "expose",
+      "chinese": "他撩起T恤衫，露出横贯胸部的锯齿状伤疤。",
+      "english": "He lifted his T-shirt to expose a jagged scar across his chest.",
+      "soundmark": "/ɪkˈspəʊz/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "exposure",
+      "chinese": "已知接触铅会损害幼童的大脑。",
+      "english": "Exposure to lead is known to damage the brains of young children.",
+      "soundmark": "/ɪkˈspəʊʒər/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 6, "谓语动词", "VP"],
+        [7, 8, "宾语", "NP"],
+        [9, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "expressiveness",
+      "chinese": "此外，它更具表现力，这有助于“简化复杂任务”。",
+      "english": "Moreover, it offers the expressiveness which helps to “simplify complex tasks”.",
+      "soundmark": "/ɪkˈspresɪvnɪs/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 6, "宾语", "NP"],
+        [7, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "extension",
+      "chinese": "增建的阁楼",
+      "english": "a loft extension",
+      "soundmark": "/ɪkˈstenʃən/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "extracurricular",
+      "chinese": "每个孩子都参加了学校的课外活动。",
+      "english": "Each child had participated in extracurricular activities at school.",
+      "soundmark": "/ˌekstrəkəˈrɪkjələr/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "facility",
+      "chinese": "什么娱乐设施现在是可用的？",
+      "english": "What recreational facilities are now available?",
+      "soundmark": "/fəˈsɪləti/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [[0, 5, "疑问句", "Question"]]
+    },
+    {
+      "word": "faith",
+      "chinese": "人们已失去了对政府的信心。",
+      "english": "People have lost faith in the government.",
+      "soundmark": "/feɪθ/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "familiar",
+      "chinese": "熟悉的曲调",
+      "english": "a familiar tune",
+      "soundmark": "/fəˈmɪljər/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "fantasize",
+      "chinese": "我曾幻想作曲。",
+      "english": "I fantasized about writing music.",
+      "soundmark": "/ˈfæntəsaɪz/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "fascinate",
+      "chinese": "穿越时光的想法深深吸引着我。",
+      "english": "The idea of travelling through time fascinates me.",
+      "soundmark": "/ˈfæsɪneɪt/",
+      "posTags": [[6, 6, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "fascination",
+      "chinese": "吸引力就在于这神秘感——不知道盒子里是什么东西。",
+      "english": "The fascination lay in the mystery of what was inside the box.",
+      "soundmark": "/ˌfæsɪˈneɪʃən/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "fatal",
+      "chinese": "潜在致命的疾病",
+      "english": "potentially fatal diseases",
+      "soundmark": "/ˈfeɪtl/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "fate",
+      "chinese": "就算是我不共戴天的仇敌，我也不希望他遭遇这样的命运。",
+      "english": "I wouldn’t wish such a fate on my worst enemy.",
+      "soundmark": "/feɪt/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [[0, 9, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "fatigue",
+      "chinese": "金属疲劳",
+      "english": "{\"COLLOINEXA\":[\"metal fatigue\"]}",
+      "soundmark": "/fəˈtiːɡ/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 1, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "feasible",
+      "chinese": "可行的解决方法",
+      "english": "a feasible solution",
+      "soundmark": "/ˈfiːzəbl/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "feature",
+      "chinese": "气囊是大多数新车的标准配置。",
+      "english": "Air bags are a standard feature in most new cars.",
+      "soundmark": "/ˈfiːtʃər/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 5, "表语", "NP"],
+        [6, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "feedback",
+      "chinese": "我怎样才能提出反馈意见又不会得罪人呢？",
+      "english": "How can I provide feedback without making someone angry?",
+      "soundmark": "/ˈfiːdbæk/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 8, "疑问句", "Question"]]
+    },
+    {
+      "word": "fiction",
+      "chinese": "爱情小说",
+      "english": "romantic fiction",
+      "soundmark": "/ˈfɪkʃən/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 1, "名词短语/固定搭配", "NP"]]
+    }
+  ]
+}

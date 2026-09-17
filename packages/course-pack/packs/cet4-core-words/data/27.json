@@ -1,0 +1,536 @@
+{
+  "title": "Unit 27: 四级核心词汇（athlete ~ bang）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "athlete",
+      "chinese": "一位专业运动员",
+      "english": "a professional athlete",
+      "soundmark": "/'æθlit/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "Atlantic",
+      "chinese": "他们在大西洋海底铺设了一条电缆。",
+      "english": "They underlaid the Atlantic with a cable.",
+      "soundmark": "/ət'læntɪk/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [[0, 6, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "atmospheric",
+      "chinese": "大气压力",
+      "english": "atmospheric pressure",
+      "soundmark": "/,ætməs'fɛrɪk/",
+      "posTags": [[0, 0, "形容词"]],
+      "syntaxTags": [[0, 1, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "atom",
+      "chinese": "碳原子",
+      "english": "carbon atoms",
+      "soundmark": "/'ætəm/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 1, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "atomic",
+      "chinese": "核潜艇",
+      "english": "an atomic submarine",
+      "soundmark": "/ə'tɑmɪk/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "attach",
+      "chinese": "我们在把东西归档前先给它们贴上标签。",
+      "english": "We attach labels to things before we file them away.",
+      "soundmark": "/ə'tætʃ/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "attack",
+      "chinese": "国王命令他们向城堡发起进攻。",
+      "english": "The king hight them to attack the castle.",
+      "soundmark": "",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "谓语动词", "VP"],
+        [6, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "attain",
+      "chinese": "越来越多的女性获得要职。",
+      "english": "More women are attaining positions of power.",
+      "soundmark": "/ə'ten/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 4, "表语", "NP"],
+        [5, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "attend",
+      "chinese": "只有12个人出席了会议。",
+      "english": "Only 12 people attended the meeting.",
+      "soundmark": "/ə'tɛnd/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "attention",
+      "chinese": "我的注意力其实不在比赛上。",
+      "english": "My attention wasn’t really on the game.",
+      "soundmark": "/ə'tɛnʃən/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 6, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "attentive",
+      "chinese": "聚精会神的听众",
+      "english": "an attentive audience",
+      "soundmark": "/ə'tɛntɪv/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "attitude",
+      "chinese": "他们一听说我是医生，态度就完全改变了。",
+      "english": "As soon as they found out I was a doctor, their whole attitude changed.",
+      "soundmark": "/'ætɪtʊd/",
+      "posTags": [[12, 12, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "attract",
+      "chinese": "我一般不喜欢金发女子。",
+      "english": "I’m not usually attracted to blondes.",
+      "soundmark": "/ə'trækt/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "谓语动词", "VP"],
+        [5, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "attraction",
+      "chinese": "美丽的海滩是这个岛上的主要魅力所在。",
+      "english": "The beautiful beaches are the island’s main attraction (=  most popular place, activity etc  ) .",
+      "soundmark": "/ə'trækʃən/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "系动词", "VP"],
+        [4, 15, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "attractive",
+      "chinese": "妩媚动人的年轻女子",
+      "english": "an attractive young woman",
+      "soundmark": "/ə'træktɪv/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "audience",
+      "chinese": "观众开始鼓掌欢呼。",
+      "english": "The audience began clapping and cheering.",
+      "soundmark": "/'ɔdɪəns/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "August",
+      "chinese": "全球首映是在1956年8月。",
+      "english": "The world premiere took place in August 1956.",
+      "soundmark": "/ɔɡəst/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 4, "宾语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "aunt",
+      "chinese": "玛丽姑妈",
+      "english": "Aunt Mary",
+      "soundmark": "/ænt/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [[0, 1, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "aural",
+      "chinese": "听觉刺激",
+      "english": "an aural stimulus",
+      "soundmark": "",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "Australia",
+      "chinese": "他把家迁到澳大利亚。",
+      "english": "He transplanted his family to Australia.",
+      "soundmark": "/ɔ'streljə/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "Australian",
+      "chinese": "她在澳大利亚内陆独自背包旅行了八个月。",
+      "english": "She went solo backpacking for eight months in the Australian outback.",
+      "soundmark": "/ɑ'strelɪən/",
+      "posTags": [[9, 9, "形容词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "author",
+      "chinese": "诺东是位比利时作家。",
+      "english": "Nothomb is a Belgian author.",
+      "soundmark": "/'ɔθɚ/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 4, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "authority",
+      "chinese": "美国和哥伦比亚当局的一份协议",
+      "english": "an agreement between the US and Colombian authorities",
+      "soundmark": "/ə'θɔrəti/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [[0, 7, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "auto",
+      "chinese": "汽车工业",
+      "english": "the auto industry",
+      "soundmark": "/'ɔto/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "automation",
+      "chinese": "他们逐步采用新机器以提高自动化程度。",
+      "english": "They phrase in new machinery for increased automation.",
+      "soundmark": "/,ɔtə'meʃən/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 6, "谓语动词", "VP"],
+        [7, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "automobile",
+      "chinese": "汽车工业",
+      "english": "the automobile industry",
+      "soundmark": "/,ɔtəmə'bil/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "autumn",
+      "chinese": "秋天的雾霭",
+      "english": "autumn mists",
+      "soundmark": "/'ɔtəm/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [[0, 1, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "auxiliary",
+      "chinese": "助理护士",
+      "english": "an auxiliary nurse",
+      "soundmark": "/ɔːɡ'zɪlɪəri/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "avenue",
+      "chinese": "第五大街",
+      "english": "Fifth Avenue",
+      "soundmark": "/'ævənu/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 1, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "await",
+      "chinese": "几个人因抢劫正在候审。",
+      "english": "Several men are awaiting trial for robbery.",
+      "soundmark": "/ə'wet/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 4, "表语", "NP"],
+        [5, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "awake",
+      "chinese": "我希望他现在醒着。",
+      "english": "I hope he’s awake now.",
+      "soundmark": "/ə'wek/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "aware",
+      "chinese": "布雷利先生被告知需要绝对保密。",
+      "english": "Mr Braley has been made aware of the need for absolute secrecy.",
+      "soundmark": "/ə'wɛr/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "谓语动词", "VP"],
+        [5, 5, "宾语", "NP"],
+        [6, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "away",
+      "chinese": "黛娜一边哭一边慢慢地开车走了。",
+      "english": "Dinah was crying as she drove slowly away.",
+      "soundmark": "/əˈwe/",
+      "posTags": [[7, 7, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 7, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "awkward",
+      "chinese": "我希望他不要再问令人难堪的问题。",
+      "english": "I hoped he would stop asking awkward questions .",
+      "soundmark": "/'ɔkwɚd/",
+      "posTags": [[6, 6, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "ax",
+      "chinese": "他在磨石上磨斧。",
+      "english": "He grinds ax on the grindstone.",
+      "soundmark": "/æks/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "axis",
+      "chinese": "地球绕着南北两极之间的地轴自转。",
+      "english": "The Earth rotates on an axis between the north and south poles.",
+      "soundmark": "/'æksɪs/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "baby",
+      "chinese": "宝宝在哭。",
+      "english": "The baby is crying.",
+      "soundmark": "/bebɪ/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"]
+      ]
+    },
+    {
+      "word": "back",
+      "chinese": "我马上回来。",
+      "english": "I’ll be back in a minute.",
+      "soundmark": "/bæk/",
+      "posTags": [[2, 2, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 2, "表语", "NP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "bad",
+      "chinese": "我有坏消息要告诉你。",
+      "english": "I have some bad news for you.",
+      "soundmark": "/bæd/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "badly",
+      "chinese": "出了那次滑雪事故以后，他的腿跛得很厉害。",
+      "english": "He’s been limping badly ever since the skiing accident.",
+      "soundmark": "/'bædli/",
+      "posTags": [[3, 3, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 8, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "badminton",
+      "chinese": "我可以试用你的羽毛球拍吗？",
+      "english": "Can I try you new badminton racket?",
+      "soundmark": "/'bædmɪntən/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [[0, 6, "疑问句", "Question"]]
+    },
+    {
+      "word": "bag",
+      "chinese": "她拎着一个购物袋离开了宾馆。",
+      "english": "She left the hotel carrying a shopping bag.",
+      "soundmark": "/bæɡ/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "baggage",
+      "chinese": "在服务台托运行李。",
+      "english": "Check your baggage in at the desk.",
+      "soundmark": "/'bæɡɪdʒ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 2, "宾语", "NP"],
+        [3, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "bake",
+      "chinese": "我在烤一些面包。",
+      "english": "I’m baking some bread.",
+      "soundmark": "/bek/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "balance",
+      "chinese": "制造业职位减少了，而服务行业就业机会却增加了，正好相抵。",
+      "english": "Job losses in manufacturing were balanced by job increases in the service sector.",
+      "soundmark": "/'bæləns/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 5, "谓语动词", "VP"],
+        [6, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "ball",
+      "chinese": "线团",
+      "english": "a ball of string",
+      "soundmark": "/bɔl/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "balloon",
+      "chinese": "你帮我把这些气球吹起来好吗？",
+      "english": "Can you help me blow up these balloons?",
+      "soundmark": "/bə'lun/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [[0, 7, "疑问句", "Question"]]
+    },
+    {
+      "word": "banana",
+      "chinese": "…一串香蕉。",
+      "english": "...a bunch of bananas.",
+      "soundmark": "/bə'nænə/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "band",
+      "chinese": "乐队正在演奏披头士的老歌。",
+      "english": "The band was playing old Beatles songs.",
+      "soundmark": "/bænd/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 6, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "bang",
+      "chinese": "头上一记猛烈的撞击",
+      "english": "a bang on the head",
+      "soundmark": "/bæŋ/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"]
+      ]
+    }
+  ]
+}

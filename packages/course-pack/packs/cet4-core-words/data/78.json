@@ -1,0 +1,575 @@
+{
+  "title": "Unit 78: 四级核心词汇（successive ~ thrive）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "successive",
+      "chinese": "这支球队已经连胜五场了。",
+      "english": "The team has had five successive victories.",
+      "soundmark": "/sək'sɛsɪv/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "suck",
+      "chinese": "不要吮大拇指，宝贝。",
+      "english": "Don’t suck your thumb, dear.",
+      "soundmark": "/sʌk/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 3, "祈使句式", "Imperative"],
+        [4, 4, "补充陈述分句", "Sentence"]
+      ]
+    },
+    {
+      "word": "suit",
+      "chinese": "约翰逊对她提起了诉讼。",
+      "english": "Johnson has filed suit against her.",
+      "soundmark": "/suːt/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "sulphur",
+      "chinese": "燃烧的硫磺会产生有毒烟雾。",
+      "english": "Burning sulphur creates poisonous fumes.",
+      "soundmark": "/'sʌlfə/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "sum",
+      "chinese": "他欠我一大笔钱。",
+      "english": "He owes me a large sum of money .",
+      "soundmark": "/sʌm/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "宾语", "NP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "summarize",
+      "chinese": "作者在序言里概述了他们的观点。",
+      "english": "The authors summarize their views in the introduction.",
+      "soundmark": "/'sʌməraɪz/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "supplement",
+      "chinese": "各种维生素和其他膳食补充剂",
+      "english": "vitamins and other dietary supplements",
+      "soundmark": "/'sʌplɪmənt/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "supreme",
+      "chinese": "欧洲盟军最高指挥官",
+      "english": "the Supreme Allied Commander in Europe",
+      "soundmark": "/suˈprim/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "surgery",
+      "chinese": "汉森医生在手术室。",
+      "english": "Dr. Hanson is in surgery.",
+      "soundmark": "/'sɝdʒəri/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "surrender",
+      "chinese": "纳贾不得不填写表格，放弃对她财产的所有权利。",
+      "english": "Nadja had to fill out forms surrendering all rights to her property.",
+      "soundmark": "/sə'rɛndɚ/",
+      "posTags": [[6, 6, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "surroundings",
+      "chinese": "我需要在舒适的环境下工作。",
+      "english": "I need to work in pleasant surroundings.",
+      "soundmark": "/sə'raʊndɪŋz/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "survive",
+      "chinese": "一旦推行市场经济，很多工厂将无法存活下去。",
+      "english": "When the market economy is introduced, many factories will not survive.",
+      "soundmark": "/sɚ'vaɪv/",
+      "posTags": [[10, 10, "动词"]],
+      "syntaxTags": [[0, 10, "疑问句", "Question"]]
+    },
+    {
+      "word": "suspend",
+      "chinese": "…悬挂在电缆上的仪器。",
+      "english": "...instruments that are suspended on cables.",
+      "soundmark": "/sə'spɛnd/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "suspicious",
+      "chinese": "他不愿回答我的问题，这引起我的怀疑。",
+      "english": "His reluctance to answer my questions made me suspicious .",
+      "soundmark": "/sə'spɪʃəs/",
+      "posTags": [[8, 8, "形容词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 9, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "swear",
+      "chinese": "记住你已经宣过誓了，所以必须讲真话。",
+      "english": "Remember that you have sworn an oath and so must tell the truth.",
+      "soundmark": "/swɛr/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 12, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "sweep",
+      "chinese": "伯特清扫了屋前的小路。",
+      "english": "Bert swept the path in front of the house.",
+      "soundmark": "/swip/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [[0, 8, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "swell",
+      "chinese": "风鼓起了船帆。",
+      "english": "The wind swelled the sails.",
+      "soundmark": "/swɛl/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "swing",
+      "chinese": "边走边摆动双臂。",
+      "english": "Let your arms swing as you walk.",
+      "soundmark": "/swɪŋ/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [[0, 6, "祈使句式", "Imperative"]]
+    },
+    {
+      "word": "sword",
+      "chinese": "这个条约好像一把达摩克利斯之剑悬在法国政坛之上。",
+      "english": "The treaty hung like a sword of Damocles over French politics.",
+      "soundmark": "/sɔːrd/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"],
+        [6, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "sympathetic",
+      "chinese": "一个有同情心的朋友",
+      "english": "a sympathetic friend",
+      "soundmark": "/,sɪmpə'θɛtɪk/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "sympathize",
+      "chinese": "我很同情，但不知道如何帮忙。",
+      "english": "I sympathize, but I don’t know how to help.",
+      "soundmark": "/'sɪmpə'θaɪz/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"],
+        [7, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "systematical",
+      "chinese": "有极强的系统管理能力。",
+      "english": "Excellent ability of systematical management.",
+      "soundmark": "",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "tag",
+      "chinese": "工作人员戴着姓名标签，对同僚直呼其名。",
+      "english": "Staff wore name tags and called inmates by their first names.",
+      "soundmark": "/tæɡ/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 6, "宾语", "NP"],
+        [7, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "tale",
+      "chinese": "日本古老民间故事书",
+      "english": "a book of old Japanese folk tales",
+      "soundmark": "/tel/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "talent",
+      "chinese": "他很有天赋，作品新颖有趣。",
+      "english": "He has a lot of talent , and his work is fresh and interesting.",
+      "soundmark": "/'tælənt/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "talk",
+      "chinese": "我听到萨拉和安迪在隔壁讲话。",
+      "english": "I could hear Sarah and Andy talking in the next room.",
+      "soundmark": "/tɔk/",
+      "posTags": [[6, 6, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 6, "宾语", "NP"],
+        [7, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "tame",
+      "chinese": "驯养的大象",
+      "english": "tame elephants",
+      "soundmark": "/teɪm/",
+      "posTags": [[0, 0, "形容词"]],
+      "syntaxTags": [[0, 1, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "tap",
+      "chinese": "他紧张地用手指轻轻地敲打桌子。",
+      "english": "He tapped the table nervously with his fingers.",
+      "soundmark": "/tæp/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "taste",
+      "chinese": "我觉得它毫无滋味。",
+      "english": "It palls on my taste.",
+      "soundmark": "/test/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "telegram",
+      "chinese": "总裁收到了一份电报简报。",
+      "english": "The president received a briefing by telegram.",
+      "soundmark": "/'tɛlɪɡræm/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "telescope",
+      "chinese": "船长正在调他的望远镜。",
+      "english": "The captain was rectifying his telescope.",
+      "soundmark": "/'tɛlɪskop/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 5, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "temporary",
+      "chinese": "疼痛的暂时缓解",
+      "english": "temporary pain relief",
+      "soundmark": "/'tɛmpə'rɛri/",
+      "posTags": [[0, 0, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "tempt",
+      "chinese": "如果把贵重物品留在车上，会招来小偷的。",
+      "english": "If you leave valuables in your car it will tempt thieves.",
+      "soundmark": "/tɛmpt/",
+      "posTags": [[9, 9, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "tend",
+      "chinese": "索菲娅在卧室里照料她的儿子。",
+      "english": "Sofia was in the bedroom tending to her son.",
+      "soundmark": "/tɛnd/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "tendency",
+      "chinese": "具有攻击性倾向或反社会倾向的儿童",
+      "english": "children with aggressive or anti-social tendencies",
+      "soundmark": "/'tɛndənsi/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "tender",
+      "chinese": "把肉一直烧到松软为止。",
+      "english": "Continue cooking until the meat is tender.",
+      "soundmark": "/'tɛndɚ/",
+      "posTags": [[6, 6, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "tense",
+      "chinese": "就好像科琳已经死了似的：他们当时在用过去时态谈起她。",
+      "english": "It was as though Corinne was already dead: they were speaking of her in the past tense.",
+      "soundmark": "/tɛns/",
+      "posTags": [[16, 16, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 10, "表语", "NP"],
+        [11, 16, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "terrible",
+      "chinese": "这家宾馆糟糕透了。",
+      "english": "The hotel was absolutely terrible.",
+      "soundmark": "/'tɛrəbl/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 4, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "terror",
+      "chinese": "他脸上的表情异常惊恐。",
+      "english": "There was a look of sheer terror (= complete terror ) on his face.",
+      "soundmark": "/'tɛrɚ/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 3, "表语", "NP"],
+        [4, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "textile",
+      "chinese": "他们的主要出口商品是纺织品，尤其是丝绸和棉布。",
+      "english": "Their main exports are textiles, especially silk and cotton.",
+      "soundmark": "/'tɛkstaɪl/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "theoretical",
+      "chinese": "亚里士多德有关宇宙的理论模型",
+      "english": "Aristotle’s theoretical model of the universe",
+      "soundmark": "/,θiə'rɛtɪkəl/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "thereby",
+      "chinese": "我们的身体会流汗，由此能通过蒸发散热。",
+      "english": "Our bodies can sweat, thereby losing heat by evaporation.",
+      "soundmark": "/,ðɛr'baɪ/",
+      "posTags": [[4, 4, "副词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 6, "宾语", "NP"],
+        [7, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "therefore",
+      "chinese": "他们的车大些，所以更舒适些。",
+      "english": "Their car was bigger and therefore more comfortable.",
+      "soundmark": "/'ðɛrfɔr/",
+      "posTags": [[5, 5, "副词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 7, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "thermometer",
+      "chinese": "温度计显示高于100摄氏度。",
+      "english": "The thermometer registered over 100˚C.",
+      "soundmark": "/θɚ'mɑmɪtɚ/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "thickness",
+      "chinese": "墙体厚度为5英尺。",
+      "english": "The thickness of the walls is 5 feet.",
+      "soundmark": "/ˈθɪknɪs/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "系动词", "VP"],
+        [6, 7, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "thorough",
+      "chinese": "医生给他做了一次全面的体检。",
+      "english": "The doctor gave him a thorough check-up.",
+      "soundmark": "/ˈθʌrəʊ; θʌro/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "thoughtful",
+      "chinese": "保罗非常体贴人。",
+      "english": "Paul is very thoughtful.",
+      "soundmark": "/'θɔtfl/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 3, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "thread",
+      "chinese": "我在找针线。",
+      "english": "I’m looking for a needle and thread.",
+      "soundmark": "/θrɛd/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "threat",
+      "chinese": "你的那些威胁吓不倒我。",
+      "english": "Your threats don’t scare me.",
+      "soundmark": "/θrɛt/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "thrive",
+      "chinese": "在热带雨林蓬勃生长的植物",
+      "english": "plants that thrive in tropical rain forests",
+      "soundmark": "/θraɪv/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "谓语动词", "VP"],
+        [6, 6, "宾语", "NP"]
+      ]
+    }
+  ]
+}

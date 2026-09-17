@@ -1,0 +1,555 @@
+{
+  "title": "Unit 69: 四级核心词汇（pilot ~ poor）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "pilot",
+      "chinese": "航空公司飞行员",
+      "english": "an airline pilot",
+      "soundmark": "/'paɪlət/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "pin",
+      "chinese": "…项链、手镯和胸针。",
+      "english": "...necklaces, bracelets, and pins.",
+      "soundmark": "/pɪn/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "pinch",
+      "chinese": "我们不能让她再掐她小弟弟了。",
+      "english": "We have to stop her pinching her baby brother.",
+      "soundmark": "/pɪntʃ/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "pine",
+      "chinese": "一片古老的松树林",
+      "english": "an ancient pine forest",
+      "soundmark": "/paɪn/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "pink",
+      "chinese": "她的房间装饰成明亮的粉红色和紫色。",
+      "english": "Her room was decorated in bright pinks and purples.",
+      "soundmark": "/pɪŋk/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "pint",
+      "chinese": "他去小酒馆匆匆喝上一品脱啤酒。",
+      "english": "He’s gone down the pub for a quick pint.",
+      "soundmark": "/paɪnt/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [[0, 8, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "pipe",
+      "chinese": "水管",
+      "english": "a water pipe",
+      "soundmark": "/paɪp/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "pit",
+      "chinese": "抗议关闭煤矿井的全国性罢工",
+      "english": "a national strike against pit closures",
+      "soundmark": "/pɪt/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "pitch",
+      "chinese": "夜晚一片漆黑。",
+      "english": "The night was as black as pitch (= very dark ) .",
+      "soundmark": "/pɪtʃ/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 11, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "pity",
+      "chinese": "乔伊斯没有受到邀请太遗憾了。",
+      "english": "It’s a great pity Joyce wasn’t invited.",
+      "soundmark": "/'pɪti/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "place",
+      "chinese": "一定要把钥匙放在安全的地方。",
+      "english": "Make sure you keep the key in a safe place.",
+      "soundmark": "/ples/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 5, "宾语", "NP"],
+        [6, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "plain",
+      "chinese": "青草覆盖的平原被广阔的沼泽地所取代。",
+      "english": "The grassy plain gave way to an extensive swamp.",
+      "soundmark": "/plen/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 4, "宾语", "NP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "plan",
+      "chinese": "你周末有什么打算？",
+      "english": "Do you have any plans for the weekend?",
+      "soundmark": "/plæn/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [[0, 7, "疑问句", "Question"]]
+    },
+    {
+      "word": "plane",
+      "chinese": "这是一家大航空公司，拥有庞大的机群。",
+      "english": "It is a big airline with a large fleet of planes.",
+      "soundmark": "/plen/",
+      "posTags": [[10, 10, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 4, "表语", "NP"],
+        [5, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "plantation",
+      "chinese": "橡胶园",
+      "english": "a rubber plantation",
+      "soundmark": "/plæn'teʃən/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "plate",
+      "chinese": "安妮塔把盘子推开；她其实什么都没吃。",
+      "english": "Anita pushed her plate away; she had eaten virtually nothing.",
+      "soundmark": "/pleɪt/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 9, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "platform",
+      "chinese": "开往爱丁堡的火车将从六号站台发车。",
+      "english": "The Edinburgh train will depart from platform six.",
+      "soundmark": "/'plæt'fɔrm/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "谓语动词", "VP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "play",
+      "chinese": "孩子们在互相追逐嬉闹。",
+      "english": "Kids were playing and chasing each other.",
+      "soundmark": "/ple/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 6, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "player",
+      "chinese": "一名吉他手",
+      "english": "a guitar player",
+      "soundmark": "/'pleɚ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "playground",
+      "chinese": "在操场上叫嚷奔跑的孩子们",
+      "english": "children shouting and running in the playground",
+      "soundmark": "/'ple'graʊnd/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "pleasant",
+      "chinese": "那是个愉快的夜晚。",
+      "english": "It had been a pleasant evening.",
+      "soundmark": "/'plɛznt/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "please",
+      "chinese": "希望让顾客满意的一家公司",
+      "english": "a business that wants to please its customers",
+      "soundmark": "/pliz/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "谓语动词", "VP"],
+        [6, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "pleasure",
+      "chinese": "生活中的简单乐趣",
+      "english": "the simple pleasures of life",
+      "soundmark": "/ˈplɛʒɚ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "plentiful",
+      "chinese": "食物的大量供应",
+      "english": "a plentiful supply of food",
+      "soundmark": "/'plɛntɪfəl/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "plenty",
+      "chinese": "一片富饶的土地",
+      "english": "a land of plenty",
+      "soundmark": "/'plɛnti/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "plot",
+      "chinese": "一块两英亩的土地",
+      "english": "a two-acre plot of land",
+      "soundmark": "/plɑt/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "plough",
+      "chinese": "机器设备场里有新拖拉机和新耕犁。",
+      "english": "There are new tractors and new ploughs in the machinery lot.",
+      "soundmark": "/plaʊ/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 6, "表语", "NP"],
+        [7, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "plug",
+      "chinese": "浴缸塞子",
+      "english": "the bath plug",
+      "soundmark": "/plʌɡ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "plunge",
+      "chinese": "该政府的政治和经济改革有可能使这个国家陷入混乱之中。",
+      "english": "The government's political and economic reforms threaten to plunge the country into chaos.",
+      "soundmark": "/plʌndʒ/",
+      "posTags": [[8, 8, "动词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 8, "谓语动词", "VP"],
+        [9, 10, "宾语", "NP"],
+        [11, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "plural",
+      "chinese": "“”是“”的拉丁语复数形式。",
+      "english": "\"Data\" is the Latin plural form of \"datum.\"",
+      "soundmark": "/'plʊrəl/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 5, "表语", "NP"],
+        [6, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "plus",
+      "chinese": "3 加6等于9。",
+      "english": "Three plus six equals nine (3+6=9).",
+      "soundmark": "/plʌs/",
+      "posTags": [[1, 1, "介词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "pocket",
+      "chinese": "卢克走了进来，双手插在口袋里。",
+      "english": "Luke came in with his hands in his pockets.",
+      "soundmark": "/'pɑkɪt/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [[0, 8, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "poem",
+      "chinese": "…一本爱情诗集。",
+      "english": "...a book of love poems.",
+      "soundmark": "/'poəm/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "poet",
+      "chinese": "他是一位画家兼诗人。",
+      "english": "He was a painter and poet.",
+      "soundmark": "/'poət/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 5, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "poetry",
+      "chinese": "他大量阅读诗歌。",
+      "english": "He reads a lot of poetry.",
+      "soundmark": "/'poətri/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "point",
+      "chinese": "那个观点很有趣。",
+      "english": "That’s a very interesting point.",
+      "soundmark": "/pɔɪnt/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "pole",
+      "chinese": "电话线杆",
+      "english": "a telephone pole",
+      "soundmark": "/pol/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "police",
+      "chinese": "警察围在法院大楼四周。",
+      "english": "Police surrounded the courthouse.",
+      "soundmark": "/pə'lis/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "policeman",
+      "chinese": "他设法用金钱向警察行贿。",
+      "english": "He tried to corrupt the policeman with money.",
+      "soundmark": "/pə'lismən/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"],
+        [6, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "policy",
+      "chinese": "…包括外交政策调整和经济改革的计划。",
+      "english": "...plans that include changes in foreign policy and economic reforms.",
+      "soundmark": "/'pɑləsi/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 3, "宾语", "NP"],
+        [4, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "polish",
+      "chinese": "他们只需要改进一下自己的技艺。",
+      "english": "They just need to polish their technique.",
+      "soundmark": "/'pɑlɪʃ/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "谓语动词", "VP"],
+        [5, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "polite",
+      "chinese": "她总是很有礼貌。",
+      "english": "She’s always very polite.",
+      "soundmark": "/pə'laɪt/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "political",
+      "chinese": "那里的其他所有政党都已经完全被取缔了。",
+      "english": "All other political parties there have been completely banned.",
+      "soundmark": "/pə'lɪtɪkl/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 6, "谓语动词", "VP"],
+        [7, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "politician",
+      "chinese": "努力争取少数族群选票的政治家",
+      "english": "politicians who are trying to get the minority vote",
+      "soundmark": "/,pɑlə'tɪʃən/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 5, "谓语动词", "VP"],
+        [6, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "politics",
+      "chinese": "对中国政治很好的了解",
+      "english": "a good understanding of politics in China",
+      "soundmark": "/'pɑlətɪks/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "pollute",
+      "chinese": "受未经处理的污水污染的海滩",
+      "english": "beaches polluted by raw sewage",
+      "soundmark": "/pə'lut/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "pollution",
+      "chinese": "加利福尼亚州严厉的反污染法",
+      "english": "California’s tough anti-pollution laws",
+      "soundmark": "/pə'luʃən/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "pond",
+      "chinese": "小路下斜通到池塘。",
+      "english": "The path descends to  the pond.",
+      "soundmark": "/pɑnd/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "pool",
+      "chinese": "他们后院有个漂亮的游泳池。",
+      "english": "They have a nice pool in their backyard.",
+      "soundmark": "/pul/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "poor",
+      "chinese": "她家穷得甚至买不起新衣服给她。",
+      "english": "Her family were so poor they couldn’t afford to buy her new clothes.",
+      "soundmark": "/pʊr/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 7, "表语", "NP"],
+        [8, 12, "状语修饰", "PP"]
+      ]
+    }
+  ]
+}

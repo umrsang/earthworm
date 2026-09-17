@@ -1,0 +1,574 @@
+{
+  "title": "Unit 16: 四级核心词汇（triumph ~ vary）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "triumph",
+      "chinese": "赢得冠军是伟大的个人成就。",
+      "english": "Winning the championship is a great personal triumph .",
+      "soundmark": "/'traɪʌmf/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "tuition",
+      "chinese": "我不得不上数学补习课。",
+      "english": "I had to have extra tuition in maths.",
+      "soundmark": "/tʊ'ɪʃən/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"],
+        [6, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "tumor",
+      "chinese": "这个肿瘤很快就会消掉的。",
+      "english": "The tumor will soon be resolved.",
+      "soundmark": "/'tjʊmɚ/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "ultimately",
+      "chinese": "最终，决定权在这孩子的父母手中。",
+      "english": "Ultimately, the decision rests with the child’s parents.",
+      "soundmark": "/'ʌltɪmətli/",
+      "posTags": [[0, 0, "副词"]],
+      "syntaxTags": [[0, 7, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "unaffordable",
+      "chinese": "制药业者坐拥很多现金,进行收购的资本雄厚,你必须变成让人买不起的超大公司.",
+      "english": "You have to become awfully large to be unaffordable -- there's lots of cash, lots of capital out there for acquisitions.",
+      "soundmark": "/ˌʌnə'fɔ:dəbl/",
+      "posTags": [[8, 8, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"],
+        [6, 20, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "uncertain",
+      "chinese": "现在我的前途似乎是个未知数。",
+      "english": "My whole future now seemed uncertain.",
+      "soundmark": "/ʌn'sɝtn/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "undermine",
+      "chinese": "持续的战斗有可能破坏通过谈判达成协议的努力。",
+      "english": "The continued fighting threatens to undermine efforts to negotiate an agreement.",
+      "soundmark": "/'ʌndɚ'maɪn/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 5, "谓语动词", "VP"],
+        [6, 6, "宾语", "NP"],
+        [7, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "unique",
+      "chinese": "研究这些珍稀动物的难得机会",
+      "english": "a unique opportunity to study these rare creatures",
+      "soundmark": "/jʊ'nik/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 7, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "universal",
+      "chinese": "免费的全民保健制度",
+      "english": "free universal healthcare",
+      "soundmark": "/'jʊnə'vɝsl/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "upbringing",
+      "chinese": "迈克从小家教很严。",
+      "english": "Mike had had a strict upbringing.",
+      "soundmark": "/'ʌpbrɪŋɪŋ/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "update",
+      "chinese": "这些档案需要更新。",
+      "english": "The files need updating.",
+      "soundmark": "/,ʌp'det/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "valid",
+      "chinese": "有效信用卡",
+      "english": "a valid credit card",
+      "soundmark": "/'vælɪd/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "value",
+      "chinese": "谢利很重视自己的隐私。",
+      "english": "Shelley valued her privacy.",
+      "soundmark": "/'vælju/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "vanish",
+      "chinese": "我的钥匙刚刚还在这里，现在却不翼而飞了。",
+      "english": "My keys were here a minute ago but now they’ve vanished.",
+      "soundmark": "/'vænɪʃ/",
+      "posTags": [[10, 10, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 10, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "variety",
+      "chinese": "这些女孩出身背景各不相同。",
+      "english": "The girls come from a variety of different backgrounds.",
+      "soundmark": "/və'raɪəti/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "vehicle",
+      "chinese": "对被盗车辆的描述",
+      "english": "a description of the stolen vehicle",
+      "soundmark": "/'viːɪkl/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "version",
+      "chinese": "疯牛病的人类变体",
+      "english": "the human version of mad cow disease",
+      "soundmark": "/'vɝʒn/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 6, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "view",
+      "chinese": "在影片公映之前观影的机会",
+      "english": "an opportunity to view the film before it goes on general release",
+      "soundmark": "/vju/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"],
+        [6, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "violate",
+      "chinese": "34名抗议者因违反刑法而被逮捕。",
+      "english": "34 protesters were arrested for violating criminal law.",
+      "soundmark": "/'vaɪəlet/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "virtually",
+      "chinese": "几乎所有的孩子都乘公交车上学。",
+      "english": "Virtually all the children come to school by bus.",
+      "soundmark": "/ˈvɜrtʃuəli/",
+      "posTags": [[0, 0, "副词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 5, "谓语动词", "VP"],
+        [6, 6, "宾语", "NP"],
+        [7, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "virus",
+      "chinese": "感染艾滋病病毒的儿童",
+      "english": "children infected with the Aids virus",
+      "soundmark": "/'vaɪrəs/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "visibility",
+      "chinese": "道路能见度因浓雾降至20米。",
+      "english": "Visibility on the roads is down to 20 metres due to heavy fog.",
+      "soundmark": "/'vɪzə'bɪləti/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "系动词", "VP"],
+        [5, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "visible",
+      "chinese": "检查一下植物是否有患病的迹象。",
+      "english": "Check the plant for any visible signs of disease.",
+      "soundmark": "/'vɪzəbl/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 2, "宾语", "NP"],
+        [3, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "vital",
+      "chinese": "她所做的工作至关重要。",
+      "english": "The work she does is absolutely vital.",
+      "soundmark": "/'vaɪtl/",
+      "posTags": [[6, 6, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "vocabulary",
+      "chinese": "他的词汇量给老师们留下了深刻的印象。",
+      "english": "Teachers were impressed by his vocabulary.",
+      "soundmark": "/və'kæbjəlɛri/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "vote",
+      "chinese": "1918年，英国妇女获得了选举权。",
+      "english": "In 1918 British women got the right to vote.",
+      "soundmark": "/vot; voʊt/",
+      "posTags": [[8, 8, "动词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 6, "宾语", "NP"],
+        [7, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "wise",
+      "chinese": "明智的预防措施",
+      "english": "a wise precaution",
+      "soundmark": "/waɪz/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "witness",
+      "chinese": "警方呼吁目击者站出来。",
+      "english": "Police have appealed for witnesses to come forward.",
+      "soundmark": "/ˈwɪtnɪs/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "worsen",
+      "chinese": "许多老师认为接下来的几年情形会更糟。",
+      "english": "A lot of teachers expect the situation to worsen over the next few years.",
+      "soundmark": "/'wɝsn/",
+      "posTags": [[8, 8, "动词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 6, "宾语", "NP"],
+        [7, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "worthwhile",
+      "chinese": "他想做有意义的工作。",
+      "english": "He wanted to do a worthwhile job.",
+      "soundmark": "/'wɝθ'waɪl/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "yield",
+      "chinese": "直到最近我们的研究才开始取得重要成果。",
+      "english": "Our research has only recently begun to yield important results.",
+      "soundmark": "/jild/",
+      "posTags": [[7, 7, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"],
+        [6, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "comprehensive",
+      "chinese": "我们为客户提供全面的金融产品。",
+      "english": "We offer our customers a comprehensive range of financial products.",
+      "soundmark": "/ˌkɑːmprɪˈhensɪv/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "synthetic",
+      "chinese": "合成化学品",
+      "english": "synthetic chemicals",
+      "soundmark": "/sɪn'θɛtɪk/",
+      "posTags": [[0, 0, "形容词"]],
+      "syntaxTags": [[0, 1, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "undergo",
+      "chinese": "这个国家最近经历了巨大的变化。",
+      "english": "The country has undergone massive changes recently.",
+      "soundmark": "/,ʌndɚ'ɡo/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "fair",
+      "chinese": "马市",
+      "english": "a horse fair",
+      "soundmark": "/fɛr/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "bakery",
+      "chinese": "一股面包的味道从远处的某个面包店飘来。",
+      "english": "A smell of bread drifted from some distant bakery.",
+      "soundmark": "/'bekəri/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "sideways",
+      "chinese": "他们把钢琴侧着从前门抬进来。",
+      "english": "They brought the piano sideways through the front door.",
+      "soundmark": "/'saɪdwez/",
+      "posTags": [[4, 4, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "swallow",
+      "chinese": "他喝完最后一口咖啡，要求结账。",
+      "english": "He swallowed the last of his coffee and asked for the bill.",
+      "soundmark": "/'swɑlo/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "durability",
+      "chinese": "我们为什么要做耐久性测试?",
+      "english": "A: Why do we have to do durability test?",
+      "soundmark": "/ˌdjʊərə'bɪlətɪ/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [[0, 8, "疑问句", "Question"]]
+    },
+    {
+      "word": "symbolize",
+      "chinese": "犯罪问题往往反映出更广泛的社会问题。",
+      "english": "Crime often symbolizes a wider social problem.",
+      "soundmark": "/'sɪmbəlaɪz/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "everlasting",
+      "chinese": "上帝永恒之爱的象征",
+      "english": "a symbol of God’s everlasting love",
+      "soundmark": "/,ɛvɚ'læstɪŋ/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "wedding",
+      "chinese": "她正忙着筹备女儿的婚礼。",
+      "english": "She’s busy planning her daughter’s wedding.",
+      "soundmark": "/'wɛdɪŋ/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "excess",
+      "chinese": "涂上油以后，等20分钟再擦掉多余部分。",
+      "english": "After you apply the oil, wait 20 minutes before wiping off any excess.",
+      "soundmark": "/'ɛk'sɛs/",
+      "posTags": [[12, 12, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 7, "宾语", "NP"],
+        [8, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "instance",
+      "chinese": "我们需要重新考虑我们使用能源的方式，例如我们的运输方式。",
+      "english": "We need to rethink the way we consume energy. Take, for instance, our approach to transport.",
+      "soundmark": "/'ɪnstəns/",
+      "posTags": [[11, 11, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 9, "宾语", "NP"],
+        [10, 15, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "slightly",
+      "chinese": "他的家后来搬到了一间稍微大一点儿的房子。",
+      "english": "His family then moved to a slightly larger house.",
+      "soundmark": "/'slaɪtli/",
+      "posTags": [[6, 6, "副词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "谓语动词", "VP"],
+        [5, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "undertake",
+      "chinese": "他保证在六个月之内还钱。",
+      "english": "He undertook to pay the money back in six months.",
+      "soundmark": "/,ʌndɚ'tek/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 6, "宾语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "frown",
+      "chinese": "她看着信皱起了眉头。",
+      "english": "She frowned as she read the letter.",
+      "soundmark": "/fraʊn/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "overcharge",
+      "chinese": "这些医生每年仅得到65美元，这导致他们向病人高收费。",
+      "english": "Rural medics get an average stipend of $65 a year, leading some to overcharge their patients.",
+      "soundmark": "/,ovɚ'tʃɑrdʒ/",
+      "posTags": [[13, 13, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"],
+        [6, 15, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "grid",
+      "chinese": "国家电网",
+      "english": "the national grid",
+      "soundmark": "/ɡrɪd/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "vary",
+      "chinese": "测验成绩各校不同。",
+      "english": "Test scores vary from school to school.",
+      "soundmark": "/ˈveri/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 6, "状语修饰", "PP"]
+      ]
+    }
+  ]
+}

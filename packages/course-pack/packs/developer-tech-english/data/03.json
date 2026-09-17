@@ -1,0 +1,202 @@
+{
+  "title": "技术架构权衡与设计",
+  "description": "微服务与单体权衡、分布式缓存选型、异步消息解耦与系统可扩展性讨论。",
+  "data": [
+    {
+      "chinese": "我们决定采用缓存方案来降低数据库负载。",
+      "english": "We decided to adopt Redis for distributed session caching.",
+      "soundmark": "/wiː dɪˈsaɪdɪd tə əˈdɒpt ˈredɪs fɔː dɪˈstrɪbjuːtɪd ˈseʃn ˈkæʃɪŋ/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "动词"],
+        [2, 2, "不定式标记"],
+        [3, 3, "动词"],
+        [4, 4, "专有名词"],
+        [5, 5, "介词"],
+        [6, 6, "形容词"],
+        [7, 7, "名词"],
+        [8, 8, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 8, "复合谓语及介宾", "VP"]
+      ]
+    },
+    {
+      "chinese": "这里我们需要在一致性和可用性之间做出权衡。",
+      "english": "There is a clear trade-off between consistency and availability.",
+      "soundmark": "/ðeər ɪz ə klɪər treɪd ɒf bɪˈtwiːn kənˈsɪstənsi ænd əˌveɪləˈbɪləti/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "动词"],
+        [2, 2, "限定词"],
+        [3, 3, "形容词"],
+        [4, 4, "名词"],
+        [5, 5, "介词"],
+        [6, 6, "名词"],
+        [7, 7, "连词"],
+        [8, 8, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 1, "There be引出", "Sentence"],
+        [2, 8, "真实主语及介宾", "NP"]
+      ]
+    },
+    {
+      "chinese": "将核心业务解耦能大幅提升整个系统的可扩展性。",
+      "english": "Decoupling the services improves system scalability.",
+      "soundmark": "/diːˈkʌplɪŋ ðə ˈsɜːvɪsɪz ɪmˈpruːvz ˈsɪstəm ˌskeɪləˈbɪləti/",
+      "posTags": [
+        [0, 0, "动词"],
+        [1, 1, "限定词"],
+        [2, 2, "名词"],
+        [3, 3, "动词"],
+        [4, 4, "名词"],
+        [5, 5, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 2, "动名词短语作主语", "NP"],
+        [3, 5, "谓宾结构", "VP"]
+      ]
+    },
+    {
+      "chinese": "对于高并发写操作，异步消息队列是更好的选择。",
+      "english": "An asynchronous message queue is better for high throughput writes.",
+      "soundmark": "/æn eɪˈsɪŋkrənəs ˈmesɪdʒ kjuː ɪz ˈbetər fɔː haɪ ˈθruːpʊt raɪts/",
+      "posTags": [
+        [0, 0, "限定词"],
+        [1, 1, "形容词"],
+        [2, 2, "名词"],
+        [3, 3, "名词"],
+        [4, 4, "动词"],
+        [5, 5, "形容词"],
+        [6, 6, "介词"],
+        [7, 7, "形容词"],
+        [8, 8, "名词"],
+        [9, 9, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 3, "主语短语", "NP"],
+        [4, 9, "系表与比较结构", "VP"]
+      ]
+    },
+    {
+      "chinese": "单点故障是当前架构最大的隐患。",
+      "english": "A single point of failure is our biggest architectural risk.",
+      "soundmark": "/ə ˈsɪŋɡl pɔɪnt əv ˈfeɪljər ɪz ˈaʊər ˈbɪɡɪst ˌɑːkɪˈtektʃərəl rɪsk/",
+      "posTags": [
+        [0, 0, "限定词"],
+        [1, 1, "形容词"],
+        [2, 2, "名词"],
+        [3, 3, "介词"],
+        [4, 4, "名词"],
+        [5, 5, "动词"],
+        [6, 6, "代词"],
+        [7, 7, "形容词"],
+        [8, 8, "形容词"],
+        [9, 9, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 4, "主语短语", "NP"],
+        [5, 9, "系表短语", "VP"]
+      ]
+    },
+    {
+      "chinese": "我们是否应该引入限流机制来防止服务雪崩？",
+      "english": "Should we implement rate limiting to protect the downstream service?",
+      "soundmark": "/ʃʊd wiː ˈɪmplɪment reɪt ˈlɪmɪtɪŋ tə prəˈtekt ðə ˌdaʊnˈstriːm ˈsɜːvɪs/",
+      "posTags": [
+        [0, 0, "情态动词"],
+        [1, 1, "代词"],
+        [2, 2, "动词"],
+        [3, 3, "名词"],
+        [4, 4, "名词"],
+        [5, 5, "不定式标记"],
+        [6, 6, "动词"],
+        [7, 7, "限定词"],
+        [8, 8, "形容词"],
+        [9, 9, "名词"]
+      ],
+      "syntaxTags": [[0, 9, "架构防护疑问句", "Question"]]
+    },
+    {
+      "chinese": "我们现有的数据库架构无法应对下个月十倍流量的洪峰。",
+      "english": "Our current schema cannot handle ten times traffic growth.",
+      "soundmark": "/ˈaʊər ˈkʌrənt ˈskiːmə ˈkænɒt ˈhændl ten taɪmz ˈtræfɪk ɡrəʊθ/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "形容词"],
+        [2, 2, "名词"],
+        [3, 3, "情态动词"],
+        [4, 4, "动词"],
+        [5, 5, "数词"],
+        [6, 6, "名词"],
+        [7, 7, "名词"],
+        [8, 8, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 2, "主语短语", "NP"],
+        [3, 8, "情态谓宾短语", "VP"]
+      ]
+    },
+    {
+      "chinese": "使用事件驱动架构能使系统各模块松散耦合。",
+      "english": "Event driven architecture keeps the system loosely coupled.",
+      "soundmark": "/ɪˈvent ˈdrɪvn ˈɑːkɪtektʃər kiːps ðə ˈsɪstəm ˈluːsli ˈkʌpld/",
+      "posTags": [
+        [0, 0, "名词"],
+        [1, 1, "形容词"],
+        [2, 2, "名词"],
+        [3, 3, "动词"],
+        [4, 4, "限定词"],
+        [5, 5, "名词"],
+        [6, 6, "副词"],
+        [7, 7, "形容词"]
+      ],
+      "syntaxTags": [
+        [0, 2, "主语短语", "NP"],
+        [3, 7, "谓宾补结构", "VP"]
+      ]
+    },
+    {
+      "chinese": "提前过度优化往往是许多技术债务的根源。",
+      "english": "Premature optimization is often the root of technical debt.",
+      "soundmark": "/ˌpreməˈtʃʊər ˌɒptɪmaɪˈzeɪʃn ɪz ˈɒfn ðə ruːt əv ˈteknɪkl det/",
+      "posTags": [
+        [0, 0, "形容词"],
+        [1, 1, "名词"],
+        [2, 2, "动词"],
+        [3, 3, "副词"],
+        [4, 4, "限定词"],
+        [5, 5, "名词"],
+        [6, 6, "介词"],
+        [7, 7, "形容词"],
+        [8, 8, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 1, "主语短语", "NP"],
+        [2, 8, "系表与介宾", "VP"]
+      ]
+    },
+    {
+      "chinese": "我们计划在本周末进行无停机数据库迁移。",
+      "english": "We plan to perform zero downtime migration this weekend.",
+      "soundmark": "/wiː plæn tə pəˈfɔːm ˈzɪərəʊ ˈdaʊntaɪm maɪˈɡreɪʃn ðɪs ˌwiːkˈend/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "动词"],
+        [2, 2, "不定式标记"],
+        [3, 3, "动词"],
+        [4, 4, "数词"],
+        [5, 5, "名词"],
+        [6, 6, "名词"],
+        [7, 7, "限定词"],
+        [8, 8, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 8, "复合谓语与时间状语", "VP"]
+      ]
+    }
+  ]
+}

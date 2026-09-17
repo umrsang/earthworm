@@ -1,0 +1,175 @@
+{
+  "title": "邮件与即时通讯确认",
+  "description": "掌握正式商务邮件开场、附件说明、时间表确认、催促跟进与礼貌收尾。",
+  "data": [
+    {
+      "chinese": "请查收随信附上的文件以供审阅。",
+      "english": "Please find the attached file for your review.",
+      "soundmark": "/pliːz faɪnd ðə əˈtætʃt faɪl fɔː jɔː rɪˈvjuː/",
+      "posTags": [
+        [0, 0, "副词"],
+        [1, 1, "动词"],
+        [2, 2, "限定词"],
+        [3, 3, "形容词"],
+        [4, 4, "名词"],
+        [5, 5, "介词"],
+        [6, 6, "代词"],
+        [7, 7, "名词"]
+      ],
+      "syntaxTags": [[0, 7, "祈使句", "Imperative"]]
+    },
+    {
+      "chinese": "能否请您确认这个时间表是否合适？",
+      "english": "Could you please confirm if this timeline works?",
+      "soundmark": "/kʊd juː pliːz kənˈfɜːm ɪf ðɪs ˈtaɪmlaɪn wɜːks/",
+      "posTags": [
+        [0, 0, "情态动词"],
+        [1, 1, "代词"],
+        [2, 2, "副词"],
+        [3, 3, "动词"],
+        [4, 4, "连词"],
+        [5, 5, "限定词"],
+        [6, 6, "名词"],
+        [7, 7, "动词"]
+      ],
+      "syntaxTags": [
+        [0, 3, "请求主句", "Clause"],
+        [4, 7, "宾语从句", "Clause"]
+      ]
+    },
+    {
+      "chinese": "感谢您的及时回复。",
+      "english": "Thank you for your prompt reply.",
+      "soundmark": "/θæŋk juː fɔː jɔː prɒmpt rɪˈplaɪ/",
+      "posTags": [
+        [0, 0, "动词"],
+        [1, 1, "代词"],
+        [2, 2, "介词"],
+        [3, 3, "代词"],
+        [4, 4, "形容词"],
+        [5, 5, "名词"]
+      ],
+      "syntaxTags": [[0, 5, "固定致谢", "Formula"]]
+    },
+    {
+      "chinese": "如有任何疑问，请随时联系我。",
+      "english": "Feel free to reach out if needed.",
+      "soundmark": "/fiːl friː tə riːtʃ aʊt ɪf ˈniːdɪd/",
+      "posTags": [
+        [0, 0, "动词"],
+        [1, 1, "形容词"],
+        [2, 2, "不定式标记"],
+        [3, 3, "动词"],
+        [4, 4, "副词"],
+        [5, 5, "连词"],
+        [6, 6, "形容词"]
+      ],
+      "syntaxTags": [[0, 6, "祈使句", "Imperative"]]
+    },
+    {
+      "chinese": "我会在今天下班前回复您。",
+      "english": "I will get back to you by end of day.",
+      "soundmark": "/aɪ wɪl ɡet bæk tə juː baɪ end əv deɪ/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "助动词"],
+        [2, 2, "动词"],
+        [3, 3, "副词"],
+        [4, 4, "介词"],
+        [5, 5, "代词"],
+        [6, 6, "介词"],
+        [7, 7, "名词"],
+        [8, 8, "介词"],
+        [9, 9, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 9, "承诺谓语", "VP"]
+      ]
+    },
+    {
+      "chinese": "我抄送了财务团队以便同步信息。",
+      "english": "I have looped in the finance team for visibility.",
+      "soundmark": "/aɪ hæv luːpt ɪn ðə ˈfaɪnæns tiːm fɔː ˌvɪzəˈbɪləti/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "助动词"],
+        [2, 2, "动词"],
+        [3, 3, "副词"],
+        [4, 4, "限定词"],
+        [5, 5, "名词"],
+        [6, 6, "名词"],
+        [7, 7, "介词"],
+        [8, 8, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 8, "完成时谓语", "VP"]
+      ]
+    },
+    {
+      "chinese": "非常抱歉给您带来任何不便。",
+      "english": "I apologize for any inconvenience caused.",
+      "soundmark": "/aɪ əˈpɒlədʒaɪz fɔː ˈeni ˌɪnkənˈviːniəns kɔːzd/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "动词"],
+        [2, 2, "介词"],
+        [3, 3, "限定词"],
+        [4, 4, "名词"],
+        [5, 5, "动词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 5, "致歉谓语", "VP"]
+      ]
+    },
+    {
+      "chinese": "我们期待尽快收到您的回复。",
+      "english": "We look forward to hearing from you soon.",
+      "soundmark": "/wiː lʊk ˈfɔːwəd tə ˈhɪərɪŋ frɒm juː suːn/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "动词"],
+        [2, 2, "副词"],
+        [3, 3, "介词"],
+        [4, 4, "动词"],
+        [5, 5, "介词"],
+        [6, 6, "代词"],
+        [7, 7, "副词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 7, "期待谓语短语", "VP"]
+      ]
+    },
+    {
+      "chinese": "请根据您的方便尽早回复。",
+      "english": "Please reply at your earliest convenience.",
+      "soundmark": "/pliːz rɪˈplaɪ æt jɔː ˈɜːliɪst kənˈviːniəns/",
+      "posTags": [
+        [0, 0, "副词"],
+        [1, 1, "动词"],
+        [2, 2, "介词"],
+        [3, 3, "代词"],
+        [4, 4, "形容词"],
+        [5, 5, "名词"]
+      ],
+      "syntaxTags": [[0, 5, "礼貌催促句", "Imperative"]]
+    },
+    {
+      "chinese": "祝您本周工作顺利！",
+      "english": "Wishing you a productive week ahead.",
+      "soundmark": "/ˈwɪʃɪŋ juː ə prəˈdʌktɪv wiːk əˈhed/",
+      "posTags": [
+        [0, 0, "动词"],
+        [1, 1, "代词"],
+        [2, 2, "限定词"],
+        [3, 3, "形容词"],
+        [4, 4, "名词"],
+        [5, 5, "副词"]
+      ],
+      "syntaxTags": [[0, 5, "祝福结语", "Formula"]]
+    }
+  ]
+}

@@ -1,0 +1,393 @@
+{
+  "title": "地道口语综合扩展",
+  "description": "覆盖日常回应、情绪表达、社交邀约、委婉沟通与高频习语。",
+  "data": [
+    { "chinese": "听起来不错。", "english": "Sounds good to me." },
+    { "chinese": "我完全赞同。", "english": "I am totally on board." },
+    { "chinese": "这话我非常认同。", "english": "I could not agree more." },
+    {
+      "chinese": "我也是这么想的。",
+      "english": "That is exactly what I thought."
+    },
+    { "chinese": "这正合我意。", "english": "That works perfectly for me." },
+    { "chinese": "我没有意见。", "english": "No complaints from me." },
+    {
+      "chinese": "这主意挺靠谱。",
+      "english": "That sounds like a solid plan."
+    },
+    { "chinese": "我们想法一致。", "english": "We are on the same page." },
+    { "chinese": "这话一点没错。", "english": "You can say that again." },
+    { "chinese": "这很公平。", "english": "That is fair enough." },
+    { "chinese": "我不太确定。", "english": "I am not so sure about that." },
+    {
+      "chinese": "我看法有点不同。",
+      "english": "I see it a little differently."
+    },
+    {
+      "chinese": "我们只能求同存异了。",
+      "english": "We may have to agree to disagree."
+    },
+    {
+      "chinese": "我明白，但还是不赞同。",
+      "english": "I hear you, but I still disagree."
+    },
+    {
+      "chinese": "事情没那么简单。",
+      "english": "It is not quite that simple."
+    },
+    {
+      "chinese": "这要看具体情况。",
+      "english": "It really depends on the situation."
+    },
+    { "chinese": "我得再想想。", "english": "I need to think it over." },
+    {
+      "chinese": "先别急着下结论。",
+      "english": "Let's not jump to conclusions."
+    },
+    {
+      "chinese": "我对此持保留态度。",
+      "english": "I have mixed feelings about it."
+    },
+    {
+      "chinese": "这不是我的首选。",
+      "english": "It would not be my first choice."
+    },
+    { "chinese": "真是太棒了！", "english": "That is absolutely brilliant!" },
+    { "chinese": "你让我太惊喜了。", "english": "You have made my day." },
+    { "chinese": "我高兴得不得了。", "english": "I am over the moon." },
+    { "chinese": "这真是个好消息。", "english": "That is such great news." },
+    { "chinese": "我替你开心。", "english": "I am thrilled for you." },
+    { "chinese": "我总算松了口气。", "english": "That is a huge relief." },
+    { "chinese": "情况再好不过了。", "english": "Things could not be better." },
+    { "chinese": "这值得庆祝。", "english": "That calls for a celebration." },
+    { "chinese": "你太厉害了。", "english": "You absolutely nailed it." },
+    { "chinese": "一切都很顺利。", "english": "Everything went like a dream." },
+    { "chinese": "今天真够呛。", "english": "It has been a rough day." },
+    { "chinese": "这让我很沮丧。", "english": "That really gets me down." },
+    {
+      "chinese": "我现在压力山大。",
+      "english": "I am under a lot of pressure."
+    },
+    {
+      "chinese": "我脑子一片空白。",
+      "english": "My mind has gone completely blank."
+    },
+    { "chinese": "我有点心不在焉。", "english": "I am a bit out of sorts." },
+    {
+      "chinese": "这件事真让我恼火。",
+      "english": "This is really getting on my nerves."
+    },
+    { "chinese": "我受够了。", "english": "I have had enough of this." },
+    { "chinese": "我需要喘口气。", "english": "I need a moment to breathe." },
+    {
+      "chinese": "别把自己逼得太紧。",
+      "english": "Do not be too hard on yourself."
+    },
+    {
+      "chinese": "明天会好起来的。",
+      "english": "Things will look better tomorrow."
+    },
+    { "chinese": "别担心，慢慢来。", "english": "No worries, take your time." },
+    { "chinese": "你还好吗？", "english": "Are you doing okay?" },
+    { "chinese": "想聊聊吗？", "english": "Do you want to talk about it?" },
+    {
+      "chinese": "我一直都支持你。",
+      "english": "I have always got your back."
+    },
+    {
+      "chinese": "需要帮忙就告诉我。",
+      "english": "Let me know if you need anything."
+    },
+    {
+      "chinese": "别把这事放在心上。",
+      "english": "Try not to take it personally."
+    },
+    { "chinese": "你已经尽力了。", "english": "You did the best you could." },
+    { "chinese": "我能理解你的感受。", "english": "I know how you feel." },
+    {
+      "chinese": "我们会一起挺过去。",
+      "english": "We will get through this together."
+    },
+    { "chinese": "先睡一觉再说。", "english": "Sleep on it before deciding." },
+    {
+      "chinese": "今晚想出去吃饭吗？",
+      "english": "Fancy going out for dinner tonight?"
+    },
+    {
+      "chinese": "周末一起喝杯咖啡吧。",
+      "english": "Let's grab coffee this weekend."
+    },
+    {
+      "chinese": "你随时都可以过来。",
+      "english": "You are welcome to drop by anytime."
+    },
+    { "chinese": "要不要一起去？", "english": "Would you like to come along?" },
+    {
+      "chinese": "我们改天聚聚吧。",
+      "english": "We should catch up sometime."
+    },
+    {
+      "chinese": "谢谢邀请，我很乐意。",
+      "english": "Thanks for asking, I would love to."
+    },
+    { "chinese": "好啊，算我一个。", "english": "Sure, count me in." },
+    { "chinese": "我肯定会去。", "english": "I would not miss it." },
+    {
+      "chinese": "我可能晚点到。",
+      "english": "I might join you a little later."
+    },
+    {
+      "chinese": "我到了给你发消息。",
+      "english": "I will text you when I arrive."
+    },
+    {
+      "chinese": "今晚我就不去了。",
+      "english": "I will give it a miss tonight."
+    },
+    { "chinese": "这次恐怕不行。", "english": "I am afraid I cannot make it." },
+    { "chinese": "我们改天再约好吗？", "english": "Can we take a rain check?" },
+    {
+      "chinese": "谢谢，但我已经有安排了。",
+      "english": "Thanks, but I already have plans."
+    },
+    {
+      "chinese": "下次一定叫上我。",
+      "english": "Definitely invite me next time."
+    },
+    { "chinese": "你们玩得开心。", "english": "Have a great time without me." },
+    {
+      "chinese": "我今晚想早点休息。",
+      "english": "I fancy an early night tonight."
+    },
+    {
+      "chinese": "我得看看时间安排。",
+      "english": "I need to check my schedule."
+    },
+    {
+      "chinese": "我稍后给你答复。",
+      "english": "I will get back to you later."
+    },
+    { "chinese": "暂时别算上我。", "english": "Do not count on me just yet." },
+    {
+      "chinese": "方便问你一个问题吗？",
+      "english": "Mind if I ask you something?"
+    },
+    {
+      "chinese": "能麻烦你帮个忙吗？",
+      "english": "Could you do me a quick favor?"
+    },
+    {
+      "chinese": "你介意小点声吗？",
+      "english": "Would you mind keeping it down?"
+    },
+    { "chinese": "能让我过去一下吗？", "english": "Could I squeeze past you?" },
+    {
+      "chinese": "不好意思打断一下。",
+      "english": "Sorry to interrupt for a moment."
+    },
+    {
+      "chinese": "希望我没有打扰你。",
+      "english": "I hope I am not bothering you."
+    },
+    { "chinese": "不用着急。", "english": "There is no rush at all." },
+    { "chinese": "你先请。", "english": "After you, please." },
+    { "chinese": "我来处理这个。", "english": "Let me take care of that." },
+    { "chinese": "麻烦你真不好意思。", "english": "Sorry to put you out." },
+    {
+      "chinese": "我不是有意冒犯。",
+      "english": "I did not mean to offend you."
+    },
+    {
+      "chinese": "可能是我理解错了。",
+      "english": "Perhaps I got the wrong idea."
+    },
+    {
+      "chinese": "请别误会我的意思。",
+      "english": "Please do not get me wrong."
+    },
+    {
+      "chinese": "我说得可能不太对。",
+      "english": "I may not be saying this well."
+    },
+    { "chinese": "恕我直言。", "english": "If I may be completely honest." },
+    {
+      "chinese": "这只是我的个人看法。",
+      "english": "That is just my personal take."
+    },
+    {
+      "chinese": "我不是在批评你。",
+      "english": "I am not trying to criticize you."
+    },
+    { "chinese": "我们能重新开始吗？", "english": "Can we start over?" },
+    { "chinese": "这事就到此为止吧。", "english": "Let's leave it at that." },
+    {
+      "chinese": "我刚才有些反应过度。",
+      "english": "I overreacted a little earlier."
+    },
+    { "chinese": "时间过得真快。", "english": "Time really flies." },
+    {
+      "chinese": "这说起来容易做起来难。",
+      "english": "That is easier said than done."
+    },
+    { "chinese": "熟能生巧。", "english": "Practice makes perfect." },
+    { "chinese": "迟到总比不到好。", "english": "Better late than never." },
+    {
+      "chinese": "别孤注一掷。",
+      "english": "Do not put all your eggs in one basket."
+    },
+    {
+      "chinese": "不要以貌取人。",
+      "english": "Never judge a book by its cover."
+    },
+    {
+      "chinese": "凡事都有好的一面。",
+      "english": "Every cloud has a silver lining."
+    },
+    {
+      "chinese": "行动胜于言语。",
+      "english": "Actions speak louder than words."
+    },
+    {
+      "chinese": "不要小题大做。",
+      "english": "Do not make a mountain out of a molehill."
+    },
+    {
+      "chinese": "那只是冰山一角。",
+      "english": "That is only the tip of the iceberg."
+    },
+    { "chinese": "我们顺其自然吧。", "english": "Let's play it by ear." },
+    { "chinese": "别拐弯抹角了。", "english": "Stop beating around the bush." },
+    { "chinese": "这事说来话长。", "english": "It is a long story." },
+    {
+      "chinese": "现在轮到你决定了。",
+      "english": "The ball is in your court now."
+    },
+    { "chinese": "我们今天就到这里。", "english": "Let's call it a day." },
+    {
+      "chinese": "他无意中说漏了嘴。",
+      "english": "He let the cat out of the bag."
+    },
+    { "chinese": "我得好好用功了。", "english": "I need to hit the books." },
+    {
+      "chinese": "这项任务轻而易举。",
+      "english": "This task is a piece of cake."
+    },
+    {
+      "chinese": "那辆车贵得离谱。",
+      "english": "That car costs an arm and a leg."
+    },
+    {
+      "chinese": "别再火上浇油了。",
+      "english": "Do not add fuel to the fire."
+    },
+    { "chinese": "他临阵退缩了。", "english": "He got cold feet." },
+    { "chinese": "我得重新开始。", "english": "I am back to square one." },
+    {
+      "chinese": "她总是直奔主题。",
+      "english": "She always gets straight to the point."
+    },
+    {
+      "chinese": "他终于说到点子上了。",
+      "english": "He finally hit the nail on the head."
+    },
+    {
+      "chinese": "我现在进退两难。",
+      "english": "I am caught between a rock and a hard place."
+    },
+    {
+      "chinese": "她为考试熬夜了。",
+      "english": "She pulled an all-nighter for the exam."
+    },
+    {
+      "chinese": "先别抱太大希望。",
+      "english": "Do not get your hopes up yet."
+    },
+    { "chinese": "我会留意这个。", "english": "I will keep an eye on it." },
+    {
+      "chinese": "这件事由我来决定。",
+      "english": "I will make the final call."
+    },
+    { "chinese": "我们偶然碰见了。", "english": "We bumped into each other." },
+    { "chinese": "他总爱炫耀。", "english": "He loves to show off." },
+    { "chinese": "她很快就恢复了。", "english": "She bounced back quickly." },
+    {
+      "chinese": "我会想办法解决。",
+      "english": "I will figure something out."
+    },
+    { "chinese": "别把机会搞砸了。", "english": "Do not blow your chance." },
+    { "chinese": "我碰巧听到了。", "english": "I happened to overhear it." },
+    { "chinese": "你让我措手不及。", "english": "You caught me off guard." },
+    {
+      "chinese": "我没听清你的名字。",
+      "english": "I did not catch your name."
+    },
+    { "chinese": "能再说一遍吗？", "english": "Could you say that again?" },
+    { "chinese": "你具体是什么意思？", "english": "What exactly do you mean?" },
+    {
+      "chinese": "让我确认一下我是否理解正确。",
+      "english": "Let me make sure I understand."
+    },
+    {
+      "chinese": "换句话说，你同意了？",
+      "english": "So, in other words, you agree?"
+    },
+    {
+      "chinese": "这不是我想表达的意思。",
+      "english": "That is not what I meant."
+    },
+    {
+      "chinese": "现在明白多了。",
+      "english": "That makes much more sense now."
+    },
+    {
+      "chinese": "谢谢你解释清楚。",
+      "english": "Thanks for clearing that up."
+    },
+    {
+      "chinese": "我们好像有点误会。",
+      "english": "We seem to have a misunderstanding."
+    },
+    { "chinese": "你能举个例子吗？", "english": "Can you give me an example?" },
+    {
+      "chinese": "我没跟上最后那部分。",
+      "english": "I did not follow the last part."
+    },
+    {
+      "chinese": "无论如何，我们继续吧。",
+      "english": "Anyway, let's move on."
+    },
+    {
+      "chinese": "说到旅行，你订票了吗？",
+      "english": "Speaking of travel, have you booked tickets?"
+    },
+    {
+      "chinese": "顺便问一下，你认识她吗？",
+      "english": "By the way, do you know her?"
+    },
+    {
+      "chinese": "这倒提醒我一件事。",
+      "english": "That reminds me of something."
+    },
+    { "chinese": "言归正传吧。", "english": "Let's get back to the point." },
+    { "chinese": "我得先走了。", "english": "I had better get going." },
+    {
+      "chinese": "和你聊天很开心。",
+      "english": "It was lovely chatting with you."
+    },
+    { "chinese": "保持联系。", "english": "Let's keep in touch." },
+    {
+      "chinese": "到家后告诉我一声。",
+      "english": "Let me know when you get home."
+    },
+    { "chinese": "路上小心。", "english": "Take care on your way home." },
+    { "chinese": "别为小事烦恼。", "english": "Do not sweat the small stuff." },
+    {
+      "chinese": "我只是随口说说。",
+      "english": "I was only thinking out loud."
+    },
+    {
+      "chinese": "咱们走着瞧吧。",
+      "english": "We will just have to wait and see."
+    }
+  ]
+}

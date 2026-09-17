@@ -1,0 +1,564 @@
+{
+  "title": "Unit 41: 四级核心词汇（down ~ east）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "down",
+      "chinese": "戴维弯腰系鞋带。",
+      "english": "David bent down to tie his shoelace.",
+      "soundmark": "/daʊn/",
+      "posTags": [[2, 2, "副词"]],
+      "syntaxTags": [[0, 6, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "downstairs",
+      "chinese": "罗茜跑下楼去开门。",
+      "english": "Rosie ran downstairs to answer the door.",
+      "soundmark": "/'daʊn'stɛrz/",
+      "posTags": [[2, 2, "副词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "downward",
+      "chinese": "缓坡",
+      "english": "a gentle downward slope",
+      "soundmark": "/'daʊnwɚd/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "dozen",
+      "chinese": "一打鸡蛋",
+      "english": "a dozen eggs",
+      "soundmark": "/'dʌzn/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "draft",
+      "chinese": "他的新小说的草稿",
+      "english": "the rough draft of his new novel",
+      "soundmark": "/dræft/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "drag",
+      "chinese": "他抓住她的手臂把她拖进房间。",
+      "english": "He grabbed her arm and dragged her into the room.",
+      "soundmark": "/dræg/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "drain",
+      "chinese": "他用水冲排水沟。",
+      "english": "He flushed the drain.",
+      "soundmark": "/dren/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "drama",
+      "chinese": "古希腊戏剧的伟大传统",
+      "english": "the great traditions of ancient Greek drama",
+      "soundmark": "",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [[0, 6, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "dramatic",
+      "chinese": "业余剧团",
+      "english": "the amateur dramatic society",
+      "soundmark": "/drə'mætɪk/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "draw",
+      "chinese": "凯蒂画了一间小茅舍，旁边流淌着一条小溪。",
+      "english": "Katie had drawn a cottage with a little stream running next to it.",
+      "soundmark": "/drɔ/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "drawer",
+      "chinese": "她从书桌的抽屉里拿出了一个文件夹。",
+      "english": "She took a file from her desk drawer .",
+      "soundmark": "/drɔr/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "drawing",
+      "chinese": "我向来不擅长画图。",
+      "english": "I’ve never been very good at drawing.",
+      "soundmark": "/'drɔɪŋ/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 4, "表语", "NP"],
+        [5, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "dread",
+      "chinese": "想到要乘飞机我充满了恐惧。",
+      "english": "The prospect of flying filled me with dread .",
+      "soundmark": "/drɛd/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "谓语动词", "VP"],
+        [5, 5, "宾语", "NP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "dream",
+      "chinese": "昨晚我做了很多梦。",
+      "english": "I had lots of dreams last night.",
+      "soundmark": "/drim/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "dress",
+      "chinese": "穿晚礼服的绅士",
+      "english": "a gentleman in evening dress",
+      "soundmark": "/drɛs/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "drift",
+      "chinese": "我们前方的丛林里有烟升起。",
+      "english": "Smoke drifted up from the jungle ahead of us.",
+      "soundmark": "/drɪft/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "drill",
+      "chinese": "步枪操练",
+      "english": "rifle drill",
+      "soundmark": "/drɪl/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "drink",
+      "chinese": "你应该大量喝水。",
+      "english": "You should drink plenty of water.",
+      "soundmark": "/drɪŋk/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "drip",
+      "chinese": "水龙头在滴水。",
+      "english": "The tap’s dripping .",
+      "soundmark": "/drɪp/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "drive",
+      "chinese": "滂沱大雨迫使选手们离开了赛场。",
+      "english": "Torrential rain drove the players off the course.",
+      "soundmark": "/draɪv/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "driver",
+      "chinese": "出租车司机",
+      "english": "a taxi driver",
+      "soundmark": "/'draɪvɚ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "drop",
+      "chinese": "你的纽扣掉了。",
+      "english": "Your button has dropped off.",
+      "soundmark": "/drɑp/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "drought",
+      "chinese": "…过去18年来干旱和饥荒致死达两百万人的一个国家。",
+      "english": "...a country where drought and famines have killed up to two million people during the last eighteen years.",
+      "soundmark": "/draʊt/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 7, "谓语动词", "VP"],
+        [8, 17, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "drown",
+      "chinese": "船翻后许多人淹死了。",
+      "english": "Many people drowned when the boat overturned.",
+      "soundmark": "/draʊn/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "drug",
+      "chinese": "用于治疗癌症的一种药物",
+      "english": "a drug used in the treatment of cancer",
+      "soundmark": "/drʌg/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "drum",
+      "chinese": "一面低音大鼓",
+      "english": "a big bass drum",
+      "soundmark": "/drʌm/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "drunk",
+      "chinese": "你喝醉了。",
+      "english": "You’re drunk.",
+      "soundmark": "/drʌŋk/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 1, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "dry",
+      "chinese": "我要换上干衣服。",
+      "english": "I need to change into some dry clothes .",
+      "soundmark": "/draɪ/",
+      "posTags": [[6, 6, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "duck",
+      "chinese": "烤鸭配橘子酱",
+      "english": "roast duck with orange sauce",
+      "soundmark": "/dʌk/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 1, "宾语", "NP"],
+        [2, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "dull",
+      "chinese": "有伊丽莎白在这里生活绝不会无聊。",
+      "english": "Life is never dull when Elizabeth is here.",
+      "soundmark": "/dʌl/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 7, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "dumb",
+      "chinese": "…一名年轻的聋哑人。",
+      "english": "...a young deaf and dumb man.",
+      "soundmark": "/dʌm/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "duration",
+      "chinese": "该课程为期三年。",
+      "english": "The course is of three years’ duration.",
+      "soundmark": "/du'reʃən/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "during",
+      "chinese": "夏天她当过救生员。",
+      "english": "During the summer she worked as a lifeguard.",
+      "soundmark": "/'dʊrɪŋ/",
+      "posTags": [[0, 0, "介词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "dusk",
+      "chinese": "街灯在黄昏时亮起来。",
+      "english": "The street lights go on at dusk.",
+      "soundmark": "/dʌsk/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "duty",
+      "chinese": "我保证会尽到我的责任。",
+      "english": "I promise I will do my duty .",
+      "soundmark": "/'dʊti/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "dwelling",
+      "chinese": "大约三千五百套新住宅计划在这个地区新建。",
+      "english": "Some 3,500 new dwellings are planned for the area.",
+      "soundmark": "/'dwɛlɪŋ/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 5, "系动词", "VP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "dye",
+      "chinese": "妇女们将羊毛预备、纺线并染色。",
+      "english": "The women prepared, spun, and dyed the wool.",
+      "soundmark": "/daɪ/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "dying",
+      "chinese": "她的临终遗愿是办个简朴的葬礼。",
+      "english": "It was her dying wish to have a simple burial.",
+      "soundmark": "/'daɪɪŋ/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 4, "表语", "NP"],
+        [5, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "dynamic",
+      "chinese": "精力充沛且雄心勃勃的人",
+      "english": "dynamic and ambitious people",
+      "soundmark": "/daɪ'næmɪk/",
+      "posTags": [[0, 0, "形容词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "each",
+      "chinese": "他们对计划的各个方面逐一地进行了审核。",
+      "english": "They reviewed each aspect of the plan bit by bit.",
+      "soundmark": "/itʃ/",
+      "posTags": [[2, 2, "代词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "eager",
+      "chinese": "他是个聪明的孩子，热爱学习。",
+      "english": "He’s a bright kid and eager to learn.",
+      "soundmark": "/'igɚ/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 6, "主语", "NP"],
+        [7, 7, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "eagle",
+      "chinese": "那只鹰收拢双翅做俯冲。",
+      "english": "The eagle drooped its wings.",
+      "soundmark": "/'igl/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "ear",
+      "chinese": "她把头发拢到耳朵背后。",
+      "english": "She tucked her hair behind her ears.",
+      "soundmark": "/ɪr/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "early",
+      "chinese": "我们提早到了。",
+      "english": "We arrived early.",
+      "soundmark": "/'ɝli/",
+      "posTags": [[2, 2, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "earn",
+      "chinese": "他每年挣近20,000英镑。",
+      "english": "He earns nearly £20,000 a year.",
+      "soundmark": "/ɝn/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "earnest",
+      "chinese": "相当认真的一个年轻人",
+      "english": "a rather earnest young man",
+      "soundmark": "/'ɜːnɪst/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "earth",
+      "chinese": "地球",
+      "english": "the planet Earth",
+      "soundmark": "/ɝθ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "earthquake",
+      "chinese": "6月28日加州南部地区发生了里氏6.1级地震。",
+      "english": "An earthquake measuring 6.1 on the Richter scale struck southern California on June 28.",
+      "soundmark": "/'ɝθ'kwek/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "easily",
+      "chinese": "他们赢得相当轻松。",
+      "english": "They won quite easily.",
+      "soundmark": "/'izəli/",
+      "posTags": [[3, 3, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "east",
+      "chinese": "哪边是东？",
+      "english": "Which way is east?",
+      "soundmark": "/ist/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 3, "疑问句", "Question"]]
+    }
+  ]
+}

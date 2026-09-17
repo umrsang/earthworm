@@ -1,0 +1,570 @@
+{
+  "title": "Unit 74: 四级核心词汇（repeatedly ~ rush）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "repeatedly",
+      "chinese": "格雷厄姆一再被提醒工作不要这么拼命。",
+      "english": "Graham was repeatedly warned not to work so hard.",
+      "soundmark": "/rɪ'pitɪdli/",
+      "posTags": [[2, 2, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 4, "表语", "NP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "repetition",
+      "chinese": "过去小孩子是通过背诵来学习的。",
+      "english": "Children used to learn by repetition.",
+      "soundmark": "/'rɛpə'tɪʃən/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "reply",
+      "chinese": "我问克莱夫到哪儿去，但他没有回答。",
+      "english": "I asked Clive where he was going, but he didn’t reply.",
+      "soundmark": "/rɪ'plai/",
+      "posTags": [[10, 10, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 10, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "report",
+      "chinese": "我是加文·威廉斯，在纽约联合国总部为您报道。",
+      "english": "This is Gavin Williams, reporting from the United Nations in New York.",
+      "soundmark": "/rɪ'pɔrt/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 4, "表语", "NP"],
+        [5, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "reporter",
+      "chinese": "新闻记者",
+      "english": "a news reporter",
+      "soundmark": "/rɪ'pɔrtɚ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "republic",
+      "chinese": "前德意志联邦共和国",
+      "english": "the former Federal Republic of Germany",
+      "soundmark": "/rɪ'pʌblɪk/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "requirement",
+      "chinese": "难民的主要需求是食物和住所。",
+      "english": "The refugees’ main requirements are food and shelter.",
+      "soundmark": "/rɪ'kwaɪɚmənt/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "系动词", "VP"],
+        [5, 7, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "residence",
+      "chinese": "居留许可证",
+      "english": "a residence permit",
+      "soundmark": "/'rɛzɪdəns/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "resolution",
+      "chinese": "要求禁止倾倒核废物的决议",
+      "english": "a resolution calling for a ban on dumping nuclear waste",
+      "soundmark": "/,rɛzə'luʃən/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "resort",
+      "chinese": "他那累人的工作日程已经使他不得不求助于毒品了。",
+      "english": "His punishing work schedule had made him resort to drugs.",
+      "soundmark": "/rɪ'zɔrt/",
+      "posTags": [[7, 7, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 7, "宾语", "NP"],
+        [8, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "respective",
+      "chinese": "我们都各自回家等待消息。",
+      "english": "We all went back to our respective homes to wait for news.",
+      "soundmark": "/rɪ'spɛktɪv/",
+      "posTags": [[6, 6, "形容词"]],
+      "syntaxTags": [
+        [0, 8, "主语", "NP"],
+        [9, 9, "谓语动词", "VP"],
+        [10, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "respond",
+      "chinese": "他们有可能积极地回应该总统的援助请求。",
+      "english": "They are likely to respond positively to the president's request for aid.",
+      "soundmark": "/rɪ'spɑnd/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 2, "表语", "NP"],
+        [3, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "restless",
+      "chinese": "在马赛住了几星期后，我开始待不住了，决定换个地方。",
+      "english": "After a few weeks in Marseille, I grew restless and decided to move on.",
+      "soundmark": "/'rɛstləs/",
+      "posTags": [[8, 8, "形容词"]],
+      "syntaxTags": [
+        [0, 6, "主语", "NP"],
+        [7, 7, "谓语动词", "VP"],
+        [8, 10, "宾语", "NP"],
+        [11, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "restrain",
+      "chinese": "伦威克忍住了不悦的情绪。",
+      "english": "Renwick restrained a feeling of annoyance.",
+      "soundmark": "/rɪ'stren/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "restraint",
+      "chinese": "警方因对待示威者时所表现出的克制而受到赞扬。",
+      "english": "The police were praised for their restraint in handling the demonstrators.",
+      "soundmark": "/rɪ'strent/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "resume",
+      "chinese": "和平谈判明天重新启动。",
+      "english": "Peace talks will resume tomorrow.",
+      "soundmark": "/rɪˈzjuːm; ˈrɛzjʊmeɪ/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "retire",
+      "chinese": "在大多数人退休的年纪，他准备要面对一项新事业。",
+      "english": "At the age when most people retire, he is ready to face a new career.",
+      "soundmark": "/rɪ'taɪɚ/",
+      "posTags": [[6, 6, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 9, "宾语", "NP"],
+        [10, 14, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "revolt",
+      "chinese": "首相现在面临着党内倒戈。",
+      "english": "The prime minister is now facing a revolt by members of his own party.",
+      "soundmark": "/rɪ'volt/",
+      "posTags": [[7, 7, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "系动词", "VP"],
+        [4, 7, "表语", "NP"],
+        [8, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "revolutionary",
+      "chinese": "这种抗癌新药是一个革命性突破。",
+      "english": "The new cancer drug is a revolutionary breakthrough.",
+      "soundmark": "/'rɛvə'lʊʃə'nɛri/",
+      "posTags": [[6, 6, "形容词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "系动词", "VP"],
+        [5, 7, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "rhythm",
+      "chinese": "非洲音乐节奏少不了鼓。",
+      "english": "Drums are basic to African rhythm.",
+      "soundmark": "/'rɪðəm/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 2, "表语", "NP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "rib",
+      "chinese": "她胳膊和肋骨断了，被送进医院。",
+      "english": "She was taken to hospital with a broken arm and ribs.",
+      "soundmark": "/rɪb/",
+      "posTags": [[10, 10, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "系动词", "VP"],
+        [4, 4, "表语", "NP"],
+        [5, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "ribbon",
+      "chinese": "头发上系着丝带的小姑娘们",
+      "english": "little girls with ribbons in their hair",
+      "soundmark": "/'rɪbən/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 6, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "rid",
+      "chinese": "这些提议是使该国摆脱政治腐败的一种尝试。",
+      "english": "The proposals are an attempt to rid the country of political corruption.",
+      "soundmark": "/rɪd/",
+      "posTags": [[6, 6, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 4, "表语", "NP"],
+        [5, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "ridge",
+      "chinese": "我们沿着山脊小心前行。",
+      "english": "We made our way carefully along the ridge.",
+      "soundmark": "/rɪdʒ/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "ridiculous",
+      "chinese": "那主意很荒唐！",
+      "english": "That’s a ridiculous idea!",
+      "soundmark": "/rɪ'dɪkjələs/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "rifle",
+      "chinese": "他们用一支自动步枪在近距离射程内射中了他。",
+      "english": "They shot him at point blank range with an automatic rifle.",
+      "soundmark": "/'raɪfl/",
+      "posTags": [[10, 10, "名词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 6, "谓语动词", "VP"],
+        [7, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "rigid",
+      "chinese": "死板、专断的教育方法",
+      "english": "rigid and authoritarian methods of education",
+      "soundmark": "/'rɪdʒɪd/",
+      "posTags": [[0, 0, "形容词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "ripe",
+      "chinese": "那些番茄还没熟。",
+      "english": "Those tomatoes aren’t ripe yet.",
+      "soundmark": "/raɪp/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "risk",
+      "chinese": "将信寄到我家是冒险。",
+      "english": "It was a risk, sending a letter to my house.",
+      "soundmark": "/rɪsk/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 6, "表语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "roar",
+      "chinese": "我们听到狮子在吼叫。",
+      "english": "We heard a lion roar.",
+      "soundmark": "/rɔr/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "roast",
+      "chinese": "这鸡你是准备烤的吗？",
+      "english": "Are you going to roast the chicken?",
+      "soundmark": "/rost/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [[0, 6, "疑问句", "Question"]]
+    },
+    {
+      "word": "robot",
+      "chinese": "机器人制造的汽车",
+      "english": "cars built by robots",
+      "soundmark": "/'robɑt/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "rod",
+      "chinese": "测量杆",
+      "english": "a measuring rod",
+      "soundmark": "/rɑd/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "roll",
+      "chinese": "摄影机开始转动，大家安静了下来。",
+      "english": "There was silence as the cameras started to roll.",
+      "soundmark": "/rol/",
+      "posTags": [[8, 8, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 6, "表语", "NP"],
+        [7, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "roller",
+      "chinese": "刷漆滚筒",
+      "english": "a paint roller",
+      "soundmark": "/'rolɚ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "Roman",
+      "chinese": "当古罗马人征服不列颠时，他们把这一习俗也带了过去。",
+      "english": "When they conquered Britain, the Romans brought this custom with them.",
+      "soundmark": "/'romən/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [[0, 10, "疑问句", "Question"]]
+    },
+    {
+      "word": "romantic",
+      "chinese": "“我过生日时汤姆总是给我送红玫瑰。”“多浪漫啊！”",
+      "english": "‘Tom always sends me red roses on my birthday.’ ‘How romantic!’",
+      "soundmark": "/ro'mæntɪk/",
+      "posTags": [[10, 10, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"],
+        [6, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "rotary",
+      "chinese": "直升机螺旋桨叶的转动",
+      "english": "the rotary movement of the helicopter blades",
+      "soundmark": "/'rotəri/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 6, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "rotate",
+      "chinese": "地球每24小时绕地轴自转一周。",
+      "english": "The Earth rotates on its axis once every 24 hours.",
+      "soundmark": "/'rotet/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "rotation",
+      "chinese": "叶片每分钟转100圈。",
+      "english": "The blades spin at 100 rotations per minute.",
+      "soundmark": "/ro'teʃən/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "rotten",
+      "chinese": "坏鸡蛋的气味",
+      "english": "the smell of rotten eggs",
+      "soundmark": "/'rɑtn/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "rough",
+      "chinese": "她的双手因为干重活而变得很粗糙。",
+      "english": "Her hands were rough from hard work.",
+      "soundmark": "/rʌf/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 3, "表语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "rouse",
+      "chinese": "他重重的关门声把邻居都吵醒了。",
+      "english": "His banging roused the neighbours.",
+      "soundmark": "/raʊz/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "route",
+      "chinese": "最直接的回家路线",
+      "english": "the most direct route home",
+      "soundmark": "/raʊt/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "routine",
+      "chinese": "约翰的离去打乱了他们的日常生活。",
+      "english": "John’s departure had upset their daily routine .",
+      "soundmark": "/rʊ'tin/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "row",
+      "chinese": "一排又一排堆满书的架子",
+      "english": "(= many rows ) of shelves stacked with books",
+      "soundmark": "/ro/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 6, "谓语动词", "VP"],
+        [7, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "royal",
+      "chinese": "王宫",
+      "english": "the royal palace",
+      "soundmark": "/'rɔɪəl/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "rug",
+      "chinese": "这位老妇人坐在靠窗的椅子上，膝上盖着一块小毛毯。",
+      "english": "The old lady was seated in her chair at the window, a rug over her knees.",
+      "soundmark": "/rʌɡ/",
+      "posTags": [[12, 12, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "系动词", "VP"],
+        [5, 15, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "rural",
+      "chinese": "乡村环境",
+      "english": "a rural setting",
+      "soundmark": "/'rʊrəl/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "rush",
+      "chinese": "一个小女孩从她身边匆匆经过。",
+      "english": "A small girl rushed past her.",
+      "soundmark": "/rʌʃ/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"]
+      ]
+    }
+  ]
+}

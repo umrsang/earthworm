@@ -1,0 +1,555 @@
+{
+  "title": "Unit 42: 四级核心词汇（eastern ~ empty）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "eastern",
+      "chinese": "岛的东岸",
+      "english": "the eastern shore of the island",
+      "soundmark": "/'istɚn/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "easy",
+      "chinese": "考试很容易。",
+      "english": "The test was easy.",
+      "soundmark": "/'izi/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 3, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "eat",
+      "chinese": "费利克斯一边吃一边兴奋地聊天。",
+      "english": "Felix chatted cheerfully as he ate.",
+      "soundmark": "/iːt/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "echo",
+      "chinese": "她的尖叫声过后是响亮的回声。",
+      "english": "Her scream was followed by a loud echo.",
+      "soundmark": "/'ɛko/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "economic",
+      "chinese": "经济增长缓慢。",
+      "english": "Economic growth is slow.",
+      "soundmark": "/ˌikəˈnɑmɪk, ˌɛkəˈ-nɑmɪk/",
+      "posTags": [[0, 0, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 3, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "economical",
+      "chinese": "开小型汽车比较省油。",
+      "english": "A small car is more economical to run.",
+      "soundmark": "/,ɛkə'nɑmɪkl/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "系动词", "VP"],
+        [4, 5, "表语", "NP"],
+        [6, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "economy",
+      "chinese": "发展成功的经济",
+      "english": "a successful economy",
+      "soundmark": "/ɪ'kɑnəmi/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "edge",
+      "chinese": "他站在水边，凝视着湖对面。",
+      "english": "He stood at the water’s edge staring across the lake.",
+      "soundmark": "/ɛdʒ/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "edition",
+      "chinese": "平装本",
+      "english": "a paperback edition",
+      "soundmark": "/ɪ'dɪʃən/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "editor",
+      "chinese": "现代诗歌论文集的编者",
+      "english": "the editor of a book of essays on modern poetry",
+      "soundmark": "/'ɛdɪtɚ/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "educate",
+      "chinese": "奥默罗德学校的教育对象为残疾儿童。",
+      "english": "The Ormerod School educates handicapped children.",
+      "soundmark": "/'ɛdʒuket/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "谓语动词", "VP"],
+        [5, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "education",
+      "chinese": "她也希望她的孩子可以受到良好的教育。",
+      "english": "She also hopes her children will get a good education.",
+      "soundmark": "/,ɛdʒu'keʃən/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 9, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "effective",
+      "chinese": "较便宜的药品对治疗关节炎同样有效。",
+      "english": "The cheaper drugs are just as effective in treating arthritis.",
+      "soundmark": "/ɪ'fɛktɪv/",
+      "posTags": [[6, 6, "形容词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "系动词", "VP"],
+        [4, 6, "表语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "efficiency",
+      "chinese": "能源效率的显著提高",
+      "english": "considerable advancements in energy efficiency",
+      "soundmark": "/ɪ'fɪʃənsi/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "efficient",
+      "chinese": "效率高的秘书",
+      "english": "a very efficient secretary",
+      "soundmark": "/ɪ'fɪʃnt/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "effort",
+      "chinese": "卢没费多大力气就把箱子搬了起来。",
+      "english": "Lou lifted the box easily, without using much effort.",
+      "soundmark": "/'ɛfɚt/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "egg",
+      "chinese": "乌鸫在3月产蛋。",
+      "english": "Blackbirds lay their eggs in March.",
+      "soundmark": "/ɛɡ/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "eight",
+      "chinese": "还有8天就到圣诞节了。",
+      "english": "It’s only eight days till Christmas.",
+      "soundmark": "/et/",
+      "posTags": [[2, 2, "数词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "eighteen",
+      "chinese": "至少射出了18颗子弹。",
+      "english": "At least eighteen bullets were fired.",
+      "soundmark": "/,e'tin/",
+      "posTags": [[2, 2, "数词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 5, "系动词", "VP"]
+      ]
+    },
+    {
+      "word": "eighth",
+      "chinese": "那时，学生上完八年级就可以辍学，许多学生的确这样做了。",
+      "english": "Until then, students could leave after the eighth grade, and a lot of them did.",
+      "soundmark": "/etθ/",
+      "posTags": [[7, 7, "数词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "谓语动词", "VP"],
+        [5, 14, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "eighty",
+      "chinese": "这支乐队在80年代红透半边天。",
+      "english": "The band was incredibly successful in the eighties.",
+      "soundmark": "/ˈeti/",
+      "posTags": [[0, 0, "数词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 4, "表语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "elaborate",
+      "chinese": "绣有精美图案的真丝衣服",
+      "english": "pure silks embroidered with elaborate patterns",
+      "soundmark": "/ɪ'læbəret/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "elastic",
+      "chinese": "做一个带长耳朵的面具，安上一条松紧带绕过后脑。",
+      "english": "Make a mask with long ears and attach a piece of elastic to go around the back of the head.",
+      "soundmark": "/ɪ'læstɪk/",
+      "posTags": [[11, 11, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 2, "宾语", "NP"],
+        [3, 19, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "elbow",
+      "chinese": "他滑倒了，严重挫伤了一只胳膊肘。",
+      "english": "He slipped and fell, badly bruising an elbow.",
+      "soundmark": "/'ɛlbo/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "elder",
+      "chinese": "两人当中萨拉年纪较长。",
+      "english": "Sarah is the elder of the two.",
+      "soundmark": "/'ɛldɚ/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 3, "表语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "elect",
+      "chinese": "该国第一个民主选举产生的政府",
+      "english": "the country’s first democratically elected government",
+      "soundmark": "/ɪ'lɛkt/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "election",
+      "chinese": "工党在2001年选举中以巨大优势获胜。",
+      "english": "The Labour Party won the 2001 election by a huge majority.",
+      "soundmark": "/ɪ'lɛkʃən/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 6, "宾语", "NP"],
+        [7, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "electric",
+      "chinese": "电热毯",
+      "english": "an electric blanket",
+      "soundmark": "/ɪ'lɛktrɪk/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "electrical",
+      "chinese": "大火是电力故障引起的。",
+      "english": "The fire was caused by an electrical fault.",
+      "soundmark": "/ɪ'lɛktrɪkl/",
+      "posTags": [[6, 6, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "electricity",
+      "chinese": "那个农场非常偏远，但有电力供应。",
+      "english": "The farm was very isolated, but it had electricity.",
+      "soundmark": "/ɪ'lɛk'trɪsəti/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 8, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "electron",
+      "chinese": "大部分物体都是电荷平衡的——含等量的电子和质子。",
+      "english": "Most things are balanced - with equal numbers of electrons and protons.",
+      "soundmark": "/ɪ'lɛktrɑn/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 4, "表语", "NP"],
+        [5, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "electronic",
+      "chinese": "电子游戏",
+      "english": "electronic games",
+      "soundmark": "/ɪˌlekˈtrɑːnɪk/",
+      "posTags": [[0, 0, "形容词"]],
+      "syntaxTags": [[0, 1, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "electronics",
+      "chinese": "电子工程师",
+      "english": "an electronics engineer",
+      "soundmark": "/ɪ,lɛk'trɑnɪks/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "elementary",
+      "chinese": "正义和民主的基本信条",
+      "english": "the elementary principles of justice and democracy",
+      "soundmark": "/,ɛlɪ'mɛntri/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 6, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "elephant",
+      "chinese": "长鼻是象的特征。",
+      "english": "A trunk distinguishes the elephant.",
+      "soundmark": "/'ɛlɪfənt/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "elevator",
+      "chinese": "我们只好坐电梯了。",
+      "english": "We’ll have to take the elevator.",
+      "soundmark": "/'ɛlɪvetɚ/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "eleven",
+      "chinese": "她被判入狱11个月。",
+      "english": "She was sent to jail for eleven months.",
+      "soundmark": "/ɪ'lɛvn/",
+      "posTags": [[6, 6, "数词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 4, "系动词", "VP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "eleventh",
+      "chinese": "从十年级升到十一年级是个重要的阶段。",
+      "english": "Moving up from tenth to eleventh grade was a major one.",
+      "soundmark": "/ɪ'lɛvnθ/",
+      "posTags": [[5, 5, "数词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "elimination",
+      "chinese": "母乳哺养是天生的，就像性交、排泄或者其他任何身体功能一样。",
+      "english": "Breast-feeding is as natural as sex or elimination or any other bodily function.",
+      "soundmark": "/ɪ,lɪmə'neʃən/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 1, "谓语动词", "VP"],
+        [2, 12, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "else",
+      "chinese": "我还有其他事情要谈一谈。",
+      "english": "There’s something else I’d like to talk about as well.",
+      "soundmark": "/ɛls/",
+      "posTags": [[2, 2, "副词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 6, "谓语动词", "VP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "elsewhere",
+      "chinese": "她在澳大利亚和其他地方渐渐出名了。",
+      "english": "She is becoming famous in Australia and elsewhere.",
+      "soundmark": "/els'weə; 'elsweə/",
+      "posTags": [[7, 7, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 3, "表语", "NP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "emotion",
+      "chinese": "她的声音充满了激情。",
+      "english": "Her voice was full of emotion.",
+      "soundmark": "/ɪ'moʃən/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 3, "表语", "NP"],
+        [4, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "emperor",
+      "chinese": "皇帝进入朝廷时他们都向他鞠躬致敬。",
+      "english": "They  bowed before the emperor as he entered the court.",
+      "soundmark": "/'ɛmpərɚ/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "emphasis",
+      "chinese": "政府政策重心的变化",
+      "english": "a change of emphasis in government policy",
+      "soundmark": "/'ɛmfəsɪs/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "empire",
+      "chinese": "罗马帝国",
+      "english": "the Roman empire",
+      "soundmark": "/'ɛmpaɪr/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "employ",
+      "chinese": "这家工厂雇用了2,000多名员工。",
+      "english": "The factory employs over 2,000 people.",
+      "soundmark": "/ɪm'plɔɪ/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "employee",
+      "chinese": "政府雇员",
+      "english": "a government employee",
+      "soundmark": "/ɪm'plɔɪi/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "employer",
+      "chinese": "这家制鞋厂是本地区最大的雇主。",
+      "english": "The shoe factory is the largest employer in this area.",
+      "soundmark": "/ɪm'plɔɪɚ/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "系动词", "VP"],
+        [4, 6, "表语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "employment",
+      "chinese": "她获聘在销售部工作。",
+      "english": "She was offered employment in the sales office.",
+      "soundmark": "/ɪm'plɔɪmənt/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 3, "表语", "NP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "empty",
+      "chinese": "空盒子",
+      "english": "an empty box",
+      "soundmark": "/ˈɛmptɪ/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    }
+  ]
+}

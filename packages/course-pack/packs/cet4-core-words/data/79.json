@@ -1,0 +1,576 @@
+{
+  "title": "Unit 79: 四级核心词汇（throat ~ trust）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "throat",
+      "chinese": "星期三演出后，这位歌手说喉咙痛。",
+      "english": "The singer complained of a sore throat after Wednesday’s show.",
+      "soundmark": "/θroʊt/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "throughout",
+      "chinese": "在世界各地都设有办事处的一家大型机构",
+      "english": "a large organization with offices throughout the world",
+      "soundmark": "/θrʊ'aʊt/",
+      "posTags": [[5, 5, "介词"]],
+      "syntaxTags": [[0, 7, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "thrust",
+      "chinese": "他们把他猛推入吉普车的后部。",
+      "english": "They thrust him into the back of a jeep.",
+      "soundmark": "/θrʌst/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "thunder",
+      "chinese": "晚上我们被雷声惊醒。",
+      "english": "We were woken in the night by thunder.",
+      "soundmark": "/'θʌndɚ/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 2, "表语", "NP"],
+        [3, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "thus",
+      "chinese": "大多数证据已在大火中烧毁，因而要证明他有罪几乎是不可能的。",
+      "english": "Most of the evidence was destroyed in the fire. Thus it would be almost impossible to prove him guilty.",
+      "soundmark": "/ðʌs/",
+      "posTags": [[9, 9, "副词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 5, "系动词", "VP"],
+        [6, 18, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "tidy",
+      "chinese": "整洁的书桌",
+      "english": "a tidy desk",
+      "soundmark": "/'taɪdi/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "tin",
+      "chinese": "旧的锡浴缸",
+      "english": "an old tin bath",
+      "soundmark": "/tɪn/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "tip",
+      "chinese": "你给侍应生小费了吗？",
+      "english": "Did you tip the waiter?",
+      "soundmark": "/tɪp/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [[0, 4, "疑问句", "Question"]]
+    },
+    {
+      "word": "tire",
+      "chinese": "接近山顶时，我们感到越来越累了。",
+      "english": "As we neared the summit, we were tiring fast.",
+      "soundmark": "/'taɪɚ/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "tissue",
+      "chinese": "随着年纪的增大，我们会失去一些肌肉组织。",
+      "english": "As we age we lose muscle tissue.",
+      "soundmark": "/'tɪʃu/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "toast",
+      "chinese": "我早饭吃了一片吐司。",
+      "english": "I had a piece of toast for breakfast.",
+      "soundmark": "/tost/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "toe",
+      "chinese": "他的脚趾踢到一块石头上受了伤。",
+      "english": "He stubbed his toe (= hurt it by kicking it against something ) on a rock.",
+      "soundmark": "/to/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"],
+        [7, 15, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "toilet",
+      "chinese": "公共厕所",
+      "english": "public toilets",
+      "soundmark": "/'tɔɪlət/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 1, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "tolerate",
+      "chinese": "我们决不容许有自行惩办犯罪的组织出现在我们的街头。",
+      "english": "We simply will not tolerate vigilante groups on our streets.",
+      "soundmark": "/'tɑləret/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "谓语动词", "VP"],
+        [5, 6, "宾语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "tone",
+      "chinese": "她很气愤，语气尖刻。",
+      "english": "Her tone was sharp with anger.",
+      "soundmark": "/ton/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 3, "表语", "NP"],
+        [4, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "torch",
+      "chinese": "我们用手电筒照着山洞。",
+      "english": "We shone our torches around the cavern.",
+      "soundmark": "/tɔrtʃ/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 6, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "torture",
+      "chinese": "遭受了五天的严刑拷打之后，他死了。",
+      "english": "He died after five days of excruciating torture.",
+      "soundmark": "/'tɔrtʃɚ/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "total",
+      "chinese": "香烟广告的全面禁止",
+      "english": "a total ban on cigarette advertising",
+      "soundmark": "/'totl/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "touch",
+      "chinese": "她伸手去碰他的胳膊。",
+      "english": "She reached out to touch his arm.",
+      "soundmark": "/tʌtʃ/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "tour",
+      "chinese": "他在旅行中拿她打趣逗乐。",
+      "english": "He devilled her during the tour.",
+      "soundmark": "",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "tourist",
+      "chinese": "剑桥在夏季总是挤满了游客。",
+      "english": "Cambridge is always full of tourists in the summer.",
+      "soundmark": "/'tʊrɪst/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 3, "表语", "NP"],
+        [4, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "towel",
+      "chinese": "你有没有干净毛巾给我用？",
+      "english": "Have you got a clean towel I could use?",
+      "soundmark": "/'taʊəl/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [[0, 8, "疑问句", "Question"]]
+    },
+    {
+      "word": "tower",
+      "chinese": "埃菲尔铁塔",
+      "english": "the Eiffel Tower",
+      "soundmark": "/'taʊɚ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "tractor",
+      "chinese": "铁牛是拖拉机的别名。",
+      "english": "Iron-ox is another name for tractor.",
+      "soundmark": "/'træktɚ/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 3, "表语", "NP"],
+        [4, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "trade",
+      "chinese": "国际贸易协定",
+      "english": "international trade agreements",
+      "soundmark": "/tred/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "traffic",
+      "chinese": "路上车辆不多。",
+      "english": "There wasn’t much traffic on the roads.",
+      "soundmark": "/'træfɪk/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 6, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "tragedy",
+      "chinese": "悲剧发生在他们夜里外出归来的路上。",
+      "english": "The tragedy happened as they were returning home from a night out.",
+      "soundmark": "/'trædʒədi/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 7, "宾语", "NP"],
+        [8, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "trail",
+      "chinese": "小路越过博尔德山口，然后向下通往湖边。",
+      "english": "The trail led over Boulder Pass before descending to a lake.",
+      "soundmark": "/trel/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "transformation",
+      "chinese": "近些年，电影业经历了巨大的变革。",
+      "english": "In recent years, the movie industry has undergone a dramatic transformation .",
+      "soundmark": "/,trænsfɚ'meʃən/",
+      "posTags": [[10, 10, "名词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 6, "谓语动词", "VP"],
+        [7, 11, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "transformer",
+      "chinese": "通过运用一个变压器，他将密码翻译成他读得懂的译文。",
+      "english": "By using a transformer, he translated the codes into translation he could read.",
+      "soundmark": "/træns'fɔrmɚ/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 7, "宾语", "NP"],
+        [8, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "transistor",
+      "chinese": "每个晶体管至少有三个电极。",
+      "english": "Every transistor has at least three electrodes.",
+      "soundmark": "/træn'zɪstɚ/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "transmission",
+      "chinese": "全球数据传输",
+      "english": "worldwide data transmission",
+      "soundmark": "/træns'mɪʃən/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "transmit",
+      "chinese": "美国公开赛将通过卫星现场直播。",
+      "english": "The US Open will be transmitted live via satellite.",
+      "soundmark": "/trænzˈmɪt/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 6, "谓语动词", "VP"],
+        [7, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "transparent",
+      "chinese": "透明的塑料容器",
+      "english": "a transparent plastic container",
+      "soundmark": "/træns'pærənt/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "transport",
+      "chinese": "运输石油的卡车",
+      "english": "trucks used for transporting oil",
+      "soundmark": "/'trænspɔrt/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "trap",
+      "chinese": "抓老鼠的唯一办法就是放置捕鼠器。",
+      "english": "The only way to catch mice is to set a trap .",
+      "soundmark": "/træp/",
+      "posTags": [[10, 10, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 6, "宾语", "NP"],
+        [7, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "tray",
+      "chinese": "服务员用托盘端来饮料。",
+      "english": "The waiter brought drinks on a tray.",
+      "soundmark": "/tre/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "treat",
+      "chinese": "经过处理可用作肥料的污水",
+      "english": "sewage treated so that it can be used as fertilizer",
+      "soundmark": "/trit/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 9, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "treaty",
+      "chinese": "双方都同意签署该条约。",
+      "english": "Both sides have agreed to sign the treaty .",
+      "soundmark": "/'triti/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "谓语动词", "VP"],
+        [5, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "trend",
+      "chinese": "他简单扼要地描述了当前世界的主要倾向。",
+      "english": "He characterized briefly the main trend in the world today.",
+      "soundmark": "/trɛnd/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "宾语", "NP"],
+        [6, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "trial",
+      "chinese": "审理定于下周开始。",
+      "english": "The trial is due to start next week.",
+      "soundmark": "/'traɪəl/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 3, "表语", "NP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "triangle",
+      "chinese": "一块三角地",
+      "english": "a triangle of land",
+      "soundmark": "/'traɪæŋɡl/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "trick",
+      "chinese": "假装不记得是他的老花招了。",
+      "english": "Pretending he doesn’t remember is an old trick of his.",
+      "soundmark": "/trɪk/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 7, "宾语", "NP"],
+        [8, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "trim",
+      "chinese": "修剪齐整的郊区花园",
+      "english": "trim suburban gardens",
+      "soundmark": "/trɪm/",
+      "posTags": [[0, 0, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 2, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "troop",
+      "chinese": "两国都同意撤军。",
+      "english": "Both countries agreed to withdraw their troops .",
+      "soundmark": "/trʊp/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "谓语动词", "VP"],
+        [5, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "tropical",
+      "chinese": "热带雨林",
+      "english": "the tropical rain forests",
+      "soundmark": "/'trɑpɪkl/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "troublesome",
+      "chinese": "烦人的孩子",
+      "english": "a troublesome child",
+      "soundmark": "/'trʌblsəm/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "trumpet",
+      "chinese": "我在学校管弦乐队吹小号。",
+      "english": "I played the trumpet in the school orchestra.",
+      "soundmark": "/'trʌmpɪt/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "trunk",
+      "chinese": "他把他的自行车斜靠在树干上。",
+      "english": "He left his bicycle leaning against a tree trunk .",
+      "soundmark": "/trʌŋk/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "trust",
+      "chinese": "起初，他们之间缺乏信任。",
+      "english": "At first there was a lack of trust between them.",
+      "soundmark": "/trʌst/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "系动词", "VP"],
+        [4, 5, "表语", "NP"],
+        [6, 9, "状语修饰", "PP"]
+      ]
+    }
+  ]
+}

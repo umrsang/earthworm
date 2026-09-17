@@ -1,0 +1,568 @@
+{
+  "title": "Unit 86: 四级核心词汇（agenda ~ elderly）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "agenda",
+      "chinese": "共和党人坚持自己的保守议题。",
+      "english": "The Republicans have stuck to their conservative agenda.",
+      "soundmark": "/ə'dʒɛndə/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "devotion",
+      "chinese": "最初他的挚爱使她感到受宠若惊。",
+      "english": "At first she was flattered by his devotion.",
+      "soundmark": "/dɪ'voʃən/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "系动词", "VP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "anonymous",
+      "chinese": "一本诗集的佚名作者",
+      "english": "the anonymous author of a collection of poems",
+      "soundmark": "/ə'nɑnəməs/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 7, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "butcher",
+      "chinese": "他在肉铺工作。",
+      "english": "He worked in a butcher's.",
+      "soundmark": "/ˈbʊtʃər/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "fourfold",
+      "chinese": "沿供应链向下，其大城市批发价格跳升十倍，而全国售价则上升四倍。",
+      "english": "Further down the supply chain, garlic prices have jumped tenfold on wholesale markets in big cities and fourfold nationwide.",
+      "soundmark": "/'fɔrfold/",
+      "posTags": [[17, 17, "副词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 9, "宾语", "NP"],
+        [10, 18, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "publicity",
+      "chinese": "会谈之前做了大量的宣传。",
+      "english": "Much advance publicity was given to the talks.",
+      "soundmark": "/pʌb'lɪsəti/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "membership",
+      "chinese": "你应该随身携带会员卡。",
+      "english": "You should carry your membership card with you at all times.",
+      "soundmark": "/'mɛmbɚʃɪp/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"],
+        [6, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "modernization",
+      "chinese": "我们都应该对我国的现代化作出贡献。",
+      "english": "We should all make contributions to the modernization of our country.",
+      "soundmark": "/,mɑdɚnə'zeʃən/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "criminology",
+      "chinese": "被害人学与犯罪学之间的关系问题是学界的一个宿疑。",
+      "english": "The relationship between victimology and criminology is a longstanding issue within the academic realm.",
+      "soundmark": "/,krɪmɪ'nɑlədʒi/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 6, "系动词", "VP"],
+        [7, 13, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "controversy",
+      "chinese": "政治争议",
+      "english": "a political controversy",
+      "soundmark": "/ˈkɑntrəvɝ​sɪ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "newsstand",
+      "chinese": "自1981年以来，有八家全国性报纸已在报摊上有售。",
+      "english": "Eight new national newspapers have appeared on the newsstands since 1981.",
+      "soundmark": "/'njʊz,stænd/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 5, "谓语动词", "VP"],
+        [6, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "ambassador",
+      "chinese": "…德国驻波兰大使。",
+      "english": "...the German ambassador to Poland.",
+      "soundmark": "/æm'bæsədɚ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "landscape",
+      "chinese": "新英格兰风光之美",
+      "english": "the beauty of the New England landscape",
+      "soundmark": "/ˈlændskep/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 6, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "understanding",
+      "chinese": "幸运的是，我有一个非常通情达理的上司。",
+      "english": "Luckily, I have a very under­standing boss.",
+      "soundmark": "/,ʌndɚ'stændɪŋ/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "fairy",
+      "chinese": "在梦中，他变成了一个小精灵。",
+      "english": "In his dream, he became a fairy.",
+      "soundmark": "/'fɛri/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "courtyard",
+      "chinese": "城堡的庭院",
+      "english": "the castle courtyard",
+      "soundmark": "/'kɔrtjɑrd/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "minimize",
+      "chinese": "正在尽最大努力减少平民伤亡。",
+      "english": "Every effort is being made to minimize civilian casualties.",
+      "soundmark": "/'mɪnɪmaɪz/",
+      "posTags": [[6, 6, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 6, "系动词", "VP"],
+        [7, 8, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "handbag",
+      "chinese": "没有，我只有一个手提包。",
+      "english": "Rice: No, I only have a handbag.",
+      "soundmark": "/'hænd'bæg/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "shallow",
+      "chinese": "浅河",
+      "english": "a shallow river",
+      "soundmark": "/'ʃælo/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "lease",
+      "chinese": "房东拒绝和他续签租约。",
+      "english": "The landlord refused to renew his lease.",
+      "soundmark": "/lis/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "谓语动词", "VP"],
+        [5, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "slap",
+      "chinese": "萨拉在阿龙的脸上掴了一巴掌。",
+      "english": "Sarah slapped Aaron across the face.",
+      "soundmark": "/slæp/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "spit",
+      "chinese": "尼克摇下窗子，啐了口唾沫。",
+      "english": "Nick rolled down his window and spat.",
+      "soundmark": "/spɪt/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "anniversary",
+      "chinese": "1月，杰克和金庆祝了他们的结婚20周年纪念日。",
+      "english": "Jack and Kim celebrated their twentieth wedding anniversary in January.",
+      "soundmark": "/,ænɪ'vɝsəri/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 7, "宾语", "NP"],
+        [8, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "persuasive",
+      "chinese": "特雷弗有时很会说服人。",
+      "english": "Trevor can be very persuasive.",
+      "soundmark": "/pɚ'swesɪv/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "official",
+      "chinese": "对此次爆炸事件原因的官方调查",
+      "english": "an official investigation into the causes of the explosion",
+      "soundmark": "/əˈfɪʃəl; oʊˈfɪʃəl/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 8, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "world-wide",
+      "chinese": "如今，医生们在担心一次世界性的流行。",
+      "english": "Today, doctors are fearing a worldwide epidemic.",
+      "soundmark": "/'wɜːldwaɪd/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 6, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "respect",
+      "chinese": "这些男孩子根本无视权威。",
+      "english": "The boys showed a complete lack of respect for authority.",
+      "soundmark": "/rɪ'spɛkt/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"],
+        [6, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "shell",
+      "chinese": "周围炮弹四处飞落，我们奔跑着寻找地方躲避。",
+      "english": "We ran for cover as shells dropped all around us.",
+      "soundmark": "/ʃɛl/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 9, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "breakdown",
+      "chinese": "一定要随身带电话，以防汽车在高速公路上抛锚。",
+      "english": "Always carry a phone with you in case you have a breakdown on the motorway.",
+      "soundmark": "/'brek'daʊn/",
+      "posTags": [[11, 11, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 14, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "jeans",
+      "chinese": "…一个穿着牛仔裤和破旧T恤衫的年轻人。",
+      "english": "...a young man in jeans and a worn T-shirt.",
+      "soundmark": "/dʒiːnz/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 8, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "copyright",
+      "chinese": "谁拥有这本书的版权？",
+      "english": "Who owns the copyright of this book?",
+      "soundmark": "/'kɑpɪraɪt/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 6, "疑问句", "Question"]]
+    },
+    {
+      "word": "biotechnology",
+      "chinese": "生物技术产业",
+      "english": "the biotech industries",
+      "soundmark": "/'baɪotɛk'nɑlədʒi/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "charter",
+      "chinese": "…运出外国侨民的最后一班包机。",
+      "english": "...the last charter plane carrying out foreign nationals.",
+      "soundmark": "/'tʃɑrtɚ/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "slim",
+      "chinese": "身材苗条的年轻女子",
+      "english": "a slim young woman",
+      "soundmark": "/slɪm/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "succeeding",
+      "chinese": "接下来的几周，事情越来越糟。",
+      "english": "Over the succeeding weeks things went from bad to worse.",
+      "soundmark": "/sək'siːdɪŋ/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [[0, 9, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "viewpoint",
+      "chinese": "角度不同，产生的画面也不同。",
+      "english": "Different viewpoints produce different images.",
+      "soundmark": "/'vjupɔɪnt/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "crossing",
+      "chinese": "必须让人行横道上的行人先行。",
+      "english": "You must give way to any pedestrians on the crossing.",
+      "soundmark": "/'krɔsɪŋ/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "script",
+      "chinese": "用工整的黑色字写下的一则日记",
+      "english": "a diary entry written in neat black script",
+      "soundmark": "/skrɪpt/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "system",
+      "chinese": "警报系统",
+      "english": "an alarm system",
+      "soundmark": "/'sɪstəm/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "spot",
+      "chinese": "海滩上一个安静的好地方",
+      "english": "a nice quiet spot on the beach",
+      "soundmark": "/spɑt/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "vacation",
+      "chinese": "我们正计划去欧洲度假。",
+      "english": "We’re planning a vacation in Europe.",
+      "soundmark": "/veˈkeʃən/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "curriculum",
+      "chinese": "语言是学校课程中必不可少的部分。",
+      "english": "Languages are an essential part of the school curriculum.",
+      "soundmark": "/kə'rɪkjələm/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 4, "表语", "NP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "slip",
+      "chinese": "本悄悄地溜出了房间。",
+      "english": "Ben slipped quietly out of the room.",
+      "soundmark": "/slɪp/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "species",
+      "chinese": "已有七种猛禽被观察到。",
+      "english": "Seven species of birds of prey have been observed.",
+      "soundmark": "/'spiʃiz/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 8, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "internship",
+      "chinese": "…一个在纽约做外科实习的职位。",
+      "english": "...an internship in surgery in New York.",
+      "soundmark": "/'ɪntɝnʃɪp/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 6, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "precision",
+      "chinese": "我们要求做贵司精密仪器在我们市场的代理。",
+      "english": "We require the agency in our market for your precision apparatus.",
+      "soundmark": "/prɪ'sɪʒn/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "estate",
+      "chinese": "乡村的庄园",
+      "english": "a country estate",
+      "soundmark": "/ɪ'stet/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "rumour",
+      "chinese": "有谣传说他可能出任这个项目的主管。",
+      "english": "His name has come up in the rumour mill as a possible director for the project.",
+      "soundmark": "/'ru:mə/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 15, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "rob",
+      "chinese": "他们抢劫一家银行的时候杀了4名警察。",
+      "english": "They killed four policemen while robbing a bank.",
+      "soundmark": "/rɑb/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "elderly",
+      "chinese": "穿着考究的老妇人",
+      "english": "a well-dressed elderly woman",
+      "soundmark": "/'ɛldɚli/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"]
+      ]
+    }
+  ]
+}

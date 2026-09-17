@@ -1,0 +1,563 @@
+{
+  "title": "Unit 49: 四级核心词汇（geometry ~ grass）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "geometry",
+      "chinese": "…数学和几何学描述自然的条理性。",
+      "english": "...the very ordered way in which mathematics and geometry describe nature.",
+      "soundmark": "/dʒɪ'ɑmətri/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "germ",
+      "chinese": "在抽水马桶里投放消毒剂杀菌。",
+      "english": "Put disinfectant down the toilet to kill any germs.",
+      "soundmark": "/dʒɝm/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 1, "宾语", "NP"],
+        [2, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "German",
+      "chinese": "德国历史",
+      "english": "German history",
+      "soundmark": "/'dʒɜːmən/",
+      "posTags": [[0, 0, "形容词"]],
+      "syntaxTags": [[0, 1, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "get",
+      "chinese": "我们需要马上得到帮助！",
+      "english": "We need to get help quickly!",
+      "soundmark": "/ɡɛt/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 4, "谓语动词", "VP"],
+        [5, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "ghost",
+      "chinese": "他们说那个少女的鬼魂依旧在那房子里出没。",
+      "english": "They say the young girl’s ghost still haunts (= often appears in ) the house.",
+      "soundmark": "/ɡost/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 10, "宾语", "NP"],
+        [11, 14, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "giant",
+      "chinese": "…一部关于巨人的北欧传奇。",
+      "english": "...a Nordic saga of giants.",
+      "soundmark": "/'dʒaɪənt/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "girl",
+      "chinese": "男孩和女孩均可申请加入合唱团。",
+      "english": "Both boys and girls can apply to join the choir.",
+      "soundmark": "/ɡɝl/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 7, "谓语动词", "VP"],
+        [8, 9, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "give",
+      "chinese": "研究人员得到一万英镑的经费以继续他们的研究。",
+      "english": "Researchers were given a £10,000 grant to continue their work.",
+      "soundmark": "/ɡɪv/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 5, "表语", "NP"],
+        [6, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "glad",
+      "chinese": "你来了我们真高兴。",
+      "english": "We’re so glad you came.",
+      "soundmark": "/ɡlæd/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "glance",
+      "chinese": "怀亚特环视了一下餐馆。",
+      "english": "Wyatt glanced around the restaurant.",
+      "soundmark": "/ɡlæns/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "glare",
+      "chinese": "刺眼的阳光照在我们身上。",
+      "english": "The sun glared down on us.",
+      "soundmark": "/ɡlɛr/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "glass",
+      "chinese": "玻璃碗",
+      "english": "a glass bowl",
+      "soundmark": "/ɡlæs/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "glide",
+      "chinese": "侍者们托着一盘盘的意大利面食在拥挤的餐桌间自如穿行。",
+      "english": "Waiters glide between tightly packed tables bearing trays of pasta.",
+      "soundmark": "/ɡlaɪd/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "glimpse",
+      "chinese": "我瞥见窗前有个身影。",
+      "english": "I glimpsed a figure at the window.",
+      "soundmark": "/ɡlɪmps/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "glitter",
+      "chinese": "阳光下河面波光粼粼。",
+      "english": "The river glittered in the sunlight.",
+      "soundmark": "/'ɡlɪtɚ/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "globe",
+      "chinese": "我们的商品出口到世界各地。",
+      "english": "We export our goods all over the globe.",
+      "soundmark": "/ɡlob/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "glory",
+      "chinese": "她梦想着将来能得到奥运冠军的荣誉。",
+      "english": "She dreamt of future glory as an Olympic champion.",
+      "soundmark": "/'ɡlɔri/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 8, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "glove",
+      "chinese": "一副手套",
+      "english": "a pair of gloves",
+      "soundmark": "/ɡlʌv/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "glow",
+      "chinese": "这种润肤霜给我脸上带来了持续整天的一种健康的红光。",
+      "english": "The moisturizer gave my face a healthy glow that lasted all day.",
+      "soundmark": "/ɡlo/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 11, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "glue",
+      "chinese": "…一管胶水。",
+      "english": "...a tube of glue.",
+      "soundmark": "/ɡlu/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "go",
+      "chinese": "盘子哗啦一声掉在地板上。",
+      "english": "The plate went crashing to the floor.",
+      "soundmark": "/go/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "goal",
+      "chinese": "身为父母，你的目标就是要培养孩子成为独立的成年人。",
+      "english": "Your goal as a parent is to help your child become an independent adult.",
+      "soundmark": "/ɡol/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 7, "系动词", "VP"],
+        [8, 13, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "goat",
+      "chinese": "老虎向山羊扑去。",
+      "english": "The tiger sprang on the goat.",
+      "soundmark": "/ɡot/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "God",
+      "chinese": "他信奉上帝。",
+      "english": "He believes in God.",
+      "soundmark": "/ɡɑd/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "gold",
+      "chinese": "她披金戴银地来参加派对。",
+      "english": "She came to the party dripping with gold (= wearing a lot of gold ) .",
+      "soundmark": "/ɡold/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "谓语动词", "VP"],
+        [6, 15, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "golden",
+      "chinese": "金发",
+      "english": "golden hair",
+      "soundmark": "/'ɡoldən/",
+      "posTags": [[0, 0, "形容词"]],
+      "syntaxTags": [[0, 1, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "golf",
+      "chinese": "他星期天都去打高尔夫球。",
+      "english": "He plays golf on Sundays.",
+      "soundmark": "/gɔlf/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "good",
+      "chinese": "一家不错的宾馆",
+      "english": "a good hotel",
+      "soundmark": "/ɡʊd/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "goodness",
+      "chinese": "他依然相信人性的善。",
+      "english": "He retains a faith in human goodness.",
+      "soundmark": "/'ɡʊdnəs/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "goods",
+      "chinese": "庞大的消费品市场",
+      "english": "the large market for consumer goods",
+      "soundmark": "/ɡʊdz/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "goose",
+      "chinese": "…烤鹅。",
+      "english": "...roast goose.",
+      "soundmark": "/ɡus/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 1, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "government",
+      "chinese": "政府正计划进一步削减公共支出。",
+      "english": "The Government are planning further cuts in public spending.",
+      "soundmark": "/'ɡʌvɚnmənt/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 5, "表语", "NP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "grace",
+      "chinese": "莉娜走路姿势有着舞者般的优美。",
+      "english": "Lena moved with the grace of a dancer.",
+      "soundmark": "/ɡres/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "graceful",
+      "chinese": "她举手投足优雅而高贵。",
+      "english": "Her movements were graceful and elegant.",
+      "soundmark": "/'ɡresfl/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 5, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "gracious",
+      "chinese": "西比尔非常和蔼，乐于助人，而且为人慷慨，和她共事最愉快。",
+      "english": "Sibyl was the most gracious, helpful, and generous person to work with.",
+      "soundmark": "/'ɡreʃəs/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 8, "表语", "NP"],
+        [9, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "grade",
+      "chinese": "所有公园都由旅游协会的检查员进行定期检查和评级。",
+      "english": "All the parks are regularly checked and graded by tourist board inspectors.",
+      "soundmark": "/ɡred/",
+      "posTags": [[7, 7, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "系动词", "VP"],
+        [4, 7, "表语", "NP"],
+        [8, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "gradual",
+      "chinese": "气候渐渐发生了变化。",
+      "english": "There has been a gradual change in climate.",
+      "soundmark": "/'ɡrædʒuəl/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"],
+        [6, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "gradually",
+      "chinese": "吉尔渐渐地闻到了一股难闻的气味。",
+      "english": "Jill gradually became aware of an awful smell.",
+      "soundmark": "/'grædʒʊəli/",
+      "posTags": [[1, 1, "副词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 3, "表语", "NP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "graduate",
+      "chinese": "哈佛毕业生",
+      "english": "a Harvard graduate",
+      "soundmark": "/ˈɡrædʒuˌet/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "grammar",
+      "chinese": "检查你的拼写和语法。",
+      "english": "Check your spelling and grammar.",
+      "soundmark": "/'græmɚ/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "grammatical",
+      "chinese": "语法规则",
+      "english": "grammatical rules",
+      "soundmark": "/grə'mætɪkl/",
+      "posTags": [[0, 0, "形容词"]],
+      "syntaxTags": [[0, 1, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "grand",
+      "chinese": "豪华的乡间大宅",
+      "english": "a grand country house",
+      "soundmark": "/ɡrænd/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "granddaughter",
+      "chinese": "…一幅我孙女阿梅莉亚的画像。",
+      "english": "...a drawing of my granddaughter Amelia.",
+      "soundmark": "/'ɡrændɔtɚ/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "grandfather",
+      "chinese": "他爷爷曾是位教授。",
+      "english": "His grandfather was a professor.",
+      "soundmark": "/'græn'fɑðɚ/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 4, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "grandmother",
+      "chinese": "我的祖母和外祖母都是寡妇。",
+      "english": "My grandmothers are both widows.",
+      "soundmark": "/'ɡrænmʌðɚ/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 4, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "grandson",
+      "chinese": "我孙子的生日是星期二。",
+      "english": "My grandson's birthday was on Tuesday.",
+      "soundmark": "/'ɡrænsʌn/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "系动词", "VP"],
+        [4, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "grape",
+      "chinese": "一串葡萄",
+      "english": "a bunch of grapes",
+      "soundmark": "/ɡrep/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "graph",
+      "chinese": "马丁给我看了他们最近销售情况的图表。",
+      "english": "Martin showed me a graph of their recent sales.",
+      "soundmark": "/ɡræf/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "grasp",
+      "chinese": "我紧紧抓住他的胳膊把他带走。",
+      "english": "I grasped his arm firmly and led him away.",
+      "soundmark": "/ɡræsp/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "grass",
+      "chinese": "我走在草地上。",
+      "english": "I walked across the grass.",
+      "soundmark": "/ɡræs/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "状语修饰", "PP"]
+      ]
+    }
+  ]
+}

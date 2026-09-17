@@ -1,0 +1,560 @@
+{
+  "title": "Unit 76: 四级核心词汇（shore ~ specimen）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "shore",
+      "chinese": "我们看见离岸边大约一英里的地方有一艘船。",
+      "english": "We could see a boat about a mile from shore.",
+      "soundmark": "/ʃɔr/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "shortage",
+      "chinese": "因为燃料短缺，所以没有供暖。",
+      "english": "There is no heating available due to fuel shortages.",
+      "soundmark": "/'ʃɔrtɪdʒ/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 5, "表语", "NP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "shortly",
+      "chinese": "琼斯女士很快就会回来。",
+      "english": "Ms Jones will be back shortly.",
+      "soundmark": "/'ʃɔrtli/",
+      "posTags": [[5, 5, "副词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "shot",
+      "chinese": "他射出了所有的子弹却没有一发命中。",
+      "english": "He shot all his bullets, but no one hit.",
+      "soundmark": "/ʃɑt/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 8, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "shower",
+      "chinese": "为什么电话铃总是在我洗澡的时候响？",
+      "english": "Why does the phone always ring when I’m in the shower?",
+      "soundmark": "/'ʃaʊɚ/",
+      "posTags": [[10, 10, "名词"]],
+      "syntaxTags": [[0, 10, "疑问句", "Question"]]
+    },
+    {
+      "word": "shriek",
+      "chinese": "他们哭喊着被人从家里拖出去。",
+      "english": "They were dragged from their homes, shrieking and weeping.",
+      "soundmark": "/ʃrik/",
+      "posTags": [[6, 6, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "sign",
+      "chinese": "美元符号",
+      "english": "the dollar sign",
+      "soundmark": "/saɪn/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "significance",
+      "chinese": "有关宗教的社会意义的观念已随时间的流逝发生了改变。",
+      "english": "Ideas about the social significance of religion have changed over time.",
+      "soundmark": "/sɪɡ'nɪfɪkəns/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 6, "主语", "NP"],
+        [7, 8, "谓语动词", "VP"],
+        [9, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "silence",
+      "chinese": "沉默了片刻才有人回答。",
+      "english": "There was a brief silence before anyone answered.",
+      "soundmark": "/'saɪləns/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 4, "表语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "silent",
+      "chinese": "这幢大房子寂静荒凉。",
+      "english": "The large house was silent and lonely.",
+      "soundmark": "/'saɪlənt/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "系动词", "VP"],
+        [4, 6, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "silk",
+      "chinese": "生丝面料的漂亮连衣裙",
+      "english": "pure silk stockings",
+      "soundmark": "/sɪlk/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "silly",
+      "chinese": "别再问傻问题了。",
+      "english": "Stop asking silly questions.",
+      "soundmark": "/'sɪli/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "similarly",
+      "chinese": "她写给我的第一封信不到一页，第二封信也一样简短。",
+      "english": "The first letter she wrote me was less than a page long, and her second letter was similarly brief.",
+      "soundmark": "/'sɪməlɚli/",
+      "posTags": [[17, 17, "副词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 18, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "simply",
+      "chinese": "尽量把你的意思表达得更简单明了。",
+      "english": "Try to express yourself more simply.",
+      "soundmark": "/'sɪmpli/",
+      "posTags": [[5, 5, "副词"]],
+      "syntaxTags": [
+        [0, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "sincere",
+      "chinese": "请接受我真诚的道歉。",
+      "english": "Please accept my sincere apologies .",
+      "soundmark": "/sɪn'sɪr/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [[0, 5, "祈使句式", "Imperative"]]
+    },
+    {
+      "word": "singular",
+      "chinese": "该名词的单数形式",
+      "english": "the singular form of the noun",
+      "soundmark": "/'sɪŋɡjəlɚ/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "sketch",
+      "chinese": "…国家首脑和政治要员们的简要陈述。",
+      "english": "...thumbnail sketches of heads of state and political figures.",
+      "soundmark": "/skɛtʃ/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "skilled",
+      "chinese": "对木工之类的熟练工匠需求量很大。",
+      "english": "Skilled craftsmen, such as carpenters, are in great demand.",
+      "soundmark": "/skɪld/",
+      "posTags": [[0, 0, "形容词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "系动词", "VP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "skillful",
+      "chinese": "他以灵巧的动作使小渔船调过头来。",
+      "english": "With a skillful movement he rounded the small fishing-boat.",
+      "soundmark": "/'skɪlfəl/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "谓语动词", "VP"],
+        [6, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "skim",
+      "chinese": "朱莉浏览了体育版。",
+      "english": "Julie skimmed the sports page.",
+      "soundmark": "/skɪm/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "slam",
+      "chinese": "我们听到有车门砰的一声关上了。",
+      "english": "We heard a car door slam.",
+      "soundmark": "/slæm/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "sleeve",
+      "chinese": "长袖连衣裙",
+      "english": "a dress with long sleeves",
+      "soundmark": "/sliv/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "slender",
+      "chinese": "她身材修长，穿着时髦。",
+      "english": "She is slender and stylish.",
+      "soundmark": "/'slɛndɚ/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 4, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "slice",
+      "chinese": "把番茄切成片。",
+      "english": "Cut the tomatoes into slices .",
+      "soundmark": "/slaɪs/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 2, "宾语", "NP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "slide",
+      "chinese": "他滑开玻璃柜的门。",
+      "english": "He slid open the door of the glass cabinet.",
+      "soundmark": "/slaɪd/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "slit",
+      "chinese": "透过门缝照进来的光线",
+      "english": "light shining through a slit in the door",
+      "soundmark": "/slɪt/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "slope",
+      "chinese": "陡坡",
+      "english": "a steep slope",
+      "soundmark": "/slop/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "smart",
+      "chinese": "聪明的孩子成绩好，可以去上大学。",
+      "english": "The smart kids get good grades and go off to college.",
+      "soundmark": "/smɑrt/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 7, "宾语", "NP"],
+        [8, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "soak",
+      "chinese": "把衣服浸泡在冷水里。",
+      "english": "Soak the clothes in cold water.",
+      "soundmark": "/sok/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 2, "宾语", "NP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "soil",
+      "chinese": "她把植物周围的土壤弄湿。",
+      "english": "She moistenend  the soil round the plant.",
+      "soundmark": "/sɔɪl/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "solar",
+      "chinese": "日食",
+      "english": "a solar eclipse",
+      "soundmark": "/'solɚ/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "sole",
+      "chinese": "他的脚掌上沾满了泥巴。",
+      "english": "The soles of his feet were caked in mud.",
+      "soundmark": "/sol/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 6, "系动词", "VP"],
+        [7, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "solemn",
+      "chinese": "严肃的表情",
+      "english": "a solemn expression",
+      "soundmark": "/'sɑləm/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "soluble",
+      "chinese": "可溶性阿司匹林",
+      "english": "soluble aspirin",
+      "soundmark": "/'sɑljəbl/",
+      "posTags": [[0, 0, "形容词"]],
+      "syntaxTags": [[0, 1, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "somebody",
+      "chinese": "有人等着要见你。",
+      "english": "There’s somebody waiting to see you.",
+      "soundmark": "/'sʌmbədi/",
+      "posTags": [[1, 1, "代词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "谓语动词", "VP"],
+        [5, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "somehow",
+      "chinese": "不知为什么，我总觉得那样行不通。",
+      "english": "Somehow, I just don’t think it’ll work.",
+      "soundmark": "/'sʌmhaʊ/",
+      "posTags": [[0, 0, "副词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "sometime",
+      "chinese": "销售数据要到下个月的某个时候才会公布。",
+      "english": "The sales figures won't be released until sometime next month.",
+      "soundmark": "/'sʌmtaɪm/",
+      "posTags": [[7, 7, "副词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 5, "谓语动词", "VP"],
+        [6, 9, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "somewhat",
+      "chinese": "从那时候起，情况就有些不一样了。",
+      "english": "Things have changed somewhat since then.",
+      "soundmark": "/'sʌmwʌt/",
+      "posTags": [[3, 3, "代词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "sore",
+      "chinese": "我喉咙疼，四肢酸痛。",
+      "english": "I had a sore throat and aching limbs.",
+      "soundmark": "/sɔr/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "sorrow",
+      "chinese": "这家人的喜与悲",
+      "english": "the family’s joys and sorrows",
+      "soundmark": "/sɑro/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "sort",
+      "chinese": "他们供应汉堡包、比萨饼什么的。",
+      "english": "They do burgers, pizzas, that sort of thing .",
+      "soundmark": "/sɔrt/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "宾语", "NP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "sound",
+      "chinese": "对货币和银行业体制的透彻理解",
+      "english": "a sound understanding of money and banking systems",
+      "soundmark": "/saʊnd/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "sour",
+      "chinese": "雷切尔尝了尝葡萄酒，是酸的。",
+      "english": "Rachel sampled the wine. It was sour.",
+      "soundmark": "/'saʊɚ/",
+      "posTags": [[6, 6, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "sow",
+      "chinese": "三月底播种。",
+      "english": "Sow the seeds in late March.",
+      "soundmark": "/so/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 2, "宾语", "NP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "spacecraft",
+      "chinese": "…世界上最大、最贵的无人航天器。",
+      "english": "...the world's largest and most expensive unmanned spacecraft.",
+      "soundmark": "/'speskræft/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 6, "谓语动词", "VP"],
+        [7, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "spade",
+      "chinese": "…一把花园里使用的锹。",
+      "english": "...a garden spade.",
+      "soundmark": "/sped/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "span",
+      "chinese": "在这么短的时间里要想招聘到那么多新员工是很难的。",
+      "english": "It’ll be difficult to hire that many new staff in such a short time span .",
+      "soundmark": "/spæn/",
+      "posTags": [[14, 14, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 2, "表语", "NP"],
+        [3, 15, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "spark",
+      "chinese": "火里飞出的火星",
+      "english": "sparks from the fire",
+      "soundmark": "/spɑrk/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "specialist",
+      "chinese": "心脏专科医生",
+      "english": "a heart specialist",
+      "soundmark": "/'spɛʃəlɪst/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "specimen",
+      "chinese": "血样",
+      "english": "a blood specimen",
+      "soundmark": "/'spɛsəmən/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    }
+  ]
+}

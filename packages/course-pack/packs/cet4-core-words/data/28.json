@@ -1,0 +1,541 @@
+{
+  "title": "Unit 28: 四级核心词汇（bank ~ belt）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "bank",
+      "chinese": "河岸",
+      "english": "the river bank",
+      "soundmark": "/bæŋk/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "banner",
+      "chinese": "观众挥动着横幅，又是叫喊又是欢呼。",
+      "english": "The onlookers were shouting, cheering, and waving banners.",
+      "soundmark": "/'bænɚ/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "系动词", "VP"],
+        [5, 7, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "bar",
+      "chinese": "窗户上钉有铁条的房屋",
+      "english": "houses with bars across the windows",
+      "soundmark": "/bɑr/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "barber",
+      "chinese": "爸爸把我拽到当地理发师奥托跟前，让他把我的头发剪短。",
+      "english": "My father marched me over to Otto, the local barber, to have my hair cut short.",
+      "soundmark": "/'bɑrbɚ/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 15, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "bare",
+      "chinese": "一个衣衫褴褛、光着脚的小孩",
+      "english": "a ragged child with bare feet",
+      "soundmark": "/bɛr/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "bark",
+      "chinese": "艾美发出的是粗哑的吼声。",
+      "english": "Amy’s voice was a hoarse bark.",
+      "soundmark": "",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 5, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "barrel",
+      "chinese": "这种葡萄酒是用橡木酒桶放陈的。",
+      "english": "The wine is aged in oak barrels.",
+      "soundmark": "/'bærəl/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "barrier",
+      "chinese": "他提倡消除贸易壁垒。",
+      "english": "He advocated the removal of trade barriers.",
+      "soundmark": "/'bærɪɚ/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "base",
+      "chinese": "印度有良好的科研基础。",
+      "english": "India has a good scientific research base.",
+      "soundmark": "/bes/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "basic",
+      "chinese": "化学的基本原理",
+      "english": "the basic principles of chemistry",
+      "soundmark": "/'besɪk/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "basically",
+      "chinese": "说穿了，我就是懒。",
+      "english": "Basically, I’m just lazy.",
+      "soundmark": "/'besɪkli/",
+      "posTags": [[0, 0, "副词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "basin",
+      "chinese": "洗脸盆",
+      "english": "a wash basin",
+      "soundmark": "/'besn/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "basis",
+      "chinese": "他们的说法没有事实根据。",
+      "english": "Their claim had no basis in fact (=  it was not true  ) .",
+      "soundmark": "/'besɪs/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "basket",
+      "chinese": "购物篮",
+      "english": "a shopping basket",
+      "soundmark": "/'bæskɪt/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "bat",
+      "chinese": "…一只棒球棒。",
+      "english": "...a baseball bat.",
+      "soundmark": "/bæt/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "bath",
+      "chinese": "我露营了一个星期，实在得洗个澡了。",
+      "english": "After a week of camping, I really needed a bath.",
+      "soundmark": "/bɑːθ/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 9, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "bathe",
+      "chinese": "我洗了澡，洗了头，然后穿上衣服。",
+      "english": "I bathed, washed my hair, and got dressed.",
+      "soundmark": "/beð/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "battery",
+      "chinese": "你得把顶盖拿掉才能更换电池。",
+      "english": "You have to take the top off to change the batteries .",
+      "soundmark": "/'bæt(ə)rɪ/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"],
+        [6, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "bay",
+      "chinese": "能看到海湾全景的一幢房子",
+      "english": "a house with a view across the bay",
+      "soundmark": "/be/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "be",
+      "chinese": "我工作的时候不要打扰我。",
+      "english": "Don’t disturb me while I’m working.",
+      "soundmark": "/bi/",
+      "posTags": [[0, 0, "核心考词"]],
+      "syntaxTags": [[0, 5, "祈使句式", "Imperative"]]
+    },
+    {
+      "word": "beach",
+      "chinese": "沙滩",
+      "english": "a sandy beach",
+      "soundmark": "/bitʃ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "beam",
+      "chinese": "…高能激光束。",
+      "english": "...high-energy laser beams.",
+      "soundmark": "/bim/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "bean",
+      "chinese": "把豆子浸泡一夜。",
+      "english": "Soak the beans overnight.",
+      "soundmark": "/bin/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "bear",
+      "chinese": "母熊和它的熊崽们",
+      "english": "a mother bear and her cubs",
+      "soundmark": "/bɛr/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "beard",
+      "chinese": "他已经决定蓄胡须。",
+      "english": "He's decided to grow a beard.",
+      "soundmark": "/bɪrd/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "beast",
+      "chinese": "你这畜生，放开我！",
+      "english": "You beast! Let go!",
+      "soundmark": "/bist/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "beat",
+      "chinese": "巴西队以1比2告负。",
+      "english": "Brazil were beaten 2–1.",
+      "soundmark": "/bit/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 3, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "beautiful",
+      "chinese": "她比我记忆中更美。",
+      "english": "She was even more beautiful than I had remembered.",
+      "soundmark": "/'bjʊtəfəl/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 8, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "beauty",
+      "chinese": "她的美貌和优雅风姿",
+      "english": "her beauty and grace",
+      "soundmark": "/'bjuti/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "because",
+      "chinese": "那天我们很不尽兴，因为天气实在太糟。",
+      "english": "We didn’t enjoy the day because the weather was so awful.",
+      "soundmark": "/bɪ'kɔz/",
+      "posTags": [[5, 5, "连词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 10, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "become",
+      "chinese": "天气变暖和了。",
+      "english": "The weather became warmer.",
+      "soundmark": "/bɪ'kʌm/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 3, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "bed",
+      "chinese": "你应该早点上床。",
+      "english": "You should go to bed early.",
+      "soundmark": "/bɛd/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "bee",
+      "chinese": "一群蜜蜂",
+      "english": "a swarm of bees",
+      "soundmark": "/bi/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "beef",
+      "chinese": "我们农场里奶牛和菜牛都有。",
+      "english": "We have both dairy and beef cattle on the farm.",
+      "soundmark": "/bif/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "beer",
+      "chinese": "一品脱啤酒",
+      "english": "a pint of beer",
+      "soundmark": "/bɪr/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "before",
+      "chinese": "这条新公路应该在年底前完工。",
+      "english": "The new road should be completed before the end of the year.",
+      "soundmark": "/bɪ'fɔr/",
+      "posTags": [[6, 6, "介词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 5, "谓语动词", "VP"],
+        [6, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "beg",
+      "chinese": "她一再恳求，后来他们终于同意了。",
+      "english": "She begged and pleaded with them until they finally agreed.",
+      "soundmark": "/bɛɡ/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "beggar",
+      "chinese": "街头乞丐",
+      "english": "the beggars on the streets",
+      "soundmark": "/'bɛɡɚ/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "begin",
+      "chinese": "大家都到齐了，我们就开始吧。",
+      "english": "As everybody’s here, let’s begin.",
+      "soundmark": "/bɪ'ɡɪn/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "beginner",
+      "chinese": "不折不扣的初学者",
+      "english": "an absolute beginner",
+      "soundmark": "/bɪ'gɪnɚ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "beginning",
+      "chinese": "每一章的开头都有一首短诗。",
+      "english": "There’s a short poem at the beginning of every chapter.",
+      "soundmark": "/bɪ'ɡɪnɪŋ/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [[0, 9, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "behind",
+      "chinese": "我转身和站在我后面的那人说话。",
+      "english": "I turned to speak to the person standing behind me.",
+      "soundmark": "/bɪ'haɪnd/",
+      "posTags": [[8, 8, "介词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 4, "谓语动词", "VP"],
+        [5, 7, "宾语", "NP"],
+        [8, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "being",
+      "chinese": "于1912年制定的一条法律",
+      "english": "a law that first came into being in 1912",
+      "soundmark": "/'biɪŋ/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 6, "系动词", "VP"],
+        [7, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "belief",
+      "chinese": "如果有什么事情没做好，就会动摇你对自己的信心。",
+      "english": "When you get something wrong, it can shake your belief in yourself.",
+      "soundmark": "/bɪ'lif/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [[0, 11, "疑问句", "Question"]]
+    },
+    {
+      "word": "believe",
+      "chinese": "你不应尽信书上看来的东西。",
+      "english": "You shouldn’t believe everything you read.",
+      "soundmark": "/bɪ'liv/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "bell",
+      "chinese": "教堂的钟",
+      "english": "church bells",
+      "soundmark": "/bɛl/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 1, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "belong",
+      "chinese": "这座房子属于她家已有三四代了。",
+      "english": "The house had belonged to her family for three or four generations.",
+      "soundmark": "/bɪ'lɔŋ/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "谓语动词", "VP"],
+        [5, 6, "宾语", "NP"],
+        [7, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "beloved",
+      "chinese": "他一直没有走出失去爱女的阴影。",
+      "english": "He never recovered from the death of his beloved daughter.",
+      "soundmark": "/bɪ'lʌvd/",
+      "posTags": [[8, 8, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "below",
+      "chinese": "就在他的右眼下面有一块伤痕。",
+      "english": "He had a bruise just below his right eye.",
+      "soundmark": "/bɪ'lo/",
+      "posTags": [[5, 5, "介词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "belt",
+      "chinese": "他解开皮带。",
+      "english": "He unbuckled his leather belt.",
+      "soundmark": "/bɛlt/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"]
+      ]
+    }
+  ]
+}

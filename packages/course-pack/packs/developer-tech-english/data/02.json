@@ -1,0 +1,195 @@
+{
+  "title": "Bug 复现与日志排查",
+  "description": "线上故障定位、复现步骤描述、日志追踪与紧急热修复高频技术表达。",
+  "data": [
+    {
+      "chinese": "该错误会在高并发请求下偶发出现。",
+      "english": "The error occurs intermittently under high concurrent requests.",
+      "soundmark": "/ði ˈerər əˈkɜːz ˌɪntəˈmɪtəntli ˈʌndər haɪ kənˈkʌrənt rɪˈkwests/",
+      "posTags": [
+        [0, 0, "限定词"],
+        [1, 1, "名词"],
+        [2, 2, "动词"],
+        [3, 3, "副词"],
+        [4, 4, "介词"],
+        [5, 5, "形容词"],
+        [6, 6, "形容词"],
+        [7, 7, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 7, "谓语与条件状语", "VP"]
+      ]
+    },
+    {
+      "chinese": "你在本地环境中能够稳定复现这个问题吗？",
+      "english": "Can you consistently reproduce this issue locally?",
+      "soundmark": "/kæn juː kənˈsɪstəntli ˌriːprəˈdjuːs ðɪs ˈɪʃuː ˈləʊkəli/",
+      "posTags": [
+        [0, 0, "情态动词"],
+        [1, 1, "代词"],
+        [2, 2, "副词"],
+        [3, 3, "动词"],
+        [4, 4, "限定词"],
+        [5, 5, "名词"],
+        [6, 6, "副词"]
+      ],
+      "syntaxTags": [[0, 6, "复现疑问句", "Question"]]
+    },
+    {
+      "chinese": "堆栈跟踪信息指向了一个空指针异常。",
+      "english": "The stack trace points to a null pointer exception.",
+      "soundmark": "/ðə stæk treɪs pɔɪnts tə ə nʌl ˈpɔɪntər ɪkˈsepʃn/",
+      "posTags": [
+        [0, 0, "限定词"],
+        [1, 1, "名词"],
+        [2, 2, "名词"],
+        [3, 3, "动词"],
+        [4, 4, "介词"],
+        [5, 5, "限定词"],
+        [6, 6, "形容词"],
+        [7, 7, "名词"],
+        [8, 8, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 2, "主语短语", "NP"],
+        [3, 8, "主谓介宾", "VP"]
+      ]
+    },
+    {
+      "chinese": "请查看生产服务器上的应用访问日志。",
+      "english": "Please inspect the application logs on the production server.",
+      "soundmark": "/pliːz ɪnˈspekt ði ˌæplɪˈkeɪʃn lɒɡz ɒn ðə prəˈdʌkʃn ˈsɜːvər/",
+      "posTags": [
+        [0, 0, "副词"],
+        [1, 1, "动词"],
+        [2, 2, "限定词"],
+        [3, 3, "名词"],
+        [4, 4, "名词"],
+        [5, 5, "介词"],
+        [6, 6, "限定词"],
+        [7, 7, "名词"],
+        [8, 8, "名词"]
+      ],
+      "syntaxTags": [[0, 8, "排查祈使句", "Imperative"]]
+    },
+    {
+      "chinese": "我们正在准备发布紧急热修复补丁。",
+      "english": "We are preparing a hotfix deployment right now.",
+      "soundmark": "/wiː ɑː prɪˈpeərɪŋ ə ˈhɒtfɪks dɪˈplɔɪmənt raɪt naʊ/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "动词"],
+        [2, 2, "动词"],
+        [3, 3, "限定词"],
+        [4, 4, "名词"],
+        [5, 5, "名词"],
+        [6, 6, "副词"],
+        [7, 7, "副词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 7, "进行时谓语与时间状语", "VP"]
+      ]
+    },
+    {
+      "chinese": "这是由前端网络请求超时引起的。",
+      "english": "It is caused by a network timeout on the client side.",
+      "soundmark": "/ɪt ɪz kɔːzd baɪ ə ˈnetwɜːk ˈtaɪmaʊt ɒn ðə ˈklaɪənt saɪd/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "动词"],
+        [2, 2, "动词"],
+        [3, 3, "介词"],
+        [4, 4, "限定词"],
+        [5, 5, "名词"],
+        [6, 6, "名词"],
+        [7, 7, "介词"],
+        [8, 8, "限定词"],
+        [9, 9, "名词"],
+        [10, 10, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 10, "被动归因谓语", "VP"]
+      ]
+    },
+    {
+      "chinese": "数据库连接池在业务高峰期耗尽了。",
+      "english": "The connection pool was exhausted during peak traffic.",
+      "soundmark": "/ðə kəˈnekʃn puːl wɒz ɪɡˈzɔːstɪd ˈdjʊərɪŋ piːk ˈtræfɪk/",
+      "posTags": [
+        [0, 0, "限定词"],
+        [1, 1, "名词"],
+        [2, 2, "名词"],
+        [3, 3, "动词"],
+        [4, 4, "动词"],
+        [5, 5, "介词"],
+        [6, 6, "形容词"],
+        [7, 7, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 7, "被动谓语与时间介宾", "VP"]
+      ]
+    },
+    {
+      "chinese": "我们应该给这个接口加上更完善的错误捕获机制。",
+      "english": "We should add proper error boundaries around this component.",
+      "soundmark": "/wiː ʃʊd æd ˈprɒpər ˈerər ˈbaʊndriz əˈraʊnd ðɪs kəmˈpəʊnənt/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "情态动词"],
+        [2, 2, "动词"],
+        [3, 3, "形容词"],
+        [4, 4, "名词"],
+        [5, 5, "名词"],
+        [6, 6, "介词"],
+        [7, 7, "限定词"],
+        [8, 8, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 8, "情态动词短语", "VP"]
+      ]
+    },
+    {
+      "chinese": "回滚昨天的版本彻底恢复了系统稳定。",
+      "english": "Rolling back to the previous release restored stability.",
+      "soundmark": "/ˈrəʊlɪŋ bæk tə ðə ˈpriːviəs rɪˈliːs rɪˈstɔːd stəˈbɪləti/",
+      "posTags": [
+        [0, 0, "动词"],
+        [1, 1, "副词"],
+        [2, 2, "介词"],
+        [3, 3, "限定词"],
+        [4, 4, "形容词"],
+        [5, 5, "名词"],
+        [6, 6, "动词"],
+        [7, 7, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 5, "动名词短语作主语", "NP"],
+        [6, 7, "主谓宾", "VP"]
+      ]
+    },
+    {
+      "chinese": "我会在今晚前发布一份详细的故障事后复盘报告。",
+      "english": "I will publish a detailed postmortem report tonight.",
+      "soundmark": "/aɪ wɪl ˈpʌblɪʃ ə ˈdiːteɪld ˌpəʊstˈmɔːtəm rɪˈpɔːt təˈnaɪt/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "助动词"],
+        [2, 2, "动词"],
+        [3, 3, "限定词"],
+        [4, 4, "形容词"],
+        [5, 5, "名词"],
+        [6, 6, "名词"],
+        [7, 7, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 7, "将来时谓语", "VP"]
+      ]
+    }
+  ]
+}

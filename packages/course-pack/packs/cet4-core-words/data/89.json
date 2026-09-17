@@ -1,0 +1,561 @@
+{
+  "title": "Unit 89: 四级核心词汇（mainframe ~ snap）",
+  "description": "收录大学英语四级考纲核心考词 49 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "mainframe",
+      "chinese": "如果真有问题出现，就会有信号自动传送到主机。",
+      "english": "If a problem does occur, a signal is automatically sent to the mainframe.",
+      "soundmark": "/'menfrem/",
+      "posTags": [[12, 12, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "谓语动词", "VP"],
+        [5, 9, "宾语", "NP"],
+        [10, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "audio",
+      "chinese": "音频视频设备",
+      "english": "audio and video equipment",
+      "soundmark": "/'ɔdɪo/",
+      "posTags": [[0, 0, "形容词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "teenager",
+      "chinese": "一部针对青少年的性教育电视系列片",
+      "english": "a TV sex education series aimed at teenagers",
+      "soundmark": "/'tinedʒɚ/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "谓语动词", "VP"],
+        [6, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "offensive",
+      "chinese": "我觉得她的话令人非常恼火。",
+      "english": "I found her remarks deeply offensive.",
+      "soundmark": "/ə'fɛnsɪv/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "cartoon",
+      "chinese": "唐老鸭一类的卡通人物",
+      "english": "cartoon characters such as Donald Duck",
+      "soundmark": "/kɑr'tun/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "speculate",
+      "chinese": "她拒绝猜测。",
+      "english": "She refused to speculate.",
+      "soundmark": "/'spɛkjə'let/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "amid",
+      "chinese": "他坐在树丛中。",
+      "english": "He sat amid the trees.",
+      "soundmark": "/ə'mɪd/",
+      "posTags": [[2, 2, "介词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "single",
+      "chinese": "唯有一棵树遮阴。",
+      "english": "A single tree gave shade from the sun.",
+      "soundmark": "/'sɪŋɡl/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 4, "宾语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "acquaint",
+      "chinese": "已经采取措施让饲养动物者了解他们申请执照的权利了吗？",
+      "english": "Have steps been taken to acquaint breeders with their right to apply for licenses?",
+      "soundmark": "/ə'kwent/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [[0, 13, "疑问句", "Question"]]
+    },
+    {
+      "word": "intervene",
+      "chinese": "军队将不得不干预以阻止进一步的战斗。",
+      "english": "The army will have to intervene to prevent further fighting.",
+      "soundmark": "/,ɪntɚ'vin/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "unusual",
+      "chinese": "不寻常的特点",
+      "english": "an unusual feature",
+      "soundmark": "/ʌnˈjuʒəl/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "sector",
+      "chinese": "…该国的制造部门。",
+      "english": "...the nation's manufacturing sector.",
+      "soundmark": "/'sɛktɚ/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "epidemic",
+      "chinese": "去年流感大暴发期间有五百多人死亡。",
+      "english": "Over 500 people died during last year’s flu epidemic.",
+      "soundmark": "/,ɛpɪ'dɛmɪk/",
+      "posTags": [[8, 8, "形容词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "accountancy",
+      "chinese": "他正在学习会计学或他是一名会计专业的学生。",
+      "english": "He is studying accountancy or he is an accountancy student.",
+      "soundmark": "/ə'kaʊntənsi/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 9, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "forge",
+      "chinese": "有人偷了我的信用卡，并假冒我的签名。",
+      "english": "Someone stole my credit card and forged my signature.",
+      "soundmark": "/fɔrdʒ/",
+      "posTags": [[6, 6, "动词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 6, "谓语动词", "VP"],
+        [7, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "support",
+      "chinese": "这项法案得到参议院绝大多数人的支持。",
+      "english": "The bill was supported by a large majority in the Senate.",
+      "soundmark": "/sə'pɔrt/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "misconception",
+      "chinese": "说佩吉以前极其富有，这是一个错误的看法。",
+      "english": "It is a misconception that Peggy was fabulously wealthy.",
+      "soundmark": "/'mɪskən'sɛpʃən/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 8, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "honey",
+      "chinese": "嗨，亲爱的。",
+      "english": "Hi, honey.",
+      "soundmark": "/'hʌni/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 1, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "socialist",
+      "chinese": "世界语在社会主义者中一直很受欢迎。",
+      "english": "Esperanto has always been popular among socialists.",
+      "soundmark": "/'soʃəlɪst/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "slight",
+      "chinese": "些许的改进",
+      "english": "a slight improvement",
+      "soundmark": "/slaɪt/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "socialism",
+      "chinese": "从那时起，我们开始建设社会主义。",
+      "english": "From then on we proceeded to build socialism.",
+      "soundmark": "/'soʃəlɪzəm/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 6, "谓语动词", "VP"],
+        [7, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "technology",
+      "chinese": "现代科技使货币流动比以前便捷得多。",
+      "english": "Modern technology makes moving money around much easier than it used to be.",
+      "soundmark": "/tɛkˈnɑlədʒɪ/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 10, "宾语", "NP"],
+        [11, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "damn",
+      "chinese": "见鬼！我把钥匙忘在办公室了。",
+      "english": "Damn! I’ve left my keys in the office.",
+      "soundmark": "/dæm/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "advertise",
+      "chinese": "他们不再在体育赛事上做烟酒广告了。",
+      "english": "They no longer advertise alcohol or cigarettes at sporting events.",
+      "soundmark": "/'ædvɚtaɪz/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 6, "宾语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "software",
+      "chinese": "她给电脑装上新的软件。",
+      "english": "She loaded the new software .",
+      "soundmark": "/'sɔftwɛr/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "seminar",
+      "chinese": "莎士比亚研讨班",
+      "english": "a Shakespeare seminar",
+      "soundmark": "/'sɛmɪnɑr/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "fruitful",
+      "chinese": "他真是一位多产的小说家。",
+      "english": "He is really a fruitful novelist.",
+      "soundmark": "/'frutfl/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 5, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "hesitant",
+      "chinese": "盖尔迟疑地对我微微一笑。",
+      "english": "Gail gave me a hesitant little smile.",
+      "soundmark": "/'hɛzɪtənt/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "timber",
+      "chinese": "木制长椅",
+      "english": "a bench made of timber",
+      "soundmark": "/'tɪmbɚ/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "surrounding",
+      "chinese": "军队封锁了周围地区。",
+      "english": "Troops sealed off the surrounding area .",
+      "soundmark": "/sə'raʊndɪŋ/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "innovative",
+      "chinese": "创新的语言教学法",
+      "english": "an innovative approach to language teaching",
+      "soundmark": "/'ɪnəvetɪv/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "indoor",
+      "chinese": "室内游泳池",
+      "english": "an indoor swimming pool",
+      "soundmark": "/'ɪndɔr/",
+      "posTags": [[1, 1, "副词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "sexual",
+      "chinese": "由性接触传染的疾病",
+      "english": "a disease passed on by sexual contact",
+      "soundmark": "/sɛkʃʊəl/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "fraction",
+      "chinese": "学生们掌握了小数、百分数和分数。",
+      "english": "The students had a grasp of decimals, percentages and fractions.",
+      "soundmark": "/'frækʃən/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "sunlight",
+      "chinese": "水面在灿烂的阳光下闪闪发亮。",
+      "english": "The water sparkled in the bright sunlight.",
+      "soundmark": "/'sʌnlaɪt/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "scarce",
+      "chinese": "冬季常常粮食短缺。",
+      "english": "Food was often scarce in the winter.",
+      "soundmark": "/skɛrs/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 3, "表语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "resource",
+      "chinese": "加拿大丰富的矿产资源",
+      "english": "Canada’s vast mineral resources",
+      "soundmark": "/'risɔrs/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "ugly",
+      "chinese": "非常丑陋的男子",
+      "english": "a very ugly man",
+      "soundmark": "/'ʌɡli/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "tax",
+      "chinese": "没人喜欢缴税。",
+      "english": "No-one enjoys paying tax.",
+      "soundmark": "/tæks/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "excitement",
+      "chinese": "我们俩都是初次感受大城市多姿多彩的生活。",
+      "english": "We were both new to the excitements of life in the big city.",
+      "soundmark": "/ɪk'saɪtmənt/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 3, "表语", "NP"],
+        [4, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "nightmare",
+      "chinese": "一再出现的噩梦",
+      "english": "a recurring nightmare",
+      "soundmark": "/'naɪt'mɛr/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "embassy",
+      "chinese": "美国驻巴黎大使馆",
+      "english": "the American Embassy in Paris",
+      "soundmark": "/'ɛmbəsi/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "sociology",
+      "chinese": "“情妇猎手”大多为女性，且都是心理学、社会学或法学的毕业生。",
+      "english": "The mistress hunters are mostly women and are all psychology, sociology or law graduates.",
+      "soundmark": "/,sosɪ'ɑlədʒi/",
+      "posTags": [[10, 10, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "系动词", "VP"],
+        [4, 13, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "flee",
+      "chinese": "袭击他的人转身逃走了。",
+      "english": "His attackers turned and fled.",
+      "soundmark": "/fli/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "hedge",
+      "chinese": "你又在闪烁其词了，你究竟有没有钱？",
+      "english": "You’re hedging again - have you got the money or haven’t you?",
+      "soundmark": "/hɛdʒ/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [[0, 11, "疑问句", "Question"]]
+    },
+    {
+      "word": "limp",
+      "chinese": "无力的握手",
+      "english": "a limp handshake",
+      "soundmark": "/lɪmp/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "responsive",
+      "chinese": "方向盘操纵灵活的汽车",
+      "english": "a car with highly responsive steering",
+      "soundmark": "/rɪ'spɑnsɪv/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "category",
+      "chinese": "属45岁以上年龄组的人",
+      "english": "people in the over-45 age category",
+      "soundmark": "/'kætəɡɔri/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "snap",
+      "chinese": "一根细枝在我脚下嚓一声断开了。",
+      "english": "A twig snapped under my feet.",
+      "soundmark": "/snæp/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    }
+  ]
+}

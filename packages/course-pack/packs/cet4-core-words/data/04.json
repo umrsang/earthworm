@@ -1,0 +1,579 @@
+{
+  "title": "Unit 04: 四级核心词汇（compete ~ cooperative）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "compete",
+      "chinese": "我：你的“竞争”是什么意思？",
+      "english": "Me: What do you mean \"compete\"?",
+      "soundmark": "/kəmˈpiːt/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [[0, 5, "疑问句", "Question"]]
+    },
+    {
+      "word": "competitiveness",
+      "chinese": "新机器帮助公司提高了生产力，增强了竞争力。",
+      "english": "New machinery has enhanced the company’s productivity and competitiveness.",
+      "soundmark": "/kəmˈpetətɪvnɪs/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "competitor",
+      "chinese": "去年他们的计算机销量是竞争对手的两倍。",
+      "english": "Last year they sold twice as many computers as their competitors.",
+      "soundmark": "/kəmˈpetɪtər/",
+      "posTags": [[10, 10, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 10, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "complacency",
+      "chinese": "医生警告说，治疗常见病不能一见好就掉以轻心。",
+      "english": "Doctors have warned against complacency in fighting common diseases.",
+      "soundmark": "/kəmˈpleɪsnsi/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "complain",
+      "chinese": "由于这个地区的交通流量有所增加，居民都在抱怨。",
+      "english": "Residents are complaining because traffic in the area has increased.",
+      "soundmark": "/kəmˈpleɪn/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 4, "表语", "NP"],
+        [5, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "complaint",
+      "chinese": "如果你要投诉，应该去找经理。",
+      "english": "If you wish to make a complaint, you should see the manager.",
+      "soundmark": "/kəmˈpleɪnt/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 11, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "complete",
+      "chinese": "学生必须学完这门课程。",
+      "english": "Students must complete the course.",
+      "soundmark": "/kəmˈpliːt/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "complicated",
+      "chinese": "复杂的选举制度",
+      "english": "a complicated voting system",
+      "soundmark": "/ˈkɑːmplɪkeɪtɪd/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "comply",
+      "chinese": "联邦探员要求这家报社给予协助，报社同意配合。",
+      "english": "The newspaper was asked by federal agents for assistance and agreed to comply.",
+      "soundmark": "/kəmˈplaɪ/",
+      "posTags": [[12, 12, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "component",
+      "chinese": "为计算机产品生产电子零件的公司",
+      "english": "companies that make electronic components for computer products",
+      "soundmark": "/kəmˈpoʊnənt/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 7, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "concentration",
+      "chinese": "该地区有世界上野生生物最集中的区域之一。",
+      "english": "The area has one of the world's greatest concentrations of wildlife.",
+      "soundmark": "/ˌkɑːnsnˈtreɪʃən/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "concept",
+      "chinese": "商务旅行的新理念",
+      "english": "a new concept in business travel",
+      "soundmark": "/ˈkɑːnsept/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "concern",
+      "chinese": "他最为关心的事就是能够养家。",
+      "english": "His main concern is to be able to provide for his family.",
+      "soundmark": "/kənˈsɜːrn/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 5, "谓语动词", "VP"],
+        [6, 6, "宾语", "NP"],
+        [7, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "conclusion",
+      "chinese": "这些就是这篇报告的主要结论。",
+      "english": "These are the report’s main conclusions.",
+      "soundmark": "/kənˈkluːʒn/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 5, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "confidence",
+      "chinese": "我觉得自己干得不错，自信心就开始增加了。",
+      "english": "I felt I was doing well and my confidence began to grow.",
+      "soundmark": "/ˈkɑːnfɪdəns/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 9, "宾语", "NP"],
+        [10, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "confirm",
+      "chinese": "新的证据证实了第一个证人的说法。",
+      "english": "New evidence has confirmed the first witness’s story.",
+      "soundmark": "/kənˈfɜːrm/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "conflict",
+      "chinese": "个人道德与职业道德之间有时会相冲突。",
+      "english": "Personal ethics and professional ethics sometimes conflict.",
+      "soundmark": "/ˈkɑːnflɪkt/",
+      "posTags": [[6, 6, "动词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 6, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "conform",
+      "chinese": "它是一个坚固的、已经证实采用多个标准的解决方案，不管你的目标是遵守法律还是改善你的商业实践。",
+      "english": "It is a solid, proven solution for adopting multiple standards -- whether your goal is to conform to the law or to improve your business practices.",
+      "soundmark": "/kənˈfɔːrm/",
+      "posTags": [[16, 16, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 5, "表语", "NP"],
+        [6, 25, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "confront",
+      "chinese": "新政府面临的难题是巨大的。",
+      "english": "The problems confronting the new government were enormous.",
+      "soundmark": "/kənˈfrʌnt/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "connectivity",
+      "chinese": "对高速连接功能日益增长的需求",
+      "english": "a growing demand for high-speed connectivity",
+      "soundmark": "/ˌkɑːnekˈtɪvɪti/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "conscience",
+      "chinese": "好吧，至少我可以问心无愧地面对他们所有人。",
+      "english": "Well, at least I can face them all with a clear conscience (= the knowledge that you have done nothing wrong ) .",
+      "soundmark": "/ˈkɑːnʃəns/",
+      "posTags": [[11, 11, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 7, "宾语", "NP"],
+        [8, 22, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "consensus",
+      "chinese": "目前观点上的一致",
+      "english": "the current consensus of opinion",
+      "soundmark": "/kənˈsensəs/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "consent",
+      "chinese": "他最终同意去。",
+      "english": "He finally consented to go.",
+      "soundmark": "/kənˈsent/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "consequence",
+      "chinese": "她的律师说她明白自己行为的后果并准备去坐牢。",
+      "english": "Her lawyer said she understood the consequences of her actions and was prepared to go to jail.",
+      "soundmark": "/ˈkɑːnsəkwens/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 6, "宾语", "NP"],
+        [7, 16, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "conservative",
+      "chinese": "对待教育非常守旧的态度",
+      "english": "a very conservative attitude to education",
+      "soundmark": "/kənˈsɜːrvətɪv/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "considerable",
+      "chinese": "迈克尔在巴塞罗那已经待了相当长的时间了。",
+      "english": "Michael has already spent considerable time in Barcelona.",
+      "soundmark": "/kənˈsɪdərəbl/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "宾语", "NP"],
+        [6, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "considerably",
+      "chinese": "今天冷多了。",
+      "english": "It’s considerably colder today.",
+      "soundmark": "/kənˈsɪdərəbli/",
+      "posTags": [[1, 1, "副词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "considerate",
+      "chinese": "他总是很善良，为别人着想。",
+      "english": "He was always kind and considerate.",
+      "soundmark": "/kənˈsɪdərɪt/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 5, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "consist",
+      "chinese": "我的饮食几乎只包含裹上巧克力的曲奇饼和一杯杯牛奶。",
+      "english": "My diet consisted almost exclusively of chocolate-covered cookies and glasses of milk.",
+      "soundmark": "/kənˈsɪst/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "consistent",
+      "chinese": "她是该队中表现最为稳定的选手。",
+      "english": "She’s the team’s most consistent player.",
+      "soundmark": "/kənˈsɪstənt/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "conspicuous",
+      "chinese": "通告一定要贴在显眼的地方。",
+      "english": "The notice must be displayed in a conspicuous place.",
+      "soundmark": "/kənˈspɪkjuəs/",
+      "posTags": [[7, 7, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 4, "谓语动词", "VP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "constant",
+      "chinese": "参观这幢房子的游客川流不息。",
+      "english": "There was a constant stream of visitors to the house.",
+      "soundmark": "/ˈkɑːnstənt/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 4, "表语", "NP"],
+        [5, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "constantly",
+      "chinese": "他不断地谈到他的工作。",
+      "english": "He talked constantly about his work.",
+      "soundmark": "/ˈkɑːnstəntli/",
+      "posTags": [[2, 2, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "construction",
+      "chinese": "道路修建计划",
+      "english": "a road construction project",
+      "soundmark": "/kənˈstrʌkʃən/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "constructive",
+      "chinese": "这次会议很有建设性。",
+      "english": "The meeting was very constructive.",
+      "soundmark": "/kənˈstrʌktɪv/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "consult",
+      "chinese": "如果症状持续的话，马上咨询医生。",
+      "english": "If symptoms persist, consult a doctor without delay.",
+      "soundmark": "/kənˈsʌlt/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"],
+        [6, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "consultant",
+      "chinese": "管理顾问",
+      "english": "a management consultant",
+      "soundmark": "/kənˈsʌltənt/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "consumption",
+      "chinese": "剧烈运动增加氧的消耗。",
+      "english": "Vigorous exercise increases oxygen consumption.",
+      "soundmark": "/kənˈsʌmpʃən/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "contact",
+      "chinese": "小镇与外界的联系被切断了。",
+      "english": "The town is cut off from contact with the outside world.",
+      "soundmark": "/ˈkɑːntækt/",
+      "posTags": [[6, 6, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "contemporary",
+      "chinese": "她为惠特尼·休斯敦等人创作大量当代音乐作品。",
+      "english": "She writes a lot of contemporary music for people like Whitney Houston.",
+      "soundmark": "/kənˈtempəreri/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "content",
+      "chinese": "大众传媒课程的内容包括稿件写作、剪辑和摄像操作。",
+      "english": "The content of the media course includes scripting, editing and camera work.",
+      "soundmark": "/ˈkɑːntent/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 8, "谓语动词", "VP"],
+        [9, 11, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "context",
+      "chinese": "一词的意义要视上下文而定。",
+      "english": "The meaning of ‘mad’ depends on its context. mad",
+      "soundmark": "/ˈkɑːntekst/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "contract",
+      "chinese": "员工拒绝调动岗位是违反合约的。",
+      "english": "Employees who refuse to relocate are in breach of contract (= have done something not allowed by their contracts ) .",
+      "soundmark": "/ˈkɑːntrækt/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "系动词", "VP"],
+        [6, 20, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "contrast",
+      "chinese": "这调味汁很甜，所以要加点干百里香作为陪衬。",
+      "english": "The sauce is quite sweet, so add dried thyme as a contrast.",
+      "soundmark": "/ˈkɑːntræst/",
+      "posTags": [[11, 11, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 11, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "contribute",
+      "chinese": "3个儿子也为家族企业做贡献。",
+      "english": "The three sons also contribute to the family business.",
+      "soundmark": "/kənˈtrɪbjuːt/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 5, "谓语动词", "VP"],
+        [6, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "contribution",
+      "chinese": "竞选捐款",
+      "english": "a campaign contribution",
+      "soundmark": "/ˌkɑːntrɪˈbjuːʃən/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "convenient",
+      "chinese": "使用邮购目录是一种方便的购物方式。",
+      "english": "Mail-order catalogs are a convenient way to shop.",
+      "soundmark": "/kənˈviːnɪənt/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 5, "表语", "NP"],
+        [6, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "conventional",
+      "chinese": "通过传统的电话线来连接因特网速度很慢。",
+      "english": "Internet connections through conventional phone lines are fairly slow.",
+      "soundmark": "/kənˈvenʃənl/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 6, "系动词", "VP"],
+        [7, 8, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "convey",
+      "chinese": "所有这些信息可以通过一张简单的图表来表示。",
+      "english": "All this information can be conveyed in a simple diagram.",
+      "soundmark": "/kənˈveɪ/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 5, "谓语动词", "VP"],
+        [6, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "cooperative",
+      "chinese": "他在尽全力配合。",
+      "english": "He was doing his best to be cooperative.",
+      "soundmark": "/koʊˈɑːpərətɪv/",
+      "posTags": [[7, 7, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 4, "表语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    }
+  ]
+}

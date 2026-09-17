@@ -1,0 +1,551 @@
+{
+  "title": "职场沟通综合扩展",
+  "description": "扩展会议、邮件、任务、反馈、汇报、谈判、客户与团队协作表达。",
+  "data": [
+    {
+      "chinese": "我们准时开始会议吧。",
+      "english": "Let's start the meeting on time."
+    },
+    {
+      "chinese": "大家都收到议程了吗？",
+      "english": "Has everyone received the agenda?"
+    },
+    { "chinese": "今天有三个议题。", "english": "We have three topics today." },
+    {
+      "chinese": "谁愿意记录会议纪要？",
+      "english": "Who can take the meeting notes?"
+    },
+    {
+      "chinese": "我们先回顾上次的行动项。",
+      "english": "Let's review the previous action items first."
+    },
+    {
+      "chinese": "请简单介绍一下背景。",
+      "english": "Please give us some brief context."
+    },
+    {
+      "chinese": "这个决定需要谁批准？",
+      "english": "Who needs to approve this decision?"
+    },
+    {
+      "chinese": "我们能今天做出决定吗？",
+      "english": "Can we make a decision today?"
+    },
+    {
+      "chinese": "请把问题留到最后。",
+      "english": "Please save questions until the end."
+    },
+    { "chinese": "我们已经偏离主题了。", "english": "We have gone off topic." },
+    {
+      "chinese": "让我们回到主要问题。",
+      "english": "Let's return to the main issue."
+    },
+    {
+      "chinese": "这个讨论需要更多时间。",
+      "english": "This discussion needs more time."
+    },
+    {
+      "chinese": "我们可以会后继续讨论。",
+      "english": "We can continue this after the meeting."
+    },
+    {
+      "chinese": "还有人想补充吗？",
+      "english": "Would anyone like to add anything?"
+    },
+    {
+      "chinese": "我来总结一下关键决定。",
+      "english": "Let me summarize the key decisions."
+    },
+    {
+      "chinese": "每项任务都需要负责人。",
+      "english": "Every task needs a clear owner."
+    },
+    {
+      "chinese": "请确认各自的截止日期。",
+      "english": "Please confirm your respective deadlines."
+    },
+    {
+      "chinese": "会议纪要今天下午发出。",
+      "english": "The minutes will be shared this afternoon."
+    },
+    {
+      "chinese": "我们下周再次确认进度。",
+      "english": "We will check progress again next week."
+    },
+    {
+      "chinese": "谢谢大家抽时间参加。",
+      "english": "Thank you all for making time."
+    },
+    {
+      "chinese": "我今天主要完成这个报告。",
+      "english": "My main focus today is this report."
+    },
+    {
+      "chinese": "昨天我完成了客户分析。",
+      "english": "I completed the client analysis yesterday."
+    },
+    {
+      "chinese": "目前没有任何阻塞。",
+      "english": "I have no blockers right now."
+    },
+    {
+      "chinese": "我在等待财务团队的数据。",
+      "english": "I am waiting for data from finance."
+    },
+    {
+      "chinese": "这个依赖可能影响进度。",
+      "english": "This dependency may affect the schedule."
+    },
+    {
+      "chinese": "我需要你帮忙确认范围。",
+      "english": "I need your help confirming the scope."
+    },
+    {
+      "chinese": "任务比预期复杂一些。",
+      "english": "The task is more complex than expected."
+    },
+    {
+      "chinese": "我预计明天可以完成。",
+      "english": "I expect to finish it tomorrow."
+    },
+    {
+      "chinese": "我们目前仍按计划推进。",
+      "english": "We are still on track."
+    },
+    {
+      "chinese": "这个里程碑可能会延迟。",
+      "english": "This milestone may be delayed."
+    },
+    {
+      "chinese": "我们需要调整工作优先级。",
+      "english": "We need to reprioritize the work."
+    },
+    { "chinese": "哪项任务最紧急？", "english": "Which task is most urgent?" },
+    {
+      "chinese": "我今天没有足够时间处理。",
+      "english": "I lack enough time for this today."
+    },
+    {
+      "chinese": "你能接手其中一部分吗？",
+      "english": "Can you take part of this?"
+    },
+    {
+      "chinese": "这项工作已经准备好评审。",
+      "english": "This work is ready for review."
+    },
+    {
+      "chinese": "我会在午饭前更新状态。",
+      "english": "I will update the status before lunch."
+    },
+    {
+      "chinese": "请在看板上移动任务卡。",
+      "english": "Please move the task on the board."
+    },
+    {
+      "chinese": "这个问题需要升级处理。",
+      "english": "This issue needs to be escalated."
+    },
+    {
+      "chinese": "我们已经找到临时解决办法。",
+      "english": "We have found a temporary workaround."
+    },
+    {
+      "chinese": "长期方案将在下周讨论。",
+      "english": "The long-term solution will be discussed next week."
+    },
+    {
+      "chinese": "感谢你的快速回复。",
+      "english": "Thank you for your quick response."
+    },
+    {
+      "chinese": "我想跟进下面的请求。",
+      "english": "I am following up on the request below."
+    },
+    {
+      "chinese": "请确认你已收到附件。",
+      "english": "Please confirm that you received the attachment."
+    },
+    {
+      "chinese": "附件是最新版本。",
+      "english": "The latest version is attached."
+    },
+    {
+      "chinese": "请忽略我之前的邮件。",
+      "english": "Please disregard my previous email."
+    },
+    {
+      "chinese": "抱歉造成任何困惑。",
+      "english": "Sorry for any confusion caused."
+    },
+    {
+      "chinese": "你能在周五前回复吗？",
+      "english": "Could you respond by Friday?"
+    },
+    {
+      "chinese": "如有问题请告诉我。",
+      "english": "Please let me know if anything is unclear."
+    },
+    {
+      "chinese": "我把相关同事抄送进来了。",
+      "english": "I have copied the relevant colleagues."
+    },
+    {
+      "chinese": "我们改为私下讨论吧。",
+      "english": "Let's take this conversation offline."
+    },
+    {
+      "chinese": "方便时请查看这份文件。",
+      "english": "Please review this document when convenient."
+    },
+    {
+      "chinese": "这是一个温馨提醒。",
+      "english": "This is a friendly reminder."
+    },
+    {
+      "chinese": "我们还在等待你的批准。",
+      "english": "We are still awaiting your approval."
+    },
+    {
+      "chinese": "截止日期已延至周一。",
+      "english": "The deadline has moved to Monday."
+    },
+    {
+      "chinese": "会议链接保持不变。",
+      "english": "The meeting link remains unchanged."
+    },
+    { "chinese": "我明天不在办公室。", "english": "I will be out tomorrow." },
+    {
+      "chinese": "紧急事项请联系王丽。",
+      "english": "For urgent matters, please contact Wang Li."
+    },
+    {
+      "chinese": "谢谢你的理解。",
+      "english": "Thank you for your understanding."
+    },
+    {
+      "chinese": "期待听到你的意见。",
+      "english": "I look forward to your feedback."
+    },
+    { "chinese": "祝你周末愉快。", "english": "Have a wonderful weekend." },
+    {
+      "chinese": "这份草稿结构很清晰。",
+      "english": "This draft has a clear structure."
+    },
+    {
+      "chinese": "开头可以更简洁一些。",
+      "english": "The opening could be more concise."
+    },
+    {
+      "chinese": "这个例子很好地支持了观点。",
+      "english": "This example supports your point well."
+    },
+    {
+      "chinese": "结论需要更有说服力。",
+      "english": "The conclusion needs to be more convincing."
+    },
+    {
+      "chinese": "请加入更多客户数据。",
+      "english": "Please include more customer data."
+    },
+    {
+      "chinese": "这个图表很难理解。",
+      "english": "This chart is difficult to understand."
+    },
+    {
+      "chinese": "标题应该突出主要结论。",
+      "english": "The title should highlight the main conclusion."
+    },
+    {
+      "chinese": "你的分析非常全面。",
+      "english": "Your analysis is very thorough."
+    },
+    {
+      "chinese": "这里可能需要一个具体例子。",
+      "english": "A concrete example might help here."
+    },
+    {
+      "chinese": "请检查数字是否一致。",
+      "english": "Please check that the numbers are consistent."
+    },
+    {
+      "chinese": "你的表达很有条理。",
+      "english": "You presented your ideas clearly."
+    },
+    {
+      "chinese": "语速可以稍微慢一点。",
+      "english": "You could speak a little slower."
+    },
+    {
+      "chinese": "请多给听众一些眼神交流。",
+      "english": "Try to make more eye contact."
+    },
+    {
+      "chinese": "回答问题时可以更直接。",
+      "english": "Your answers could be more direct."
+    },
+    {
+      "chinese": "整体表现非常专业。",
+      "english": "Overall, your delivery was very professional."
+    },
+    {
+      "chinese": "谢谢你坦诚的反馈。",
+      "english": "Thank you for the honest feedback."
+    },
+    {
+      "chinese": "我会修改这一部分。",
+      "english": "I will revise this section."
+    },
+    {
+      "chinese": "你能具体说明一下吗？",
+      "english": "Could you be more specific?"
+    },
+    {
+      "chinese": "下次我会注意这一点。",
+      "english": "I will keep that in mind next time."
+    },
+    {
+      "chinese": "我们先看本月的结果。",
+      "english": "Let's begin with this month's results."
+    },
+    {
+      "chinese": "销售额比目标高出百分之八。",
+      "english": "Sales finished eight percent above target."
+    },
+    {
+      "chinese": "增长主要来自新客户。",
+      "english": "Growth came mainly from new customers."
+    },
+    {
+      "chinese": "成本仍然在预算范围内。",
+      "english": "Costs remain within budget."
+    },
+    {
+      "chinese": "这个趋势连续三个月保持稳定。",
+      "english": "This trend has remained stable for three months."
+    },
+    {
+      "chinese": "客户流失率略有上升。",
+      "english": "Customer churn increased slightly."
+    },
+    {
+      "chinese": "我们正在调查背后的原因。",
+      "english": "We are investigating the reasons behind it."
+    },
+    {
+      "chinese": "调查结果将在下周公布。",
+      "english": "The findings will be shared next week."
+    },
+    {
+      "chinese": "预测基于当前的销售管线。",
+      "english": "The forecast reflects our current sales pipeline."
+    },
+    {
+      "chinese": "最坏情况仍然可以控制。",
+      "english": "The worst-case scenario remains manageable."
+    },
+    {
+      "chinese": "这个数字不包括一次性成本。",
+      "english": "This figure excludes one-time costs."
+    },
+    {
+      "chinese": "相比去年，利润率有所提高。",
+      "english": "Margins improved compared with last year."
+    },
+    {
+      "chinese": "第二季度是我们的主要机会。",
+      "english": "The second quarter is our main opportunity."
+    },
+    {
+      "chinese": "我们需要关注两个主要风险。",
+      "english": "We need to watch two major risks."
+    },
+    {
+      "chinese": "这里是计划中的下一步。",
+      "english": "Here are the planned next steps."
+    },
+    {
+      "chinese": "这个方案符合我们的预算。",
+      "english": "This proposal fits our budget."
+    },
+    {
+      "chinese": "价格方面还有商量余地吗？",
+      "english": "Is there any flexibility on price?"
+    },
+    {
+      "chinese": "我们可以讨论批量折扣。",
+      "english": "We can discuss a volume discount."
+    },
+    {
+      "chinese": "这个报价包含哪些服务？",
+      "english": "Which services does this quote include?"
+    },
+    {
+      "chinese": "实施费用是单独计算的吗？",
+      "english": "Is the implementation fee separate?"
+    },
+    {
+      "chinese": "我们需要更灵活的付款条件。",
+      "english": "We need more flexible payment terms."
+    },
+    {
+      "chinese": "三十天账期可以接受吗？",
+      "english": "Would thirty-day payment terms work?"
+    },
+    {
+      "chinese": "合同期能缩短吗？",
+      "english": "Can we shorten the contract period?"
+    },
+    {
+      "chinese": "自动续约条款需要修改。",
+      "english": "The automatic renewal clause needs revision."
+    },
+    {
+      "chinese": "我们希望增加退出条款。",
+      "english": "We would like an exit clause."
+    },
+    {
+      "chinese": "这个条件对双方都公平。",
+      "english": "This term is fair to both sides."
+    },
+    {
+      "chinese": "我们可以在中间价成交。",
+      "english": "We can meet halfway on price."
+    },
+    {
+      "chinese": "这是我们能给出的最好报价。",
+      "english": "This is our best available offer."
+    },
+    {
+      "chinese": "我需要得到内部批准。",
+      "english": "I need to get internal approval."
+    },
+    {
+      "chinese": "我会在明天前确认。",
+      "english": "I will confirm by tomorrow."
+    },
+    {
+      "chinese": "让我们把约定写进合同。",
+      "english": "Let's put the agreement in writing."
+    },
+    {
+      "chinese": "感谢你今天与我们会面。",
+      "english": "Thank you for meeting with us today."
+    },
+    {
+      "chinese": "我们想更了解你的需求。",
+      "english": "We would like to understand your needs."
+    },
+    {
+      "chinese": "目前最大的挑战是什么？",
+      "english": "What is your biggest challenge currently?"
+    },
+    {
+      "chinese": "成功对你而言是什么样？",
+      "english": "What would success look like for you?"
+    },
+    {
+      "chinese": "谁会使用这个产品？",
+      "english": "Who will use this product?"
+    },
+    {
+      "chinese": "你希望何时开始？",
+      "english": "When would you like to begin?"
+    },
+    {
+      "chinese": "你的预算范围是多少？",
+      "english": "What is your budget range?"
+    },
+    {
+      "chinese": "我来演示一下主要功能。",
+      "english": "Let me demonstrate the main features."
+    },
+    {
+      "chinese": "这个方案可以随业务扩展。",
+      "english": "This solution can scale with your business."
+    },
+    {
+      "chinese": "我们提供全天候客户支持。",
+      "english": "We provide round-the-clock customer support."
+    },
+    {
+      "chinese": "实施通常需要四周。",
+      "english": "Implementation usually takes four weeks."
+    },
+    {
+      "chinese": "培训包含在服务内。",
+      "english": "Training is included in the service."
+    },
+    {
+      "chinese": "我会发送一份详细方案。",
+      "english": "I will send a detailed proposal."
+    },
+    {
+      "chinese": "我们安排一次后续通话吧。",
+      "english": "Let's schedule a follow-up call."
+    },
+    {
+      "chinese": "还有什么顾虑吗？",
+      "english": "Do you have any other concerns?"
+    },
+    {
+      "chinese": "感谢你提出这个问题。",
+      "english": "Thank you for raising this issue."
+    },
+    {
+      "chinese": "我们正在优先处理你的请求。",
+      "english": "We are prioritizing your request."
+    },
+    {
+      "chinese": "团队已经找到问题原因。",
+      "english": "The team has identified the cause."
+    },
+    {
+      "chinese": "修复将在今晚发布。",
+      "english": "The fix will be released tonight."
+    },
+    {
+      "chinese": "给你带来不便，我们深感抱歉。",
+      "english": "We sincerely apologize for the inconvenience."
+    },
+    {
+      "chinese": "我们会随时同步进展。",
+      "english": "We will keep you updated."
+    },
+    {
+      "chinese": "你的反馈对我们很重要。",
+      "english": "Your feedback is important to us."
+    },
+    {
+      "chinese": "我们已经采取措施防止复发。",
+      "english": "We have taken steps to prevent recurrence."
+    },
+    {
+      "chinese": "请确认问题是否已经解决。",
+      "english": "Please confirm whether the issue is resolved."
+    },
+    {
+      "chinese": "你方便进行简短通话吗？",
+      "english": "Are you available for a quick call?"
+    },
+    {
+      "chinese": "请明确下一步由谁负责。",
+      "english": "Please clarify who owns the next step."
+    },
+    {
+      "chinese": "我们需要在范围上达成一致。",
+      "english": "We need to align on the scope."
+    },
+    {
+      "chinese": "这个风险应记录在计划中。",
+      "english": "This risk should be documented in the plan."
+    },
+    {
+      "chinese": "我会在会议后分享决定。",
+      "english": "I will share the decision after the meeting."
+    },
+    {
+      "chinese": "请在截止日期前提出顾虑。",
+      "english": "Please raise concerns before the deadline."
+    }
+  ]
+}

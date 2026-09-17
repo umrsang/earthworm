@@ -1,0 +1,588 @@
+{
+  "title": "Unit 12: 四级核心词汇（poison ~ rank）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "poison",
+      "chinese": "说她毒死了他的谣言永远不可能得到证实。",
+      "english": "The rumours that she had poisoned him could never be proved.",
+      "soundmark": "/'pɔɪzn/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 5, "谓语动词", "VP"],
+        [6, 10, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "poll",
+      "chinese": "最近的一项民意调查发现80%的加利福尼亚人支持州长。",
+      "english": "A recent poll found that 80% of Californians support the governor.",
+      "soundmark": "/pol/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"],
+        [6, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "pop",
+      "chinese": "盖子噗的一声弹开，果汁溅了一地。",
+      "english": "The lid popped open and juice spilled all over the floor.",
+      "soundmark": "/pɑp/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 7, "宾语", "NP"],
+        [8, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "porter",
+      "chinese": "我们的出租车停在老德里车站，一个搬运工疾步跑向车门。",
+      "english": "Our taxi pulled up at Old Delhi station and a porter sprinted to the door.",
+      "soundmark": "/'pɔrtɚ/",
+      "posTags": [[10, 10, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 14, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "pose",
+      "chinese": "安摆好姿势露出笑脸准备拍照。",
+      "english": "Ann struck a pose (= stood or sat in a particular position ) and smiled for the camera.",
+      "soundmark": "/poz/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 7, "宾语", "NP"],
+        [8, 17, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "position",
+      "chinese": "我们的酒店处于极佳的中心位置，在圣马克广场附近。",
+      "english": "Our hotel was in a superb central position near St Mark’s Square.",
+      "soundmark": "/pə'zɪʃən/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "postgraduate",
+      "chinese": "顾秋蓓被英语这门语言的魅力所吸引，她甚至将自己的研究生专业从会计转到了英语专业。",
+      "english": "Attracted by the greatness of English language, Gu even changed her major from accounting to English in her postgraduate study.",
+      "soundmark": "/post'ɡrædjet/",
+      "posTags": [[18, 18, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 19, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "potential",
+      "chinese": "这个男孩有很大的潜力。",
+      "english": "The boy has great potential.",
+      "soundmark": "/pə'tɛnʃl/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "praise",
+      "chinese": "简受到了老师的表扬。",
+      "english": "Jane was praised by her teacher.",
+      "soundmark": "/prez/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "predict",
+      "chinese": "销售额比预期低5%。",
+      "english": "Sales were five percent lower than predicted.",
+      "soundmark": "/prɪ'dɪkt/",
+      "posTags": [[6, 6, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 6, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "preference",
+      "chinese": "你有什么颜色上的偏好吗？",
+      "english": "Do you have a colour preference ?",
+      "soundmark": "/'prɛfrəns/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [[0, 6, "疑问句", "Question"]]
+    },
+    {
+      "word": "pregnant",
+      "chinese": "孕妇保健",
+      "english": "care for pregnant women",
+      "soundmark": "/'prɛɡnənt/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 3, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "prejudice",
+      "chinese": "女性在职场中仍然面临歧视。",
+      "english": "Women still face prejudice in the workplace.",
+      "soundmark": "/'prɛdʒədɪs/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "preservation",
+      "chinese": "保存食物的各种方法",
+      "english": "methods of food preservation",
+      "soundmark": "/,prɛzɚ'veʃən/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "prevail",
+      "chinese": "同样的情况在加拿大也普遍存在。",
+      "english": "A similar situation prevails in Canada.",
+      "soundmark": "/pri'vel/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "prevent",
+      "chinese": "这些规定旨在预防事故。",
+      "english": "The rules are intended to prevent accidents.",
+      "soundmark": "/pri'vɛnt/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 5, "系动词", "VP"],
+        [6, 6, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "preventable",
+      "chinese": "每天有四万儿童死于本可以防止的疾病。",
+      "english": "Forty thousand children a day die from preventable diseases.",
+      "soundmark": "/pri'vɛntəbl/",
+      "posTags": [[7, 7, "形容词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "谓语动词", "VP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "previous",
+      "chinese": "她有个出自前一次婚姻的十几岁的女儿。",
+      "english": "She has a teenage daughter from a previous marriage.",
+      "soundmark": "/'privɪəs/",
+      "posTags": [[7, 7, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "previously",
+      "chinese": "圭亚那的铁路先前为私营公司所拥有。",
+      "english": "Guyana's railways were previously owned by private companies.",
+      "soundmark": "/'priviəsli/",
+      "posTags": [[3, 3, "副词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 4, "表语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "primarily",
+      "chinese": "这则广告的对象主要是儿童。",
+      "english": "The advertisement is aimed primarily at children.",
+      "soundmark": "/praɪ'mɛrəli/",
+      "posTags": [[4, 4, "副词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 4, "表语", "NP"],
+        [5, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "primitive",
+      "chinese": "原始社会",
+      "english": "a primitive society",
+      "soundmark": "/'prɪmətɪv/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "principle",
+      "chinese": "学校设法教给孩子们一套道德准则。",
+      "english": "Schools try to teach children a set of principles.",
+      "soundmark": "/'prɪnsəpl/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 6, "宾语", "NP"],
+        [7, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "priority",
+      "chinese": "该俱乐部首先考虑的是要赢得联赛。",
+      "english": "The club’s priority is to win the League.",
+      "soundmark": "/praɪ'ɔrəti/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 5, "系动词", "VP"],
+        [6, 7, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "privacy",
+      "chinese": "每个人的隐私权",
+      "english": "each individual’s right to privacy",
+      "soundmark": "/'praɪvəsi/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "process",
+      "chinese": "以－埃和平进程",
+      "english": "the Israeli-Egyptian peace process",
+      "soundmark": "/'prɑsɛs/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "productive",
+      "chinese": "我们大多数人在早上更有效率。",
+      "english": "Most of us are more productive in the morning.",
+      "soundmark": "/prə'dʌktɪv/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "系动词", "VP"],
+        [4, 5, "表语", "NP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "profitable",
+      "chinese": "事实证明，这次广告宣传活动卓有成效。",
+      "english": "The advertising campaign proved very profitable.",
+      "soundmark": "/'prɑfɪtəbl/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "profound",
+      "chinese": "强烈的内疚感",
+      "english": "a profound sense of guilt",
+      "soundmark": "/prə'faʊnd/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "programming",
+      "chinese": "计算机编程的课程",
+      "english": "a course in computer programming",
+      "soundmark": "/'proɡræmɪŋ/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "prohibit",
+      "chinese": "厂区严禁吸烟。",
+      "english": "Smoking is strictly prohibited inside the factory.",
+      "soundmark": "/prə'hɪbɪt/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "project",
+      "chinese": "该计划旨在对儿童情绪作出分析。",
+      "english": "The project aims to provide an analysis of children’s emotions.",
+      "soundmark": "/prəˈdʒɛkt; prɑdʒɛkt/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "谓语动词", "VP"],
+        [5, 6, "宾语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "prominent",
+      "chinese": "杰出的俄罗斯科学家",
+      "english": "a prominent Russian scientist",
+      "soundmark": "/'prɑmɪnənt/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "promising",
+      "chinese": "很有前途的法律职业",
+      "english": "a promising career in law",
+      "soundmark": "/'prɑmɪsɪŋ/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "promote",
+      "chinese": "你们没有必要牺牲环保来促进经济增长。",
+      "english": "You don't have to sacrifice environmental protection to promote economic growth.",
+      "soundmark": "/prə'mot/",
+      "posTags": [[8, 8, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "prompt",
+      "chinese": "必须立即采取行动。",
+      "english": "Prompt action must be taken.",
+      "soundmark": "/prɑmpt/",
+      "posTags": [[0, 0, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "proportion",
+      "chinese": "那个地区的很大一部分海豚最终都会死去。",
+      "english": "A large proportion of the dolphins in that area will eventually die.",
+      "soundmark": "/prə'pɔrʃən/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 8, "主语", "NP"],
+        [9, 9, "谓语动词", "VP"],
+        [10, 11, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "prospect",
+      "chinese": "我没有工作，没受过什么教育，前途渺茫。",
+      "english": "I had no job, no education, and no prospects .",
+      "soundmark": "/'prɑspɛkt/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 9, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "provoke",
+      "chinese": "那部小说在美国引发了激烈的争论。",
+      "english": "The novel has provoked fierce debate in the US.",
+      "soundmark": "/prə'vok/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "psychological",
+      "chinese": "睡眠障碍是严重的心理疾病。",
+      "english": "Sleep disorders are a serious psychological problem .",
+      "soundmark": "/,saɪkə'lɑdʒɪkl/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 7, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "publicize",
+      "chinese": "电视未能报道失业问题",
+      "english": "television’s failure to publicize the unemployment issue",
+      "soundmark": "/'pʌblɪsaɪz/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "punctual",
+      "chinese": "她一向准时赴约。",
+      "english": "She’s always very punctual for appointments.",
+      "soundmark": "/'pʌŋtʃʊəl/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "pursue",
+      "chinese": "她计划从政。",
+      "english": "She plans to pursue a career in politics.",
+      "soundmark": "/pə'sʊ/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"],
+        [6, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "qualification",
+      "chinese": "他离校时没有拿到任何文凭。",
+      "english": "He left school without any qualifications.",
+      "soundmark": "/,kwɑlɪfɪ'keʃən/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "qualify",
+      "chinese": "符合条件的儿童可获得免费的学生午餐。",
+      "english": "Free school lunches are given to children who qualify.",
+      "soundmark": "/ˈkwɑləˌfaɪ/",
+      "posTags": [[8, 8, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 5, "系动词", "VP"],
+        [6, 8, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "quality",
+      "chinese": "很多地的土质很差。",
+      "english": "Much of the land was of poor quality.",
+      "soundmark": "/'kwɑləti/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "谓语动词", "VP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "quantity",
+      "chinese": "这学期你的作业在完成数量和质量上都有提高。",
+      "english": "Your work has improved in quantity and quality this term.",
+      "soundmark": "/'kwɑntəti/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "quit",
+      "chinese": "生活中没有失败者，只有那些在成功前就放弃的人。",
+      "english": "There are no failures in life, only those who quit before success.",
+      "soundmark": "/kwɪt/",
+      "posTags": [[9, 9, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 3, "表语", "NP"],
+        [4, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "raise",
+      "chinese": "很多商店都提价了。",
+      "english": "Many shops have raised their prices.",
+      "soundmark": "/rez/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "range",
+      "chinese": "72 度到85度之间的温度范围",
+      "english": "a temperature range of 72-85˚",
+      "soundmark": "/rendʒ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "rank",
+      "chinese": "我们是世界上最安全的国家之一。",
+      "english": "We rank among the safest countries in the world.",
+      "soundmark": "/ræŋk/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 8, "状语修饰", "PP"]
+      ]
+    }
+  ]
+}

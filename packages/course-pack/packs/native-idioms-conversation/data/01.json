@@ -1,0 +1,171 @@
+{
+  "title": "破冰闲聊与日常寒暄",
+  "description": "母语者电梯相遇、咖啡厅偶遇、天气搭讪与周末近况破冰交流。",
+  "data": [
+    {
+      "chinese": "好久不见了，最近一切都好吗？",
+      "english": "Long time no see, how have you been?",
+      "soundmark": "/lɒŋ taɪm nəʊ siː haʊ hæv juː biːn/",
+      "posTags": [
+        [0, 0, "形容词"],
+        [1, 1, "名词"],
+        [2, 2, "限定词"],
+        [3, 3, "动词"],
+        [4, 4, "疑问副词"],
+        [5, 5, "助动词"],
+        [6, 6, "代词"],
+        [7, 7, "动词"]
+      ],
+      "syntaxTags": [
+        [0, 3, "破冰固定句", "Formula"],
+        [4, 7, "完成时疑问句", "Question"]
+      ]
+    },
+    {
+      "chinese": "今天天气可真是太惬意了。",
+      "english": "We could not ask for better weather today.",
+      "soundmark": "/wiː kʊd nɒt ɑːsk fɔː ˈbetər ˈweðər təˈdeɪ/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "情态动词"],
+        [2, 2, "副词"],
+        [3, 3, "动词"],
+        [4, 4, "介词"],
+        [5, 5, "形容词"],
+        [6, 6, "名词"],
+        [7, 7, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 7, "双重否定赞美谓语", "VP"]
+      ]
+    },
+    {
+      "chinese": "周末过得怎么样？",
+      "english": "How did your weekend go?",
+      "soundmark": "/haʊ dɪd jɔː ˌwiːkˈend ɡəʊ/",
+      "posTags": [
+        [0, 0, "疑问副词"],
+        [1, 1, "助动词"],
+        [2, 2, "代词"],
+        [3, 3, "名词"],
+        [4, 4, "动词"]
+      ],
+      "syntaxTags": [[0, 4, "日常问候特殊疑问句", "Question"]]
+    },
+    {
+      "chinese": "我只是在家里彻底放松躺平了一下。",
+      "english": "I just chilled out at home.",
+      "soundmark": "/aɪ dʒʌst tʃɪld aʊt æt həʊm/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "副词"],
+        [2, 2, "动词"],
+        [3, 3, "副词"],
+        [4, 4, "介词"],
+        [5, 5, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 5, "俚语动词短语", "VP"]
+      ]
+    },
+    {
+      "chinese": "最近工作忙得不可开交。",
+      "english": "Work has been pretty crazy lately.",
+      "soundmark": "/wɜːk hæz biːn ˈprɪti ˈkreɪzi ˈleɪtli/",
+      "posTags": [
+        [0, 0, "名词"],
+        [1, 1, "助动词"],
+        [2, 2, "动词"],
+        [3, 3, "副词"],
+        [4, 4, "形容词"],
+        [5, 5, "副词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 5, "完成时系表结构", "VP"]
+      ]
+    },
+    {
+      "chinese": "你今晚有什么有意思的安排吗？",
+      "english": "What are you up to tonight?",
+      "soundmark": "/wɒt ɑː juː ʌp tə təˈnaɪt/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "动词"],
+        [2, 2, "代词"],
+        [3, 3, "副词"],
+        [4, 4, "介词"],
+        [5, 5, "名词"]
+      ],
+      "syntaxTags": [[0, 5, "地道邀约疑问句", "Question"]]
+    },
+    {
+      "chinese": "没什么特别的，照旧老样子。",
+      "english": "Nothing much, same old same old.",
+      "soundmark": "/ˈnʌθɪŋ mʌtʃ seɪm əʊld seɪm əʊld/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "副词"],
+        [2, 2, "形容词"],
+        [3, 3, "形容词"],
+        [4, 4, "形容词"],
+        [5, 5, "形容词"]
+      ],
+      "syntaxTags": [[0, 5, "地道口语习惯回答", "Formula"]]
+    },
+    {
+      "chinese": "改天我们一定要约着喝杯咖啡！",
+      "english": "We definitely should grab coffee sometime soon!",
+      "soundmark": "/wiː ˈdefɪnətli ʃʊd ɡræb ˈkɒfi ˈsʌmtaɪm suːn/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "副词"],
+        [2, 2, "情态动词"],
+        [3, 3, "动词"],
+        [4, 4, "名词"],
+        [5, 5, "副词"],
+        [6, 6, "副词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 6, "情态邀约谓语", "VP"]
+      ]
+    },
+    {
+      "chinese": "世界真是太小了，居然在这儿碰见你！",
+      "english": "What a small world bumping into you here!",
+      "soundmark": "/wɒt ə smɔːl wɜːld ˈbʌmpɪŋ ˈɪntə juː hɪər/",
+      "posTags": [
+        [0, 0, "限定词"],
+        [1, 1, "限定词"],
+        [2, 2, "形容词"],
+        [3, 3, "名词"],
+        [4, 4, "动词"],
+        [5, 5, "介词"],
+        [6, 6, "代词"],
+        [7, 7, "副词"]
+      ],
+      "syntaxTags": [
+        [0, 3, "感叹句核心", "NP"],
+        [4, 7, "伴随分词状语", "VP"]
+      ]
+    },
+    {
+      "chinese": "替我向你的家人们问好！",
+      "english": "Please send my regards to your family.",
+      "soundmark": "/pliːz send maɪ rɪˈɡɑːdz tə jɔː ˈfæməli/",
+      "posTags": [
+        [0, 0, "副词"],
+        [1, 1, "动词"],
+        [2, 2, "代词"],
+        [3, 3, "名词"],
+        [4, 4, "介词"],
+        [5, 5, "代词"],
+        [6, 6, "名词"]
+      ],
+      "syntaxTags": [[0, 6, "问候祈使句", "Imperative"]]
+    }
+  ]
+}

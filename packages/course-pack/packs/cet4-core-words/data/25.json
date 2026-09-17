@@ -1,0 +1,572 @@
+{
+  "title": "Unit 25: 四级核心词汇（aircraft ~ anyhow）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "aircraft",
+      "chinese": "飞机的返回航程被推迟了。",
+      "english": "The return flight of the aircraft was delayed.",
+      "soundmark": "/'ɛr'kræft/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 7, "系动词", "VP"]
+      ]
+    },
+    {
+      "word": "airline",
+      "chinese": "航空公司飞行员",
+      "english": "an airline pilot",
+      "soundmark": "/'ɛrlaɪn/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "airplane",
+      "chinese": "这架飞机在着陆时坠毁。",
+      "english": "The airplane cracked up in landing.",
+      "soundmark": "/ˈerpleɪn/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "airport",
+      "chinese": "飞机降落在希思罗机场。",
+      "english": "The plane landed at Heathrow Airport.",
+      "soundmark": "/'ɛr'pɔrt/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "alarm",
+      "chinese": "我忘记打开防盗警报器了。",
+      "english": "I forgot to set the burglar alarm.",
+      "soundmark": "/ə'lɑrm/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "alike",
+      "chinese": "我和母亲在许多方面很相似。",
+      "english": "My mother and I are alike in many ways.",
+      "soundmark": "/ə'laɪk/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "系动词", "VP"],
+        [5, 5, "表语", "NP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "alive",
+      "chinese": "这是一宗严重事故——他们能活着实属幸运。",
+      "english": "It was a bad accident – they’re lucky to be alive.",
+      "soundmark": "/ə'laɪv/",
+      "posTags": [[10, 10, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 7, "表语", "NP"],
+        [8, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "allow",
+      "chinese": "泳池内禁止跳水。",
+      "english": "We don’t allow diving in the pool.",
+      "soundmark": "/ə'laʊ/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "alloy",
+      "chinese": "黄铜是铜和锌的合金。",
+      "english": "Brass is an alloy of copper and zinc.",
+      "soundmark": "/'ælɔɪ/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 3, "表语", "NP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "almost",
+      "chinese": "你差不多完成了吗？",
+      "english": "Have you almost finished?",
+      "soundmark": "/'ɔlmost/",
+      "posTags": [[2, 2, "副词"]],
+      "syntaxTags": [[0, 3, "疑问句", "Question"]]
+    },
+    {
+      "word": "alone",
+      "chinese": "她一个人生活。",
+      "english": "She lives alone .",
+      "soundmark": "/ə'lon/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "along",
+      "chinese": "我们沿着福莱福特路行驶。",
+      "english": "We were driving along Follyfoot Road.",
+      "soundmark": "/ə'lɔŋ/",
+      "posTags": [[3, 3, "介词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 5, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "aloud",
+      "chinese": "当我们是孩子时，我们的父亲大声地朗读给我们听。",
+      "english": "When we were children, our father read aloud to us.",
+      "soundmark": "/ə'laʊd/",
+      "posTags": [[7, 7, "副词"]],
+      "syntaxTags": [[0, 9, "疑问句", "Question"]]
+    },
+    {
+      "word": "alphabet",
+      "chinese": "现代俄语字母表有31个字母。",
+      "english": "The modern Russian alphabet has 31 letters.",
+      "soundmark": "/'ælfə'bɛt/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "already",
+      "chinese": "新房的设计与那些已建好的房子相似。",
+      "english": "The design of the new house is similar to those that have already been built.",
+      "soundmark": "/ɔl'rɛdi/",
+      "posTags": [[12, 12, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 14, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "also",
+      "chinese": "还可以获得有关女性保健方面的资料。",
+      "english": "Information is also available on women’s health care.",
+      "soundmark": "/'ɔlso/",
+      "posTags": [[2, 2, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 3, "表语", "NP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "although",
+      "chinese": "尽管身体不好，她仍继续执行任务。",
+      "english": "Although in poor health, she continued to carry out her duties.",
+      "soundmark": "/ɔl'ðo/",
+      "posTags": [[0, 0, "连词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 7, "谓语动词", "VP"],
+        [8, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "altogether",
+      "chinese": "一个彻底消亡的古老习俗",
+      "english": "an old custom that has vanished altogether",
+      "soundmark": "/,ɔltə'ɡɛðɚ/",
+      "posTags": [[6, 6, "副词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "谓语动词", "VP"],
+        [6, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "aluminium",
+      "chinese": "再生铝罐",
+      "english": "recycled aluminium cans",
+      "soundmark": "/,æljə'mɪnɪəm/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 2, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "always",
+      "chinese": "每次都要把自行车锁在牢固的物体上。",
+      "english": "Always lock your bicycle to something secure.",
+      "soundmark": "/'ɔlwez/",
+      "posTags": [[0, 0, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "ambition",
+      "chinese": "他年轻，而且雄心勃勃。",
+      "english": "He was young and full of ambition.",
+      "soundmark": "/æm'bɪʃən/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 4, "表语", "NP"],
+        [5, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "ambulance",
+      "chinese": "救护车服务",
+      "english": "the ambulance service",
+      "soundmark": "/'æmbjələns/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "America",
+      "chinese": "我也许去美国，也许不去，要视情况而定。",
+      "english": "I may go to America or I may not,it all depends.",
+      "soundmark": "/əˈmɛrɪkə/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 10, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "American",
+      "chinese": "她妈妈是美国人。",
+      "english": "Her mother is American.",
+      "soundmark": "/əˈmɛrɪkən/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 3, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "among",
+      "chinese": "女孩转眼消失在人群中。",
+      "english": "The girl quickly disappeared among the crowd.",
+      "soundmark": "/ə'mʌŋ/",
+      "posTags": [[4, 4, "介词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "amongst",
+      "chinese": "正是在三一学院这儿，我将对你们阐述他如何在你们中间生活，如何在这些年中取得他的最伟大的成就。",
+      "english": "Here in Trinity it is right that I should give you an account of how he lived amongst you during these years of his greatest achievement.",
+      "soundmark": "/ə'mʌŋst/",
+      "posTags": [[17, 17, "介词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "系动词", "VP"],
+        [5, 12, "表语", "NP"],
+        [13, 25, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "amount",
+      "chinese": "请在月底前全额付清。",
+      "english": "Please pay the full amount (=  of money  ) by the end of the month.",
+      "soundmark": "/ə'maʊnt/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 14, "祈使句式", "Imperative"]]
+    },
+    {
+      "word": "ampere",
+      "chinese": "我还想要一个铝制的安培表，虽然它与另一个类似。",
+      "english": "And I prefer to an ampere meter being made of aluminum even though it has analog to another one.",
+      "soundmark": "",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 8, "宾语", "NP"],
+        [9, 18, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "amplify",
+      "chinese": "带有扩音设备的电吉他",
+      "english": "an amplified guitar",
+      "soundmark": "/'æmplɪfaɪ/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "amuse",
+      "chinese": "拼图能让埃米连续玩上几个小时。",
+      "english": "Doing jigsaws would amuse Amy for hours on end.",
+      "soundmark": "/ə'mjuz/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 4, "宾语", "NP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "analyse",
+      "chinese": "她仍需要分析这些数据。",
+      "english": "She still needs to analyse the data.",
+      "soundmark": "/'æn(ə)laɪz/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "谓语动词", "VP"],
+        [5, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "analysis",
+      "chinese": "她接受精神分析治疗已经三年了。",
+      "english": "She’s been in analysis for three years.",
+      "soundmark": "/ə'næləsɪs/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "ancestor",
+      "chinese": "我的祖先是法国人。",
+      "english": "My ancestors were French.",
+      "soundmark": "/'ænsɛstɚ/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 3, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "anchor",
+      "chinese": "我们在离岸几码远的地方抛锚停航。",
+      "english": "We dropped anchor a few yards offshore.",
+      "soundmark": "/'æŋkɚ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "and",
+      "chinese": "他去买炸鱼薯条了。",
+      "english": "He’s gone to get some fish and chips.",
+      "soundmark": "/ənd, ən,ænd/",
+      "posTags": [[6, 6, "连词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "angel",
+      "chinese": "天使加百列",
+      "english": "the angel Gabriel",
+      "soundmark": "/'endʒl/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "anger",
+      "chinese": "民众对政府越来越不满。",
+      "english": "There is growing anger among the people against the government.",
+      "soundmark": "/'æŋɡɚ/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "系动词", "VP"],
+        [4, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "angle",
+      "chinese": "你没有量准角度。",
+      "english": "You didn’t measure the angle accurately.",
+      "soundmark": "/'æŋɡl/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "angry",
+      "chinese": "我很生气，因为他没有告诉我他的计划。",
+      "english": "I was angry because he hadn’t told me his plans.",
+      "soundmark": "/'æŋɡri/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 9, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "animal",
+      "chinese": "毛茸茸的小动物",
+      "english": "furry little animals",
+      "soundmark": "/'ænɪml/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "ankle",
+      "chinese": "纤细的脚踝",
+      "english": "slender ankles",
+      "soundmark": "/'æŋkl/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 1, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "announcer",
+      "chinese": "电台播音员报了9点。",
+      "english": "The radio announcer said it was nine o'clock.",
+      "soundmark": "/ə'naʊnsɚ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "系动词", "VP"],
+        [6, 7, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "another",
+      "chinese": "你能举出另一个像这样的例子吗?",
+      "english": "Can you cite another case like this one?",
+      "soundmark": "/ə'nʌðɚ/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [[0, 7, "疑问句", "Question"]]
+    },
+    {
+      "word": "answer",
+      "chinese": "她想了一会儿才回答。",
+      "english": "She thought for a moment before answering.",
+      "soundmark": "/'ænsɚ/",
+      "posTags": [[6, 6, "动词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 6, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "ant",
+      "chinese": "蚂蚁从地里成群地爬出来，爬满了她的鞋和腿。",
+      "english": "Ants swarmed up out of the ground and covered her shoes and legs.",
+      "soundmark": "/ænt/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "anxiety",
+      "chinese": "他焦虑的心情",
+      "english": "his feelings of anxiety",
+      "soundmark": "/æŋ'zaɪəti/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "anxious",
+      "chinese": "她焦急地看了我一眼。",
+      "english": "She gave me an anxious look.",
+      "soundmark": "/'æŋkʃəs/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "any",
+      "chinese": "我们推断不出这些强盗是从哪个方向逃走的，因为我们找不到他们的任何踪迹。",
+      "english": "We could not reason out which way the robbers escaped, because we were unable to find any trace of them.",
+      "soundmark": "/'ɛni/",
+      "posTags": [[16, 16, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 19, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "anybody",
+      "chinese": "不要轻信任何人，你得亲自去试一试。",
+      "english": "You should have a try, don't swallow anybody.",
+      "soundmark": "",
+      "posTags": [[7, 7, "介词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "anyhow",
+      "chinese": "你对她一点儿都不了解，也不了解自己和她的关系，无论如何它只是那些事情之一,因此没有任何重要性。",
+      "english": "You know nothing about her really, or about yourself in relation to her, and anyhow it's only one of those things and therefore it's of no importance.",
+      "soundmark": "/'ɛnɪ'haʊ/",
+      "posTags": [[14, 14, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 26, "状语修饰", "PP"]
+      ]
+    }
+  ]
+}

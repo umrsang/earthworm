@@ -1,0 +1,573 @@
+{
+  "title": "Unit 50: 四级核心词汇（grateful ~ harbour）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "grateful",
+      "chinese": "我们衷心感谢所有参与者。",
+      "english": "Our grateful thanks go to all who participated.",
+      "soundmark": "/'ɡretfl/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "谓语动词", "VP"],
+        [5, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "gravity",
+      "chinese": "重力",
+      "english": "the force of gravity",
+      "soundmark": "/'ɡrævəti/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "gray",
+      "chinese": "我喜欢那只灰色的小鸭子， 孩子们也喜欢那只。",
+      "english": "I like that little gray one. The kids like that one too.",
+      "soundmark": "/ɡreɪ/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 11, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "great",
+      "chinese": "这部影片大获成功。",
+      "english": "The movie was a great success.",
+      "soundmark": "/ɡret/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 5, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "greatly",
+      "chinese": "如蒙帮助，感激不尽。",
+      "english": "All offers of help will be greatly appreciated .",
+      "soundmark": "/'ɡretli/",
+      "posTags": [[6, 6, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "greedy",
+      "chinese": "一个贪婪自私的社会",
+      "english": "a greedy and selfish society",
+      "soundmark": "/'gridi/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "Greek",
+      "chinese": "希腊式酸奶",
+      "english": "Greek yoghurt",
+      "soundmark": "/grik/",
+      "posTags": [[0, 0, "形容词"]],
+      "syntaxTags": [[0, 1, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "green",
+      "chinese": "漂亮的碧眼",
+      "english": "beautiful green eyes",
+      "soundmark": "/ɡrin/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "greet",
+      "chinese": "贝琳达热情地招呼她。",
+      "english": "Belinda greeted her warmly.",
+      "soundmark": "/ɡrit/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "greeting",
+      "chinese": "我客气地笑着打了个招呼，可是那女人没有答理我。",
+      "english": "I smiled a polite greeting, but the woman hardly acknowledged me.",
+      "soundmark": "/'ɡritɪŋ/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 10, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "grey",
+      "chinese": "头发灰白的老太太",
+      "english": "an old lady with grey hair",
+      "soundmark": "/ɡreɪ/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "grieve",
+      "chinese": "人们在所爱之人去世后会有一段悲伤期。",
+      "english": "People need time to grieve after the death of a loved one.",
+      "soundmark": "/griv/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "grind",
+      "chinese": "磨刀剪的石头",
+      "english": "a stone for grinding knives and scissors",
+      "soundmark": "/ɡraɪnd/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "grip",
+      "chinese": "我紧紧抓住栏杆，尽量不往下看。",
+      "english": "I gripped the rail and tried not to look down.",
+      "soundmark": "/ɡrɪp/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "groan",
+      "chinese": "我关掉电视时，孩子们都发出不满的抱怨声。",
+      "english": "The kids all groaned when I switched off the TV.",
+      "soundmark": "/ɡron/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 6, "宾语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "grocer",
+      "chinese": "厨师和杂货商为蛋价计较个没完。",
+      "english": "The cook and the grocer haggled over the price of eggs.",
+      "soundmark": "/ɡrosɚ/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "宾语", "NP"],
+        [6, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "gross",
+      "chinese": "该公司犯了重大的失职罪。",
+      "english": "The company was guilty of gross negligence.",
+      "soundmark": "/ɡros/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 3, "表语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "ground",
+      "chinese": "有充分的理由可以相信他的话。",
+      "english": "There are strong grounds for believing his statement.",
+      "soundmark": "/ɡraʊnd/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 3, "表语", "NP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "group",
+      "chinese": "我们有一群人要去伦敦。",
+      "english": "A group of us are going to London.",
+      "soundmark": "/ɡrup/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "grow",
+      "chinese": "你比我上次见到时长了不少啊。",
+      "english": "You’ve really grown since I last saw you.",
+      "soundmark": "/ɡro/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "growth",
+      "chinese": "刺激经济增长的措施",
+      "english": "measures to stimulate economic growth",
+      "soundmark": "/ɡroθ/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "guard",
+      "chinese": "中士叫斯威夫特守着入口。",
+      "english": "The Sergeant told Swift to guard the entrance.",
+      "soundmark": "/ɡɑrd/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "guess",
+      "chinese": "我想他50岁左右，不过也只是猜测。",
+      "english": "I’d say he’s around 50, but I’m only guessing.",
+      "soundmark": "/ɡɛs/",
+      "posTags": [[8, 8, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "guest",
+      "chinese": "250位贵宾出席的宴会",
+      "english": "a banquet for 250 distinguished guests",
+      "soundmark": "/ɡɛst/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "guidance",
+      "chinese": "有精密电子制导系统的导弹",
+      "english": "a missile with a sophisticated electronic guidance system",
+      "soundmark": "/'gaɪdns/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [[0, 7, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "guide",
+      "chinese": "导游",
+      "english": "a tour guide",
+      "soundmark": "/ɡaɪd/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "guilty",
+      "chinese": "她看上去很不自然，很内疚的样子。",
+      "english": "She looked self-conscious and guilty.",
+      "soundmark": "/'ɡɪlti/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "gulf",
+      "chinese": "墨西哥湾",
+      "english": "the Gulf of Mexico",
+      "soundmark": "/ɡʌlf/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "gun",
+      "chinese": "我这辈子从来没开过枪。",
+      "english": "I’ve never fired a gun in my life.",
+      "soundmark": "/ɡʌn/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "gymnasium",
+      "chinese": "我找到一个新的健身房。",
+      "english": "I have found a new gymnasium.",
+      "soundmark": "/dʒɪm'nezɪəm/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "habit",
+      "chinese": "经常锻炼是个好习惯。",
+      "english": "Regular exercise is a good habit.",
+      "soundmark": "/'hæbɪt/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "habitual",
+      "chinese": "詹姆斯又像往常习惯的那样绕花园作晨间散步去了。",
+      "english": "James took his habitual morning walk around the garden.",
+      "soundmark": "/hə'bɪtʃuəl/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "hair",
+      "chinese": "她的头发又短又黑。",
+      "english": "Her hair was short and dark.",
+      "soundmark": "/hɛr/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 5, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "haircut",
+      "chinese": "你喜欢我的新发型吗？",
+      "english": "Do you like my new haircut?",
+      "soundmark": "/'hɛrkʌt/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [[0, 5, "疑问句", "Question"]]
+    },
+    {
+      "word": "half",
+      "chinese": "7点钟前只来了一半客人。",
+      "english": "Only half the guests had arrived by seven o’clock.",
+      "soundmark": "/hæf/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 5, "谓语动词", "VP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "hall",
+      "chinese": "铺着地砖的大门厅",
+      "english": "a huge tiled entrance hall",
+      "soundmark": "/hɔl/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "halt",
+      "chinese": "政府没能阻止经济衰退。",
+      "english": "The government has failed to halt economic decline.",
+      "soundmark": "/hɔlt/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 5, "谓语动词", "VP"],
+        [6, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "hamburger",
+      "chinese": "整个体育场内散发着汉堡包的香味。",
+      "english": "The whole stadium stink of the hamburger.",
+      "soundmark": "/hæmbɝ​ɡɚ/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [[0, 6, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "hammer",
+      "chinese": "我没有锤子，所以只得用石头把钉子敲进去。",
+      "english": "I had no hammer,so I had to pound the nail in with a stone.",
+      "soundmark": "/'hæmɚ/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "宾语", "NP"],
+        [6, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "hand",
+      "chinese": "史蒂夫双手紧握方向盘。",
+      "english": "Steve gripped the steering wheel tightly with both hands.",
+      "soundmark": "/hænd/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "宾语", "NP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "handful",
+      "chinese": "那里只有几个人。",
+      "english": "There were only a handful of people there.",
+      "soundmark": "/'hænd,fʊl/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 4, "表语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "handkerchief",
+      "chinese": "他轻轻地用手帕拂拭污点。",
+      "english": "He flicked at spot with handkerchief.",
+      "soundmark": "/'hæŋkɚtʃɪf/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "handsome",
+      "chinese": "他们在选举中取得了重大的胜利。",
+      "english": "They won a handsome victory in the elections.",
+      "soundmark": "/'hænsəm/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "handwriting",
+      "chinese": "我认出了信封上她的笔迹。",
+      "english": "I recognised her handwriting on the envelope.",
+      "soundmark": "/'hænd'raɪtɪŋ/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "handy",
+      "chinese": "这件小工具非常有用。",
+      "english": "It’s quite a handy little tool.",
+      "soundmark": "/'hændi/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "hang",
+      "chinese": "如果被判有罪，他几乎肯定会被处以绞刑。",
+      "english": "If he is found guilty, he will almost certainly hang.",
+      "soundmark": "/hæŋ/",
+      "posTags": [[9, 9, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 9, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "happen",
+      "chinese": "事故什么时候发生的？",
+      "english": "When did the accident happen?",
+      "soundmark": "/'hæpən/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [[0, 4, "疑问句", "Question"]]
+    },
+    {
+      "word": "happiness",
+      "chinese": "朱丽叶的双眼闪耀着幸福的光芒。",
+      "english": "Juliet’s eyes shone with happiness.",
+      "soundmark": "/ˈhæpinəs/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "happy",
+      "chinese": "房子很漂亮，我们住在这里非常开心。",
+      "english": "It’s a lovely house and we’ve been very happy here.",
+      "soundmark": "/'hæpɪ/",
+      "posTags": [[8, 8, "形容词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 6, "系动词", "VP"],
+        [7, 9, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "harbour",
+      "chinese": "当他们驶入朴次茅斯港的时候",
+      "english": "as they sailed into Portsmouth Harbour",
+      "soundmark": "/hɑrbɚ/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "title": "自我介绍与问候",
+  "description": "练习自我介绍、问候和介绍来自哪里。",
+  "data": [
+    {
+      "chinese": "我叫汤姆。",
+      "english": "My name is Tom.",
+      "soundmark": "/maɪ neɪm ɪz tɒm/",
+      "posTags": [
+        [0, 0, "限定词"],
+        [1, 1, "名词"],
+        [2, 2, "动词"],
+        [3, 3, "专有名词"]
+      ],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语", "VP"]
+      ]
+    },
+    {
+      "chinese": "很高兴认识你。",
+      "english": "Nice to meet you.",
+      "soundmark": "/naɪs tə miːt juː/",
+      "posTags": [
+        [0, 0, "形容词"],
+        [1, 1, "不定式标记"],
+        [2, 2, "动词"],
+        [3, 3, "代词"]
+      ],
+      "syntaxTags": [[0, 3, "固定表达", "Sentence"]]
+    },
+    {
+      "chinese": "我今天很好。",
+      "english": "I am very well.",
+      "soundmark": "/aɪ æm ˈveri wel/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "动词"],
+        [2, 2, "副词"],
+        [3, 3, "形容词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语", "VP"]
+      ]
+    },
+    {
+      "chinese": "你来自哪里？",
+      "english": "Where are you from?",
+      "soundmark": "/weə ɑː juː frɒm/",
+      "posTags": [
+        [0, 0, "疑问副词"],
+        [1, 1, "动词"],
+        [2, 2, "代词"],
+        [3, 3, "介词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "疑问成分", "AdvP"],
+        [1, 3, "核心问句", "Clause"]
+      ]
+    },
+    {
+      "chinese": "我来自中国。",
+      "english": "I am from China.",
+      "soundmark": "/aɪ æm frɒm ˈtʃaɪnə/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "动词"],
+        [2, 2, "介词"],
+        [3, 3, "专有名词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语", "VP"],
+        [2, 3, "地点补语", "PP"]
+      ]
+    }
+  ]
+}

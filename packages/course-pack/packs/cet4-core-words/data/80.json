@@ -1,0 +1,552 @@
+{
+  "title": "Unit 80: 四级核心词汇（truth ~ vast）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "truth",
+      "chinese": "我们怎么知道你告诉我们的是真话？",
+      "english": "How do we know you’re telling us the truth?",
+      "soundmark": "/trʊθ/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [[0, 8, "疑问句", "Question"]]
+    },
+    {
+      "word": "tube",
+      "chinese": "一管牙膏",
+      "english": "a tube of toothpaste",
+      "soundmark": "/tjuːb/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "tune",
+      "chinese": "那曲调很美。",
+      "english": "That’s a nice tune.",
+      "soundmark": "/tjuːn/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "tunnel",
+      "chinese": "铁路隧道",
+      "english": "a railway tunnel",
+      "soundmark": "/'tʌnl/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "turbine",
+      "chinese": "那艘新轮船将由2台燃气涡轮机和4台柴油机驱动。",
+      "english": "The new ship will be powered by two gas turbines and four diesel engines.",
+      "soundmark": "/'tɝbaɪn/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 5, "谓语动词", "VP"],
+        [6, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "twin",
+      "chinese": "我总分不清他和他的孪生兄弟。",
+      "english": "I always confounded him with his twin brother.",
+      "soundmark": "/twɪn/",
+      "posTags": [[6, 6, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "type",
+      "chinese": "乔可不是那种喜欢运动的人。",
+      "english": "Jo’s not really the sporty type.",
+      "soundmark": "/taɪp/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "typewriter",
+      "chinese": "她用打字机打出了一封信。",
+      "english": "She tapped out a letter on the typewriter.",
+      "soundmark": "/'taɪpraɪtɚ/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "typical",
+      "chinese": "典型的英国天气",
+      "english": "typical British weather",
+      "soundmark": "/'tɪpɪkl/",
+      "posTags": [[0, 0, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "typist",
+      "chinese": "我打字很慢。",
+      "english": "I’m a slow typist.",
+      "soundmark": "/'taɪpɪst/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "tyre",
+      "chinese": "备用轮胎在行李箱里。",
+      "english": "The spare tyre ’s in the boot.",
+      "soundmark": "/'taɪɚ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 6, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "ultimate",
+      "chinese": "试验的最后结果无法预测。",
+      "english": "The ultimate outcome of the experiment cannot be predicted.",
+      "soundmark": "/'ʌltəmət/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 6, "主语", "NP"],
+        [7, 8, "系动词", "VP"]
+      ]
+    },
+    {
+      "word": "unconscious",
+      "chinese": "她被找到时还活着，但已不省人事。",
+      "english": "She was found alive but unconscious.",
+      "soundmark": "/ʌn'kɑnʃəs/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 5, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "uncover",
+      "chinese": "幼苗发芽后，揭开盘上的遮盖物。",
+      "english": "When the seedlings sprout, uncover the tray.",
+      "soundmark": "/ʌn'kʌvɚ/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [[0, 6, "疑问句", "Question"]]
+    },
+    {
+      "word": "undergraduate",
+      "chinese": "大学二年级学生",
+      "english": "second-year undergraduates",
+      "soundmark": "/,ʌndɚ'ɡrædʒuət/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 1, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "underneath",
+      "chinese": "射击场被一排排宝石红照明装置从下面照亮。",
+      "english": "The shooting-range is lit from underneath by rows of ruby-red light fixtures.",
+      "soundmark": "/,ʌndɚ'niθ/",
+      "posTags": [[5, 5, "副词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 3, "表语", "NP"],
+        [4, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "undo",
+      "chinese": "这些螺丝可以用手拧开。",
+      "english": "The screws can be undone by hand.",
+      "soundmark": "/ʌn'du/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 4, "宾语", "NP"],
+        [5, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "uneasy",
+      "chinese": "她终于睡着了，但睡得并不踏实。",
+      "english": "She eventually fell into an uneasy sleep.",
+      "soundmark": "/ʌn'izi/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "unexpected",
+      "chinese": "这次试验产生了一些意想不到的结果。",
+      "english": "The experiment produced some unexpected results.",
+      "soundmark": "/'ʌnɪk'spɛktɪd/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "uniform",
+      "chinese": "A 级鸡蛋必须大小相同。",
+      "english": "Grade A eggs must be of uniform size.",
+      "soundmark": "/'junɪfɔrm/",
+      "posTags": [[6, 6, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 4, "宾语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "union",
+      "chinese": "你打算加入工会吗？",
+      "english": "Are you planning to join the union?",
+      "soundmark": "/'junɪən/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [[0, 6, "疑问句", "Question"]]
+    },
+    {
+      "word": "unit",
+      "chinese": "那名男子在医院的重症监护室。",
+      "english": "The man is in the hospital’s intensive care unit.",
+      "soundmark": "/'junɪt/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "unite",
+      "chinese": "我们的目标是联合各反对党挫败总统。",
+      "english": "Our goal is to unite the opposition parties and defeat the President.",
+      "soundmark": "/ju'naɪt/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "系动词", "VP"],
+        [5, 11, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "unity",
+      "chinese": "经济统一",
+      "english": "economic unity",
+      "soundmark": "/'junəti/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 1, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "unknown",
+      "chinese": "杀人凶手身份仍然不明。",
+      "english": "The murderer’s identity remains unknown.",
+      "soundmark": "/,ʌn'non/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "unless",
+      "chinese": "要是不能找到更多资金，剧院将要关闭。",
+      "english": "Unless some extra money is found, the theatre will close.",
+      "soundmark": "/ən'lɛs/",
+      "posTags": [[0, 0, "连词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 5, "系动词", "VP"],
+        [6, 9, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "unlike",
+      "chinese": "现在我知道了，那些人不像她，他们是我的正面的表率。",
+      "english": "Now I see that, unlike her, they were my positive models.",
+      "soundmark": "/'ʌn'laɪk/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 10, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "unlikely",
+      "chinese": "唐娜明天也许能来，不过这可能性很小。",
+      "english": "Donna might be able to come tomorrow, but it’s very unlikely.",
+      "soundmark": "/ʌn'laɪkli/",
+      "posTags": [[10, 10, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "unload",
+      "chinese": "从小船上卸下所有的货物并彻底地清洗。",
+      "english": "Unload everything from the boat and clean it thoroughly.",
+      "soundmark": "/'ʌn'lod/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 1, "宾语", "NP"],
+        [2, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "upper",
+      "chinese": "上唇",
+      "english": "the upper lip",
+      "soundmark": "/'ʌpɚ/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "upright",
+      "chinese": "凯蒂还醒着，坐得笔直，眼睛盯着电视。",
+      "english": "Katie was still awake, sitting bolt upright(= sitting with her back very straight ) staring at the television.",
+      "soundmark": "/'ʌpraɪt/",
+      "posTags": [[6, 6, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 7, "表语", "NP"],
+        [8, 17, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "upset",
+      "chinese": "他打翻了一碗汤。",
+      "english": "He upset a bowl of soup.",
+      "soundmark": "/ʌp'sɛt/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "upward",
+      "chinese": "针对银行利率的越来越大的压力",
+      "english": "upward pressure on bank interest rates",
+      "soundmark": "/'ʌpwɚd/",
+      "posTags": [[0, 0, "形容词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "urban",
+      "chinese": "城市地区的失业状况",
+      "english": "unemployment in urban areas",
+      "soundmark": "/'ɝbən/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "urge",
+      "chinese": "慈善机构敦促迅速采取行动。",
+      "english": "The charity urged quick action.",
+      "soundmark": "/ɝdʒ/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "urgent",
+      "chinese": "他急需治疗。",
+      "english": "He was in urgent need of medical attention.",
+      "soundmark": "/'ɝdʒənt/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "usage",
+      "chinese": "关于现代英语用法的书",
+      "english": "a book on modern English usage",
+      "soundmark": "/'jusɪdʒ/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "utilize",
+      "chinese": "我们必须考虑怎样充分利用现有的资源。",
+      "english": "We must consider how best to utilize what resources we have.",
+      "soundmark": "/'juːtəlaɪz/",
+      "posTags": [[6, 6, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "utmost",
+      "chinese": "安全问题受到极为严肃的对待。",
+      "english": "Security matters are treated with the utmost seriousness.",
+      "soundmark": "/'ʌt'most/",
+      "posTags": [[6, 6, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "utter",
+      "chinese": "真是一派胡言！",
+      "english": "That’s utter nonsense!",
+      "soundmark": "/'ʌtɚ/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "vacant",
+      "chinese": "只有几套公寓仍然空着。",
+      "english": "Only a few apartments were still vacant.",
+      "soundmark": "/'vekənt/",
+      "posTags": [[6, 6, "形容词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "系动词", "VP"],
+        [5, 6, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "vacuum",
+      "chinese": "他的出现应该能填补过去几天中形成的权力空缺。",
+      "english": "His presence should fill the power vacuum that has been developing over the past few days.",
+      "soundmark": "/'vækjʊəm/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 10, "宾语", "NP"],
+        [11, 15, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "vague",
+      "chinese": "州长只是含糊地大致说了一下他的税务计划。",
+      "english": "The governor gave only a vague outline of his tax plan.",
+      "soundmark": "/veɡ/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 6, "宾语", "NP"],
+        [7, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "vain",
+      "chinese": "男人有时会和女人一样虚荣。",
+      "english": "Men can be just as vain as women.",
+      "soundmark": "/ven/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "van",
+      "chinese": "运货车",
+      "english": "a delivery van",
+      "soundmark": "/væn/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "vapour",
+      "chinese": "水蒸气",
+      "english": "water vapour",
+      "soundmark": "/'vepɚ/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 1, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "variable",
+      "chinese": "预计明天多云有雾，天气多变。",
+      "english": "Expect variable cloudiness and fog tomorrow.",
+      "soundmark": "/'vɛrɪəbl/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "variation",
+      "chinese": "他的大部分诗作都是有关爱情主题的形式不同的作品。",
+      "english": "Most of his poems are variations on the theme of love.",
+      "soundmark": "/,vɛrɪ'eʃən/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "系动词", "VP"],
+        [5, 5, "表语", "NP"],
+        [6, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "various",
+      "chinese": "这种夹克有好多种颜色可选。",
+      "english": "The jacket is available in various colours.",
+      "soundmark": "/'vɛrɪəs/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 3, "表语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "vast",
+      "chinese": "大量难民涌过边境。",
+      "english": "The refugees come across the border in vast numbers.",
+      "soundmark": "/væst/",
+      "posTags": [[7, 7, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 8, "状语修饰", "PP"]
+      ]
+    }
+  ]
+}

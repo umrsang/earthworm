@@ -1,0 +1,175 @@
+{
+  "title": "机场值机与出入境问答",
+  "description": "出境机票办理、靠窗靠走廊座位选择、托运行李与海关边检问答核心表达。",
+  "data": [
+    {
+      "chinese": "请问我可以要一个靠窗的座位吗？",
+      "english": "Could I get a window seat, please?",
+      "soundmark": "/kʊd aɪ ɡet ə ˈwɪndəʊ siːt pliːz/",
+      "posTags": [
+        [0, 0, "情态动词"],
+        [1, 1, "代词"],
+        [2, 2, "动词"],
+        [3, 3, "限定词"],
+        [4, 4, "名词"],
+        [5, 5, "名词"],
+        [6, 6, "副词"]
+      ],
+      "syntaxTags": [[0, 6, "礼貌请求句", "Question"]]
+    },
+    {
+      "chinese": "我来这里度假两周。",
+      "english": "I am here on vacation for two weeks.",
+      "soundmark": "/aɪ æm hɪər ɒn vəˈkeɪʃn fɔː tuː wiːks/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "动词"],
+        [2, 2, "副词"],
+        [3, 3, "介词"],
+        [4, 4, "名词"],
+        [5, 5, "介词"],
+        [6, 6, "数词"],
+        [7, 7, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 7, "系表与状语", "VP"]
+      ]
+    },
+    {
+      "chinese": "这个包需要办理托运吗？",
+      "english": "Do I need to check this bag?",
+      "soundmark": "/duː aɪ niːd tə tʃek ðɪs bæɡ/",
+      "posTags": [
+        [0, 0, "助动词"],
+        [1, 1, "代词"],
+        [2, 2, "动词"],
+        [3, 3, "不定式标记"],
+        [4, 4, "动词"],
+        [5, 5, "限定词"],
+        [6, 6, "名词"]
+      ],
+      "syntaxTags": [[0, 6, "一般疑问句", "Question"]]
+    },
+    {
+      "chinese": "请问登机口几点关闭？",
+      "english": "What time does the boarding gate close?",
+      "soundmark": "/wɒt taɪm dʌz ðə ˈbɔːdɪŋ ɡeɪt kləʊz/",
+      "posTags": [
+        [0, 0, "限定词"],
+        [1, 1, "名词"],
+        [2, 2, "助动词"],
+        [3, 3, "限定词"],
+        [4, 4, "名词"],
+        [5, 5, "名词"],
+        [6, 6, "动词"]
+      ],
+      "syntaxTags": [
+        [0, 1, "疑问短语", "NP"],
+        [2, 6, "特殊疑问句", "Question"]
+      ]
+    },
+    {
+      "chinese": "这是我的护照和登机牌。",
+      "english": "Here is my passport and boarding pass.",
+      "soundmark": "/hɪər ɪz maɪ ˈpɑːspɔːt ænd ˈbɔːdɪŋ pɑːs/",
+      "posTags": [
+        [0, 0, "副词"],
+        [1, 1, "动词"],
+        [2, 2, "代词"],
+        [3, 3, "名词"],
+        [4, 4, "连词"],
+        [5, 5, "名词"],
+        [6, 6, "名词"]
+      ],
+      "syntaxTags": [[0, 6, "倒装句", "Sentence"]]
+    },
+    {
+      "chinese": "我可以把这个小背包作为随身行李带上飞机吗？",
+      "english": "Can I bring this backpack as a carry on?",
+      "soundmark": "/kæn aɪ brɪŋ ðɪs ˈbækpæk æz ə ˈkæri ɒn/",
+      "posTags": [
+        [0, 0, "情态动词"],
+        [1, 1, "代词"],
+        [2, 2, "动词"],
+        [3, 3, "限定词"],
+        [4, 4, "名词"],
+        [5, 5, "介词"],
+        [6, 6, "限定词"],
+        [7, 7, "名词"],
+        [8, 8, "副词"]
+      ],
+      "syntaxTags": [[0, 8, "一般疑问句", "Question"]]
+    },
+    {
+      "chinese": "在入境前我需要填写海关申报单吗？",
+      "english": "Do I need to fill out a customs declaration form?",
+      "soundmark": "/duː aɪ niːd tə fɪl aʊt ə ˈkʌstəmz ˌdekləˈreɪʃn fɔːm/",
+      "posTags": [
+        [0, 0, "助动词"],
+        [1, 1, "代词"],
+        [2, 2, "动词"],
+        [3, 3, "不定式标记"],
+        [4, 4, "动词"],
+        [5, 5, "副词"],
+        [6, 6, "限定词"],
+        [7, 7, "名词"],
+        [8, 8, "名词"],
+        [9, 9, "名词"]
+      ],
+      "syntaxTags": [[0, 9, "一般疑问句", "Question"]]
+    },
+    {
+      "chinese": "我没有任何需要向海关申报的物品。",
+      "english": "I have nothing to declare at customs.",
+      "soundmark": "/aɪ hæv ˈnʌθɪŋ tə dɪˈkleər æt ˈkʌstəmz/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "动词"],
+        [2, 2, "代词"],
+        [3, 3, "不定式标记"],
+        [4, 4, "动词"],
+        [5, 5, "介词"],
+        [6, 6, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 6, "主谓宾与后置定语", "VP"]
+      ]
+    },
+    {
+      "chinese": "飞往纽约的航班因为天气原因延误了。",
+      "english": "The flight to New York is delayed.",
+      "soundmark": "/ðə flaɪt tə njuː jɔːk ɪz dɪˈleɪd/",
+      "posTags": [
+        [0, 0, "限定词"],
+        [1, 1, "名词"],
+        [2, 2, "介词"],
+        [3, 3, "专有名词"],
+        [4, 4, "专有名词"],
+        [5, 5, "动词"],
+        [6, 6, "形容词"]
+      ],
+      "syntaxTags": [
+        [0, 4, "主语及后置介词短语", "NP"],
+        [5, 6, "系表结构", "VP"]
+      ]
+    },
+    {
+      "chinese": "请问行李提取转盘在哪个区域？",
+      "english": "Where can I find the baggage claim area?",
+      "soundmark": "/weər kæn aɪ faɪnd ðə ˈbæɡɪdʒ kleɪm ˈeəriə/",
+      "posTags": [
+        [0, 0, "疑问副词"],
+        [1, 1, "情态动词"],
+        [2, 2, "代词"],
+        [3, 3, "动词"],
+        [4, 4, "限定词"],
+        [5, 5, "名词"],
+        [6, 6, "名词"],
+        [7, 7, "名词"]
+      ],
+      "syntaxTags": [[0, 7, "特殊疑问句", "Question"]]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "title": "麻烦状况与情绪表达",
+  "description": "用地道表达描述压力、失误、困境和情绪恢复。",
+  "data": [
+    {
+      "chinese": "我今天忙得不可开交。",
+      "english": "I have been swamped all day."
+    },
+    {
+      "chinese": "这件事让我措手不及。",
+      "english": "This really threw me for a loop."
+    },
+    {
+      "chinese": "我好像把事情搞砸了。",
+      "english": "I think I messed things up."
+    },
+    {
+      "chinese": "现在别火上浇油了。",
+      "english": "Do not add fuel to the fire right now."
+    },
+    {
+      "chinese": "我们陷入了进退两难的境地。",
+      "english": "We are caught between a rock and a hard place."
+    },
+    {
+      "chinese": "这只是小题大做。",
+      "english": "It is just a storm in a teacup."
+    },
+    {
+      "chinese": "我需要一点时间冷静下来。",
+      "english": "I need a little time to cool off."
+    },
+    { "chinese": "别把气撒在我身上。", "english": "Do not take it out on me." },
+    {
+      "chinese": "好在最糟糕的阶段已经过去了。",
+      "english": "At least the worst is behind us."
+    },
+    {
+      "chinese": "睡一觉以后心情会好些的。",
+      "english": "Things will feel better after a good night's sleep."
+    }
+  ]
+}

@@ -1,0 +1,581 @@
+{
+  "title": "Unit 11: 四级核心词汇（mislead ~ pledge）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "mislead",
+      "chinese": "不要被表象迷惑，他工作干得挺不错的。",
+      "english": "Don’t be misled by appearances, he’s a good worker.",
+      "soundmark": "/'mɪs'lid/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 4, "祈使句式", "Imperative"],
+        [5, 8, "补充陈述分句", "Sentence"]
+      ]
+    },
+    {
+      "word": "mission",
+      "chinese": "在阵亡之前他奉命执行过200多次军事任务。",
+      "english": "He was sent on over 200 missions before being killed in action.",
+      "soundmark": "/'mɪʃən/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "misunderstand",
+      "chinese": "雷切尔，你一定是误会她了！埃莉绝不会说那样的话。",
+      "english": "Rachel, you must have misunderstood her! Ellie would never say something like that.",
+      "soundmark": "/,mɪsʌndɚ'stænd/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 12, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "monitor",
+      "chinese": "使用这种新药的病人将被要求监测病情进展。",
+      "english": "Patients who are given the new drug will be asked to monitor their progress.",
+      "soundmark": "/'mɔnɪtɚ/",
+      "posTags": [[11, 11, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 9, "宾语", "NP"],
+        [10, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "motivate",
+      "chinese": "好教师必须能够激发学生的积极性。",
+      "english": "A good teacher has to be able to motivate her students.",
+      "soundmark": "/'motə'vet/",
+      "posTags": [[8, 8, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 5, "谓语动词", "VP"],
+        [6, 6, "宾语", "NP"],
+        [7, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "mutual",
+      "chinese": "我不喜欢德夫，他好像也不喜欢我。",
+      "english": "I didn’t like Dev, and the feeling seemed to be mutual.",
+      "soundmark": "/'mjutʃuəl/",
+      "posTags": [[10, 10, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 7, "宾语", "NP"],
+        [8, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "needy",
+      "chinese": "贫困家庭",
+      "english": "a needy family",
+      "soundmark": "/'nidi/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "negative",
+      "chinese": "对上学抱消极态度的学生",
+      "english": "students with a negative attitude to school",
+      "soundmark": "/'nɛɡətɪv/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [[0, 6, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "negotiate",
+      "chinese": "他的首要目标就是把交战各方拉回到谈判桌上。",
+      "english": "His first aim is to get the warring parties back to the negotiating table (= discussing something ).",
+      "soundmark": "/nɪ'ɡoʃɪet/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 5, "谓语动词", "VP"],
+        [6, 9, "宾语", "NP"],
+        [10, 17, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "neighborhood",
+      "chinese": "根据一个受迭代影响的社区是聚合还是发散，迭代可以被归类到稳定和不稳定集。有些转向稳定，有些转离。",
+      "english": "Iterates may be categorized into stable and unstable sets depending on whether a neighborhood under iteration converges or diverges. Some move toward stability, others away.",
+      "soundmark": "/'nebɚ,hʊd/",
+      "posTags": [[13, 13, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 24, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "obstacle",
+      "chinese": "这项税收为想在海外发展贸易的公司设置了障碍。",
+      "english": "The tax puts obstacles in the way of companies trying to develop trade overseas.",
+      "soundmark": "/'ɑbstəkl/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "obtain",
+      "chinese": "埃文斯当时正试图获取假护照和其他文件。",
+      "english": "Evans was trying to obtain a false passport and other documents.",
+      "soundmark": "/əb'ten/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 4, "系动词", "VP"],
+        [5, 10, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "occupation",
+      "chinese": "请写明你的姓名、地址和职业。",
+      "english": "Please state your name, address and occupation.",
+      "soundmark": "/,ɑkju'peʃən/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 3, "祈使句式", "Imperative"],
+        [4, 6, "补充陈述分句", "Sentence"]
+      ]
+    },
+    {
+      "word": "operation",
+      "chinese": "联合国的救援行动在破晓后不久就开始了。",
+      "english": "The UN rescue operation started shortly after dawn.",
+      "soundmark": "/,ɑpə'reʃən/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"],
+        [6, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "opposite",
+      "chinese": "我以为这药会让他睡觉，但是它却起了反作用。",
+      "english": "I thought the medicine would make him sleep, but it had the opposite effect.",
+      "soundmark": "/ˈɑpəzɪt; ˈɑpəsɪt/",
+      "posTags": [[12, 12, "形容词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 5, "谓语动词", "VP"],
+        [6, 13, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "organ",
+      "chinese": "肝脏、心脏及其他内脏器官",
+      "english": "the liver, heart, and other internal organs",
+      "soundmark": "/'ɔrɡən/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [[0, 6, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "original",
+      "chinese": "这块土地归还给了原主。",
+      "english": "The land was returned to its original owner.",
+      "soundmark": "/ə'rɪdʒənl/",
+      "posTags": [[6, 6, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 4, "谓语动词", "VP"],
+        [5, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "originate",
+      "chinese": "这个计划最早是怎么想到的？",
+      "english": "How did the plan originate?",
+      "soundmark": "/əˈrɪdʒəˌnet/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [[0, 4, "疑问句", "Question"]]
+    },
+    {
+      "word": "outline",
+      "chinese": "研究计划梗概",
+      "english": "a research proposal outline",
+      "soundmark": "/'aʊtlaɪn/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "overcome",
+      "chinese": "他努力克服自己的羞怯。",
+      "english": "He struggled to overcome his shyness.",
+      "soundmark": "/,ovɚ'kʌm/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "overestimate",
+      "chinese": "他往往高估自己的能力。",
+      "english": "He tends to overestimate his own abilities.",
+      "soundmark": "/,ovər'ɛstɪmət/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "overflow",
+      "chinese": "下水道被淹，水溢到了大街上。",
+      "english": "The drains flooded and water overflowed down the main street.",
+      "soundmark": "/,ovɚ'flo/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"],
+        [6, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "overload",
+      "chinese": "57%的人抱怨工作负担过重。",
+      "english": "57 percent complained of work overload.",
+      "soundmark": "/,ovɚ'lod/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "overtake",
+      "chinese": "他把车驶出所在车道想超过那辆小货车。",
+      "english": "He pulled out to overtake the van.",
+      "soundmark": "/,ovɚ'tek/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "overweight",
+      "chinese": "我想知道这封信是否超重。",
+      "english": "I wonder if this letter is overweight.",
+      "soundmark": "/'ovə'wet/",
+      "posTags": [[6, 6, "动词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 6, "系动词", "VP"]
+      ]
+    },
+    {
+      "word": "overwhelm",
+      "chinese": "但是，众多的利弊得失不应盲目的一个压倒另一个。",
+      "english": "But the various pros and cons should not blindly overwhelm one another.",
+      "soundmark": "/,ovɚ'wɛlm/",
+      "posTags": [[9, 9, "动词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 7, "谓语动词", "VP"],
+        [8, 11, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "painful",
+      "chinese": "僵硬疼痛的关节",
+      "english": "stiff painful joints",
+      "soundmark": "/'penfl/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "participate",
+      "chinese": "有些会员拒绝参加。",
+      "english": "Some members refused to participate.",
+      "soundmark": "/pɑr'tɪsə'pet/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "particular",
+      "chinese": "这件事没有其他人牵涉其中。",
+      "english": "In this particular case, no one else was involved.",
+      "soundmark": "/pɚ'tɪkjəlɚ/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [
+        [0, 6, "主语", "NP"],
+        [7, 8, "系动词", "VP"]
+      ]
+    },
+    {
+      "word": "passionate",
+      "chinese": "他和一个比他年长的女子有过一段短暂而炽热的情史。",
+      "english": "He had a brief but passionate love affair with an older woman.",
+      "soundmark": "/'pæʃənət/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 7, "宾语", "NP"],
+        [8, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "passion",
+      "chinese": "那件事激起了人们强烈的情绪。",
+      "english": "The issue arouses strong passions .",
+      "soundmark": "/'pæʃən/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "passive",
+      "chinese": "凯茜在这一关系中似乎扮演着十分被动的角色。",
+      "english": "Kathy seems to take a very passive role in the relationship.",
+      "soundmark": "/'pæsɪv/",
+      "posTags": [[6, 6, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 7, "宾语", "NP"],
+        [8, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "patiently",
+      "chinese": "老师让他耐心考虑这事。",
+      "english": "The teacher told him to weigh this matter patiently.",
+      "soundmark": "/'peʃəntli/",
+      "posTags": [[8, 8, "副词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "pattern",
+      "chinese": "气候模式近年已经发生了变化。",
+      "english": "Weather patterns have changed in recent years.",
+      "soundmark": "/'pætɚn/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "peaceful",
+      "chinese": "孩子们不在，我们度过了一个宁静的下午。",
+      "english": "We had a peaceful afternoon without the children.",
+      "soundmark": "/'pisfəl/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "peer",
+      "chinese": "美国儿童的数学成绩不如日本的同龄儿童。",
+      "english": "American children did less well in math than their peers in Japan.",
+      "soundmark": "/pɪr/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "perceive",
+      "chinese": "那天早上，他注意到弗兰卡情绪的变化。",
+      "english": "That morning, he perceived a change in Franca’s mood.",
+      "soundmark": "/pɚ'siv/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "performance",
+      "chinese": "今晚的演出8点开始。",
+      "english": "This evening’s performance will begin at 8.00 pm.",
+      "soundmark": "/pɚ'fɔrməns/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "谓语动词", "VP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "permanent",
+      "chinese": "他放弃了固定工作，为的是当一名自由职业者。",
+      "english": "He gave up a permanent job in order to freelance.",
+      "soundmark": "/'pɝmənənt/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "persistence",
+      "chinese": "她得到了经理的职位，不懈坚持终于有了回报。",
+      "english": "Her persistence paid off when she was offered the job of manager.",
+      "soundmark": "/pɚ'sɪstəns/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "personality",
+      "chinese": "尽管个性不同，他们还是成了最好的朋友。",
+      "english": "Despite their different personalities, they became the best of friends.",
+      "soundmark": "/,pɝsə'næləti/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "系动词", "VP"],
+        [6, 7, "表语", "NP"],
+        [8, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "perspective",
+      "chinese": "那位画家对透视法的运用",
+      "english": "the artist’s use of perspective",
+      "soundmark": "/pɚ'spɛktɪv/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "persuade",
+      "chinese": "他很轻易就被说服了。",
+      "english": "He was fairly easily persuaded .",
+      "soundmark": "/pɚ'swed/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 5, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "persuasion",
+      "chinese": "好言劝说了几句后，黛比就同意让我们进去了。",
+      "english": "After a little gentle persuasion , Debbie agreed to let us in.",
+      "soundmark": "/pɚ'sweʒn/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 6, "主语", "NP"],
+        [7, 9, "谓语动词", "VP"],
+        [10, 10, "宾语", "NP"],
+        [11, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "physical",
+      "chinese": "她一直感到身上疼痛。",
+      "english": "She was in constant physical pain.",
+      "soundmark": "/'fɪzɪkl/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "physics",
+      "chinese": "…物理学定律。",
+      "english": "...the laws of physics.",
+      "soundmark": "/'fɪzɪks/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "picky",
+      "chinese": "他很挑食。",
+      "english": "He’s a very picky eater .",
+      "soundmark": "/'pɪki/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "pioneer",
+      "chinese": "这种新的癌症治疗方法是由西尔维娅·班纳基医生在80年代初期开创的。",
+      "english": "The new cancer treatment was pioneered in the early eighties by Dr Sylvia Bannerjee.",
+      "soundmark": "/,paɪə'nɪr/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 5, "系动词", "VP"],
+        [6, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "planet",
+      "chinese": "这张图片展示太阳系9个行星中的6个行星。",
+      "english": "The picture shows six of the nine planets in the solar system.",
+      "soundmark": "/'plænɪt/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "pledge",
+      "chinese": "会议以加快该地区6个州之间合作的承诺结束。",
+      "english": "The meeting ended with a pledge to step up cooperation between the six states of the region.",
+      "soundmark": "/plɛdʒ/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 16, "状语修饰", "PP"]
+      ]
+    }
+  ]
+}

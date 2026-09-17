@@ -1,0 +1,562 @@
+{
+  "title": "Unit 85: 四级核心词汇（inference ~ fascinating）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "inference",
+      "chinese": "从她的来信可以得到两种推论。",
+      "english": "There were two inferences to be drawn from her letter.",
+      "soundmark": "/'ɪnfərəns/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 3, "表语", "NP"],
+        [4, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "notify",
+      "chinese": "船长通知了海岸警卫队这一灾难。",
+      "english": "The skipper notified the coastguard of the tragedy.",
+      "soundmark": "/'notə'fai/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "stream",
+      "chinese": "泪水顺着他们的脸颊流下来。",
+      "english": "Tears streamed down their faces.",
+      "soundmark": "/strim/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "heave",
+      "chinese": "迈克尔憋着不笑出声来，双肩直抖。",
+      "english": "Michael’s shoulders heaved with silent laughter.",
+      "soundmark": "/hiv/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "nourish",
+      "chinese": "她吃的食物为她和婴儿提供营养。",
+      "english": "The food she eats nourishes both her and the baby.",
+      "soundmark": "/'nɜrɪʃ/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 9, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "surround",
+      "chinese": "他怒视着围住帐篷的那些人。",
+      "english": "He glared at the people who surrounded the tent.",
+      "soundmark": "/sə'raʊnd/",
+      "posTags": [[6, 6, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "cigarette",
+      "chinese": "一包香烟",
+      "english": "a packet of cigarettes",
+      "soundmark": "/ˌsɪɡəˈrɛt, ˈsɪɡəˌrɛt/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "refugee",
+      "chinese": "难民正涌过边境。",
+      "english": "Refugees were streaming across the border.",
+      "soundmark": "/'rɛfjʊdʒi/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "comparable",
+      "chinese": "同样大小的汽车在国外要贵得多。",
+      "english": "A car of comparable size would cost far more abroad.",
+      "soundmark": "/'kɑmpərəbl/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "谓语动词", "VP"],
+        [6, 9, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "specialize",
+      "chinese": "…一位专门研究沙俄历史的大学教授。",
+      "english": "...a University professor who specializes in the history of the Russian empire.",
+      "soundmark": "/'spɛʃəlaɪz/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [[0, 11, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "presumably",
+      "chinese": "下雨了，这可能意味着你们的足球比赛要取消。",
+      "english": "It’s raining, which presumably means that your football match will be cancelled.",
+      "soundmark": "/prɪ'zuməbli/",
+      "posTags": [[3, 3, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 11, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "subject",
+      "chinese": "保罗在大多数问题上观点激烈。",
+      "english": "Paul has strong opinions on most subjects.",
+      "soundmark": "/ˈsʌbdʒɪkt;(for adj.)ˈsʌbdʒɪkt;(for v.)səbˈdʒɛkt/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "oxygen",
+      "chinese": "人脑缺氧只需4分钟就会造成永久性损伤。",
+      "english": "The human brain needs to be without oxygen for only four minutes before permanent damage occurs.",
+      "soundmark": "/'ɑksɪdʒən/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 5, "谓语动词", "VP"],
+        [6, 15, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "bearing",
+      "chinese": "锻炼直接影响你的身体状况。",
+      "english": "Exercise has a direct bearing on how healthy you are.",
+      "soundmark": "/'bɛrɪŋ/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 4, "宾语", "NP"],
+        [5, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "comedy",
+      "chinese": "单口喜剧表演职业",
+      "english": "a career in stand-up comedy",
+      "soundmark": "/'kɑmədi/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "trash",
+      "chinese": "谁把垃圾拿出去好吗？",
+      "english": "Will someone take out the trash (= take it outside the house ) ?",
+      "soundmark": "/træʃ/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [[0, 13, "疑问句", "Question"]]
+    },
+    {
+      "word": "dispose",
+      "chinese": "中国花瓶摆放在展馆四周。",
+      "english": "Chinese vases are disposed around the gallery.",
+      "soundmark": "/dɪ'spoz/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 6, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "X-ray",
+      "chinese": "X光片显示她的腿没有骨折。",
+      "english": "The X-ray showed that her leg was not broken.",
+      "soundmark": "/'eksreɪ/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "spokesman",
+      "chinese": "白宫发言人",
+      "english": "a White House spokesman",
+      "soundmark": "/'spoksmən/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "circulation",
+      "chinese": "运动能促进血液循环。",
+      "english": "Exercise improves the circulation.",
+      "soundmark": "/,sɝkjə'leʃən/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "accommodation",
+      "chinese": "度假的价格包括机票和住宿。",
+      "english": "The price for the holiday includes flights and accommodation.",
+      "soundmark": "/ə,kɑmə'deʃən/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "谓语动词", "VP"],
+        [6, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "suburb",
+      "chinese": "一个伦敦郊区",
+      "english": "a London suburb",
+      "soundmark": "/'sʌbɝb/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "writer",
+      "chinese": "她是我最喜欢的作家之一。",
+      "english": "She’s one of my favourite writers.",
+      "soundmark": "/'raɪtɚ/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "scream",
+      "chinese": "几声枪响过后，人们开始尖叫起来。",
+      "english": "After the first few shots, people started screaming.",
+      "soundmark": "/skrim/",
+      "posTags": [[7, 7, "动词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 7, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "shortcoming",
+      "chinese": "彼得痛苦地认识到了自己的短处。",
+      "english": "Peter was painfully aware of his own shortcomings.",
+      "soundmark": "/'ʃɔrtkʌmɪŋ/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 3, "表语", "NP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "global",
+      "chinese": "全球气候变化",
+      "english": "global climate change",
+      "soundmark": "/'ɡlobl/",
+      "posTags": [[0, 0, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "wolf",
+      "chinese": "一群狼",
+      "english": "a pack of wolves",
+      "soundmark": "/wʊlf/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "accordance",
+      "chinese": "在这件事情上我同他是一致的。",
+      "english": "I am in accordance with him in this matter.",
+      "soundmark": "/ə'kɔrdns/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "marvelous",
+      "chinese": "好极了，了不起。警察一直是高种姓、金钱、政客的仆人。达利特在这个国家无法期望得到公正。",
+      "english": "Wonderful, marvelous. Police always are servants of upper caste, money, politicians. You cant expect justice for dalits in this country.",
+      "soundmark": "/'mɑrvələs/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "系动词", "VP"],
+        [5, 5, "表语", "NP"],
+        [6, 19, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "ratio",
+      "chinese": "成人与儿童之比是1比6。",
+      "english": "The adult to child ratio is one to six.",
+      "soundmark": "/'reʃɪo/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "系动词", "VP"],
+        [6, 6, "表语", "NP"],
+        [7, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "shrug",
+      "chinese": "我只是耸耸肩，没有理睬他。",
+      "english": "I just shrugged my shoulders and ignored him.",
+      "soundmark": "/ʃrʌɡ/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "coordination",
+      "chinese": "喝酒太多会影响你动作的协调。",
+      "english": "Too much alcohol affects your coordination.",
+      "soundmark": "/ko,ɔrdɪ'neʃən/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "presentation",
+      "chinese": "颁奖仪式",
+      "english": "the presentation ceremony",
+      "soundmark": "/,prizɛn'teʃən/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "ruin",
+      "chinese": "这个病毁掉了我的生活。",
+      "english": "This illness has ruined my life.",
+      "soundmark": "/'ruɪn/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "owing",
+      "chinese": "你需要付清欠款，外加利息。",
+      "english": "You need to pay the amount owing, plus the interest.",
+      "soundmark": "/'oɪŋ/",
+      "posTags": [[6, 6, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 9, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "amateur",
+      "chinese": "…专业运动员和业余赛跑运动员。",
+      "english": "...professional athletes and amateur runners.",
+      "soundmark": "/ˈæmətər/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "assistance",
+      "chinese": "我们向学生提供经济援助。",
+      "english": "We offer financial assistance to students.",
+      "soundmark": "/ə'sɪstəns/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "summary",
+      "chinese": "立即处决",
+      "english": "a summary execution",
+      "soundmark": "/'sʌməri/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "overlook",
+      "chinese": "那样的小细节很容易被忽略。",
+      "english": "It is easy to overlook a small detail like that.",
+      "soundmark": "/,ovɚ'lʊk/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 2, "表语", "NP"],
+        [3, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "sunshine",
+      "chinese": "我们享受了三天的春日阳光。",
+      "english": "We had three days of spring sunshine.",
+      "soundmark": "/'sʌnʃaɪn/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "balcony",
+      "chinese": "你的公寓有阳台吗？",
+      "english": "Has your flat got a balcony?",
+      "soundmark": "/'bælkənɪ/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [[0, 5, "疑问句", "Question"]]
+    },
+    {
+      "word": "collaborative",
+      "chinese": "…一个合作研究项目。",
+      "english": "...a collaborative research project.",
+      "soundmark": "/kə'læbəretɪv/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "cherish",
+      "chinese": "在婚姻中，男人承诺要爱护妻子。",
+      "english": "In marriage, a man promises to cherish his wife.",
+      "soundmark": "/'tʃɛrɪʃ/",
+      "posTags": [[6, 6, "动词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 6, "谓语动词", "VP"],
+        [7, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "prolong",
+      "chinese": "我在想方设法拖长这次谈话。",
+      "english": "I was trying to think of some way to prolong the conversation.",
+      "soundmark": "/prəˈlɑːŋ/",
+      "posTags": [[9, 9, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "系动词", "VP"],
+        [4, 4, "表语", "NP"],
+        [5, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "thumb",
+      "chinese": "我拦顺路车进了城。",
+      "english": "I thumbed a lift into town.",
+      "soundmark": "/θʌm/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "republican",
+      "chinese": "更低的税率使共和党选民对该党更加满意。",
+      "english": "Lower taxes made Republican voters happier with their party.",
+      "soundmark": "/rɪ'pʌblɪkən/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 5, "宾语", "NP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "writing",
+      "chinese": "他的一些最震慑人心的作品是根据儿时经历写成的。",
+      "english": "Some of his most powerful writing is based on his childhood experiences.",
+      "soundmark": "/'raɪtɪŋ/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 7, "谓语动词", "VP"],
+        [8, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "alongside",
+      "chinese": "一辆车在旁边停了下来。",
+      "english": "A car drew up alongside .",
+      "soundmark": "/ə'lɔŋ'saɪd/",
+      "posTags": [[4, 4, "副词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "coupon",
+      "chinese": "这张优惠券可以让你在下次购物时节省10分钱。",
+      "english": "The coupon entitles you to ten cents off your next purchase.",
+      "soundmark": "/'kupɑn/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "fascinating",
+      "chinese": "一本引人入胜的书",
+      "english": "a fascinating book",
+      "soundmark": "/'fæsɪnetɪŋ/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"]
+      ]
+    }
+  ]
+}

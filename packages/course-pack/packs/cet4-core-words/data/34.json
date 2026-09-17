@@ -1,0 +1,546 @@
+{
+  "title": "Unit 34: 四级核心词汇（circulate ~ comb）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "circulate",
+      "chinese": "游泳有助于肌肉的血液循环。",
+      "english": "Swimming helps to get the blood circulating through the muscles.",
+      "soundmark": "/'sɝkjəlet/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 3, "谓语动词", "VP"],
+        [4, 6, "宾语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "circumference",
+      "chinese": "…一位正在计算地球周长的科学家。",
+      "english": "...a scientist calculating the Earth's circumference.",
+      "soundmark": "/sɚ'kʌmfərəns/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "city",
+      "chinese": "最近的大城市是圣路易斯。",
+      "english": "The nearest big city was St. Louis.",
+      "soundmark": "/'sɪti/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "系动词", "VP"],
+        [5, 6, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "civil",
+      "chinese": "他们在五月份举行了世俗婚礼。",
+      "english": "They were married in a civil ceremony in May.",
+      "soundmark": "/'sɪvl/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "civilize",
+      "chinese": "据信是埃利斯改良了得克萨斯州的监狱制度。",
+      "english": "Ellis was credited with civilizing the Texas prison system.",
+      "soundmark": "/'sɪvəlaɪz/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "claim",
+      "chinese": "如果投票率低于 50%，反对党领袖将宣布获胜。",
+      "english": "Opposition leaders will claim victory if the turnout is lower than 50%.",
+      "soundmark": "/klem/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 11, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "clap",
+      "chinese": "一个人鼓起了掌，其他人也跟着鼓掌。",
+      "english": "One man began to clap, and others joined in.",
+      "soundmark": "/klæp/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 7, "宾语", "NP"],
+        [8, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "clarify",
+      "chinese": "记者们要求他阐明他在福利改革问题上的立场。",
+      "english": "Reporters asked him to clarify his position (= say exactly what his beliefs are ) on welfare reform.",
+      "soundmark": "/'klærəfaɪ/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 17, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "clasp",
+      "chinese": "…她的手包扣。",
+      "english": "...the clasp of her handbag.",
+      "soundmark": "/klæsp/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "class",
+      "chinese": "他的网球水平并不如她。",
+      "english": "He’s not in the same class (= not as good ) as her at tennis.",
+      "soundmark": "/klæs/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [[0, 14, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "classical",
+      "chinese": "经典相对论",
+      "english": "the classical theory of relativity",
+      "soundmark": "/'klæsɪkl/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "classmate",
+      "chinese": "他把我妹妹介绍给他的同班同学。",
+      "english": "He acquainted his classmate with my sister.",
+      "soundmark": "/'klæsmet/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "classroom",
+      "chinese": "那男孩突然从教室里奔出去。",
+      "english": "The boy bounced out of the classroom.",
+      "soundmark": "/'klæs'rʊm; 'klæs'rʊm/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "claw",
+      "chinese": "猫的爪子抓进了我的腿中。",
+      "english": "The cat dug his claws into my leg.",
+      "soundmark": "/klɔ/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 7, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "clean",
+      "chinese": "你的手干净吗？",
+      "english": "Are your hands clean?",
+      "soundmark": "/klin/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [[0, 3, "疑问句", "Question"]]
+    },
+    {
+      "word": "clear",
+      "chinese": "这问题不是很清楚。",
+      "english": "The question wasn’t very clear.",
+      "soundmark": "/klɪr/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "clearly",
+      "chinese": "请说得清楚点。",
+      "english": "Please speak clearly.",
+      "soundmark": "/'klɪrli/",
+      "posTags": [[2, 2, "副词"]],
+      "syntaxTags": [[0, 2, "祈使句式", "Imperative"]]
+    },
+    {
+      "word": "clerk",
+      "chinese": "一家商行的文员",
+      "english": "a clerk in a commercial firm",
+      "soundmark": "/klɝk/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "clever",
+      "chinese": "聪明的人",
+      "english": "a clever man",
+      "soundmark": "/'klɛvɚ/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "cliff",
+      "chinese": "汽车翻下了悬崖边。",
+      "english": "The car rolled over the edge of a cliff.",
+      "soundmark": "/klɪf/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "climate",
+      "chinese": "洛杉矶温暖干燥的气候",
+      "english": "Los Angeles’ warm dry climate",
+      "soundmark": "/'klaɪmət/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "climb",
+      "chinese": "哈里爬上楼梯。",
+      "english": "Harry climbed the stairs.",
+      "soundmark": "/klaɪm/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "cloak",
+      "chinese": "今天新英格兰大部分地区会在浓雾的笼罩中。",
+      "english": "Today most of New England will be under a cloak of thick mist.",
+      "soundmark": "/klok/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 6, "谓语动词", "VP"],
+        [7, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "clock",
+      "chinese": "我听到钟敲了六下。",
+      "english": "I heard the clock strike six (= make six loud sounds ) .",
+      "soundmark": "/klɑk/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 6, "主语", "NP"],
+        [7, 7, "谓语动词", "VP"],
+        [8, 12, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "close",
+      "chinese": "我把窗户关上你不介意吧？",
+      "english": "Would you mind if I closed the window?",
+      "soundmark": "/kloz/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [[0, 7, "疑问句", "Question"]]
+    },
+    {
+      "word": "closely",
+      "chinese": "侦探紧盯着他看，等着他回答。",
+      "english": "The detective watched him closely , waiting for a reply.",
+      "soundmark": "/'klosli/",
+      "posTags": [[4, 4, "副词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 6, "宾语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "cloth",
+      "chinese": "用一块湿布清洗表面。",
+      "english": "Clean the surface with a damp cloth.",
+      "soundmark": "/klɔθ/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [[0, 6, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "clothe",
+      "chinese": "他们几乎无力为家人提供衣食。",
+      "english": "They could barely keep the family fed and clothed.",
+      "soundmark": "/kloð/",
+      "posTags": [[8, 8, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "clothes",
+      "chinese": "他穿着什么样的衣服？",
+      "english": "What sort of clothes was he wearing?",
+      "soundmark": "/kloz/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 6, "疑问句", "Question"]]
+    },
+    {
+      "word": "clothing",
+      "chinese": "食物和衣服这类基本的生活必需品",
+      "english": "basic necessities such as food and clothing",
+      "soundmark": "/'kloðɪŋ/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 6, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "cloud",
+      "chinese": "对恐怖分子再次发动袭击的担心给这次活动蒙上了一层阴影。",
+      "english": "Fears of renewed terrorist attacks cast a cloud over the event (= spoilt the happy situation ) .",
+      "soundmark": "/klaʊd/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 17, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "cloudy",
+      "chinese": "伴有些许小雨的多云的夜晚",
+      "english": "a cloudy night with some light rain",
+      "soundmark": "/'klaʊdi/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 6, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "club",
+      "chinese": "曼联（队）足球俱乐部",
+      "english": "Manchester United Football Club",
+      "soundmark": "/klʌb/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "coal",
+      "chinese": "往火里加点煤。",
+      "english": "Put some coal on the fire.",
+      "soundmark": "/kol/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 2, "宾语", "NP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "coarse",
+      "chinese": "粗羊毛夹克衫",
+      "english": "a jacket of coarse wool",
+      "soundmark": "/kɔrs/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "coast",
+      "chinese": "我们沿着太平洋海岸驾车前往西雅图。",
+      "english": "We drove along the Pacific coast to Seattle.",
+      "soundmark": "/kost/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [[0, 7, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "coat",
+      "chinese": "比利！穿上外套，外面很冷！",
+      "english": "Billy! Put your coat on , it’s cold outside!",
+      "soundmark": "/kot/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "cock",
+      "chinese": "远处有只公鸡在打鸣。",
+      "english": "A cock crowed in the distance.",
+      "soundmark": "/kɑk/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "coffee",
+      "chinese": "你要来杯咖啡吗？",
+      "english": "Do you want a cup of coffee?",
+      "soundmark": "/'kɔfi/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [[0, 6, "疑问句", "Question"]]
+    },
+    {
+      "word": "coil",
+      "chinese": "灯丝",
+      "english": "the coil in a light bulb",
+      "soundmark": "/kɔɪl/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "coin",
+      "chinese": "抛硬币决定谁先来。",
+      "english": "Toss a coin to see who goes first.",
+      "soundmark": "/kɔɪn/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "cold",
+      "chinese": "她往脸上泼冷水。",
+      "english": "She splashed her face with cold water.",
+      "soundmark": "/kold/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "collapse",
+      "chinese": "椅子承受不了特德叔叔的重量，塌架了。",
+      "english": "Uncle Ted’s chair collapsed under his weight.",
+      "soundmark": "/kə'læps/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "collar",
+      "chinese": "他抓住我的衣领。",
+      "english": "He grabbed me by the collar.",
+      "soundmark": "/'kɑlɚ/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "collect",
+      "chinese": "她搜集了25年食谱，把它们编成一本烹饪书。",
+      "english": "After 25 years of collecting recipes, she has compiled them into a cookbook.",
+      "soundmark": "/kə'lɛkt/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 9, "宾语", "NP"],
+        [10, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "collection",
+      "chinese": "收债服务机构",
+      "english": "a debt collection agency",
+      "soundmark": "/kə'lɛkʃən/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "collective",
+      "chinese": "董事会所有成员作出的集体决定",
+      "english": "a collective decision made by all board members",
+      "soundmark": "/kə'lɛktɪv/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "college",
+      "chinese": "师范学院",
+      "english": "a teacher training college",
+      "soundmark": "/'kɑlɪdʒ/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "colony",
+      "chinese": "阿尔及利亚以前是法国的殖民地。",
+      "english": "Algeria was formerly a French colony.",
+      "soundmark": "/'kɑləni/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 5, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "comb",
+      "chinese": "你的头发需要好好梳理一下。",
+      "english": "Your hair needs a good comb.",
+      "soundmark": "/kom/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"]
+      ]
+    }
+  ]
+}

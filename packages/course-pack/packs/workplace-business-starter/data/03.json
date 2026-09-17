@@ -1,0 +1,180 @@
+{
+  "title": "提出建议与建设性反馈",
+  "description": "职场高效沟通技巧，学会委婉提出优化建议、探讨替代方案与化解分歧。",
+  "data": [
+    {
+      "chinese": "我们是否可以考虑另外一种方案？",
+      "english": "Could we explore an alternative approach?",
+      "soundmark": "/kʊd wiː ɪkˈsplɔː ən ɔːlˈtɜːnətɪv əˈprəʊtʃ/",
+      "posTags": [
+        [0, 0, "情态动词"],
+        [1, 1, "代词"],
+        [2, 2, "动词"],
+        [3, 3, "限定词"],
+        [4, 4, "形容词"],
+        [5, 5, "名词"]
+      ],
+      "syntaxTags": [[0, 5, "一般疑问句", "Question"]]
+    },
+    {
+      "chinese": "我建议先在一个小范围内进行测试。",
+      "english": "I suggest testing this with a small group first.",
+      "soundmark": "/aɪ səˈdʒest ˈtestɪŋ ðɪs wɪð ə smɔːl ɡruːp fɜːst/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "动词"],
+        [2, 2, "动词"],
+        [3, 3, "代词"],
+        [4, 4, "介词"],
+        [5, 5, "限定词"],
+        [6, 6, "形容词"],
+        [7, 7, "名词"],
+        [8, 8, "副词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 8, "建议谓语结构", "VP"]
+      ]
+    },
+    {
+      "chinese": "你提出了一个非常好的观点。",
+      "english": "You made a very valid point.",
+      "soundmark": "/juː meɪd ə ˈveri ˈvælɪd pɔɪnt/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "动词"],
+        [2, 2, "限定词"],
+        [3, 3, "副词"],
+        [4, 4, "形容词"],
+        [5, 5, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 5, "谓宾结构", "VP"]
+      ]
+    },
+    {
+      "chinese": "从长远来看这更具成本效益。",
+      "english": "It is more cost effective in the long run.",
+      "soundmark": "/ɪt ɪz mɔː kɒst ɪˈfektɪv ɪn ðə lɒŋ rʌn/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "动词"],
+        [2, 2, "副词"],
+        [3, 3, "名词"],
+        [4, 4, "形容词"],
+        [5, 5, "介词"],
+        [6, 6, "限定词"],
+        [7, 7, "形容词"],
+        [8, 8, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 8, "系表与时间状语", "VP"]
+      ]
+    },
+    {
+      "chinese": "让我们在这项提议上保持一致。",
+      "english": "Let us align on this proposal.",
+      "soundmark": "/let ʌs əˈlaɪn ɒn ðɪs prəˈpəʊzl/",
+      "posTags": [
+        [0, 0, "动词"],
+        [1, 1, "代词"],
+        [2, 2, "动词"],
+        [3, 3, "介词"],
+        [4, 4, "限定词"],
+        [5, 5, "名词"]
+      ],
+      "syntaxTags": [[0, 5, "祈使句", "Imperative"]]
+    },
+    {
+      "chinese": "从用户的角度来看这可能不太直观。",
+      "english": "This might not be intuitive from a user perspective.",
+      "soundmark": "/ðɪs maɪt nɒt biː ɪnˈtjuːɪtɪv frɒm ə ˈjuːzə pəˈspektɪv/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "情态动词"],
+        [2, 2, "副词"],
+        [3, 3, "动词"],
+        [4, 4, "形容词"],
+        [5, 5, "介词"],
+        [6, 6, "限定词"],
+        [7, 7, "名词"],
+        [8, 8, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 8, "情态否定系表", "VP"]
+      ]
+    },
+    {
+      "chinese": "也许我们可以把这个拆分成两个独立的阶段。",
+      "english": "Perhaps we could split this into two separate phases.",
+      "soundmark": "/pəˈhæps wiː kʊd splɪt ðɪs ˈɪntə tuː ˈseprət ˈfeɪzɪz/",
+      "posTags": [
+        [0, 0, "副词"],
+        [1, 1, "代词"],
+        [2, 2, "情态动词"],
+        [3, 3, "动词"],
+        [4, 4, "代词"],
+        [5, 5, "介词"],
+        [6, 6, "数词"],
+        [7, 7, "形容词"],
+        [8, 8, "名词"]
+      ],
+      "syntaxTags": [
+        [1, 1, "主语", "NP"],
+        [2, 8, "谓语及介宾", "VP"]
+      ]
+    },
+    {
+      "chinese": "我完全理解你的顾虑。",
+      "english": "I completely understand your concern.",
+      "soundmark": "/aɪ kəmˈpliːtli ˌʌndəˈstænd jɔː kənˈsɜːn/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "副词"],
+        [2, 2, "动词"],
+        [3, 3, "代词"],
+        [4, 4, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 4, "共情谓宾", "VP"]
+      ]
+    },
+    {
+      "chinese": "我们能找到一个折中的妥协方案吗？",
+      "english": "Can we find a middle ground here?",
+      "soundmark": "/kæn wiː faɪnd ə ˈmɪdl ɡraʊnd hɪə/",
+      "posTags": [
+        [0, 0, "情态动词"],
+        [1, 1, "代词"],
+        [2, 2, "动词"],
+        [3, 3, "限定词"],
+        [4, 4, "形容词"],
+        [5, 5, "名词"],
+        [6, 6, "副词"]
+      ],
+      "syntaxTags": [[0, 6, "寻求妥协议案", "Question"]]
+    },
+    {
+      "chinese": "这个方案极大地简化了当前工作流。",
+      "english": "This solution greatly simplifies our current workflow.",
+      "soundmark": "/ðɪs səˈluːʃn ˈɡreɪtli ˈsɪmplɪfaɪz ˈaʊə ˈkʌrənt ˈwɜːkfləʊ/",
+      "posTags": [
+        [0, 0, "限定词"],
+        [1, 1, "名词"],
+        [2, 2, "副词"],
+        [3, 3, "动词"],
+        [4, 4, "代词"],
+        [5, 5, "形容词"],
+        [6, 6, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 6, "谓宾结构", "VP"]
+      ]
+    }
+  ]
+}

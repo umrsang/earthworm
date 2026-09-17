@@ -1,0 +1,579 @@
+{
+  "title": "Unit 37: 四级核心词汇（cotton ~ curse）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "cotton",
+      "chinese": "白色棉布衬衫",
+      "english": "a white cotton shirt",
+      "soundmark": "/'kɑtn/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "cough",
+      "chinese": "马修咳了一声清清喉咙。",
+      "english": "Matthew coughed and cleared his throat.",
+      "soundmark": "/kɔf/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "count",
+      "chinese": "我对植物的数量之多感到惊讶，我数了有147棵。",
+      "english": "I was amazed at the number of plants - I counted 147.",
+      "soundmark": "/kaʊnt/",
+      "posTags": [[10, 10, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "counter",
+      "chinese": "他在想柜台后面的那个女孩是否认出了他。",
+      "english": "He wondered if the girl behind the counter recognised him.",
+      "soundmark": "/'kaʊntɚ/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "country",
+      "chinese": "斯堪的纳维亚国家",
+      "english": "the Scandinavian countries",
+      "soundmark": "/'kʌntri/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "countryside",
+      "chinese": "这房子望出去是开阔的乡村美景。",
+      "english": "The house had lovely views over open countryside .",
+      "soundmark": "/'kʌntrɪsaɪd/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "county",
+      "chinese": "弗吉尼亚州费尔法克斯县",
+      "english": "Fairfax County, Virginia",
+      "soundmark": "/'kaʊnti/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "courage",
+      "chinese": "休在生病期间表现出了极大的勇气。",
+      "english": "Sue showed great courage throughout her illness.",
+      "soundmark": "/ 'kɝrɪdʒ/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "court",
+      "chinese": "这无法在法庭上证实。",
+      "english": "It could not be proved in a court of law.",
+      "soundmark": "/kɔrt/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 4, "谓语动词", "VP"],
+        [5, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "cousin",
+      "chinese": "我表弟马克帮我把包提了进来。",
+      "english": "My cousin Mark helped me to bring in the bags.",
+      "soundmark": "/'kʌzn/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 4, "宾语", "NP"],
+        [5, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "cover",
+      "chinese": "把锅盖上，烘烤一小时。",
+      "english": "Cover the pot and bake for an hour.",
+      "soundmark": "/'kʌvɚ/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 4, "宾语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "cow",
+      "chinese": "一群牛",
+      "english": "a herd of cows",
+      "soundmark": "/kaʊ/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "coward",
+      "chinese": "试一下，别那么胆小。",
+      "english": "Try it. Don’t be such a coward.",
+      "soundmark": "/'kaʊɚd/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "crack",
+      "chinese": "她把门打开一条缝，往房间里偷看。",
+      "english": "She opened the door a crack and peeped into the room.",
+      "soundmark": "/kræk/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 7, "宾语", "NP"],
+        [8, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "craft",
+      "chinese": "传统的乡村手工艺",
+      "english": "traditional rural crafts",
+      "soundmark": "/kræft/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "crane",
+      "chinese": "那间小小的预制棚屋被一台巨大的起重机吊走了。",
+      "english": "The little prefabricated hut was lifted away by a huge crane.",
+      "soundmark": "/kren/",
+      "posTags": [[10, 10, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 6, "宾语", "NP"],
+        [7, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "crawl",
+      "chinese": "我们凌晨两点爬上了床。",
+      "english": "We crawled into bed at 2 am.",
+      "soundmark": "/krɔl/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "crazy",
+      "chinese": "邻居一定会认为我们疯了。",
+      "english": "The neighbours must think we’re crazy.",
+      "soundmark": "/'krezi/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "cream",
+      "chinese": "浇奶油的草莓",
+      "english": "strawberries and cream",
+      "soundmark": "/krim/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "create",
+      "chinese": "有些人认为宇宙是通过一次大爆炸创造出来的。",
+      "english": "Some people believe the universe was created by a big explosion.",
+      "soundmark": "/krɪ'et/",
+      "posTags": [[6, 6, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 6, "宾语", "NP"],
+        [7, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "creative",
+      "chinese": "这工作太单调了，我希望能做些更有创造性的事情。",
+      "english": "This job is so boring. I wish I could do something more creative.",
+      "soundmark": "/krɪ'etɪv/",
+      "posTags": [[12, 12, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 12, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "creature",
+      "chinese": "海洋中所有的生物",
+      "english": "all the living creatures in the sea",
+      "soundmark": "/'kritʃɚ/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "credit",
+      "chinese": "商店同意他赊购。",
+      "english": "The store agreed to let him have credit.",
+      "soundmark": "/'krɛdɪt/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "谓语动词", "VP"],
+        [5, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "creep",
+      "chinese": "他蹑手蹑脚地回楼上，尽量避开那些嘎吱作响的梯级。",
+      "english": "He crept back up the stairs, trying to avoid the ones that creaked.",
+      "soundmark": "/krip/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 8, "谓语动词", "VP"],
+        [9, 12, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "crew",
+      "chinese": "飞机坠毁，造成两名机组人员和四名乘客死亡。",
+      "english": "The plane crashed, killing two of the crew and four passengers.",
+      "soundmark": "/krʊ/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 4, "宾语", "NP"],
+        [5, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "cricket",
+      "chinese": "那男孩用他的刀子换了一个板球棒。",
+      "english": "The boy traded his knife for a cricket bat.",
+      "soundmark": "/'krɪkɪt/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "crime",
+      "chinese": "我们搬到这里来是因为这里的犯罪率很低。",
+      "english": "We moved here because there was very little crime.",
+      "soundmark": "/kraɪm/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "criminal",
+      "chinese": "警方形容那名男子是个凶暴而危险的罪犯。",
+      "english": "Police have described the man as a violent and dangerous criminal.",
+      "soundmark": "/'krɪmɪnl/",
+      "posTags": [[10, 10, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 10, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "cripple",
+      "chinese": "她从一个健康、强壮、爱好体育运动的年轻姑娘变成了一个残疾人。",
+      "english": "She has gone from being a healthy, fit, and sporty young woman to being a cripple.",
+      "soundmark": "/'krɪpl/",
+      "posTags": [[15, 15, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 15, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "crop",
+      "chinese": "主要作物是燕麦和大麦。",
+      "english": "The main crops were oats and barley.",
+      "soundmark": "/krɑp/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "系动词", "VP"],
+        [4, 6, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "cross",
+      "chinese": "他以胜利的姿态高举双手跑过终点线，赢得了这场百米赛。",
+      "english": "He raised his arms in triumph as he crossed the line for his 100-metres win.",
+      "soundmark": "/krɔs/",
+      "posTags": [[8, 8, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 14, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "crow",
+      "chinese": "那些乌鸦栖息在风萨塔里。",
+      "english": "The crows roosted in Fonsa's Tower.",
+      "soundmark": "/kro/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "crowd",
+      "chinese": "主广场上聚集了一大群人。",
+      "english": "A vast crowd gathered in the main square.",
+      "soundmark": "/kraʊd/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "crown",
+      "chinese": "镶齿冠需要多长时间？",
+      "english": "How long does it take to have crowns fitted?",
+      "soundmark": "/kraʊn/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [[0, 8, "疑问句", "Question"]]
+    },
+    {
+      "word": "crude",
+      "chinese": "对劳动力人口的粗略估计",
+      "english": "a crude estimate of the population available for work",
+      "soundmark": "/krud/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "cruel",
+      "chinese": "他的死是个无情的打击。",
+      "english": "His death was a cruel blow .",
+      "soundmark": "/'kruəl/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 6, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "crush",
+      "chinese": "他的腿在事故中被压断。",
+      "english": "His leg was crushed in the accident.",
+      "soundmark": "/krʌʃ/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "crust",
+      "chinese": "切去边皮的三明治",
+      "english": "sandwiches with the crusts cut off",
+      "soundmark": "/krʌst/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "cry",
+      "chinese": "不要哭，劳拉，没事的。",
+      "english": "Don’t cry, Laura. It’ll be OK.",
+      "soundmark": "/kraɪ/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 1, "祈使句式", "Imperative"],
+        [2, 5, "补充陈述分句", "Sentence"]
+      ]
+    },
+    {
+      "word": "crystal",
+      "chinese": "六件套水晶玻璃杯",
+      "english": "a set of six crystal glasses",
+      "soundmark": "/'krɪstl/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "cube",
+      "chinese": "一块方糖",
+      "english": "a sugar cube",
+      "soundmark": "/kjʊb/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "cubic",
+      "chinese": "引擎汽缸的容积",
+      "english": "the cubic capacity of an engine",
+      "soundmark": "/'kjubɪk/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "cucumber",
+      "chinese": "黄瓜管\"是他们的经典乐器之一,那是用掏空的黄瓜、辣椒和胡萝卜做的。",
+      "english": "The \"gurkophone\" is one of their classics, made from a hollowed cucumber, a pepper and a carrot.",
+      "soundmark": "/'kjʊ,kʌmbɚ/",
+      "posTags": [[11, 11, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 3, "表语", "NP"],
+        [4, 16, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "culture",
+      "chinese": "在我们的文化里，问别人收入多少是不礼貌的。",
+      "english": "In our culture, it is rude to ask someone how much they earn.",
+      "soundmark": "/'kʌltʃɚ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "系动词", "VP"],
+        [5, 5, "表语", "NP"],
+        [6, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "cunning",
+      "chinese": "狡猾的对手",
+      "english": "a cunning opponent",
+      "soundmark": "/'kʌnɪŋ/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "cup",
+      "chinese": "马修拿起杯子抿了口咖啡。",
+      "english": "Mathew picked up the cup and sipped his coffee.",
+      "soundmark": "/kʌp/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "cupboard",
+      "chinese": "它在厨房的碗柜里。",
+      "english": "It’s in the kitchen cupboard.",
+      "soundmark": "/'kʌbɚd/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "cure",
+      "chinese": "她接受了某种针刺疗法，好像把她的病治好了。",
+      "english": "She had some acupuncture treatment which seems to have cured her.",
+      "soundmark": "/kjʊr/",
+      "posTags": [[9, 9, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"],
+        [7, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "curl",
+      "chinese": "使用电吹风罩把头发吹得蓬松卷曲。",
+      "english": "Use a diffuser to maximise the volume and curl of your hair.",
+      "soundmark": "/kɝl/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 7, "主语", "NP"],
+        [8, 8, "谓语动词", "VP"],
+        [9, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "curse",
+      "chinese": "他相信有人对这房子下了诅咒。",
+      "english": "He believed that someone had put a curse on the house.",
+      "soundmark": "/kɝs/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 7, "宾语", "NP"],
+        [8, 10, "状语修饰", "PP"]
+      ]
+    }
+  ]
+}

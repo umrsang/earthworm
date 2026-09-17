@@ -1,0 +1,593 @@
+{
+  "title": "Unit 61: 四级核心词汇（meeting ~ mist）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "meeting",
+      "chinese": "我们下周将开会讨论此事。",
+      "english": "We’re having a meeting next week to discuss the matter.",
+      "soundmark": "/'mitɪŋ/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "宾语", "NP"],
+        [6, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "melon",
+      "chinese": "…几片多汁的甜瓜。",
+      "english": "...some juicy slices of melon.",
+      "soundmark": "/'mɛlən/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "member",
+      "chinese": "大多数工会成员投票赞成罢工。",
+      "english": "The majority of union members voted in favour of a strike.",
+      "soundmark": "/'mɛmbɚ/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "谓语动词", "VP"],
+        [6, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "memorial",
+      "chinese": "一场为她举行的纪念仪式正在圣保罗教堂举行。",
+      "english": "A memorial service is being held for her at St. Paul's Church.",
+      "soundmark": "/mə'morɪəl/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "系动词", "VP"],
+        [5, 5, "表语", "NP"],
+        [6, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "memory",
+      "chinese": "他对在日本逗留的那段时光有许多美好的回忆。",
+      "english": "He has lots of happy memories of his stay in Japan.",
+      "soundmark": "/'mɛməri/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "mend",
+      "chinese": "我父亲过去常为我们修补鞋子。",
+      "english": "My father used to mend our shoes.",
+      "soundmark": "/mɛnd/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "谓语动词", "VP"],
+        [5, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "mental",
+      "chinese": "该中心对精神病患者提供帮助。",
+      "english": "The centre provides help for people suffering from mental illness .",
+      "soundmark": "/'mɛntl/",
+      "posTags": [[8, 8, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "mention",
+      "chinese": "我的名字被提到过吗？",
+      "english": "Was my name mentioned at all?",
+      "soundmark": "/'mɛnʃən/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [[0, 5, "疑问句", "Question"]]
+    },
+    {
+      "word": "merchant",
+      "chinese": "一名富商的儿子",
+      "english": "the son of a wealthy merchant",
+      "soundmark": "/'mɝtʃənt/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "mercury",
+      "chinese": "有些窃贼用汞水腐蚀他们的镣铐。",
+      "english": "Some thieves have eaten off their irons with mercury water.",
+      "soundmark": "",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "mercy",
+      "chinese": "他对敌人毫不仁慈。",
+      "english": "He showed no mercy to his enemies.",
+      "soundmark": "/'mɝsi/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "mere",
+      "chinese": "她仅仅以20票之差落选。",
+      "english": "She lost the election by a mere 20 votes.",
+      "soundmark": "/mɪr/",
+      "posTags": [[6, 6, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "merely",
+      "chinese": "他只是个孩子——你不要指望他能理解。",
+      "english": "He’s merely a boy – you can’t expect him to understand.",
+      "soundmark": "/'mɪrli/",
+      "posTags": [[1, 1, "副词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 7, "谓语动词", "VP"],
+        [8, 8, "宾语", "NP"],
+        [9, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "merry",
+      "chinese": "他吹着一首欢快的曲子大步走了。",
+      "english": "He marched off, whistling a merry tune.",
+      "soundmark": "/'mɛri/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "mess",
+      "chinese": "太乱了！",
+      "english": "What a mess!",
+      "soundmark": "/mɛs/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "疑问句", "Question"]]
+    },
+    {
+      "word": "message",
+      "chinese": "他留言说可能会晚一点来。",
+      "english": "He left a message saying he would probably be a little late.",
+      "soundmark": "/'mɛsɪdʒ/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 11, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "messenger",
+      "chinese": "机场会有一名信使从我们的快递员那儿取走照片。",
+      "english": "There will be a messenger at the airport to collect the photographs from our courier.",
+      "soundmark": "/'mɛsndʒɚ/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 14, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "metal",
+      "chinese": "这扇大门是用金属做成的。",
+      "english": "The gate is made of metal.",
+      "soundmark": "/'mɛtl/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "meter",
+      "chinese": "有个男的来抄电表。",
+      "english": "A man came to read the electricity meter .",
+      "soundmark": "/'mitɚr/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "method",
+      "chinese": "传统的教学法",
+      "english": "traditional teaching methods",
+      "soundmark": "/'mɛθəd/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "metre",
+      "chinese": "她正在这儿跑1500米。",
+      "english": "She's running the 1,500 metres here.",
+      "soundmark": "/ˈmitɚ/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "metric",
+      "chinese": "一公吨",
+      "english": "a metric tonne",
+      "soundmark": "/'mɛtrɪk/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "microcomputer",
+      "chinese": "商人卖一些电器，比如微型计算机，话筒，微处理器和微波炉。",
+      "english": "The merchant sold electrical appliances, such as microcomputer, microphone, microprocessor and microwave ovens.",
+      "soundmark": "/'maɪkrokəm'pjʊtɚ/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 12, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "microphone",
+      "chinese": "她自信地对着麦克风说话。",
+      "english": "She spoke confidently into the microphone.",
+      "soundmark": "/'maɪkrə'fon/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "microscope",
+      "chinese": "最轻微的运动都会使显微镜散焦。",
+      "english": "The slightest movement will defocus the microscope.",
+      "soundmark": "/'maɪkrəskop/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "midday",
+      "chinese": "我们中途在科尔切斯特停留吃了午饭。",
+      "english": "We stopped off in Colchester for our midday meal .",
+      "soundmark": "/,mɪd'de/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "middle",
+      "chinese": "在售的小房子很多，大房子也有不少，但是不大不小的很少。",
+      "english": "There are plenty of small houses for sale, and quite a lot of very large ones, but very little in the middle.",
+      "soundmark": "/'mɪdl/",
+      "posTags": [[21, 21, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 2, "表语", "NP"],
+        [3, 21, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "midnight",
+      "chinese": "你现在不能打电话给她，都过午夜了！",
+      "english": "You can’t phone her now – it’s gone midnight (= after midnight ) !",
+      "soundmark": "/'mɪdnaɪt/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 9, "宾语", "NP"],
+        [10, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "midst",
+      "chinese": "我担心我们中间有内奸。",
+      "english": "I fear we have an enemy in our midst.",
+      "soundmark": "/mɪdst/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "宾语", "NP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "might",
+      "chinese": "如果你需要更多的信息，可以试试因特网。",
+      "english": "If you need more information, you might try the Internet.",
+      "soundmark": "/maɪt/",
+      "posTags": [[6, 6, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 9, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "mild",
+      "chinese": "去年冬天我们这里异常暖和。",
+      "english": "We had an exceptionally mild winter last year.",
+      "soundmark": "/maɪld/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "mile",
+      "chinese": "从这里到波兰边界有40英里。",
+      "english": "It’s 40 miles from here to the Polish border.",
+      "soundmark": "/maɪl/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 6, "主语", "NP"],
+        [7, 7, "谓语动词", "VP"],
+        [8, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "milk",
+      "chinese": "一瓶奶",
+      "english": "a bottle of milk",
+      "soundmark": "/mɪlk/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "millimetre",
+      "chinese": "那个生物是一只很小的蜈蚣，只有10毫米长。",
+      "english": "The creature is a tiny centipede, just 10 millimetres long.",
+      "soundmark": "/'mili,mi:tə/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 9, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "million",
+      "chinese": "这本书售出了一百多万册。",
+      "english": "The book sold more than a million copies.",
+      "soundmark": "/'mɪljən/",
+      "posTags": [[6, 6, "数词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "mind",
+      "chinese": "要想了解人类思维复杂的特性是不可能的。",
+      "english": "It is impossible to understand the complex nature of the human mind .",
+      "soundmark": "/maɪnd/",
+      "posTags": [[11, 11, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 2, "表语", "NP"],
+        [3, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "mine",
+      "chinese": "这是格伦的主意，不是我的。",
+      "english": "It was Glen’s idea, not mine.",
+      "soundmark": "/maɪn/",
+      "posTags": [[5, 5, "代词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 5, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "miner",
+      "chinese": "所以我们更应该像一个矿工一样为执著于现实，挖开渣滓，淘出金矿。",
+      "english": "Therefore, we should be more like a miner to stand in reality, excavate off wastes, and get gold mines.",
+      "soundmark": "/'maɪnɚ/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 7, "宾语", "NP"],
+        [8, 18, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "minimum",
+      "chinese": "这最少要用一个小时。",
+      "english": "This will take a minimum of one hour.",
+      "soundmark": "/'mɪnɪməm/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "minister",
+      "chinese": "资深的内阁部长",
+      "english": "a senior Cabinet minister",
+      "soundmark": "/'mɪnɪstɚ/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "ministry",
+      "chinese": "…司法部。",
+      "english": "...the Ministry of Justice.",
+      "soundmark": "/'mɪnɪstri/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "minority",
+      "chinese": "爱尔兰仍有极少数人在说盖尔语。",
+      "english": "Gaelic is still spoken in Ireland by a tiny minority.",
+      "soundmark": "/maɪ'nɔrəti/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 3, "表语", "NP"],
+        [4, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "minus",
+      "chinese": "“有什么毛病吗？”“嗯，发动机噪音很大。”",
+      "english": "‘Any minus points ?’ ‘Well, the engine is rather noisy.’",
+      "soundmark": "/'maɪnəs/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 6, "主语", "NP"],
+        [7, 7, "系动词", "VP"],
+        [8, 9, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "minute",
+      "chinese": "我步行上班要用十分钟。",
+      "english": "It takes me ten minutes to walk to work.",
+      "soundmark": "/'mɪnɪt/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "miracle",
+      "chinese": "你没有死真是奇迹！",
+      "english": "It’s a miracle you weren’t killed!",
+      "soundmark": "/'mɪrəkl/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "mirror",
+      "chinese": "他老是照镜子！",
+      "english": "He spends hours in front of the mirror !",
+      "soundmark": "/'mɪrɚ/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "miss",
+      "chinese": "我想约一下泰勒小姐。",
+      "english": "I’d like to make an appointment with Miss Taylor.",
+      "soundmark": "/mɪs/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "missile",
+      "chinese": "核导弹",
+      "english": "a nuclear missile",
+      "soundmark": "/'mɪsl/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "missing",
+      "chinese": "我们在椅子下面找到了那块丢失的拼图。",
+      "english": "We found the missing piece of the jigsaw under the chair.",
+      "soundmark": "/'mɪsɪŋ/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "mist",
+      "chinese": "薄雾中我们只能看到房子的轮廓。",
+      "english": "We could just see the outline of the house through the mist.",
+      "soundmark": "/mɪst/",
+      "posTags": [[11, 11, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "宾语", "NP"],
+        [6, 11, "状语修饰", "PP"]
+      ]
+    }
+  ]
+}

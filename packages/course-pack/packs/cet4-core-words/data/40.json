@@ -1,0 +1,579 @@
+{
+  "title": "Unit 40: 四级核心词汇（dim ~ doubtless）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "dim",
+      "chinese": "在微弱的晨曦里",
+      "english": "in the dim light of the early dawn",
+      "soundmark": "/dɪm/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [
+        [0, 6, "主语", "NP"],
+        [7, 7, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "dimension",
+      "chinese": "长五厘米、宽两厘米的长方形",
+      "english": "a rectangle with the dimensions 5cm × 2cm",
+      "soundmark": "/dɪ'menʃən/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 7, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "dinner",
+      "chinese": "你通常什么时候吃饭？",
+      "english": "What time do you usually have dinner?",
+      "soundmark": "/'dɪnɚ/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [[0, 6, "疑问句", "Question"]]
+    },
+    {
+      "word": "dip",
+      "chinese": "把每个苹果在糖浆里蘸一下，直到被厚厚地裹上糖浆。",
+      "english": "Dip each apple in the syrup until thickly coated.",
+      "soundmark": "/dɪp/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 2, "宾语", "NP"],
+        [3, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "direct",
+      "chinese": "高级用户可直接浏览主数据文档。",
+      "english": "Experienced users have direct access to the main data files.",
+      "soundmark": "/dɪˈrɛkt; daɪˈrɛkt/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 4, "宾语", "NP"],
+        [5, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "directly",
+      "chinese": "新的财产税法不会直接影响到我们。",
+      "english": "The new property tax law won’t directly affect us.",
+      "soundmark": "/dəˈrektli/",
+      "posTags": [[6, 6, "副词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "director",
+      "chinese": "这家公司由董事会管理。",
+      "english": "The company is run by a board of directors (= a group of directors ) .",
+      "soundmark": "/dɪˈrɛktɚ; daɪˈrɛktɚ/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 3, "表语", "NP"],
+        [4, 15, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "dirt",
+      "chinese": "你没看见那车上沾了多少泥！",
+      "english": "You should have seen the dirt on that car!",
+      "soundmark": "/dɝt/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "宾语", "NP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "dirty",
+      "chinese": "洗涤槽里的一堆脏碟子",
+      "english": "a stack of dirty dishes in the sink",
+      "soundmark": "/ˈdɝ​tɪ/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "disable",
+      "chinese": "卡特在那场战争中成了终生残废。",
+      "english": "Carter was permanently disabled in the war.",
+      "soundmark": "/dɪs'ebl/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 3, "表语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "disagree",
+      "chinese": "巴尔强烈反对克龙费尔德的说法。",
+      "english": "Barr strongly disagreed with Kronfeld’s statement.",
+      "soundmark": "/,dɪsə'ɡri/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "disappoint",
+      "chinese": "我不愿意让她失望。",
+      "english": "I hated to disappoint her.",
+      "soundmark": "/'dɪsə'pɔɪnt/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "disaster",
+      "chinese": "有120人在中国这起最惨烈的空难事故中丧生。",
+      "english": "One hundred and twenty people died in China’s worst air disaster .",
+      "soundmark": "/dɪ'zæstɚ/",
+      "posTags": [[10, 10, "名词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "谓语动词", "VP"],
+        [6, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "discard",
+      "chinese": "先阅读制造商的说明书再把盒子丢掉。",
+      "english": "Read the manufacturer's guidelines before discarding the box.",
+      "soundmark": "/dɪsˈkɑːrd/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 3, "宾语", "NP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "discipline",
+      "chinese": "这本书指导父母如何管教孩子。",
+      "english": "The book gives parents advice on discipline.",
+      "soundmark": "/'dɪsəplɪn/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "disclose",
+      "chinese": "一些公司已经主动透露了类似的信息。",
+      "english": "Some companies have already voluntarily disclosed similar information .",
+      "soundmark": "/dɪs'kloz/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "discovery",
+      "chinese": "我感到自己有了一个惊人的发现。",
+      "english": "I felt I'd made an incredible discovery.",
+      "soundmark": "/dɪ'skʌvəri/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "discuss",
+      "chinese": "利特曼拒绝公开讨论此案。",
+      "english": "Littman refused to discuss the case publicly.",
+      "soundmark": "/dɪ'skʌs/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "discussion",
+      "chinese": "建议讨论的话题",
+      "english": "the topics suggested for discussion",
+      "soundmark": "/dɪ'skʌʃən/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "disease",
+      "chinese": "他父亲死于心脏病。",
+      "english": "His father died of heart disease.",
+      "soundmark": "/dɪ'ziz/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "disguise",
+      "chinese": "他无意掩饰他的不安。",
+      "english": "He made no attempt to disguise his agitation.",
+      "soundmark": "/dɪs'ɡaɪz/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "disgust",
+      "chinese": "他把手伸进垃圾箱，脸上带着厌恶的表情。",
+      "english": "He reached into the bin with a look of disgust on his face.",
+      "soundmark": "/dɪs'ɡʌst/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "dish",
+      "chinese": "上菜用的盘子",
+      "english": "a serving dish",
+      "soundmark": "/dɪʃ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "dishonour",
+      "chinese": "虽说我是个不忠于职守的哨兵，等到这种沉网的守望终了的时候，我所能得到的报酬只能是不光彩的死亡，但我仍不敢擅离岗位！",
+      "english": "I dare not quit my post, though an unfaithful sentinel, whose sure reward is death and dishonour, when his dreary watch shall come to an end!",
+      "soundmark": "/dɪs'ɑnɚ/",
+      "posTags": [[16, 16, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 22, "宾语", "NP"],
+        [23, 25, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "disk",
+      "chinese": "这个程序占用2.5 兆字节的磁盘空间，可以在标准个人电脑上运行。",
+      "english": "The program takes up 2.5 megabytes of disk space and can be run on a standard personal computer.",
+      "soundmark": "/dɪsk/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 17, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "dislike",
+      "chinese": "你为什么那么讨厌她？",
+      "english": "Why do you dislike her so much?",
+      "soundmark": "/dɪs'laɪk/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [[0, 6, "疑问句", "Question"]]
+    },
+    {
+      "word": "dismiss",
+      "chinese": "有人认为国家医疗政策一塌糊涂，政府对这种批评持否认态度。",
+      "english": "The government has dismissed criticisms that the country’s health policy is a mess.",
+      "soundmark": "/dɪs'mɪs/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 12, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "disorder",
+      "chinese": "像贪食症和厌食症这类严重的进食障碍",
+      "english": "severe eating disorders such as bulimia and anorexia",
+      "soundmark": "",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "displease",
+      "chinese": "如果你生活中那些使你不愉快的方面让你觉得懊悔，那么这正是你改变方向的时机。",
+      "english": "If there are aspects of your life that displease you make you feel regret, this is an opportunity to change direction.",
+      "soundmark": "/dɪs'pliz/",
+      "posTags": [[8, 8, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 3, "表语", "NP"],
+        [4, 20, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "disposal",
+      "chinese": "拆弹专家",
+      "english": "bomb disposal experts",
+      "soundmark": "/dɪ'spozl/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 2, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "dissolve",
+      "chinese": "一直搅拌到糖溶解掉。",
+      "english": "Stir until the sugar dissolves.",
+      "soundmark": "/dɪ'zɑlv/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "distinction",
+      "chinese": "艾略特作为诗人的杰出才能",
+      "english": "Eliot’s distinction as a poet",
+      "soundmark": "/dɪ'stɪŋkʃən/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "distribution",
+      "chinese": "经销中心",
+      "english": "a distribution centre",
+      "soundmark": "/'dɪstrə'bjʊʃən/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "disturb",
+      "chinese": "对不起打扰一下，我有个紧急消息。",
+      "english": "Sorry to disturb you, but I have an urgent message.",
+      "soundmark": "/dɪ'stɝb/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 9, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "ditch",
+      "chinese": "两辆车都掉进了沟里。",
+      "english": "Both vehicles ended up in a ditch.",
+      "soundmark": "/dɪtʃ/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "dive",
+      "chinese": "从悬崖上跳水是很危险的。",
+      "english": "Diving off the cliffs is dangerous.",
+      "soundmark": "/daɪv/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "divorce",
+      "chinese": "她为什么不离婚呢？",
+      "english": "Why doesn’t she get a divorce ?",
+      "soundmark": "",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [[0, 6, "疑问句", "Question"]]
+    },
+    {
+      "word": "do",
+      "chinese": "“凯来吗？” “或许吧。”",
+      "english": "‘Will Kay come?’ ‘She may do.’",
+      "soundmark": "/du/",
+      "posTags": [[5, 5, "核心考词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "dock",
+      "chinese": "一群人在码头等着迎接他们。",
+      "english": "A crowd was waiting at the dock to greet them.",
+      "soundmark": "/dɑk/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "doctor",
+      "chinese": "她由她的本区医生治疗。",
+      "english": "She was treated by her local doctor.",
+      "soundmark": "/'dɑktɚ/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "dog",
+      "chinese": "我听到了狗吠声。",
+      "english": "I could hear a dog barking .",
+      "soundmark": "/dɔɡ/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "dollar",
+      "chinese": "它要三美元。",
+      "english": "It cost three dollars.",
+      "soundmark": "/'dɑlɚ/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "door",
+      "chinese": "请你帮我开门好吗？",
+      "english": "Could you open the door for me?",
+      "soundmark": "/dɔr/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 6, "疑问句", "Question"]]
+    },
+    {
+      "word": "dorm",
+      "chinese": "但是我在宿舍没有东西可吃，所以我只能去餐厅了。",
+      "english": "But I had no food in my dorm, so I had to go to canteen.",
+      "soundmark": "/dɔrm/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 14, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "dose",
+      "chinese": "如果偶尔在一起的话，我还是蛮喜欢杰米的。",
+      "english": "I quite like Jamie in small doses (= in limited amounts but not a lot or often ) .",
+      "soundmark": "/dos/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 18, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "dot",
+      "chinese": "圆点图案",
+      "english": "a pattern of dots",
+      "soundmark": "/dɑt/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "double",
+      "chinese": "双水槽",
+      "english": "a double sink",
+      "soundmark": "/'dʌbl/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "doubt",
+      "chinese": "他的心头仍有一丝挥之不去的疑虑。",
+      "english": "There was still one little nagging doubt at the back of his mind.",
+      "soundmark": "/daʊt/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 6, "表语", "NP"],
+        [7, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "doubtful",
+      "chinese": "“一切都会顺顺当当的，你等着看好了。” 珍妮看起来不大相信的样子。",
+      "english": "‘Everything’s going to be all right, you’ll see.’ Jenny looked doubtful .",
+      "soundmark": "/'daʊtfəl/",
+      "posTags": [[10, 10, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 11, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "doubtless",
+      "chinese": "无疑会谣言四起。",
+      "english": "Doubtless there would be lots of rumours.",
+      "soundmark": "/'daʊtləs/",
+      "posTags": [[0, 0, "副词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 4, "宾语", "NP"],
+        [5, 6, "状语修饰", "PP"]
+      ]
+    }
+  ]
+}

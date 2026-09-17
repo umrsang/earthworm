@@ -1,0 +1,561 @@
+{
+  "title": "Unit 29: 四级核心词汇（bench ~ bomb）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "bench",
+      "chinese": "我们坐在公园的长椅上。",
+      "english": "We sat on a park bench.",
+      "soundmark": "/bɛntʃ/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "bend",
+      "chinese": "数根枝条开始向地面弯垂。",
+      "english": "Several branches started bending towards the ground.",
+      "soundmark": "/bɛnd/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "beneath",
+      "chinese": "现在，顶部图层应当有小箭头指向下面的图层。",
+      "english": "The top layer should now point down to the layer beneath.",
+      "soundmark": "/bɪˈniːθ/",
+      "posTags": [[10, 10, "介词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"],
+        [6, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "berry",
+      "chinese": "不论这个传说是真是假，咖啡的发现要回溯到公元800年，那时非洲人制造出了一种咖啡浆果浆。",
+      "english": "Whether the legend is true or not, the discovery of coffee dates back to 800 A.D. when Africans created a coffee-berry pulp.",
+      "soundmark": "/'bɛri/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "系动词", "VP"],
+        [4, 8, "表语", "NP"],
+        [9, 21, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "beside",
+      "chinese": "温迪走过来，坐在我身边。",
+      "english": "Wendy came up and sat beside me.",
+      "soundmark": "/bɪ'saɪd/",
+      "posTags": [[5, 5, "介词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "besides",
+      "chinese": "我需要这笔钱，而且，我一旦答应做什么事情就会做到。",
+      "english": "I need the money. And besides, when I agree to do something, I do it.",
+      "soundmark": "/bɪ'saɪdz/",
+      "posTags": [[5, 5, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 8, "宾语", "NP"],
+        [9, 14, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "best",
+      "chinese": "他获得最佳男演员奖。",
+      "english": "He won the best actor award.",
+      "soundmark": "/bɛst/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "bet",
+      "chinese": "你想赌多少钱？",
+      "english": "How much do you want to bet?",
+      "soundmark": "/bɛt/",
+      "posTags": [[6, 6, "动词"]],
+      "syntaxTags": [[0, 6, "疑问句", "Question"]]
+    },
+    {
+      "word": "betray",
+      "chinese": "他感觉她背叛了自己。",
+      "english": "He felt that she had betrayed him.",
+      "soundmark": "/bɪ'tre/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "better",
+      "chinese": "你的音响比我的好。",
+      "english": "Your stereo is better than mine.",
+      "soundmark": "/'bɛtɚ/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 5, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "between",
+      "chinese": "他在两餐之间吃点东西来补充正餐。",
+      "english": "He supplements his regular meals by eating between meals.",
+      "soundmark": "/bɪ'twin/",
+      "posTags": [[7, 7, "介词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "beyond",
+      "chinese": "他们翻过山，向更远处的山谷进发。",
+      "english": "They crossed the mountains and headed for the valleys beyond.",
+      "soundmark": "/bɪ'jɑnd/",
+      "posTags": [[9, 9, "介词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "宾语", "NP"],
+        [6, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "Bible",
+      "chinese": "…一家《圣经》册本和圣歌集出版商。",
+      "english": "...a publisher of bibles and hymn books.",
+      "soundmark": "/'baɪbl/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 6, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "bicycle",
+      "chinese": "詹姆斯会骑自行车了吗？",
+      "english": "Can James ride a bicycle yet?",
+      "soundmark": "/'baɪsɪkl/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 5, "疑问句", "Question"]]
+    },
+    {
+      "word": "big",
+      "chinese": "大房子",
+      "english": "a big house",
+      "soundmark": "/bɪɡ/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "bike",
+      "chinese": "我们去骑会儿自行车吧。",
+      "english": "Let’s go for a bike ride .",
+      "soundmark": "/baɪk/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 6, "祈使句式", "Imperative"]]
+    },
+    {
+      "word": "bill",
+      "chinese": "电话费你付了吗？",
+      "english": "Have you paid the phone bill?",
+      "soundmark": "/bɪl/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [[0, 5, "疑问句", "Question"]]
+    },
+    {
+      "word": "billion",
+      "chinese": "最后的费用可能高达十亿美元。",
+      "english": "The final cost could be as much as one billion dollars.",
+      "soundmark": "/'bɪljən/",
+      "posTags": [[9, 9, "数词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "谓语动词", "VP"],
+        [5, 10, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "bind",
+      "chinese": "把细绳的两端用线系在一起。",
+      "english": "Bind the ends of the cord together with thread.",
+      "soundmark": "/baɪnd/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 2, "宾语", "NP"],
+        [3, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "biology",
+      "chinese": "生物学学位",
+      "english": "a degree in biology",
+      "soundmark": "/baɪ'ɑlədʒi/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "bird",
+      "chinese": "黎明时分，鸟鸣声不绝于耳。",
+      "english": "The dawn was filled with the sound of birds.",
+      "soundmark": "/bɝd/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "birth",
+      "chinese": "恭喜你生了个女儿！",
+      "english": "Congratulations on the birth of your daughter!",
+      "soundmark": "/bɝθ/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 6, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "birthday",
+      "chinese": "星期一是我的生日。",
+      "english": "It’s my birthday on Monday.",
+      "soundmark": "/'bɝθde/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "biscuit",
+      "chinese": "一包巧克力饼干",
+      "english": "a packet of chocolate biscuits",
+      "soundmark": "/'bɪskɪt/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "bit",
+      "chinese": "他把发动机拆开了。",
+      "english": "He’s taken the engine to bits .",
+      "soundmark": "/bɪt/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "bite",
+      "chinese": "那只狗把他的手咬出血了。",
+      "english": "The dog bit him and made his hand bleed.",
+      "soundmark": "/baɪt/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "谓语动词", "VP"],
+        [6, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "bitter",
+      "chinese": "他的照片勾起了痛苦的回忆。",
+      "english": "His photo stirred up bitter memories.",
+      "soundmark": "",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "bitterly",
+      "chinese": "他悲叹自己的考试成绩不好。",
+      "english": "He complained bitterly about his exam grades.",
+      "soundmark": "/'bɪtɚli/",
+      "posTags": [[2, 2, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "black",
+      "chinese": "黑色晚礼服",
+      "english": "a black evening dress",
+      "soundmark": "/blæk/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "blackboard",
+      "chinese": "他用粉笔在黑板上勾划出一个图样。",
+      "english": "He chalked out a design on the blackboard.",
+      "soundmark": "/'blækbɔrd/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "blade",
+      "chinese": "剃刀刀片",
+      "english": "a razor blade",
+      "soundmark": "/bled/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "blank",
+      "chinese": "最后一页留空。",
+      "english": "Leave the last page blank .",
+      "soundmark": "/blæŋk/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "blast",
+      "chinese": "250人在这次大爆炸中丧生。",
+      "english": "250 people were killed in the blast.",
+      "soundmark": "/blæst/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "blaze",
+      "chinese": "约有四千名消防人员正在与大火搏斗。",
+      "english": "Some 4,000 firefighters are battling the blaze.",
+      "soundmark": "/blez/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "系动词", "VP"],
+        [5, 6, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "bleed",
+      "chinese": "你的鼻子流血了。",
+      "english": "Your nose is bleeding.",
+      "soundmark": "/blid/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"]
+      ]
+    },
+    {
+      "word": "blend",
+      "chinese": "把糖、鸡蛋和面粉掺在一起。",
+      "english": "Blend the sugar, eggs, and flour.",
+      "soundmark": "/blɛnd/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "blind",
+      "chinese": "大卫俊朗的外表和完美的风度总是令她对他的缺点视而不见。",
+      "english": "David's good looks and impeccable manners had always made her blind to his faults.",
+      "soundmark": "/blaɪnd/",
+      "posTags": [[10, 10, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 10, "宾语", "NP"],
+        [11, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "blood",
+      "chinese": "她的尸体被发现倒在血泊之中。",
+      "english": "Her body was found in a pool of blood.",
+      "soundmark": "/blʌd/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "bloom",
+      "chinese": "美丽的红花",
+      "english": "beautiful red blooms",
+      "soundmark": "/blum/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "blossom",
+      "chinese": "淡粉色的花朵",
+      "english": "pale pink blossoms",
+      "soundmark": "/'blɑsəm/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "blow",
+      "chinese": "寒风劲吹。",
+      "english": "A cold breeze was blowing hard .",
+      "soundmark": "/blo/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "系动词", "VP"],
+        [5, 6, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "blue",
+      "chinese": "蓝蓝的湖水",
+      "english": "the blue waters of the lake",
+      "soundmark": "/blu/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "board",
+      "chinese": "玛莎正在用一块木砧板切蔬菜。",
+      "english": "Martha was chopping vegetables on a wooden board.",
+      "soundmark": "/bɔrd/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 3, "表语", "NP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "boast",
+      "chinese": "“我才不怕呢。”她吹嘘道。",
+      "english": "‘I wouldn’t be afraid,’ she boasted.",
+      "soundmark": "/bost/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 5, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "boat",
+      "chinese": "渔船",
+      "english": "a fishing boat",
+      "soundmark": "/bot/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "body",
+      "chinese": "人体",
+      "english": "the human body",
+      "soundmark": "/'bɑdi/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "boil",
+      "chinese": "把意大利面放入大量煮沸的盐水中。",
+      "english": "Put the spaghetti into plenty of boiling salted water.",
+      "soundmark": "/bɔɪl/",
+      "posTags": [[6, 6, "动词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 2, "宾语", "NP"],
+        [3, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "bold",
+      "chinese": "他出人意料地做出一个大胆举动，威胁要起诉这家公司。",
+      "english": "In a surprisingly bold move , he is threatening court action against the company.",
+      "soundmark": "/bold/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 10, "宾语", "NP"],
+        [11, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "bolt",
+      "chinese": "他提醒她，他得在她离开后锁上厨房的门并插上门闩。",
+      "english": "He reminded her that he would have to lock and bolt the kitchen door after her.",
+      "soundmark": "/bolt/",
+      "posTags": [[10, 10, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"],
+        [7, 15, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "bomb",
+      "chinese": "炸弹在早上9点半爆炸。",
+      "english": "The bomb went off at 9.30 in the morning.",
+      "soundmark": "/bɑm/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 8, "状语修饰", "PP"]
+      ]
+    }
+  ]
+}

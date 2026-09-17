@@ -1,0 +1,165 @@
+{
+  "title": "街头问路与交通换乘",
+  "description": "城市公共交通乘车、地铁换乘、步行问路与出租车打车实用表达。",
+  "data": [
+    {
+      "chinese": "这是前往机场快线的正确站台吗？",
+      "english": "Is this the platform for the airport express?",
+      "soundmark": "/ɪz ðɪs ðə ˈplætfɔːm fɔː ðə ˈeəpɔːt ɪkˈspres/",
+      "posTags": [
+        [0, 0, "动词"],
+        [1, 1, "代词"],
+        [2, 2, "限定词"],
+        [3, 3, "名词"],
+        [4, 4, "介词"],
+        [5, 5, "限定词"],
+        [6, 6, "名词"],
+        [7, 7, "名词"]
+      ],
+      "syntaxTags": [[0, 7, "一般疑问句", "Question"]]
+    },
+    {
+      "chinese": "去最近的地铁站怎么走？",
+      "english": "How do I get to the nearest subway station?",
+      "soundmark": "/haʊ duː aɪ ɡet tə ðə ˈnɪərɪst ˈsʌbweɪ ˈsteɪʃn/",
+      "posTags": [
+        [0, 0, "疑问副词"],
+        [1, 1, "助动词"],
+        [2, 2, "代词"],
+        [3, 3, "动词"],
+        [4, 4, "介词"],
+        [5, 5, "限定词"],
+        [6, 6, "形容词"],
+        [7, 7, "名词"],
+        [8, 8, "名词"]
+      ],
+      "syntaxTags": [[0, 8, "路线特殊疑问句", "Question"]]
+    },
+    {
+      "chinese": "沿着这条街直走两个街区。",
+      "english": "Go straight down this street for two blocks.",
+      "soundmark": "/ɡəʊ streɪt daʊn ðɪs striːt fɔː tuː blɒks/",
+      "posTags": [
+        [0, 0, "动词"],
+        [1, 1, "副词"],
+        [2, 2, "介词"],
+        [3, 3, "限定词"],
+        [4, 4, "名词"],
+        [5, 5, "介词"],
+        [6, 6, "数词"],
+        [7, 7, "名词"]
+      ],
+      "syntaxTags": [[0, 7, "祈使句指路", "Imperative"]]
+    },
+    {
+      "chinese": "到市中心需要多长时间？",
+      "english": "How long does it take to downtown?",
+      "soundmark": "/haʊ lɒŋ dʌz ɪt teɪk tə ˌdaʊnˈtaʊn/",
+      "posTags": [
+        [0, 0, "副词"],
+        [1, 1, "副词"],
+        [2, 2, "助动词"],
+        [3, 3, "代词"],
+        [4, 4, "动词"],
+        [5, 5, "介词"],
+        [6, 6, "名词"]
+      ],
+      "syntaxTags": [[0, 6, "耗时疑问句", "Question"]]
+    },
+    {
+      "chinese": "到博物馆我需要在哪里换乘？",
+      "english": "Where do I transfer for the museum?",
+      "soundmark": "/weər duː aɪ trænsˈfɜː fɔː ðə mjuːˈziːəm/",
+      "posTags": [
+        [0, 0, "疑问副词"],
+        [1, 1, "助动词"],
+        [2, 2, "代词"],
+        [3, 3, "动词"],
+        [4, 4, "介词"],
+        [5, 5, "限定词"],
+        [6, 6, "名词"]
+      ],
+      "syntaxTags": [[0, 6, "换乘特殊疑问句", "Question"]]
+    },
+    {
+      "chinese": "下一班公交车大概几点会到？",
+      "english": "When is the next bus expected to arrive?",
+      "soundmark": "/wen ɪz ðə nekst bʌs ɪkˈspektɪd tə əˈraɪv/",
+      "posTags": [
+        [0, 0, "疑问副词"],
+        [1, 1, "动词"],
+        [2, 2, "限定词"],
+        [3, 3, "形容词"],
+        [4, 4, "名词"],
+        [5, 5, "动词"],
+        [6, 6, "不定式标记"],
+        [7, 7, "动词"]
+      ],
+      "syntaxTags": [[0, 7, "班次特殊疑问句", "Question"]]
+    },
+    {
+      "chinese": "请在这里把我放下来，谢谢您。",
+      "english": "Please drop me off right here.",
+      "soundmark": "/pliːz drɒp miː ɒf raɪt hɪər/",
+      "posTags": [
+        [0, 0, "副词"],
+        [1, 1, "动词"],
+        [2, 2, "代词"],
+        [3, 3, "副词"],
+        [4, 4, "副词"],
+        [5, 5, "副词"]
+      ],
+      "syntaxTags": [[0, 5, "下车祈使句", "Imperative"]]
+    },
+    {
+      "chinese": "请问这趟列车在中央车站停靠吗？",
+      "english": "Does this train stop at Central Station?",
+      "soundmark": "/dʌz ðɪs treɪn stɒp æt ˈsentrəl ˈsteɪʃn/",
+      "posTags": [
+        [0, 0, "助动词"],
+        [1, 1, "限定词"],
+        [2, 2, "名词"],
+        [3, 3, "动词"],
+        [4, 4, "介词"],
+        [5, 5, "形容词"],
+        [6, 6, "名词"]
+      ],
+      "syntaxTags": [[0, 6, "经停确认疑问句", "Question"]]
+    },
+    {
+      "chinese": "我们好像完全走错方向了。",
+      "english": "I think we are going the wrong way.",
+      "soundmark": "/aɪ θɪŋk wiː ɑː ˈɡəʊɪŋ ðə rɒŋ weɪ/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "动词"],
+        [2, 2, "代词"],
+        [3, 3, "动词"],
+        [4, 4, "动词"],
+        [5, 5, "限定词"],
+        [6, 6, "形容词"],
+        [7, 7, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 1, "主谓", "Clause"],
+        [2, 7, "宾语从句", "Clause"]
+      ]
+    },
+    {
+      "chinese": "你可以指给我看地图上的具体位置吗？",
+      "english": "Can you point it out on the map?",
+      "soundmark": "/kæn juː pɔɪnt ɪt aʊt ɒn ðə mæp/",
+      "posTags": [
+        [0, 0, "情态动词"],
+        [1, 1, "代词"],
+        [2, 2, "动词"],
+        [3, 3, "代词"],
+        [4, 4, "副词"],
+        [5, 5, "介词"],
+        [6, 6, "限定词"],
+        [7, 7, "名词"]
+      ],
+      "syntaxTags": [[0, 7, "看图指路请求", "Question"]]
+    }
+  ]
+}

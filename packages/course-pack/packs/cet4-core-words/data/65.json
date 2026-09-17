@@ -1,0 +1,604 @@
+{
+  "title": "Unit 65: 四级核心词汇（nucleus ~ operator）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "nucleus",
+      "chinese": "在一个原子的核内，中子和质子聚合在一起。",
+      "english": "Neutrons and protons are bound together in the nucleus of an atom.",
+      "soundmark": "/'nuklɪəs/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "系动词", "VP"],
+        [4, 5, "表语", "NP"],
+        [6, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "nuisance",
+      "chinese": "他喝醉时会是一个有点令人讨厌的人。",
+      "english": "He could be a bit of a nuisance when he was drunk.",
+      "soundmark": "/'njuːsns/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "number",
+      "chinese": "他们在一张大纸上写下了很多不同的数字。",
+      "english": "They wrote various numbers on a large sheet of paper.",
+      "soundmark": "/'nʌmbɚ/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "numerous",
+      "chinese": "为掩盖事实作了很多尝试。",
+      "english": "Numerous attempts have been made to hide the truth.",
+      "soundmark": "/'numərəs/",
+      "posTags": [[0, 0, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "nurse",
+      "chinese": "护士会来给你打针。",
+      "english": "The nurse is coming to give you an injection.",
+      "soundmark": "/nɝs/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 5, "谓语动词", "VP"],
+        [6, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "nursery",
+      "chinese": "她把孩子送到这家托儿所然后回去上班。",
+      "english": "She puts her baby in this nursery and then goes back to work.",
+      "soundmark": "/'nɝsəri/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "nut",
+      "chinese": "松子",
+      "english": "a pine nut",
+      "soundmark": "/nʌt/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "nylon",
+      "chinese": "那顶帐篷是尼龙做的。",
+      "english": "The tent was made of nylon.",
+      "soundmark": "/'naɪlɑn/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "oak",
+      "chinese": "橡木门",
+      "english": "an oak door",
+      "soundmark": "/ok/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "obey",
+      "chinese": "这小男孩不肯服从。",
+      "english": "The little boy made no effort to obey.",
+      "soundmark": "/ə'be/",
+      "posTags": [[7, 7, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"],
+        [6, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "object",
+      "chinese": "调羹之类的日常用品",
+      "english": "an everyday object such as a spoon",
+      "soundmark": "/'ɑbdʒɛkt/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 6, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "objective",
+      "chinese": "科学家做研究时要客观。",
+      "english": "Scientists need to be objective when doing research.",
+      "soundmark": "/əb'dʒɛktɪv/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "oblige",
+      "chinese": "暴风雨越来越猛烈。最终，我被迫弃车徒步前行。",
+      "english": "The storm got worse and worse. Finally, I was obliged to abandon the car and continue on foot.",
+      "soundmark": "/ə'blaɪdʒ/",
+      "posTags": [[9, 9, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 9, "宾语", "NP"],
+        [10, 17, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "observation",
+      "chinese": "他在医院接受了两个晚上的严密观察。",
+      "english": "He spent two nights under close observation in hospital.",
+      "soundmark": "/,ɑbzɚ'veʃən/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "observer",
+      "chinese": "观察员预测利率会下降。",
+      "english": "Observers are predicting a fall in interest rates.",
+      "soundmark": "/əb'zɝvɚ/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 4, "表语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "obvious",
+      "chinese": "减少污染显而易见的办法就是少用汽车。",
+      "english": "The obvious way of reducing pollution is to use cars less.",
+      "soundmark": "/'ɑbvɪəs/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 6, "宾语", "NP"],
+        [7, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "obviously",
+      "chinese": "显然我们将需要更多的帮助。",
+      "english": "We’re obviously going to need more help.",
+      "soundmark": "/'ɑbvɪəsli/",
+      "posTags": [[1, 1, "副词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "谓语动词", "VP"],
+        [5, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "occasional",
+      "chinese": "他有时候会去伦敦。",
+      "english": "He made occasional visits to London.",
+      "soundmark": "/ə'keʒənl/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "occupy",
+      "chinese": "足球占去了我大部分的闲暇时间。",
+      "english": "Football occupies most of my leisure time.",
+      "soundmark": "/'ɑkjupaɪ/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "occur",
+      "chinese": "有三分之一的意外死亡发生在家里。",
+      "english": "A third of accidental deaths occur in the home.",
+      "soundmark": "/ə'kɝ/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "谓语动词", "VP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "occurrence",
+      "chinese": "投诉似乎成了天天发生的事。",
+      "english": "Complaints seemed to be an everyday occurrence.",
+      "soundmark": "/ə'kʌrəns/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "ocean",
+      "chinese": "那海岬伸向海洋远处。",
+      "english": "The cape extends far into the ocean.",
+      "soundmark": "",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "Oceania",
+      "chinese": "汇集了来自南美，欧洲，亚洲，大洋洲和埃及的一系列干尸和艺术品将举办全球巡回展览。",
+      "english": "The Mummies Of The World exhibition brings together a collection of mummies and related artefacts from South America, Europe, Asia, Oceania and Egypt.",
+      "soundmark": "/,oʃɪ'ænɪə/",
+      "posTags": [[20, 20, "名词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 6, "谓语动词", "VP"],
+        [7, 9, "宾语", "NP"],
+        [10, 22, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "October",
+      "chinese": "多数季节性招聘是在10月初进行。",
+      "english": "Most seasonal hiring is done in early October.",
+      "soundmark": "/ɑk'tobɚ/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 4, "宾语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "odd",
+      "chinese": "这话说得很奇怪。",
+      "english": "It was an odd thing to say.",
+      "soundmark": "/ɑd/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 4, "表语", "NP"],
+        [5, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "odour",
+      "chinese": "…挥之不去的汽车尾气的独特气味。",
+      "english": "...the lingering odour of car exhaust.",
+      "soundmark": "/'əudə/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "of",
+      "chinese": "房子的后部",
+      "english": "the back of the house",
+      "soundmark": "/ʌv; əv/",
+      "posTags": [[2, 2, "介词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "off",
+      "chinese": "你的体育运动装备够不够？",
+      "english": "How are you off for sports equipment? (= do you have enough? )",
+      "soundmark": "/ɔf/",
+      "posTags": [[3, 3, "副词"]],
+      "syntaxTags": [[0, 12, "疑问句", "Question"]]
+    },
+    {
+      "word": "offend",
+      "chinese": "他的话严重冒犯了许多苏格兰人。",
+      "english": "His remarks deeply offended many Scottish people.",
+      "soundmark": "/ə'fɛnd/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "offer",
+      "chinese": "一些团体免费提供服务。",
+      "english": "A number of groups offer their services free of charge.",
+      "soundmark": "/'ɔfɚ/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "谓语动词", "VP"],
+        [5, 7, "宾语", "NP"],
+        [8, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "office",
+      "chinese": "该部门就在离白宫一英里远的地方有个办公楼。",
+      "english": "The department occupies an office just a mile from the White House.",
+      "soundmark": "/'ɔfɪs/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 7, "宾语", "NP"],
+        [8, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "officer",
+      "chinese": "英国空军特种部队的一名指挥官",
+      "english": "a commanding officer of the SAS",
+      "soundmark": "/'ɔfɪsɚ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "often",
+      "chinese": "她周末经常要上班。",
+      "english": "She often works at the weekend.",
+      "soundmark": "/'ɔf(tə)n; 'ɑf(tə)n/",
+      "posTags": [[1, 1, "副词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "oh",
+      "chinese": "噢，你看，我想那边那个人是哈里。",
+      "english": "Oh, look, I think that’s Harry over there.",
+      "soundmark": "/o/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "宾语", "NP"],
+        [6, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "oil",
+      "chinese": "石油价格的上涨",
+      "english": "a rise in the price of oil",
+      "soundmark": "/ɔɪl/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 6, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "old",
+      "chinese": "你多大年纪？",
+      "english": "How old are you?",
+      "soundmark": "/old/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 3, "疑问句", "Question"]]
+    },
+    {
+      "word": "omit",
+      "chinese": "请不要忽略任何细节，不管它多细小。",
+      "english": "Please don’t omit any details, no matter how trivial they may seem.",
+      "soundmark": "/ə'mɪt/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 4, "祈使句式", "Imperative"],
+        [5, 11, "补充陈述分句", "Sentence"]
+      ]
+    },
+    {
+      "word": "on",
+      "chinese": "我真想一拳打到他鼻子上。",
+      "english": "I wanted to punch him on the nose.",
+      "soundmark": "/ɑn/",
+      "posTags": [[5, 5, "介词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 4, "宾语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "once",
+      "chinese": "我只见过她一面。",
+      "english": "I’ve only met her once.",
+      "soundmark": "/wʌns/",
+      "posTags": [[4, 4, "副词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "one",
+      "chinese": "他们有一个女儿。",
+      "english": "They had one daughter.",
+      "soundmark": "/wʌn/",
+      "posTags": [[2, 2, "数词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "oneself",
+      "chinese": "只有通过学习，一个人才能真正了解自己。",
+      "english": "It is only through study that one really begins to know oneself.",
+      "soundmark": "/wʌn'sɛlf/",
+      "posTags": [[11, 11, "代词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 2, "表语", "NP"],
+        [3, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "onion",
+      "chinese": "把洋葱切碎。",
+      "english": "Chop the onions finely.",
+      "soundmark": "/'ʌnjən/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "only",
+      "chinese": "娜奥米结婚时才17岁。",
+      "english": "Naomi was only 17 when she got married.",
+      "soundmark": "/'onli/",
+      "posTags": [[2, 2, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 7, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "onto",
+      "chinese": "她看着他走上站台。",
+      "english": "She watched him walk onto the platform.",
+      "soundmark": "/ˈɑnˌtu, -tə, ˈɔn-/",
+      "posTags": [[4, 4, "介词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "open",
+      "chinese": "他猛地打开门，往楼下跑去。",
+      "english": "He threw the door open and ran down the stairs.",
+      "soundmark": "/'opən/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 6, "宾语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "opening",
+      "chinese": "本赛季的首场比赛",
+      "english": "the opening match of the season",
+      "soundmark": "/'opənɪŋ/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "opera",
+      "chinese": "我们常去听歌剧。",
+      "english": "We go to the opera (= go to a performance of opera ) regularly.",
+      "soundmark": "/'ɑprə/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 6, "宾语", "NP"],
+        [7, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "operate",
+      "chinese": "刘易斯一家在运河上经营着几艘船。",
+      "english": "The Lewis family operated a number of boats on the canal.",
+      "soundmark": "/'ɑpə'ret/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"],
+        [6, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "operational",
+      "chinese": "今天下午这艘船应该可以使用了。",
+      "english": "The boat should be operational by this afternoon.",
+      "soundmark": "/'ɑpə'reʃənl/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 4, "宾语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "operator",
+      "chinese": "喂，接线员吗？请帮我接31号房间。",
+      "english": "Hello, operator? Could you put me through to Room 31?",
+      "soundmark": "/'ɑpəretɚ/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 9, "疑问句", "Question"]]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "title": "表达看法与即时反应",
+  "description": "用自然口语表达赞同、惊讶、犹豫和不同意见。",
+  "data": [
+    { "chinese": "你说得很有道理。", "english": "You have a point there." },
+    {
+      "chinese": "这正是我想说的。",
+      "english": "That is exactly what I was getting at."
+    },
+    {
+      "chinese": "这消息完全出乎我的意料。",
+      "english": "That news caught me completely off guard."
+    },
+    { "chinese": "我还拿不定主意。", "english": "I am still on the fence." },
+    { "chinese": "别误会我的意思。", "english": "Do not get me wrong." },
+    {
+      "chinese": "说实话，我不太认同。",
+      "english": "To be honest, I am not really sold on it."
+    },
+    {
+      "chinese": "现在想这个还为时过早。",
+      "english": "It is too early to tell."
+    },
+    {
+      "chinese": "听起来好得不像真的。",
+      "english": "It sounds too good to be true."
+    },
+    {
+      "chinese": "这倒是换了个角度。",
+      "english": "That puts a different spin on it."
+    },
+    {
+      "chinese": "我们只能求同存异了。",
+      "english": "We will have to agree to disagree."
+    }
+  ]
+}

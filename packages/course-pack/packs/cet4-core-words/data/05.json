@@ -1,0 +1,559 @@
+{
+  "title": "Unit 05: 四级核心词汇（corporate ~ diploma）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "corporate",
+      "chinese": "共同的责任",
+      "english": "corporate responsibility",
+      "soundmark": "/ˈkɔːrpərət/",
+      "posTags": [[0, 0, "形容词"]],
+      "syntaxTags": [[0, 1, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "counsel",
+      "chinese": "我的顾问建议我不要做任何事情。",
+      "english": "My advisers counselled me to do nothing.",
+      "soundmark": "/ˈkaʊnsl/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "couple",
+      "chinese": "一对新婚夫妇",
+      "english": "a newly married couple",
+      "soundmark": "/ˈkʌpl/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "courageous",
+      "chinese": "他是错了，而且有勇气承认自己错了。",
+      "english": "He was wrong, and courageous enough to admit it.",
+      "soundmark": "/kəˈreɪdʒəs/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 5, "表语", "NP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "crash",
+      "chinese": "这架喷气式飞机起飞后就坠毁了。",
+      "english": "The jet crashed after take-off.",
+      "soundmark": "/kræʃ/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "creativity",
+      "chinese": "教师被批评压抑了学生的创造力。",
+      "english": "Teachers have been attacked for stifling creativity in their pupils.",
+      "soundmark": "/ˌkriːeɪˈtɪvəti/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "crisis",
+      "chinese": "该国目前正面临一场经济危机。",
+      "english": "The country now faces an economic crisis .",
+      "soundmark": "/ˈkraɪsɪs/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [[0, 7, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "critic",
+      "chinese": "马瑟做过多年的电影评论家。",
+      "english": "Mather was a film critic for many years.",
+      "soundmark": "/ˈkrɪtɪk/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 4, "表语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "critical",
+      "chinese": "他发表了一些严厉的批判性言论。",
+      "english": "He made some highly critical remarks.",
+      "soundmark": "/ˈkrɪtɪkl/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "criticize",
+      "chinese": "罗恩什么也不干，只是一味指责和抱怨。",
+      "english": "Ron does nothing but criticize and complain all the time.",
+      "soundmark": "/ˈkrɪtɪsaɪz/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 9, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "criticism",
+      "chinese": "尽管遭到了猛烈的批评，新制度依然原封不动。",
+      "english": "Despite strong criticism , the new system is still in place.",
+      "soundmark": "/ˈkrɪtɪsɪzəm/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 6, "主语", "NP"],
+        [7, 7, "系动词", "VP"],
+        [8, 8, "表语", "NP"],
+        [9, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "cultivate",
+      "chinese": "我们种植玉米和西瓜。",
+      "english": "We cultivated maize and watermelons.",
+      "soundmark": "/ˈkʌltɪveɪt/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "curb",
+      "chinese": "控制病毒扩散的措施",
+      "english": "measures to curb the spread of the virus",
+      "soundmark": "/kɜːrb/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "curiosity",
+      "chinese": "我打开包裹只是为了满足我的好奇心。",
+      "english": "I opened the packet just to satisfy my curiosity .",
+      "soundmark": "/ˌkjʊərɪˈɑːsəti/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "curious",
+      "chinese": "小狗天生好奇。",
+      "english": "Puppies are naturally curious.",
+      "soundmark": "/ˈkjʊərɪəs/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 3, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "current",
+      "chinese": "现任总统",
+      "english": "the current President",
+      "soundmark": "/ˈkʌrənt/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "currently",
+      "chinese": "目前供应的产品",
+      "english": "the products that are currently available",
+      "soundmark": "/ˈkʌrəntli/",
+      "posTags": [[4, 4, "副词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "debt",
+      "chinese": "他有足够的钱偿还亏欠的债务。",
+      "english": "He had enough money to pay off his outstanding debts.",
+      "soundmark": "/det/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "decent",
+      "chinese": "得体的葬礼",
+      "english": "a decent burial",
+      "soundmark": "/ˈdiːsnt/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "decline",
+      "chinese": "用于信息技术的支出减少了。",
+      "english": "Spending on information technology has declined.",
+      "soundmark": "/dɪˈklaɪn/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "decorate",
+      "chinese": "浴室里是用绿色和黄色装潢的。",
+      "english": "The bathroom is decorated in green and yellow.",
+      "soundmark": "/ˈdekəreɪt/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "definition",
+      "chinese": "词典里的释义",
+      "english": "a dictionary definition",
+      "soundmark": "/ˌdefɪˈnɪʃən/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "degree",
+      "chinese": "把烘箱预热至425度。",
+      "english": "Preheat the oven to 425 degrees.",
+      "soundmark": "/dɪˈɡriː/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "delay",
+      "chinese": "别犹豫——即刻去函索取信息。",
+      "english": "Don’t delay – send off for the information now.",
+      "soundmark": "/dɪˈleɪ/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [[0, 8, "祈使句式", "Imperative"]]
+    },
+    {
+      "word": "deliberate",
+      "chinese": "对她的故意羞辱",
+      "english": "a deliberate attempt to humiliate her",
+      "soundmark": "/dɪˈlɪbərət/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "deliver",
+      "chinese": "国王在11月5日向全国发表了电视讲话。",
+      "english": "The king delivered a televised speech to the nation on November 5.",
+      "soundmark": "/dɪˈlɪvər/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"],
+        [6, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "demand",
+      "chinese": "生产仍比需求增长快。",
+      "english": "Production is still increasing faster than demand.",
+      "soundmark": "/dɪˈmɑːnd/",
+      "posTags": [[6, 6, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 6, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "democratic",
+      "chinese": "民主政府",
+      "english": "a democratic government",
+      "soundmark": "/ˌdeməˈkrætɪk/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "demonstrate",
+      "chinese": "这项研究证明了贫困与营养不良之间的联系。",
+      "english": "The study demonstrates the link between poverty and malnutrition.",
+      "soundmark": "/ˈdemənstreɪt/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "density",
+      "chinese": "人口密度高的地区",
+      "english": "areas of high population density",
+      "soundmark": "/ˈdensəti/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "department",
+      "chinese": "人事部",
+      "english": "the personnel department",
+      "soundmark": "/dɪˈpɑːrtmənt/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "depressed",
+      "chinese": "英国不景气的房产市场",
+      "english": "Britain’s depressed housing market",
+      "soundmark": "/dɪˈprest/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "depressing",
+      "chinese": "这是个令人沮丧的想法。",
+      "english": "It’s a depressing thought.",
+      "soundmark": "/dɪˈpresɪŋ/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "deprive",
+      "chinese": "他们无法得到住房取暖必需的燃料。",
+      "english": "They've been deprived of the fuel necessary to heat their homes.",
+      "soundmark": "/dɪˈpraɪv/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "derive",
+      "chinese": "英先生是那种助人为乐的快活人。",
+      "english": "Mr. Ying is one of those happy people who derive pleasure from helping others.",
+      "soundmark": "/dɪˈraɪv/",
+      "posTags": [[9, 9, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "deserve",
+      "chinese": "我做了什么事，要得到这样的报应？",
+      "english": "What have I done to deserve this?",
+      "soundmark": "/dɪˈzɜːrv/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [[0, 6, "疑问句", "Question"]]
+    },
+    {
+      "word": "desire",
+      "chinese": "女性的性欲",
+      "english": "female sexual desire",
+      "soundmark": "/dɪˈzaɪər/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "despite",
+      "chinese": "尽管我们竭力想保住这所学校，当局还是决定把它关闭。",
+      "english": "Despite all our efforts to save the school, the authorities decided to close it.",
+      "soundmark": "/dɪˈspaɪt/",
+      "posTags": [[0, 0, "介词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "谓语动词", "VP"],
+        [6, 10, "宾语", "NP"],
+        [11, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "dessert",
+      "chinese": "她吃了些自制冰淇淋当餐后甜点。",
+      "english": "She had homemade ice cream for dessert.",
+      "soundmark": "/dɪˈzɜːrt/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "detail",
+      "chinese": "这个问题将在第五章里作更为详细的论述。",
+      "english": "This issue will be discussed in more detail in Chapter 5.",
+      "soundmark": "/ˈdiːteɪl/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 4, "谓语动词", "VP"],
+        [5, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "detailed",
+      "chinese": "漂亮精致的雕刻",
+      "english": "a beautifully detailed carving",
+      "soundmark": "/dɪˈteɪld/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "detect",
+      "chinese": "如果发现得早，许多种癌症都可以治愈。",
+      "english": "Many forms of cancer can be cured if detected early.",
+      "soundmark": "/dɪˈtekt/",
+      "posTags": [[8, 8, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "detection",
+      "chinese": "…乳腺癌的早期发现。",
+      "english": "...the early detection of breast cancer.",
+      "soundmark": "/dɪˈtekʃən/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "detective",
+      "chinese": "她雇了一个私人侦探调查她丈夫是否有外遇。",
+      "english": "She hired a detective to find out if her husband was having an affair.",
+      "soundmark": "/dɪˈtektɪv/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "determine",
+      "chinese": "可用的水量决定可以建造多少房子。",
+      "english": "The amount of available water determines the number of houses that can be built.",
+      "soundmark": "/dɪˈtɜːrmɪn/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 5, "谓语动词", "VP"],
+        [6, 7, "宾语", "NP"],
+        [8, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "device",
+      "chinese": "录音装置已开动起来。",
+      "english": "The recording device has activated.",
+      "soundmark": "/dɪˈvaɪs/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "devote",
+      "chinese": "他决定把余生奉献给科学研究。",
+      "english": "He decided to devote the rest of his life to scientific investigation.",
+      "soundmark": "/dɪˈvoʊt/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"],
+        [6, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "dictator",
+      "chinese": "遭人痛恨的独裁者的垮台",
+      "english": "the downfall of the hated dictator",
+      "soundmark": "/ˈdɪkteɪtər/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "diligent",
+      "chinese": "勤勉的学生",
+      "english": "a diligent student",
+      "soundmark": "/ˈdɪlɪdʒənt/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "diploma",
+      "chinese": "...一门可以获得社会工作文凭的2年制的新课程。",
+      "english": "...a new two-year course leading to a diploma in social work.",
+      "soundmark": "/dɪˈploʊmə/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 5, "谓语动词", "VP"],
+        [6, 7, "宾语", "NP"],
+        [8, 10, "状语修饰", "PP"]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "title": "成果展示与项目复盘",
+  "description": "商务报告、演示文稿讲解、数据指标归因与回顾复盘的高价值表达方式。",
+  "data": [
+    {
+      "chinese": "我们实现了活跃用户三十个百分点的增长。",
+      "english": "We achieved thirty percent active growth.",
+      "soundmark": "/wiː əˈtʃiːvd ˈθɜːti pəˈsent ˈæktɪv ɡrəʊθ/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "动词"],
+        [2, 2, "数词"],
+        [3, 3, "名词"],
+        [4, 4, "形容词"],
+        [5, 5, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 5, "主谓宾", "VP"]
+      ]
+    },
+    {
+      "chinese": "让我带大家快速过一下核心指标。",
+      "english": "Let me walk you through the key metrics.",
+      "soundmark": "/let miː wɔːk juː θruː ðə kiː ˈmetrɪks/",
+      "posTags": [
+        [0, 0, "动词"],
+        [1, 1, "代词"],
+        [2, 2, "动词"],
+        [3, 3, "代词"],
+        [4, 4, "介词"],
+        [5, 5, "限定词"],
+        [6, 6, "形容词"],
+        [7, 7, "名词"]
+      ],
+      "syntaxTags": [[0, 7, "祈使句", "Imperative"]]
+    },
+    {
+      "chinese": "这个图表清楚地说明了这个趋势。",
+      "english": "This chart clearly illustrates the trend.",
+      "soundmark": "/ðɪs tʃɑːt ˈklɪəli ˈɪləstreɪts ðə trend/",
+      "posTags": [
+        [0, 0, "限定词"],
+        [1, 1, "名词"],
+        [2, 2, "副词"],
+        [3, 3, "动词"],
+        [4, 4, "限定词"],
+        [5, 5, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 5, "谓宾", "VP"]
+      ]
+    },
+    {
+      "chinese": "主要收获是我们必须更早开展测试。",
+      "english": "The key takeaway is to test earlier.",
+      "soundmark": "/ðə kiː ˈteɪkəweɪ ɪz tə test ˈɜːliə/",
+      "posTags": [
+        [0, 0, "限定词"],
+        [1, 1, "形容词"],
+        [2, 2, "名词"],
+        [3, 3, "动词"],
+        [4, 4, "不定式标记"],
+        [5, 5, "动词"],
+        [6, 6, "副词"]
+      ],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 6, "系表结构", "VP"]
+      ]
+    },
+    {
+      "chinese": "欢迎大家随时提问。",
+      "english": "I am happy to take any questions.",
+      "soundmark": "/aɪ æm ˈhæpi tə teɪk ˈeni ˈkwestʃənz/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "动词"],
+        [2, 2, "形容词"],
+        [3, 3, "不定式标记"],
+        [4, 4, "动词"],
+        [5, 5, "限定词"],
+        [6, 6, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 6, "复合谓语", "VP"]
+      ]
+    },
+    {
+      "chinese": "这一改进显著降低了客户流失率。",
+      "english": "This change significantly reduced customer churn.",
+      "soundmark": "/ðɪs tʃeɪndʒ sɪɡˈnɪfɪkəntli rɪˈdjuːst ˈkʌstəmə tʃɜːn/",
+      "posTags": [
+        [0, 0, "限定词"],
+        [1, 1, "名词"],
+        [2, 2, "副词"],
+        [3, 3, "动词"],
+        [4, 4, "名词"],
+        [5, 5, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 5, "主谓宾", "VP"]
+      ]
+    },
+    {
+      "chinese": "在下一季度我们将优先重构核心架构。",
+      "english": "We will prioritize architecture refactoring next quarter.",
+      "soundmark": "/wiː wɪl praɪˈɒrətaɪz ˈɑːkɪtektʃə ˌriːˈfæktərɪŋ nekst ˈkwɔːtə/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "助动词"],
+        [2, 2, "动词"],
+        [3, 3, "名词"],
+        [4, 4, "名词"],
+        [5, 5, "形容词"],
+        [6, 6, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 6, "未来时谓语与时间状语", "VP"]
+      ]
+    },
+    {
+      "chinese": "整个项目是在预算范围之内顺利交付的。",
+      "english": "The project was delivered well within budget.",
+      "soundmark": "/ðə ˈprɒdʒekt wɒz dɪˈlɪvəd wel wɪˈðɪn ˈbʌdʒɪt/",
+      "posTags": [
+        [0, 0, "限定词"],
+        [1, 1, "名词"],
+        [2, 2, "动词"],
+        [3, 3, "动词"],
+        [4, 4, "副词"],
+        [5, 5, "介词"],
+        [6, 6, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 6, "被动谓语与状语", "VP"]
+      ]
+    },
+    {
+      "chinese": "感谢团队在这次上线中的巨大努力与奉献。",
+      "english": "Huge thanks to the team for their hard work.",
+      "soundmark": "/hjuːdʒ θæŋks tə ðə tiːm fɔː ðeə hɑːd wɜːk/",
+      "posTags": [
+        [0, 0, "形容词"],
+        [1, 1, "名词"],
+        [2, 2, "介词"],
+        [3, 3, "限定词"],
+        [4, 4, "名词"],
+        [5, 5, "介词"],
+        [6, 6, "代词"],
+        [7, 7, "形容词"],
+        [8, 8, "名词"]
+      ],
+      "syntaxTags": [[0, 8, "感叹致谢短语", "Formula"]]
+    },
+    {
+      "chinese": "会议纪要会在今天傍晚前发送给大家。",
+      "english": "The meeting minutes will be shared by this evening.",
+      "soundmark": "/ðə ˈmiːtɪŋ ˈmɪnɪts wɪl biː ʃeəd baɪ ðɪs ˈiːvnɪŋ/",
+      "posTags": [
+        [0, 0, "限定词"],
+        [1, 1, "名词"],
+        [2, 2, "名词"],
+        [3, 3, "助动词"],
+        [4, 4, "动词"],
+        [5, 5, "动词"],
+        [6, 6, "介词"],
+        [7, 7, "限定词"],
+        [8, 8, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 8, "被动时态谓语", "VP"]
+      ]
+    }
+  ]
+}

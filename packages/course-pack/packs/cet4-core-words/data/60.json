@@ -1,0 +1,553 @@
+{
+  "title": "Unit 60: 四级核心词汇（mankind ~ meet）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "mankind",
+      "chinese": "人类自远古以来就对火很感兴趣。",
+      "english": "Since earliest times, mankind has been fascinated by fire.",
+      "soundmark": "/mæn'kaɪnd/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 6, "谓语动词", "VP"],
+        [7, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "manly",
+      "chinese": "低沉雄浑的嗓音",
+      "english": "a deep manly voice",
+      "soundmark": "/'mænli/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "manner",
+      "chinese": "她以这种方式死去，他心里有些内疚。",
+      "english": "He felt some guilt over the manner of her death.",
+      "soundmark": "/'mænɚ/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "manual",
+      "chinese": "干体力活的人预期寿命较短。",
+      "english": "People in manual occupations have a lower life expectancy.",
+      "soundmark": "/'mænjuəl/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "manufacturer",
+      "chinese": "使用新洗碗机之前，请先阅读厂家的说明书。",
+      "english": "Read the manufacturer’s instructions before using your new dishwasher.",
+      "soundmark": "/,mænju'fæktʃərɚ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 3, "宾语", "NP"],
+        [4, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "many",
+      "chinese": "在他的众多爱好中有饲养名马。",
+      "english": "Among his many hobbies was the breeding of fine horses.",
+      "soundmark": "/'mɛni/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "系动词", "VP"],
+        [5, 6, "表语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "map",
+      "chinese": "从地图上看，我们应该左拐。",
+      "english": "According to the map we should turn left.",
+      "soundmark": "/mæp/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 1, "谓语动词", "VP"],
+        [2, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "marble",
+      "chinese": "柱子是白色的大理石。",
+      "english": "The columns were of white marble.",
+      "soundmark": "/'mɑrbl/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "March",
+      "chinese": "我3月初飞到了密尔沃基。",
+      "english": "I flew to Milwaukee in early March.",
+      "soundmark": "/mɑrtʃ/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [[0, 6, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "marine",
+      "chinese": "海洋生物繁多的种类",
+      "english": "the enormous variety of marine life",
+      "soundmark": "/mə'rin/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "mark",
+      "chinese": "小猫身体基本为白色，背上有黑色斑点。",
+      "english": "The kitten is mainly white with black marks on her back.",
+      "soundmark": "/mɑːk/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 4, "表语", "NP"],
+        [5, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "market",
+      "chinese": "我们的主要海外市场是日本。",
+      "english": "Our main overseas market is Japan.",
+      "soundmark": "/'mɑrkɪt/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "系动词", "VP"],
+        [5, 5, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "marriage",
+      "chinese": "她前一次婚姻生了三个女儿。",
+      "english": "She has three daughters from a previous marriage.",
+      "soundmark": "/'mærɪdʒ/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "married",
+      "chinese": "你是已婚还是单身？",
+      "english": "Are you married or single?",
+      "soundmark": "/'mærɪd/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [[0, 4, "疑问句", "Question"]]
+    },
+    {
+      "word": "marry",
+      "chinese": "他在1925年娶了贝亚。",
+      "english": "He married Bea in 1925.",
+      "soundmark": "/'mæri/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "marvellous",
+      "chinese": "“假期过得好吗？”“好极了！”",
+      "english": "‘How was your holiday?’ ‘Marvellous!’",
+      "soundmark": "/'mɑrvələs/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 4, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "Marxism",
+      "chinese": "他们明目张胆地篡改马克思主义。",
+      "english": "They openly revised Marxism.",
+      "soundmark": "/'ma:ksizəm/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "Marxist",
+      "chinese": "马克思主义思想观",
+      "english": "a Marxist perspective",
+      "soundmark": "/'mɑrksɪst/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "mass",
+      "chinese": "那食物结成了黏糊糊的一团。",
+      "english": "The food had congealed into a sticky mass.",
+      "soundmark": "/mæs/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "master",
+      "chinese": "一件真正的大师之作",
+      "english": "a work of art by a true master",
+      "soundmark": "/'mæstɚ/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "masterpiece",
+      "chinese": "玛丽•雪莱创作《科学怪人》这部恐怖小说名作的时候年仅18岁。",
+      "english": "Mary Shelley was just 18 when she wrote the horror masterpiece ‘Frankenstein’.",
+      "soundmark": "/'mæstəpis/",
+      "posTags": [[10, 10, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 11, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "mat",
+      "chinese": "在地垫上蹭蹭你的鞋底。",
+      "english": "Wipe your feet on the mat.",
+      "soundmark": "/mæt/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "match",
+      "chinese": "这是我们本赛季最后一场比赛。",
+      "english": "It’s our last match of the season.",
+      "soundmark": "/mætʃ/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 6, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "mate",
+      "chinese": "他已经找到了理想的配偶。",
+      "english": "He has found his ideal mate.",
+      "soundmark": "/met/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "material",
+      "chinese": "木材或石头之类的材料",
+      "english": "materials like wood or stone",
+      "soundmark": "/mə'tɪrɪəl/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "materialism",
+      "chinese": "对充满浅薄的物质主义思想的世界作出的回应",
+      "english": "a reaction to a world full of shallow materialism",
+      "soundmark": "/mə'tɪrɪəlɪzəm/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [[0, 8, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "mathematical",
+      "chinese": "数学技能的发展",
+      "english": "the development of mathematical skills",
+      "soundmark": "/,mæθə'mætɪkl/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "mathematics",
+      "chinese": "…一位波士顿大学的数学教授。",
+      "english": "...a professor of mathematics at Boston College.",
+      "soundmark": "/,mæθə'mætɪks/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 6, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "maths",
+      "chinese": "新来的数学老师",
+      "english": "the new maths teacher",
+      "soundmark": "/mæθs/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "may",
+      "chinese": "我可能会迟到，所以别等我。",
+      "english": "I may be late, so don’t wait for me.",
+      "soundmark": "/me/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 6, "宾语", "NP"],
+        [7, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "maybe",
+      "chinese": "也许这只是一个很大的误会。",
+      "english": "Maybe it’s all just a big misunderstanding.",
+      "soundmark": "/'mebi/",
+      "posTags": [[0, 0, "副词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 6, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "mayor",
+      "chinese": "选举伦敦市长",
+      "english": "the election of the London mayor",
+      "soundmark": "/'meɚ/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "me",
+      "chinese": "住手，你弄疼我了。",
+      "english": "Stop, you’re hurting me.",
+      "soundmark": "/mi/",
+      "posTags": [[3, 3, "代词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "meal",
+      "chinese": "我们一定要找个时间一起吃顿饭。",
+      "english": "We must have a meal together some time.",
+      "soundmark": "/mil/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "mean",
+      "chinese": "的意思是。",
+      "english": "\"Credible\" means \"believable.\"",
+      "soundmark": "/min/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "meaning",
+      "chinese": "这是什么意思？我让你一小时之前就要到的！",
+      "english": "What’s the meaning of this? I asked you to be here an hour ago!",
+      "soundmark": "/'minɪŋ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "meantime",
+      "chinese": "医生很快就来，现在尽量放松一下。",
+      "english": "The doctor will be here soon. In the meantime, try and relax.",
+      "soundmark": "/'min'taɪm/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"],
+        [6, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "meanwhile",
+      "chinese": "用中火把调味汁煮到变稠，同时烧水准备煮意大利面。",
+      "english": "Cook the sauce over a medium heat until it thickens. Meanwhile start boiling the water for the pasta.",
+      "soundmark": "/'minwaɪl/",
+      "posTags": [[10, 10, "副词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 2, "宾语", "NP"],
+        [3, 17, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "measurable",
+      "chinese": "可衡量的结果",
+      "english": "measurable results",
+      "soundmark": "/'mɛʒərəbl/",
+      "posTags": [[0, 0, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "measurement",
+      "chinese": "体温的精确测量",
+      "english": "accurate measurement of body temperature",
+      "soundmark": "/'mɛʒɚmənt/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "meat",
+      "chinese": "我几个月以前开始不吃肉了。",
+      "english": "I gave up eating meat a few months ago.",
+      "soundmark": "/mit/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "mechanical",
+      "chinese": "因机械故障航班被取消了。",
+      "english": "The flight has been cancelled due to mechanical failure .",
+      "soundmark": "/mɪ'kænɪkəl/",
+      "posTags": [[7, 7, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "谓语动词", "VP"],
+        [5, 5, "宾语", "NP"],
+        [6, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "mechanically",
+      "chinese": "不要盲目地或机械地照搬外国的东西。",
+      "english": "Never copy foreign things blindly or mechanically.",
+      "soundmark": "/mɪ'kænɪkəli/",
+      "posTags": [[6, 6, "副词"]],
+      "syntaxTags": [[0, 6, "祈使句式", "Imperative"]]
+    },
+    {
+      "word": "mechanics",
+      "chinese": "他没有学习过力学或者工程学。",
+      "english": "He has not studied mechanics or engineering.",
+      "soundmark": "/mə'kænɪks/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "medal",
+      "chinese": "她在上届奥运会上赢得一枚金牌。",
+      "english": "She won a gold medal at the last Olympics.",
+      "soundmark": "/'mɛdl/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "medical",
+      "chinese": "医科学生",
+      "english": "a medical student",
+      "soundmark": "/'mɛdɪkl/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "medicine",
+      "chinese": "她曾在约翰•霍普金斯大学学医。",
+      "english": "She studied medicine at Johns Hopkins University.",
+      "soundmark": "/'mɛdsn/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "Mediterranean",
+      "chinese": "你可选择在地中海夜间垂钓，或是在瑞士的湖上玩帆板。",
+      "english": "You have the choice of night fishing in the Mediterranean, or windsurfing on a lake in Switzerland.",
+      "soundmark": "/,mɛdətə'renɪən/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 16, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "medium",
+      "chinese": "广告是具有强大影响力的传播媒介。",
+      "english": "Advertising is a powerful medium.",
+      "soundmark": "/'midɪəm/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "meet",
+      "chinese": "你绝对猜不出我在镇上碰到谁了。",
+      "english": "You’ll never guess who I met in town.",
+      "soundmark": "/mit/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"],
+        [6, 7, "状语修饰", "PP"]
+      ]
+    }
+  ]
+}

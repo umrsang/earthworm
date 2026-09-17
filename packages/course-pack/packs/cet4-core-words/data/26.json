@@ -1,0 +1,567 @@
+{
+  "title": "Unit 26: 四级核心词汇（anyone ~ at）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "anyone",
+      "chinese": "今晚任何人都可能赢。",
+      "english": "Anyone could win tonight.",
+      "soundmark": "/'ɛnɪ'wʌn/",
+      "posTags": [[0, 0, "代词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "anything",
+      "chinese": "你想要什么都可以买。",
+      "english": "You can buy anything you want.",
+      "soundmark": "/'ɛnɪ'θɪŋ/",
+      "posTags": [[3, 3, "代词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "anywhere",
+      "chinese": "我没有任何地方住。",
+      "english": "I haven't got anywhere to live.",
+      "soundmark": "/'ɛnɪwɛr/",
+      "posTags": [[3, 3, "副词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "apart",
+      "chinese": "他们的办事处远至印度、秘鲁等国。",
+      "english": "They have offices in countries as far apart as India and Peru.",
+      "soundmark": "/ə'pɑrt/",
+      "posTags": [[7, 7, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "apologize",
+      "chinese": "非常对不起，我真心道歉。",
+      "english": "I’m so sorry, I do apologize.",
+      "soundmark": "/ə'pɑlədʒaɪz/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 5, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "apology",
+      "chinese": "爱德华今天来不了，他向大家表示歉意。",
+      "english": "Edward can’t be here today, but he sends his apologies .",
+      "soundmark": "/ə'pɑlədʒi/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 10, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "apparatus",
+      "chinese": "航天员有专门的呼吸装装备。",
+      "english": "Astronauts have special breathing apparatus.",
+      "soundmark": "/ˌæpəˈrætəs/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "apparent",
+      "chinese": "质量的差异显而易见。",
+      "english": "The difference in quality was immediately apparent .",
+      "soundmark": "/ə'pærənt/",
+      "posTags": [[6, 6, "形容词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "系动词", "VP"],
+        [5, 7, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "appear",
+      "chinese": "警方发现了疑似人体遗骸的东西。",
+      "english": "Police have found what appear to be human remains.",
+      "soundmark": "/ə'pɪr/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "apple",
+      "chinese": "苹果树",
+      "english": "an apple tree",
+      "soundmark": "/'æpl/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "appliance",
+      "chinese": "进行这一操作最常用的设备是一个负载均衡器，这是一个从外部接收请求并将它们移交给下一个可用应用程序服务器的装置。",
+      "english": "The device most often used to do this is a load balancer, which is an appliance that accepts requests from the outside world and hands them off to the next available application server.",
+      "soundmark": "/ə'plaɪəns/",
+      "posTags": [[15, 15, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 5, "谓语动词", "VP"],
+        [6, 18, "宾语", "NP"],
+        [19, 32, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "applicable",
+      "chinese": "对一个家庭合理的标准对于另一个家庭并不适用。",
+      "english": "What is a reasonable standard for one family is not applicable for another.",
+      "soundmark": "/'æplɪkəbl/",
+      "posTags": [[10, 10, "形容词"]],
+      "syntaxTags": [[0, 12, "疑问句", "Question"]]
+    },
+    {
+      "word": "appropriate",
+      "chinese": "通告发布的时机很合适。",
+      "english": "The timing of the announcement was particularly appropriate .",
+      "soundmark": "/əˈpropriɪt/",
+      "posTags": [[7, 7, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "approximate",
+      "chinese": "对于每一个参数化问题的近似结果，这个程序也会显示误差的边界。",
+      "english": "For each approximate solution of a parameterized problem, the app also displays the margin of error.",
+      "soundmark": "/ə'prɑksɪmət/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 15, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "April",
+      "chinese": "这些变更将于4月实施。",
+      "english": "The changes will be introduced in April.",
+      "soundmark": "/'eprəl/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 4, "谓语动词", "VP"],
+        [5, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "Arabian",
+      "chinese": "...阿拉伯半岛。",
+      "english": "...the Arabian Peninsula.",
+      "soundmark": "/ə'rebiən/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "arbitrary",
+      "chinese": "武断的决定",
+      "english": "an arbitrary decision",
+      "soundmark": "/ˈɑːrbətreri/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "architecture",
+      "chinese": "他在大学里读的是建筑学。",
+      "english": "He studied architecture at university.",
+      "soundmark": "/'ɑrkə'tɛktʃɚ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "area",
+      "chinese": "只有这个地区出产的干酪才能被称作“罗克福尔干酪”。",
+      "english": "Only cheeses made in this area may be labelled ‘Roquefort.’",
+      "soundmark": "/'ɛrɪə/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "argue",
+      "chinese": "我们听到邻居在争吵。",
+      "english": "We could hear the neighbours arguing.",
+      "soundmark": "/'ɑrgjʊ/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "argument",
+      "chinese": "我们得提出有说服力的论据，证明为何要改变体制。",
+      "english": "We need to provide a convincing argument as to why the system should be changed.",
+      "soundmark": "/'ɑrɡjumənt/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 7, "宾语", "NP"],
+        [8, 14, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "arise",
+      "chinese": "外交部出现了危机。",
+      "english": "A crisis has arisen in the Foreign Office.",
+      "soundmark": "/ə'raɪz/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "arithmetic",
+      "chinese": "…教授读、写、算的基本知识。",
+      "english": "...teaching the basics of reading, writing and arithmetic.",
+      "soundmark": "/ə'rɪθmətɪk/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 2, "宾语", "NP"],
+        [3, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "arm",
+      "chinese": "戴夫手臂断了。",
+      "english": "Dave has a broken arm .",
+      "soundmark": "/ɑrm/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "army",
+      "chinese": "陆军部队正协助洪灾后的清理工作。",
+      "english": "The army are helping to clear up after the floods.",
+      "soundmark": "/'ɑrmi/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 5, "系动词", "VP"],
+        [6, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "around",
+      "chinese": "她对于她周围所有的人是一种多么大的鼓舞!",
+      "english": "What an inspiration she was to all around her!",
+      "soundmark": "/ə'raʊnd/",
+      "posTags": [[7, 7, "介词"]],
+      "syntaxTags": [[0, 8, "疑问句", "Question"]]
+    },
+    {
+      "word": "arouse",
+      "chinese": "马特的行为渐渐引起了邻居的兴趣。",
+      "english": "Matt’s behavior was arousing the interest of the neighbors.",
+      "soundmark": "/ə'raʊz/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 5, "表语", "NP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "arrange",
+      "chinese": "本把花放在花瓶里插好。",
+      "english": "Ben arranged the flowers in a vase.",
+      "soundmark": "/ə'rendʒ/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "arrangement",
+      "chinese": "你的旅行都安排好了吗？",
+      "english": "Have you made all your travel arrangements?",
+      "soundmark": "/ə'rendʒmənt/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [[0, 6, "疑问句", "Question"]]
+    },
+    {
+      "word": "arrival",
+      "chinese": "警方及时赶到才阻止了事态恶化。",
+      "english": "Only the timely arrival of the police prevented the situation from becoming worse.",
+      "soundmark": "/ə'raɪvəl/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 6, "主语", "NP"],
+        [7, 7, "谓语动词", "VP"],
+        [8, 9, "宾语", "NP"],
+        [10, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "arrive",
+      "chinese": "打个电话给我，告诉我你已平安到达。",
+      "english": "Give me a call to let me know you’ve arrived safely.",
+      "soundmark": "/ə'raɪv/",
+      "posTags": [[9, 9, "动词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 3, "宾语", "NP"],
+        [4, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "arrow",
+      "chinese": "顺着箭头指示的方向去X光科。",
+      "english": "Follow the arrows to the X-ray department.",
+      "soundmark": "/'æro/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 2, "宾语", "NP"],
+        [3, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "art",
+      "chinese": "纽约现代艺术博物馆",
+      "english": "the Museum of Modern Art in New York",
+      "soundmark": "/ɑrt/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 7, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "article",
+      "chinese": "该报社论称政府软弱。",
+      "english": "The paper’s leading article (=  the main article  ) described the government as weak.",
+      "soundmark": "/'ɑrtɪkl/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 13, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "artificial",
+      "chinese": "假花",
+      "english": "artificial flowers",
+      "soundmark": "/,ɑrtɪ'fɪʃl/",
+      "posTags": [[0, 0, "形容词"]],
+      "syntaxTags": [[0, 1, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "artist",
+      "chinese": "当地画家的画展",
+      "english": "an exhibition of paintings by local artists",
+      "soundmark": "/'ɑrtɪst/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [[0, 6, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "artistic",
+      "chinese": "对于他的绘画作品的艺术价值，人们褒贬不一。",
+      "english": "Opinion about the artistic merit of his paintings has been mixed.",
+      "soundmark": "/ɑr'tɪstɪk/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "as",
+      "chinese": "我下公共汽车的时候看见了彼得。",
+      "english": "I saw Peter as I was getting off the bus.",
+      "soundmark": "/æz,əz/",
+      "posTags": [[3, 3, "连词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "ash",
+      "chinese": "那房子烧成了灰烬。",
+      "english": "The house burnt to ashes.",
+      "soundmark": "/æʃ/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "Asia",
+      "chinese": "欧洲列强在亚洲扩大他们的管辖权。",
+      "english": "The European powers extended their authority in Asia.",
+      "soundmark": "/ˈeʒə;ˈeʃə/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"],
+        [6, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "Asian",
+      "chinese": "这次金融危机使亚洲国家的经济大伤元气。",
+      "english": "The financial crisis devitalized the economy of the Asian countries.",
+      "soundmark": "/ˈeʒən, ˈeʃən/",
+      "posTags": [[8, 8, "形容词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"],
+        [6, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "aside",
+      "chinese": "他推开吃了一半的色拉走了。",
+      "english": "He pushed his half-eaten salad aside and left.",
+      "soundmark": "/ə'saɪd/",
+      "posTags": [[5, 5, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "ask",
+      "chinese": "“你叫什么名字？”她问道 。",
+      "english": "‘What’s your name?’ she asked.",
+      "soundmark": "/æsk/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "asleep",
+      "chinese": "安静！ 宝宝在睡觉。",
+      "english": "Quiet! The baby’s asleep.",
+      "soundmark": "/ə'slip/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "aspect",
+      "chinese": "朝南方向",
+      "english": "a south-facing aspect",
+      "soundmark": "/'æspɛkt/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "assist",
+      "chinese": "家人决定分担我的琐事。",
+      "english": "The family decided to assist me with my chores.",
+      "soundmark": "/ə'sɪst/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "谓语动词", "VP"],
+        [5, 5, "宾语", "NP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "assistant",
+      "chinese": "文书助理",
+      "english": "a clerical assistant",
+      "soundmark": "/ə'sɪstənt/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "association",
+      "chinese": "建筑师协会",
+      "english": "the Association of Master Builders",
+      "soundmark": "/ə,soʃɪ'eʃən/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "assure",
+      "chinese": "我能向你保证，这文件是真的。",
+      "english": "The document is genuine, I can assure you .",
+      "soundmark": "/ə'ʃʊr/",
+      "posTags": [[6, 6, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 8, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "at",
+      "chinese": "他们住在维多利亚街18 号。",
+      "english": "They live at 18 Victoria Street.",
+      "soundmark": "/æt; ət/",
+      "posTags": [[2, 2, "介词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "状语修饰", "PP"]
+      ]
+    }
+  ]
+}

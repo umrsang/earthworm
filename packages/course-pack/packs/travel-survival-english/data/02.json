@@ -1,0 +1,171 @@
+{
+  "title": "酒店入住与需求沟通",
+  "description": "前台登记入住、退房寄存、设施询问、客房换房与额外需求表达。",
+  "data": [
+    {
+      "chinese": "我用史密斯的名字预订了一间房。",
+      "english": "I have a reservation under the name Smith.",
+      "soundmark": "/aɪ hæv ə ˌrezəˈveɪʃn ˈʌndər ðə neɪm smɪθ/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "动词"],
+        [2, 2, "限定词"],
+        [3, 3, "名词"],
+        [4, 4, "介词"],
+        [5, 5, "限定词"],
+        [6, 6, "名词"],
+        [7, 7, "专有名词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 7, "谓宾及介词短语", "VP"]
+      ]
+    },
+    {
+      "chinese": "房费包含早餐吗？",
+      "english": "Is breakfast included in the room rate?",
+      "soundmark": "/ɪz ˈbrekfəst ɪnˈkluːdɪd ɪn ðə ruːm reɪt/",
+      "posTags": [
+        [0, 0, "动词"],
+        [1, 1, "名词"],
+        [2, 2, "动词"],
+        [3, 3, "介词"],
+        [4, 4, "限定词"],
+        [5, 5, "名词"],
+        [6, 6, "名词"]
+      ],
+      "syntaxTags": [[0, 6, "被动疑问句", "Question"]]
+    },
+    {
+      "chinese": "无线网络密码是什么？",
+      "english": "What is the password for the Wi-Fi?",
+      "soundmark": "/wɒt ɪz ðə ˈpɑːswɜːd fɔː ðə ˈwaɪfaɪ/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "动词"],
+        [2, 2, "限定词"],
+        [3, 3, "名词"],
+        [4, 4, "介词"],
+        [5, 5, "限定词"],
+        [6, 6, "名词"]
+      ],
+      "syntaxTags": [[0, 6, "特殊疑问句", "Question"]]
+    },
+    {
+      "chinese": "退房后我们可以把行李寄存在这里吗？",
+      "english": "Can we store our luggage after checkout?",
+      "soundmark": "/kæn wiː stɔːr ˈaʊər ˈlʌɡɪdʒ ˈɑːftər ˈtʃekaʊt/",
+      "posTags": [
+        [0, 0, "情态动词"],
+        [1, 1, "代词"],
+        [2, 2, "动词"],
+        [3, 3, "代词"],
+        [4, 4, "名词"],
+        [5, 5, "介词"],
+        [6, 6, "名词"]
+      ],
+      "syntaxTags": [[0, 6, "一般疑问句", "Question"]]
+    },
+    {
+      "chinese": "请问最晚退房时间是几点？",
+      "english": "What time is checkout tomorrow morning?",
+      "soundmark": "/wɒt taɪm ɪz ˈtʃekaʊt təˈmɒrəʊ ˈmɔːnɪŋ/",
+      "posTags": [
+        [0, 0, "限定词"],
+        [1, 1, "名词"],
+        [2, 2, "动词"],
+        [3, 3, "名词"],
+        [4, 4, "副词"],
+        [5, 5, "名词"]
+      ],
+      "syntaxTags": [[0, 5, "时间疑问句", "Question"]]
+    },
+    {
+      "chinese": "能帮我们多送两条干净浴巾过来吗？",
+      "english": "Could we get two extra clean towels, please?",
+      "soundmark": "/kʊd wiː ɡet tuː ˈekstrə kliːn ˈtaʊəlz pliːz/",
+      "posTags": [
+        [0, 0, "情态动词"],
+        [1, 1, "代词"],
+        [2, 2, "动词"],
+        [3, 3, "数词"],
+        [4, 4, "形容词"],
+        [5, 5, "形容词"],
+        [6, 6, "名词"],
+        [7, 7, "副词"]
+      ],
+      "syntaxTags": [[0, 7, "礼貌请求句", "Question"]]
+    },
+    {
+      "chinese": "我们房间里的空调好像坏掉了。",
+      "english": "The air conditioner in our room is not working.",
+      "soundmark": "/ðə eə kənˈdɪʃənər ɪn ˈaʊər ruːm ɪz nɒt ˈwɜːkɪŋ/",
+      "posTags": [
+        [0, 0, "限定词"],
+        [1, 1, "名词"],
+        [2, 2, "名词"],
+        [3, 3, "介词"],
+        [4, 4, "代词"],
+        [5, 5, "名词"],
+        [6, 6, "动词"],
+        [7, 7, "副词"],
+        [8, 8, "动词"]
+      ],
+      "syntaxTags": [
+        [0, 5, "主语及介宾", "NP"],
+        [6, 8, "进行时否定谓语", "VP"]
+      ]
+    },
+    {
+      "chinese": "请问我们可以换到一个更安静的房间吗？",
+      "english": "Is it possible to switch to a quieter room?",
+      "soundmark": "/ɪz ɪt ˈpɒsəbl tə swɪtʃ tə ə ˈkwaɪətər ruːm/",
+      "posTags": [
+        [0, 0, "动词"],
+        [1, 1, "代词"],
+        [2, 2, "形容词"],
+        [3, 3, "不定式标记"],
+        [4, 4, "动词"],
+        [5, 5, "介词"],
+        [6, 6, "限定词"],
+        [7, 7, "形容词"],
+        [8, 8, "名词"]
+      ],
+      "syntaxTags": [[0, 8, "形式主语疑问句", "Question"]]
+    },
+    {
+      "chinese": "明早七点能帮我们安排叫醒电话吗？",
+      "english": "Could I have a wake up call at seven?",
+      "soundmark": "/kʊd aɪ hæv ə weɪk ʌp kɔːl æt ˈsevn/",
+      "posTags": [
+        [0, 0, "情态动词"],
+        [1, 1, "代词"],
+        [2, 2, "动词"],
+        [3, 3, "限定词"],
+        [4, 4, "动词"],
+        [5, 5, "副词"],
+        [6, 6, "名词"],
+        [7, 7, "介词"],
+        [8, 8, "数词"]
+      ],
+      "syntaxTags": [[0, 8, "叫醒服务请求", "Question"]]
+    },
+    {
+      "chinese": "我们住得很愉快，非常感谢你们周到的服务。",
+      "english": "We enjoyed our stay very much.",
+      "soundmark": "/wiː ɪnˈdʒɔɪd ˈaʊər steɪ ˈveri mʌtʃ/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "动词"],
+        [2, 2, "代词"],
+        [3, 3, "名词"],
+        [4, 4, "副词"],
+        [5, 5, "副词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 5, "好评退房致谢", "VP"]
+      ]
+    }
+  ]
+}

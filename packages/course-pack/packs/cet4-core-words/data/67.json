@@ -1,0 +1,574 @@
+{
+  "title": "Unit 67: 四级核心词汇（owl ~ pay）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "owl",
+      "chinese": "一些更酷的隐形眼镜可以给你一双\"猫眼\"或者是\"猫头鹰的眼睛\"。",
+      "english": "Some of the more extreme contacts give you \"cat eyes\" or how about \"owl eyes\"?",
+      "soundmark": "/aʊl/",
+      "posTags": [[13, 13, "名词"]],
+      "syntaxTags": [[0, 14, "疑问句", "Question"]]
+    },
+    {
+      "word": "own",
+      "chinese": "带上你自己的装备。",
+      "english": "Bring your own equipment.",
+      "soundmark": "/oʊn/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "owner",
+      "chinese": "他现在拥有了一辆亮红色跑车，很是自豪。",
+      "english": "He was now the proud owner of a bright red sports car.",
+      "soundmark": "/'onɚ/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 5, "表语", "NP"],
+        [6, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "ownership",
+      "chinese": "房价在不断上涨。",
+      "english": "The price of home ownership is increasing.",
+      "soundmark": "/'onɚʃɪp/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 6, "系动词", "VP"]
+      ]
+    },
+    {
+      "word": "pace",
+      "chinese": "他加快步伐，盼望着早点回到家中。",
+      "english": "He quickened his pace , longing to be home.",
+      "soundmark": "/pes/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "宾语", "NP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "pacific",
+      "chinese": "平日里静悄悄的社区",
+      "english": "a normally pacific community",
+      "soundmark": "/pə'sɪfɪk/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "pack",
+      "chinese": "成百上千的人挤进了清真寺。",
+      "english": "Hundreds of people packed into the mosque.",
+      "soundmark": "/pæk/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "package",
+      "chinese": "这里有一个寄往迈阿密湖的包裹。",
+      "english": "There’s a package here for a Miami Lakes address.",
+      "soundmark": "/'pækɪdʒ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 7, "主语", "NP"],
+        [8, 8, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "packet",
+      "chinese": "保罗一收到包裹就拆开了。",
+      "english": "Paul tore open the packet as soon as it arrived.",
+      "soundmark": "/'pækɪt/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 9, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "pad",
+      "chinese": "用百洁布擦洗顽固污渍。",
+      "english": "Use an abrasive pad for stubborn stains.",
+      "soundmark": "/pæd/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "page",
+      "chinese": "详细地址见第15页。",
+      "english": "The full address is given on page 15.",
+      "soundmark": "/peɪdʒ/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "谓语动词", "VP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "pain",
+      "chinese": "疼得越来越厉害了。",
+      "english": "The pain is getting worse.",
+      "soundmark": "/pen/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 4, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "paint",
+      "chinese": "天花板需要粉刷了。",
+      "english": "The ceiling needs painting.",
+      "soundmark": "/peɪnt/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "painter",
+      "chinese": "格里的志向是成为一名肖像画家。",
+      "english": "Gerry’s ambition was to become a portrait painter.",
+      "soundmark": "/'pentɚ/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "系动词", "VP"],
+        [5, 7, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "painting",
+      "chinese": "一批珍贵的画作",
+      "english": "a collection of valuable paintings",
+      "soundmark": "/'pentɪŋ/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "pair",
+      "chinese": "耳环，5英镑一副",
+      "english": "earrings, £5 a pair",
+      "soundmark": "/pɛr/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "palace",
+      "chinese": "白金汉宫",
+      "english": "Buckingham Palace",
+      "soundmark": "/'pælis/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 1, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "pale",
+      "chinese": "为什么你的脸色看起来是如此苍白？发生什么事了吗？",
+      "english": "Why do your face look like so pale?What wrong with you?",
+      "soundmark": "",
+      "posTags": [[7, 7, "形容词"]],
+      "syntaxTags": [[0, 10, "疑问句", "Question"]]
+    },
+    {
+      "word": "palm",
+      "chinese": "他把那颗卵石握在手心里。",
+      "english": "He held the pebble in the palm of his hand .",
+      "soundmark": "/pɑm/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [[0, 10, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "pan",
+      "chinese": "炒锅",
+      "english": "a frying pan",
+      "soundmark": "/pæn/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "panel",
+      "chinese": "他集结了一个学者小组为他出谋划策。",
+      "english": "He assembled a panel of scholars to advise him.",
+      "soundmark": "/'pænl/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "paper",
+      "chinese": "我给你找张纸，你好把号码写下来。",
+      "english": "I’ll get you a piece of paper so you can write the number down.",
+      "soundmark": "/'pepɚ/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "parade",
+      "chinese": "胜利游行",
+      "english": "a victory parade",
+      "soundmark": "/pə'red/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "paragraph",
+      "chinese": "小说开篇的几个段落",
+      "english": "the opening paragraphs of the novel",
+      "soundmark": "/'pærəɡræf/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "parallel",
+      "chinese": "线与CD线平行。",
+      "english": "Lines AB and CD are parallel. AB",
+      "soundmark": "/'pærəlɛl/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "系动词", "VP"],
+        [5, 6, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "parcel",
+      "chinese": "那个邮包上周送到了。",
+      "english": "The parcel was delivered last week.",
+      "soundmark": "/'pɑrsl/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 5, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "pardon",
+      "chinese": "沃尔特请求她原谅自己给她造成那么多痛苦。",
+      "english": "Walter begged her pardon for all the pain he had caused her.",
+      "soundmark": "/'pɑrdn/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "parent",
+      "chinese": "14 岁以下儿童须由一位家长陪同。",
+      "english": "Children under 14 should be accompanied by a parent.",
+      "soundmark": "/'pɛrənt/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 5, "谓语动词", "VP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "park",
+      "chinese": "我们去公园散步吧。",
+      "english": "Let’s go for a walk in the park.",
+      "soundmark": "/pɑrk/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [[0, 7, "祈使句式", "Imperative"]]
+    },
+    {
+      "word": "parliament",
+      "chinese": "他们要求议会自由和新闻自由。",
+      "english": "They demanded a free parliament and press.",
+      "soundmark": "/'pɑrləmənt/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "part",
+      "chinese": "你们每天将有一部分时间在户外实际操作。",
+      "english": "For part of the day, you will be outside doing practical work.",
+      "soundmark": "/pɑrt/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 7, "谓语动词", "VP"],
+        [8, 11, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "partial",
+      "chinese": "那次展会只获得部分成功。",
+      "english": "The exhibition was only a partial success.",
+      "soundmark": "/'pɑrʃəl/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 6, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "particularly",
+      "chinese": "史蒂夫回来时情绪特别不好。",
+      "english": "Steve was in a particularly bad mood when he got back.",
+      "soundmark": "/pɚ'tɪkjəlɚli/",
+      "posTags": [[4, 4, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "partly",
+      "chinese": "天气不好是造成坠机事故的部分原因。",
+      "english": "The poor weather was partly responsible for the crash.",
+      "soundmark": "/'pɑrtli/",
+      "posTags": [[4, 4, "副词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "系动词", "VP"],
+        [4, 5, "表语", "NP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "partner",
+      "chinese": "和伴侣谈谈你的忧虑。",
+      "english": "Discuss your worries with your partner.",
+      "soundmark": "/'pɑrtnɚ/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 2, "宾语", "NP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "party",
+      "chinese": "我们今晚有个小聚会，庆祝我们的结婚纪念日。",
+      "english": "We’re having a small party this evening to celebrate our wedding anniversary.",
+      "soundmark": "/'pɑrti/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"],
+        [7, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "pass",
+      "chinese": "人群分开让卡车通过。",
+      "english": "The crowd parted to let the truck pass.",
+      "soundmark": "/pæs/",
+      "posTags": [[7, 7, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "谓语动词", "VP"],
+        [5, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "passage",
+      "chinese": "我的办公室就在过道旁边。",
+      "english": "My office is just along the passage.",
+      "soundmark": "/'pæsɪdʒ/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 6, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "passenger",
+      "chinese": "司机和乘客均未受伤。",
+      "english": "Neither the driver nor the passengers were hurt.",
+      "soundmark": "/'pæsɪndʒɚ/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 7, "系动词", "VP"]
+      ]
+    },
+    {
+      "word": "passport",
+      "chinese": "我持爱尔兰护照。",
+      "english": "I have an Irish passport.",
+      "soundmark": "/'pæspɔrt/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "past",
+      "chinese": "从以往的表现来看，简应该会干得很好。",
+      "english": "Judging by her past performance, Jane should do very well.",
+      "soundmark": "/pæst/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "paste",
+      "chinese": "把粉末和足够的水混合调成均匀的糊状。",
+      "english": "Mix the powder with enough water to make a smooth paste.",
+      "soundmark": "/pest/",
+      "posTags": [[10, 10, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 2, "宾语", "NP"],
+        [3, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "pat",
+      "chinese": "他亲热地轻轻拍了拍那只狗。",
+      "english": "He patted the dog affectionately.",
+      "soundmark": "/pæt/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "patch",
+      "chinese": "肘部有皮革补丁的短上衣",
+      "english": "a jacket with leather patches at the elbows",
+      "soundmark": "/pætʃ/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 7, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "path",
+      "chinese": "我提心吊胆地沿着花园的小道向前门走去。",
+      "english": "I walked nervously up the garden path towards the front door.",
+      "soundmark": "/pæθ/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "patience",
+      "chinese": "他没有耐心等。",
+      "english": "He doesn't have the patience to wait.",
+      "soundmark": "/'peʃns/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "patient",
+      "chinese": "你只能耐心点，等我打完电话。",
+      "english": "You’ll just have to be patient and wait till I’m off the phone.",
+      "soundmark": "/'peʃnt/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "谓语动词", "VP"],
+        [5, 9, "宾语", "NP"],
+        [10, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "pause",
+      "chinese": "艾丽斯换磁带的时候出现了短暂的停顿。",
+      "english": "There was a pause while Alice changed the tape.",
+      "soundmark": "/pɔz/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 8, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "paw",
+      "chinese": "仅这个月，我和我妻子就为一患膀胱感染而需要肾测试的拉布拉多犬花费了600美元，同时为另外一只爪子受伤的拉布拉多犬支付了300美元。",
+      "english": "This month alone, my wife and I spent $600 on one Labrador retriever with a bladder infection who needed some kidney tests and $300 on the other one for an injured paw.",
+      "soundmark": "",
+      "posTags": [[31, 31, "名词"]],
+      "syntaxTags": [
+        [0, 6, "主语", "NP"],
+        [7, 7, "谓语动词", "VP"],
+        [8, 8, "宾语", "NP"],
+        [9, 31, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "pay",
+      "chinese": "你想怎么付款？",
+      "english": "How would you like to pay?",
+      "soundmark": "/pe/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [[0, 5, "疑问句", "Question"]]
+    }
+  ]
+}

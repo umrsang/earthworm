@@ -1,0 +1,593 @@
+{
+  "title": "Unit 75: 四级核心词汇（rust ~ shoot）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "rust",
+      "chinese": "车上有大片锈斑。",
+      "english": "There were large patches of rust on the car.",
+      "soundmark": "/rʌst/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 3, "表语", "NP"],
+        [4, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "sack",
+      "chinese": "他们从未真的辞退过什么人。",
+      "english": "They’ve never actually given anyone the sack .",
+      "soundmark": "/sæk/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "sacrifice",
+      "chinese": "部长强调了在经济上作出牺牲的必要性。",
+      "english": "The minister stressed the need for economic sacrifice.",
+      "soundmark": "/'sækrɪfaɪs/",
+      "posTags": [[7, 7, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "saddle",
+      "chinese": "它看起来像一个马鞍。",
+      "english": "It looks like a saddle.",
+      "soundmark": "/'sædl/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "sail",
+      "chinese": "扬着白帆的游艇",
+      "english": "a yacht with white sails",
+      "soundmark": "/sel/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "sake",
+      "chinese": "他为了健康而迁居海滨。",
+      "english": "He moved to the seaside for the sake of his health.",
+      "soundmark": "/[sek]/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "sample",
+      "chinese": "他们取了血样做肝炎化验。",
+      "english": "They took a blood sample to test for hepatitis.",
+      "soundmark": "/'sæmpl/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "satellite",
+      "chinese": "气象通信卫星的发射",
+      "english": "the launch of a communications and weather satellite",
+      "soundmark": "/'sætəlaɪt/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "satisfactory",
+      "chinese": "他这学期的进步令人满意。",
+      "english": "His progress this term has been satisfactory.",
+      "soundmark": "/,sætɪs'fæktəri/",
+      "posTags": [[6, 6, "形容词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 5, "谓语动词", "VP"],
+        [6, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "saucer",
+      "chinese": "一套瓷茶杯和杯托",
+      "english": "a china cup and saucer",
+      "soundmark": "/'sɔsɚ/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "sausage",
+      "chinese": "猪肉香肠",
+      "english": "pork sausages",
+      "soundmark": "/'sɔsɪdʒ/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 1, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "saw",
+      "chinese": "她在后院锯木头。",
+      "english": "She was in the back yard sawing logs.",
+      "soundmark": "/sɔ/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "say",
+      "chinese": "“我太累了。”她说。",
+      "english": "‘I’m so tired,’ she said.",
+      "soundmark": "/se/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "scan",
+      "chinese": "他朝地平线处仔细眺望，但是找不到那艘船的踪影。",
+      "english": "He scanned the horizon, but there was no sign of the ship.",
+      "soundmark": "/skæn/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 8, "宾语", "NP"],
+        [9, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "scarcely",
+      "chinese": "这座城市20年中几乎没有什么改变。",
+      "english": "The city had scarcely changed in 20 years.",
+      "soundmark": "/'skɛrsli/",
+      "posTags": [[3, 3, "副词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "scatter",
+      "chinese": "枪声使人群四散奔逃。",
+      "english": "The sound of gunfire made the crowd scatter in all directions.",
+      "soundmark": "/'skætɚ/",
+      "posTags": [[7, 7, "动词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 7, "宾语", "NP"],
+        [8, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "scenery",
+      "chinese": "此次旅行最精彩之处就是那美妙绝伦的风景。",
+      "english": "The best part of the trip was the fantastic scenery.",
+      "soundmark": "/'sinəri/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 6, "系动词", "VP"],
+        [7, 9, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "scheme",
+      "chinese": "这笔钱将用于教师培训计划。",
+      "english": "The money will be used for teacher training schemes.",
+      "soundmark": "/skim/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "谓语动词", "VP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "scholar",
+      "chinese": "荷兰的大学问家伊拉斯谟",
+      "english": "the great Dutch scholar Erasmus",
+      "soundmark": "/'skɑlɚ/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "scientific",
+      "chinese": "我们相信科学研究的投资价值。",
+      "english": "We believe in investing in scientific research.",
+      "soundmark": "/,saɪən'tɪfɪk/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "scissors",
+      "chinese": "一把剪刀",
+      "english": "a pair of scissors",
+      "soundmark": "/'sɪzɚz/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "score",
+      "chinese": "半场时的比分是一比一。",
+      "english": "At half-time the score was one all.",
+      "soundmark": "/skɔ/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "系动词", "VP"],
+        [5, 6, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "scout",
+      "chinese": "他派出三名侦察兵到前面侦察大桥的情况。",
+      "english": "He sent three scouts ahead to take a look at the bridge.",
+      "soundmark": "/skaʊt/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "scrape",
+      "chinese": "把这些胡萝卜去皮切成薄片。",
+      "english": "Scrape the carrots and slice them thinly.",
+      "soundmark": "/skrep/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "screw",
+      "chinese": "把框子固定在正确位置上，拧紧螺丝。",
+      "english": "Fix the frame in position and tighten the screws .",
+      "soundmark": "/skru/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 2, "宾语", "NP"],
+        [3, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "seal",
+      "chinese": "盒子从隐藏处掉下时上面的封口破了。",
+      "english": "The seal on the box broke when it fell from its hiding-place.",
+      "soundmark": "/sil/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "secondary",
+      "chinese": "这本小说中的次要人物",
+      "english": "the novel’s secondary characters",
+      "soundmark": "/'sɛkəndɛri/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "secretary",
+      "chinese": "我的秘书会把所有的细节发传真给你。",
+      "english": "My secretary will fax you all the details.",
+      "soundmark": "/'sɛkrətɛrɪ/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "section",
+      "chinese": "飞机的尾部在玉米田里找到了。",
+      "english": "The plane’s tail section was found in a cornfield.",
+      "soundmark": "/'sɛkʃən/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 5, "系动词", "VP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "seed",
+      "chinese": "我把种子种在一盆盆施有堆肥的土里。",
+      "english": "I sow the seed in pots of soil-based compost.",
+      "soundmark": "/sid/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "seek",
+      "chinese": "正在求职的刚毕业的大学生",
+      "english": "new graduates seeking employment",
+      "soundmark": "/sik/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "semiconductor",
+      "chinese": "在半导体收音机中晶体管代替了真空管。",
+      "english": "In semiconductor receivers transistors take the place of vacuum tubes.",
+      "soundmark": "/,sɛmɪkən'dʌktɚ/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 6, "宾语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "senate",
+      "chinese": "参议院批准了这项议案。",
+      "english": "The Senate approved the bill.",
+      "soundmark": "/'sɛnət/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "separate",
+      "chinese": "健身房和桑拿浴室在不同的大楼里。",
+      "english": "The gym and the sauna are in separate buildings.",
+      "soundmark": "/(for v.) sɛpəˌret; (for adj.) sɛprɪt/",
+      "posTags": [[7, 7, "形容词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "系动词", "VP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "sequence",
+      "chinese": "注意要按正确的顺序来完成动作。",
+      "english": "Be careful to perform the actions in the correct sequence .",
+      "soundmark": "/'sikwəns/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 0, "系动词", "VP"],
+        [1, 1, "表语", "NP"],
+        [2, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "series",
+      "chinese": "导致战争爆发的一系列事件",
+      "english": "the series of events that led to the outbreak of war",
+      "soundmark": "/'sɪriz/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 10, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "serve",
+      "chinese": "只有一个女孩在接待顾客。",
+      "english": "There was only one girl serving customers .",
+      "soundmark": "",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 7, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "settle",
+      "chinese": "阿尔伯特在沙发安坐下来。",
+      "english": "Albert settled himself on the sofa.",
+      "soundmark": "/'sɛtl/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "settlement",
+      "chinese": "据说他的律师正在商谈一个协议。",
+      "english": "His lawyers are understood to be negotiating a settlement .",
+      "soundmark": "/'sɛtlmənt/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 6, "系动词", "VP"],
+        [7, 9, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "sew",
+      "chinese": "我在学校学会了缝纫。",
+      "english": "I learned to sew at school.",
+      "soundmark": "/so/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "shave",
+      "chinese": "他已经好几天没刮脸了。",
+      "english": "He hadn’t shaved for days.",
+      "soundmark": "/ʃev/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "shear",
+      "chinese": "虽然被削去了一些权力，该党仍然掌握着控制权。",
+      "english": "Though shorn of some of its powers, the party remains in control.",
+      "soundmark": "/ʃɪr/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 8, "主语", "NP"],
+        [9, 9, "谓语动词", "VP"],
+        [10, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "shed",
+      "chinese": "他大步走过浴室，边走边把湿衣服脱下来。",
+      "english": "He strode across the bathroom, shedding wet clothes as he went.",
+      "soundmark": "",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "谓语动词", "VP"],
+        [6, 10, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "sheet",
+      "chinese": "我去给你们找些干净的床单和毯子。",
+      "english": "I’ll go and find you some clean sheets and blankets.",
+      "soundmark": "/ʃit/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 9, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "shelf",
+      "chinese": "一层层书架的书",
+      "english": "shelves of books",
+      "soundmark": "/ʃɛlf/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "shelter",
+      "chinese": "那些男人躲在一间被炸毁的农舍里。",
+      "english": "The men took shelter in a bombed-out farmhouse.",
+      "soundmark": "/'ʃɛltɚ/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "shield",
+      "chinese": "他用左手遮挡反射过来的阳光。",
+      "english": "He used his left hand as a shield against the reflecting sunlight.",
+      "soundmark": "/ʃild/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 7, "宾语", "NP"],
+        [8, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "shift",
+      "chinese": "他们需要从农业领域转移到工业领域。 他们需要拼命地那么做。",
+      "english": "They need to shift from farming to industry, and they need to do so desperately.",
+      "soundmark": "/ʃɪft/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 14, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "shiver",
+      "chinese": "大冷天里，杰克站着冻得瑟瑟发抖。",
+      "english": "Jake stood shivering in the cold air.",
+      "soundmark": "/'ʃɪvɚ/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "shoot",
+      "chinese": "警方在一名嫌疑人拔枪指着他们时击毙了他。",
+      "english": "Police shot one suspect when he pulled a gun on them.",
+      "soundmark": "/ʃut/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 8, "宾语", "NP"],
+        [9, 10, "状语修饰", "PP"]
+      ]
+    }
+  ]
+}

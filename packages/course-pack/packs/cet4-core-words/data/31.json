@@ -1,0 +1,552 @@
+{
+  "title": "Unit 31: 四级核心词汇（bronze ~ Canadian）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "bronze",
+      "chinese": "青铜浇铸的一口钟",
+      "english": "a bell cast in bronze",
+      "soundmark": "/brɑnz/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "brood",
+      "chinese": "…一窝饥饿的雏鸟。",
+      "english": "...a hungry brood of fledglings.",
+      "soundmark": "/brud/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "brook",
+      "chinese": "潺潺的小溪",
+      "english": "a babbling brook",
+      "soundmark": "/brʊk/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "broom",
+      "chinese": "大厅里除了邮差和他的扫帚以外别无他人。",
+      "english": "The lobby is empty but for the postman and his broom.",
+      "soundmark": "/brum/",
+      "posTags": [[10, 10, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "brother",
+      "chinese": "我有两个兄弟，威廉和马克。",
+      "english": "I have two brothers, William and Mark.",
+      "soundmark": "/'brʌðɚ/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "brow",
+      "chinese": "他用手背擦了擦额头。",
+      "english": "He wiped his brow with the back of his hand.",
+      "soundmark": "/braʊ/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "brown",
+      "chinese": "这个型号的产品有棕色、白色和灰色的。",
+      "english": "This particular model is available in brown, white, or grey.",
+      "soundmark": "/braʊn/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "系动词", "VP"],
+        [4, 4, "表语", "NP"],
+        [5, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "bruise",
+      "chinese": "轻微的伤口和淤青",
+      "english": "minor cuts and bruises",
+      "soundmark": "/bruz/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "brush",
+      "chinese": "硬毛刷，板刷",
+      "english": "a scrubbing brush",
+      "soundmark": "/brʌʃ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "bubble",
+      "chinese": "水烧开时，水面会冒泡泡。",
+      "english": "When water boils, bubbles rise to the surface.",
+      "soundmark": "/'bʌbl/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 7, "疑问句", "Question"]]
+    },
+    {
+      "word": "bud",
+      "chinese": "玫瑰花苞",
+      "english": "rose buds",
+      "soundmark": "/bʌd/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 1, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "build",
+      "chinese": "目的是要为当地居民建造新的住宅。",
+      "english": "The purpose is to build new houses for local people.",
+      "soundmark": "/bɪld/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "系动词", "VP"],
+        [5, 6, "表语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "building",
+      "chinese": "办公室在大楼最高的两层。",
+      "english": "The offices are on the top two floors of the building.",
+      "soundmark": "/'bɪldɪŋ/",
+      "posTags": [[10, 10, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "bulb",
+      "chinese": "一个100瓦的灯泡",
+      "english": "a 100-watt bulb",
+      "soundmark": "/bʌlb/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "bull",
+      "chinese": "一群母牛加一头公牛",
+      "english": "a herd of cows with one bull",
+      "soundmark": "/bʊl/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "bullet",
+      "chinese": "他被一枪打死。",
+      "english": "He was killed by a single bullet.",
+      "soundmark": "/'bʊlɪt/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "bunch",
+      "chinese": "古埃及人很聪明。",
+      "english": "The ancient Egyptians were a clever bunch.",
+      "soundmark": "/bʌntʃ/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "系动词", "VP"],
+        [4, 6, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "bundle",
+      "chinese": "一个小包袱，里面主要是衣服",
+      "english": "a small bundle containing mostly clothing",
+      "soundmark": "/'bʌndl/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "burn",
+      "chinese": "我把他以前的信全烧了。",
+      "english": "I burnt all his old letters.",
+      "soundmark": "/bɝn/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "burst",
+      "chinese": "水管爆裂，房子被水淹了两英尺。",
+      "english": "The pipes had burst and the house was under two feet of water.",
+      "soundmark": "/bɝst/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 7, "宾语", "NP"],
+        [8, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "bury",
+      "chinese": "电缆埋在街道的下面。",
+      "english": "Electric cables are buried beneath the streets.",
+      "soundmark": "/'bɛri/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 6, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "bus",
+      "chinese": "我乘公共汽车去旧金山。",
+      "english": "I took a bus to San Francisco.",
+      "soundmark": "/bʌs/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "bush",
+      "chinese": "玫瑰丛",
+      "english": "a rose bush",
+      "soundmark": "/bʊʃ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "business",
+      "chinese": "这门课程的学生要学习商业活动的各个方面。",
+      "english": "Students on the course learn about all aspects of business.",
+      "soundmark": "/ˈbɪznəs/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "busy",
+      "chinese": "她现在正忙，你稍后打来好吗？",
+      "english": "She’s busy now – can you phone later?",
+      "soundmark": "/'bɪzi/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 7, "疑问句", "Question"]]
+    },
+    {
+      "word": "but",
+      "chinese": "这是一辆旧车，但是性能非常可靠。",
+      "english": "It’s an old car, but it’s very reliable.",
+      "soundmark": "/bʌt/",
+      "posTags": [[4, 4, "连词"]],
+      "syntaxTags": [[0, 7, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "butter",
+      "chinese": "他在面包上涂了些黄油。",
+      "english": "He spread some butter on his bread.",
+      "soundmark": "/'bʌtɚ/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "butterfly",
+      "chinese": "蝴蝶和飞蛾为野花所吸引。",
+      "english": "Butterflies and moths are attracted to the wild flowers.",
+      "soundmark": "/'bʌtɚflaɪ/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 5, "系动词", "VP"],
+        [6, 8, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "button",
+      "chinese": "小的珍珠纽扣",
+      "english": "small pearl buttons",
+      "soundmark": "/'bʌtn/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "buy",
+      "chinese": "人们都说法官被黑手党收买了。",
+      "english": "People say the judge had been bought by the Mafia.",
+      "soundmark": "/baɪ/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "by",
+      "chinese": "我被一条狗袭击。",
+      "english": "I was attacked by a dog.",
+      "soundmark": "/baɪ/",
+      "posTags": [[3, 3, "介词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "cabbage",
+      "chinese": "我讨厌吃卷心菜。",
+      "english": "I hate eating cabbage.",
+      "soundmark": "/ˈkæbɪdʒ/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "cabin",
+      "chinese": "原木小屋",
+      "english": "a log cabin",
+      "soundmark": "/'kæbɪn/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "cabinet",
+      "chinese": "内阁会议",
+      "english": "a cabinet meeting",
+      "soundmark": "/'kæbɪnət/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "cable",
+      "chinese": "电脑的缆线和开关",
+      "english": "cables and switches for computers",
+      "soundmark": "/'kebl/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "cafe",
+      "chinese": "我们去了一间咖啡馆，在那儿消磨了整个下午。",
+      "english": "We went to a cafe and lazed the whole afternoon away there.",
+      "soundmark": "/kæ'fe/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 6, "谓语动词", "VP"],
+        [7, 11, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "cafeteria",
+      "chinese": "学校餐厅",
+      "english": "the school cafeteria",
+      "soundmark": "/,kæfə'tɪrɪə/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "cage",
+      "chinese": "我不喜欢看到鸟在笼子里。",
+      "english": "I hate to see birds in cages.",
+      "soundmark": "/kedʒ/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 4, "宾语", "NP"],
+        [5, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "cake",
+      "chinese": "我们吃了蛋糕和冰激凌。",
+      "english": "We had cake and ice cream.",
+      "soundmark": "/kek/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "calculation",
+      "chinese": "伦纳德做了个快速的估算：他不可能及时做完。",
+      "english": "Leonard made a rapid calculation: he'd never make it in time.",
+      "soundmark": "/,kælkju'leʃən/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 8, "宾语", "NP"],
+        [9, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "calculator",
+      "chinese": "…一个袖珍计算器。",
+      "english": "...a pocket calculator.",
+      "soundmark": "/'kælkjuletɚ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "calendar",
+      "chinese": "墙的上方曾有一本日历，日期框在大方格里。",
+      "english": "There was a calendar on the wall above, with large squares around the dates.",
+      "soundmark": "/'kæləndɚ/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 3, "表语", "NP"],
+        [4, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "call",
+      "chinese": "你可能会说这是无恶意的小玩笑，但是我却认为这是色情。",
+      "english": "You may call it harmless fun, but I call it pornography.",
+      "soundmark": "/kɔl/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 10, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "calm",
+      "chinese": "格伦在葬礼上表现得平静而镇定。",
+      "english": "Glen was calm and composed at the funeral.",
+      "soundmark": "/kɑm/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 4, "表语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "camel",
+      "chinese": "在没有新食物和水供应时，骆驼从它的驼峰中获取能量。",
+      "english": "When fresh food and water are not available,the camel can feed off its hump.",
+      "soundmark": "/'kæml/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [[0, 13, "疑问句", "Question"]]
+    },
+    {
+      "word": "camera",
+      "chinese": "她的祖母借给她一部相机，让她在学校组织的到威尼斯和埃及的旅行中使用。",
+      "english": "Her grandmother lent her a camera for a school trip to Venice and Egypt.",
+      "soundmark": "/'kæmərə/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [[0, 13, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "camp",
+      "chinese": "我们回营地吧，天快黑了。",
+      "english": "Let’s go back to camp – it’s getting dark.",
+      "soundmark": "/kæmp/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 8, "祈使句式", "Imperative"]]
+    },
+    {
+      "word": "campus",
+      "chinese": "新英格兰的一个美丽校园",
+      "english": "a beautiful campus in New England",
+      "soundmark": "/'kæmpəs/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "Canada",
+      "chinese": "她在加拿大定居。",
+      "english": "She was domiciliated in Canada.",
+      "soundmark": "/'kænədə/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "Canadian",
+      "chinese": "那么加拿大的政策呢？",
+      "english": "What about the Canadian policy?",
+      "soundmark": "/kə'nedɪən/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [[0, 4, "疑问句", "Question"]]
+    }
+  ]
+}

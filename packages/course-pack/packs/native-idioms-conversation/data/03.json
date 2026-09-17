@@ -1,0 +1,43 @@
+{
+  "title": "约人计划与社交往来",
+  "description": "覆盖临时邀约、改变计划、保持联系和轻松告别。",
+  "data": [
+    {
+      "chinese": "改天一起喝杯咖啡吧。",
+      "english": "We should grab a coffee sometime."
+    },
+    {
+      "chinese": "我今晚临时有事，去不了了。",
+      "english": "Something came up, so I cannot make it tonight."
+    },
+    {
+      "chinese": "我们到时候再看情况吧。",
+      "english": "Let us play it by ear."
+    },
+    {
+      "chinese": "周六下午我都可以。",
+      "english": "Saturday afternoon works for me."
+    },
+    {
+      "chinese": "我确认以后再回复你。",
+      "english": "Let me check and get back to you."
+    },
+    { "chinese": "人越多越热闹。", "english": "The more, the merrier." },
+    {
+      "chinese": "谢谢邀请，我一定到。",
+      "english": "Thanks for inviting me, count me in."
+    },
+    {
+      "chinese": "这次我就不参加了。",
+      "english": "I think I will sit this one out."
+    },
+    {
+      "chinese": "保持联系，别失联了。",
+      "english": "Keep in touch, and do not be a stranger."
+    },
+    {
+      "chinese": "我不耽误你了，回头见。",
+      "english": "I will let you get back to it, see you around."
+    }
+  ]
+}

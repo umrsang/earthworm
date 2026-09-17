@@ -1,0 +1,565 @@
+{
+  "title": "Unit 72: 四级核心词汇（punish ~ realm）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "punish",
+      "chinese": "要惩罚孩子，不应该用打的方式。",
+      "english": "Smacking is not an acceptable way of punishing a child.",
+      "soundmark": "/'pʌnɪʃ/",
+      "posTags": [[7, 7, "动词"]],
+      "syntaxTags": [
+        [0, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"],
+        [6, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "pupil",
+      "chinese": "大约20名小学生在这里学习音乐。",
+      "english": "About 20 pupils study music here.",
+      "soundmark": "/'pjuːpl/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "purchase",
+      "chinese": "她付钱买好东西离开了。",
+      "english": "She paid for her purchases and left.",
+      "soundmark": "/'pɝtʃəs/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "pure",
+      "chinese": "纯金制成的戒指",
+      "english": "rings made of pure gold",
+      "soundmark": "/pjʊr/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "purple",
+      "chinese": "红色染上蓝色便可成为紫色。",
+      "english": "A purple may be made by dyeing a blue over a red.",
+      "soundmark": "/'pɝpl/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "谓语动词", "VP"],
+        [5, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "purpose",
+      "chinese": "尼克开始的时候头脑中并没有明确的目标。",
+      "english": "Nick had no particular purpose in mind when he started.",
+      "soundmark": "/'pɝpəs/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "purse",
+      "chinese": "我锁上门，然后把钥匙丢进手提包里。",
+      "english": "I locked the door and dropped the keys in my purse.",
+      "soundmark": "/pɝs/",
+      "posTags": [[10, 10, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 7, "宾语", "NP"],
+        [8, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "push",
+      "chinese": "它一动不动，因此她加力去推。",
+      "english": "It didn’t move, so she pushed harder.",
+      "soundmark": "/pʊʃ/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "put",
+      "chinese": "他把咖啡放在桌上。",
+      "english": "He put the coffee on the table.",
+      "soundmark": "/pʊt/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "quarrel",
+      "chinese": "我和其他几个兄弟大吵了一架。",
+      "english": "I had a terrible quarrel with my other brothers.",
+      "soundmark": "/'kwɔrəl/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "quarter",
+      "chinese": "大概是一又四分之一页。",
+      "english": "It’s about a page and a quarter.",
+      "soundmark": "/'kwɔrtɚ/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [[0, 6, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "queen",
+      "chinese": "方块Q，方块王后",
+      "english": "the queen of diamonds",
+      "soundmark": "/kwin/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "question",
+      "chinese": "我能问你个问题吗？",
+      "english": "Can I ask you a question?",
+      "soundmark": "/'kwɛstʃən/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [[0, 5, "疑问句", "Question"]]
+    },
+    {
+      "word": "queue",
+      "chinese": "你得排队。",
+      "english": "You’ll have to join the queue.",
+      "soundmark": "/kju/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "quick",
+      "chinese": "很快啊！我以为你还要一个小时呢。",
+      "english": "That was quick! I thought you’d be another hour.",
+      "soundmark": "/kwɪk/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 6, "系动词", "VP"],
+        [7, 8, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "quiet",
+      "chinese": "我们得安静点，免得吵醒宝宝。",
+      "english": "We’ll have to be quiet so as not to wake the baby.",
+      "soundmark": "/'kwaɪət/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 7, "宾语", "NP"],
+        [8, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "quite",
+      "chinese": "当时我对此感到相当痛苦。",
+      "english": "I felt quite bitter about it at the time.",
+      "soundmark": "/kwaɪt/",
+      "posTags": [[2, 2, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "quote",
+      "chinese": "他引用了《圣经》里的一小段。",
+      "english": "He quoted a short passage from the Bible.",
+      "soundmark": "/kwot/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "rabbit",
+      "chinese": "那只兔子消失在树丛中。",
+      "english": "The rabbit disappeared in the bushes.",
+      "soundmark": "/'ræbɪt/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "race",
+      "chinese": "女子赛跑被田赛场上惟一的一名美国人帕蒂·休·普卢默赢得了。",
+      "english": "The women's race was won by the only American in the field, Patti Sue Plumer.",
+      "soundmark": "/res/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "系动词", "VP"],
+        [5, 14, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "racial",
+      "chinese": "种族歧视的受害者",
+      "english": "a victim of racial discrimination",
+      "soundmark": "/'reʃl/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "rack",
+      "chinese": "酒架",
+      "english": "a wine rack",
+      "soundmark": "/ræk/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "radar",
+      "chinese": "现在能用雷达监测海岸线了。",
+      "english": "The coastline can now be monitored by radar.",
+      "soundmark": "/'redɑr/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"],
+        [6, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "radiation",
+      "chinese": "发电站事故会造成大量核辐射泄漏。",
+      "english": "An accident at the power station could result in large amounts of radiation being released.",
+      "soundmark": "/,redɪ'eʃən/",
+      "posTags": [[12, 12, "名词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 7, "谓语动词", "VP"],
+        [8, 14, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "radio",
+      "chinese": "最近的12个月对地方广播电台来说是艰难的。",
+      "english": "The last 12 months have been difficult ones for local radio.",
+      "soundmark": "/'redɪo/",
+      "posTags": [[10, 10, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 5, "谓语动词", "VP"],
+        [6, 7, "宾语", "NP"],
+        [8, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "radioactive",
+      "chinese": "如何处理放射性废物的问题",
+      "english": "the problem of how to dispose of radioactive waste",
+      "soundmark": "/'redɪo'æktɪv/",
+      "posTags": [[7, 7, "形容词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "谓语动词", "VP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "radius",
+      "chinese": "爆炸引起的剧烈震动在方圆40英里内都能感觉得到。",
+      "english": "The shock of the explosion was felt over a radius of forty miles.",
+      "soundmark": "/'redɪəs/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "rag",
+      "chinese": "他用一块旧布把他的靴子擦干。",
+      "english": "He wiped his boots dry with an old rag.",
+      "soundmark": "/ræɡ/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "rail",
+      "chinese": "几名乘客斜靠在轮船的栏杆上。",
+      "english": "Several passengers were leaning against the ship’s rail.",
+      "soundmark": "/rel/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "railroad",
+      "chinese": "补给经由铁路运送。",
+      "english": "The supplies were sent on the railroad.",
+      "soundmark": "/'relrod/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "railway",
+      "chinese": "铁路公司",
+      "english": "a railway company",
+      "soundmark": "/'relwe/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "rain",
+      "chinese": "风雨交加的夜晚",
+      "english": "a night of wind and rain",
+      "soundmark": "/reɪn/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "rainbow",
+      "chinese": "…如彩虹般五颜六色的丝绸与锦缎。",
+      "english": "...silk and satin in every shade of the rainbow.",
+      "soundmark": "/'renbo/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [[0, 8, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "rainy",
+      "chinese": "十月里一个寒冷的雨天",
+      "english": "a cold rainy day in October",
+      "soundmark": "/'reni/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "rapid",
+      "chinese": "病人迅速康复。",
+      "english": "The patient made a rapid recovery.",
+      "soundmark": "/'ræpɪd/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "rarely",
+      "chinese": "我们很少见到有人在健康领域做文章。",
+      "english": "We rarely see someone go after the health area.",
+      "soundmark": "/'rɛrli/",
+      "posTags": [[1, 1, "副词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "rat",
+      "chinese": "可你答应过要帮我们的，你这小人！",
+      "english": "But you promised to help us, you rat!",
+      "soundmark": "/ræt/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "谓语动词", "VP"],
+        [5, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "rather",
+      "chinese": "我在相当不寻常的环境中长大。",
+      "english": "I grew up in rather unusual circumstances.",
+      "soundmark": "/'ræðɚ/",
+      "posTags": [[4, 4, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "raw",
+      "chinese": "磨碎的生胡萝卜",
+      "english": "grated raw carrots",
+      "soundmark": "/rɔ/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 2, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "ray",
+      "chinese": "一朵云挡住了阳光，房间暗了下来。",
+      "english": "The room darkened as a cloud hid the sun’s rays.",
+      "soundmark": "",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 9, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "reach",
+      "chinese": "切尔西队会进入欧洲杯决赛。",
+      "english": "Chelsea could reach the final of the European Cup.",
+      "soundmark": "/ritʃ/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "reaction",
+      "chinese": "你告诉杰夫这个工作时，他是什么反应？",
+      "english": "What was Jeff’s reaction when you told him about the job?",
+      "soundmark": "/rɪ'ækʃən/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 10, "疑问句", "Question"]]
+    },
+    {
+      "word": "read",
+      "chinese": "我看不懂你写的东西。",
+      "english": "I can’t read your writing.",
+      "soundmark": "/rid; (read, read) rɛd/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "reader",
+      "chinese": "这本书会吸引年轻读者。",
+      "english": "The book will appeal to young readers.",
+      "soundmark": "/'ridɚ/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 4, "谓语动词", "VP"],
+        [5, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "reading",
+      "chinese": "她喜欢看书。",
+      "english": "She loves reading.",
+      "soundmark": "/'ridɪŋ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "ready",
+      "chinese": "快点，你还没准备好吗？",
+      "english": "Come on. Aren’t you ready yet?",
+      "soundmark": "/'rɛdi/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [[0, 5, "疑问句", "Question"]]
+    },
+    {
+      "word": "real",
+      "chinese": "这种疾病确实有蔓延的危险。",
+      "english": "There is a real danger that the disease might spread.",
+      "soundmark": "/'riəl/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 9, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "reality",
+      "chinese": "幻想和现实之间的区别",
+      "english": "the distinction between fantasy and reality",
+      "soundmark": "/rɪ'æləti/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "realize",
+      "chinese": "我们过了一段时间才意识到这场悲剧有多严重。",
+      "english": "It took us a while to realize the extent of the tragedy.",
+      "soundmark": "/rɪəˌlaɪz/",
+      "posTags": [[6, 6, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "realm",
+      "chinese": "精神领域",
+      "english": "the spiritual realm",
+      "soundmark": "/rɛlm/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    }
+  ]
+}

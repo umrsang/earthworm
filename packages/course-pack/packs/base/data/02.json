@@ -1,0 +1,98 @@
+{
+  "title": "日常生活表达",
+  "description": "练习作息、交通和日常请求。",
+  "data": [
+    {
+      "chinese": "我通常七点起床。",
+      "english": "I usually get up at seven.",
+      "soundmark": "/aɪ ˈjuːʒuəli ɡet ʌp æt ˈsevn/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "副词"],
+        [2, 2, "动词"],
+        [3, 3, "副词"],
+        [4, 4, "介词"],
+        [5, 5, "数词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 5, "谓语", "VP"],
+        [2, 3, "短语动词", "Phrasal Verb"],
+        [4, 5, "时间状语", "PP"]
+      ]
+    },
+    {
+      "chinese": "她每天早晨喝咖啡。",
+      "english": "She drinks coffee every morning.",
+      "soundmark": "/ʃiː drɪŋks ˈkɒfi ˈevri ˈmɔːnɪŋ/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "动词"],
+        [2, 2, "名词"],
+        [3, 3, "限定词"],
+        [4, 4, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语", "VP"],
+        [3, 4, "时间状语", "NP"]
+      ]
+    },
+    {
+      "chinese": "我们乘公交车去上班。",
+      "english": "We take the bus to work.",
+      "soundmark": "/wiː teɪk ðə bʌs tə wɜːk/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "动词"],
+        [2, 2, "限定词"],
+        [3, 3, "名词"],
+        [4, 4, "介词"],
+        [5, 5, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 5, "谓语", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 5, "目的状语", "PP"]
+      ]
+    },
+    {
+      "chinese": "你能打开窗户吗？",
+      "english": "Could you open the window?",
+      "soundmark": "/kʊd juː ˈəʊpən ðə ˈwɪndəʊ/",
+      "posTags": [
+        [0, 0, "情态动词"],
+        [1, 1, "代词"],
+        [2, 2, "动词"],
+        [3, 3, "限定词"],
+        [4, 4, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "情态成分", "Modal"],
+        [1, 1, "主语", "NP"],
+        [2, 4, "谓语", "VP"],
+        [3, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "chinese": "我现在正在读一本书。",
+      "english": "I am reading a book now.",
+      "soundmark": "/aɪ æm ˈriːdɪŋ ə bʊk naʊ/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "助动词"],
+        [2, 2, "动词"],
+        [3, 3, "限定词"],
+        [4, 4, "名词"],
+        [5, 5, "副词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 5, "谓语", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 5, "时间状语", "AdvP"]
+      ]
+    }
+  ]
+}

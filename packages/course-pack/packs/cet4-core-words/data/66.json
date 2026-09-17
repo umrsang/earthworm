@@ -1,0 +1,557 @@
+{
+  "title": "Unit 66: 四级核心词汇（opinion ~ owe）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "opinion",
+      "chinese": "选择保险时，最好听听专家的独立意见。",
+      "english": "When choosing an insurance policy it’s best to get an independent opinion.",
+      "soundmark": "/ə'pɪnjən/",
+      "posTags": [[11, 11, "名词"]],
+      "syntaxTags": [[0, 11, "疑问句", "Question"]]
+    },
+    {
+      "word": "opportunity",
+      "chinese": "今年新毕业的大学生就业机会较少。",
+      "english": "There are fewer opportunities for new graduates this year.",
+      "soundmark": "/ˌɒpəˈtjuːnəti/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 3, "表语", "NP"],
+        [4, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "oppose",
+      "chinese": "国会继续反对总统的医疗保健预算。",
+      "english": "Congress is continuing to oppose the President’s health care budget.",
+      "soundmark": "/ə'poz/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 4, "系动词", "VP"],
+        [5, 9, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "oppress",
+      "chinese": "受到当局压迫的土著部落",
+      "english": "native tribes oppressed by the authorities",
+      "soundmark": "/ə'prɛs/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "optical",
+      "chinese": "显微镜和其他光学仪器",
+      "english": "microscopes and other optical instruments",
+      "soundmark": "/'ɑptɪkl/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "optional",
+      "chinese": "三门选修课",
+      "english": "three optional courses",
+      "soundmark": "/'ɑpʃənl/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "or",
+      "chinese": "我们是出去看电影还是待在家里？",
+      "english": "Shall we go out to the cinema or stay at home?",
+      "soundmark": "/ɔr/",
+      "posTags": [[7, 7, "连词"]],
+      "syntaxTags": [[0, 10, "疑问句", "Question"]]
+    },
+    {
+      "word": "oral",
+      "chinese": "口头协议",
+      "english": "an oral agreement",
+      "soundmark": "/'ɔrəl/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "orange",
+      "chinese": "把橙子去皮，然后切成片。",
+      "english": "Peel the oranges and divide them into segments.",
+      "soundmark": "/'ɔrɪndʒ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 5, "宾语", "NP"],
+        [6, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "orbit",
+      "chinese": "火星和地球的轨道随着时间而发生改变。",
+      "english": "Mars and Earth have orbits which change with time.",
+      "soundmark": "/'ɔrbɪt/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "谓语动词", "VP"],
+        [5, 6, "宾语", "NP"],
+        [7, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "orchestra",
+      "chinese": "他指挥一个管弦乐队。",
+      "english": "He directed an orchestra.",
+      "soundmark": "",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "order",
+      "chinese": "这几部分似乎没有逻辑顺序。",
+      "english": "There seemed to be no logical order to the sections.",
+      "soundmark": "/'ɔrdɚ/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 6, "宾语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "orderly",
+      "chinese": "她需要把自己的想法组织得更有条理些。",
+      "english": "She needs to organize her ideas in a more orderly way.",
+      "soundmark": "/'ɔrdɚli/",
+      "posTags": [[9, 9, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"],
+        [6, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "ordinary",
+      "chinese": "这只是普通的相机。",
+      "english": "It’s just an ordinary camera.",
+      "soundmark": "/'ɔrdnɛri/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "ore",
+      "chinese": "富矿脉",
+      "english": "veins of rich ore",
+      "soundmark": "/ɔr/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "organic",
+      "chinese": "有机耕作对环境更有利。",
+      "english": "Organic farming is better for the environment.",
+      "soundmark": "/ɔr'gænɪk/",
+      "posTags": [[0, 0, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "organism",
+      "chinese": "一切生物都要适应环境条件的变化。",
+      "english": "All living organisms have to adapt to changes in environmental conditions.",
+      "soundmark": "/'ɔrɡənɪzəm/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "organization",
+      "chinese": "公众对任何大型机构都期望很高。",
+      "english": "The public expect high standards from any large organization.",
+      "soundmark": "/,ɔrɡənə'zeʃən/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "organize",
+      "chinese": "这一课程是由一家培训公司组织的。",
+      "english": "The course was organized by a training company.",
+      "soundmark": "/ɔrɡənˌaɪz/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "oriental",
+      "chinese": "漂亮的东方地毯",
+      "english": "a beautiful oriental rug",
+      "soundmark": "/,orɪ'ɛntəl/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "ornament",
+      "chinese": "摆满书籍和装饰品的架子",
+      "english": "a shelf covered with books and ornaments",
+      "soundmark": "/'ɔrnəmənt/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "orphan",
+      "chinese": "这场战争使成千上万的孩子成为孤儿。",
+      "english": "The war has left thousands of children as orphans.",
+      "soundmark": "/'ɔrfn/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 4, "宾语", "NP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "other",
+      "chinese": "他们那时就和其他任何年轻夫妇一样。",
+      "english": "They were just like any other young couple.",
+      "soundmark": "/'ʌðɚ/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 7, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "otherwise",
+      "chinese": "你现在就得走，要不然就赶不上公共汽车了。",
+      "english": "You’ll have to go now, otherwise you’ll miss your bus.",
+      "soundmark": "/'ʌðɚwaɪz/",
+      "posTags": [[5, 5, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 9, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "ounce",
+      "chinese": "一盎司杏仁大约包含每日需求量的一半。",
+      "english": "One ounce of almonds contains nearly half the recommended daily amount.",
+      "soundmark": "/aʊns/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 10, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "our",
+      "chinese": "他们分享我们的胜利。",
+      "english": "They partook of our triumph.",
+      "soundmark": "/aʊr/",
+      "posTags": [[3, 3, "代词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "ours",
+      "chinese": "我带你去你的房间，我们的房间在你的隔壁。",
+      "english": "I’ll show you to your room. Ours is next door.",
+      "soundmark": "/ɑrz/",
+      "posTags": [[6, 6, "代词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "ourselves",
+      "chinese": "我们为将要开始的长途旅行做好了准备。",
+      "english": "We prepared ourselves for the long journey ahead.",
+      "soundmark": "/ɑr'sɛlvz/",
+      "posTags": [[2, 2, "代词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "out",
+      "chinese": "她打开手提箱，拿出一双鞋。",
+      "english": "She opened her suitcase and took out a pair of shoes.",
+      "soundmark": "/aʊt/",
+      "posTags": [[6, 6, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "宾语", "NP"],
+        [6, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "outdoor",
+      "chinese": "一个规模庞大的露天市场",
+      "english": "a huge outdoor market",
+      "soundmark": "/'aʊt'dɔr/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "outdoors",
+      "chinese": "今晚很暖和，可以在户外用餐。",
+      "english": "It’s warm enough to eat outdoors tonight.",
+      "soundmark": "/'aʊt'dɔrz/",
+      "posTags": [[5, 5, "副词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "outer",
+      "chinese": "烹煮之前先把外面的老叶子去掉。",
+      "english": "Remove the tough outer leaves before cooking.",
+      "soundmark": "/'aʊtɚ/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 4, "宾语", "NP"],
+        [5, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "outlet",
+      "chinese": "污水排放口",
+      "english": "a waste water outlet",
+      "soundmark": "/'aʊtlɛt/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "outlook",
+      "chinese": "运动将会改善你的外在形象和人生态度。",
+      "english": "Exercise will improve your looks and your outlook.",
+      "soundmark": "/'aʊtlʊk/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 2, "谓语动词", "VP"],
+        [3, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "output",
+      "chinese": "产量比去年提高了30%。",
+      "english": "Output is up 30% on last year.",
+      "soundmark": "/'aʊtpʊt/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "outset",
+      "chinese": "从一开始就很清楚会有问题出现的。",
+      "english": "It was clear from the outset that there were going to be problems.",
+      "soundmark": "/'aʊtsɛt/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "outside",
+      "chinese": "…该建筑物的外部。",
+      "english": "...the outside of the building.",
+      "soundmark": "/,aʊt'saɪd/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "outskirt",
+      "chinese": "绵阳南郊机场位于绵阳南部郊区，有航班开往北京，上海和广州。",
+      "english": "Mianyang Nanjiao Airport is seated in southern outskirt of Minayang city proper, operating flights to Beijing, Shanghai and Guangzhou.",
+      "soundmark": "/'aʊt,skɝt /",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "系动词", "VP"],
+        [5, 18, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "outstanding",
+      "chinese": "13世纪城堡的杰出典范",
+      "english": "an outstanding example of a 13th-century castle",
+      "soundmark": "/'aʊt'stændɪŋ/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 6, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "outward",
+      "chinese": "该地区的经济和面貌发生了很大的变化。",
+      "english": "The economy and outward appearance of the area have changed considerably.",
+      "soundmark": "/'aʊtwɚd/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 7, "主语", "NP"],
+        [8, 9, "谓语动词", "VP"],
+        [10, 10, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "outwards",
+      "chinese": "这门是朝外开的。",
+      "english": "The door opens outwards.",
+      "soundmark": "/'aʊtwɚdz/",
+      "posTags": [[3, 3, "副词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "oven",
+      "chinese": "把烤箱预热至200摄氏度。",
+      "english": "Preheat the oven to 200 degrees C.",
+      "soundmark": "/'ʌvn/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 6, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "over",
+      "chinese": "一盏灯悬挂在桌子上方。",
+      "english": "A lamp hung over the table.",
+      "soundmark": "/'ovɚ/",
+      "posTags": [[3, 3, "介词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "overall",
+      "chinese": "展览会的全部费用是40万英镑。",
+      "english": "The overall cost of the exhibition was £400,000.",
+      "soundmark": "/,ovə'rɔl/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 6, "系动词", "VP"],
+        [7, 7, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "overcoat",
+      "chinese": "给她买那件大衣，我花了400镑。",
+      "english": "I sprang 400 pounds for  her overcoat.",
+      "soundmark": "/'ovɚkot/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [[0, 6, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "overhead",
+      "chinese": "鞭炮在头顶上空噼啪地爆响。",
+      "english": "The fireworks cracked overhead.",
+      "soundmark": "",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "overnight",
+      "chinese": "他一夜之间就成了百万富翁。",
+      "english": "He became a millionaire overnight.",
+      "soundmark": "/'ovənaɪt/",
+      "posTags": [[4, 4, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 4, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "overseas",
+      "chinese": "克里斯要去国外工作。",
+      "english": "Chris is going to work overseas.",
+      "soundmark": "/,ovɚ'siz/",
+      "posTags": [[5, 5, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 4, "系动词", "VP"],
+        [5, 5, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "overtime",
+      "chinese": "公司想要剥夺他的超时加班费。",
+      "english": "The firm wanted to chisel him out of his overtime pay.",
+      "soundmark": "/,ovə'taɪm/",
+      "posTags": [[9, 9, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"],
+        [6, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "owe",
+      "chinese": "我该付你多少钱？",
+      "english": "How much do I owe you (= often used to show that you want to pay for something )?",
+      "soundmark": "/o/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [[0, 18, "疑问句", "Question"]]
+    }
+  ]
+}

@@ -1,0 +1,567 @@
+{
+  "title": "Unit 03: 四级核心词汇（boost ~ compensation）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "boost",
+      "chinese": "这会推动经济发展并带给我们所需要的推动力。",
+      "english": "It would get the economy going and give us the boost that we need.",
+      "soundmark": "/bʊst/",
+      "posTags": [[10, 10, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 13, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "bother",
+      "chinese": "这里有这么多好地方，干吗还要费事去国外？",
+      "english": "Why bother to go abroad, when there are so many nice places here?",
+      "soundmark": "/ˈbɑːðər/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [[0, 12, "疑问句", "Question"]]
+    },
+    {
+      "word": "broad",
+      "chinese": "我们走在一条宽阔的走廊上。",
+      "english": "We went along a broad passage.",
+      "soundmark": "/brɔːd/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "budget",
+      "chinese": "我们的预算很紧。",
+      "english": "We had a really tight budget.",
+      "soundmark": "/'bʌdʒɪt/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "burden",
+      "chinese": "家庭责任已开始成为他的负担。",
+      "english": "His family responsibilities had started to become a burden.",
+      "soundmark": "/ˈbɜːrdn/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 6, "谓语动词", "VP"],
+        [7, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "bureau",
+      "chinese": "联邦调查局",
+      "english": "the Federal Bureau of Investigation",
+      "soundmark": "/ˈbjʊroʊ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "calculate",
+      "chinese": "这些仪器计算距离非常精确。",
+      "english": "These instruments calculate distances precisely.",
+      "soundmark": "/ˈkælkjuleɪt/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "campaign",
+      "chinese": "琼斯的活动搞得很成功。",
+      "english": "Jones ran a good campaign.",
+      "soundmark": "/kæmˈpeɪn/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "cancel",
+      "chinese": "我们的航班取消了。",
+      "english": "Our flight was cancelled.",
+      "soundmark": "/'kænsl/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"]
+      ]
+    },
+    {
+      "word": "candidate",
+      "chinese": "总统候选人",
+      "english": "a presidential candidate",
+      "soundmark": "/ˈkændɪdət/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "canteen",
+      "chinese": "伦尼已在食堂吃过晚饭。",
+      "english": "Rennie had eaten his supper in the canteen.",
+      "soundmark": "/kænˈtiːn/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "capable",
+      "chinese": "我认为他没有能力杀人。",
+      "english": "I don’t think he’s capable of murder.",
+      "soundmark": "/ˈkeɪpəbl/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "caregiver",
+      "chinese": "除了要践行传统的照料者和主妇角色，许多东正教女性也要承担起养家的责任以便她们的丈夫可以全身心进行宗教研究。",
+      "english": "In addition to fulfilling the traditional roles of caregiver and homemaker, many Orthodox women also assume the role of primary breadwinner so their husbands can pursue religious studies full time.",
+      "soundmark": "/ˈkeərɡɪvər/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 6, "宾语", "NP"],
+        [7, 29, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "careless",
+      "chinese": "他忘了锁门，真是粗心大意。",
+      "english": "It was careless of him to leave the door unlocked.",
+      "soundmark": "/ˈkeərləs/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 2, "表语", "NP"],
+        [3, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "casual",
+      "chinese": "漫不经心的态度",
+      "english": "a casual manner",
+      "soundmark": "/'kæʒʊəl/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "catalogue",
+      "chinese": "一直没有系统地为这些手稿编过目录。",
+      "english": "The manuscripts have never been systematically catalogued.",
+      "soundmark": "/ˈkætəlɒɡ/",
+      "posTags": [[6, 6, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "caution",
+      "chinese": "医师在开抗抑郁药处方时必须谨慎。",
+      "english": "The physician must exercise caution when prescribing antidepressants.",
+      "soundmark": "/ˈkɔːʃən/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "谓语动词", "VP"],
+        [5, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "cautious",
+      "chinese": "一位谨慎的司机",
+      "english": "a cautious driver",
+      "soundmark": "/ˈkɔːʃəs/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "ceremony",
+      "chinese": "婚礼",
+      "english": "a wedding ceremony",
+      "soundmark": "/ˈserəməni/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "challenge",
+      "chinese": "他们激将他，说他不可能在1小时内擦洗40辆汽车。",
+      "english": "They threw down the challenge that he couldn’t wash 40 cars in one hour (= invited him to try to do it ) .",
+      "soundmark": "/ˈtʃælɪndʒ/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 10, "宾语", "NP"],
+        [11, 23, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "chap",
+      "chinese": "一个正派的小伙子",
+      "english": "a decent sort of chap",
+      "soundmark": "/tʃæp/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "character",
+      "chinese": "一座毫无生气的购物中心对面就是少有的几个别具特色的建筑物之一：市政厅。",
+      "english": "A soulless shopping centre stands across from one of the few buildings with character, the town hall.",
+      "soundmark": "/ˈkærəktər/",
+      "posTags": [[13, 13, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "谓语动词", "VP"],
+        [5, 16, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "characterize",
+      "chinese": "明亮的色彩是他绘画作品的特点。",
+      "english": "Bright colours characterize his paintings.",
+      "soundmark": "/ˈkærəktəraɪz/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "charity",
+      "chinese": "有几家慈善机构已向洪灾灾民送去了救援物资。",
+      "english": "Several charities sent aid to the flood victims.",
+      "soundmark": "/ˈtʃærəti/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "cheek",
+      "chinese": "露西伸长了脖子去亲吻他的脸颊。",
+      "english": "Lucy stretched up to kiss his cheek.",
+      "soundmark": "/tʃiːk/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "chef",
+      "chinese": "手艺高超的厨师长",
+      "english": "a master chef",
+      "soundmark": "/ʃef/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "chemical",
+      "chinese": "漂白剂的化学成分",
+      "english": "the chemical composition of bleach",
+      "soundmark": "/ˈkemɪkl/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "choke",
+      "chinese": "六人被烟呛死。",
+      "english": "Six people choked to death on the fumes.",
+      "soundmark": "/tʃoʊk/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 4, "宾语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "circumstance",
+      "chinese": "他是客观环境的牺牲品。",
+      "english": "He was a victim of circumstance .",
+      "soundmark": "/ˈsɜːrkəmstæns/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 3, "表语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "cite",
+      "chinese": "法官在她的判决中引用了1956年最高法院的一项裁决。",
+      "english": "The judge cited a 1956 Supreme Court ruling in her decision.",
+      "soundmark": "/saɪt/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 7, "宾语", "NP"],
+        [8, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "citizen",
+      "chinese": "我们需要学校把学生培养为好公民。",
+      "english": "We need our schools to teach students to be good citizens.",
+      "soundmark": "/ˈsɪtɪzn/",
+      "posTags": [[10, 10, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "civilian",
+      "chinese": "许多无辜的平民在战争中丧生。",
+      "english": "Many innocent civilians were killed during the war.",
+      "soundmark": "/səˈvɪlɪən/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "系动词", "VP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "civilized",
+      "chinese": "文明社会不应该有这种事情发生。",
+      "english": "Such things should not happen in a civilized society.",
+      "soundmark": "/ˈsɪvəlaɪzd/",
+      "posTags": [[7, 7, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "谓语动词", "VP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "classify",
+      "chinese": "我们把德拉布尔的小说归类为“言情小说”。",
+      "english": "We’d classify Drabble’s novels under ‘Romance’.",
+      "soundmark": "/ˈklæsɪfaɪ/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "classification",
+      "chinese": "葡萄酒按品质的分类",
+      "english": "the classification of wines according to quality",
+      "soundmark": "/ˌklæsɪfɪˈkeɪʃən/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 5, "谓语动词", "VP"],
+        [6, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "client",
+      "chinese": "与一位重要客户的会面",
+      "english": "a meeting with an important client",
+      "soundmark": "/ˈklaɪənt/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "clinic",
+      "chinese": "门诊预约",
+      "english": "an appointment at an outpatient clinic",
+      "soundmark": "/ˈklɪnɪk/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "clumsy",
+      "chinese": "一名笨手笨脚的服务员把葡萄酒洒得她新裙子上到处都是。",
+      "english": "A clumsy waiter spilled wine all over her new skirt.",
+      "soundmark": "/ˈklʌmzi/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"],
+        [6, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "coach",
+      "chinese": "网球教练",
+      "english": "a tennis coach",
+      "soundmark": "/koʊtʃ/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "colleague",
+      "chinese": "我在银行的一位同事",
+      "english": "a colleague of mine from the bank",
+      "soundmark": "/ˈkɑːliːɡ/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 6, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "collision",
+      "chinese": "他们正往机场赶路的时候，其货车和一辆小汽车相撞了。",
+      "english": "They were on their way to the airport when their van was involved in a collision with a car.",
+      "soundmark": "/kəˈlɪʒən/",
+      "posTags": [[15, 15, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 18, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "combine",
+      "chinese": "节食和锻炼相结合是最有效的。",
+      "english": "Diets are most effective when combined with exercise.",
+      "soundmark": "/kəmˈbaɪn/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 5, "表语", "NP"],
+        [6, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "comment",
+      "chinese": "他因谩骂裁判而被罚款。",
+      "english": "He was fined for making abusive comments to the referee.",
+      "soundmark": "/ˈkɑːment/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "commit",
+      "chinese": "女性犯罪比男性少。",
+      "english": "Women commit fewer crimes than men.",
+      "soundmark": "/kəˈmɪt/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "commitment",
+      "chinese": "你是否准备好作出长久的承诺？",
+      "english": "Are you ready to make a long-term commitment ?",
+      "soundmark": "/kəˈmɪtmənt/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [[0, 8, "疑问句", "Question"]]
+    },
+    {
+      "word": "committee",
+      "chinese": "委员会会议",
+      "english": "a committee meeting",
+      "soundmark": "/kəˈmɪti/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "compare",
+      "chinese": "这份报告比较了市场上不同类型的家用计算机。",
+      "english": "The report compares the different types of home computer available.",
+      "soundmark": "/kəmˈpeər/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"],
+        [6, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "compel",
+      "chinese": "…强制骑车人戴头盔的法律的引入。",
+      "english": "...the introduction of legislation to compel cyclists to wear a helmet.",
+      "soundmark": "/kəmˈpel/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "谓语动词", "VP"],
+        [6, 6, "宾语", "NP"],
+        [7, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "compensate",
+      "chinese": "因为我左眼视力差，右眼就要辛苦点来弥补一下。",
+      "english": "Because my left eye is so weak, my right eye has to work harder to compensate.",
+      "soundmark": "/ˈkɑːmpenseɪt/",
+      "posTags": [[15, 15, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 10, "宾语", "NP"],
+        [11, 15, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "compensation",
+      "chinese": "被误抓的人有可能得到补偿费。",
+      "english": "People who are wrongly arrested may be paid compensation .",
+      "soundmark": "/ˌkɑːmpenˈseɪʃən/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 7, "谓语动词", "VP"],
+        [8, 9, "宾语", "NP"]
+      ]
+    }
+  ]
+}

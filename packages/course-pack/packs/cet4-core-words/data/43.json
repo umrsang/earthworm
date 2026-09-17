@@ -1,0 +1,569 @@
+{
+  "title": "Unit 43: 四级核心词汇（enclose ~ exam）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "enclose",
+      "chinese": "请随订单附上支票。",
+      "english": "Please enclose a cheque with your order.",
+      "soundmark": "/ɪn'kloz/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [[0, 6, "祈使句式", "Imperative"]]
+    },
+    {
+      "word": "encounter",
+      "chinese": "那位医生过去曾碰到过好几个类似病例。",
+      "english": "The doctor had encountered several similar cases in the past.",
+      "soundmark": "/ɪn'kaʊntɚ/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 6, "宾语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "end",
+      "chinese": "他的眼镜架在鼻尖上。",
+      "english": "He wore spectacles perched on the very end of his nose.",
+      "soundmark": "/ɛnd/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "ending",
+      "chinese": "动名词以-ing结尾。",
+      "english": "Verbal nouns have the ending -ing.",
+      "soundmark": "/'ɛndɪŋ/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "endless",
+      "chinese": "川流不息的游客",
+      "english": "an endless stream of visitors",
+      "soundmark": "/'ɛndləs/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "enemy",
+      "chinese": "与她为敌很危险。",
+      "english": "She’s a dangerous enemy to have.",
+      "soundmark": "/'ɛnəmi/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "energy",
+      "chinese": "水是利用太阳能加热的。",
+      "english": "The water is heated using energy from the sun.",
+      "soundmark": "/'ɛnɚdʒi/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 4, "谓语动词", "VP"],
+        [5, 5, "宾语", "NP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "enforce",
+      "chinese": "停车限制将会严格执行。",
+      "english": "Parking restrictions will be strictly enforced.",
+      "soundmark": "/ɪn'fɔrs/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "engineer",
+      "chinese": "他接受过土木工程师培训。",
+      "english": "He trained as a civil engineer (= one who designs and builds roads, bridges etc ).",
+      "soundmark": "/,ɛndʒɪ'nɪr/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 15, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "engineering",
+      "chinese": "他们的发明有助于电气工程学的发展。",
+      "english": "Their inventions have contributed to the development of electrical engineering.",
+      "soundmark": "/'ɛndʒə'nɪrɪŋ/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "谓语动词", "VP"],
+        [5, 6, "宾语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "English",
+      "chinese": "你会说英语吗？",
+      "english": "Do you speak English?",
+      "soundmark": "/ɪŋɡlɪʃ/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 3, "疑问句", "Question"]]
+    },
+    {
+      "word": "Englishman",
+      "chinese": "他是在场的唯一一名英国人。",
+      "english": "He was the only Englishman present.",
+      "soundmark": "/'iŋɡliʃmən/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 5, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "enjoy",
+      "chinese": "桑德拉很喜欢她在城里的这份工作。",
+      "english": "Sandra enjoys her job in the city.",
+      "soundmark": "/ɪn'dʒɔɪ/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [[0, 6, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "enlarge",
+      "chinese": "她的丰胸手术",
+      "english": "an operation to enlarge her breasts",
+      "soundmark": "/ɪn'lɑrdʒ/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "enough",
+      "chinese": "她的失踪和死亡将提供足够的证据证明查尔斯有罪。",
+      "english": "Her disappearance and death would give proof enough of Charles' guilt.",
+      "soundmark": "/ɪ'nʌf/",
+      "posTags": [[7, 7, "形容词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 5, "谓语动词", "VP"],
+        [6, 7, "宾语", "NP"],
+        [8, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "enter",
+      "chinese": "他参加竞选时显然最有希望获胜。",
+      "english": "He entered the election as the clear favourite.",
+      "soundmark": "/'ɛntɚ/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "entertain",
+      "chinese": "我们招待客人时通常都是马克下厨。",
+      "english": "Mark usually does the cooking when we entertain.",
+      "soundmark": "/,ɛntɚ'ten/",
+      "posTags": [[7, 7, "动词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "enthusiasm",
+      "chinese": "吉利恩和达伦非常热情地接待了演讲者。",
+      "english": "Gillian and Darren greeted the speakers with great enthusiasm.",
+      "soundmark": "/ɪn'θuzɪæzəm/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "enthusiastic",
+      "chinese": "改革的热心支持者",
+      "english": "an enthusiastic supporter of reform",
+      "soundmark": "/ɪn,θuzɪ'æstɪk/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "entire",
+      "chinese": "那是我一生中最糟糕的一天。",
+      "english": "It was the worst day in my entire life.",
+      "soundmark": "/ɪn'taɪɚ/",
+      "posTags": [[7, 7, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 4, "表语", "NP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "entrance",
+      "chinese": "车站的入口处",
+      "english": "the station entrance",
+      "soundmark": "/'ɛntrəns/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "entry",
+      "chinese": "没有强行闯入的迹象。",
+      "english": "There was no sign of a forced entry.",
+      "soundmark": "/'ɛntri/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 3, "表语", "NP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "envelope",
+      "chinese": "信封和邮票",
+      "english": "envelopes and stamps",
+      "soundmark": "/'envələʊp; 'ɒn-/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "environment",
+      "chinese": "这些化学品中有些对环境非常有害。",
+      "english": "Some of these chemicals are very damaging to the environment.",
+      "soundmark": "/ɪn'vaɪrənmənt/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "系动词", "VP"],
+        [5, 6, "表语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "envy",
+      "chinese": "我真是羡慕你和伊恩，你俩在一起看起来多幸福。",
+      "english": "I really envy you and Ian, you seem so happy together.",
+      "soundmark": "/'ɛnvi/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 10, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "equation",
+      "chinese": "在方程式2x+1=7中，x的值为多少？",
+      "english": "In the equation 2x + 1 = 7, what is x?",
+      "soundmark": "/ɪ'kweʒn/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 10, "疑问句", "Question"]]
+    },
+    {
+      "word": "equip",
+      "chinese": "他们尽量给他们的车辆配备各种小装置以应付任何可能的突发状况。",
+      "english": "They try to equip their vehicles with gadgets to deal with every possible contingency.",
+      "soundmark": "/ɪ'kwɪp/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"],
+        [6, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "equipment",
+      "chinese": "出售露营装备的商店",
+      "english": "a shop selling camping equipment",
+      "soundmark": "/ɪ'kwɪpmənt/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "erect",
+      "chinese": "一座气势宏伟的市政厅，建于1892年",
+      "english": "an imposing town hall, erected in 1892",
+      "soundmark": "/ɪ'rɛkt/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "error",
+      "chinese": "出错信息",
+      "english": "an error message",
+      "soundmark": "/'ɛrɚ/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "escape",
+      "chinese": "如果系统过热，排放口可使蒸汽逸出。",
+      "english": "Vents allow any steam to escape if the system overheats.",
+      "soundmark": "/ɪˈskep/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "especially",
+      "chinese": "我向来不喜欢长距离散步，尤其在冬天。",
+      "english": "I never liked long walks, especially in winter.",
+      "soundmark": "/ɪ'spɛʃəli/",
+      "posTags": [[5, 5, "副词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "谓语动词", "VP"],
+        [5, 5, "宾语", "NP"],
+        [6, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "establishment",
+      "chinese": "1980年地区政府的成立并没有结束恐怖主义。",
+      "english": "The establishment of the regional government in 1980 did not end terrorism.",
+      "soundmark": "/ɪ'stæblɪʃmənt/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 7, "主语", "NP"],
+        [8, 10, "谓语动词", "VP"],
+        [11, 11, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "Europe",
+      "chinese": "东欧",
+      "english": "eastern Europe",
+      "soundmark": "/'jʊrəp/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 1, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "European",
+      "chinese": "我们的欧洲伙伴",
+      "english": "our European partners",
+      "soundmark": "/'jʊrə'piən/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "evaporate",
+      "chinese": "大部分的水都蒸发了。",
+      "english": "Most of the water had evaporated.",
+      "soundmark": "/ɪ'væpəret/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "eve",
+      "chinese": "我们将在平安夜到达。",
+      "english": "We’re arriving on Christmas Eve.",
+      "soundmark": "/iːv/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "even",
+      "chinese": "大多数公司的利润都出现下滑，甚至连很大的公司也不例外。",
+      "english": "Most companies have suffered a drop in their profits, even very large companies.",
+      "soundmark": "/'ivən/",
+      "posTags": [[9, 9, "副词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"],
+        [6, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "evening",
+      "chinese": "我学习大都在晚上。",
+      "english": "I do most of my studying in the evening.",
+      "soundmark": "/'ivnɪŋ/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "event",
+      "chinese": "人类历史上最重大的事件之一",
+      "english": "one of the most important events in the history of mankind",
+      "soundmark": "/ɪ'vɛnt/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [[0, 10, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "eventually",
+      "chinese": "他终于逃脱并返回英格兰。",
+      "english": "He eventually escaped and made his way back to England.",
+      "soundmark": "/ɪ'vɛntʃuəli/",
+      "posTags": [[1, 1, "副词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 7, "宾语", "NP"],
+        [8, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "ever",
+      "chinese": "似乎从来没有什么事情会使他烦恼。",
+      "english": "Nothing ever seems to upset him.",
+      "soundmark": "/'ɛvɚ/",
+      "posTags": [[1, 1, "副词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "谓语动词", "VP"],
+        [5, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "every",
+      "chinese": "他说的每句话都会被细查。",
+      "english": "His every utterance will be scrutinized.",
+      "soundmark": "/'ɛvri/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 5, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "everyday",
+      "chinese": "日常生活中的问题",
+      "english": "the problems of everyday life",
+      "soundmark": "/'ɛvrɪde/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "everyone",
+      "chinese": "如果大家都准备好了，我就开始。",
+      "english": "If everyone is ready, I’ll begin.",
+      "soundmark": "/'ɛvrɪwʌn/",
+      "posTags": [[1, 1, "代词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 5, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "everything",
+      "chinese": "所有东西上面都蒙着厚厚一层灰。",
+      "english": "Everything was covered in a thick layer of dust.",
+      "soundmark": "/'ɛvrɪ'θɪŋ/",
+      "posTags": [[0, 0, "代词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "everywhere",
+      "chinese": "我到处都找过了，但就是找不到地图。",
+      "english": "I’ve looked everywhere but I can’t find the map.",
+      "soundmark": "/'ɛvrɪwɛr/",
+      "posTags": [[2, 2, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "exact",
+      "chinese": "警方还在调查这起事故的确切原因。",
+      "english": "Police are still investigating the exact cause of the accident.",
+      "soundmark": "/ɪɡ'zækt/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 6, "表语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "exactly",
+      "chinese": "一分不差，正好5点半。",
+      "english": "It’s exactly half past five.",
+      "soundmark": "/ɪɡ'zæktli/",
+      "posTags": [[1, 1, "副词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "exam",
+      "chinese": "在每一级别结束时都有一次考试。",
+      "english": "At the end of each level, there’s an exam.",
+      "soundmark": "/ɪg'zæm/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 8, "状语修饰", "PP"]
+      ]
+    }
+  ]
+}

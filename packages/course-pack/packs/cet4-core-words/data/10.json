@@ -1,0 +1,570 @@
+{
+  "title": "Unit 10: 四级核心词汇（interconnect ~ misguided）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "interconnect",
+      "chinese": "按照弗洛伊德的理论，性和暴力这两个方面是相互关联的。",
+      "english": "In Freud’s theory, the two areas of sexuality and violence are interconnected.",
+      "soundmark": "/ˌɪntərkəˈnekt/",
+      "posTags": [[11, 11, "动词"]],
+      "syntaxTags": [
+        [0, 9, "主语", "NP"],
+        [10, 11, "系动词", "VP"]
+      ]
+    },
+    {
+      "word": "interdependence",
+      "chinese": "…国家间的相互依赖。",
+      "english": "...the interdependence of nations.",
+      "soundmark": "/ˌɪntərdɪˈpendəns/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "interpret",
+      "chinese": "弗洛伊德对梦的含义的解析",
+      "english": "Freud’s attempts to interpret the meaning of dreams",
+      "soundmark": "/ɪnˈtɜːrprɪt/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"],
+        [6, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "interracial",
+      "chinese": "种族间的通婚",
+      "english": "interracial marriage",
+      "soundmark": "/ˌɪntəˈreɪʃl/",
+      "posTags": [[0, 0, "形容词"]],
+      "syntaxTags": [[0, 1, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "intervention",
+      "chinese": "政府介入控制物价",
+      "english": "government intervention to regulate prices",
+      "soundmark": "/ˌɪntərˈvenʃən/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "interview",
+      "chinese": "在面试时呈递的工作成果样本",
+      "english": "a portfolio of work presented at interview",
+      "soundmark": "/ˈɪntərvjuː/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "谓语动词", "VP"],
+        [5, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "invade",
+      "chinese": "2,000年前古罗马人入侵了英国。",
+      "english": "The Romans invaded Britain 2,000 years ago.",
+      "soundmark": "/ɪnˈveɪd/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "invalid",
+      "chinese": "票上若没有加盖正确日期就是废票。",
+      "english": "Without the right date stamped on it, your ticket will be invalid.",
+      "soundmark": "/ˈɪnvəlɪd/",
+      "posTags": [[11, 11, "形容词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "谓语动词", "VP"],
+        [5, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "invest",
+      "chinese": "我有几千美元想作投资。",
+      "english": "I’ve got a few thousand dollars I’m looking to invest.",
+      "soundmark": "/ɪnˈvest/",
+      "posTags": [[9, 9, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 7, "宾语", "NP"],
+        [8, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "involve",
+      "chinese": "这份工作包括什么？",
+      "english": "What will the job involve?",
+      "soundmark": "/ɪnˈvɑːlv/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [[0, 4, "疑问句", "Question"]]
+    },
+    {
+      "word": "irritate",
+      "chinese": "家里的事情他一点都不帮忙，真让我恼火。",
+      "english": "It really irritates me when he doesn’t help around the house.",
+      "soundmark": "/ˈɪrɪteɪt/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 10, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "issue",
+      "chinese": "西尔瓦发表声明，宣称对此事一无所知。",
+      "english": "Silva issued a statement denying all knowledge of the affair.",
+      "soundmark": "/ˈɪʃuː/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "item",
+      "chinese": "他打开纸板箱把里面的物品一一拿出来。",
+      "english": "He opened the cardboard box and took out each item.",
+      "soundmark": "/ˈaɪtəm/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "joint",
+      "chinese": "两位部长发布了一项联合声明。",
+      "english": "The two ministers have issued a joint statement.",
+      "soundmark": "/dʒɔɪnt/",
+      "posTags": [[6, 6, "形容词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "谓语动词", "VP"],
+        [5, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "keenly",
+      "chinese": "他观察敏锐， 但说得很少。",
+      "english": "He observes keenly but says very little.",
+      "soundmark": "/ˈkiːnli/",
+      "posTags": [[2, 2, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "launch",
+      "chinese": "为了筹集15万美元，该组织发起了一场募捐活动。",
+      "english": "The organization has launched a campaign to raise $150,000.",
+      "soundmark": "/lɔːntʃ/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "laundry",
+      "chinese": "本正在叠洗好的衣服。",
+      "english": "Ben was folding laundry.",
+      "soundmark": "/ˈlɔːndri/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 3, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "legal",
+      "chinese": "公司所做的这一切完全合法。",
+      "english": "What the company has done is perfectly legal.",
+      "soundmark": "/ˈliːɡl/",
+      "posTags": [[7, 7, "形容词"]],
+      "syntaxTags": [[0, 7, "疑问句", "Question"]]
+    },
+    {
+      "word": "leisure",
+      "chinese": "现在大多数人都喜欢工作时间短些，闲暇时间多些。",
+      "english": "Most people now enjoy shorter working hours and more leisure time.",
+      "soundmark": "/ˈliːʒər/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 10, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "lengthy",
+      "chinese": "需要很长一段时间的培训。",
+      "english": "A lengthy period of training is required.",
+      "soundmark": "/ˈleŋθi/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 6, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "liability",
+      "chinese": "因为没有正规的商务体制，你就没有希望限制你的个人责任。",
+      "english": "But without the formal business entity, you have no hope of limiting your personal liability.",
+      "soundmark": "/ˌlaɪəˈbɪləti/",
+      "posTags": [[14, 14, "名词"]],
+      "syntaxTags": [
+        [0, 6, "主语", "NP"],
+        [7, 7, "谓语动词", "VP"],
+        [8, 9, "宾语", "NP"],
+        [10, 14, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "literature",
+      "chinese": "他读过许多重要的文学作品。",
+      "english": "He has read many of the major works of literature.",
+      "soundmark": "/ˈlɪtərətʃər/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "loan",
+      "chinese": "我们得了一笔政府贷款。",
+      "english": "We obtained a loan from the government.",
+      "soundmark": "/loʊn/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "locate",
+      "chinese": "这家商店就在市中心。",
+      "english": "The business is located right in the center of town.",
+      "soundmark": "/loʊˈkeɪt/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 4, "表语", "NP"],
+        [5, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "lodge",
+      "chinese": "一座关押战俘的建筑物",
+      "english": "a building used to lodge prisoners of war",
+      "soundmark": "/lɑːdʒ/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 4, "谓语动词", "VP"],
+        [5, 5, "宾语", "NP"],
+        [6, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "logic",
+      "chinese": "他们对建筑师的选择是有一定道理的。",
+      "english": "There isa certain logicin their choice of architect.",
+      "soundmark": "/ˈlɑːdʒɪk/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 7, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "loyalty",
+      "chinese": "父母离婚过程中孩子两面都要依顺的痛苦",
+      "english": "the agony of divided loyalties (= loyalty to two different or opposing people ) for the children in a divorce",
+      "soundmark": "/ˈlɔɪəlti/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 6, "宾语", "NP"],
+        [7, 19, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "mainstream",
+      "chinese": "热内起初很叛逆，但不久就回归了文学主流。",
+      "english": "Genet started as a rebel, but soon became part of the literary mainstream.",
+      "soundmark": "/ˈmeɪnstriːm/",
+      "posTags": [[12, 12, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 8, "宾语", "NP"],
+        [9, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "maintain",
+      "chinese": "年轻人离开学校以后，职业指导员和他们保持联系。",
+      "english": "Careers Officers maintain contact with young people when they have left school.",
+      "soundmark": "/meɪnˈteɪn/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "major",
+      "chinese": "美国有两大政党。",
+      "english": "There are two major political parties in the US.",
+      "soundmark": "/ˈmeɪdʒər/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 5, "表语", "NP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "majority",
+      "chinese": "工党在上次大选中以巨大的票数优势获胜。",
+      "english": "The Labour Party won a huge majority at the last general election.",
+      "soundmark": "/məˈdʒɔːrəti/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 6, "宾语", "NP"],
+        [7, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "makeup",
+      "chinese": "通常她很少化妆，可今晚显然是个例外。",
+      "english": "Normally she wore little makeup, but this evening was clearly an exception.",
+      "soundmark": "/ˈmeɪkʌp/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 7, "主语", "NP"],
+        [8, 8, "系动词", "VP"],
+        [9, 11, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "malfunction",
+      "chinese": "其中一个引擎的失灵",
+      "english": "a malfunction in one of the engines",
+      "soundmark": "/ˌmælˈfʌŋkʃən/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 6, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "manufacture",
+      "chinese": "生产这种药的公司",
+      "english": "the company that manufactured the drug",
+      "soundmark": "/ˌmænjəˈfæktʃər/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "margin",
+      "chinese": "非洲南部的西隅",
+      "english": "the western margin of southern Africa",
+      "soundmark": "/ˈmɑːrdʒən/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "masculine",
+      "chinese": "这些窗帘很好，但我更喜欢男性化一点的。",
+      "english": "They’re nice curtains, but I’d prefer something a little more masculine.",
+      "soundmark": "/ˈmæskjəlɪn/",
+      "posTags": [[10, 10, "形容词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "谓语动词", "VP"],
+        [6, 10, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "massive",
+      "chinese": "那口钟非常大，有40多吨重。",
+      "english": "The bell is massive, weighing over 40 tons.",
+      "soundmark": "/ˈmæsɪv/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 4, "表语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "matter",
+      "chinese": "我怎么想重要吗？",
+      "english": "Does it matter what I think?",
+      "soundmark": "/ˈmætər/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [[0, 5, "疑问句", "Question"]]
+    },
+    {
+      "word": "maximum",
+      "chinese": "我们可能会要第三个孩子，但这绝对是极限了。",
+      "english": "We might have a third child, but that’s the absolute maximum .",
+      "soundmark": "/ˈmæksəməm/",
+      "posTags": [[10, 10, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 11, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "means",
+      "chinese": "唯一的交流方法是手语。",
+      "english": "The only means of communication was sign language.",
+      "soundmark": "/miːnz/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "measure",
+      "chinese": "她很快就掂出了对手的分量。",
+      "english": "She soon got the measure of her opponent.",
+      "soundmark": "/ˈmeʒər/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "mechanic",
+      "chinese": "汽车修理厂的技工",
+      "english": "a garage mechanic",
+      "soundmark": "/məˈkænɪk/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "mechanism",
+      "chinese": "刹车装置",
+      "english": "the brake mechanism",
+      "soundmark": "/ˈmekənɪzəm/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "merit",
+      "chinese": "这份报告的优点就是它对所要求的变动进行了实事求是的评估。",
+      "english": "The merit of the report is its realistic assessment of the changes required.",
+      "soundmark": "/ˈmerɪt/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "migration",
+      "chinese": "这种迁移不能做什么？",
+      "english": "What does this migration not do?",
+      "soundmark": "/maɪˈɡreɪʃən/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 5, "疑问句", "Question"]]
+    },
+    {
+      "word": "military",
+      "chinese": "军用直升机",
+      "english": "a military helicopter",
+      "soundmark": "/ˈmɪləteri/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "mineral",
+      "chinese": "或者可以训练他们使用杂草作为土壤矿物属性的指示器，从而帮助他们管理营养物质。",
+      "english": "Or they could be trained to use weeds as indicators of the soil's mineral properties to help them manage nutrients.",
+      "soundmark": "/ˈmɪnərəl/",
+      "posTags": [[13, 13, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 5, "谓语动词", "VP"],
+        [6, 9, "宾语", "NP"],
+        [10, 19, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "miscalculation",
+      "chinese": "卡普兰：呃，在海上总会有误算的风险，也有发生事故的风险。",
+      "english": "KAPLAN: Well, there's always the risk of a miscalculation or an accident at sea.",
+      "soundmark": "/ˌmɪskælkjʊˈleɪʃən/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [[0, 13, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "miserable",
+      "chinese": "自从帕特离我而去后，我十分痛苦。",
+      "english": "I’ve been so miserable since Pat left me.",
+      "soundmark": "/ˈmɪzərəbl/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 7, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "misguided",
+      "chinese": "他的父母依然错误地认为他的常识能让他远离大的麻烦。",
+      "english": "His parents still clung to the misguided belief that his common sense would keep him out of serious trouble.",
+      "soundmark": "/ˌmɪsˈɡaɪdɪd/",
+      "posTags": [[6, 6, "形容词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 6, "谓语动词", "VP"],
+        [7, 14, "宾语", "NP"],
+        [15, 18, "状语修饰", "PP"]
+      ]
+    }
+  ]
+}

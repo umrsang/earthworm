@@ -1,0 +1,590 @@
+{
+  "title": "Unit 44: 四级核心词汇（examination ~ faculty）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "examination",
+      "chinese": "考试成绩将于9月公布。",
+      "english": "The examination results will be announced in September.",
+      "soundmark": "/ɪg'zæmə'neʃən/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 5, "谓语动词", "VP"],
+        [6, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "examine",
+      "chinese": "一组潜水员被送到水下检查沉船。",
+      "english": "A team of divers was sent down to examine the wreck.",
+      "soundmark": "/ɪg'zæmɪn/",
+      "posTags": [[8, 8, "动词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 5, "系动词", "VP"],
+        [6, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "example",
+      "chinese": "许多国家，例如墨西哥和日本，经常发生地震。",
+      "english": "Many countries, for example Mexico and Japan, have a lot of earthquakes.",
+      "soundmark": "/ɪg'zæmpl/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 6, "主语", "NP"],
+        [7, 7, "谓语动词", "VP"],
+        [8, 9, "宾语", "NP"],
+        [10, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "exceed",
+      "chinese": "工作时间每周不得超过42小时。",
+      "english": "Working hours must not exceed 42 hours a week.",
+      "soundmark": "/ɪk'sid/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "exceedingly",
+      "chinese": "谢谢，你真是太好了。",
+      "english": "Thank you. You’ve been exceedingly kind.",
+      "soundmark": "/ɪk'sidɪŋli/",
+      "posTags": [[4, 4, "副词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "系动词", "VP"],
+        [4, 5, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "except",
+      "chinese": "除了我以外他们都在那里。",
+      "english": "They were all there except me.",
+      "soundmark": "/ɪk'sɛpt/",
+      "posTags": [[4, 4, "介词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 5, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "excite",
+      "chinese": "他的演奏技巧娴熟，但并不让我激动。",
+      "english": "His playing is technically brilliant, but it doesn’t excite me.",
+      "soundmark": "/ɪk'saɪt/",
+      "posTags": [[8, 8, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 9, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "exciting",
+      "chinese": "激动人心的发现",
+      "english": "an exciting discovery",
+      "soundmark": "/ɪk'saɪtɪŋ/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "exclaim",
+      "chinese": "“不！”她惊呼道。",
+      "english": "‘No!’ she exclaimed in shock.",
+      "soundmark": "/ɪk'sklem/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "exclusively",
+      "chinese": "他们虽不像牧师那样专门做“灵魂方面的工作”，但是肯定比第三群体更注重于建造人类的生命。",
+      "english": "These are not involved as exclusively as ministers in \"soul-work,\" but they certainly cultivate the inner life more than the third group.",
+      "soundmark": "/ɪk'sklʊsɪvli/",
+      "posTags": [[5, 5, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "系动词", "VP"],
+        [4, 7, "表语", "NP"],
+        [8, 21, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "excursion",
+      "chinese": "购物游",
+      "english": "a shopping excursion",
+      "soundmark": "/ɪk'skɝʒn/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "excuse",
+      "chinese": "这次我原谅你，但别再迟到了。",
+      "english": "I’ll excuse you this time, but don’t be late again.",
+      "soundmark": "/ɪk'skjʊs/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 9, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "execute",
+      "chinese": "有13人被游击队员就地处决。",
+      "english": "13 people were summarily executed (= killed without any trial or legal process ) by the guerrillas.",
+      "soundmark": "/'ɛksɪkjut/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 6, "表语", "NP"],
+        [7, 16, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "executive",
+      "chinese": "有执行权的委员会",
+      "english": "a commission with executive powers",
+      "soundmark": "/ɪɡ'zɛkjətɪv/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "exercise",
+      "chinese": "尽量在日常生活中安排一些经常性的锻炼。",
+      "english": "Try to fit some regular exercise into your daily routine.",
+      "soundmark": "/'ɛksɚsaɪz/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"],
+        [6, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "exert",
+      "chinese": "他们在校内施加了很大的影响力。",
+      "english": "They exerted considerable influence within the school.",
+      "soundmark": "/ɪɡ'zɝt/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "exhibit",
+      "chinese": "她的绘画作品在世界各地展出。",
+      "english": "Her paintings have been exhibited all over the world.",
+      "soundmark": "/ɪɡ'zɪbɪt/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "谓语动词", "VP"],
+        [5, 5, "宾语", "NP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "exist",
+      "chinese": "许多国家仍存在包办婚姻的习俗。",
+      "english": "The custom of arranged marriages still exists in many countries.",
+      "soundmark": "/ɪɡ'zɪst/",
+      "posTags": [[6, 6, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 6, "宾语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "existence",
+      "chinese": "关于宇宙的起源，科学家有多种理论。",
+      "english": "Scientists have many theories about how the universe first came into existence (= started to exist ).",
+      "soundmark": "/ɪɡ'zɪstəns/",
+      "posTags": [[11, 11, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 16, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "exit",
+      "chinese": "我们走向最近的出口。",
+      "english": "We made for the nearest exit.",
+      "soundmark": "/'ɛɡzɪt/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "expansion",
+      "chinese": "该产业经历了一轮快速扩张。",
+      "english": "The industry underwent a period of rapid expansion.",
+      "soundmark": "/ɪk'spænʃən/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [[0, 7, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "expect",
+      "chinese": "他没有得到他预想的加薪。",
+      "english": "He didn’t get his expected pay rise.",
+      "soundmark": "/ɪk'spɛkt/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "expense",
+      "chinese": "他借了15万英镑用于支付律师费。",
+      "english": "He borrowed £150,000 and used the money for legal expenses.",
+      "soundmark": "/ɪk'spɛns/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "expensive",
+      "chinese": "城里最贵的餐馆",
+      "english": "the most expensive restaurant in town",
+      "soundmark": "/ɪk'spɛnsɪv/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "experience",
+      "chinese": "我有一些时装设计方面的经验。",
+      "english": "I had some experience in fashion design.",
+      "soundmark": "/ɪk'spɪrɪəns/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "experiment",
+      "chinese": "那些宇航员正在进行一系列实验，以便更多地了解人体如何适应失重状态。",
+      "english": "The astronauts are conducting a series of experiments to learn more about how the body adapts to weightlessness.",
+      "soundmark": "/ɪk'sperɪmənt/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 5, "表语", "NP"],
+        [6, 17, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "experimental",
+      "chinese": "用于实验的动物",
+      "english": "experimental animals",
+      "soundmark": "/ɛk'spɛrɪ'mɛntəl/",
+      "posTags": [[0, 0, "形容词"]],
+      "syntaxTags": [[0, 1, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "explain",
+      "chinese": "他仔细解释了程序。",
+      "english": "He carefully explained the procedure.",
+      "soundmark": "/ɪk'splen/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "explanation",
+      "chinese": "她告诉法庭她将在星期一就控方的决定做出详尽的解释。",
+      "english": "She told the court she would give a full explanation of the prosecution's decision on Monday.",
+      "soundmark": "/,ɛksplə'neʃən/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 9, "宾语", "NP"],
+        [10, 15, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "explode",
+      "chinese": "炸弹投向了陆军巡逻队，但没有爆炸。",
+      "english": "The device was thrown at an army patrol but failed to explode.",
+      "soundmark": "/ɪk'splod/",
+      "posTags": [[11, 11, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 3, "表语", "NP"],
+        [4, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "explosive",
+      "chinese": "…150磅的塞姆汀塑料炸药。",
+      "english": "...one-hundred-and-fifty pounds of Semtex explosive.",
+      "soundmark": "/ɪk'splosɪv; ɪk'splozɪv/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "export",
+      "chinese": "意大利食品已传遍世界。",
+      "english": "Italian food has been exported all over the world.",
+      "soundmark": "/ˈekspɔːrt；ɪkˈ-/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "谓语动词", "VP"],
+        [5, 5, "宾语", "NP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "express",
+      "chinese": "父母对自己孩子的安全表示忧虑。",
+      "english": "Parents have expressed their concerns about their children’s safety.",
+      "soundmark": "/ɪk'sprɛs/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "expression",
+      "chinese": "学生领袖要求得到更多的言论自由。",
+      "english": "Student leaders are demanding greater freedom of expression (= the right to say what you think without being punished ).",
+      "soundmark": "/ɪk'sprɛʃən/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 5, "表语", "NP"],
+        [6, 19, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "extend",
+      "chinese": "管理层已同意延长最后期限。",
+      "english": "Management have agreed to extend the deadline.",
+      "soundmark": "/ɪk'stɛnd/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 4, "谓语动词", "VP"],
+        [5, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "extensive",
+      "chinese": "这栋房子占地面积很大。",
+      "english": "The house stands in extensive grounds.",
+      "soundmark": "/ɪk'stɛnsɪv/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "exterior",
+      "chinese": "外墙需要刷新漆了。",
+      "english": "The exterior walls need a new coat of paint.",
+      "soundmark": "/ɪk'stɪrɪɚ/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 6, "宾语", "NP"],
+        [7, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "external",
+      "chinese": "大楼的外观",
+      "english": "the external appearance of the building",
+      "soundmark": "/ɪk'stɝnl/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "extra",
+      "chinese": "你能多拿一条面包吗？",
+      "english": "Could you get an extra loaf of bread?",
+      "soundmark": "/'ɛkstrə/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [[0, 7, "疑问句", "Question"]]
+    },
+    {
+      "word": "extreme",
+      "chinese": "许多农村地区仍处于赤贫状态。",
+      "english": "Extreme poverty still exists in many rural areas.",
+      "soundmark": "/ɪk'strim/",
+      "posTags": [[0, 0, "形容词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "extremely",
+      "chinese": "地震非常难以预测。",
+      "english": "Earthquakes are extremely difficult to predict.",
+      "soundmark": "/ɪk'strimli/",
+      "posTags": [[2, 2, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 3, "表语", "NP"],
+        [4, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "eye",
+      "chinese": "他有一双漂亮的眼睛。",
+      "english": "He’s got beautiful eyes.",
+      "soundmark": "/aɪ/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "eyesight",
+      "chinese": "他的视力有问题。",
+      "english": "He had a problem with his eyesight.",
+      "soundmark": "/'aɪsaɪt/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "fable",
+      "chinese": "狐狸和乌鸦的寓言故事",
+      "english": "the fable of the fox and the crow",
+      "soundmark": "/'febl/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 6, "主语", "NP"],
+        [7, 7, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "fabric",
+      "chinese": "我们新的织物和墙纸系列",
+      "english": "our new range of fabrics and wallpapers",
+      "soundmark": "/'fæbrɪk/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "face",
+      "chinese": "她面容秀美。",
+      "english": "She had a beautiful face.",
+      "soundmark": "/fes/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "fact",
+      "chinese": "我们之所以决定在哈特尔浦建造博物馆，是因为东北地区没有国家级的博物馆。",
+      "english": "Our decision to build the museum in Hartlepool was influenced by the fact that there were no national museums in the North East.",
+      "soundmark": "/fækt/",
+      "posTags": [[12, 12, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"],
+        [6, 22, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "factor",
+      "chinese": "犯罪率上升主要由社会和经济因素造成。",
+      "english": "The rise in crime is mainly due to social and economic factors.",
+      "soundmark": "/'fæktɚ/",
+      "posTags": [[11, 11, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "系动词", "VP"],
+        [5, 6, "表语", "NP"],
+        [7, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "factory",
+      "chinese": "汽车制造厂",
+      "english": "a car factory",
+      "soundmark": "/'fæktri/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "faculty",
+      "chinese": "工程学院",
+      "english": "the Engineering Faculty",
+      "soundmark": "/'fæklti/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    }
+  ]
+}

@@ -1,0 +1,586 @@
+{
+  "title": "Unit 06: 四级核心词汇（disadvantage ~ endure）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "disadvantage",
+      "chinese": "犯罪行为可能会与经济困难有关。",
+      "english": "Criminal behaviour can be linked to economic disadvantage.",
+      "soundmark": "/ˌdɪsədˈvæntɪdʒ/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 5, "谓语动词", "VP"],
+        [6, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "disappear",
+      "chinese": "小路到这里好像完全消失了。",
+      "english": "At this point the path seemed to disappear altogether (= disappear completely ) .",
+      "soundmark": "/ˌdɪsəˈpɪər/",
+      "posTags": [[7, 7, "动词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 7, "谓语动词", "VP"],
+        [8, 13, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "discharge",
+      "chinese": "与过去相比，现在医院更趋向于让病人早些出院。",
+      "english": "Hospitals now tend to discharge patients earlier than in the past.",
+      "soundmark": "/dɪsˈtʃɑːrdʒ/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "谓语动词", "VP"],
+        [5, 7, "宾语", "NP"],
+        [8, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "discount",
+      "chinese": "它们经常可以以折扣价买到。",
+      "english": "They are often available at a discount.",
+      "soundmark": "/dɪsˈkaʊnt/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 3, "表语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "discover",
+      "chinese": "尸体是在一块田地里找到的。",
+      "english": "The body was discovered in a field.",
+      "soundmark": "/dɪˈskʌvər/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "disorderly",
+      "chinese": "乱七八糟堆在一起的衣服",
+      "english": "clothes left in a disorderly heap",
+      "soundmark": "/dɪsˈɔːrdərli/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "谓语动词", "VP"],
+        [2, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "display",
+      "chinese": "令人目眩神迷的花卉展",
+      "english": "a dazzling display (= very good display ) of flowers",
+      "soundmark": "/dɪˈspleɪ/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 7, "宾语", "NP"],
+        [8, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "dispute",
+      "chinese": "医学的发展使人们更加长寿，这是无可置疑的。",
+      "english": "It is beyond dispute that advances in medicine have enabled people to live longer.",
+      "soundmark": "/dɪˈspjuːt/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 5, "表语", "NP"],
+        [6, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "dissatisfy",
+      "chinese": "更多或另外一些，它们仍然不满足。",
+      "english": "More or other, they still dissatisfy.",
+      "soundmark": "/dɪsˈsætɪsfaɪ/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "distance",
+      "chinese": "量出两点之间的距离。",
+      "english": "Measure the distance between the two points.",
+      "soundmark": "/ˈdɪstəns/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 2, "宾语", "NP"],
+        [3, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "distant",
+      "chinese": "远处的炮火声",
+      "english": "the sound of distant gunfire",
+      "soundmark": "/ˈdɪstənt/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "distinguish",
+      "chinese": "他能辨别是非吗？",
+      "english": "Could he distinguish right from wrong?",
+      "soundmark": "/dɪˈstɪŋɡwɪʃ/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [[0, 5, "疑问句", "Question"]]
+    },
+    {
+      "word": "distinguished",
+      "chinese": "漫长而卓越的职业生涯",
+      "english": "a long and distinguished career",
+      "soundmark": "/dɪˈstɪŋɡwɪʃt/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "distract",
+      "chinese": "尽量不要让其他学生分心。",
+      "english": "Try not to distract the other students.",
+      "soundmark": "/dɪˈstrækt/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 3, "谓语动词", "VP"],
+        [4, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "distracted",
+      "chinese": "她不知为什么显得心不在焉。",
+      "english": "She had seemed curiously distracted.",
+      "soundmark": "/dɪˈstræktɪd/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "distraction",
+      "chinese": "我在图书馆学习，家里分心的事太多。",
+      "english": "I study in the library as there are too many distractions at home.",
+      "soundmark": "/dɪˈstrækʃən/",
+      "posTags": [[10, 10, "名词"]],
+      "syntaxTags": [
+        [0, 6, "主语", "NP"],
+        [7, 7, "系动词", "VP"],
+        [8, 10, "表语", "NP"],
+        [11, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "distribute",
+      "chinese": "一个向路人派发传单的男子",
+      "english": "a man distributing leaflets to passers-by",
+      "soundmark": "/dɪˈstrɪbjuːt/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "district",
+      "chinese": "邮政区",
+      "english": "a postal district",
+      "soundmark": "/ˈdɪstrɪkt/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "diverse",
+      "chinese": "像流行音乐和考古学这样各不相同的学科",
+      "english": "subjects as diverse as pop music and archaeology",
+      "soundmark": "/daɪˈvɜːrs/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "diversity",
+      "chinese": "…拉丁美洲文化的多样性。",
+      "english": "...the cultural diversity of Latin America.",
+      "soundmark": "/daɪˈvɜːrsɪti/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "divide",
+      "chinese": "过去这堵墙把东、西柏林隔开。",
+      "english": "The Wall used to divide East and West Berlin.",
+      "soundmark": "/dɪˈvaɪd/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "谓语动词", "VP"],
+        [5, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "division",
+      "chinese": "电脑维修部",
+      "english": "the Computer Services Division",
+      "soundmark": "/dɪˈvɪʒən/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "document",
+      "chinese": "她为西雅图市区的一家法律事务所撰写法律文件。",
+      "english": "She produces legal documents for a downtown Seattle law firm.",
+      "soundmark": "/ˈdɒkjəmənt/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "dominant",
+      "chinese": "领头的公猩猩是这群大猩猩中体形最大的一个。",
+      "english": "The dominant male gorilla is the largest in the group.",
+      "soundmark": "/ˈdɒmɪnənt/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "系动词", "VP"],
+        [5, 6, "表语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "domination",
+      "chinese": "帝国主义者使用这种思想和文化作为一种杠杆，轻易地实现其统治、征服、侵略以及掠夺他国的目的。",
+      "english": "The imperialists use this ideology and culture as a lever for easily realizing their domination and subjugation, aggression and plunder of other countries.",
+      "soundmark": "/ˌdɒmɪˈneɪʃən/",
+      "posTags": [[14, 14, "名词"]],
+      "syntaxTags": [
+        [0, 11, "主语", "NP"],
+        [12, 12, "谓语动词", "VP"],
+        [13, 19, "宾语", "NP"],
+        [20, 22, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "donation",
+      "chinese": "欧盟基金给予了慷慨的捐款。",
+      "english": "There have been generous donations from EU funds.",
+      "soundmark": "/dəʊˈneɪʃən/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "donate",
+      "chinese": "自愿献血者",
+      "english": "people who volunteer to donate blood",
+      "soundmark": "/dəʊˈneɪt/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "dormitory",
+      "chinese": "她住在一幢大学宿舍楼里。",
+      "english": "She lived in a college dormitory.",
+      "soundmark": "/ˈdɔːrmɪtɔːri/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "download",
+      "chinese": "可以从因特网上免费下载的游戏",
+      "english": "games that can be downloaded free from the Internet",
+      "soundmark": "/ˌdaʊnˈləʊd/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "系动词", "VP"],
+        [5, 5, "表语", "NP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "dropout",
+      "chinese": "中学退学者",
+      "english": "a high school dropout",
+      "soundmark": "/ˈdrɒpaʊt/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "due",
+      "chinese": "下一次的所得税支付期限是1月31日。",
+      "english": "The next income tax payment is due on 31 January.",
+      "soundmark": "/djuː/",
+      "posTags": [[6, 6, "形容词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 6, "宾语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "dump",
+      "chinese": "我们把包扔在附近的格兰德旅馆，急匆匆地向市场赶去。",
+      "english": "We dumped our bags at the nearby Grand Hotel and hurried toward the market.",
+      "soundmark": "/dʌmp/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "durable",
+      "chinese": "木头是耐用材料。",
+      "english": "Wood is a durable material.",
+      "soundmark": "/ˈdjʊərəbl/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 4, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "ease",
+      "chinese": "她过着悠闲自在的生活。",
+      "english": "She lived a life of ease.",
+      "soundmark": "/iːz/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "easygoing",
+      "chinese": "他们认为她会是受人欢迎的，温情的，随和的，而非挑三拣四难以追求的。",
+      "english": "They thought she would be popular, warm and easygoing, but not demanding and difficult.",
+      "soundmark": "/ˌiːziˈɡəʊɪŋ/",
+      "posTags": [[8, 8, "形容词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "谓语动词", "VP"],
+        [5, 13, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "effect",
+      "chinese": "这种毒品的长期影响",
+      "english": "the long-term effects of the drug",
+      "soundmark": "/ɪˈfekt/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "efficiently",
+      "chinese": "这油能有效地起润滑作用。",
+      "english": "This oil lubricates efficiently.",
+      "soundmark": "/ɪˈfɪʃəntli/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "eliminate",
+      "chinese": "铲除所有异己的残酷独裁者",
+      "english": "a ruthless dictator who eliminated all his rivals",
+      "soundmark": "/ɪˈlɪmɪneɪt/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [[0, 7, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "embarrass",
+      "chinese": "他不想提问让她尴尬。",
+      "english": "He didn’t want to embarrass her by asking questions.",
+      "soundmark": "/ɪmˈbærəs/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "embarrassed",
+      "chinese": "我们要是请洛丽唱歌，她就会难为情。",
+      "english": "Lori gets embarrassed if we ask her to sing.",
+      "soundmark": "/ɪmˈbærəst/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 6, "宾语", "NP"],
+        [7, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "embrace",
+      "chinese": "杰克热情拥抱他的儿子。",
+      "english": "Jack warmly embraced his son.",
+      "soundmark": "/ɪmˈbreɪs/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "emergence",
+      "chinese": "今后的每一天都可能出现新的竞争对手。",
+      "english": "The day after that, the emergence of a new competitor.",
+      "soundmark": "/ɪˈmɜːrdʒəns/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [[0, 9, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "emergency",
+      "chinese": "救生员接受过应对紧急情况的训练。",
+      "english": "Lifeguards are trained to deal with emergencies.",
+      "soundmark": "/ɪˈmɜːrdʒənsi/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 4, "系动词", "VP"],
+        [5, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "emission",
+      "chinese": "英国同意减少发电站氮氧化物的排放量。",
+      "english": "Britain agreed to cut emissions of nitrogen oxide from power stations.",
+      "soundmark": "/ɪˈmɪʃən/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 4, "宾语", "NP"],
+        [5, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "emit",
+      "chinese": "水壶发出了刺耳的鸣笛声。",
+      "english": "The kettle emitted a shrill whistle.",
+      "soundmark": "/ɪˈmɪt/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "emotional",
+      "chinese": "在我非常痛苦的时候，她是我的情感支柱。",
+      "english": "She provided emotional support at a very distressing time for me.",
+      "soundmark": "/ɪˈməʊʃənl/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "emphasize",
+      "chinese": "报告强调了改进安全标准的重要性。",
+      "english": "The report emphasizes the importance of improving safety standards.",
+      "soundmark": "/ˈemfəsaɪz/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "encourage",
+      "chinese": "我要感谢每一位鼓励和支持过我的人。",
+      "english": "I want to thank everyone who has encouraged and supported me.",
+      "soundmark": "/ɪnˈkʌrɪdʒ/",
+      "posTags": [[7, 7, "动词"]],
+      "syntaxTags": [
+        [0, 6, "主语", "NP"],
+        [7, 7, "谓语动词", "VP"],
+        [8, 10, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "endurance",
+      "chinese": "她被逼得忍无可忍。",
+      "english": "She was pushed beyond her powers of endurance.",
+      "soundmark": "/ɪnˈdjʊərəns/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 5, "表语", "NP"],
+        [6, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "endure",
+      "chinese": "似乎谁都不可能忍受这样的疼痛。",
+      "english": "It seemed impossible that anyone could endure such pain.",
+      "soundmark": "/ɪnˈdjʊər/",
+      "posTags": [[6, 6, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 8, "宾语", "NP"]
+      ]
+    }
+  ]
+}

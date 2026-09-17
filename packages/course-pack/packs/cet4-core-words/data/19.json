@@ -1,0 +1,594 @@
+{
+  "title": "Unit 19: 四级核心词汇（simplify ~ annoy）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "simplify",
+      "chinese": "简化税制的尝试",
+      "english": "an attempt to simplify the tax system",
+      "soundmark": "/'sɪmplɪfaɪ/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "procedure",
+      "chinese": "在飞机上，我们听了例行的飞行安全讲解。",
+      "english": "On board, we were given the usual talk on safety procedures (= what to do if an accident happens, or to prevent an accident ) .",
+      "soundmark": "/prə'sidʒɚ/",
+      "posTags": [[10, 10, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 7, "宾语", "NP"],
+        [8, 25, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "disservice",
+      "chinese": "他表示，抗议者们的行为正对国家造成危害。",
+      "english": "He said the protesters were doing a disservice to the nation.",
+      "soundmark": "/dɪs'sɝvɪs/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 5, "系动词", "VP"],
+        [6, 7, "表语", "NP"],
+        [8, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "phenomenon",
+      "chinese": "无家可归已不是什么新现象。",
+      "english": "Homelessness is not a new phenomenon .",
+      "soundmark": "/fə'nɑmɪnən/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 6, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "endanger",
+      "chinese": "孕期吸烟会危及胎儿生命。",
+      "english": "Smoking during pregnancy endangers your baby’s life.",
+      "soundmark": "/ɪn'dendʒɚ/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "overwhelming",
+      "chinese": "有难以辩驳的证据表明吸烟有损健康。",
+      "english": "There is overwhelming evidence that smoking damages your health.",
+      "soundmark": "/,ovɚ'wɛlmɪŋ/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 8, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "observe",
+      "chinese": "到目前为止，双方都遵守着停火协定。",
+      "english": "So far the ceasefire has been observed by both sides.",
+      "soundmark": "/əb'zɝv/",
+      "posTags": [[6, 6, "动词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 6, "谓语动词", "VP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "entertainment",
+      "chinese": "该镇提供各式各样的娱乐活动。",
+      "english": "The town provides a wide choice of entertainment.",
+      "soundmark": "/'ɛntɚ'tenmənt/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"],
+        [6, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "optimistic",
+      "chinese": "安德鲁抱有更为乐观的想法。",
+      "english": "Andrew took a more optimistic view.",
+      "soundmark": "/,ɑptɪ'mɪstɪk/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "adversity",
+      "chinese": "他面对逆境的勇气",
+      "english": "his courage in the face of adversity",
+      "soundmark": "/əd'vɝsəti/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [[0, 6, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "misguide",
+      "chinese": "此外，他们将误导那些思想单纯的人，这将导致一个恶心循环。",
+      "english": "In addition, they will also misguide the innocent, which becomes a vicious circle.",
+      "soundmark": "/mɪs'gaɪd/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 12, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "energetic",
+      "chinese": "精力旺盛的男子",
+      "english": "an energetic man",
+      "soundmark": "/,ɛnɚ'dʒɛtɪk/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "unintended",
+      "chinese": "...人类行为无心的结果。",
+      "english": "...the unintended consequences of human action.",
+      "soundmark": "/,ʌnɪn'tɛndɪd/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "setting",
+      "chinese": "我在许多地方教过孩子，主要是在中学。",
+      "english": "I’ve worked with children in various settings, mainly in secondary school.",
+      "soundmark": "/'sɛtɪŋ/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "tempting",
+      "chinese": "一个诱人的工作机会",
+      "english": "a tempting job offer",
+      "soundmark": "/'tɛmptɪŋ/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "interruption",
+      "chinese": "对于执行一个循环中的代码的任务，通常只需为每一个循环迭代检查一次中断。",
+      "english": "For tasks that execute code in a loop, it is common to check for interruption only once per loop iteration.",
+      "soundmark": "/,ɪntə'rʌpʃən/",
+      "posTags": [[14, 14, "名词"]],
+      "syntaxTags": [
+        [0, 8, "主语", "NP"],
+        [9, 9, "系动词", "VP"],
+        [10, 10, "表语", "NP"],
+        [11, 19, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "prescription",
+      "chinese": "我们正努力降低处方药的价格。",
+      "english": "We are trying to cut the price of prescription drugs .",
+      "soundmark": "/prɪ'skrɪpʃən/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 4, "系动词", "VP"],
+        [5, 6, "表语", "NP"],
+        [7, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "paradox",
+      "chinese": "在如此富有的国家却有这么多的贫穷现象，真是矛盾。",
+      "english": "It’s a paradox that in such a rich country there can be so much poverty.",
+      "soundmark": "/'pærədɑks/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 9, "主语", "NP"],
+        [10, 11, "谓语动词", "VP"],
+        [12, 14, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "namely",
+      "chinese": "有三名学生被提到，即约翰、萨拉和西尔维娅。",
+      "english": "Three students were mentioned, namely John, Sarah and Sylvia.",
+      "soundmark": "/'nemli/",
+      "posTags": [[4, 4, "副词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 8, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "undoubtedly",
+      "chinese": "这无疑是重要的。",
+      "english": "This is undoubtedly important.",
+      "soundmark": "/ʌn'daʊtɪdli/",
+      "posTags": [[2, 2, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 3, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "distinctive",
+      "chinese": "音色独特的摇滚乐队",
+      "english": "a rock band with a distinctive sound",
+      "soundmark": "/dɪ'stɪŋktɪv/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [[0, 6, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "retreat",
+      "chinese": "叛乱分子撤退到山区。",
+      "english": "The rebels retreated to the mountains.",
+      "soundmark": "/rɪ'trit/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "entitle",
+      "chinese": "如果保修单有限制，这些条款可让你有权换货或退款。",
+      "english": "If the warranty is limited, the terms may entitle you to a replacement or refund.",
+      "soundmark": "/ɪn'taɪtl/",
+      "posTags": [[8, 8, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "系动词", "VP"],
+        [4, 9, "表语", "NP"],
+        [10, 14, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "fussy",
+      "chinese": "许多小孩子挑食。",
+      "english": "A lot of small children are fussy eaters (= they dislike many types of food ) .",
+      "soundmark": "/'fʌsi/",
+      "posTags": [[6, 6, "形容词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "系动词", "VP"],
+        [6, 12, "表语", "NP"],
+        [13, 16, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "dishwasher",
+      "chinese": "我曾是一名快餐厨师兼洗碗工。",
+      "english": "I was a short-order cook and a dishwasher.",
+      "soundmark": "/'dɪʃwɔʃɚ/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 7, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "forum",
+      "chinese": "理事会成员们一致认为那是一个用于讨论的重要论坛。",
+      "english": "Members of the council agreed that was an important forum for discussion.",
+      "soundmark": "/'fɔrəm/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 9, "宾语", "NP"],
+        [10, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "inadequacy",
+      "chinese": "失业会使人缺乏自信，产生自卑感。",
+      "english": "Unemployment can cause feelings of inadequacy and low self-esteem.",
+      "soundmark": "/ɪn'ædɪkwəsi/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "lobby",
+      "chinese": "宾馆大堂",
+      "english": "a hotel lobby",
+      "soundmark": "/'lɑbi/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "agent",
+      "chinese": "我们在里约热内卢的业务代表处理我们在巴西的全部业务。",
+      "english": "Our agent in Rio deals with all our Brazilian business.",
+      "soundmark": "/'edʒənt/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "convince",
+      "chinese": "她的论点不能说服每个人，但还是引起了一些变化。",
+      "english": "Her arguments didn’t convince everyone, but changes were made.",
+      "soundmark": "/kən'vɪns/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "flexibility",
+      "chinese": "员工们盼望工作安排有弹性。",
+      "english": "Employees expect flexibility in the workplace.",
+      "soundmark": "/,flɛksə'bɪləti/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "plastic",
+      "chinese": "塑料汤匙",
+      "english": "a plastic spoon",
+      "soundmark": "/'plæstɪk/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "frame",
+      "chinese": "他们把画从木镜框中取下来。",
+      "english": "They removed the picture from its wooden frame.",
+      "soundmark": "/frem/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "groundsheet",
+      "chinese": "还有一件事，记得提醒我带一些防潮布之类的东西，否则我们结束的时候会一片狼籍。",
+      "english": "One more thing, remind me to get some kind of groundsheet or we'll end up getting filthy.",
+      "soundmark": "/'graʊnd'ʃit/",
+      "posTags": [[10, 10, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 4, "宾语", "NP"],
+        [5, 16, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "geographic",
+      "chinese": "用户社区和用户的地理分布。",
+      "english": "User community and geographic distribution of users.",
+      "soundmark": "/,dʒiə'ɡræfɪk/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [[0, 6, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "diplomatic",
+      "chinese": "停战的外交努力于10月25日开始。",
+      "english": "Diplomatic efforts to end the fighting began on October 25.",
+      "soundmark": "/,dɪplə'mætɪk/",
+      "posTags": [[0, 0, "形容词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 6, "宾语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "judgement",
+      "chinese": "他相信他的判断。",
+      "english": "He trusted in his judgement.",
+      "soundmark": "/'dʒʌdʒmənt/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "private",
+      "chinese": "莫里斯拥有一架私人喷气式飞机。",
+      "english": "Morris has a private jet.",
+      "soundmark": "/'praɪvət/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "cozy",
+      "chinese": "到火炉这边来会感到舒适一点。",
+      "english": "Come over to the fire and cozy up a bit.",
+      "soundmark": "/'kozi/",
+      "posTags": [[6, 6, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "mill",
+      "chinese": "…一家钢厂。",
+      "english": "...a steel mill.",
+      "soundmark": "/mɪl/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "enable",
+      "chinese": "新的检验使医生能在早期发现该种疾病。",
+      "english": "The new test should enable doctors to detect the disease early.",
+      "soundmark": "/ɪ'nebl/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "谓语动词", "VP"],
+        [5, 5, "宾语", "NP"],
+        [6, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "laborious",
+      "chinese": "把收获的庄稼晒干这一艰苦的工作",
+      "english": "the laborious business of drying the crops",
+      "soundmark": "/lə'bɔrɪəs/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "delight",
+      "chinese": "整个房子，目之所及不停带来惊奇和欣喜。",
+      "english": "Throughout the house, the views are a constant source of surprise and delight.",
+      "soundmark": "/dɪ'laɪt/",
+      "posTags": [[12, 12, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 5, "谓语动词", "VP"],
+        [6, 8, "宾语", "NP"],
+        [9, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "scale",
+      "chinese": "结构检验揭示了实际受损程度。",
+      "english": "A structural survey revealed the full scale of the damage.",
+      "soundmark": "/skel/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 6, "宾语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "amusing",
+      "chinese": "我觉得他的笑话一点都不好笑。",
+      "english": "I don’t find his jokes at all amusing .",
+      "soundmark": "/ə'mjuzɪŋ/",
+      "posTags": [[7, 7, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "panic",
+      "chinese": "她的脸因恐慌而变相了。",
+      "english": "Her face distorted in panic.",
+      "soundmark": "/'pænɪk/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "consciousness",
+      "chinese": "那些痛苦的回忆最终从她的意识中淡去了。",
+      "english": "The painful memories eventually faded from her consciousness.",
+      "soundmark": "/'kɑnʃəsnəs/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "bride",
+      "chinese": "客人们以香槟为新娘新郎敬酒。",
+      "english": "Guests toasted the bride and groom with champagne.",
+      "soundmark": "/braɪd/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "宾语", "NP"],
+        [6, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "absent",
+      "chinese": "他已经两个星期没来了。",
+      "english": "He has been absent from his desk for two weeks.",
+      "soundmark": "/ˈæbsənt/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "annoy",
+      "chinese": "试着把让你心烦的事记下来。",
+      "english": "Try making a note of the things that annoy you.",
+      "soundmark": "/ə'nɔɪ/",
+      "posTags": [[8, 8, "动词"]],
+      "syntaxTags": [
+        [0, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 9, "状语修饰", "PP"]
+      ]
+    }
+  ]
+}

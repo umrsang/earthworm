@@ -1,0 +1,181 @@
+{
+  "title": "代码评审与提交 PR",
+  "description": "掌握 GitHub / GitLab 提 PR、Code Review 评审提问、重构建议与合并分支必备表达。",
+  "data": [
+    {
+      "chinese": "这个拉取请求修复了内存泄漏问题。",
+      "english": "This pull request fixes the memory leak issue.",
+      "soundmark": "/ðɪs pʊl rɪˈkwest ˈfɪksɪz ðə ˈmeməri liːk ˈɪʃuː/",
+      "posTags": [
+        [0, 0, "限定词"],
+        [1, 1, "动词"],
+        [2, 2, "名词"],
+        [3, 3, "动词"],
+        [4, 4, "限定词"],
+        [5, 5, "名词"],
+        [6, 6, "名词"],
+        [7, 7, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 2, "主语短语", "NP"],
+        [3, 7, "主谓宾", "VP"]
+      ]
+    },
+    {
+      "chinese": "你是否能考虑重构一下这个辅助函数？",
+      "english": "Could you consider refactoring this helper function?",
+      "soundmark": "/kʊd juː kənˈsɪdər ˌriːˈfæktərɪŋ ðɪs ˈhelpər ˈfʌŋkʃn/",
+      "posTags": [
+        [0, 0, "情态动词"],
+        [1, 1, "代词"],
+        [2, 2, "动词"],
+        [3, 3, "动词"],
+        [4, 4, "限定词"],
+        [5, 5, "名词"],
+        [6, 6, "名词"]
+      ],
+      "syntaxTags": [[0, 6, "评审建议疑问句", "Question"]]
+    },
+    {
+      "chinese": "所有单元测试和自动化端到端检查都已通过。",
+      "english": "All unit tests and end to end checks passed.",
+      "soundmark": "/ɔːl ˈjuːnɪt tests ænd end tə end tʃeks pɑːst/",
+      "posTags": [
+        [0, 0, "限定词"],
+        [1, 1, "名词"],
+        [2, 2, "名词"],
+        [3, 3, "连词"],
+        [4, 4, "名词"],
+        [5, 5, "介词"],
+        [6, 6, "名词"],
+        [7, 7, "名词"],
+        [8, 8, "动词"]
+      ],
+      "syntaxTags": [
+        [0, 7, "并列主语短语", "NP"],
+        [8, 8, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "chinese": "在这里使用解构赋值会让代码更加简洁。",
+      "english": "Using destructuring here makes the code much cleaner.",
+      "soundmark": "/ˈjuːzɪŋ diːˈstrʌktʃərɪŋ hɪər meɪks ðə kəʊd mʌtʃ ˈkliːnər/",
+      "posTags": [
+        [0, 0, "动词"],
+        [1, 1, "名词"],
+        [2, 2, "副词"],
+        [3, 3, "动词"],
+        [4, 4, "限定词"],
+        [5, 5, "名词"],
+        [6, 6, "副词"],
+        [7, 7, "形容词"]
+      ],
+      "syntaxTags": [
+        [0, 2, "动名词短语作主语", "NP"],
+        [3, 7, "复合谓语结构", "VP"]
+      ]
+    },
+    {
+      "chinese": "我们需要处理这个接口返回空值的边界情况。",
+      "english": "We need to handle the null edge case.",
+      "soundmark": "/wiː niːd tə ˈhændl ðə nʌl edʒ keɪs/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "动词"],
+        [2, 2, "不定式标记"],
+        [3, 3, "动词"],
+        [4, 4, "限定词"],
+        [5, 5, "形容词"],
+        [6, 6, "名词"],
+        [7, 7, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 7, "复合谓宾", "VP"]
+      ]
+    },
+    {
+      "chinese": "请解决合并冲突后再重新请求审查。",
+      "english": "Please resolve the merge conflicts and re-request review.",
+      "soundmark": "/pliːz rɪˈzɒlv ðə mɜːdʒ ˈkɒnflɪkts ænd ˌriː rɪˈkwest rɪˈvjuː/",
+      "posTags": [
+        [0, 0, "副词"],
+        [1, 1, "动词"],
+        [2, 2, "限定词"],
+        [3, 3, "名词"],
+        [4, 4, "名词"],
+        [5, 5, "连词"],
+        [6, 6, "动词"],
+        [7, 7, "名词"]
+      ],
+      "syntaxTags": [[0, 7, "并列祈使句", "Imperative"]]
+    },
+    {
+      "chinese": "逻辑非常严密，代码看起来很棒！",
+      "english": "LGTM, looks good to me!",
+      "soundmark": "/ˌel dʒiː tiː ˈem lʊks ɡʊd tə miː/",
+      "posTags": [
+        [0, 0, "缩写"],
+        [1, 1, "动词"],
+        [2, 2, "形容词"],
+        [3, 3, "介词"],
+        [4, 4, "代词"]
+      ],
+      "syntaxTags": [[0, 4, "社区评审标准缩写", "Formula"]]
+    },
+    {
+      "chinese": "我留下了一条内联评论以供讨论。",
+      "english": "I left an inline comment for discussion.",
+      "soundmark": "/aɪ left ən ˈɪnlaɪn ˈkɒment fɔː dɪˈskʌʃn/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "动词"],
+        [2, 2, "限定词"],
+        [3, 3, "形容词"],
+        [4, 4, "名词"],
+        [5, 5, "介词"],
+        [6, 6, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 6, "主谓宾与状语", "VP"]
+      ]
+    },
+    {
+      "chinese": "这个变更向后兼容现有公开接口吗？",
+      "english": "Is this change backward compatible with our public API?",
+      "soundmark": "/ɪz ðɪs tʃeɪndʒ ˈbækwəd kəmˈpætəbl wɪð ˈaʊər ˈpʌblɪk ˌeɪpiːˈaɪ/",
+      "posTags": [
+        [0, 0, "动词"],
+        [1, 1, "限定词"],
+        [2, 2, "名词"],
+        [3, 3, "副词"],
+        [4, 4, "形容词"],
+        [5, 5, "介词"],
+        [6, 6, "代词"],
+        [7, 7, "形容词"],
+        [8, 8, "名词"]
+      ],
+      "syntaxTags": [[0, 8, "兼容性疑问句", "Question"]]
+    },
+    {
+      "chinese": "我已经采纳了你的修改建议并更新了提交。",
+      "english": "I addressed your feedback and updated the commit.",
+      "soundmark": "/aɪ əˈdrest jɔː ˈfiːdbæk ænd ˌʌpˈdeɪtɪd ðə kəˈmɪt/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "动词"],
+        [2, 2, "代词"],
+        [3, 3, "名词"],
+        [4, 4, "连词"],
+        [5, 5, "动词"],
+        [6, 6, "限定词"],
+        [7, 7, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 7, "并列谓宾结构", "VP"]
+      ]
+    }
+  ]
+}

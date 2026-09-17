@@ -1,0 +1,568 @@
+{
+  "title": "Unit 35: 四级核心词汇（come ~ congratulate）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "come",
+      "chinese": "他们来了就告诉我。",
+      "english": "Let me know when they come.",
+      "soundmark": "/kʌm/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [[0, 5, "祈使句式", "Imperative"]]
+    },
+    {
+      "word": "comfort",
+      "chinese": "我穿衣服只讲舒服，不追求时髦。",
+      "english": "I dress for comfort, not fashion.",
+      "soundmark": "/'kʌmfɚt/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "谓语动词", "VP"],
+        [5, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "comfortable",
+      "chinese": "床上又舒服又暖和，我都不想起来。",
+      "english": "I was so comfortable and warm in bed I didn’t want to get up.",
+      "soundmark": "/'kʌmftəbl/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 5, "表语", "NP"],
+        [6, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "command",
+      "chinese": "他指挥第四营。",
+      "english": "He commands the 4th Battalion.",
+      "soundmark": "/kə'mænd/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "commander",
+      "chinese": "美军指挥官奥蒂斯将军",
+      "english": "the American Commander, General Otis",
+      "soundmark": "/kə'mændɚ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "commerce",
+      "chinese": "促进地方工商业发展的措施",
+      "english": "measures promoting local commerce and industry",
+      "soundmark": "/'kɑmɝs/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 1, "谓语动词", "VP"],
+        [2, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "commercial",
+      "chinese": "我们必须把利润和贸易增长作为我们的第一要务。",
+      "english": "Our top priorities must be profit and commercial growth.",
+      "soundmark": "/kə'mɝʃəl/",
+      "posTags": [[7, 7, "形容词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 5, "谓语动词", "VP"],
+        [6, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "commission",
+      "chinese": "政府成立了一个委员会调查对警察施暴行为的指控。",
+      "english": "The Government set up a commission to investigate allegations of police violence.",
+      "soundmark": "/kə'mɪʃən/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "common",
+      "chinese": "心脏病是最常见的死因之一。",
+      "english": "Heart disease is one of the commonest causes of death.",
+      "soundmark": "/'kɑmən/",
+      "posTags": [[6, 6, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 3, "表语", "NP"],
+        [4, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "commonly",
+      "chinese": "氯化钠通常都称为盐。",
+      "english": "Sodium chloride is more commonly known as salt.",
+      "soundmark": "/'kɑmənli/",
+      "posTags": [[4, 4, "副词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 7, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "communicate",
+      "chinese": "婴儿用哭来表达需要。",
+      "english": "A baby communicates its needs by crying.",
+      "soundmark": "/kə'mjunɪket/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "communication",
+      "chinese": "为期一周的提高沟通技巧的课程",
+      "english": "a week’s course in improving communication skills",
+      "soundmark": "/kə,mjunɪ'keʃən/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "communism",
+      "chinese": "…共产主义在全世界的最终胜利。",
+      "english": "...the ultimate triumph of communism in the world.",
+      "soundmark": "/'kɑmjʊ'nɪzəm/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 7, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "communist",
+      "chinese": "如果没有法国的共产主义者，二战中的抵抗运动可能不会成功。",
+      "english": "Without the communists in France, the resistance might not have succeeded in World War II.",
+      "soundmark": "/'kɑmjənɪst/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 6, "主语", "NP"],
+        [7, 8, "谓语动词", "VP"],
+        [9, 10, "宾语", "NP"],
+        [11, 14, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "community",
+      "chinese": "这座新的艺术中心将为整个社区服务。",
+      "english": "The new arts centre will serve the whole community.",
+      "soundmark": "/kə'mjʊnəti/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 5, "谓语动词", "VP"],
+        [6, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "companion",
+      "chinese": "十年来他一直陪伴她左右。",
+      "english": "For ten years he had been her constant companion .",
+      "soundmark": "/kəm'pænɪən/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 5, "谓语动词", "VP"],
+        [6, 9, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "company",
+      "chinese": "你在哪家公司上班？",
+      "english": "Which company do you work for?",
+      "soundmark": "/'kʌmpəni/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 5, "疑问句", "Question"]]
+    },
+    {
+      "word": "comparative",
+      "chinese": "他穷了一辈子，最后几年还算过得比较舒适。",
+      "english": "After a lifetime of poverty, his last few years were spent in comparable comfort.",
+      "soundmark": "/kəm'pærətɪv/",
+      "posTags": [[0, 0, "形容词"]],
+      "syntaxTags": [
+        [0, 8, "主语", "NP"],
+        [9, 10, "系动词", "VP"],
+        [11, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "comparison",
+      "chinese": "她的画作让人想起早期的印象派作品。",
+      "english": "Her paintings invite comparison with those of the early Impressionists (= they remind you of them ) .",
+      "soundmark": "/kəm'pærɪsn/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 17, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "compass",
+      "chinese": "地图和指南针",
+      "english": "a map and compass",
+      "soundmark": "/'kʌmpəs/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "competition",
+      "chinese": "参加商品交易会是估量竞争规模的理想机会。",
+      "english": "Going to trade fairs is an ideal opportunity to size up the competition .",
+      "soundmark": "/,kɑmpə'tɪʃən/",
+      "posTags": [[12, 12, "名词"]],
+      "syntaxTags": [
+        [0, 2, "谓语动词", "VP"],
+        [3, 7, "宾语", "NP"],
+        [8, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "compile",
+      "chinese": "这份文件是由卫生部汇编的。",
+      "english": "The document was compiled by the Department of Health.",
+      "soundmark": "/kəm'paɪl/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "completely",
+      "chinese": "我完全忘了今天是他的生日。",
+      "english": "I completely forgot that it’s his birthday today.",
+      "soundmark": "/kəm'plitli/",
+      "posTags": [[1, 1, "副词"]],
+      "syntaxTags": [[0, 7, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "complicate",
+      "chinese": "如果所有这些问题的答案都为否，那么使用框架只会把事情变复杂。",
+      "english": "If the answer to all of these questions is no, a framework will only complicate matters.",
+      "soundmark": "",
+      "posTags": [[14, 14, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 4, "宾语", "NP"],
+        [5, 15, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "compose",
+      "chinese": "巴林顿为新版的《仲夏夜之梦》谱了曲。",
+      "english": "Barrington has composed the music for a new production of ‘A Midsummer Night’s Dream’.",
+      "soundmark": "/kəm'poz/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "composition",
+      "chinese": "有些矿物的化学构成很复杂。",
+      "english": "Some minerals have complex chemical compositions.",
+      "soundmark": "/,kɑmpə'zɪʃən/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "compound",
+      "chinese": "人造有机化合物",
+      "english": "man-made organic compounds",
+      "soundmark": "/'kɑmpaʊnd/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "comprehension",
+      "chinese": "你怎么会被她说服去做这种蠢事，我实在是无法理解。",
+      "english": "Why you let her talk you into doing such a foolish thing is beyond my comprehension (= impossible for me to understand ) .",
+      "soundmark": "/,kɑmprɪ'hɛnʃən/",
+      "posTags": [[15, 15, "名词"]],
+      "syntaxTags": [[0, 23, "疑问句", "Question"]]
+    },
+    {
+      "word": "compress",
+      "chinese": "轻质丝绸最适合制作降落伞，因为这种面料便于压缩，而且展开迅速。",
+      "english": "Light silk is best for parachutes, as it compresses well and then expands rapidly.",
+      "soundmark": "/kəm'prɛs/",
+      "posTags": [[8, 8, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 3, "表语", "NP"],
+        [4, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "comprise",
+      "chinese": "这座房子有两间卧室、一间厨房和一间起居室。",
+      "english": "The house comprises two bedrooms, a kitchen, and a living room.",
+      "soundmark": "/kəm'praɪz/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 10, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "compromise",
+      "chinese": "妥协是婚姻生活中必不可少的。",
+      "english": "Compromise is an inevitable part of marriage.",
+      "soundmark": "/'kɑmprəmaɪz/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 4, "表语", "NP"],
+        [5, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "compute",
+      "chinese": "最终的结果还未计算出来。",
+      "english": "Final results had not yet been computed.",
+      "soundmark": "/kəm'pjʊt/",
+      "posTags": [[6, 6, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "computer",
+      "chinese": "巨大的全球计算机网络",
+      "english": "a huge global computer network",
+      "soundmark": "/kəm'pjutɚ/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "comrade",
+      "chinese": "同志们，请支持这项动议。",
+      "english": "Comrades, please support this motion.",
+      "soundmark": "/'kɑmræd/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "conceal",
+      "chinese": "她借着阴影蹑手蹑脚地走向房子。",
+      "english": "The shadows concealed her as she crept up to the house.",
+      "soundmark": "/kən'sil/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 6, "宾语", "NP"],
+        [7, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "concentrate",
+      "chinese": "现在请集中注意力。",
+      "english": "Now please concentrate.",
+      "soundmark": "/'kɑnsn'tret/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "concerning",
+      "chinese": "小孩子打来的有关宠物走失的电话",
+      "english": "calls from young children concerning lost pets",
+      "soundmark": "/kən'sɝnɪŋ/",
+      "posTags": [[4, 4, "介词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "concert",
+      "chinese": "摇滚音乐会",
+      "english": "a rock concert",
+      "soundmark": "/'kɑnsɚt/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "conclude",
+      "chinese": "等到调查结束后，结果会被送到联邦检察官办公室。",
+      "english": "When the investigation is concluded, the results will be sent to the US Attorney’s office.",
+      "soundmark": "/kən'klud/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [[0, 14, "疑问句", "Question"]]
+    },
+    {
+      "word": "condemn",
+      "chinese": "政治家们立即对爆炸事件进行了谴责。",
+      "english": "Politicians were quick to condemn the bombing.",
+      "soundmark": "/kən'dɛm/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 2, "表语", "NP"],
+        [3, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "condense",
+      "chinese": "每个冰冷的表面上凝结的水汽",
+      "english": "the mist which condensed on every cold surface",
+      "soundmark": "/kən'dɛns/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [[0, 7, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "condition",
+      "chinese": "尽管经济形势不佳，利润还是增长了150万英镑。",
+      "english": "Profits increased by £1.5m, despite the difficult economic conditions.",
+      "soundmark": "/kən'dɪʃən/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 1, "谓语动词", "VP"],
+        [2, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "conduct",
+      "chinese": "该参议员的行为正受到道德委员会的调查。",
+      "english": "The Senator’s conduct is being investigated by the Ethics Committee.",
+      "soundmark": "/kən'dʌkt/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 5, "系动词", "VP"],
+        [6, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "conductor",
+      "chinese": "石墨是一种高效的电导体。",
+      "english": "Graphite is a highly efficient conductor of electricity.",
+      "soundmark": "/kən'dʌktɚ/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 5, "表语", "NP"],
+        [6, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "conference",
+      "chinese": "来自一百多个国家的代表出席了在日内瓦举行的国际和平大会。",
+      "english": "Representatives from over 100 countries attended the International Peace Conference in Geneva.",
+      "soundmark": "/'kɑnfərəns/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "谓语动词", "VP"],
+        [6, 9, "宾语", "NP"],
+        [10, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "confess",
+      "chinese": "偶尔人们会承认自己并未犯过的罪行，那只是为了引人注意。",
+      "english": "Occasionally people confess to crimes they haven’t committed just to get attention.",
+      "soundmark": "/kən'fɛs/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 8, "宾语", "NP"],
+        [9, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "confident",
+      "chinese": "菲莉帕虽然有残疾，却很自信。",
+      "english": "Despite her disability, Philippa is very confident.",
+      "soundmark": "/'kɑnfɪdənt/",
+      "posTags": [[6, 6, "形容词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "系动词", "VP"],
+        [5, 6, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "confine",
+      "chinese": "沃恩离不开轮椅。",
+      "english": "Vaughan is confined to a wheelchair .",
+      "soundmark": "/kən'faɪn/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "系动词", "VP"],
+        [4, 6, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "confusion",
+      "chinese": "为了避免混淆，各队穿着不同颜色的服装。",
+      "english": "To avoid confusion, the teams wore different colours.",
+      "soundmark": "/kən'fjʊʒən/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "congratulate",
+      "chinese": "他甚至没有过来向我祝贺。",
+      "english": "He never even stopped to congratulate me.",
+      "soundmark": "/kən'ɡrætʃulet/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 5, "谓语动词", "VP"],
+        [6, 6, "宾语", "NP"]
+      ]
+    }
+  ]
+}

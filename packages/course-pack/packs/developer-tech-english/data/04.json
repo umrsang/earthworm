@@ -1,0 +1,197 @@
+{
+  "title": "敏捷迭代与工期评估",
+  "description": "Sprint 敏捷冲刺规划、故事点估算、需求优先级划分与范围控制表达。",
+  "data": [
+    {
+      "chinese": "我评估这个需求大概需要三个故事点。",
+      "english": "I estimate this feature will take three story points.",
+      "soundmark": "/aɪ ˈestɪmeɪt ðɪs ˈfiːtʃər wɪl teɪk θriː ˈstɔːri pɔɪnts/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "动词"],
+        [2, 2, "限定词"],
+        [3, 3, "名词"],
+        [4, 4, "助动词"],
+        [5, 5, "动词"],
+        [6, 6, "数词"],
+        [7, 7, "名词"],
+        [8, 8, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "主谓", "Clause"],
+        [2, 8, "宾语从句", "Clause"]
+      ]
+    },
+    {
+      "chinese": "这个需求超出了我们当前迭代的交付范围。",
+      "english": "This requirement is out of scope for the current sprint.",
+      "soundmark": "/ðɪs rɪˈkwaɪərmənt ɪz aʊt əv skəʊp fɔː ðə ˈkʌrənt sprɪnt/",
+      "posTags": [
+        [0, 0, "限定词"],
+        [1, 1, "名词"],
+        [2, 2, "动词"],
+        [3, 3, "介词"],
+        [4, 4, "介词"],
+        [5, 5, "名词"],
+        [6, 6, "介词"],
+        [7, 7, "限定词"],
+        [8, 8, "形容词"],
+        [9, 9, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 1, "主语短语", "NP"],
+        [2, 9, "系表与范围限定", "VP"]
+      ]
+    },
+    {
+      "chinese": "我们需要先把遗留的技术债务梳理并排定优先级。",
+      "english": "We must prioritize the accumulated technical debt.",
+      "soundmark": "/wiː mʌst praɪˈɒrətaɪz ði əˈkjuːmjəleɪtɪd ˈteknɪkl det/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "情态动词"],
+        [2, 2, "动词"],
+        [3, 3, "限定词"],
+        [4, 4, "形容词"],
+        [5, 5, "形容词"],
+        [6, 6, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 6, "情态谓宾", "VP"]
+      ]
+    },
+    {
+      "chinese": "这个第三方接口的文档很不清晰，存在不确定性。",
+      "english": "The third party API has a lot of uncertainties.",
+      "soundmark": "/ðə θɜːd ˈpɑːti ˌeɪpiːˈaɪ hæz ə lɒt əv ʌnˈsɜːtntiz/",
+      "posTags": [
+        [0, 0, "限定词"],
+        [1, 1, "形容词"],
+        [2, 2, "名词"],
+        [3, 3, "名词"],
+        [4, 4, "动词"],
+        [5, 5, "限定词"],
+        [6, 6, "名词"],
+        [7, 7, "介词"],
+        [8, 8, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 3, "主语短语", "NP"],
+        [4, 8, "主谓宾", "VP"]
+      ]
+    },
+    {
+      "chinese": "我们能否砍掉这个非核心功能以保证按时上线？",
+      "english": "Can we cut this non-essential feature to meet the deadline?",
+      "soundmark": "/kæn wiː kʌt ðɪs nɒn ɪˈsenʃl ˈfiːtʃər tə miːt ðə ˈdedlaɪn/",
+      "posTags": [
+        [0, 0, "情态动词"],
+        [1, 1, "代词"],
+        [2, 2, "动词"],
+        [3, 3, "限定词"],
+        [4, 4, "形容词"],
+        [5, 5, "名词"],
+        [6, 6, "不定式标记"],
+        [7, 7, "动词"],
+        [8, 8, "限定词"],
+        [9, 9, "名词"]
+      ],
+      "syntaxTags": [[0, 9, "敏捷裁撤范围疑问句", "Question"]]
+    },
+    {
+      "chinese": "让我们在任务看板上把这张卡片拖动到已完成列。",
+      "english": "Let us move this ticket to the done column.",
+      "soundmark": "/let ʌs muːv ðɪs ˈtɪkɪt tə ðə dʌn ˈkɒləm/",
+      "posTags": [
+        [0, 0, "动词"],
+        [1, 1, "代词"],
+        [2, 2, "动词"],
+        [3, 3, "限定词"],
+        [4, 4, "名词"],
+        [5, 5, "介词"],
+        [6, 6, "限定词"],
+        [7, 7, "形容词"],
+        [8, 8, "名词"]
+      ],
+      "syntaxTags": [[0, 8, "看板操作祈使句", "Imperative"]]
+    },
+    {
+      "chinese": "在开始写代码之前我们最好先写一个概念验证原型。",
+      "english": "We should build a proof of concept first.",
+      "soundmark": "/wiː ʃʊd bɪld ə pruːf əv ˈkɒnsept fɜːst/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "情态动词"],
+        [2, 2, "动词"],
+        [3, 3, "限定词"],
+        [4, 4, "名词"],
+        [5, 5, "介词"],
+        [6, 6, "名词"],
+        [7, 7, "副词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 7, "情态谓宾与状语", "VP"]
+      ]
+    },
+    {
+      "chinese": "我们团队在上一个冲刺中完成了四十五个故事点。",
+      "english": "Our team delivered forty-five story points in the last sprint.",
+      "soundmark": "/ˈaʊər tiːm dɪˈlɪvəd ˈfɔːti faɪv ˈstɔːri pɔɪnts ɪn ðə lɑːst sprɪnt/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "名词"],
+        [2, 2, "动词"],
+        [3, 3, "数词"],
+        [4, 4, "名词"],
+        [5, 5, "名词"],
+        [6, 6, "介词"],
+        [7, 7, "限定词"],
+        [8, 8, "形容词"],
+        [9, 9, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 9, "过去时主谓宾", "VP"]
+      ]
+    },
+    {
+      "chinese": "这个任务需要后端与前端两位同学紧密结对配合。",
+      "english": "This task requires close pair programming.",
+      "soundmark": "/ðɪs tɑːsk rɪˈkwaɪərz kləʊs peər ˈprəʊɡræmɪŋ/",
+      "posTags": [
+        [0, 0, "限定词"],
+        [1, 1, "名词"],
+        [2, 2, "动词"],
+        [3, 3, "形容词"],
+        [4, 4, "名词"],
+        [5, 5, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 5, "主谓宾", "VP"]
+      ]
+    },
+    {
+      "chinese": "今天下午三点我们将举行迭代回顾会议。",
+      "english": "We will hold our sprint retrospective at three.",
+      "soundmark": "/wiː wɪl həʊld ˈaʊər sprɪnt ˌretrəˈspektɪv æt θriː/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "助动词"],
+        [2, 2, "动词"],
+        [3, 3, "代词"],
+        [4, 4, "名词"],
+        [5, 5, "名词"],
+        [6, 6, "介词"],
+        [7, 7, "数词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 7, "将来时主谓宾与时间介宾", "VP"]
+      ]
+    }
+  ]
+}

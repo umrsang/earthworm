@@ -1,0 +1,569 @@
+{
+  "title": "Unit 82: 四级核心词汇（wit ~ bulk）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "wit",
+      "chinese": "信息是现成的，等着有头脑的人去获取和利用。",
+      "english": "The information is there and waiting to be accessed by anyone with the wit to use it.",
+      "soundmark": "/wɪt/",
+      "posTags": [[13, 13, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 5, "表语", "NP"],
+        [6, 16, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "withdraw",
+      "chinese": "要求英国退出欧盟的呼声",
+      "english": "calls for Britain to withdraw from the European Union",
+      "soundmark": "/wɪð'drɔ/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "withstand",
+      "chinese": "总理顶住批评，坚持立场。",
+      "english": "The Chancellor has withstood the criticism and held firm.",
+      "soundmark": "/wɪð'stænd/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "wooden",
+      "chinese": "木制长椅",
+      "english": "a wooden bench",
+      "soundmark": "/'wʊdn/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "wool",
+      "chinese": "一团毛线",
+      "english": "a ball of wool",
+      "soundmark": "/wʊl/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "workman",
+      "chinese": "在大学广场工人们正在筑一个钢栅栏。",
+      "english": "In University Square workmen are building a steel fence.",
+      "soundmark": "/'wɝkmən/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 5, "系动词", "VP"],
+        [6, 8, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "workshop",
+      "chinese": "…一个装备普通的车间。",
+      "english": "...a modestly equipped workshop.",
+      "soundmark": "/'wɝkʃɑp/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "worm",
+      "chinese": "…一种使安全软件失灵的新型计算机蠕虫病毒。",
+      "english": "...a new computer worm that disables security software.",
+      "soundmark": "/wɝm/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 7, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "worship",
+      "chinese": "该仪式必须在获得认可的敬拜场所举行。",
+      "english": "The ceremony must take place in a recognized place of worship .",
+      "soundmark": "/'wɝʃɪp/",
+      "posTags": [[10, 10, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 4, "宾语", "NP"],
+        [5, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "worst",
+      "chinese": "这是50年来最严重的一次经济衰退。",
+      "english": "This is the worst recession for fifty years.",
+      "soundmark": "/wɝst/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 4, "表语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "worth",
+      "chinese": "你不应该贬低你自己的价值。",
+      "english": "You should not deprecate your own worth.",
+      "soundmark": "/wɝθ/",
+      "posTags": [[6, 6, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "worthless",
+      "chinese": "这房子里堆满了没有用的东西。",
+      "english": "The house was full of worthless junk.",
+      "soundmark": "/ˈwərthləs/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 3, "表语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "worthy",
+      "chinese": "利兹联队是比赛当之无愧的获胜者。",
+      "english": "Leeds United were worthy winners of the competition.",
+      "soundmark": "/wɜði/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "wound",
+      "chinese": "护士把伤口清洗包扎好。",
+      "english": "A nurse cleaned and bandaged the wound.",
+      "soundmark": "/wund/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "wrap",
+      "chinese": "我还有一些圣诞礼物要包起来。",
+      "english": "I’ve still got a few Christmas presents to wrap up.",
+      "soundmark": "/ræp/",
+      "posTags": [[8, 8, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 6, "宾语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "wreck",
+      "chinese": "…一艘帆船的残骸。",
+      "english": "...the wreck of a sailing ship.",
+      "soundmark": "/rɛk/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "wrist",
+      "chinese": "他为了一个香烟广告攀岩折断了手腕。",
+      "english": "He broke his wrist climbing rocks for a cigarette ad.",
+      "soundmark": "/rɪst/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 5, "宾语", "NP"],
+        [6, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "yard",
+      "chinese": "建筑工地",
+      "english": "a builder’s yard",
+      "soundmark": "/jɑrd/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "yawn",
+      "chinese": "艾伦伸伸懒腰，打了个呵欠。",
+      "english": "Alan stretched and yawned.",
+      "soundmark": "/jɔn/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "yearly",
+      "chinese": "工资水平每年都要审查。",
+      "english": "Salary levels are reviewed on a yearly basis.",
+      "soundmark": "/'jɪrli/",
+      "posTags": [[6, 6, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "youth",
+      "chinese": "他虽然年纪还小，却已独自旅行过了。",
+      "english": "Despite his youth, he had travelled alone.",
+      "soundmark": "/jʊθ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 5, "谓语动词", "VP"],
+        [6, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "zone",
+      "chinese": "旧金山和东京都位于地震带。",
+      "english": "San Francisco and Tokyo are both located in earthquake zones.",
+      "soundmark": "/zon/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "系动词", "VP"],
+        [5, 6, "表语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "salary",
+      "chinese": "教师的平均工资是39,000美元一年。",
+      "english": "The average salary for a teacher is $39,000 a year.",
+      "soundmark": "/'sæləri/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 6, "系动词", "VP"],
+        [7, 9, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "click",
+      "chinese": "门在我身后咔嗒一声关上了。",
+      "english": "The door clicked shut behind me.",
+      "soundmark": "/klɪk/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "temper",
+      "chinese": "皮特一气之下打了他弟弟。",
+      "english": "Pete hit his brother in a fit of temper .",
+      "soundmark": "/'tɛmpɚ/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 6, "谓语动词", "VP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "multicultural",
+      "chinese": "一个多元文化的社会",
+      "english": "a multicultural society",
+      "soundmark": "/'mʌltɪ'kʌltʃərəl/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "concede",
+      "chinese": "“那是唯一可行的解决办法。”“对，我想是。”查尔斯承认道。",
+      "english": "‘That’s the only possible solution.’ ‘Yes, I suppose so,’ Charles conceded.",
+      "soundmark": "/kən'sid/",
+      "posTags": [[10, 10, "动词"]],
+      "syntaxTags": [
+        [0, 6, "主语", "NP"],
+        [7, 7, "谓语动词", "VP"],
+        [8, 10, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "weekly",
+      "chinese": "小组每周见面一次。",
+      "english": "The group meets weekly.",
+      "soundmark": "/'wikli/",
+      "posTags": [[3, 3, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "result",
+      "chinese": "你会如何应付失业及由此造成的收入损失？",
+      "english": "How would you cope with unemployment and the resulting loss of income?",
+      "soundmark": "/rɪ'zʌlt/",
+      "posTags": [[8, 8, "动词"]],
+      "syntaxTags": [[0, 11, "疑问句", "Question"]]
+    },
+    {
+      "word": "sexism",
+      "chinese": "工作场所的性别歧视",
+      "english": "sexism in the workplace",
+      "soundmark": "/'sɛk'sɪzəm/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "editorial",
+      "chinese": "编辑助理",
+      "english": "an editorial assistant",
+      "soundmark": "/,ɛdɪ'tɔrɪəl/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "rebuild",
+      "chinese": "这座教堂在上个世纪全面重建。",
+      "english": "The church was completely rebuilt in the last century.",
+      "soundmark": "/,ri'bɪld/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 4, "表语", "NP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "sunset",
+      "chinese": "壮丽的日落景象",
+      "english": "a glorious sunset",
+      "soundmark": "/'sʌnsɛt/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "dominate",
+      "chinese": "这个行业受五家跨国公司控制。",
+      "english": "The industry is dominated by five multinational companies.",
+      "soundmark": "/'dɑmɪnet/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "provocation",
+      "chinese": "他被指责故意挑衅。",
+      "english": "He was accused of deliberate provocation .",
+      "soundmark": "/,prɑvə'keʃən/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "Christ",
+      "chinese": "耶稣的门徒",
+      "english": "a follower of Christ",
+      "soundmark": "/kraɪst/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "fantasy",
+      "chinese": "我过去常幻想着在巴黎与一位艺术家同住。",
+      "english": "I used to have fantasies about living in Paris with an artist.",
+      "soundmark": "/'fæntəsi/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "frustrate",
+      "chinese": "与生手共事着实让他沮丧。",
+      "english": "The fact that he’s working with amateurs really frustrates him.",
+      "soundmark": "/'frʌstret/",
+      "posTags": [[8, 8, "动词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "rope",
+      "chinese": "他们在我腰间系了一根粗绳子，把我拉了上去。",
+      "english": "They tied a rope around my waist and pulled me up.",
+      "soundmark": "/rop/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 9, "宾语", "NP"],
+        [10, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "provided",
+      "chinese": "只要他付自己的饭钱，就可以跟我们一起来。",
+      "english": "He can come with us, provided he pays for his own meals.",
+      "soundmark": "/prə'vaɪdɪd/",
+      "posTags": [[5, 5, "连词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "wisdom",
+      "chinese": "一个有大智慧的男人",
+      "english": "a man of great wisdom",
+      "soundmark": "/'wɪzdəm/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "umbrella",
+      "chinese": "开始下雨了，所以特里西娅停下来撑起雨伞。",
+      "english": "It started to rain, so Tricia stopped to put up her umbrella.",
+      "soundmark": "/ʌm'brɛlə/",
+      "posTags": [[11, 11, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 6, "宾语", "NP"],
+        [7, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "halfway",
+      "chinese": "他梯子上到了一半。",
+      "english": "He was halfway up the ladder.",
+      "soundmark": "/,hæf'we/",
+      "posTags": [[2, 2, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 2, "表语", "NP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "up-to-date",
+      "chinese": "…今日有关食品的最新消息。",
+      "english": "...the most up-to-date information available on foods today.",
+      "soundmark": "/'ʌptə 'det/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [[0, 7, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "translation",
+      "chinese": "我只读过《包法利夫人》的翻译本。",
+      "english": "I’ve only read ‘Madame Bovary’ in translation (= not in its original language ) .",
+      "soundmark": "/træns'leʃən/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 14, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "bump",
+      "chinese": "屋顶很低，他都碰到头了。",
+      "english": "The roof was so low he bumped his head (=  his head hit the roof  ) .",
+      "soundmark": "/bʌmp/",
+      "posTags": [[6, 6, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 16, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "considering",
+      "chinese": "考虑到对方实力强大，我们能攻进两球已经很不错了。",
+      "english": "Considering the strength of the opposition, we did very well to score two goals.",
+      "soundmark": "/kən'sɪdərɪŋ/",
+      "posTags": [[0, 0, "介词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 2, "宾语", "NP"],
+        [3, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "draught",
+      "chinese": "你把窗户关上好吗？我正对着风口。",
+      "english": "Can you close the window? I’m in a draught .",
+      "soundmark": "/drɑft/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 5, "宾语", "NP"],
+        [6, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "integration",
+      "chinese": "种族融合的问题",
+      "english": "problems of racial integration",
+      "soundmark": "/'ɪntə'greʃən/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "bulk",
+      "chinese": "面团会发酵到原来的两倍大。",
+      "english": "The dough will rise until it is double in bulk.",
+      "soundmark": "/bʌlk/",
+      "posTags": [[9, 9, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 7, "宾语", "NP"],
+        [8, 9, "状语修饰", "PP"]
+      ]
+    }
+  ]
+}

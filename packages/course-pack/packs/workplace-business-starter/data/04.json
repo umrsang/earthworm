@@ -1,0 +1,170 @@
+{
+  "title": "跨部门协作与催办进度",
+  "description": "礼貌跟进外部团队任务、设定明确截止日期、明确接口人并寻求协同支持。",
+  "data": [
+    {
+      "chinese": "只是跟进一下我们昨天的讨论。",
+      "english": "Just following up on our discussion yesterday.",
+      "soundmark": "/dʒʌst ˈfɒləʊɪŋ ʌp ɒn ˈaʊə dɪˈskʌʃn ˈjestədeɪ/",
+      "posTags": [
+        [0, 0, "副词"],
+        [1, 1, "动词"],
+        [2, 2, "副词"],
+        [3, 3, "介词"],
+        [4, 4, "代词"],
+        [5, 5, "名词"],
+        [6, 6, "副词"]
+      ],
+      "syntaxTags": [[0, 6, "省略跟进句", "Sentence"]]
+    },
+    {
+      "chinese": "我们需要在周五前敲定最终定稿。",
+      "english": "We need to finalize this by Friday.",
+      "soundmark": "/wiː niːd tə ˈfaɪnəlaɪz ðɪs baɪ ˈfraɪdeɪ/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "动词"],
+        [2, 2, "不定式标记"],
+        [3, 3, "动词"],
+        [4, 4, "代词"],
+        [5, 5, "介词"],
+        [6, 6, "专有名词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 6, "复合谓语", "VP"]
+      ]
+    },
+    {
+      "chinese": "是否有任何我能提供协助的地方？",
+      "english": "Is there anything I can help with?",
+      "soundmark": "/ɪz ðeə ˈeniθɪŋ aɪ kæn help wɪð/",
+      "posTags": [
+        [0, 0, "动词"],
+        [1, 1, "代词"],
+        [2, 2, "代词"],
+        [3, 3, "代词"],
+        [4, 4, "情态动词"],
+        [5, 5, "动词"],
+        [6, 6, "介词"]
+      ],
+      "syntaxTags": [
+        [0, 2, "There be疑问句", "Question"],
+        [3, 6, "定语从句", "RelativeClause"]
+      ]
+    },
+    {
+      "chinese": "谁是负责这次交付的主要接口人？",
+      "english": "Who is the main point of contact?",
+      "soundmark": "/huː ɪz ðə meɪn pɔɪnt əv ˈkɒntækt/",
+      "posTags": [
+        [0, 0, "疑问代词"],
+        [1, 1, "动词"],
+        [2, 2, "限定词"],
+        [3, 3, "形容词"],
+        [4, 4, "名词"],
+        [5, 5, "介词"],
+        [6, 6, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 6, "特殊疑问句", "Question"]
+      ]
+    },
+    {
+      "chinese": "感谢大家在紧张时间里的通力合作。",
+      "english": "Thank you for the quick turnaround.",
+      "soundmark": "/θæŋk juː fɔː ðə kwɪk ˈtɜːnəraʊnd/",
+      "posTags": [
+        [0, 0, "动词"],
+        [1, 1, "代词"],
+        [2, 2, "介词"],
+        [3, 3, "限定词"],
+        [4, 4, "形容词"],
+        [5, 5, "名词"]
+      ],
+      "syntaxTags": [[0, 5, "固定致谢", "Formula"]]
+    },
+    {
+      "chinese": "请告知我们最新的预期交付时间。",
+      "english": "Please let us know the updated delivery date.",
+      "soundmark": "/pliːz let ʌs nəʊ ðə ˌʌpˈdeɪtɪd dɪˈlɪvəri deɪt/",
+      "posTags": [
+        [0, 0, "副词"],
+        [1, 1, "动词"],
+        [2, 2, "代词"],
+        [3, 3, "动词"],
+        [4, 4, "限定词"],
+        [5, 5, "形容词"],
+        [6, 6, "名词"],
+        [7, 7, "名词"]
+      ],
+      "syntaxTags": [[0, 7, "礼貌催促句", "Imperative"]]
+    },
+    {
+      "chinese": "这项依赖事项对我们的上线至关重要。",
+      "english": "This dependency is critical for our launch.",
+      "soundmark": "/ðɪs dɪˈpendənsi ɪz ˈkrɪtɪkl fɔː ˈaʊə lɔːntʃ/",
+      "posTags": [
+        [0, 0, "限定词"],
+        [1, 1, "名词"],
+        [2, 2, "动词"],
+        [3, 3, "形容词"],
+        [4, 4, "介词"],
+        [5, 5, "代词"],
+        [6, 6, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 6, "系表结构", "VP"]
+      ]
+    },
+    {
+      "chinese": "我们能安排一个十分钟的快速对齐会议吗？",
+      "english": "Can we schedule a quick sync call?",
+      "soundmark": "/kæn wiː ˈʃedjuːl ə kwɪk sɪŋk kɔːl/",
+      "posTags": [
+        [0, 0, "情态动词"],
+        [1, 1, "代词"],
+        [2, 2, "动词"],
+        [3, 3, "限定词"],
+        [4, 4, "形容词"],
+        [5, 5, "名词"],
+        [6, 6, "名词"]
+      ],
+      "syntaxTags": [[0, 6, "预约对齐疑问句", "Question"]]
+    },
+    {
+      "chinese": "如果有任何延期风险，请提前标记。",
+      "english": "Please flag any potential delays early.",
+      "soundmark": "/pliːz flæɡ ˈeni pəˈtenʃl dɪˈleɪz ˈɜːli/",
+      "posTags": [
+        [0, 0, "副词"],
+        [1, 1, "动词"],
+        [2, 2, "限定词"],
+        [3, 3, "形容词"],
+        [4, 4, "名词"],
+        [5, 5, "副词"]
+      ],
+      "syntaxTags": [[0, 5, "风险预警祈使句", "Imperative"]]
+    },
+    {
+      "chinese": "感谢您的全力配合与支持。",
+      "english": "We appreciate your full support on this.",
+      "soundmark": "/wiː əˈpriːʃieɪt jɔː fʊl səˈpɔːt ɒn ðɪs/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "动词"],
+        [2, 2, "代词"],
+        [3, 3, "形容词"],
+        [4, 4, "名词"],
+        [5, 5, "介词"],
+        [6, 6, "代词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 6, "主谓宾与状语", "VP"]
+      ]
+    }
+  ]
+}

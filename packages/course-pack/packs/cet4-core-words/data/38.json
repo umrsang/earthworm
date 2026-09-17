@@ -1,0 +1,556 @@
+{
+  "title": "Unit 38: 四级核心词汇（curtain ~ defence）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "curtain",
+      "chinese": "红色的丝绒窗帘",
+      "english": "red velvet curtains",
+      "soundmark": "/'kɝtn/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "curve",
+      "chinese": "这条曲线显示人均费用。",
+      "english": "The curve illustrates costs per capita.",
+      "soundmark": "/kɝv/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "cushion",
+      "chinese": "天鹅绒垫子",
+      "english": "a velvet cushion",
+      "soundmark": "/'kʊʃən/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "custom",
+      "chinese": "他很早醒来，这是他的习惯。",
+      "english": "He awoke early, as was his custom.",
+      "soundmark": "/'kʌstəm/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "系动词", "VP"],
+        [5, 6, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "customer",
+      "chinese": "我们力求为所有的客户提供物有所值的商品和服务。",
+      "english": "We aim to offer good value and service to all our customers.",
+      "soundmark": "/'kʌstəmɚ/",
+      "posTags": [[11, 11, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 7, "宾语", "NP"],
+        [8, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "cut",
+      "chinese": "为了减少该地区的街头犯罪，他们安装了闭路电视摄像机。",
+      "english": "They’re introducing CCTV cameras in an attempt to cut street crime in the area.",
+      "soundmark": "/kʌt/",
+      "posTags": [[8, 8, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "cycle",
+      "chinese": "女性的月经周期",
+      "english": "a woman’s menstrual cycle",
+      "soundmark": "/'saɪkl/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "daily",
+      "chinese": "每日飞往迈阿密的航班",
+      "english": "daily flights to Miami",
+      "soundmark": "/'delɪ/",
+      "posTags": [[0, 0, "形容词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "dairy",
+      "chinese": "在我小时候，本地的乳品公司向当地农场主收购牛奶。",
+      "english": "In my childhood, local dairies bought milk from local farmers.",
+      "soundmark": "/'dɛri/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 6, "谓语动词", "VP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "dam",
+      "chinese": "大坝建好之前，坎贝尔河常在春季发大水。",
+      "english": "Before the dam was built, Campbell River used to flood in the spring.",
+      "soundmark": "/dæm/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "系动词", "VP"],
+        [5, 7, "表语", "NP"],
+        [8, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "damage",
+      "chinese": "破坏庄稼的昆虫",
+      "english": "insects that damage crops",
+      "soundmark": "/'dæmɪdʒ/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "damp",
+      "chinese": "用湿布擦拭皮面。",
+      "english": "Wipe the leather with a damp cloth.",
+      "soundmark": "/dæmp/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [[0, 6, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "dance",
+      "chinese": "来吧，我们跳舞吧。",
+      "english": "Come on, let’s dance.",
+      "soundmark": "/dæns/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 3, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "danger",
+      "chinese": "危险！船只不可越过此处。",
+      "english": "Danger! No boats beyond this point.",
+      "soundmark": "/'dendʒɚ/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "dangerous",
+      "chinese": "有关危险犬类的法律",
+      "english": "laws about dangerous dogs",
+      "soundmark": "/'dendʒərəs/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "dare",
+      "chinese": "他想问她，但又不敢。",
+      "english": "He wanted to ask her, but he didn’t dare.",
+      "soundmark": "/dɛr/",
+      "posTags": [[8, 8, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "daring",
+      "chinese": "大胆的营救行动",
+      "english": "a daring rescue attempt",
+      "soundmark": "/'dɛrɪŋ/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "dark",
+      "chinese": "教堂里黑魆魆的，寂静无声。",
+      "english": "The church was dark and quiet.",
+      "soundmark": "/dɑrk/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 5, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "darling",
+      "chinese": "看呀，亲爱的，玛丽来了。",
+      "english": "Look, darling, there’s Mary.",
+      "soundmark": "/'dɑrlɪŋ/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "dash",
+      "chinese": "她猛地朝地窖冲过去。",
+      "english": "Suddenly she dashed down to the cellar.",
+      "soundmark": "/dæʃ/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "data",
+      "chinese": "该项研究需要从两个随机样本里收集资料。",
+      "english": "The research involves collecting data from two random samples.",
+      "soundmark": "/'detə/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 4, "宾语", "NP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "date",
+      "chinese": "信上的日期是1962年8月30日。",
+      "english": "The date on the letter was 30th August 1962.",
+      "soundmark": "/det/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "daughter",
+      "chinese": "她有两个女儿和一个儿子。",
+      "english": "She’s got two daughters and one son.",
+      "soundmark": "/'dɔtɚ/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "dawn",
+      "chinese": "清冷的晨曦",
+      "english": "the cold light of dawn",
+      "soundmark": "/dɔn/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "day",
+      "chinese": "她只在白天出门。",
+      "english": "She only leaves her house during the day.",
+      "soundmark": "/de/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "daylight",
+      "chinese": "公园白天对公众开放。",
+      "english": "The park is open to the public during daylight hours .",
+      "soundmark": "/'delaɪt/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "系动词", "VP"],
+        [5, 6, "表语", "NP"],
+        [7, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "dead",
+      "chinese": "她母亲去世十年了。",
+      "english": "Her mother had been dead for ten years.",
+      "soundmark": "/dɛd/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 4, "宾语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "deadly",
+      "chinese": "致命的毒药",
+      "english": "a deadly poison",
+      "soundmark": "/'dɛdli/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "deaf",
+      "chinese": "失聪者和听力正常者之间的交流",
+      "english": "communication between deaf and hearing people",
+      "soundmark": "/dɛf/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "deal",
+      "chinese": "首相向农民保证推行一项新政策。",
+      "english": "The prime minister promised farmers a new deal (= a new and fairer system ) .",
+      "soundmark": "/dil/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 15, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "dear",
+      "chinese": "尊敬的先生或女士，…",
+      "english": "Dear Sir or Madam, ...",
+      "soundmark": "/dɪr/",
+      "posTags": [[0, 0, "形容词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "death",
+      "chinese": "150万人正因饥饿而即将面临死亡的危险。",
+      "english": "1.5 million people are in immediate danger of death from starvation.",
+      "soundmark": "/dɛθ/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "系动词", "VP"],
+        [4, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "debate",
+      "chinese": "美国有关控制枪支的争论",
+      "english": "the gun-control debate in the US",
+      "soundmark": "/dɪ'bet/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "decade",
+      "chinese": "…19世纪的最后10年。",
+      "english": "...the last decade of the nineteenth century.",
+      "soundmark": "/'dɛked/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 6, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "decay",
+      "chinese": "她的尸体已经开始腐烂。",
+      "english": "Her body was already starting to decay.",
+      "soundmark": "/dɪ'ke/",
+      "posTags": [[6, 6, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 4, "表语", "NP"],
+        [5, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "deceit",
+      "chinese": "充满虚伪和欺骗的氛围",
+      "english": "an atmosphere of hypocrisy and deceit",
+      "soundmark": "/dɪ'sit/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "deceive",
+      "chinese": "他被一个自称是百万富翁之子的年轻人骗了。",
+      "english": "He had been deceived by a young man claiming to be the son of a millionaire.",
+      "soundmark": "/dɪ'siv/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 15, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "December",
+      "chinese": "在十二月的黑夜里。",
+      "english": "In the dark of December.",
+      "soundmark": "/dɪ'sɛmbɚ/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "decide",
+      "chinese": "已经作出什么决定了吗？",
+      "english": "Has anything been decided yet?",
+      "soundmark": "/dɪ'saɪd/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [[0, 4, "疑问句", "Question"]]
+    },
+    {
+      "word": "decision",
+      "chinese": "你怀疑过自己所作的决定是否正确吗？",
+      "english": "Do you ever wonder if you made the right decision?",
+      "soundmark": "/dɪ'sɪʒn/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [[0, 9, "疑问句", "Question"]]
+    },
+    {
+      "word": "deck",
+      "chinese": "埃迪回到了驾驶舱。",
+      "english": "Eddie returned to the flight deck (= the part of an aircraft where the pilot sits ) .",
+      "soundmark": "/dɛk/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 8, "宾语", "NP"],
+        [9, 17, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "declare",
+      "chinese": "已宣布进入紧急状态。",
+      "english": "A state of emergency has been declared.",
+      "soundmark": "/dɪ'klɛr/",
+      "posTags": [[6, 6, "动词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 6, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "decrease",
+      "chinese": "近年来，这种病的患者人数明显下降。",
+      "english": "The number of people who have the disease has decreased significantly in recent years.",
+      "soundmark": "/dɪ'kris/",
+      "posTags": [[9, 9, "动词"]],
+      "syntaxTags": [
+        [0, 7, "主语", "NP"],
+        [8, 9, "谓语动词", "VP"],
+        [10, 10, "宾语", "NP"],
+        [11, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "deduce",
+      "chinese": "艾莉森聪明地推断出我是这封信的作者。",
+      "english": "Alison cleverly deduced that I was the author of the letter.",
+      "soundmark": "/dɪ'dʊs/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 7, "宾语", "NP"],
+        [8, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "deed",
+      "chinese": "上午做了好事之后，他理应休息一下。",
+      "english": "After the morning’s good deeds he deserved a rest.",
+      "soundmark": "/did/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 6, "谓语动词", "VP"],
+        [7, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "deep",
+      "chinese": "很深的伤口",
+      "english": "a deep wound",
+      "soundmark": "/dip/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "deer",
+      "chinese": "猎人打伤了鹿。",
+      "english": "The hunter wounded the deer.",
+      "soundmark": "/dɪr/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "defeat",
+      "chinese": "他们希望在海上击败敌人。",
+      "english": "They hoped to defeat the enemy at sea.",
+      "soundmark": "/dɪ'fit/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"],
+        [6, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "defect",
+      "chinese": "所有汽车在出厂前都经过品质检验。",
+      "english": "All the cars are tested for defects before they leave the factory.",
+      "soundmark": "/‘dɪfɛkt/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "系动词", "VP"],
+        [5, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "defence",
+      "chinese": "土地非常平坦，无法做防卫之用。",
+      "english": "The land was flat, giving no scope for defence.",
+      "soundmark": "/di'fens/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 6, "宾语", "NP"],
+        [7, 8, "状语修饰", "PP"]
+      ]
+    }
+  ]
+}

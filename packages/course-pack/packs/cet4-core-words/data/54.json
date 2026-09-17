@@ -1,0 +1,552 @@
+{
+  "title": "Unit 54: 四级核心词汇（indeed ~ interfere）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "indeed",
+      "chinese": "验血证明文斯确实是父亲。",
+      "english": "The blood tests prove that Vince is indeed the father.",
+      "soundmark": "/ɪn'did/",
+      "posTags": [[7, 7, "副词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 9, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "indefinite",
+      "chinese": "老师们发现报告的专门用语含义不明确，令人费解。",
+      "english": "Teachers find the report’s terminology so indefinite that it is confusing.",
+      "soundmark": "/ɪn'dɛfɪnət/",
+      "posTags": [[6, 6, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 10, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "independence",
+      "chinese": "该国自独立以来发展迅速。",
+      "english": "The country has made great advances since independence.",
+      "soundmark": "/,ɪndɪ'pɛndəns/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "independent",
+      "chinese": "有计划要把这家大企业分割成一些独立的小公司。",
+      "english": "There are plans to split the corporation into a number of smaller independent companies.",
+      "soundmark": "/'ɪndɪ'pɛndənt/",
+      "posTags": [[12, 12, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 4, "系动词", "VP"],
+        [5, 6, "表语", "NP"],
+        [7, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "index",
+      "chinese": "…消费价格指数。",
+      "english": "...the consumer price index.",
+      "soundmark": "/'ɪndɛks/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "India",
+      "chinese": "缅甸与印度毗邻。",
+      "english": "Burma borders on India.",
+      "soundmark": "/'ɪndɪə/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "Indian",
+      "chinese": "...印度政府。",
+      "english": "...the Indian government.",
+      "soundmark": "/'ɪndɪən/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "indication",
+      "chinese": "你能给我透露一下什么时候我能收到回复吗？",
+      "english": "Could you give me some indication as to when I am likely to receive a reply?",
+      "soundmark": "/,ɪndɪ'keʃən/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [[0, 15, "疑问句", "Question"]]
+    },
+    {
+      "word": "indignant",
+      "chinese": "愤慨的回复",
+      "english": "an indignant reply",
+      "soundmark": "/ɪn'dɪɡnənt/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "indirect",
+      "chinese": "吸烟间接导致体重减轻。",
+      "english": "Losing weight is an indirect result of smoking cigarettes.",
+      "soundmark": "/,ɪndə'rɛkt/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 5, "宾语", "NP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "indoors",
+      "chinese": "我们进屋吃点东西吧。",
+      "english": "Let’s go indoors and have something to eat.",
+      "soundmark": "/,ɪn'dɔrz/",
+      "posTags": [[2, 2, "副词"]],
+      "syntaxTags": [[0, 7, "祈使句式", "Imperative"]]
+    },
+    {
+      "word": "industrial",
+      "chinese": "到1900年英国已基本进入工业社会。",
+      "english": "By 1900, Britain was a mainly industrial society.",
+      "soundmark": "/ɪn'dʌstrɪəl/",
+      "posTags": [[6, 6, "形容词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "系动词", "VP"],
+        [4, 7, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "industrialize",
+      "chinese": "能源消耗随着各国工业化而增加。",
+      "english": "Energy consumption rises as countries industrialize.",
+      "soundmark": "/ɪn'dʌstrɪəlaɪz/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "industry",
+      "chinese": "我在石油行业工作。",
+      "english": "I work in the oil industry.",
+      "soundmark": "/'ɪndəstri/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "inefficient",
+      "chinese": "资源的浪费",
+      "english": "an inefficient use of resources",
+      "soundmark": "/,ɪnɪ'fɪʃnt/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "inexpensive",
+      "chinese": "可供选择的各种价格公道的葡萄酒",
+      "english": "a good selection of inexpensive wines",
+      "soundmark": "/,ɪnɪk'spɛnsɪv/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "infant",
+      "chinese": "幼儿的皮肤非常敏感。",
+      "english": "An infant’s skin is very sensitive.",
+      "soundmark": "/'ɪnfənt/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "系动词", "VP"],
+        [4, 5, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "infect",
+      "chinese": "带有这种病毒的人可能毫无症状，却仍可能传染他人。",
+      "english": "People with the virus may feel perfectly well, but they can still infect others.",
+      "soundmark": "/ɪn'fɛkt/",
+      "posTags": [[12, 12, "动词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 5, "谓语动词", "VP"],
+        [6, 13, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "infer",
+      "chinese": "我从她的话里推断出你身体一直不大好。",
+      "english": "I inferred from what she said that you have not been well.",
+      "soundmark": "/ɪn'fɝ/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "inferior",
+      "chinese": "与那些大学教师在一起，我自惭形秽。",
+      "english": "I felt very inferior among all those academics.",
+      "soundmark": "/ɪn'fɪrɪɚ/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "inform",
+      "chinese": "他们决定通知警察。",
+      "english": "They decided to inform the police.",
+      "soundmark": "/ɪn'fɔrm/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "information",
+      "chinese": "我需要更多信息。",
+      "english": "I need more information.",
+      "soundmark": "/'ɪnfɚ'meʃən/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "inhabit",
+      "chinese": "很多野生动物栖居在这片森林里。",
+      "english": "The woods are inhabited by many wild animals.",
+      "soundmark": "/ɪn'hæbɪt/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "inhabitant",
+      "chinese": "有600万居民的城市",
+      "english": "a city of six million inhabitants",
+      "soundmark": "/ɪn'hæbɪtənt/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "initial",
+      "chinese": "5,000英镑的初始投资",
+      "english": "an initial investment of £5,000",
+      "soundmark": "/ɪ'nɪʃəl/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "injection",
+      "chinese": "护士给我打了破伤风预防针。",
+      "english": "The nurse gave me a tetanus injection.",
+      "soundmark": "/ɪn'dʒɛkʃən/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "injury",
+      "chinese": "她头部受重伤被送到医院。",
+      "english": "She was taken to hospital with serious head injuries.",
+      "soundmark": "",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "系动词", "VP"],
+        [4, 4, "表语", "NP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "ink",
+      "chinese": "请用黑色墨水书写。",
+      "english": "Please write in black ink.",
+      "soundmark": "/ɪŋk/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 4, "祈使句式", "Imperative"]]
+    },
+    {
+      "word": "inn",
+      "chinese": "我们住在假日酒店。",
+      "english": "We’re staying at the Holiday Inn.",
+      "soundmark": "/ɪn/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "inner",
+      "chinese": "内室",
+      "english": "an inner room",
+      "soundmark": "/'ɪnɚ/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "input",
+      "chinese": "如果输入数据指定，该文件就会关闭，数据处理终止。",
+      "english": "If the input data specified it, the file will close and the process terminates.",
+      "soundmark": "/'ɪn'pʊt/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 13, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "insect",
+      "chinese": "昆虫的叮咬",
+      "english": "an insect bite",
+      "soundmark": "/'ɪnsɛkt/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "insert",
+      "chinese": "他从衣袋里掏出一把小钥匙，然后缓缓地将其插入锁孔里。",
+      "english": "He took a small key from his pocket and slowly inserted it into the lock.",
+      "soundmark": "/'ɪnsɝt/",
+      "posTags": [[10, 10, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 14, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "inside",
+      "chinese": "他把钥匙藏在领带里面。",
+      "english": "He concealed the key inside his tie.",
+      "soundmark": "/'ɪn'saɪd/",
+      "posTags": [[4, 4, "介词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "inspect",
+      "chinese": "我下车查看损坏情况。",
+      "english": "I got out of the car to inspect the damage.",
+      "soundmark": "/ɪn'spɛkt/",
+      "posTags": [[7, 7, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "inspection",
+      "chinese": "有人来学校视察了一遍。",
+      "english": "An inspection was carried out at the school.",
+      "soundmark": "/ɪn'spɛkʃən/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "instantly",
+      "chinese": "四名受害人全部当即死亡。",
+      "english": "All four victims died instantly.",
+      "soundmark": "/'ɪnstəntli/",
+      "posTags": [[4, 4, "副词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "instead",
+      "chinese": "你可能没拿你的钥匙而错拿了我的。",
+      "english": "You probably picked up my keys instead of yours.",
+      "soundmark": "/ɪn'stɛd/",
+      "posTags": [[6, 6, "副词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "instinct",
+      "chinese": "直觉告诉她有些不对劲。",
+      "english": "Her instinct told her that something was wrong.",
+      "soundmark": "/'ɪnstɪŋkt/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "insufficient",
+      "chinese": "用于医疗保健服务的资源不足。",
+      "english": "Insufficient resources have been devoted to the health service.",
+      "soundmark": "/,ɪnsə'fɪʃnt/",
+      "posTags": [[0, 0, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 5, "谓语动词", "VP"],
+        [6, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "insurance",
+      "chinese": "你父亲购买了抵押借款保险。",
+      "english": "Your father took out insurance to cover the mortgage.",
+      "soundmark": "/ɪn'ʃʊrəns/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "insure",
+      "chinese": "你给家庭财产投保了吗？",
+      "english": "Have you insured the contents of your home?",
+      "soundmark": "/ɪn'ʃʊr/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [[0, 7, "疑问句", "Question"]]
+    },
+    {
+      "word": "intellectual",
+      "chinese": "一位顶尖的英国知识分子",
+      "english": "a leading British intellectual",
+      "soundmark": "/,ɪntə'lɛktʃuəl/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "intensity",
+      "chinese": "飓风的猛烈程度令人恐惧。",
+      "english": "The intensity of the hurricane was frightening.",
+      "soundmark": "/ɪn'tɛnsəti/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 6, "系动词", "VP"]
+      ]
+    },
+    {
+      "word": "intensive",
+      "chinese": "为期一周的英语强化课程",
+      "english": "a one-week intensive course in English",
+      "soundmark": "/ɪn'tɛnsɪv/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "intentional",
+      "chinese": "我的确把他绊倒了，但不是故意的。",
+      "english": "I did trip him, but it wasn’t intentional.",
+      "soundmark": "/ɪn'tɛnʃənl/",
+      "posTags": [[7, 7, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "interaction",
+      "chinese": "但您只有在实现所有方法的情况下才能获得最多的收益，因为它们的力量来自于它们之间的相互作用。",
+      "english": "But you only get the maximum benefit if you implement all of them, because their power comes from their interaction.",
+      "soundmark": "/,ɪntə'rækʃən/",
+      "posTags": [[19, 19, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 10, "宾语", "NP"],
+        [11, 19, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "interest",
+      "chinese": "我看了前几集，但很快就失去了兴趣。",
+      "english": "I watched the first few episodes, but soon lost interest.",
+      "soundmark": "/'ɪntrəst/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 9, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "interesting",
+      "chinese": "那是一个有趣的问题。",
+      "english": "That’s an interesting question.",
+      "soundmark": "/'ɪntrəstɪŋ/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "interfere",
+      "chinese": "我的儿媳说我多管闲事，但我只是想帮忙。",
+      "english": "My daughter-in-law said that I was interfering, but I was only trying to help.",
+      "soundmark": "/,ɪntɚ'fɪr/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 6, "系动词", "VP"],
+        [7, 11, "表语", "NP"],
+        [12, 13, "状语修饰", "PP"]
+      ]
+    }
+  ]
+}

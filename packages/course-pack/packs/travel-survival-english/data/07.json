@@ -1,0 +1,428 @@
+{
+  "title": "旅行场景综合扩展",
+  "description": "扩展机场、住宿、餐饮、交通、购物、医疗与突发求助表达。",
+  "data": [
+    {
+      "chinese": "去机场最方便的方式是什么？",
+      "english": "What is the easiest way to the airport?"
+    },
+    {
+      "chinese": "这辆巴士去国际航站楼吗？",
+      "english": "Does this bus go to the international terminal?"
+    },
+    {
+      "chinese": "我的航班从哪个航站楼出发？",
+      "english": "Which terminal does my flight leave from?"
+    },
+    {
+      "chinese": "值机柜台什么时候开放？",
+      "english": "When does the check-in desk open?"
+    },
+    {
+      "chinese": "我可以在这里自助值机吗？",
+      "english": "Can I check in at this kiosk?"
+    },
+    {
+      "chinese": "请给我一个靠过道的座位。",
+      "english": "Could I have an aisle seat, please?"
+    },
+    { "chinese": "我们能坐在一起吗？", "english": "Can we sit together?" },
+    {
+      "chinese": "我的行李超重多少？",
+      "english": "How much is my bag overweight?"
+    },
+    {
+      "chinese": "我可以把这个带上飞机吗？",
+      "english": "Can I take this in my carry-on?"
+    },
+    {
+      "chinese": "在哪里打印登机牌？",
+      "english": "Where can I print my boarding pass?"
+    },
+    {
+      "chinese": "安检大约需要多久？",
+      "english": "How long will security take?"
+    },
+    {
+      "chinese": "我的登机口变了吗？",
+      "english": "Has my boarding gate changed?"
+    },
+    { "chinese": "现在开始登机了吗？", "english": "Has boarding started yet?" },
+    {
+      "chinese": "这是最后登机通知吗？",
+      "english": "Is this the final boarding call?"
+    },
+    {
+      "chinese": "我的航班延误多久？",
+      "english": "How long is my flight delayed?"
+    },
+    {
+      "chinese": "我会错过转机。",
+      "english": "I am going to miss my connection."
+    },
+    {
+      "chinese": "下一班可用航班是什么时候？",
+      "english": "When is the next available flight?"
+    },
+    {
+      "chinese": "航空公司会提供酒店吗？",
+      "english": "Will the airline provide a hotel?"
+    },
+    {
+      "chinese": "我想改签到明天。",
+      "english": "I would like to rebook for tomorrow."
+    },
+    {
+      "chinese": "取消航班可以退款吗？",
+      "english": "Can I get a refund for the cancellation?"
+    },
+    {
+      "chinese": "入境卡在哪里领取？",
+      "english": "Where can I get an arrival card?"
+    },
+    { "chinese": "我是来这里度假的。", "english": "I am here for a holiday." },
+    { "chinese": "我会停留十天。", "english": "I will stay for ten days." },
+    { "chinese": "这是我的返程机票。", "english": "Here is my return ticket." },
+    {
+      "chinese": "我住在市中心的酒店。",
+      "english": "I am staying at a downtown hotel."
+    },
+    {
+      "chinese": "我需要申报这些食品吗？",
+      "english": "Do I need to declare this food?"
+    },
+    {
+      "chinese": "行李提取处在哪里？",
+      "english": "Where is the baggage claim area?"
+    },
+    { "chinese": "我的行李没有到。", "english": "My suitcase did not arrive." },
+    { "chinese": "这是我的行李牌。", "english": "Here is my baggage receipt." },
+    {
+      "chinese": "行李送到后请联系我。",
+      "english": "Please contact me when my bag arrives."
+    },
+    {
+      "chinese": "机场有官方出租车站吗？",
+      "english": "Is there an official taxi stand?"
+    },
+    {
+      "chinese": "到市中心大概多少钱？",
+      "english": "Roughly how much is it downtown?"
+    },
+    { "chinese": "请使用计价器。", "english": "Please use the meter." },
+    {
+      "chinese": "请在这个地址停。",
+      "english": "Please drop me at this address."
+    },
+    { "chinese": "可以刷卡付款吗？", "english": "Can I pay by card?" },
+    {
+      "chinese": "请把收据给我。",
+      "english": "Could I have a receipt, please?"
+    },
+    {
+      "chinese": "我预订了一个房间。",
+      "english": "I have a room reservation."
+    },
+    {
+      "chinese": "预订姓名是李明。",
+      "english": "The booking is under Li Ming."
+    },
+    {
+      "chinese": "可以提前入住吗？",
+      "english": "Is early check-in available?"
+    },
+    {
+      "chinese": "可以寄存我的行李吗？",
+      "english": "Could you store my luggage?"
+    },
+    {
+      "chinese": "早餐供应到几点？",
+      "english": "Until what time is breakfast served?"
+    },
+    {
+      "chinese": "无线网络密码是什么？",
+      "english": "What is the Wi-Fi password?"
+    },
+    { "chinese": "电梯在几楼？", "english": "Which floor is the elevator on?" },
+    {
+      "chinese": "我的房卡不能用了。",
+      "english": "My room key has stopped working."
+    },
+    {
+      "chinese": "房间里没有热水。",
+      "english": "There is no hot water in my room."
+    },
+    {
+      "chinese": "空调似乎坏了。",
+      "english": "The air conditioner seems broken."
+    },
+    {
+      "chinese": "隔壁房间太吵了。",
+      "english": "The room next door is too noisy."
+    },
+    {
+      "chinese": "可以给我换个房间吗？",
+      "english": "Could you move me to another room?"
+    },
+    {
+      "chinese": "请送两条毛巾上来。",
+      "english": "Could you send up two towels?"
+    },
+    { "chinese": "退房时间是几点？", "english": "What time is check-out?" },
+    {
+      "chinese": "可以延迟一小时退房吗？",
+      "english": "Can I check out one hour later?"
+    },
+    {
+      "chinese": "请帮我核对这笔费用。",
+      "english": "Could you check this charge for me?"
+    },
+    {
+      "chinese": "我没有使用迷你吧。",
+      "english": "I did not use the minibar."
+    },
+    {
+      "chinese": "可以帮我叫辆出租车吗？",
+      "english": "Could you call a taxi for me?"
+    },
+    {
+      "chinese": "附近有自助洗衣店吗？",
+      "english": "Is there a laundromat nearby?"
+    },
+    {
+      "chinese": "你们提供叫醒服务吗？",
+      "english": "Do you offer a wake-up call?"
+    },
+    {
+      "chinese": "今晚还有空房吗？",
+      "english": "Do you have any rooms tonight?"
+    },
+    {
+      "chinese": "最便宜的房型多少钱？",
+      "english": "How much is your cheapest room?"
+    },
+    {
+      "chinese": "我可以先看看房间吗？",
+      "english": "Can I see the room first?"
+    },
+    {
+      "chinese": "我想再住一晚。",
+      "english": "I would like to stay another night."
+    },
+    { "chinese": "两位有空桌吗？", "english": "Do you have a table for two?" },
+    { "chinese": "我们可以坐在外面吗？", "english": "Could we sit outside?" },
+    {
+      "chinese": "有英文菜单吗？",
+      "english": "Do you have a menu in English?"
+    },
+    {
+      "chinese": "今天的特色菜是什么？",
+      "english": "What is today's special?"
+    },
+    {
+      "chinese": "你推荐哪道当地菜？",
+      "english": "Which local dish do you recommend?"
+    },
+    { "chinese": "这道菜辣吗？", "english": "Is this dish spicy?" },
+    {
+      "chinese": "请做得微辣一点。",
+      "english": "Please make it only mildly spicy."
+    },
+    { "chinese": "我不吃猪肉。", "english": "I do not eat pork." },
+    {
+      "chinese": "请彻底避免花生和花生油。",
+      "english": "Please avoid peanuts and peanut oil completely."
+    },
+    {
+      "chinese": "这里面含有乳制品吗？",
+      "english": "Does this contain any dairy?"
+    },
+    {
+      "chinese": "你们有素食选择吗？",
+      "english": "Do you have vegetarian options?"
+    },
+    {
+      "chinese": "请不要放香菜。",
+      "english": "Please leave out the coriander."
+    },
+    {
+      "chinese": "酱汁请另外放。",
+      "english": "Please serve the sauce on the side."
+    },
+    { "chinese": "我点的不是这个。", "english": "This is not what I ordered." },
+    {
+      "chinese": "我们的主菜还没上。",
+      "english": "Our main courses have not arrived."
+    },
+    {
+      "chinese": "可以再加些水吗？",
+      "english": "Could we have some more water?"
+    },
+    { "chinese": "我们可以分开结账吗？", "english": "Can we split the bill?" },
+    {
+      "chinese": "服务费已经包含了吗？",
+      "english": "Is the service charge included?"
+    },
+    {
+      "chinese": "请把剩菜打包。",
+      "english": "Could you pack the leftovers, please?"
+    },
+    { "chinese": "洗手间在哪里？", "english": "Where is the restroom?" },
+    {
+      "chinese": "最近的地铁站在哪里？",
+      "english": "Where is the nearest metro station?"
+    },
+    {
+      "chinese": "我应该在哪一站下车？",
+      "english": "Which stop should I get off at?"
+    },
+    {
+      "chinese": "这趟列车去市中心吗？",
+      "english": "Does this train go downtown?"
+    },
+    { "chinese": "我需要换乘吗？", "english": "Do I need to change trains?" },
+    {
+      "chinese": "去博物馆要坐几站？",
+      "english": "How many stops is the museum?"
+    },
+    { "chinese": "单程票多少钱？", "english": "How much is a single ticket?" },
+    { "chinese": "我想买一张日票。", "english": "I would like a day pass." },
+    {
+      "chinese": "这张票需要激活吗？",
+      "english": "Do I need to validate this ticket?"
+    },
+    {
+      "chinese": "最后一班车几点发车？",
+      "english": "When does the last train leave?"
+    },
+    { "chinese": "这个座位有人吗？", "english": "Is anyone sitting here?" },
+    {
+      "chinese": "请问我们现在在哪里？",
+      "english": "Could you tell me where we are?"
+    },
+    { "chinese": "我好像坐过站了。", "english": "I think I missed my stop." },
+    {
+      "chinese": "这里可以租自行车吗？",
+      "english": "Can I rent a bicycle here?"
+    },
+    { "chinese": "需要支付押金吗？", "english": "Do I need to pay a deposit?" },
+    {
+      "chinese": "请在地图上指给我看。",
+      "english": "Could you show me on the map?"
+    },
+    {
+      "chinese": "走过去需要多久？",
+      "english": "How long does it take to walk?"
+    },
+    {
+      "chinese": "是在红绿灯处左转吗？",
+      "english": "Do I turn left at the lights?"
+    },
+    { "chinese": "我走的方向对吗？", "english": "Am I going the right way?" },
+    {
+      "chinese": "这附近晚上安全吗？",
+      "english": "Is this area safe at night?"
+    },
+    { "chinese": "我只是随便看看。", "english": "I am just looking, thanks." },
+    {
+      "chinese": "这个还有别的颜色吗？",
+      "english": "Does this come in another color?"
+    },
+    { "chinese": "我可以试穿吗？", "english": "May I try this on?" },
+    { "chinese": "试衣间在哪里？", "english": "Where are the fitting rooms?" },
+    {
+      "chinese": "这个尺寸对我太小了。",
+      "english": "This size is too small for me."
+    },
+    { "chinese": "有大一号的吗？", "english": "Do you have one size larger?" },
+    {
+      "chinese": "这件商品正在打折吗？",
+      "english": "Is this item currently on sale?"
+    },
+    { "chinese": "这是最终价格吗？", "english": "Is that the final price?" },
+    { "chinese": "我可以用现金支付吗？", "english": "Can I pay in cash?" },
+    { "chinese": "我的银行卡被拒了。", "english": "My card was declined." },
+    {
+      "chinese": "你们接受手机支付吗？",
+      "english": "Do you accept mobile payments?"
+    },
+    { "chinese": "请给我一个袋子。", "english": "Could I have a bag, please?" },
+    { "chinese": "我可以退掉这个吗？", "english": "Can I return this item?" },
+    { "chinese": "我把收据弄丢了。", "english": "I have lost the receipt." },
+    {
+      "chinese": "退款需要多久到账？",
+      "english": "How long will the refund take?"
+    },
+    {
+      "chinese": "游客可以办理退税吗？",
+      "english": "Can tourists claim a tax refund?"
+    },
+    {
+      "chinese": "请帮我填写退税表。",
+      "english": "Please help me complete the tax form."
+    },
+    {
+      "chinese": "附近哪里可以兑换货币？",
+      "english": "Where can I exchange money nearby?"
+    },
+    {
+      "chinese": "今天的汇率是多少？",
+      "english": "What is today's exchange rate?"
+    },
+    { "chinese": "这里收手续费吗？", "english": "Is there a service fee?" },
+    { "chinese": "我需要看医生。", "english": "I need to see a doctor." },
+    { "chinese": "附近有诊所吗？", "english": "Is there a clinic nearby?" },
+    {
+      "chinese": "我发烧而且头疼。",
+      "english": "I have a fever and headache."
+    },
+    { "chinese": "我的胃很痛。", "english": "I have severe stomach pain." },
+    { "chinese": "我呼吸困难。", "english": "I am having trouble breathing." },
+    {
+      "chinese": "我可能食物中毒了。",
+      "english": "I may have food poisoning."
+    },
+    {
+      "chinese": "我对这种药过敏。",
+      "english": "I am allergic to this medicine."
+    },
+    { "chinese": "一天服用几次？", "english": "How often should I take this?" },
+    {
+      "chinese": "这个药会让我困吗？",
+      "english": "Will this medicine make me sleepy?"
+    },
+    { "chinese": "请叫一辆救护车。", "english": "Please call an ambulance." },
+    { "chinese": "这是紧急情况。", "english": "This is an emergency." },
+    { "chinese": "我的朋友受伤了。", "english": "My friend has been injured." },
+    {
+      "chinese": "我的护照可能落在出租车上了。",
+      "english": "I may have left my passport in the taxi."
+    },
+    {
+      "chinese": "最近的警察局在哪里？",
+      "english": "Where is the nearest police station?"
+    },
+    { "chinese": "我想报告失窃。", "english": "I need to report a theft." },
+    {
+      "chinese": "我的钱包刚被偷了。",
+      "english": "My wallet has just been stolen."
+    },
+    {
+      "chinese": "请帮我联系大使馆。",
+      "english": "Please help me contact my embassy."
+    },
+    {
+      "chinese": "我需要一份警方报告。",
+      "english": "I need a copy of the police report."
+    },
+    { "chinese": "我的手机没电了。", "english": "My phone battery is dead." },
+    {
+      "chinese": "我可以借用充电器吗？",
+      "english": "Could I borrow a charger?"
+    },
+    {
+      "chinese": "这里有免费饮用水吗？",
+      "english": "Is free drinking water available here?"
+    }
+  ]
+}

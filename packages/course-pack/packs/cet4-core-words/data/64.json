@@ -1,0 +1,553 @@
+{
+  "title": "Unit 64: 四级核心词汇（nerve ~ nuclear）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "nerve",
+      "chinese": "影响背部神经的疾病",
+      "english": "a condition which affects the nerves in the back",
+      "soundmark": "/nɝv/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [[0, 8, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "nervous",
+      "chinese": "我希望你不要再那样看着我了，你让我紧张。",
+      "english": "I wish you’d stop looking at me like that. You’re making me nervous.",
+      "soundmark": "/'nɝvəs/",
+      "posTags": [[12, 12, "形容词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "谓语动词", "VP"],
+        [5, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "nest",
+      "chinese": "鸟窝",
+      "english": "a bird’s nest",
+      "soundmark": "/nɛst/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "net",
+      "chinese": "布鲁斯晚上大多在网上浏览信息。",
+      "english": "Bruce spends most evenings surfing the Net (= looking at information in different places on the Internet ).",
+      "soundmark": "/nɛt/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 8, "宾语", "NP"],
+        [9, 17, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "network",
+      "chinese": "匈牙利的电话网",
+      "english": "Hungary’s telephone network",
+      "soundmark": "/'nɛtwɝk/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "never",
+      "chinese": "他从未去过澳大利亚。",
+      "english": "He’s never been to Australia.",
+      "soundmark": "/'nɛvɚ/",
+      "posTags": [[1, 1, "副词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 4, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "nevertheless",
+      "chinese": "这消息可能是出乎意料的，然而是真实的。",
+      "english": "The news may be unexpected; nevertheless, it is true.",
+      "soundmark": "/,nɛvɚðə'lɛs/",
+      "posTags": [[5, 5, "连词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "new",
+      "chinese": "市里新建的医院",
+      "english": "the city’s new hospital",
+      "soundmark": "/nu/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "newly",
+      "chinese": "那时她还年轻，刚结婚。",
+      "english": "She was young at the time, and newly married.",
+      "soundmark": "/'nuli/",
+      "posTags": [[7, 7, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 2, "表语", "NP"],
+        [3, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "news",
+      "chinese": "我希望很快就能给你好消息。",
+      "english": "I hope to have some good news for you soon.",
+      "soundmark": "/nuz/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 6, "宾语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "newspaper",
+      "chinese": "关于这件事她已经在报纸上看到了。",
+      "english": "She had read about it in the newspapers.",
+      "soundmark": "/'nuzpepɚ/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "next",
+      "chinese": "格雷丝沉重地叹气，特蕾什在隔壁房间都听到了。",
+      "english": "Grace sighed so heavily that Trish could hear it in the next room.",
+      "soundmark": "/nɛkst/",
+      "posTags": [[11, 11, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 8, "宾语", "NP"],
+        [9, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "nice",
+      "chinese": "他们的房子真漂亮。",
+      "english": "They’ve got a very nice house.",
+      "soundmark": "/naɪs/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "niece",
+      "chinese": "…他的外甥女，他大姐的女儿。",
+      "english": "...his niece, the daughter of his eldest sister.",
+      "soundmark": "/nis/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 7, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "night",
+      "chinese": "那是个寒冷的月夜。",
+      "english": "It was a cold moonlit night.",
+      "soundmark": "/naɪt/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 5, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "nine",
+      "chinese": "他干这份工作才九个月。",
+      "english": "He’s only been in this job for nine months.",
+      "soundmark": "/naɪn/",
+      "posTags": [[7, 7, "数词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "nineteen",
+      "chinese": "当时是7点19分。",
+      "english": "It was nineteen minutes past seven.",
+      "soundmark": "/,naɪn'tin/",
+      "posTags": [[2, 2, "数词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 5, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "ninety",
+      "chinese": "90年代的美国要富裕得多。",
+      "english": "America was far richer in the nineties.",
+      "soundmark": "/'naɪnti/",
+      "posTags": [[0, 0, "数词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 3, "表语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "ninth",
+      "chinese": "智利从这一地区的第九跃升到第一位，因为智利的移动网络用户在过去一年增长了 3200% 。",
+      "english": "In that region, Chile went from ninth to first, overall, as Chilean mobile web use increased by 3200% over the past year.",
+      "soundmark": "/naɪnθ/",
+      "posTags": [[6, 6, "数词"]],
+      "syntaxTags": [
+        [0, 14, "主语", "NP"],
+        [15, 15, "谓语动词", "VP"],
+        [16, 21, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "nitrogen",
+      "chinese": "对于氮气我们知道什么？",
+      "english": "Well, we know nitrogen has what?",
+      "soundmark": "/'naɪtrədʒən/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 5, "疑问句", "Question"]]
+    },
+    {
+      "word": "no",
+      "chinese": "“你是意大利人吗？”“不，我是西班牙人。”",
+      "english": "‘Are you Italian?’ ‘No, I’m Spanish.’",
+      "soundmark": "/no/",
+      "posTags": [[3, 3, "副词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "noble",
+      "chinese": "你心地真好，周末的时间全都用来帮助老人。",
+      "english": "It’s very noble of you to spend all your weekends helping the old folk.",
+      "soundmark": "/'nobl/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 6, "谓语动词", "VP"],
+        [7, 13, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "nobody",
+      "chinese": "我敲了敲门，但没人应门。",
+      "english": "I knocked on the door but nobody answered.",
+      "soundmark": "/'nəubədi, -bɔdi/",
+      "posTags": [[6, 6, "代词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "nod",
+      "chinese": "我问她是否已准备好出发，她点了点头。",
+      "english": "I asked her if she was ready to go, and she nodded.",
+      "soundmark": "/nɑd/",
+      "posTags": [[11, 11, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"],
+        [7, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "noise",
+      "chinese": "那是什么声音？",
+      "english": "What’s that noise?",
+      "soundmark": "/nɔɪz/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "疑问句", "Question"]]
+    },
+    {
+      "word": "noisy",
+      "chinese": "孩子们今天实在是吵。",
+      "english": "The kids have been really noisy today.",
+      "soundmark": "/'nɔɪzi/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "none",
+      "chinese": "我真想能请你吃些蛋糕，但一点也没剩的了。",
+      "english": "I wish I could offer you some cake but there’s none left.",
+      "soundmark": "/nʌn/",
+      "posTags": [[10, 10, "代词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "谓语动词", "VP"],
+        [5, 11, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "nonsense",
+      "chinese": "“我在自己家里就像个囚犯。”“胡说！”",
+      "english": "‘I’m a prisoner in my own home.’ ‘Nonsense!’",
+      "soundmark": "",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "谓语动词", "VP"],
+        [6, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "noon",
+      "chinese": "我们中午12点见了面。",
+      "english": "We met at 12 noon.",
+      "soundmark": "/nun/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "nor",
+      "chinese": "他既不会读也不会写。",
+      "english": "He can neither read nor write (= he cannot read or write ).",
+      "soundmark": "/nɔr/",
+      "posTags": [[4, 4, "连词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 12, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "normal",
+      "chinese": "一个正常的工作周是40小时。",
+      "english": "A normal working week is 40 hours.",
+      "soundmark": "/'nɔrml/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "normally",
+      "chinese": "这段旅程通常需要大约两小时。",
+      "english": "The journey normally takes about two hours.",
+      "soundmark": "/'nɔrmli/",
+      "posTags": [[2, 2, "副词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "north",
+      "chinese": "哪边是北？",
+      "english": "Which way is north?",
+      "soundmark": "/nɔrθ/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 3, "疑问句", "Question"]]
+    },
+    {
+      "word": "northeast",
+      "chinese": "…流向东北方向的盐泉岛的温泉水。",
+      "english": "...the warm waters of Salt Springs Island to the northeast.",
+      "soundmark": "/'nɔrθ'ist/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "northern",
+      "chinese": "带有北方口音的男子",
+      "english": "a man with a northern accent",
+      "soundmark": "/'nɔrðɚn/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "northwest",
+      "chinese": "…西北方向4英里。",
+      "english": "...four miles to the northwest.",
+      "soundmark": "/'nɔrθ'wɛst/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "nose",
+      "chinese": "有人一拳打在他的鼻子上。",
+      "english": "Someone punched him on the nose.",
+      "soundmark": "/noz/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "not",
+      "chinese": "大多数商店要到上午10点才开始营业。",
+      "english": "Most of the stores do not open until 10 am.",
+      "soundmark": "/nɑt/",
+      "posTags": [[5, 5, "副词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 6, "谓语动词", "VP"],
+        [7, 9, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "note",
+      "chinese": "我能不能借用一下你的课堂笔记？",
+      "english": "Can I borrow your lecture notes?",
+      "soundmark": "/not/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [[0, 5, "疑问句", "Question"]]
+    },
+    {
+      "word": "notebook",
+      "chinese": "他从口袋里掏出了一个笔记本和一支钢笔。",
+      "english": "He brought out a notebook and pen from his pocket.",
+      "soundmark": "/'notbʊk/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "nothing",
+      "chinese": "这镇上从来都不会发生什么特别的事。",
+      "english": "Nothing ever happens in this town.",
+      "soundmark": "/'nʌθɪŋ/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "notice",
+      "chinese": "他看到有位黑衣女子坐在他的对面。",
+      "english": "He noticed a woman in a black dress sitting across from him.",
+      "soundmark": "/'notɪs/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "noticeable",
+      "chinese": "酒精对身体有明显的影响。",
+      "english": "Alcohol has a noticeable effect on the body.",
+      "soundmark": "/'notɪsəbl/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "noun",
+      "chinese": "形容词在数和格方面必须符合其所修饰的名词。",
+      "english": "An adjective must agree with  its noun in mumber and case.",
+      "soundmark": "/naʊn/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "novel",
+      "chinese": "简·奥斯丁的小说",
+      "english": "a novel by Jane Austen",
+      "soundmark": "/ˈnɑːvl/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "November",
+      "chinese": "在十一月又一次。",
+      "english": "And again in November.",
+      "soundmark": "/no'vɛmbɚ/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "now",
+      "chinese": "她现在是一个寡妇。",
+      "english": "She's a widow now.",
+      "soundmark": "/naʊ/",
+      "posTags": [[3, 3, "副词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "nowadays",
+      "chinese": "如今人们在电视上看见性爱镜头不太会感到吃惊了。",
+      "english": "Nowadays people are rarely shocked by the sex they see on television.",
+      "soundmark": "/'naʊədez/",
+      "posTags": [[0, 0, "副词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 4, "表语", "NP"],
+        [5, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "nowhere",
+      "chinese": "没有什么地方的吸毒问题比美国更严重。",
+      "english": "Nowhere is drug abuse more of a problem than in the US.",
+      "soundmark": "/'no'wɛr/",
+      "posTags": [[0, 0, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 4, "表语", "NP"],
+        [5, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "nuclear",
+      "chinese": "法国对核能的依赖",
+      "english": "France’s reliance on nuclear energy",
+      "soundmark": "/'nuklɪɚ/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    }
+  ]
+}

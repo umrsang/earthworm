@@ -1,0 +1,558 @@
+{
+  "title": "Unit 53: 四级核心词汇（however ~ increasingly）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "however",
+      "chinese": "这是个花钱少而又简单的方法，不过有危险。",
+      "english": "This is a cheap and simple process. However, there are dangers.",
+      "soundmark": "/haʊ'ɛvɚ/",
+      "posTags": [[7, 7, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 10, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "huge",
+      "chinese": "一条大狗",
+      "english": "a huge dog",
+      "soundmark": "/hjudʒ/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "human",
+      "chinese": "人体中有许多种不同的细胞类型。",
+      "english": "There are many different cell types in the human body .",
+      "soundmark": "/'hjumən/",
+      "posTags": [[8, 8, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 5, "表语", "NP"],
+        [6, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "humble",
+      "chinese": "一个谦卑的男人",
+      "english": "a modest and humble man",
+      "soundmark": "/'hʌmbl/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "humid",
+      "chinese": "仲夏的东京十分潮湿。",
+      "english": "Tokyo is extremely humid in mid-summer.",
+      "soundmark": "/'hjumɪd/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 3, "表语", "NP"],
+        [4, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "humorous",
+      "chinese": "那部电影中有些略显幽默的片段。",
+      "english": "The film has some mildly humorous moments.",
+      "soundmark": "/'hjumərəs/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "humour",
+      "chinese": "他的幽默感和魅力",
+      "english": "his humour and charm",
+      "soundmark": "/'hju:mə/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "hundred",
+      "chinese": "我不能完全确定她住在哪里。",
+      "english": "I’m not a hundred percent sure where she lives.",
+      "soundmark": "/'hʌndrəd/",
+      "posTags": [[3, 3, "数词"]],
+      "syntaxTags": [
+        [0, 7, "主语", "NP"],
+        [8, 8, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "hunger",
+      "chinese": "吃些水果充充饥吧。",
+      "english": "Try to satisfy your hunger by eating some fruit.",
+      "soundmark": "/'hʌŋɡɚ/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "hungry",
+      "chinese": "我又冷，又累，又饿。",
+      "english": "I was cold, tired, and hungry.",
+      "soundmark": "/'hʌŋɡri/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 5, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "hunt",
+      "chinese": "这对夫妇曾帮着寻找那些蹒跚学步的孩子。",
+      "english": "The couple had helped in the hunt for the toddlers.",
+      "soundmark": "/hʌnt/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "hurry",
+      "chinese": "要是赶紧的话，我们能及时到那里。",
+      "english": "If we hurry, we’ll get there in time.",
+      "soundmark": "/'hɝrɪ/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"],
+        [6, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "hurt",
+      "chinese": "事故中有人受伤吗？",
+      "english": "Was anyone hurt in the accident?",
+      "soundmark": "/hɝ​t/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [[0, 5, "疑问句", "Question"]]
+    },
+    {
+      "word": "husband",
+      "chinese": "你见过我的丈夫罗伊吗？",
+      "english": "Have you met my husband Roy?",
+      "soundmark": "/'hʌzbənd/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 5, "疑问句", "Question"]]
+    },
+    {
+      "word": "hut",
+      "chinese": "小木屋",
+      "english": "a wooden hut",
+      "soundmark": "/hʌt/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "hydrogen",
+      "chinese": "水含有氢和氧。",
+      "english": "Water contains hydrogen and oxygen.",
+      "soundmark": "/'haɪdrədʒən/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "I",
+      "chinese": "六年前我搬到了这个城市。",
+      "english": "I moved to this city six years ago.",
+      "soundmark": "/aɪ/",
+      "posTags": [[0, 0, "代词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "ice",
+      "chinese": "你饮料中要放点冰块吗？",
+      "english": "Would you like some ice in your drink?",
+      "soundmark": "/aɪs/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 7, "疑问句", "Question"]]
+    },
+    {
+      "word": "idea",
+      "chinese": "你应该和肯谈谈，他总是满脑子好主意。",
+      "english": "You should talk to Ken – he's always full of good ideas.",
+      "soundmark": "/aɪ'diə/",
+      "posTags": [[11, 11, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 8, "宾语", "NP"],
+        [9, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "ideal",
+      "chinese": "如何达到理想体重的建议",
+      "english": "advice on how to reach your ideal weight",
+      "soundmark": "/aɪ'diəl/",
+      "posTags": [[6, 6, "形容词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "idiom",
+      "chinese": "新的音乐风格",
+      "english": "the new musical idiom",
+      "soundmark": "/'ɪdɪəm/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "idle",
+      "chinese": "我不能让土地闲置。",
+      "english": "I cannot afford to leave the land lying idle.",
+      "soundmark": "/'aɪdl/",
+      "posTags": [[8, 8, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "谓语动词", "VP"],
+        [5, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "if",
+      "chinese": "如果下雨，我们就待在家里。",
+      "english": "We’ll stay at home if it rains.",
+      "soundmark": "/ɪf/",
+      "posTags": [[4, 4, "连词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "ill",
+      "chinese": "布里奇特不能来了，她生病了。",
+      "english": "Bridget can’t come – she’s ill.",
+      "soundmark": "/ɪl/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "illness",
+      "chinese": "儿童的常见病她小时候都得过。",
+      "english": "She had all the normal childhood illnesses.",
+      "soundmark": "/'ɪlnəs/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "illustration",
+      "chinese": "这本书有62页插图。",
+      "english": "The book contains 62 pages of illustrations.",
+      "soundmark": "/,ɪlə'streʃən/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "imagination",
+      "chinese": "想象力极丰富的讲故事者",
+      "english": "a storyteller with an incredible imagination",
+      "soundmark": "/ɪ,mædʒɪ'neʃən/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "imagine",
+      "chinese": "可能她从未到过那儿——也许这都是她的幻想。",
+      "english": "Perhaps she’d never really been there at all – perhaps she’d just imagined it.",
+      "soundmark": "/ɪ'mædʒɪn/",
+      "posTags": [[12, 12, "动词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "系动词", "VP"],
+        [5, 5, "表语", "NP"],
+        [6, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "immediate",
+      "chinese": "我们对攻击的第一反应就是非常惊恐。",
+      "english": "Our immediate response to the attack was sheer horror.",
+      "soundmark": "/ɪ'midɪət/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 6, "谓语动词", "VP"],
+        [7, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "immediately",
+      "chinese": "灾害最直接受害者将获得援助。",
+      "english": "Those most immediately involved in the disaster will be given support.",
+      "soundmark": "/ɪ'midɪətli/",
+      "posTags": [[2, 2, "副词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "immense",
+      "chinese": "人们坐火车旅行时仍然会读很多书。",
+      "english": "People who travel by rail still read an immense amount.",
+      "soundmark": "/ɪ'mɛns/",
+      "posTags": [[8, 8, "形容词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 6, "谓语动词", "VP"],
+        [7, 9, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "immigrant",
+      "chinese": "非法移民",
+      "english": "an illegal immigrant",
+      "soundmark": "/'ɪmɪɡrənt/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "impatient",
+      "chinese": "不耐烦的司机们在按喇叭发嘟嘟声。",
+      "english": "The impatient drivers were beeping their horns.",
+      "soundmark": "",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "系动词", "VP"],
+        [5, 6, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "import",
+      "chinese": "您可以输出这个轮廓，这样其他用户仅仅只需要输入这个轮廓即可。",
+      "english": "You can then export this profile so that other users can simply import the profile.",
+      "soundmark": "",
+      "posTags": [[12, 12, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 14, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "importance",
+      "chinese": "他自以为很了不起。",
+      "english": "He was full of his own importance (= he behaved in an annoying way which showed that he thought he was very important ).",
+      "soundmark": "/ɪm'pɔrtns/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 2, "表语", "NP"],
+        [3, 23, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "important",
+      "chinese": "很重要的会议",
+      "english": "a very important meeting",
+      "soundmark": "/ɪm'pɔrtnt/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "impossible",
+      "chinese": "“我想和弗兰克斯先生谈谈。”“恐怕不行。”",
+      "english": "‘I want to speak to Mr Franks.’ ‘I’m afraid that’s impossible.’",
+      "soundmark": "/ɪm'pɑsəbl/",
+      "posTags": [[10, 10, "形容词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "谓语动词", "VP"],
+        [5, 10, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "impress",
+      "chinese": "史蒂夫借来他爸爸的跑车向女友炫耀。",
+      "english": "Steve borrowed his dad’s sports car to impress his girlfriend.",
+      "soundmark": "/ɪm'prɛs/",
+      "posTags": [[7, 7, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "宾语", "NP"],
+        [6, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "impression",
+      "chinese": "我们参观了学校，对它的印象很好。",
+      "english": "When we looked around the school we got a very good impression.",
+      "soundmark": "/ɪm'prɛʃən/",
+      "posTags": [[11, 11, "名词"]],
+      "syntaxTags": [[0, 11, "疑问句", "Question"]]
+    },
+    {
+      "word": "impressive",
+      "chinese": "这些数字看上去确实很可观。",
+      "english": "The figures certainly look impressive.",
+      "soundmark": "/ɪm'prɛsɪv/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "imprison",
+      "chinese": "政府把反对派领导人全部监禁起来。",
+      "english": "The government imprisoned all opposition leaders.",
+      "soundmark": "/ɪm'prɪzn/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "improve",
+      "chinese": "为想提高英语水平的学生开设的一门课",
+      "english": "a course for students wishing to improve their English",
+      "soundmark": "/ɪm'pruv/",
+      "posTags": [[6, 6, "动词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 6, "谓语动词", "VP"],
+        [7, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "improvement",
+      "chinese": "我们的成绩这个月有所提高。",
+      "english": "Our results have shown some improvement this month.",
+      "soundmark": "/ɪm'prʊvmənt/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "in",
+      "chinese": "碗橱里有一些糖。",
+      "english": "There’s some sugar in the cupboard.",
+      "soundmark": "/ɪn/",
+      "posTags": [[3, 3, "介词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "inch",
+      "chinese": "窗帘短了一英寸。",
+      "english": "The curtains were an inch too short.",
+      "soundmark": "/ɪntʃ/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 6, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "incident",
+      "chinese": "我过去性生活中的某件事会使我处于危险境地吗？",
+      "english": "Am I at risk because of some incident in my sexual past?",
+      "soundmark": "/'ɪnsɪdənt/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [[0, 11, "疑问句", "Question"]]
+    },
+    {
+      "word": "income",
+      "chinese": "低收入家庭",
+      "english": "low-income families",
+      "soundmark": "/'ɪnkʌm/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [[0, 1, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "incorrect",
+      "chinese": "你给我们的信息不准确。",
+      "english": "The information you gave us was incorrect.",
+      "soundmark": "/,ɪnkə'rɛkt/",
+      "posTags": [[6, 6, "形容词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "increase",
+      "chinese": "该世纪上半叶，人口大幅度增加。",
+      "english": "The population increased dramatically in the first half of the century.",
+      "soundmark": "/'ɪnkris/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "increasingly",
+      "chinese": "市场营销技巧越来越巧妙。",
+      "english": "Marketing techniques are becoming increasingly sophisticated.",
+      "soundmark": "/ɪn'krisɪŋli/",
+      "posTags": [[4, 4, "副词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 5, "宾语", "NP"]
+      ]
+    }
+  ]
+}

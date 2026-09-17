@@ -1,0 +1,558 @@
+{
+  "title": "Unit 70: 四级核心词汇（popular ~ pride）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "popular",
+      "chinese": "希拉里在学校里很受欢迎。",
+      "english": "Hilary was popular at school.",
+      "soundmark": "/'pɑpjəlɚ/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 2, "表语", "NP"],
+        [3, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "population",
+      "chinese": "人口中差不多有70%仍住在乡村。",
+      "english": "Nearly 70 percent of the population still live in the countryside.",
+      "soundmark": "/,pɑpju'leʃən/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 6, "主语", "NP"],
+        [7, 7, "谓语动词", "VP"],
+        [8, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "pork",
+      "chinese": "猪排",
+      "english": "pork chops",
+      "soundmark": "/pɔrk/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "port",
+      "chinese": "英国最大的港口城市",
+      "english": "Britain’s largest port",
+      "soundmark": "/pɔrt/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "portable",
+      "chinese": "便携式收音机",
+      "english": "a portable radio",
+      "soundmark": "/'pɔrtəbl/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "portion",
+      "chinese": "你们有儿童餐吗？",
+      "english": "Do you have any children’s portions?",
+      "soundmark": "/'pɔrʃən/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [[0, 5, "疑问句", "Question"]]
+    },
+    {
+      "word": "portrait",
+      "chinese": "全家福",
+      "english": "a family portrait",
+      "soundmark": "/'pɔrtrɪt/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "positive",
+      "chinese": "正向思考的力量",
+      "english": "the power of positive thinking",
+      "soundmark": "/'pɑzətɪv/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "possess",
+      "chinese": "不同的工人拥有不同技能。",
+      "english": "Different workers possess different skills.",
+      "soundmark": "/pə'zɛs/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "possession",
+      "chinese": "那则信息不归我们所有。",
+      "english": "That information is not in our possession.",
+      "soundmark": "/pə'zɛʃən/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "possibility",
+      "chinese": "他也许会回到西雅图去，这种可能性一直存在。",
+      "english": "There’s always a possibility that he might go back to Seattle.",
+      "soundmark": "/,pɑsə'bɪləti/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 7, "谓语动词", "VP"],
+        [8, 8, "宾语", "NP"],
+        [9, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "possible",
+      "chinese": "有没有可能弄到比赛的门票？",
+      "english": "Is it possible toget tickets for the game?",
+      "soundmark": "/'pɑsəbl/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [[0, 7, "疑问句", "Question"]]
+    },
+    {
+      "word": "possibly",
+      "chinese": "这最后一项任务也许是最难的。",
+      "english": "This last task is possibly the most difficult.",
+      "soundmark": "/'pɑsəbli/",
+      "posTags": [[4, 4, "副词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "系动词", "VP"],
+        [4, 7, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "post",
+      "chinese": "篱笆桩",
+      "english": "a fence post",
+      "soundmark": "/post/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "postage",
+      "chinese": "寄一张明信片的邮资是多少？",
+      "english": "How much is the postage for a postcard?",
+      "soundmark": "/'postɪdʒ/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 7, "疑问句", "Question"]]
+    },
+    {
+      "word": "postman",
+      "chinese": "那个邮递员负责这条投递线路。",
+      "english": "That postman is in charge of this route.",
+      "soundmark": "/'postmən/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "postpone",
+      "chinese": "比赛不得不推迟到下周举行。",
+      "english": "The match had to be postponed until next week.",
+      "soundmark": "/po'spon/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 5, "谓语动词", "VP"],
+        [6, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "pot",
+      "chinese": "长在花盆里的草本植物",
+      "english": "herbs growing in pots",
+      "soundmark": "/pɑt/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "potato",
+      "chinese": "玛丽站在洗涤槽边削土豆皮。",
+      "english": "Marie stood at the sink, peeling potatoes (= cutting off the skin ) .",
+      "soundmark": "/pə'teto/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "pound",
+      "chinese": "莫伊拉的体重约为130磅。",
+      "english": "Moira weighs about 130 pounds .",
+      "soundmark": "/paʊnd/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "pour",
+      "chinese": "她为每个人都倒了咖啡。",
+      "english": "She poured coffee for everyone.",
+      "soundmark": "/pɔr/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "poverty",
+      "chinese": "数百万老年人生活在贫困之中。",
+      "english": "Millions of elderly people live in poverty .",
+      "soundmark": "/'pɑvɚti/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "powder",
+      "chinese": "把糖碾成粉末。",
+      "english": "Grind the sugar into a powder .",
+      "soundmark": "/'paʊdɚ/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 2, "宾语", "NP"],
+        [3, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "power",
+      "chinese": "他们在一场军事政变中夺取了政权。",
+      "english": "They seized power in a military coup.",
+      "soundmark": "/'paʊɚ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "powerful",
+      "chinese": "他是波希米亚最有权势的人物之一。",
+      "english": "He was one of the most powerful men in Bohemia.",
+      "soundmark": "/'paʊɚfl/",
+      "posTags": [[6, 6, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 2, "表语", "NP"],
+        [3, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "practical",
+      "chinese": "应征者应该具备基础电子学方面的培训和实践经验。",
+      "english": "Candidates should have training and practical experience in basic electronics.",
+      "soundmark": "/'præktɪkl/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "practically",
+      "chinese": "我差不多读过他所有的书。",
+      "english": "I’ve read practically all of his books.",
+      "soundmark": "/'præktɪkli/",
+      "posTags": [[2, 2, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "practice",
+      "chinese": "学习弹吉他需要长时间的练习。",
+      "english": "It takes hours of practice to learn to play the guitar.",
+      "soundmark": "/'præktɪs/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "practise",
+      "chinese": "他们把家具往后挪以便练习舞蹈动作。",
+      "english": "They moved the furniture back to practise their dance routine.",
+      "soundmark": "/'præktɪs/",
+      "posTags": [[6, 6, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "pray",
+      "chinese": "他们去清真寺祷告。",
+      "english": "They went to the mosque to pray.",
+      "soundmark": "/pre/",
+      "posTags": [[6, 6, "动词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 6, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "precaution",
+      "chinese": "防火措施被忽视了。",
+      "english": "Fire precautions were neglected.",
+      "soundmark": "/prɪ'kɔʃən/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "preceding",
+      "chinese": "如我们在前一章所见，团组可以是社会化的有力动因。",
+      "english": "As we saw in the preceding chapter, groups can be powerful agents of socialization.",
+      "soundmark": "/'prisidɪŋ/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "precious",
+      "chinese": "运送药品、食品等宝贵物资的飞机",
+      "english": "planes delivering precious supplies of medicine and food",
+      "soundmark": "/'prɛʃəs/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "precise",
+      "chinese": "准确的销售数据",
+      "english": "precise sales figures",
+      "soundmark": "/prɪ'saɪs/",
+      "posTags": [[0, 0, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "preface",
+      "chinese": "…凯尔曼小说的前言。",
+      "english": "...the preface to Kelman's novel.",
+      "soundmark": "/'prɛfəs/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "preferable",
+      "chinese": "做这道菜，用新鲜香草和大蒜更好。",
+      "english": "For this dish, fresh herbs and garlic are preferable.",
+      "soundmark": "/'prɛfrəbl/",
+      "posTags": [[8, 8, "形容词"]],
+      "syntaxTags": [
+        [0, 6, "主语", "NP"],
+        [7, 7, "系动词", "VP"],
+        [8, 8, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "preliminary",
+      "chinese": "竞赛的预赛阶段",
+      "english": "the preliminary stages of the competition",
+      "soundmark": "/prɪ'lɪmɪnɛri/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "preparation",
+      "chinese": "新学校的设计图正在绘制中。",
+      "english": "Plans for the new school are now in preparation .",
+      "soundmark": "/,prɛpə'reʃən/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "preposition",
+      "chinese": "在语法规则中没有哪一条表明以介词结束一个句子是错误的。",
+      "english": "There is nothing in the rules of grammar to suggest that ending a sentence with a preposition is wrong.",
+      "soundmark": "/,prɛpə'zɪʃən/",
+      "posTags": [[16, 16, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 2, "表语", "NP"],
+        [3, 18, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "prescribe",
+      "chinese": "内科医生检查了病人，然后对疾病作出诊断，并开出药方。",
+      "english": "The physician examines the patient then diagnoses the disease and prescribes medication.",
+      "soundmark": "/prɪ'skraɪb/",
+      "posTags": [[10, 10, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 11, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "presence",
+      "chinese": "敬请出席于周五举行的俱乐部会议。",
+      "english": "Your presence is requested at the club meeting on Friday.",
+      "soundmark": "/'prɛzns/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "present",
+      "chinese": "遭受贫困和疾病折磨的数百万人民的现状",
+      "english": "the present situation of the millions of people who are suffering poverty and disease",
+      "soundmark": "/'prɛznt/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 9, "主语", "NP"],
+        [10, 10, "谓语动词", "VP"],
+        [11, 13, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "presently",
+      "chinese": "医生一会儿就到。",
+      "english": "The doctor will be here presently.",
+      "soundmark": "/'prɛzntli/",
+      "posTags": [[5, 5, "副词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "president",
+      "chinese": "布什总统",
+      "english": "President Bush",
+      "soundmark": "/'prɛzɪdənt/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [[0, 1, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "press",
+      "chinese": "曼维尔后背紧紧地贴在墙上。",
+      "english": "Manville kept his back pressed flat against the wall.",
+      "soundmark": "/prɛs/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 5, "宾语", "NP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "pressure",
+      "chinese": "他们正在向民众施加压力，要求他们投赞成票。",
+      "english": "They are putting pressure on people to vote yes.",
+      "soundmark": "/'prɛʃɚ/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 3, "表语", "NP"],
+        [4, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "pretend",
+      "chinese": "我们假装自己是在月球上吧。",
+      "english": "Let’s pretend we’re on the moon.",
+      "soundmark": "/prɪ'tɛnd/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [[0, 5, "祈使句式", "Imperative"]]
+    },
+    {
+      "word": "pretty",
+      "chinese": "漂亮的小姑娘",
+      "english": "a pretty little girl",
+      "soundmark": "/'prɪti/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "price",
+      "chinese": "为了短短几年的辉煌，他们也许要付出高昂的代价。",
+      "english": "They may pay a high price for their few years of glory.",
+      "soundmark": "/praɪs/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"],
+        [6, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "pride",
+      "chinese": "他自豪地戴着奖章。",
+      "english": "He wore his medals with pride.",
+      "soundmark": "/praɪd/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "谓语动词", "VP"]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,584 @@
+{
+  "title": "Unit 83: 四级核心词汇（guy ~ deputy）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "guy",
+      "chinese": "戴夫是个好人，你了解他后就知道了。",
+      "english": "Dave’s a nice guy when you get to know him.",
+      "soundmark": "/gaɪ/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 8, "谓语动词", "VP"],
+        [9, 9, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "violence",
+      "chinese": "她言辞激烈，令他们俩都很惊讶。",
+      "english": "She spoke with a violence that surprised them both.",
+      "soundmark": "/'vaɪələns/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "cop",
+      "chinese": "本地警察",
+      "english": "the local cop",
+      "soundmark": "/kɑp/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "lad",
+      "chinese": "小伙子",
+      "english": "a young lad",
+      "soundmark": "/læd/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "well-known",
+      "chinese": "这可能是他们最有名的歌曲。",
+      "english": "This is probably their best-known song.",
+      "soundmark": "/,wɛl'non/",
+      "posTags": [[0, 0, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 5, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "surge",
+      "chinese": "那些摄影和摄像师们涌向前去。",
+      "english": "The photographers and cameramen surged forward.",
+      "soundmark": "/sɝdʒ/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "tutor",
+      "chinese": "他是由家庭教师教的。",
+      "english": "He was privately tutored.",
+      "soundmark": "/'tʊtɚ/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 3, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "senator",
+      "chinese": "肯尼迪参议员",
+      "english": "Senator Kennedy",
+      "soundmark": "/'sɛnətɚ/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [[0, 1, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "thirsty",
+      "chinese": "我能喝一杯水吗？ 我太渴了。",
+      "english": "Can I have a glass of water? I’m really thirsty.",
+      "soundmark": "/'θɝsti/",
+      "posTags": [[9, 9, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 4, "宾语", "NP"],
+        [5, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "obligation",
+      "chinese": "雇主有责任对所有员工一视同仁。",
+      "english": "Employers have an obligation to treat all employees equally.",
+      "soundmark": "/,ɑblɪ'ɡeʃən/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "governor",
+      "chinese": "学校董事",
+      "english": "a school governor",
+      "soundmark": "/'ɡʌvɚnɚ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "combat",
+      "chinese": "我们在战争中执行过两百多次战斗飞行任务。",
+      "english": "We flew over 200 combat missions in the war.",
+      "soundmark": "/'kɑmbæt/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 5, "宾语", "NP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "victim",
+      "chinese": "受害人头部受伤，一周后死亡。",
+      "english": "The victim received head injuries from which she died a week later.",
+      "soundmark": "/'vɪktɪm/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 4, "宾语", "NP"],
+        [5, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "garlic",
+      "chinese": "加一瓣压碎的大蒜。",
+      "english": "Add a crushed clove of garlic (= single section of it ).",
+      "soundmark": "/'ɡɑrlɪk/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 3, "宾语", "NP"],
+        [4, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "fantastic",
+      "chinese": "你看上去棒极了！",
+      "english": "You look fantastic!",
+      "soundmark": "/fæn'tæstɪk/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "supply",
+      "chinese": "这个国家的燃料供应不会无穷无尽。",
+      "english": "The nation’s fuel supplies will not last forever.",
+      "soundmark": "/sə'plaɪ/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 5, "谓语动词", "VP"],
+        [6, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "confidential",
+      "chinese": "一份机密的政府报告",
+      "english": "a confidential government report",
+      "soundmark": "/,kɑnfɪ'dɛnʃl/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "chaos",
+      "chinese": "这个国家陷入了经济大混乱。",
+      "english": "The country was plunged into economic chaos.",
+      "soundmark": "/'keɑs/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "cue",
+      "chinese": "她紧张地站在台侧等待出场的提示。",
+      "english": "She stood nervously in the wings waiting for her cue.",
+      "soundmark": "/kju/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "enroll",
+      "chinese": "并且，随着在线教育的崛起，你甚至可以参加认证课程，在下班工夫里学习和改善本人的职业生涯。",
+      "english": "And, with the rise of online education, you can even enroll in certified programs that allow you to learn and improve your career during your off-hours.",
+      "soundmark": "/ɪn'rol/",
+      "posTags": [[10, 10, "动词"]],
+      "syntaxTags": [
+        [0, 7, "主语", "NP"],
+        [8, 8, "谓语动词", "VP"],
+        [9, 10, "宾语", "NP"],
+        [11, 25, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "sunrise",
+      "chinese": "富士山日出的照片",
+      "english": "a picture of sunrise over Mount Fuji",
+      "soundmark": "/'sʌnraɪz/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "starve",
+      "chinese": "如果食品不能运到那座城市，成千上万的人就要饿死。",
+      "english": "Thousands of people will starve if food doesn’t reach the city.",
+      "soundmark": "/stɑrv/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "谓语动词", "VP"],
+        [5, 10, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "clay",
+      "chinese": "…佐治亚州厚重的黏土的土壤。",
+      "english": "...the heavy clay soils of Georgia.",
+      "soundmark": "/kle/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "anyway",
+      "chinese": "让我们想一想，至少考虑几天。",
+      "english": "Let’s think about it for a while, for a few days anyway.",
+      "soundmark": "/'ɛnɪ'we/",
+      "posTags": [[11, 11, "副词"]],
+      "syntaxTags": [
+        [0, 6, "祈使句式", "Imperative"],
+        [7, 11, "补充陈述分句", "Sentence"]
+      ]
+    },
+    {
+      "word": "currency",
+      "chinese": "这家银行能为你提供外币。",
+      "english": "The bank can supply you with foreign currency .",
+      "soundmark": "/ˈkɜrənsi/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 4, "宾语", "NP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "legislation",
+      "chinese": "这是一条非常重要的法规。",
+      "english": "This is a very important piece of legislation (= law ).",
+      "soundmark": "/,lɛdʒɪs'leʃən/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 5, "表语", "NP"],
+        [6, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "clause",
+      "chinese": "合同中加上了一项保密条款。",
+      "english": "A confidentiality clause was added to the contract.",
+      "soundmark": "/klɔz/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 5, "系动词", "VP"],
+        [6, 7, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "quiz",
+      "chinese": "杂志上的爱情问答",
+      "english": "a love quiz in a magazine",
+      "soundmark": "/kwɪz/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "surplus",
+      "chinese": "埃塞俄比亚没有多余的食物。",
+      "english": "Ethiopia has no surplus food.",
+      "soundmark": "/'sɝpləs/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "correspondence",
+      "chinese": "一个秘书每个星期来两次处理他的信件。",
+      "english": "A secretary came in twice a week to deal with his correspondence.",
+      "soundmark": "/,kɔrə'spɑndəns/",
+      "posTags": [[11, 11, "名词"]],
+      "syntaxTags": [
+        [0, 7, "主语", "NP"],
+        [8, 8, "谓语动词", "VP"],
+        [9, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "declaration",
+      "chinese": "停火声明",
+      "english": "a ceasefire declaration",
+      "soundmark": "/,dɛklə'reʃən/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "diagram",
+      "chinese": "这是一个比我刚展示的还要更简单的图解，但是原理是一样的。",
+      "english": "This is a simpler diagram than the one I just showed you but the principles are the same.",
+      "soundmark": "/'daɪəɡræm/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 17, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "prayer",
+      "chinese": "在这艰难时期我们时刻思念你，为你祈祷。",
+      "english": "Our thoughts and prayers are with you at this difficult time.",
+      "soundmark": "/prɛr/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "系动词", "VP"],
+        [5, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "charm",
+      "chinese": "迪斯尼1937年的经典之作《白雪公主和七个小矮人》从未丧失其最初的魅力。",
+      "english": "\"Snow White and the Seven Dwarfs,\" the 1937 Disney classic, has lost none of its original charm.",
+      "soundmark": "/tʃɑrm/",
+      "posTags": [[16, 16, "名词"]],
+      "syntaxTags": [
+        [0, 9, "主语", "NP"],
+        [10, 11, "谓语动词", "VP"],
+        [12, 12, "宾语", "NP"],
+        [13, 16, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "deception",
+      "chinese": "她没有勇气承认自己的欺骗行为。",
+      "english": "She didn’t have the courage to admit to her deception.",
+      "soundmark": "/dɪ'sɛpʃən/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "given",
+      "chinese": "在休斯敦地区，任何一天医院的床位都有一半是空的。",
+      "english": "On any given day in the Houston area, half the hospital beds are empty.",
+      "soundmark": "/'ɡɪvn/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "solicitor",
+      "chinese": "你需要找个律师。",
+      "english": "You need to see a solicitor.",
+      "soundmark": "/sə'lɪsɪtɚ/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "pepper",
+      "chinese": "盐和胡椒粉",
+      "english": "salt and pepper",
+      "soundmark": "/'pɛpɚ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "doctoral",
+      "chinese": "博士论文",
+      "english": "a doctoral thesis",
+      "soundmark": "/'dɔktərəl/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "video",
+      "chinese": "语言教学的影像素材",
+      "english": "video materials for language teaching",
+      "soundmark": "/'vɪdɪo/",
+      "posTags": [[0, 0, "形容词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "weapon",
+      "chinese": "他们都持有棍棒，打算当武器用。",
+      "english": "They all had sticks which they planned to use as weapons.",
+      "soundmark": "/'wɛpən/",
+      "posTags": [[10, 10, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 6, "宾语", "NP"],
+        [7, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "stare",
+      "chinese": "她坐在那里，出神地凝视前方。",
+      "english": "She sat there staring into space (= looking for a long time at nothing ) .",
+      "soundmark": "/stɛr/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 15, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "center",
+      "chinese": "在这个例子中，您会以中心为原点旋转一个正方形，但不填充这个正方形。",
+      "english": "In this example, you rotate a square on its center, but do not fill the square.",
+      "soundmark": "/'sɛntɚ/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 6, "宾语", "NP"],
+        [7, 15, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "suspicion",
+      "chinese": "我不能确切说是谁干的，但我肯定有怀疑的对象。",
+      "english": "I can’t say for definite who did it, but I certainly have my suspicions .",
+      "soundmark": "/sə'spɪʃən/",
+      "posTags": [[13, 13, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 14, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "generic",
+      "chinese": "巴尔马干酪是一个用来描述一类坚硬的意大利奶酪的通用名称。",
+      "english": "Parmesan is a generic term used to describe a family of hard Italian cheeses.",
+      "soundmark": "/dʒə'nɛrɪk/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 5, "表语", "NP"],
+        [6, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "studio",
+      "chinese": "电视演播室",
+      "english": "a TV studio",
+      "soundmark": "/'studɪo/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "whoever",
+      "chinese": "谁想去我就带谁去。",
+      "english": "I’ll take whoever wants to go.",
+      "soundmark": "/hʊ'ɛvɚ/",
+      "posTags": [[2, 2, "代词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "specifically",
+      "chinese": "专门针对儿童的广告",
+      "english": "advertising that specifically targets children",
+      "soundmark": "/spə'sɪfɪkli/",
+      "posTags": [[2, 2, "副词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "controversial",
+      "chinese": "福利改革这一有争议的话题",
+      "english": "the controversial issue of welfare reform",
+      "soundmark": "/,kɑntrə'vɝʃl/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "deputy",
+      "chinese": "…法国文化部长杰克·朗和他的副手凯瑟琳·塔斯卡。",
+      "english": "...Jack Lang, France's minister for culture, and his deputy, Catherine Tasca.",
+      "soundmark": "/'dɛpjuti/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [[0, 10, "名词短语/固定搭配", "NP"]]
+    }
+  ]
+}

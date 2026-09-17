@@ -1,0 +1,565 @@
+{
+  "title": "Unit 46: 四级核心词汇（fifteen ~ follow）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "fifteen",
+      "chinese": "土伦以南15英里的一个滨海村落",
+      "english": "a coastal village fifteen miles south of Tourane",
+      "soundmark": "/,fɪf'tin/",
+      "posTags": [[3, 3, "数词"]],
+      "syntaxTags": [[0, 7, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "fifth",
+      "chinese": "五分之一加仑的波旁威士忌酒",
+      "english": "a fifth of bourbon",
+      "soundmark": "/fɪfθ/",
+      "posTags": [[1, 1, "数词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "fifty",
+      "chinese": "50年代生活水平提高了。",
+      "english": "Standards of living rose in the fifties.",
+      "soundmark": "/'fɪfti/",
+      "posTags": [[0, 0, "数词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "fight",
+      "chinese": "两个国家都没有能力打持久战。",
+      "english": "Neither country is capable of fighting a long war .",
+      "soundmark": "/faɪt/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 3, "表语", "NP"],
+        [4, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "file",
+      "chinese": "我们将把你的详细资料存档。",
+      "english": "We will keep your details on file (= store them for later use ) .",
+      "soundmark": "/faɪl/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 14, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "fill",
+      "chinese": "他给她倒了一杯，然后将自己的杯子斟满。",
+      "english": "He poured her a drink, then filled his own glass.",
+      "soundmark": "/fɪl/",
+      "posTags": [[6, 6, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 9, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "film",
+      "chinese": "你最近看过什么好的影片吗？",
+      "english": "Have you seen any good films recently?",
+      "soundmark": "/fɪlm/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [[0, 6, "疑问句", "Question"]]
+    },
+    {
+      "word": "filter",
+      "chinese": "鱼缸里的水在不停地被过滤。",
+      "english": "The water in the tank is constantly filtered.",
+      "soundmark": "/'fɪltɚ/",
+      "posTags": [[7, 7, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "final",
+      "chinese": "最后一集将于今晚播出。",
+      "english": "The final episode will be shown tonight.",
+      "soundmark": "/'faɪnl/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 5, "谓语动词", "VP"],
+        [6, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "finally",
+      "chinese": "几经耽搁后，我们终于在六点起飞了。",
+      "english": "After several delays we finally took off at six o’clock.",
+      "soundmark": "/'faɪnəli/",
+      "posTags": [[4, 4, "副词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "谓语动词", "VP"],
+        [6, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "find",
+      "chinese": "我找不到汽车钥匙。",
+      "english": "I can’t find the car keys.",
+      "soundmark": "/faɪnd/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "finding",
+      "chinese": "在其他国家进行的调查也报告说有类似的结果。",
+      "english": "Surveys conducted in other countries reported similar findings.",
+      "soundmark": "/'faɪndɪŋ/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "fine",
+      "chinese": "很多人认为贝多芬的第五交响曲是他最杰出的作品。",
+      "english": "Many people regard Beethoven’s fifth symphony as his finest work.",
+      "soundmark": "/faɪn/",
+      "posTags": [[8, 8, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 9, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "finger",
+      "chinese": "那女人手指上戴着戒指，因此我猜想她已经结婚了。",
+      "english": "The woman had a ring on her finger, so I assumed she was married.",
+      "soundmark": "/'fɪŋɡɚ/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "finish",
+      "chinese": "没完成家庭作业前你哪儿也不能去。",
+      "english": "You can’t go anywhere until you’ve finished your homework.",
+      "soundmark": "/'fɪnɪʃ/",
+      "posTags": [[6, 6, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "fire",
+      "chinese": "仓库全给烧毁了。",
+      "english": "The warehouse was completely destroyed by fire.",
+      "soundmark": "/faɪr/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 4, "表语", "NP"],
+        [5, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "fireman",
+      "chinese": "你愿意是一名消防队员吗？",
+      "english": "Would you like to be a fireman?",
+      "soundmark": "/'faɪrmən/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [[0, 6, "疑问句", "Question"]]
+    },
+    {
+      "word": "firm",
+      "chinese": "这家公司的雇员们正期待着大笔的奖金。",
+      "english": "The firm's employees were expecting large bonuses.",
+      "soundmark": "/fɝm/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "系动词", "VP"],
+        [5, 6, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "first",
+      "chinese": "这些成绩在女运动员历史上是第一次。",
+      "english": "These results are firsts in the history of women’s athletics.",
+      "soundmark": "/fɝst/",
+      "posTags": [[3, 3, "数词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "fish",
+      "chinese": "那片礁石周围的水域生活着1,500多种不同的鱼类。",
+      "english": "Over 1,500 different species of fish inhabit the waters around the reef.",
+      "soundmark": "/fɪʃ/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 6, "谓语动词", "VP"],
+        [7, 11, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "fisherman",
+      "chinese": "阿尔加维对河边的垂钓者或深海的渔民都是一个天堂。",
+      "english": "The Algarve is a paradise for fishermen whether river anglers or deep-sea fishermen.",
+      "soundmark": "/'fɪʃɚmən/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 4, "表语", "NP"],
+        [5, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "fist",
+      "chinese": "她把钱紧紧地攥在手中。",
+      "english": "She held the money tightly in her fist.",
+      "soundmark": "/fɪst/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [[0, 7, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "fit",
+      "chinese": "这些腰带、和服和其他衣服都做得适合孩子穿。",
+      "english": "The sash, kimono, and other garments were made to fit a child.",
+      "soundmark": "/fɪt/",
+      "posTags": [[9, 9, "动词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 9, "系动词", "VP"],
+        [10, 11, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "five",
+      "chinese": "五英里外还有个高尔夫球场。",
+      "english": "There is also a golf course five miles away.",
+      "soundmark": "/faɪv/",
+      "posTags": [[6, 6, "数词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 8, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "fix",
+      "chinese": "他将确定一个我可以见他的时间。",
+      "english": "He's going to fix a time when I can see him.",
+      "soundmark": "/fɪks/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 10, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "flag",
+      "chinese": "孩子们挥舞着旗帜，欢迎俄罗斯领导人。",
+      "english": "Children waving flags greeted the Russian leader.",
+      "soundmark": "/flæg/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "flame",
+      "chinese": "火焰从大楼窗口冒出来。",
+      "english": "Flames poured out of the windows of the building.",
+      "soundmark": "/flem/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "flare",
+      "chinese": "一种可能的原因是这种爆炸很像有超级能量的太阳耀斑。",
+      "english": "One possibility is that the blast was like an ultra-powerful solar flare.",
+      "soundmark": "/flɛr/",
+      "posTags": [[11, 11, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 11, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "flash",
+      "chinese": "两次闪光表示危险。",
+      "english": "Two flashes mean danger.",
+      "soundmark": "/flæʃ/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "flat",
+      "chinese": "平顶房",
+      "english": "houses with flat roofs",
+      "soundmark": "/flæt/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "flavour",
+      "chinese": "你要哪种味道的，巧克力还是香草？",
+      "english": "Which flavour do you want - chocolate or vanilla?",
+      "soundmark": "/'fleivə/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 8, "疑问句", "Question"]]
+    },
+    {
+      "word": "fleet",
+      "chinese": "美国第七舰队",
+      "english": "the US seventh fleet",
+      "soundmark": "/flit/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "flesh",
+      "chinese": "一种肉色雪白、肉质紧实的淡水鱼",
+      "english": "a freshwater fish with firm white flesh",
+      "soundmark": "/flɛʃ/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "flight",
+      "chinese": "他当即就订了去图卢兹的航班。",
+      "english": "He immediately booked a flight to Toulouse.",
+      "soundmark": "/flaɪt/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "float",
+      "chinese": "我仰望着天上的浮云。",
+      "english": "I looked up at the clouds floating in the sky.",
+      "soundmark": "/flot/",
+      "posTags": [[6, 6, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "flock",
+      "chinese": "他们养了一小群绵羊。",
+      "english": "They kept a small flock of sheep.",
+      "soundmark": "/flɑk/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 6, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "flood",
+      "chinese": "那个村子因洪水而与外界中断了联系。",
+      "english": "The village was cut off by floods.",
+      "soundmark": "/flʌd/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "floor",
+      "chinese": "上过蜡的木地板",
+      "english": "a polished wooden floor",
+      "soundmark": "/flɔr/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "flourish",
+      "chinese": "经济繁荣，小企业蒸蒸日上。",
+      "english": "The economy is booming and small businesses are flourishing.",
+      "soundmark": "/ˈflɜːrɪʃ/",
+      "posTags": [[8, 8, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 8, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "flower",
+      "chinese": "一簇开着娇嫩的粉红色花朵的美丽蔷薇",
+      "english": "a lovely rose bush with delicate pink flowers",
+      "soundmark": "/'flaʊɚ/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [[0, 7, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "flu",
+      "chinese": "史蒂文患了流感，仍卧病在床。",
+      "english": "Steven’s still in bed with flu .",
+      "soundmark": "/flu/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [[0, 6, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "fluent",
+      "chinese": "他用流利的意大利语讲话。",
+      "english": "He spoke in fluent Italian.",
+      "soundmark": "/'fluənt/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "fluid",
+      "chinese": "他还不能吃固体食物，只能进流食。",
+      "english": "He is not allowed solid food yet, only fluids.",
+      "soundmark": "/'fluɪd/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "系动词", "VP"],
+        [4, 8, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "flush",
+      "chinese": "苏珊脸涨得通红，目光转向别处。",
+      "english": "Susan flushed deeply and looked away.",
+      "soundmark": "/flʌʃ/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "fly",
+      "chinese": "苍蝇嗡嗡地在我们周围飞来飞去。",
+      "english": "There were flies buzzing all around us.",
+      "soundmark": "/flaɪ/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "系动词", "VP"],
+        [4, 6, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "focus",
+      "chinese": "他的双眼盯着正前方。",
+      "english": "His eyes were focussed straight ahead.",
+      "soundmark": "/'fokəs/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 5, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "fog",
+      "chinese": "今夜天气寒冷，部分地区可能有雾。",
+      "english": "It will be a cold night, and there may be fog patches .",
+      "soundmark": "/fɔɡ/",
+      "posTags": [[10, 10, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 12, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "fold",
+      "chinese": "沿虚线将纸折起来。",
+      "english": "Fold the paper along the dotted line.",
+      "soundmark": "/fold/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "folk",
+      "chinese": "我敢肯定有些人宁愿自己不在这里。",
+      "english": "I’m sure there are some folk who would rather they weren’t here.",
+      "soundmark": "/fok/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "系动词", "VP"],
+        [4, 11, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "follow",
+      "chinese": "那些人在跟着我们吗？",
+      "english": "Are those men following us?",
+      "soundmark": "/'fɑlo/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [[0, 4, "疑问句", "Question"]]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "title": "看病购药与紧急求助",
+  "description": "覆盖身体不适、药店咨询、就医沟通、保险信息和紧急求助场景。",
+  "data": [
+    {
+      "chinese": "附近有营业中的药店吗？",
+      "english": "Is there a pharmacy open nearby?"
+    },
+    {
+      "chinese": "我从今天早上开始一直头疼。",
+      "english": "I have had a headache since this morning."
+    },
+    {
+      "chinese": "这种药需要处方吗？",
+      "english": "Do I need a prescription for this medicine?"
+    },
+    {
+      "chinese": "我对青霉素过敏。",
+      "english": "I am allergic to penicillin."
+    },
+    {
+      "chinese": "我应该多久服用一次？",
+      "english": "How often should I take it?"
+    },
+    {
+      "chinese": "我的朋友呼吸困难，请叫救护车。",
+      "english": "My friend is having trouble breathing, so please call an ambulance."
+    },
+    {
+      "chinese": "我需要一位会说英语的医生。",
+      "english": "I need a doctor who speaks English."
+    },
+    {
+      "chinese": "这是我的旅行保险信息。",
+      "english": "Here is my travel insurance information."
+    },
+    {
+      "chinese": "最近的急诊室在哪里？",
+      "english": "Where is the nearest emergency room?"
+    },
+    {
+      "chinese": "我现在感觉好多了，谢谢你的帮助。",
+      "english": "I feel much better now, thank you for your help."
+    }
+  ]
+}

@@ -1,0 +1,566 @@
+{
+  "title": "研发协作综合实战",
+  "description": "扩展部署、运维、安全、数据、接口、测试、性能与团队协作高频表达。",
+  "data": [
+    {
+      "chinese": "我们先把这个版本部署到预发布环境。",
+      "english": "Let's deploy this version to staging first."
+    },
+    {
+      "chinese": "生产环境的配置与本地环境不同。",
+      "english": "The production configuration differs from the local setup."
+    },
+    {
+      "chinese": "请在发布前备份数据库。",
+      "english": "Please back up the database before deployment."
+    },
+    {
+      "chinese": "新版本正在逐步推送给用户。",
+      "english": "The new release is rolling out gradually."
+    },
+    {
+      "chinese": "我们可以在流量较低时发布。",
+      "english": "We can deploy during the low-traffic window."
+    },
+    {
+      "chinese": "这个容器需要更多可用内存。",
+      "english": "This container needs more available memory."
+    },
+    {
+      "chinese": "自动扩容策略尚未生效。",
+      "english": "The autoscaling policy has not taken effect yet."
+    },
+    {
+      "chinese": "请确认所有环境变量都已设置。",
+      "english": "Please confirm all environment variables are set."
+    },
+    {
+      "chinese": "构建产物已上传到制品仓库。",
+      "english": "The build artifact is uploaded to the registry."
+    },
+    {
+      "chinese": "我们需要刷新边缘节点的缓存。",
+      "english": "We need to refresh the edge cache."
+    },
+    {
+      "chinese": "健康检查一直返回成功状态。",
+      "english": "The health check keeps returning a success status."
+    },
+    {
+      "chinese": "这个服务目前运行在三个区域。",
+      "english": "This service currently runs in three regions."
+    },
+    {
+      "chinese": "旧实例会在切换后自动终止。",
+      "english": "Old instances will terminate automatically after the switch."
+    },
+    {
+      "chinese": "请不要把密钥写进镜像。",
+      "english": "Please do not bake secrets into the image."
+    },
+    {
+      "chinese": "我们应该为静态资源启用压缩。",
+      "english": "We should enable compression for static assets."
+    },
+    {
+      "chinese": "部署流水线卡在审批步骤了。",
+      "english": "The deployment pipeline is stuck at approval."
+    },
+    {
+      "chinese": "这个版本可以安全回滚。",
+      "english": "This release can be rolled back safely."
+    },
+    {
+      "chinese": "回滚后错误率恢复了正常。",
+      "english": "The error rate normalized after the rollback."
+    },
+    {
+      "chinese": "蓝绿部署可以减少停机时间。",
+      "english": "Blue-green deployment can reduce downtime."
+    },
+    {
+      "chinese": "我们暂时关闭这个功能开关。",
+      "english": "We are disabling this feature flag temporarily."
+    },
+    {
+      "chinese": "证书将在下个月到期。",
+      "english": "The certificate will expire next month."
+    },
+    {
+      "chinese": "域名解析可能仍在传播。",
+      "english": "The DNS change may still be propagating."
+    },
+    {
+      "chinese": "负载均衡器没有检测到健康实例。",
+      "english": "The load balancer detects no healthy instances."
+    },
+    {
+      "chinese": "请检查服务账户的权限。",
+      "english": "Please check the service account permissions."
+    },
+    {
+      "chinese": "这个任务每天凌晨运行一次。",
+      "english": "This job runs once every night."
+    },
+    {
+      "chinese": "我们已经超过本月的云预算。",
+      "english": "We have exceeded this month's cloud budget."
+    },
+    {
+      "chinese": "闲置资源应该在周末关闭。",
+      "english": "Idle resources should be stopped over the weekend."
+    },
+    {
+      "chinese": "请为这个存储桶启用版本控制。",
+      "english": "Please enable versioning for this storage bucket."
+    },
+    {
+      "chinese": "网络策略阻止了服务间通信。",
+      "english": "The network policy blocks communication between services."
+    },
+    {
+      "chinese": "发布完成后请做一次冒烟测试。",
+      "english": "Please run a smoke test after deployment."
+    },
+    {
+      "chinese": "我们刚收到延迟过高的告警。",
+      "english": "We just received a high-latency alert."
+    },
+    {
+      "chinese": "问题似乎只影响移动端用户。",
+      "english": "The issue appears to affect mobile users only."
+    },
+    {
+      "chinese": "你能稳定复现这个故障吗？",
+      "english": "Can you reproduce the failure consistently?"
+    },
+    {
+      "chinese": "请把相关日志贴到事故频道。",
+      "english": "Please share the relevant logs in the incident channel."
+    },
+    {
+      "chinese": "第一个错误出现在数据库重启之后。",
+      "english": "The first error appeared after the database restart."
+    },
+    {
+      "chinese": "我们正在缩小可能的根因范围。",
+      "english": "We are narrowing down the possible root cause."
+    },
+    {
+      "chinese": "最近的代码变更看起来无关。",
+      "english": "The recent code change looks unrelated."
+    },
+    {
+      "chinese": "缓存命中率突然大幅下降。",
+      "english": "The cache hit rate dropped sharply."
+    },
+    {
+      "chinese": "一个依赖服务正在间歇性超时。",
+      "english": "A dependency is timing out intermittently."
+    },
+    {
+      "chinese": "重启实例只能暂时缓解问题。",
+      "english": "Restarting the instance only provides temporary relief."
+    },
+    {
+      "chinese": "谁来担任这次事故的负责人？",
+      "english": "Who is leading the incident response?"
+    },
+    {
+      "chinese": "我会每十五分钟同步一次状态。",
+      "english": "I will share an update every fifteen minutes."
+    },
+    {
+      "chinese": "用户目前无法完成付款。",
+      "english": "Users cannot complete payments at the moment."
+    },
+    {
+      "chinese": "我们已确认影响范围。",
+      "english": "We have confirmed the scope of impact."
+    },
+    {
+      "chinese": "临时修复已经部署到生产环境。",
+      "english": "The temporary fix is now deployed to production."
+    },
+    {
+      "chinese": "核心服务正在逐步恢复。",
+      "english": "The core services are recovering gradually."
+    },
+    {
+      "chinese": "所有指标已经恢复到基线水平。",
+      "english": "All metrics have returned to baseline."
+    },
+    {
+      "chinese": "我们可以宣布事故结束了。",
+      "english": "We can declare the incident resolved."
+    },
+    {
+      "chinese": "请保留现场证据用于后续分析。",
+      "english": "Please preserve the evidence for later analysis."
+    },
+    {
+      "chinese": "时间线缺少一次关键配置变更。",
+      "english": "The timeline is missing a critical configuration change."
+    },
+    {
+      "chinese": "这次故障不是任何个人的过错。",
+      "english": "This outage was not any individual's fault."
+    },
+    {
+      "chinese": "我们需要记录所有促成因素。",
+      "english": "We need to document every contributing factor."
+    },
+    {
+      "chinese": "监控没有及时发现性能下降。",
+      "english": "Our monitoring missed the early performance degradation."
+    },
+    {
+      "chinese": "以后这个告警应该更早触发。",
+      "english": "This alert should fire earlier next time."
+    },
+    {
+      "chinese": "修复措施需要明确负责人和期限。",
+      "english": "Each corrective action needs an owner and deadline."
+    },
+    {
+      "chinese": "请把复盘安排在本周内。",
+      "english": "Please schedule the review for this week."
+    },
+    {
+      "chinese": "我们应该测试备用区域的切换流程。",
+      "english": "We should test the regional failover process."
+    },
+    {
+      "chinese": "运行手册缺少数据库恢复步骤。",
+      "english": "The runbook lacks database recovery steps."
+    },
+    {
+      "chinese": "这个仪表盘需要增加饱和度指标。",
+      "english": "This dashboard needs a saturation metric."
+    },
+    {
+      "chinese": "经验总结会分享给整个工程团队。",
+      "english": "The lessons learned will be shared across engineering."
+    },
+    {
+      "chinese": "这个接口缺少权限检查。",
+      "english": "This endpoint is missing an authorization check."
+    },
+    {
+      "chinese": "所有敏感字段都必须加密。",
+      "english": "All sensitive fields must be encrypted."
+    },
+    {
+      "chinese": "请不要在日志中记录访问令牌。",
+      "english": "Please do not log access tokens."
+    },
+    {
+      "chinese": "这个密码策略需要更严格。",
+      "english": "This password policy needs to be stricter."
+    },
+    {
+      "chinese": "会话应该在闲置后自动过期。",
+      "english": "Sessions should expire automatically after inactivity."
+    },
+    {
+      "chinese": "我们需要验证所有用户输入。",
+      "english": "We need to validate all user input."
+    },
+    {
+      "chinese": "参数化查询可以防止注入攻击。",
+      "english": "Parameterized queries can prevent injection attacks."
+    },
+    {
+      "chinese": "请转义页面上的动态内容。",
+      "english": "Please escape dynamic content on the page."
+    },
+    {
+      "chinese": "上传文件必须检查类型和大小。",
+      "english": "Uploaded files require type and size validation."
+    },
+    {
+      "chinese": "这个依赖包含一个已知漏洞。",
+      "english": "This dependency contains a known vulnerability."
+    },
+    {
+      "chinese": "安全补丁应该优先发布。",
+      "english": "The security patch should receive release priority."
+    },
+    {
+      "chinese": "我们需要轮换泄露的密钥。",
+      "english": "We need to rotate the exposed secret."
+    },
+    {
+      "chinese": "请撤销这个旧的访问令牌。",
+      "english": "Please revoke this old access token."
+    },
+    {
+      "chinese": "管理员操作必须保留审计记录。",
+      "english": "Administrative actions must leave an audit trail."
+    },
+    {
+      "chinese": "这个角色拥有过多数据库权限。",
+      "english": "This role has excessive database privileges."
+    },
+    {
+      "chinese": "默认应该拒绝未知请求。",
+      "english": "Unknown requests should be denied by default."
+    },
+    {
+      "chinese": "我们只收集必要的个人数据。",
+      "english": "We collect only the personal data we need."
+    },
+    {
+      "chinese": "备份文件也需要静态加密。",
+      "english": "Backup files also require encryption at rest."
+    },
+    {
+      "chinese": "请确认跨域规则足够严格。",
+      "english": "Please confirm the cross-origin rules are restrictive."
+    },
+    {
+      "chinese": "速率限制可以减轻暴力破解。",
+      "english": "Rate limiting can reduce brute-force attempts."
+    },
+    {
+      "chinese": "双重验证将对管理员强制启用。",
+      "english": "Two-factor authentication will be mandatory for administrators."
+    },
+    {
+      "chinese": "错误信息不应暴露内部细节。",
+      "english": "Error messages should not expose internal details."
+    },
+    {
+      "chinese": "请检查重定向地址是否可信。",
+      "english": "Please verify that the redirect address is trusted."
+    },
+    {
+      "chinese": "用户可以导出和删除自己的数据。",
+      "english": "Users can export and delete their own data."
+    },
+    {
+      "chinese": "我们需要一次独立的安全评审。",
+      "english": "We need an independent security review."
+    },
+    {
+      "chinese": "威胁模型遗漏了内部攻击者。",
+      "english": "The threat model overlooks an internal attacker."
+    },
+    {
+      "chinese": "请报告任何可疑的登录活动。",
+      "english": "Please report any suspicious login activity."
+    },
+    {
+      "chinese": "修复后我们会重新运行安全扫描。",
+      "english": "We will rerun the security scan after fixing it."
+    },
+    {
+      "chinese": "最小权限原则适用于所有服务账户。",
+      "english": "Least privilege applies to every service account."
+    },
+    {
+      "chinese": "这个字段应该允许空值吗？",
+      "english": "Should this field allow null values?"
+    },
+    {
+      "chinese": "我们需要为邮箱列建立索引。",
+      "english": "We need an index on the email column."
+    },
+    {
+      "chinese": "这个查询扫描了整张表。",
+      "english": "This query scans the entire table."
+    },
+    {
+      "chinese": "执行计划显示了一次昂贵的排序。",
+      "english": "The execution plan shows an expensive sort."
+    },
+    {
+      "chinese": "请避免在循环中重复查询。",
+      "english": "Please avoid repeated queries inside the loop."
+    },
+    {
+      "chinese": "事务必须保持这些更新的一致性。",
+      "english": "The transaction must keep these updates consistent."
+    },
+    {
+      "chinese": "这个迁移会锁住大表。",
+      "english": "This migration will lock a large table."
+    },
+    {
+      "chinese": "我们应该分批回填历史数据。",
+      "english": "We should backfill historical data in batches."
+    },
+    {
+      "chinese": "旧列将在下个版本删除。",
+      "english": "The old column will be removed next release."
+    },
+    {
+      "chinese": "请先验证备份可以恢复。",
+      "english": "Please verify the backup can be restored."
+    },
+    {
+      "chinese": "这个接口需要支持分页。",
+      "english": "This endpoint needs to support pagination."
+    },
+    {
+      "chinese": "响应应该包含下一页游标。",
+      "english": "The response should include the next-page cursor."
+    },
+    {
+      "chinese": "缺少必填参数时返回什么？",
+      "english": "What happens when a required parameter is missing?"
+    },
+    {
+      "chinese": "请为所有错误使用统一格式。",
+      "english": "Please use a consistent format for all errors."
+    },
+    {
+      "chinese": "客户端应该能够安全重试请求。",
+      "english": "Clients should be able to retry requests safely."
+    },
+    {
+      "chinese": "这个操作需要幂等键。",
+      "english": "This operation requires an idempotency key."
+    },
+    {
+      "chinese": "新字段对旧客户端必须可选。",
+      "english": "The new field must remain optional for older clients."
+    },
+    {
+      "chinese": "我们将在弃用前通知所有使用方。",
+      "english": "We will notify consumers before deprecation."
+    },
+    {
+      "chinese": "请在文档中增加请求示例。",
+      "english": "Please add a request example to the documentation."
+    },
+    {
+      "chinese": "接口契约与当前实现不一致。",
+      "english": "The API contract differs from the current implementation."
+    },
+    {
+      "chinese": "第三方接口今天响应很慢。",
+      "english": "The third-party API is responding slowly today."
+    },
+    {
+      "chinese": "我们需要处理上游的限流响应。",
+      "english": "We need to handle upstream rate limits."
+    },
+    {
+      "chinese": "回调签名验证一直失败。",
+      "english": "The webhook signature verification keeps failing."
+    },
+    {
+      "chinese": "请记录外部请求的关联编号。",
+      "english": "Please log the correlation identifier for external requests."
+    },
+    {
+      "chinese": "敏感参数不应出现在网址里。",
+      "english": "Sensitive parameters should not appear in the URL."
+    },
+    {
+      "chinese": "这个响应可以缓存五分钟。",
+      "english": "This response can be cached for five minutes."
+    },
+    {
+      "chinese": "批量接口会减少网络往返。",
+      "english": "A batch endpoint will reduce network round trips."
+    },
+    {
+      "chinese": "我们需要明确时间字段的时区。",
+      "english": "We need to specify the timestamp timezone."
+    },
+    {
+      "chinese": "金额应该使用最小货币单位。",
+      "english": "Amounts should use the smallest currency unit."
+    },
+    {
+      "chinese": "请不要依赖返回字段的顺序。",
+      "english": "Please do not rely on response field order."
+    },
+    {
+      "chinese": "我们先明确这个需求解决的问题。",
+      "english": "Let's clarify which problem this requirement solves."
+    },
+    {
+      "chinese": "这个行为是设计如此还是缺陷？",
+      "english": "Is this behavior intentional or a bug?"
+    },
+    {
+      "chinese": "验收标准还缺少边界情况。",
+      "english": "The acceptance criteria still miss edge cases."
+    },
+    {
+      "chinese": "我们能把任务拆得更小吗？",
+      "english": "Can we split this task into smaller pieces?"
+    },
+    {
+      "chinese": "这个方案优化了错误的瓶颈。",
+      "english": "This approach optimizes the wrong bottleneck."
+    },
+    {
+      "chinese": "有没有更简单的替代方案？",
+      "english": "Is there a simpler alternative?"
+    },
+    {
+      "chinese": "短期收益值得增加复杂度吗？",
+      "english": "Is the short-term benefit worth the added complexity?"
+    },
+    {
+      "chinese": "我们需要数据来验证这个假设。",
+      "english": "We need data to validate this assumption."
+    },
+    {
+      "chinese": "请记录这项决策的背景。",
+      "english": "Please document the context behind this decision."
+    },
+    {
+      "chinese": "这个权衡以后可能需要重新评估。",
+      "english": "We may need to revisit this trade-off later."
+    },
+    {
+      "chinese": "旧模块正在拖慢功能交付。",
+      "english": "The legacy module is slowing feature delivery."
+    },
+    {
+      "chinese": "我们应该逐步偿还这项技术债。",
+      "english": "We should reduce this technical debt incrementally."
+    },
+    {
+      "chinese": "重写整个系统的风险太高。",
+      "english": "Rewriting the entire system carries too much risk."
+    },
+    {
+      "chinese": "先用适配层隔离旧接口。",
+      "english": "Use an adapter to isolate the legacy interface first."
+    },
+    {
+      "chinese": "测试覆盖率不是质量的唯一指标。",
+      "english": "Test coverage is not the only quality measure."
+    },
+    {
+      "chinese": "这段代码需要说明为什么这样实现。",
+      "english": "This code needs a comment explaining why."
+    },
+    {
+      "chinese": "文档示例已经落后于当前版本。",
+      "english": "The documentation example is behind the current version."
+    },
+    {
+      "chinese": "请在交接前更新运行手册。",
+      "english": "Please update the runbook before the handover."
+    },
+    {
+      "chinese": "这个决定会影响另一个团队。",
+      "english": "This decision will affect another team."
+    },
+    {
+      "chinese": "我们应该尽早邀请他们参与讨论。",
+      "english": "We should involve them in the discussion early."
+    },
+    {
+      "chinese": "请在合并前清理临时调试代码。",
+      "english": "Please remove temporary debug code before merging."
+    }
+  ]
+}

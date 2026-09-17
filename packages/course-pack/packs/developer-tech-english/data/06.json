@@ -1,0 +1,46 @@
+{
+  "title": "线上故障与应急响应",
+  "description": "覆盖告警确认、影响评估、临时止损、根因分析和故障复盘中的高频技术表达。",
+  "data": [
+    {
+      "chinese": "监控在五分钟前触发了高错误率告警。",
+      "english": "The monitoring system triggered a high error rate alert five minutes ago."
+    },
+    {
+      "chinese": "这个问题目前影响所有移动端用户。",
+      "english": "The issue is currently affecting all mobile users."
+    },
+    {
+      "chinese": "我们先回滚最近一次部署来控制影响范围。",
+      "english": "Let us roll back the latest deployment to contain the impact."
+    },
+    {
+      "chinese": "数据库连接池似乎已经耗尽。",
+      "english": "The database connection pool appears to be exhausted."
+    },
+    {
+      "chinese": "请把相关日志和请求编号发到故障频道。",
+      "english": "Please post the relevant logs and request IDs in the incident channel."
+    },
+    {
+      "chinese": "临时修复已经上线，错误率正在下降。",
+      "english": "The temporary fix is live, and the error rate is dropping."
+    },
+    {
+      "chinese": "我们还没有确认根本原因。",
+      "english": "We have not confirmed the root cause yet."
+    },
+    {
+      "chinese": "这个服务需要增加超时和重试保护。",
+      "english": "This service needs timeout and retry protection."
+    },
+    {
+      "chinese": "恢复服务后我们会继续监控关键指标。",
+      "english": "We will continue monitoring the key metrics after service recovery."
+    },
+    {
+      "chinese": "明天安排一次无责故障复盘。",
+      "english": "Let us schedule a blameless incident review for tomorrow."
+    }
+  ]
+}

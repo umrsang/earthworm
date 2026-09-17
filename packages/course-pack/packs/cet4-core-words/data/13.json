@@ -1,0 +1,604 @@
+{
+  "title": "Unit 13: 四级核心词汇（rare ~ reveal）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "rare",
+      "chinese": "这种植物越来越罕见。",
+      "english": "This species of plant is becoming increasingly rare.",
+      "soundmark": "/rɛr/",
+      "posTags": [[7, 7, "形容词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 5, "系动词", "VP"],
+        [6, 7, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "rational",
+      "chinese": "他看上去是不是一个头脑清醒而理智的人？",
+      "english": "Did he come across as a sane, rational person?",
+      "soundmark": "/'ræʃnəl/",
+      "posTags": [[7, 7, "形容词"]],
+      "syntaxTags": [[0, 8, "疑问句", "Question"]]
+    },
+    {
+      "word": "realistic",
+      "chinese": "这个目标能够实现吗？",
+      "english": "Is this a realistic target?",
+      "soundmark": "/,riə'lɪstɪk/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [[0, 4, "疑问句", "Question"]]
+    },
+    {
+      "word": "rearrange",
+      "chinese": "她开始重新摆放起居室的家具。",
+      "english": "She set about rearranging the furniture in the living room.",
+      "soundmark": "/,riə'rendʒ/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "reception",
+      "chinese": "发生了这些事后，她对自己是否还受欢迎没把握。",
+      "english": "She was unsure of her reception after everything that had happened.",
+      "soundmark": "/rɪ'sɛpʃən/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 2, "表语", "NP"],
+        [3, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "recession",
+      "chinese": "20世纪80年代初的经济衰退",
+      "english": "the economic recession of the early 1980s",
+      "soundmark": "/rɪ'sɛʃən/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 6, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "recharge",
+      "chinese": "该充电器可在约25分钟内完成给电池充电。",
+      "english": "The device can recharge a battery in about 25 minutes.",
+      "soundmark": "/ri:'tʃɑ:dʒ, 'ri:tʃɑ:dʒ/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"],
+        [6, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "recommend",
+      "chinese": "医生极力建议孩子出生时父亲应该在场。",
+      "english": "Doctors strongly recommend that fathers should be present at their baby’s birth.",
+      "soundmark": "/'rɛkə'mɛnd/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 7, "宾语", "NP"],
+        [8, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "recover",
+      "chinese": "发烧几天之后，她开始恢复。",
+      "english": "After a few days of fever, she began to recover.",
+      "soundmark": "/rɪ'kʌvɚ/",
+      "posTags": [[9, 9, "动词"]],
+      "syntaxTags": [
+        [0, 8, "主语", "NP"],
+        [9, 9, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "recruit",
+      "chinese": "我们难以招聘到足够的合格职员。",
+      "english": "We’re having difficulty recruiting enough qualified staff.",
+      "soundmark": "/rɪ'krut/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "reduce",
+      "chinese": "州长宣布了一项降低犯罪率的新计划。",
+      "english": "The governor announced a new plan to reduce crime.",
+      "soundmark": "/rɪ'dʊs/",
+      "posTags": [[7, 7, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "refreshing",
+      "chinese": "草药用于调制清凉饮料已有几百年的历史了。",
+      "english": "Herbs have been used for centuries to make refreshing drinks.",
+      "soundmark": "/ri'frɛʃɪŋ/",
+      "posTags": [[8, 8, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "refuel",
+      "chinese": "飞机在迪拜加过油。",
+      "english": "The plane was refuelled in Dubai.",
+      "soundmark": "/ri'fjʊəl/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "refusal",
+      "chinese": "她的国家因为她拒绝接受变革而受了害。",
+      "english": "Her country suffered through her refusal to accept change.",
+      "soundmark": "/rɪ'fjuzl/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "regular",
+      "chinese": "公司定期召集雇员开会。",
+      "english": "The company holds regular meetings with employees.",
+      "soundmark": "/'rɛgjəlɚ/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "regularly",
+      "chinese": "我们定期见面，每月一次。",
+      "english": "We meet regularly, once a month.",
+      "soundmark": "/'reɡjələli/",
+      "posTags": [[2, 2, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "regulate",
+      "chinese": "限制化学品在食物中使用的严格规定",
+      "english": "strict rules regulating the use of chemicals in food",
+      "soundmark": "/'rɛɡjulet/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "regulation",
+      "chinese": "如今好像条条框框很多。",
+      "english": "There seem to be so many rules and regulations these days.",
+      "soundmark": "/ˌrɛɡjəˈleʃən/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 10, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "relative",
+      "chinese": "两种方法的相对优点都得考虑在内。",
+      "english": "The relative merits of both approaches have to be considered.",
+      "soundmark": "/'rɛlətɪv/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "release",
+      "chinese": "警察逮捕了几个人，后来都释放了。",
+      "english": "Police arrested several men, who were later released.",
+      "soundmark": "/rɪ'lis/",
+      "posTags": [[7, 7, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "relevant",
+      "chinese": "法庭上出示了相关的文件。",
+      "english": "Relevant documents were presented in court.",
+      "soundmark": "/'rɛləvənt/",
+      "posTags": [[0, 0, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "reliable",
+      "chinese": "既便宜又可靠的避孕方法",
+      "english": "a birth control method that is cheap and reliable",
+      "soundmark": "/rɪ'laɪəbl/",
+      "posTags": [[8, 8, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "relieve",
+      "chinese": "药物有助于舒缓疼痛。",
+      "english": "Drugs helped to relieve the pain.",
+      "soundmark": "/rɪ'liv/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "reluctant",
+      "chinese": "她勉强笑了笑。",
+      "english": "She gave a reluctant smile.",
+      "soundmark": "/rɪ'lʌktənt/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "remedy",
+      "chinese": "治疗喉咙疼痛的家庭疗法",
+      "english": "a home remedy (= one that you make at home ) for sore throats",
+      "soundmark": "/'rɛmədi/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 6, "主语", "NP"],
+        [7, 7, "谓语动词", "VP"],
+        [8, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "remove",
+      "chinese": "可去除葡萄酒酒渍的清洁剂",
+      "english": "a cleaner that will remove wine stains",
+      "soundmark": "/rɪ'muv/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "render",
+      "chinese": "为有困难的人提供援助的义务",
+      "english": "an obligation to render assistance to those in need",
+      "soundmark": "/'rɛndɚ/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 4, "宾语", "NP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "renew",
+      "chinese": "当地居民再一次作出努力，挽救这所学校。",
+      "english": "Local people have renewed their efforts to save the school.",
+      "soundmark": "/rɪ'nʊ/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"],
+        [6, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "repave",
+      "chinese": "因此，沥青路面使用一定年限后必须进行大面积的维修，甚至全路段铣刨，重新铺筑。",
+      "english": "Therefore, lots of pavements need to repair in large. scale even repave wholly after using a long time, which will bring large numbers of waste asphalt mixture.",
+      "soundmark": "/ri:'peɪv/",
+      "posTags": [[11, 11, "动词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 6, "谓语动词", "VP"],
+        [7, 26, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "replace",
+      "chinese": "我将接替队里的休。",
+      "english": "I’m replacing Sue on the team.",
+      "soundmark": "/rɪ'ples/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "represent",
+      "chinese": "小林先生被选中代表公司出席会议。",
+      "english": "Mr Kobayashi was chosen to represent the company at the conference.",
+      "soundmark": "/,rɛprɪ'zɛnt/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 3, "表语", "NP"],
+        [4, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "representative",
+      "chinese": "工会代表",
+      "english": "a union representative",
+      "soundmark": "/'rɛprɪ'zɛntətɪv/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "reputation",
+      "chinese": "艾丽斯•门罗有文风抑郁的名声。",
+      "english": "Alice Munro has a reputation for being a very depressing writer.",
+      "soundmark": "/,rɛpju'teʃən/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "request",
+      "chinese": "法国已经同意了他政治避难的请求。",
+      "english": "France had agreed to his request for political asylum.",
+      "soundmark": "/rɪ'kwɛst/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "require",
+      "chinese": "坎贝尔的一条腿骨折，可能需要手术。",
+      "english": "Campbell’s broken leg will probably require surgery.",
+      "soundmark": "/rɪ'kwaɪr/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "rescue",
+      "chinese": "空难的生还者被直升机救了出来。",
+      "english": "Survivors of the crash were rescued by helicopter.",
+      "soundmark": "/'rɛskju/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 5, "谓语动词", "VP"],
+        [6, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "reservation",
+      "chinese": "预订晚餐",
+      "english": "a dinner reservation",
+      "soundmark": "/,rɛzɚ'veʃən/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "resident",
+      "chinese": "正如一位当地居民在五月份对它的描述”白天有政府。",
+      "english": "As one local resident put it in May, \"By day there is government.",
+      "soundmark": "/'rɛzɪdənt/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 5, "宾语", "NP"],
+        [6, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "resign",
+      "chinese": "一位医院主管因为有人声称他的职位是骗来的而辞职了。",
+      "english": "A hospital administrator has resigned over claims he lied to get the job.",
+      "soundmark": "/rɪ'zaɪn/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "谓语动词", "VP"],
+        [5, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "resist",
+      "chinese": "他顶住压力，没辞职。",
+      "english": "He resisted pressure to resign.",
+      "soundmark": "/rɪ'zɪst/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "resolve",
+      "chinese": "巴尼特急需钱来解决他的经济问题。",
+      "english": "Barnet was desperate for money to resolve his financial problems.",
+      "soundmark": "/rɪ'zɑlv/",
+      "posTags": [[6, 6, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 2, "表语", "NP"],
+        [3, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "respectful",
+      "chinese": "他们毕恭毕敬地静听。",
+      "english": "They listened in respectful silence.",
+      "soundmark": "/rɪ'spɛktfəl/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "responsibility",
+      "chinese": "凯利获得提升，这意味着钱多了，责任也更大了。",
+      "english": "Kelly’s promotion means more money and more responsibility.",
+      "soundmark": "/rɪˌspɑːnsəˈbɪləti/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "responsible",
+      "chinese": "我们决意要将肇事者绳之以法。",
+      "english": "We are determined to bring the people responsible to justice.",
+      "soundmark": "/rɪ'spɑnsəbl/",
+      "posTags": [[7, 7, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 4, "系动词", "VP"],
+        [5, 7, "表语", "NP"],
+        [8, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "restock",
+      "chinese": "我得补充冷冻柜里的东西了。",
+      "english": "I have to restock the freezer.",
+      "soundmark": "/ˌri:'stɒk/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "restore",
+      "chinese": "她希望地中海的气候能使她的身体完全复原。",
+      "english": "She was hoping that the Mediterranean climate would restore her to full health.",
+      "soundmark": "/rɪ'stɔr/",
+      "posTags": [[8, 8, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 9, "表语", "NP"],
+        [10, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "restrict",
+      "chinese": "新法规限制手枪的销售。",
+      "english": "The new law restricts the sale of hand guns.",
+      "soundmark": "/rɪ'strɪkt/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "restriction",
+      "chinese": "每小时50英里的限速",
+      "english": "a 50 mph speed restriction",
+      "soundmark": "/rɪ'strɪkʃən/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "retail",
+      "chinese": "8.99英镑的零售价",
+      "english": "a retail price of £8.99",
+      "soundmark": "/'ritel/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "reveal",
+      "chinese": "他可能因泄露安全部门的机密而被起诉。",
+      "english": "He may be prosecuted for revealing secrets about the security agency.",
+      "soundmark": "/rɪ'vil/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 10, "状语修饰", "PP"]
+      ]
+    }
+  ]
+}

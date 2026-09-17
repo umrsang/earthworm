@@ -1,0 +1,595 @@
+{
+  "title": "Unit 15: 四级核心词汇（stereotype ~ tremble）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "stereotype",
+      "chinese": "对成功的商人们总有一种成见。",
+      "english": "There's always been a stereotype about successful businessmen.",
+      "soundmark": "/'stɛrɪətaɪp/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 4, "表语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "stimulate",
+      "chinese": "她对艺术的兴趣是她父亲激发的。",
+      "english": "Her interest in art was stimulated by her father.",
+      "soundmark": "/'stɪmjə'let/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 5, "系动词", "VP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "stock",
+      "chinese": "股票交易",
+      "english": "the trading of stocks and shares",
+      "soundmark": "/stɑk/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "strategy",
+      "chinese": "政府的长期经济策略",
+      "english": "the government’s long-term economic strategy",
+      "soundmark": "/'strætədʒi/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "stressful",
+      "chinese": "搬新家是件很劳心的事。",
+      "english": "Moving to a new house is a very stressful experience.",
+      "soundmark": "/'strɛsfl/",
+      "posTags": [[8, 8, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "谓语动词", "VP"],
+        [2, 9, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "stress",
+      "chinese": "你的头痛是压力造成的。",
+      "english": "Your headaches are due to stress.",
+      "soundmark": "/strɛs/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 3, "表语", "NP"],
+        [4, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "strict",
+      "chinese": "严格的老师",
+      "english": "a strict teacher",
+      "soundmark": "/strɪkt/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "structure",
+      "chinese": "对现有权力结构的挑战",
+      "english": "challenges to the existing power structure",
+      "soundmark": "/'strʌktʃɚ/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 1, "谓语动词", "VP"],
+        [2, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "struggle",
+      "chinese": "他们不得不同各种困境斗争。",
+      "english": "They had to struggle against all kinds of adversity.",
+      "soundmark": "/'strʌɡl/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "subsidize",
+      "chinese": "全世界各政府都补贴过中高收入人群的住房。",
+      "english": "Around the world, governments have subsidized the housing of middle- and upper-income groups.",
+      "soundmark": "/'sʌbsə'daɪz/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 5, "谓语动词", "VP"],
+        [6, 7, "宾语", "NP"],
+        [8, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "substantial",
+      "chinese": "我们有相当多家长的支持。",
+      "english": "We have the support of a substantial number of parents.",
+      "soundmark": "/səbˈstænʃəl/",
+      "posTags": [[6, 6, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "suffer",
+      "chinese": "至少他死得突然，没有遭罪。",
+      "english": "At least he died suddenly and didn’t suffer.",
+      "soundmark": "/'sʌfɚ/",
+      "posTags": [[7, 7, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "sufficient",
+      "chinese": "有了足够的证据，我们才能提出起诉。",
+      "english": "We can only prosecute if there is sufficient evidence.",
+      "soundmark": "/səˈfɪʃənt/",
+      "posTags": [[7, 7, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "superior",
+      "chinese": "她带着那种傲慢的语气。",
+      "english": "She had that superior tone of voice.",
+      "soundmark": "/səˈpɪriər/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "supervision",
+      "chinese": "宝宝时刻都要有人照看。",
+      "english": "The baby needs constant supervision.",
+      "soundmark": "/,sʊpɚ'vɪʒən/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "suppose",
+      "chinese": "死亡人数远远超过最初的预料。",
+      "english": "There were many more deaths than was first supposed.",
+      "soundmark": "/sə'poz/",
+      "posTags": [[8, 8, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 8, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "surf",
+      "chinese": "我要去买个冲浪板来学冲浪。",
+      "english": "I'm going to buy a surfboard and learn to surf.",
+      "soundmark": "/sɝf/",
+      "posTags": [[9, 9, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 7, "宾语", "NP"],
+        [8, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "survey",
+      "chinese": "被调查的 100 家公司中，10% 的公司营业额在 5,000 万到 9,900 万英镑之间。",
+      "english": "Of the 100 companies surveyed, 10% had a turnover of £50 m to £99 m.",
+      "soundmark": "/ˈsɝˌve; (for v.) sɝˈve/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 8, "宾语", "NP"],
+        [9, 14, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "suspect",
+      "chinese": "她非常怀疑他在对她撒谎。",
+      "english": "She strongly suspected he was lying to her.",
+      "soundmark": "/sʌspɛkt; (for v.) səˈspɛkt/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"],
+        [6, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "sustain",
+      "chinese": "想法或愿望，是我们想要拥有的东西但是他们不能维持我们的生活。",
+      "english": "Wants, or desires, are things we would like to have but they do not sustain us.",
+      "soundmark": "/sə'sten/",
+      "posTags": [[14, 14, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "系动词", "VP"],
+        [4, 7, "表语", "NP"],
+        [8, 15, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "sustainable",
+      "chinese": "政府应该做更多工作来推动可持续农业的发展。",
+      "english": "The government should do more to promote sustainable agriculture.",
+      "soundmark": "/sə'stenəbl/",
+      "posTags": [[7, 7, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "swift",
+      "chinese": "我的信很快就得到了回复。",
+      "english": "My letter received a swift reply.",
+      "soundmark": "/swɪft/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "switch",
+      "chinese": "恐怖分子会改变战术。",
+      "english": "The terrorists will switch tactics .",
+      "soundmark": "/swɪtʃ/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "symbol",
+      "chinese": "包装盒上的这个标识保证这种食物是有机生产的。",
+      "english": "The symbol on the packet is a guarantee that the food has been produced organically.",
+      "soundmark": "/'sɪmbl/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "系动词", "VP"],
+        [6, 14, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "sympathy",
+      "chinese": "我们向受害者家庭表示慰问。",
+      "english": "Our sympathies are with the families of the victims.",
+      "soundmark": "/'sɪmpəθi/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "tackle",
+      "chinese": "解决这个问题不止一个办法。",
+      "english": "There is more than one way to tackle the problem.",
+      "soundmark": "/'tækl/",
+      "posTags": [[7, 7, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 5, "表语", "NP"],
+        [6, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "tailor",
+      "chinese": "我们可以根据病人的需要调整这个方案。",
+      "english": "We can tailor the programme to the patient's needs.",
+      "soundmark": "/'telɚ/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "takeoff",
+      "chinese": "起飞时间是什么时候？",
+      "english": "What time is takeoff?",
+      "soundmark": "/'tekɔf/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 3, "疑问句", "Question"]]
+    },
+    {
+      "word": "tank",
+      "chinese": "水箱在漏水。",
+      "english": "The water tank is leaking.",
+      "soundmark": "/tæŋk/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "tasteless",
+      "chinese": "这鱼烧得烂而无味。",
+      "english": "The fish was mushy and tasteless.",
+      "soundmark": "/'testləs/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "technical",
+      "chinese": "有我们的员工向你提供技术支持。",
+      "english": "Our staff will be available to give you technical support .",
+      "soundmark": "/'tɛknɪkl/",
+      "posTags": [[8, 8, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 4, "宾语", "NP"],
+        [5, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "technique",
+      "chinese": "他是个伟大的球员，球技十分精湛。",
+      "english": "He’s a great player, with brilliant technique.",
+      "soundmark": "/tɛk'nik/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [[0, 6, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "technician",
+      "chinese": "实验室技术人员",
+      "english": "a laboratory technician",
+      "soundmark": "/tɛk'nɪʃən/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "tedious",
+      "chinese": "听众用咳嗽声阻挠演讲人的沉闷发言。",
+      "english": "The audience coughed down the tedious speaker.",
+      "soundmark": "/'tidɪəs/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "temptation",
+      "chinese": "要抵挡住购买的诱惑，除非你确有需要。",
+      "english": "Resist the temptation to buy the item until you’re certain you need it.",
+      "soundmark": "/tɛmp'teʃən/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 2, "宾语", "NP"],
+        [3, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "tension",
+      "chinese": "这种紧张变得难以忍受，我真想大声尖叫。",
+      "english": "The tension was becoming unbearable, and I wanted to scream.",
+      "soundmark": "/'tɛnʃən/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 7, "表语", "NP"],
+        [8, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "tent",
+      "chinese": "我们寻找一个平缓的地方搭帐篷。",
+      "english": "We looked for a flat spot where we could pitch our tent (= put up our tent ) .",
+      "soundmark": "/tɛnt/",
+      "posTags": [[11, 11, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 18, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "terribly",
+      "chinese": "很抱歉，让你久等了。",
+      "english": "I’m terribly sorry to have kept you waiting.",
+      "soundmark": "/'tɛrəbli/",
+      "posTags": [[1, 1, "副词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "therapy",
+      "chinese": "新的药物疗法",
+      "english": "new drug therapies",
+      "soundmark": "/'θɛrəpi/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "threaten",
+      "chinese": "邮政工人威胁如果不加薪，他们就要罢工。",
+      "english": "Postal workers are threatening a strike if they don’t receive a pay increase.",
+      "soundmark": "/'θrɛtn/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 12, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "tide",
+      "chinese": "遇上大潮时游泳很危险。",
+      "english": "Strong tides make swimming dangerous.",
+      "soundmark": "/taɪd/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "tiny",
+      "chinese": "中西部地区一个极小的社区",
+      "english": "a tiny community in the Midwest",
+      "soundmark": "/'taɪni/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "tolerance",
+      "chinese": "…他对各种人性的宽容和理解。",
+      "english": "...his tolerance and understanding of diverse human nature.",
+      "soundmark": "/'tɑlərəns/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "toothache",
+      "chinese": "我牙痛。",
+      "english": "I’ve got toothache .",
+      "soundmark": "/'tuθek/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "track",
+      "chinese": "我们顺着车辙穿过一块泥泞的田地。",
+      "english": "We followed the tyre tracks across a muddy field.",
+      "soundmark": "/træk/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "transaction",
+      "chinese": "银行对每一笔业务收取固定费用。",
+      "english": "The bank charges a fixed rate for each transaction.",
+      "soundmark": "/træn'zækʃən/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "transfer",
+      "chinese": "在一所学校行得通的理念套用在另一所学校上往往行不通。",
+      "english": "Ideas that work well in one school often don’t transfer well to another.",
+      "soundmark": "/træns'fɝ/",
+      "posTags": [[9, 9, "动词"]],
+      "syntaxTags": [
+        [0, 7, "主语", "NP"],
+        [8, 9, "谓语动词", "VP"],
+        [10, 10, "宾语", "NP"],
+        [11, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "transportation",
+      "chinese": "这座城市需要改善公共交通。",
+      "english": "The city needs to improve its public transportation (= buses, trains etc ) .",
+      "soundmark": "/,trænspɔr'teʃən/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "谓语动词", "VP"],
+        [5, 13, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "treatment",
+      "chinese": "就在最近，凯拉一直对我不理不睬。",
+      "english": "Just lately, Kyra has been giving me the silent treatment (= refusing to speak to me because she is angry with me ) .",
+      "soundmark": "/'tritmənt/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 5, "谓语动词", "VP"],
+        [6, 11, "宾语", "NP"],
+        [12, 23, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "tremble",
+      "chinese": "他的嘴唇开始颤抖，接着就哭了起来。",
+      "english": "His lip started to tremble and then he started to cry.",
+      "soundmark": "/'trɛmbl/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "谓语动词", "VP"],
+        [5, 8, "宾语", "NP"],
+        [9, 10, "状语修饰", "PP"]
+      ]
+    }
+  ]
+}

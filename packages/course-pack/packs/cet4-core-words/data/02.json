@@ -1,0 +1,578 @@
+{
+  "title": "Unit 02: 四级核心词汇（appeal ~ bogus）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "appeal",
+      "chinese": "那名遇害女孩的家人吁请公众协助捉拿凶手。",
+      "english": "The girl’s family have made a public appeal for help to try and catch her killer.",
+      "soundmark": "/əˈpiːl/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "谓语动词", "VP"],
+        [5, 7, "宾语", "NP"],
+        [8, 15, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "appearance",
+      "chinese": "他老是批评妻子的外表。",
+      "english": "He was always criticising his wife’s appearance.",
+      "soundmark": "/əˈpɪərəns/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 6, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "appetite",
+      "chinese": "她丈夫向来胃口极大。",
+      "english": "Her husband always had a huge appetite.",
+      "soundmark": "/ˈæpɪtaɪt/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "applicant",
+      "chinese": "对这些职位我们已有了很多申请人。",
+      "english": "We have had lots of applicants for these positions.",
+      "soundmark": "/ˈæplɪkənt/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "application",
+      "chinese": "我们每年收到数百封求职信。",
+      "english": "We receive hundreds of job applications each year.",
+      "soundmark": "/ˌæplɪˈkeɪʃən/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "apply",
+      "chinese": "我们建车库需要申请规划许可。",
+      "english": "We need to apply for planning permission to build a garage.",
+      "soundmark": "/əˈplaɪ/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "appoint",
+      "chinese": "政府任命的官员",
+      "english": "officials appointed by the government",
+      "soundmark": "/əˈpɔɪnt/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "appointment",
+      "chinese": "就诊必须预约。",
+      "english": "All consultations are by appointment only .",
+      "soundmark": "/əˈpɔɪntmənt/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "appreciate",
+      "chinese": "多谢你的帮助，我真的很感激。",
+      "english": "Thanks ever so much for your help, I really appreciate it.",
+      "soundmark": "/əˈpriːʃieɪt/",
+      "posTags": [[9, 9, "动词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 6, "谓语动词", "VP"],
+        [7, 10, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "appreciation",
+      "chinese": "他获赠一块手表，作为对其长期服务的感谢。",
+      "english": "He was presented with a watch in appreciation of his long service.",
+      "soundmark": "/əˌpriːʃiˈeɪʃən/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "approach",
+      "chinese": "我走近那幢房子的时候注意到楼上有灯光。",
+      "english": "As I approached the house, I noticed a light on upstairs.",
+      "soundmark": "/əˈprəʊtʃ/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 8, "宾语", "NP"],
+        [9, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "approve",
+      "chinese": "你从未赞赏过亨利，是吧？",
+      "english": "You've never approved of Henry, have you?",
+      "soundmark": "/əˈpruːv/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [[0, 6, "疑问句", "Question"]]
+    },
+    {
+      "word": "approval",
+      "chinese": "总统已经批准了这个计划。",
+      "english": "The president has already given his approval to the plan.",
+      "soundmark": "/əˈpruːvəl/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 6, "宾语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "architect",
+      "chinese": "但是我是一名建筑师。",
+      "english": "But I am an architect.",
+      "soundmark": "/ˈɑːkɪtekt/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 4, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "archive",
+      "chinese": "那位作家未发表作品的档案",
+      "english": "an archive of the writer’s unpublished work",
+      "soundmark": "/ˈɑːkaɪv/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 6, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "arrest",
+      "chinese": "他遭到逮捕并被指控谋杀。",
+      "english": "He was arrested and charged with murder.",
+      "soundmark": "/əˈrest/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 4, "表语", "NP"],
+        [5, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "ashamed",
+      "chinese": "每个人都会有哭的时候——没什么好难为情的。",
+      "english": "Everyone cries sometimes – it’s nothing to be ashamed of.",
+      "soundmark": "/əˈʃeɪmd/",
+      "posTags": [[8, 8, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "宾语", "NP"],
+        [6, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "assemble",
+      "chinese": "一大群人聚集在美国大使馆外。",
+      "english": "A large crowd had assembled outside the American embassy.",
+      "soundmark": "/əˈsembl/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "谓语动词", "VP"],
+        [5, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "assembly",
+      "chinese": "装配说明（书）",
+      "english": "instructions for assembly",
+      "soundmark": "/əˈsembli/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "asset",
+      "chinese": "公司的资产价值",
+      "english": "the value of a company’s assets",
+      "soundmark": "/ˈæset/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "assign",
+      "chinese": "教书时，我会给孩子们布置个写作题。",
+      "english": "When I taught, I would assign a topic to children that they would write about.",
+      "soundmark": "/əˈsaɪn/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [[0, 14, "疑问句", "Question"]]
+    },
+    {
+      "word": "assignment",
+      "chinese": "历史作业",
+      "english": "a history assignment",
+      "soundmark": "/əˈsaɪnmənt/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "associate",
+      "chinese": "通过科学我们已有了将进步与未来联系起来的观念。",
+      "english": "Through science we've got the idea of associating progress with the future.",
+      "soundmark": "/əˈsəʊʃieɪt/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"],
+        [6, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "assume",
+      "chinese": "我想我们几乎可以肯定，利率很快会再次上调。",
+      "english": "I think we can safely assume (=  it is almost certain  ) that interest rates will go up again soon.",
+      "soundmark": "/əˈsuːm/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 16, "宾语", "NP"],
+        [17, 19, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "assumption",
+      "chinese": "你会做出不以你能报道的任何事实为依据的一种假设。",
+      "english": "You would be making an assumption that's not based on any fact that you could report.",
+      "soundmark": "/əˈsʌmpʃən/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 8, "宾语", "NP"],
+        [9, 15, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "astonish",
+      "chinese": "她的回答让我大吃一惊。",
+      "english": "Her reply astonished me.",
+      "soundmark": "/əˈstɒnɪʃ/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "atmosphere",
+      "chinese": "那家宾馆的气氛轻松愉快。",
+      "english": "The hotel had a lovely relaxed atmosphere .",
+      "soundmark": "/ˈætməsfɪər/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "attempt",
+      "chinese": "天气状况使他们无法尝试跳伞。",
+      "english": "Weather conditions prevented them from attempting the jump.",
+      "soundmark": "/əˈtempt/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "automatic",
+      "chinese": "自动武器",
+      "english": "an automatic weapon",
+      "soundmark": "/ˌɔːtəˈmætɪk/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "available",
+      "chinese": "售票处有票出售。",
+      "english": "Tickets are available from the box office.",
+      "soundmark": "/əˈveɪləbl/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 2, "表语", "NP"],
+        [3, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "average",
+      "chinese": "制作一部影片的平均成本上升了15%。",
+      "english": "The average cost of making a movie has risen by 15%.",
+      "soundmark": "/ˈævərɪdʒ/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 8, "宾语", "NP"],
+        [9, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "aviation",
+      "chinese": "…航空工业。",
+      "english": "...the aviation industry.",
+      "soundmark": "/ˌeɪviˈeɪʃən/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "aviate",
+      "chinese": "飞行甲板面积近千平方米，可供多种型号的直升机起降；",
+      "english": "There is long-distance medical system in the boat, aviate board has near one thousand square meters , can help many model copters rise and drop.",
+      "soundmark": "/ˈeɪvieɪt/",
+      "posTags": [[8, 8, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 4, "表语", "NP"],
+        [5, 24, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "avoid",
+      "chinese": "小孩子受到道路安全知识的教育，以避免交通事故。",
+      "english": "Road safety is taught to young children to avoid road accidents.",
+      "soundmark": "/əˈvɔɪd/",
+      "posTags": [[8, 8, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 3, "表语", "NP"],
+        [4, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "award",
+      "chinese": "穆迪获授夏威夷大学高尔夫奖学金。",
+      "english": "Moodie has been awarded a golf scholarship at the University of Hawaii.",
+      "soundmark": "/əˈwɔːd/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 6, "宾语", "NP"],
+        [7, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "awareness",
+      "chinese": "卫生部官员努力提高人们对艾滋病的认识。",
+      "english": "Health officials have tried to raise awareness (=  improve people’s knowledge  ) about AIDS.",
+      "soundmark": "/əˈweənəs/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 5, "谓语动词", "VP"],
+        [6, 11, "宾语", "NP"],
+        [12, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "background",
+      "chinese": "学过化学的学生可能会觉得这门课程容易些。",
+      "english": "Students with a background in chemistry will probably find the course easier.",
+      "soundmark": "/ˈbækɡraʊnd/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 6, "谓语动词", "VP"],
+        [7, 11, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "backward",
+      "chinese": "跳水运动员向后翻转跳入水中。",
+      "english": "The diver flipped over backward into the water.",
+      "soundmark": "/ˈbækwəd/",
+      "posTags": [[4, 4, "副词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "ban",
+      "chinese": "大楼内禁止吸烟。",
+      "english": "Smoking is banned in the building.",
+      "soundmark": "/bæn/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 2, "谓语动词", "VP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "bankrupt",
+      "chinese": "建筑工程尚未竣工，公司就破产了。",
+      "english": "The firm went bankrupt before the building work was completed.",
+      "soundmark": "/ˈbæŋkrʌpt/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 9, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "bargain",
+      "chinese": "她会是一个要讨价还价的鸨母吗?",
+      "english": "Is she a bawd that she should bargain?",
+      "soundmark": "/ˈbɑːɡɪn/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [[0, 7, "疑问句", "Question"]]
+    },
+    {
+      "word": "battle",
+      "chinese": "特拉法尔加战役",
+      "english": "the Battle of Trafalgar",
+      "soundmark": "/ˈbætl/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "behave",
+      "chinese": "她表现得很有责任心。",
+      "english": "She behaved in a very responsible way .",
+      "soundmark": "/bɪˈheɪv/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "beneficial",
+      "chinese": "有益于免疫系统的一种药物",
+      "english": "a drug that has a beneficial effect on the immune system",
+      "soundmark": "/ˌbenɪˈfɪʃl/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [[0, 10, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "benefit",
+      "chinese": "他们在为整个社区的利益共同努力。",
+      "english": "They are working together to benefit the whole community.",
+      "soundmark": "/ˈbenɪfɪt/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 3, "表语", "NP"],
+        [4, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "bid",
+      "chinese": "出价最高的人",
+      "english": "the person who places the highest bid",
+      "soundmark": "/bɪd/",
+      "posTags": [[6, 6, "动词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 6, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "blame",
+      "chinese": "别来怪我——又不是我的错。",
+      "english": "Don’t blame me – it’s not my fault.",
+      "soundmark": "/bleɪm/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [[0, 7, "祈使句式", "Imperative"]]
+    },
+    {
+      "word": "bless",
+      "chinese": "愿上帝保佑你。",
+      "english": "May God bless you.",
+      "soundmark": "/bles/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "block",
+      "chinese": "参议院阻止这个报告发表。",
+      "english": "The Senate blocked publication of the report.",
+      "soundmark": "/blɒk/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "bogus",
+      "chinese": "虚报的保险索赔",
+      "english": "bogus insurance claims",
+      "soundmark": "/ˈbəʊɡəs/",
+      "posTags": [[0, 0, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"]
+      ]
+    }
+  ]
+}

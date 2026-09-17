@@ -1,0 +1,545 @@
+{
+  "title": "Unit 55: 四级核心词汇（interference ~ judge）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "interference",
+      "chinese": "劳资关系应不受政府干预。",
+      "english": "Industrial relations should be free from state interference.",
+      "soundmark": "/,ɪntɚ'fɪrəns/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 4, "宾语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "interior",
+      "chinese": "室内墙壁都粉刷成了白色。",
+      "english": "The interior walls are all painted white.",
+      "soundmark": "/ɪn'tɪrɪɚ/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "系动词", "VP"],
+        [4, 6, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "intermediate",
+      "chinese": "疾病处于潜伏状态的中期",
+      "english": "an intermediate stage during which the disease is dormant",
+      "soundmark": "/,ɪntɚ'midɪət/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 6, "主语", "NP"],
+        [7, 7, "系动词", "VP"],
+        [8, 8, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "internal",
+      "chinese": "我们对干涉其他国家内政不感兴趣。",
+      "english": "We have no interest in interfering in the internal affairs of other countries.",
+      "soundmark": "/ɪn'tɝnl/",
+      "posTags": [[8, 8, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "international",
+      "chinese": "国际社会的反响",
+      "english": "the response of the international community",
+      "soundmark": "/,ɪntɚ'næʃnəl/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "interpreter",
+      "chinese": "艾哈迈德通过口译者说:“我很担心我的妻子和孩子们。”",
+      "english": "Speaking through an interpreter (= using an interpreter ), Ahmed said, ‘I’m very worried about my wife and children.’",
+      "soundmark": "/ɪn'tɝprɪtɚ/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 18, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "interrupt",
+      "chinese": "别打断我的话！",
+      "english": "Will you stop interrupting me!",
+      "soundmark": "/'ɪntə'rʌpt/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "interval",
+      "chinese": "他离开房间，过了一会儿就带回来一条消息。",
+      "english": "He left the room, returning after a short interval with a message.",
+      "soundmark": "/'ɪntɚvl/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "intimate",
+      "chinese": "毕加索的一个密友",
+      "english": "an intimate friend of Picasso’s",
+      "soundmark": "/ˈɪntəmɪt/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "into",
+      "chinese": "到办公室里来。",
+      "english": "Come into the office.",
+      "soundmark": "/ˈɪntu/",
+      "posTags": [[1, 1, "介词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 3, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "introduce",
+      "chinese": "有人给你们俩互相介绍了吗？汤姆，这位是格雷格。",
+      "english": "Have you two been introduced? Tom, this is Greg.",
+      "soundmark": "/ˌɪntrə'dus/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "introduction",
+      "chinese": "皮特，你来作一下介绍吧。",
+      "english": "Pete, are you going to make the introductions?",
+      "soundmark": "/,ɪntrə'dʌkʃən/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [[0, 7, "疑问句", "Question"]]
+    },
+    {
+      "word": "invasion",
+      "chinese": "每年前来参加格拉斯顿伯里音乐节的青少年的涌入",
+      "english": "the annual invasion of teenagers for the Glastonbury Festival",
+      "soundmark": "/ɪn'veʒn/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 8, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "invent",
+      "chinese": "亚历山大 · 格雷厄姆 · 贝尔于1876年发明了电话。",
+      "english": "Alexander Graham Bell invented the telephone in 1876.",
+      "soundmark": "/ɪn'vɛnt/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"],
+        [6, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "invention",
+      "chinese": "洗碗机是一项奇妙的发明。",
+      "english": "The dishwasher is a wonderful invention.",
+      "soundmark": "/ɪn'vɛnʃən/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 5, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "inventor",
+      "chinese": "…亚历山大·格雷厄姆·贝尔，电话的发明者。",
+      "english": "...Alexander Graham Bell, the inventor of the telephone.",
+      "soundmark": "/ɪn'vɛntɚ/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 7, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "investigation",
+      "chinese": "调查持续了近三年。",
+      "english": "The investigation continued for nearly three years.",
+      "soundmark": "/ɪn,vɛstɪ'ɡeʃən/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "investment",
+      "chinese": "我们打算买些房地产作为投资。",
+      "english": "We plan to buy some property as an investment.",
+      "soundmark": "/ɪn'vɛstmənt/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "invisible",
+      "chinese": "这所房子树木环绕，从路上是看不见的。",
+      "english": "The house was surrounded by trees, and invisible from the road.",
+      "soundmark": "/ɪn'vɪzəbl/",
+      "posTags": [[7, 7, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "invitation",
+      "chinese": "他们常常来串门，通常不请自来。",
+      "english": "They were always dropping by, usually without invitation.",
+      "soundmark": "/ˌɪnvɪˈteɪʃn/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 3, "表语", "NP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "invite",
+      "chinese": "恐怕我没有受到邀请。",
+      "english": "I’m afraid I wasn’t invited.",
+      "soundmark": "/ɪn'vaɪt/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "inward",
+      "chinese": "他推开前门，门呀的一声向里开了。",
+      "english": "He pushed open the front door, which swung inward with a groan.",
+      "soundmark": "/'ɪnwɚd/",
+      "posTags": [[8, 8, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 8, "宾语", "NP"],
+        [9, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "iron",
+      "chinese": "钢铁工业",
+      "english": "the iron and steel industry",
+      "soundmark": "/'aɪɚn/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "island",
+      "chinese": "开曼群岛",
+      "english": "The Cayman Islands",
+      "soundmark": "/'aɪlənd/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "isolate",
+      "chinese": "洪水使该镇与外界隔绝。",
+      "english": "The town was isolated by the floods.",
+      "soundmark": "/aɪslˌet/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "it",
+      "chinese": "“你的办公室在哪儿？”“在三楼。”",
+      "english": "‘Where’s your office?’ ‘It’s on the third floor.’",
+      "soundmark": "/aɪ ti/",
+      "posTags": [[0, 0, "代词"]],
+      "syntaxTags": [[0, 7, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "its",
+      "chinese": "他向我强调它的重要性。",
+      "english": "He emphasized its importance to me.",
+      "soundmark": "/ɪts/",
+      "posTags": [[2, 2, "代词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "itself",
+      "chinese": "猫躺在沙发上把自己舔干。",
+      "english": "The cat lay on the sofa, washing itself.",
+      "soundmark": "/ɪt'sɛlf/",
+      "posTags": [[7, 7, "代词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "jacket",
+      "chinese": "吉恩上班得穿西装打领带。",
+      "english": "Gene has to wear a jacket and tie to work.",
+      "soundmark": "/'dʒækɪt/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 7, "宾语", "NP"],
+        [8, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "jail",
+      "chinese": "他已经入狱三个月。",
+      "english": "He’s been in jail for three months already.",
+      "soundmark": "/dʒel/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "jam",
+      "chinese": "果酱三明治",
+      "english": "a jam sandwich",
+      "soundmark": "/dʒæm/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "January",
+      "chinese": "我们这里1月份总会下雪。",
+      "english": "We always have snow in January.",
+      "soundmark": "/'dʒænjʊ'ɛri/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "Japanese",
+      "chinese": "日本(汽)车",
+      "english": "a Japanese car",
+      "soundmark": "/,dʒæpə'niz/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "jar",
+      "chinese": "果酱罐",
+      "english": "a jam jar",
+      "soundmark": "/dʒɑr/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "jaw",
+      "chinese": "碎裂的颌骨",
+      "english": "a broken jaw",
+      "soundmark": "/dʒɔ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "jazz",
+      "chinese": "爵士乐队",
+      "english": "a jazz band",
+      "soundmark": "/dʒæz/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "jealous",
+      "chinese": "她变得过分地猜忌，接着是一场激烈的打斗。",
+      "english": "She got insanely jealous and there was a terrible fight.",
+      "soundmark": "/'dʒɛləs/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 9, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "jet",
+      "chinese": "他拥有一架私人喷气式飞机。",
+      "english": "He owns a private jet.",
+      "soundmark": "/dʒɛt/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "jewel",
+      "chinese": "她喜欢穿上盛装，戴上极为昂贵的珠宝首饰。",
+      "english": "She loved dressing up and wearing priceless jewels.",
+      "soundmark": "/'dʒuəl/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "jewish",
+      "chinese": "…犹太逾越节。",
+      "english": "...the Jewish festival of Passover.",
+      "soundmark": "/'dʒʊɪʃ/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "job",
+      "chinese": "你喜欢自己的工作吗？",
+      "english": "Do you enjoy your job?",
+      "soundmark": "/dʒɒb/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 4, "疑问句", "Question"]]
+    },
+    {
+      "word": "join",
+      "chinese": "许多人牺牲周末时间，加入了寻找失踪女孩的行动。",
+      "english": "Many sacrificed their weekend to join the hunt for the missing girl.",
+      "soundmark": "/dʒɔɪn/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "joke",
+      "chinese": "我可不能拿谈恋爱当儿戏，对不对？",
+      "english": "I couldn’t go out with someone for a joke, could you?",
+      "soundmark": "/dʒok/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [[0, 10, "疑问句", "Question"]]
+    },
+    {
+      "word": "jolly",
+      "chinese": "大家的心情都非常轻松愉快。",
+      "english": "Everybody was in a very relaxed and jolly mood.",
+      "soundmark": "/'dʒɑli/",
+      "posTags": [[7, 7, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "journal",
+      "chinese": "《英国医学杂志》",
+      "english": "the British Medical Journal",
+      "soundmark": "/'dʒɝnl/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "journalist",
+      "chinese": "一位著名的新闻记者兼播音员",
+      "english": "a well-known journalist and broadcaster",
+      "soundmark": "/'dʒɝnəlɪst/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "journey",
+      "chinese": "他们在旅途中交下的朋友",
+      "english": "the friends they made on the journey",
+      "soundmark": "/'dʒɝni/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "joy",
+      "chinese": "她脸上的喜悦表情",
+      "english": "the look of joy on her face",
+      "soundmark": "/dʒɔɪ/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "joyful",
+      "chinese": "婚礼是令人喜悦的爱情庆典。",
+      "english": "A wedding is a joyful celebration of love.",
+      "soundmark": "/'dʒɔɪfl/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 5, "表语", "NP"],
+        [6, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "judge",
+      "chinese": "由主审法官确定刑期。",
+      "english": "The trial judge specifies the number of years to be spent in prison.",
+      "soundmark": "/dʒʌdʒ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"],
+        [6, 12, "状语修饰", "PP"]
+      ]
+    }
+  ]
+}

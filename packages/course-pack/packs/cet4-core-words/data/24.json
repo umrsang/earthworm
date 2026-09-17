@@ -1,0 +1,579 @@
+{
+  "title": "Unit 24: 四级核心词汇（accustomed ~ air）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "accustomed",
+      "chinese": "那些锅在老地方。",
+      "english": "The pans were in their accustomed places.",
+      "soundmark": "/ə'kʌstəmd/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "ache",
+      "chinese": "他站了那么久，双脚隐隐作痛。",
+      "english": "His feet were aching from standing so long.",
+      "soundmark": "/eɪk/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "achievement",
+      "chinese": "他的伟大成就在于把所有选手组织成一支团结的队伍。",
+      "english": "His great achievement is to make all the players into a united team.",
+      "soundmark": "/ə'tʃivmənt/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 5, "系动词", "VP"],
+        [6, 8, "表语", "NP"],
+        [9, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "acid",
+      "chinese": "硫酸",
+      "english": "sulphuric acid",
+      "soundmark": "/'æsɪd/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 1, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "acquaintance",
+      "chinese": "她是我们家在维也纳的一个交情不深的朋友。",
+      "english": "She was a casual acquaintance of my family in Vienna.",
+      "soundmark": "/ə'kwentəns/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 4, "表语", "NP"],
+        [5, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "acre",
+      "chinese": "他们拥有200英亩农田。",
+      "english": "They own 200 acres of farmland.",
+      "soundmark": "/'ekɚ/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "act",
+      "chinese": "公司解雇他做得对。",
+      "english": "The company acted correctly in sacking him.",
+      "soundmark": "/ækt/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "action",
+      "chinese": "政府现在必须采取行动遏止暴力犯罪的上升。",
+      "english": "The government must take action (=  do something  ) now to stop the rise in violent crime.",
+      "soundmark": "/'ækʃən/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 9, "宾语", "NP"],
+        [10, 16, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "active",
+      "chinese": "活跃好动的年轻人玩的游戏",
+      "english": "games for active youngsters",
+      "soundmark": "/'æktɪv/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "activity",
+      "chinese": "每个人都可以自由参加和平的政治活动。",
+      "english": "Everyone is free to engage in peaceful political activity.",
+      "soundmark": "/æk'tɪviti/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 2, "表语", "NP"],
+        [3, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "actor",
+      "chinese": "他父亲曾是粤剧团的一名演员。",
+      "english": "His father was an actor in the Cantonese Opera Company.",
+      "soundmark": "/'æktɚ/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 4, "表语", "NP"],
+        [5, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "actress",
+      "chinese": "她不仅是一位伟大的女戏剧演员，而且也很幽默。",
+      "english": "She's not only a great dramatic actress but she's also very funny.",
+      "soundmark": "/'æktrɪs/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [[0, 11, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "actual",
+      "chinese": "我没开玩笑，那都是他的原话。",
+      "english": "I’m not joking. Those were his actual words.",
+      "soundmark": "/'æktʃuəl/",
+      "posTags": [[6, 6, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "actually",
+      "chinese": "我认识芭芭拉很多年了，实际上我们从小就认识。",
+      "english": "I’ve known Barbara for years. Since we were babies, actually.",
+      "soundmark": "/'æktʃuəli/",
+      "posTags": [[9, 9, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "ad",
+      "chinese": "她回复了在《纽约时报》上看到的一则求友广告。",
+      "english": "She replied to a lonely hearts ad she spotted in the New York Times.",
+      "soundmark": "/'e 'di/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 8, "宾语", "NP"],
+        [9, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "add",
+      "chinese": "如果混合物看上去干，加点水。",
+      "english": "If the mixture seems dry, add water.",
+      "soundmark": "/æd/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "addition",
+      "chinese": "这是一本好书——是对这套丛书有价值的增补。",
+      "english": "This is a fine book; a worthy addition to the series.",
+      "soundmark": "/ə'dɪʃən/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 7, "表语", "NP"],
+        [8, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "address",
+      "chinese": "地址是华盛顿哥伦比亚特区，华盛顿西北，M街2025号，邮编20036。",
+      "english": "The address is 2025 M Street, NW, Washington, DC, 20036.",
+      "soundmark": "/ə'drɛs/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 9, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "adjective",
+      "chinese": "在“那只黑猫”中，形容词“黑的”修饰名词“猫”。",
+      "english": "In “the black cat” the adjective “black”modifies the noun “cat”.",
+      "soundmark": "/'ædʒɪktɪv/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [[0, 9, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "adjust",
+      "chinese": "经常检查并调节刹车装置。",
+      "english": "Check and adjust the brakes regularly.",
+      "soundmark": "/ə'dʒʌst/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "adopt",
+      "chinese": "莎莉四岁时被人收养。",
+      "english": "Sally was adopted when she was four.",
+      "soundmark": "/ə'dɑpt/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 6, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "adult",
+      "chinese": "一些孩子觉得与大人很难谈得来。",
+      "english": "Some children find it difficult to talk to adults.",
+      "soundmark": "/'ædʌlt/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "advantage",
+      "chinese": "年轻点的工人申请工作时往往处于优势地位。",
+      "english": "Younger workers tend to be at an advantage (=  have an advantage  ) when applying for jobs.",
+      "soundmark": "/əd'væntɪdʒ/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "谓语动词", "VP"],
+        [5, 16, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "adventure",
+      "chinese": "来吧——你的冒险精神哪里去了？",
+      "english": "Come on – where’s your sense of adventure?",
+      "soundmark": "/əd'vɛntʃɚ/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [[0, 7, "疑问句", "Question"]]
+    },
+    {
+      "word": "adverb",
+      "chinese": "请你说出副词“well”的原级、比较级和最高级好吗?",
+      "english": "Will you please compare the adverb “well”?",
+      "soundmark": "/'ædvɝb/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [[0, 6, "疑问句", "Question"]]
+    },
+    {
+      "word": "advertisement",
+      "chinese": "只有寥寥数人对该广告作出了回应。",
+      "english": "Only a handful of people answered the advertisement .",
+      "soundmark": "/,ædvɚ'taɪzmənt/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "谓语动词", "VP"],
+        [6, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "advisable",
+      "chinese": "我认为现在购置房地产是明智的。",
+      "english": "I deem it advisable to buy property now.",
+      "soundmark": "/əd'vaɪzəbl/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "谓语动词", "VP"],
+        [6, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "advise",
+      "chinese": "她需要有个人给她出主意。",
+      "english": "She needed someone to advise her.",
+      "soundmark": "/əd'vaɪz/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "aeroplane",
+      "chinese": "飞机把我们降落在巴塞罗那机场。",
+      "english": "The aeroplane landed us at the airport in Barcelona.",
+      "soundmark": "/'ɛrə'plen/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "affair",
+      "chinese": "你对世界大事感兴趣吗？",
+      "english": "Are you interested in world affairs?",
+      "soundmark": "/ə'fɛr/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [[0, 5, "疑问句", "Question"]]
+    },
+    {
+      "word": "affect",
+      "chinese": "受飓风影响的地区",
+      "english": "the areas affected by the hurricane",
+      "soundmark": "/ə'fɛkt/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "affection",
+      "chinese": "她深情地回顾那些日子。",
+      "english": "She looked back on those days with affection .",
+      "soundmark": "/ə'fɛkʃən/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "afraid",
+      "chinese": "没有必要害怕。",
+      "english": "There’s no need to be afraid.",
+      "soundmark": "/ə'fred/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "谓语动词", "VP"],
+        [5, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "Africa",
+      "chinese": "长颈鹿生长在非洲。",
+      "english": "The giraffe ranges in Africa.",
+      "soundmark": "/ˈæfrɪkə/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "African",
+      "chinese": "…非洲大陆。",
+      "english": "...the African continent.",
+      "soundmark": "/'æfrɪkən/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "after",
+      "chinese": "战后，许多士兵留在法国。",
+      "english": "After the war many soldiers stayed in France.",
+      "soundmark": "/'æftɚ/",
+      "posTags": [[0, 0, "介词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "谓语动词", "VP"],
+        [6, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "afternoon",
+      "chinese": "星期四下午有个会议。",
+      "english": "There’s a meeting on Thursday afternoon .",
+      "soundmark": "/,æftɚ'nun/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "afterward",
+      "chinese": "之后不久，警方逮捕了４名嫌疑犯。",
+      "english": "Shortly afterward, police arrested four suspects.",
+      "soundmark": "/ˈæftərwərd/",
+      "posTags": [[1, 1, "副词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "again",
+      "chinese": "你能再说一遍吗？ 我没听见。",
+      "english": "Can you say that again? I didn’t hear.",
+      "soundmark": "/ə'ɡɛn/",
+      "posTags": [[4, 4, "副词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "against",
+      "chinese": "有一把梯子靠在墙边。",
+      "english": "There was a ladder propped up against the wall.",
+      "soundmark": "/ə'ɡɛnst/",
+      "posTags": [[6, 6, "介词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 4, "表语", "NP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "age",
+      "chinese": "弗朗西斯和我同年岁。",
+      "english": "Francis is the same age as me.",
+      "soundmark": "/edʒ/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 6, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "ago",
+      "chinese": "不久前，我们举行了200周年庆典活动。",
+      "english": "We had our bicentenary celebrations not that long ago.",
+      "soundmark": "/ə'ɡo/",
+      "posTags": [[8, 8, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "agony",
+      "chinese": "关节炎的剧烈疼痛",
+      "english": "the agony of arthritis",
+      "soundmark": "/'æɡəni/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "agree",
+      "chinese": "十几岁的孩子跟父母意见很少一致。",
+      "english": "Teenagers and their parents rarely agree.",
+      "soundmark": "/ə'ɡri/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "agreement",
+      "chinese": "两方达成一致比三方达成一致容易。",
+      "english": "It is easier for two parties to reach agreement than for three.",
+      "soundmark": "/ə'grimənt/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 2, "表语", "NP"],
+        [3, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "agriculture",
+      "chinese": "75%以上的土地用于农耕。",
+      "english": "More than 75% of the land is used for agriculture.",
+      "soundmark": "/'æɡrɪkʌltʃɚ/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 7, "谓语动词", "VP"],
+        [8, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "ahead",
+      "chinese": "他的目光一直盯着前面的那辆汽车。",
+      "english": "He kept his gaze fixed on the car ahead.",
+      "soundmark": "/ə'hɛd/",
+      "posTags": [[8, 8, "副词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "谓语动词", "VP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "aid",
+      "chinese": "来自许多国家的救援物资纷纷送到饥荒地区。",
+      "english": "Foreign aid from many countries poured into the famine area.",
+      "soundmark": "/ed/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "谓语动词", "VP"],
+        [6, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "aim",
+      "chinese": "丹佛举枪瞄准，但是没有射击。",
+      "english": "Denver aimed his gun but did not shoot.",
+      "soundmark": "/em/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "air",
+      "chinese": "我们出去呼吸些新鲜空气吧。",
+      "english": "Let’s go outside and get some fresh air.",
+      "soundmark": "/ɛr/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [[0, 7, "祈使句式", "Imperative"]]
+    }
+  ]
+}

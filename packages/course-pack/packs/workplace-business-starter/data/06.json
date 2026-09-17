@@ -1,0 +1,46 @@
+{
+  "title": "会议决策与分歧协调",
+  "description": "练习澄清观点、礼貌表达异议、推动决策、确认负责人和落实后续行动。",
+  "data": [
+    {
+      "chinese": "我们先明确今天需要做出的决定。",
+      "english": "Let us clarify the decision we need to make today."
+    },
+    {
+      "chinese": "我理解你的观点，但我有一些不同看法。",
+      "english": "I understand your point, but I see it a little differently."
+    },
+    {
+      "chinese": "你能解释一下这个方案背后的假设吗？",
+      "english": "Could you explain the assumptions behind this proposal?"
+    },
+    {
+      "chinese": "从客户的角度来看，第二个方案更简单。",
+      "english": "From the customer's perspective, the second option is simpler."
+    },
+    {
+      "chinese": "我们似乎都同意目标，但对方法有分歧。",
+      "english": "We seem to agree on the goal but disagree on the approach."
+    },
+    {
+      "chinese": "有没有一个双方都能接受的折中方案？",
+      "english": "Is there a compromise that both sides can accept?"
+    },
+    {
+      "chinese": "我们需要更多数据才能做出明智的决定。",
+      "english": "We need more data to make an informed decision."
+    },
+    {
+      "chinese": "如果没有其他意见，我们就采用这个方案。",
+      "english": "If there are no other objections, we will proceed with this option."
+    },
+    {
+      "chinese": "谁负责跟进这些行动项？",
+      "english": "Who will be responsible for following up on these action items?"
+    },
+    {
+      "chinese": "我会在会后发送决定和下一步安排。",
+      "english": "I will send the decision and next steps after the meeting."
+    }
+  ]
+}

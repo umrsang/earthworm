@@ -1,0 +1,584 @@
+{
+  "title": "Unit 36: 四级核心词汇（congratulation ~ cottage）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "congratulation",
+      "chinese": "祝贺信",
+      "english": "letters of congratulation",
+      "soundmark": "/kən,ɡrætʃu'leʃən/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "congress",
+      "chinese": "执政党工党的代表大会",
+      "english": "a congress of the ruling Labor Party",
+      "soundmark": "/'kɑŋɡrəs/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "conjunction",
+      "chinese": "这些活页练习题专门用来与新课本配套使用。",
+      "english": "The worksheets are designed to be used in conjunction with the new course books.",
+      "soundmark": "/kən'dʒʌŋkʃən/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 6, "系动词", "VP"],
+        [7, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "connect",
+      "chinese": "我们想要两个有门相通的房间。",
+      "english": "We’d like two rooms with connecting doors (= doors that join the rooms ) .",
+      "soundmark": "/kə'nɛkt/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 14, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "connection",
+      "chinese": "到目前为止警方尚未确定两宗凶杀案之间有关联。",
+      "english": "Police have so far failed to establish a connection between the two murders.",
+      "soundmark": "/kə'nɛkʃən/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "conquer",
+      "chinese": "诺曼人于 1066 年征服英格兰。",
+      "english": "The Normans conquered England in 1066.",
+      "soundmark": "/'kɑŋkɚ/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "conquest",
+      "chinese": "诺曼征服",
+      "english": "the Norman Conquest (= the conquest of England by the Normans )",
+      "soundmark": "/'kɑŋkwɛst/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 11, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "conscious",
+      "chinese": "救护车赶到时，司机仍然神志清醒。",
+      "english": "The driver was still conscious when the ambulance arrived.",
+      "soundmark": "/'kɑnʃəs/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 8, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "consider",
+      "chinese": "我们得仔细考虑你的提议。",
+      "english": "We will have to consider your offer carefully .",
+      "soundmark": "/kən'sɪdɚ/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "consideration",
+      "chinese": "提请考虑的建议",
+      "english": "proposals put forward for consideration",
+      "soundmark": "/kən,sɪdə'reʃən/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "constitution",
+      "chinese": "言论自由的权利被写入美国宪法。",
+      "english": "The right to speak freely is written into the Constitution of the United States.",
+      "soundmark": "/'kɑnstə'tʊʃən/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 6, "宾语", "NP"],
+        [7, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "construct",
+      "chinese": "有计划要建造一条新的跨河公路桥。",
+      "english": "There are plans to construct a new road bridge across the river.",
+      "soundmark": "/kən'strʌkt/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 4, "系动词", "VP"],
+        [5, 8, "表语", "NP"],
+        [9, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "contain",
+      "chinese": "小偷们偷到了一个里面有钞票的钱包。",
+      "english": "The thieves stole a purse containing bank-notes.",
+      "soundmark": "/kən'ten/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "谓语动词", "VP"],
+        [6, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "container",
+      "chinese": "塑料容器里的冰激凌",
+      "english": "ice cream in plastic containers",
+      "soundmark": "/kən'tenɚ/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 1, "宾语", "NP"],
+        [2, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "contempt",
+      "chinese": "公众受到了节目主持人的轻蔑对待。",
+      "english": "The public is treated with contempt by broadcasters.",
+      "soundmark": "/kən'tɛmpt/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "continent",
+      "chinese": "亚洲及非洲大陆",
+      "english": "the continents of Asia and Africa",
+      "soundmark": "/'kɑntɪnənt/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "continual",
+      "chinese": "持续了五个星期的降雨",
+      "english": "five weeks of continual rain",
+      "soundmark": "/kən'tɪnjuəl/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "continue",
+      "chinese": "他将在美国继续求学。",
+      "english": "He will be continuing his education in the US.",
+      "soundmark": "/kən'tɪnju/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "continuous",
+      "chinese": "持续的经济增长",
+      "english": "continuous economic growth",
+      "soundmark": "/kən'tɪnjʊəs/",
+      "posTags": [[0, 0, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "contradiction",
+      "chinese": "被告证词中的明显矛盾",
+      "english": "apparent contradictions in the defendant’s testimony",
+      "soundmark": "/,kɑntrə'dɪkʃən/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "contrary",
+      "chinese": "出现了两种相反的观点。",
+      "english": "Two contrary views emerged.",
+      "soundmark": "/'kɑntrɛri/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "control",
+      "chinese": "只好调来警察控制人群。",
+      "english": "Police had to be called in to control the crowds.",
+      "soundmark": "/kən'trol/",
+      "posTags": [[7, 7, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 4, "谓语动词", "VP"],
+        [5, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "convenience",
+      "chinese": "即食餐因为方便销路好。",
+      "english": "Ready meals sell well because of their convenience.",
+      "soundmark": "/kən'vinɪəns/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "convention",
+      "chinese": "一起玩耍可教会儿童与人分享等社会常规。",
+      "english": "Playing together teaches children social conventions such as sharing.",
+      "soundmark": "/kən'vɛnʃən/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "conversation",
+      "chinese": "电话交谈",
+      "english": "a telephone conversation",
+      "soundmark": "/,kɑnvɚ'seʃən/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "conversely",
+      "chinese": "美国的消费者喜欢白色的鸡蛋，而英国的消费者却相反，他们喜欢棕色的鸡蛋。",
+      "english": "American consumers prefer white eggs; conversely, British buyers like brown eggs.",
+      "soundmark": "/'kɑnvɝsli/",
+      "posTags": [[5, 5, "副词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 10, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "conversion",
+      "chinese": "…把废弃的铁路改变成自行车道。",
+      "english": "...the conversion of disused rail lines into cycle routes.",
+      "soundmark": "/kən'vɝʒn/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "convert",
+      "chinese": "由19世纪谷仓改建的房子",
+      "english": "a 19th-century converted barn",
+      "soundmark": "/kən'vɝt/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "cook",
+      "chinese": "你在哪里学烹调的？",
+      "english": "Where did you learn to cook?",
+      "soundmark": "/kʊk/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [[0, 5, "疑问句", "Question"]]
+    },
+    {
+      "word": "cool",
+      "chinese": "她往外游向清凉的水里。",
+      "english": "She swam out into the cool water.",
+      "soundmark": "/kul/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 6, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "cooperate",
+      "chinese": "他们同意和巴西合作进行一个保护热带雨林的项目。",
+      "english": "They agreed to co-operate with Brazil on a programme to protect the rain forests.",
+      "soundmark": "/koʊˈɑːpəreɪt/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "coordinate",
+      "chinese": "这些机构在共同合作为食品安全政策做协调工作。",
+      "english": "The agencies are working together to co-ordinate policy on food safety.",
+      "soundmark": "/ko'ɔrdɪnet/",
+      "posTags": [[6, 6, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 4, "表语", "NP"],
+        [5, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "cope",
+      "chinese": "有时候我觉得很难应付。",
+      "english": "Sometimes I find it hard to cope.",
+      "soundmark": "/kop/",
+      "posTags": [[6, 6, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "copper",
+      "chinese": "他说他来做这份工作，给他几个铜板就行。",
+      "english": "He offered to do the job for a few coppers.",
+      "soundmark": "/'kɑpɚ/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"],
+        [6, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "copy",
+      "chinese": "你的文档的备份",
+      "english": "back-up copies of your files",
+      "soundmark": "/'kɑpi/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "cord",
+      "chinese": "在袍子腰处束了根细绳。",
+      "english": "The robe was held at the waist by a cord.",
+      "soundmark": "/kɔrd/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 3, "表语", "NP"],
+        [4, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "cordial",
+      "chinese": "会谈在友好的气氛中进行。",
+      "english": "The talks were conducted in a cordial atmosphere.",
+      "soundmark": "/'kɔrdʒəl/",
+      "posTags": [[6, 6, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "core",
+      "chinese": "去除果心，然后把苹果烤40分钟。",
+      "english": "Remove the cores, and bake the apples for 40 minutes.",
+      "soundmark": "/kɔr/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 6, "宾语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "corn",
+      "chinese": "一片片麦田",
+      "english": "fields of corn",
+      "soundmark": "/kɔrn/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "corner",
+      "chinese": "他拽出一块脏手帕，捏着一角向我挥动。",
+      "english": "He pulled a dirty handkerchief out by its corner and waved it at me.",
+      "soundmark": "/'kɔrnɚ/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "corporation",
+      "chinese": "他在一家美国大公司工作。",
+      "english": "He works for a large American corporation.",
+      "soundmark": "/,kɔrpə'reʃən/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "correct",
+      "chinese": "如果我计算得没错的话，我们离埃克塞特大约十英里。",
+      "english": "If my calculations are correct, we’re about ten miles from Exeter.",
+      "soundmark": "/kə'rɛkt/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "系动词", "VP"],
+        [5, 5, "表语", "NP"],
+        [6, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "correction",
+      "chinese": "我只要修改几个地方，然后就可以把它发送到打印机。",
+      "english": "I just need to make a few corrections , and then we can send it to the printer.",
+      "soundmark": "/kə'rɛkʃən/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "谓语动词", "VP"],
+        [5, 14, "宾语", "NP"],
+        [15, 17, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "correspond",
+      "chinese": "这份文件的前后两部分不相符。",
+      "english": "The two halves of the document did not correspond.",
+      "soundmark": "/,kɔrə'spɑnd/",
+      "posTags": [[8, 8, "动词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 8, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "correspondent",
+      "chinese": "我们的驻南非记者发来这份报道。",
+      "english": "Our correspondent in South Africa sent this report.",
+      "soundmark": "/,kɔrə'spɑndənt/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "谓语动词", "VP"],
+        [6, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "corresponding",
+      "chinese": "战争以及由此所导致的贸易量下降对这个国家产生了致命的影响。",
+      "english": "The war and the corresponding fall in trade have had a devastating effect on the country.",
+      "soundmark": "/,kɔrə'spɑndɪŋ/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 5, "谓语动词", "VP"],
+        [6, 15, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "corridor",
+      "chinese": "沿着这儿走，浴室就在走廊的尽头。",
+      "english": "Go down here and the bathroom’s at the end of the corridor.",
+      "soundmark": "/'kɔrɪdɔr/",
+      "posTags": [[11, 11, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "cost",
+      "chinese": "我提出支付出租车费。",
+      "english": "I offered to pay the cost of the taxi.",
+      "soundmark": "/kɔst/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "costly",
+      "chinese": "建立这样一个数据库要花很多钱。",
+      "english": "Such a database would be extremely costly to set up.",
+      "soundmark": "/'kɔstli/",
+      "posTags": [[6, 6, "形容词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "谓语动词", "VP"],
+        [5, 6, "宾语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "cottage",
+      "chinese": "乡间小屋",
+      "english": "a country cottage",
+      "soundmark": "/'kɑtɪdʒ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    }
+  ]
+}

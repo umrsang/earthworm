@@ -1,0 +1,580 @@
+{
+  "title": "Unit 39: 四级核心词汇（defend ~ digital）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "defend",
+      "chinese": "保卫我们祖国的斗争",
+      "english": "a struggle to defend our homeland",
+      "soundmark": "/dɪ'fɛnd/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "definite",
+      "chinese": "我不可能给你明确的答复。",
+      "english": "It’s impossible for me to give you a definite answer.",
+      "soundmark": "/'dɛfɪnət/",
+      "posTags": [[8, 8, "形容词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "谓语动词", "VP"],
+        [6, 9, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "definitely",
+      "chinese": "“你估计玛戈会在那里吗？” “肯定不会。”",
+      "english": "‘Do you reckon Margot will be there?’ ‘ Definitely not .’",
+      "soundmark": "/'dɛfɪnətli/",
+      "posTags": [[8, 8, "副词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 10, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "delegation",
+      "chinese": "一个贸易代表团将访问科威特。",
+      "english": "A trade delegation will visit Kuwait.",
+      "soundmark": "/,dɛlɪ'ɡeʃən/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "delete",
+      "chinese": "他的名字从名单上删掉了。",
+      "english": "His name was deleted from the list.",
+      "soundmark": "/dɪ'lit/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "delicate",
+      "chinese": "易碎的手工刻花玻璃",
+      "english": "delicate hand-cut glass",
+      "soundmark": "/ˈdɛlɪkɪt/",
+      "posTags": [[0, 0, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "delicious",
+      "chinese": "“这顿饭味道好极了。” 她礼貌地说道。",
+      "english": "‘The meal was absolutely delicious,’ she said politely.",
+      "soundmark": "/dɪ'lɪʃəs/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 7, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "delivery",
+      "chinese": "大多数印度餐馆提供免费外送服务。",
+      "english": "Most Indian restaurants offer free delivery.",
+      "soundmark": "/dɪ'lɪvəri/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "democracy",
+      "chinese": "16年军人统治后民主制度的恢复",
+      "english": "a return to democracy after 16 years of military rule",
+      "soundmark": "/dɪˈmɑkrəsi/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 9, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "dense",
+      "chinese": "居住在乡村的密集人口",
+      "english": "a dense rurally-based population",
+      "soundmark": "/dɛns/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "deny",
+      "chinese": "政府否认十六七岁的青少年当中存在贫困问题。",
+      "english": "The government denied the existence of poverty among 16- and 17-year-olds.",
+      "soundmark": "/dɪ'nai/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "depart",
+      "chinese": "欧洲航空公司的航班每逢周二从盖特威克机场起飞。",
+      "english": "Flights by Air Europe depart Gatwick on Tuesdays.",
+      "soundmark": "/dɪ'pɑrt/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 5, "宾语", "NP"],
+        [6, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "departure",
+      "chinese": "每天有好几个班次去纽约。",
+      "english": "There are several departures for New York every day.",
+      "soundmark": "/dɪ'pɑrtʃɚ/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 3, "表语", "NP"],
+        [4, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "depend",
+      "chinese": "他靠写作谋生。",
+      "english": "He depended on his writing for his income.",
+      "soundmark": "/dɪ'pɛnd/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "dependent",
+      "chinese": "简的母亲要靠简来照顾。",
+      "english": "Jan’s mother was dependent on her for physical care.",
+      "soundmark": "/dɪ'pɛndənt/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 3, "表语", "NP"],
+        [4, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "deposit",
+      "chinese": "雌性把卵直接产在水中。",
+      "english": "The female deposits her eggs directly into the water.",
+      "soundmark": "/dɪ'pɑzɪt/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "depress",
+      "chinese": "想到要补考，他就心情沮丧。",
+      "english": "The thought of taking the exam again depressed him.",
+      "soundmark": "/dɪ'prɛs/",
+      "posTags": [[7, 7, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "depth",
+      "chinese": "天文学家也许有一天可以到太空深处去。",
+      "english": "Astronomers may one day travel to the depths of space.",
+      "soundmark": "/dɛpθ/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "descend",
+      "chinese": "我们的飞机开始下降。",
+      "english": "Our plane started to descend.",
+      "soundmark": "/dɪ'sɛnd/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "describe",
+      "chinese": "警察叫她描述一下那名男子。",
+      "english": "The police asked her to describe the man.",
+      "soundmark": "/dɪ'skraɪb/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "description",
+      "chinese": "这本小册子对每一个地方都作了简短的介绍。",
+      "english": "The booklet gives a brief description of each place.",
+      "soundmark": "/dɪ'skrɪpʃən/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "design",
+      "chinese": "这座塔楼是吉尔伯特·斯科特设计的。",
+      "english": "The tower was designed by Gilbert Scott.",
+      "soundmark": "/dɪ'zaɪn/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "desirable",
+      "chinese": "能说一门外语是非常理想的。",
+      "english": "The ability to speak a foreign language is highly desirable .",
+      "soundmark": "/dɪ'zaɪərəbl/",
+      "posTags": [[9, 9, "形容词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 10, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "despair",
+      "chinese": "过去，邻居的噪音常常吵得他心烦意乱。",
+      "english": "The noise from the neighbours used to drive him to despair .",
+      "soundmark": "/dɪ'spɛr/",
+      "posTags": [[10, 10, "名词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 7, "谓语动词", "VP"],
+        [8, 8, "宾语", "NP"],
+        [9, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "desperate",
+      "chinese": "我身无分文，已经走投无路了。",
+      "english": "I had no money left and was desperate.",
+      "soundmark": "/'dɛspərət/",
+      "posTags": [[7, 7, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "despise",
+      "chinese": "她看不起她的邻居。",
+      "english": "She despised her neighbours.",
+      "soundmark": "/dɪ'spaɪz/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "destination",
+      "chinese": "埃利斯岛已经成为美国最受欢迎的游览地之一。",
+      "english": "Ellis Island has become one of America's most popular tourist destinations.",
+      "soundmark": "/,dɛstɪ'neʃən/",
+      "posTags": [[10, 10, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 4, "宾语", "NP"],
+        [5, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "destroy",
+      "chinese": "污染和破坏环境的公司",
+      "english": "companies that are polluting and destroying the environment",
+      "soundmark": "/dɪ'strɔɪ/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "determination",
+      "chinese": "他想要成功的坚定决心",
+      "english": "his dogged determination (= very strong determination ) to succeed",
+      "soundmark": "/dɪˌtɜːrmɪˈneɪʃn/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 7, "宾语", "NP"],
+        [8, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "develop",
+      "chinese": "遗传学领域的知识发展非常迅速。",
+      "english": "Knowledge in the field of genetics has been developing very rapidly.",
+      "soundmark": "/dɪ'vɛləp/",
+      "posTags": [[8, 8, "动词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 8, "谓语动词", "VP"],
+        [9, 10, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "development",
+      "chinese": "儿童发育",
+      "english": "child development",
+      "soundmark": "/dɪ'vɛləpmənt/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 1, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "devil",
+      "chinese": "村民们认为他被邪魔附身了。",
+      "english": "The villagers believed a devil had taken control of his body.",
+      "soundmark": "/'dɛvl/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 7, "宾语", "NP"],
+        [8, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "devise",
+      "chinese": "她想出一种加快办公室之间通信联络的方法。",
+      "english": "She devised a method for quicker communications between offices.",
+      "soundmark": "/dɪ'vaɪz/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "dew",
+      "chinese": "露水在叶片上聚集。",
+      "english": "The dew gathered on the leaves.",
+      "soundmark": "/du/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "dial",
+      "chinese": "她手表上的夜光表面显示时间为1点20分。",
+      "english": "The lighted dial of her watch said 1.20.",
+      "soundmark": "/'daɪəl/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "dialect",
+      "chinese": "当地方言",
+      "english": "the local dialect",
+      "soundmark": "/'daɪə'lɛkt/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "dialog",
+      "chinese": "在这个对话框中，您只可以在编辑器中打开一个工件。",
+      "english": "In this dialog, you can only open an artifact in the editor.",
+      "soundmark": "/'daɪə,lɑg/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 8, "宾语", "NP"],
+        [9, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "diameter",
+      "chinese": "…一根直径不到头发五分之一的微管。",
+      "english": "...a tube less than a fifth of the diameter of a human hair.",
+      "soundmark": "/daɪ'æmɪtɚ/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [[0, 12, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "diamond",
+      "chinese": "订婚钻戒",
+      "english": "a diamond engagement ring",
+      "soundmark": "/'daɪəmənd/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "diary",
+      "chinese": "英奇在战争年代里一直写日记。",
+      "english": "Inge kept a diary (= wrote in a diary ) during the war years.",
+      "soundmark": "/'daɪəri/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "谓语动词", "VP"],
+        [6, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "dictation",
+      "chinese": "身边没有秘书记录口授内容。",
+      "english": "There were no secretaries available to take dictation (= write down what someone is saying ) .",
+      "soundmark": "/dɪk'teʃən/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 4, "表语", "NP"],
+        [5, 16, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "dictionary",
+      "chinese": "一本德英词典",
+      "english": "a German-English dictionary",
+      "soundmark": "/'dɪkʃə'nɛri/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "die",
+      "chinese": "他1985年去世，终年76岁。",
+      "english": "He died in 1985 at the age of 76.",
+      "soundmark": "/daɪ/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "differ",
+      "chinese": "这两个系统在许多方面不同。",
+      "english": "The two systems differ in many respects.",
+      "soundmark": "/'dɪfɚ/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "difference",
+      "chinese": "我们之间有着天壤之别。",
+      "english": "(= there’s a very big difference ) between us.",
+      "soundmark": "/'dɪfrəns/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [[0, 8, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "different",
+      "chinese": "这地方现在完全变了。",
+      "english": "The place looks completely different now.",
+      "soundmark": "/'dɪfrənt/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "difficult",
+      "chinese": "难解的问题",
+      "english": "a difficult question",
+      "soundmark": "/'dɪfɪkəlt/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "dig",
+      "chinese": "刚挖出来的胡萝卜",
+      "english": "freshly dug carrots",
+      "soundmark": "/dɪɡ/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "digest",
+      "chinese": "大多数婴儿能轻易地消化很多种食物。",
+      "english": "Most babies can digest a wide range of food easily.",
+      "soundmark": "/daɪ'dʒɛst/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 6, "宾语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "digital",
+      "chinese": "数字信号",
+      "english": "a digital signal",
+      "soundmark": "/'dɪdʒɪtl/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"]
+      ]
+    }
+  ]
+}

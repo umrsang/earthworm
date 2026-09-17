@@ -1,0 +1,186 @@
+{
+  "title": "团队晨会与任务同步",
+  "description": "掌握日常站会中同步当前工作、汇报进度阻碍与跨团队协作的高频句型。",
+  "data": [
+    {
+      "chinese": "我目前正在处理用户认证模块。",
+      "english": "I am working on the user authentication module.",
+      "soundmark": "/aɪ æm ˈwɜːkɪŋ ɒn ðə ˈjuːzə ɔːˌθentɪˈkeɪʃn ˈmɒdjuːl/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "助动词"],
+        [2, 2, "动词"],
+        [3, 3, "介词"],
+        [4, 4, "限定词"],
+        [5, 5, "名词"],
+        [6, 6, "名词"],
+        [7, 7, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "进行时谓语", "VP"],
+        [4, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "chinese": "我在等待设计稿才能继续推进。",
+      "english": "I am waiting for the design assets.",
+      "soundmark": "/aɪ æm ˈweɪtɪŋ fɔː ðə dɪˈzaɪn ˈæsets/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "动词"],
+        [2, 2, "动词"],
+        [3, 3, "介词"],
+        [4, 4, "限定词"],
+        [5, 5, "名词"],
+        [6, 6, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 6, "谓语及介宾", "VP"]
+      ]
+    },
+    {
+      "chinese": "一切都在按计划进行。",
+      "english": "Everything is on schedule so far.",
+      "soundmark": "/ˈevriθɪŋ ɪz ɒn ˈʃedjuːl səʊ fɑː/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "动词"],
+        [2, 2, "介词"],
+        [3, 3, "名词"],
+        [4, 4, "副词"],
+        [5, 5, "副词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 5, "系表结构", "VP"]
+      ]
+    },
+    {
+      "chinese": "我们遇到了一个小问题。",
+      "english": "We hit a minor roadblock today.",
+      "soundmark": "/wiː hɪt ə ˈmaɪnə ˈrəʊdblɒk təˈdeɪ/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "动词"],
+        [2, 2, "限定词"],
+        [3, 3, "形容词"],
+        [4, 4, "名词"],
+        [5, 5, "副词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 4, "主谓宾", "VP"]
+      ]
+    },
+    {
+      "chinese": "会后我们可以线下沟通一下。",
+      "english": "Let us take this offline after the meeting.",
+      "soundmark": "/let ʌs teɪk ðɪs ˌɒfˈlaɪn ˈɑːftə ðə ˈmiːtɪŋ/",
+      "posTags": [
+        [0, 0, "动词"],
+        [1, 1, "代词"],
+        [2, 2, "动词"],
+        [3, 3, "代词"],
+        [4, 4, "副词"],
+        [5, 5, "介词"],
+        [6, 6, "限定词"],
+        [7, 7, "名词"]
+      ],
+      "syntaxTags": [[0, 7, "祈使句", "Imperative"]]
+    },
+    {
+      "chinese": "我预计今天下午能完成这个任务。",
+      "english": "I expect to finish this task this afternoon.",
+      "soundmark": "/aɪ ɪkˈspekt tə ˈfɪnɪʃ ðɪs tɑːsk ðɪs ˌɑːftəˈnuːn/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "动词"],
+        [2, 2, "不定式标记"],
+        [3, 3, "动词"],
+        [4, 4, "限定词"],
+        [5, 5, "名词"],
+        [6, 6, "限定词"],
+        [7, 7, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 7, "复合谓语", "VP"]
+      ]
+    },
+    {
+      "chinese": "今天我没有任何阻碍进度的事项。",
+      "english": "I have no blockers for today.",
+      "soundmark": "/aɪ hæv nəʊ ˈblɒkəz fɔː təˈdeɪ/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "动词"],
+        [2, 2, "限定词"],
+        [3, 3, "名词"],
+        [4, 4, "介词"],
+        [5, 5, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 5, "谓宾及介宾", "VP"]
+      ]
+    },
+    {
+      "chinese": "我们需要与产品经理确认这个需求。",
+      "english": "We need to clarify this requirement with the product manager.",
+      "soundmark": "/wiː niːd tə ˈklærəfaɪ ðɪs rɪˈkwaɪəmənt wɪð ðə ˈprɒdʌkt ˈmænɪdʒə/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "动词"],
+        [2, 2, "不定式标记"],
+        [3, 3, "动词"],
+        [4, 4, "限定词"],
+        [5, 5, "名词"],
+        [6, 6, "介词"],
+        [7, 7, "限定词"],
+        [8, 8, "名词"],
+        [9, 9, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 9, "谓语及从属短语", "VP"]
+      ]
+    },
+    {
+      "chinese": "我的拉取请求已经准备好供大家审查了。",
+      "english": "My pull request is ready for review.",
+      "soundmark": "/maɪ pʊl rɪˈkwest ɪz ˈredi fɔː rɪˈvjuː/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "名词"],
+        [2, 2, "名词"],
+        [3, 3, "动词"],
+        [4, 4, "形容词"],
+        [5, 5, "介词"],
+        [6, 6, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 6, "系表结构", "VP"]
+      ]
+    },
+    {
+      "chinese": "下一位由谁来同步？",
+      "english": "Who would like to go next?",
+      "soundmark": "/huː wʊd laɪk tə ɡəʊ nekst/",
+      "posTags": [
+        [0, 0, "疑问代词"],
+        [1, 1, "情态动词"],
+        [2, 2, "动词"],
+        [3, 3, "不定式标记"],
+        [4, 4, "动词"],
+        [5, 5, "副词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "疑问主语", "NP"],
+        [1, 5, "谓语结构", "VP"]
+      ]
+    }
+  ]
+}

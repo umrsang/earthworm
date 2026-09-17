@@ -1,0 +1,580 @@
+{
+  "title": "Unit 73: 四级核心词汇（rear ~ repeat）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "rear",
+      "chinese": "卡萝尔被落在最后。",
+      "english": "Carole was left to bring up the rear.",
+      "soundmark": "/rɪr/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 4, "系动词", "VP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "reason",
+      "chinese": "她有理由感到内疚。",
+      "english": "She has reason to feel guilty.",
+      "soundmark": "/ˈrizən/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 4, "谓语动词", "VP"],
+        [5, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "reasonable",
+      "chinese": "合情合理的要求",
+      "english": "a reasonable request",
+      "soundmark": "/'riznəbl/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "rebel",
+      "chinese": "投票者们反对高额财产税。",
+      "english": "Voters rebelled against high property taxes.",
+      "soundmark": "/rɪ'bɛl/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "recall",
+      "chinese": "你不会恰巧还想得起他的名字吧？",
+      "english": "You don’t happen to recall his name, do you?",
+      "soundmark": "/'rikɔl/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [[0, 8, "疑问句", "Question"]]
+    },
+    {
+      "word": "receipt",
+      "chinese": "保留收据以备退货之需。",
+      "english": "Keep your receipt in case you want to bring it back.",
+      "soundmark": "/rɪ'sit/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 2, "宾语", "NP"],
+        [3, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "receive",
+      "chinese": "每个孩子都会收到一份小礼物。",
+      "english": "All the children will receive a small gift.",
+      "soundmark": "/rɪ'siv/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "谓语动词", "VP"],
+        [5, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "receiver",
+      "chinese": "公司现在由破产管理人接管。",
+      "english": "The business is in the hands of the receivers .",
+      "soundmark": "/rɪ'sivɚ/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "recent",
+      "chinese": "欧文最新的书",
+      "english": "Irving’s most recent book",
+      "soundmark": "/'risnt/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "recently",
+      "chinese": "他最近晋升为经理助理。",
+      "english": "He has recently been promoted to Assistant Manager.",
+      "soundmark": "/'risntli/",
+      "posTags": [[2, 2, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "recognition",
+      "chinese": "他盯着她看，但似乎没认出她来。",
+      "english": "He stared at her, but there was no sign of recognition .",
+      "soundmark": "/,rɛkəɡ'nɪʃən/",
+      "posTags": [[10, 10, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "recognize",
+      "chinese": "你穿上制服我认不出你了。",
+      "english": "I didn’t recognize you in your uniform.",
+      "soundmark": "/ˈrɛkəɡˌnaɪz/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "recommendation",
+      "chinese": "设法得到老板和同事的推荐信。",
+      "english": "Try to get letters of recommendation from bosses and colleagues.",
+      "soundmark": "/,rɛkəmɛn'deʃən/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "record",
+      "chinese": "据官方记录，去年有五人在那个路口附近丧生。",
+      "english": "According to official records, five people were killed last year near that road junction.",
+      "soundmark": "/(for v.) rɪˈkɔrd; (for n. adj.) ˈrɛkɚd/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 1, "谓语动词", "VP"],
+        [2, 9, "宾语", "NP"],
+        [10, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "recorder",
+      "chinese": "罗德尼把录音机放在桌面上，按下了播放键。",
+      "english": "Rodney put the recorder on the desk top and pushed the play button.",
+      "soundmark": "/rɪ'kɔrdɚ/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "recovery",
+      "chinese": "经济复苏的希望越来越渺茫。",
+      "english": "Hopes of economic recovery are fading.",
+      "soundmark": "",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "red",
+      "chinese": "我们把门漆成鲜红色。",
+      "english": "We painted the door bright red .",
+      "soundmark": "/rɛd/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "reduction",
+      "chinese": "减少噪音的对策",
+      "english": "strategies for noise reduction",
+      "soundmark": "/rɪ'dʌkʃən/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "refer",
+      "chinese": "在他的讲话中，他提到了最近的加拿大之行。",
+      "english": "In his speech, he referred to a recent trip to Canada.",
+      "soundmark": "/rɪ'fɝ/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 5, "谓语动词", "VP"],
+        [6, 8, "宾语", "NP"],
+        [9, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "reference",
+      "chinese": "…一段《可兰经》的引文。",
+      "english": "...a reference from the Koran.",
+      "soundmark": "/'rɛfrəns/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "reflection",
+      "chinese": "你能看到玻璃里你的影像吗？",
+      "english": "Can you see your reflection in the glass?",
+      "soundmark": "/rɪ'flɛkʃən/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 7, "疑问句", "Question"]]
+    },
+    {
+      "word": "reflexion",
+      "chinese": "麦克斯韦方程组：洛仑兹力，平面电磁波，辐射，光波，反射，折射，惠更斯原理，衍射，干涉现象。",
+      "english": "Maxwell equations: Lorentz force, plane electromagnetic waves, radiation, light waves, reflexion, refraction, Huyghens principle, diffraction, interference phenomena.",
+      "soundmark": "/rɪ'flɛkʃən/",
+      "posTags": [[10, 10, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 16, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "reform",
+      "chinese": "彻底改革税收制度的计划",
+      "english": "plans to radically reform the tax system",
+      "soundmark": "/rɪ'fɔrm/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "refresh",
+      "chinese": "洗个淋浴你就凉快了。",
+      "english": "A shower will refresh you.",
+      "soundmark": "/ri'frɛʃ/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "refuse",
+      "chinese": "她叫他走，但他不肯。",
+      "english": "She asked him to leave, but he refused.",
+      "soundmark": "/ri'fjʊz/",
+      "posTags": [[7, 7, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "regard",
+      "chinese": "他被看成是近代最成功的总统。",
+      "english": "He was regarded as the most successful president of modern times.",
+      "soundmark": "/rɪ'ɡɑrd/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 7, "表语", "NP"],
+        [8, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "regarding",
+      "chinese": "关于你最近的咨询，我随信附上一本我们最新的手册。",
+      "english": "Regarding your recent inquiry, I have enclosed a copy of our new brochure.",
+      "soundmark": "/rɪ'ɡɑrdɪŋ/",
+      "posTags": [[0, 0, "介词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 8, "宾语", "NP"],
+        [9, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "regardless",
+      "chinese": "尽管她最近动了手术，她却一直在不顾一切地继续工作。",
+      "english": "Despite her recent surgery she has been carrying on regardless.",
+      "soundmark": "/rɪ'ɡɑrdləs/",
+      "posTags": [[9, 9, "副词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 7, "谓语动词", "VP"],
+        [8, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "region",
+      "chinese": "给这个地区带来和平的努力",
+      "english": "efforts to bring peace to the region",
+      "soundmark": "/'ridʒən/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "register",
+      "chinese": "你在酒店登记簿上签名了吗？",
+      "english": "Have you signed the hotel register ?",
+      "soundmark": "/'rɛdʒɪstɚ/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [[0, 6, "疑问句", "Question"]]
+    },
+    {
+      "word": "regret",
+      "chinese": "我们对于给顾客造成的不便表示歉意。",
+      "english": "We regret any inconvenience caused to our customers.",
+      "soundmark": "/rɪ'ɡrɛt/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "relate",
+      "chinese": "我不明白这两个观点有什么联系。",
+      "english": "I don’t understand how the two ideas relate.",
+      "soundmark": "/rɪ'let/",
+      "posTags": [[7, 7, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "relation",
+      "chinese": "肉的售价和农民拿到的价格无关。",
+      "english": "The price the meat is sold for bears no relation to (= is not connected to ) the price the farmer receives.",
+      "soundmark": "/rɪ'leʃən/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 5, "系动词", "VP"],
+        [6, 21, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "relationship",
+      "chinese": "他以前从未与人有过性关系。",
+      "english": "He’s never had a sexual relationship before.",
+      "soundmark": "/rɪ'leʃən'ʃɪp/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"],
+        [6, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "relax",
+      "chinese": "和缓的运动可以使僵硬的肩部肌肉放松。",
+      "english": "Gentle exercise can relax stiff shoulder muscles.",
+      "soundmark": "/rɪ'læks/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "reliability",
+      "chinese": "我可以向你保证这消息是可靠的。",
+      "english": "I can assure you of the reliability of the information.",
+      "soundmark": "/rɪ,laɪə'bɪləti/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "relief",
+      "chinese": "大麻可以为一些癌症患者减轻疼痛。",
+      "english": "Marijuana can provide pain relief for some cancer patients.",
+      "soundmark": "/rɪ'lif/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "religion",
+      "chinese": "美国宪法保证宗教信仰自由。",
+      "english": "The U.S. Constitution promises freedom of religion.",
+      "soundmark": "/rɪ'lɪdʒən/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 4, "宾语", "NP"],
+        [5, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "religious",
+      "chinese": "她的宗教信仰和我的不同。",
+      "english": "I don’t share her religious beliefs .",
+      "soundmark": "/rɪ'lɪdʒəs/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "rely",
+      "chinese": "他们非常依赖专业顾问的建议。",
+      "english": "They relied heavily on the advice of their professional advisers.",
+      "soundmark": "/rɪ'laɪ/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "remain",
+      "chinese": "难民获准留在英国。",
+      "english": "The refugees were allowed to remain in the UK.",
+      "soundmark": "/rɪ'men/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 5, "系动词", "VP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "remark",
+      "chinese": "不巧一名当地记者无意中听到了这些话。",
+      "english": "Unfortunately, a local journalist overheard the remark.",
+      "soundmark": "/rɪ'mɑrk/",
+      "posTags": [[6, 6, "动词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 6, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "remarkable",
+      "chinese": "她取得了显著的进步。",
+      "english": "She has made remarkable progress.",
+      "soundmark": "/rɪ'mɑrkəbl/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "remember",
+      "chinese": "你记得罗莎·戴维斯吗？",
+      "english": "Do you remember Rosa Davies?",
+      "soundmark": "/rɪ'mɛmbɚ/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [[0, 4, "疑问句", "Question"]]
+    },
+    {
+      "word": "remind",
+      "chinese": "是的，我会去那里的。 谢谢提醒。",
+      "english": "Yes, I’ll be there. Thanks for reminding me.",
+      "soundmark": "/rɪ'maɪnd/",
+      "posTags": [[6, 6, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 4, "表语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "remote",
+      "chinese": "一个偏远的边境小镇",
+      "english": "a remote border town",
+      "soundmark": "/rɪ'mot/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "removal",
+      "chinese": "去污",
+      "english": "stain removal",
+      "soundmark": "/rɪ'muvl/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 1, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "rent",
+      "chinese": "我每逢月初交付房租。",
+      "english": "I pay the rent at the beginning of every month.",
+      "soundmark": "/rɛnt/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "repair",
+      "chinese": "爸爸在梯子上修补屋顶。",
+      "english": "Dad was up the ladder, repairing the roof.",
+      "soundmark": "/rɪ'pɛr/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "repeat",
+      "chinese": "你能重复一遍你的问题吗？",
+      "english": "Can you repeat your question?",
+      "soundmark": "/rɪ'pit/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [[0, 4, "疑问句", "Question"]]
+    }
+  ]
+}

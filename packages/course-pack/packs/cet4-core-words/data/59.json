@@ -1,0 +1,561 @@
+{
+  "title": "Unit 59: 四级核心词汇（location ~ manager）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "location",
+      "chinese": "他的公寓地段很好。",
+      "english": "His apartment is in a really good location.",
+      "soundmark": "/lo'keʃən/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "lock",
+      "chinese": "对不起，浴室门上没有锁。",
+      "english": "I’m sorry, there isn’t a lock on the bathroom door.",
+      "soundmark": "/lɑk/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "谓语动词", "VP"],
+        [6, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "log",
+      "chinese": "原木燃烧的熊熊大火",
+      "english": "a roaring log fire",
+      "soundmark": "/lɔɡ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "logical",
+      "chinese": "那位侦探得通过逻辑推理来找出凶手。",
+      "english": "The detective has to discover the murderer by logical deduction.",
+      "soundmark": "/'lɑdʒɪkl/",
+      "posTags": [[8, 8, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "谓语动词", "VP"],
+        [5, 6, "宾语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "lonely",
+      "chinese": "一个孤单的老人",
+      "english": "a lonely old man",
+      "soundmark": "/'lonli/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "look",
+      "chinese": "我们趁杰茜的妈妈没有看到，偷偷地溜了出去。",
+      "english": "We sneaked out while Jessie’s mom wasn’t looking.",
+      "soundmark": "/lʊk/",
+      "posTags": [[7, 7, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "loop",
+      "chinese": "莫雷尔夫人伸手去拿一圈橡胶软管。",
+      "english": "Mrs. Morrell reached for a loop of garden hose.",
+      "soundmark": "/lup/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "loose",
+      "chinese": "松动的地板",
+      "english": "a loose floorboard",
+      "soundmark": "/lus/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "loosen",
+      "chinese": "你需要扳手来拧开那个螺栓。",
+      "english": "You’ll need a spanner to loosen that bolt.",
+      "soundmark": "/'lusn/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "lord",
+      "chinese": "索尔兹伯里勋爵",
+      "english": "Lord Salisbury",
+      "soundmark": "/lɔrd/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [[0, 1, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "lorry",
+      "chinese": "他们不时听见一辆重型卡车的轰响声。",
+      "english": "Now and then they heard the roar of a heavy lorry.",
+      "soundmark": "/'lɔri/",
+      "posTags": [[10, 10, "名词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 6, "谓语动词", "VP"],
+        [7, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "lose",
+      "chinese": "我已经没有了胃口。",
+      "english": "I’ve lost my appetite.",
+      "soundmark": "/luz/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "loss",
+      "chinese": "公司要关闭其中的两家工厂，这将造成430人失业。",
+      "english": "The company is closing down two of its factories, leading to 430 job losses .",
+      "soundmark": "/lɔs/",
+      "posTags": [[13, 13, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 14, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "lot",
+      "chinese": "我们在孩子的教育上花费甚多。",
+      "english": "We’ve spent a lot on the children’s education.",
+      "soundmark": "/lɑt/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "loud",
+      "chinese": "书砰的一声掉落到地上。",
+      "english": "The book fell to the floor with a loud bang.",
+      "soundmark": "/laʊd/",
+      "posTags": [[8, 8, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"],
+        [6, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "loudspeaker",
+      "chinese": "广播说火车进站了。",
+      "english": "The loudspeaker announced the arrival of the train.",
+      "soundmark": "/,laʊd'spikɚ/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "love",
+      "chinese": "我爱你，特雷西。",
+      "english": "I love you, Tracy.",
+      "soundmark": "/lʌv/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "lovely",
+      "chinese": "她有一张漂亮的脸蛋。",
+      "english": "She had a lovely face.",
+      "soundmark": "/'lʌvli/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "lover",
+      "chinese": "他杀了妻子的情人。",
+      "english": "He killed his wife’s lover.",
+      "soundmark": "/'lʌvɚ/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "low",
+      "chinese": "他们的安全标准似乎相当低。",
+      "english": "Their safety standards seem to be pretty low.",
+      "soundmark": "/ləʊ/",
+      "posTags": [[7, 7, "形容词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 5, "谓语动词", "VP"],
+        [6, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "lower",
+      "chinese": "周末气温会下降。",
+      "english": "Temperatures will be lower over the weekend.",
+      "soundmark": "/'loɚ/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "loyal",
+      "chinese": "球队的忠实支持者",
+      "english": "a loyal supporter of the team",
+      "soundmark": "/'lɔɪəl/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "luck",
+      "chinese": "你今天运气不太好，是不是？",
+      "english": "You’re not having much luck today, are you?",
+      "soundmark": "/lʌk/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 7, "疑问句", "Question"]]
+    },
+    {
+      "word": "lucky",
+      "chinese": "我并不知道你的名字―只是运气好猜中的。",
+      "english": "I didn’t really know your name – it was just a lucky guess .",
+      "soundmark": "/'lʌki/",
+      "posTags": [[11, 11, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 13, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "luggage",
+      "chinese": "他们搜查他的行李看是否藏有毒品。",
+      "english": "They searched his luggage for illegal drugs.",
+      "soundmark": "/'lʌɡɪdʒ/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "lumber",
+      "chinese": "它是软木做的，看样子是云杉。",
+      "english": "It was made of soft lumber, spruce by the look of it.",
+      "soundmark": "/'lʌmbɚ/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "lump",
+      "chinese": "滤去牛奶蛋糊里的面块。",
+      "english": "Strain the custard to remove lumps.",
+      "soundmark": "/lʌmp/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 2, "宾语", "NP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "lunch",
+      "chinese": "午饭吃什么？",
+      "english": "What’s for lunch?",
+      "soundmark": "/lʌntʃ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "疑问句", "Question"]]
+    },
+    {
+      "word": "lung",
+      "chinese": "吸烟会引起肺癌。",
+      "english": "Smoking can cause lung cancer.",
+      "soundmark": "/lʌŋ/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "luxury",
+      "chinese": "他在澳大利亚过着豪华舒适的生活。",
+      "english": "He was leading a life of luxury in Australia.",
+      "soundmark": "/'lʌɡʒəri/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 4, "表语", "NP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "machine",
+      "chinese": "给我从自动饮料机里买一罐咖啡好吗？",
+      "english": "Could you get me a coffee from the drinks machine ?",
+      "soundmark": "/mə'ʃin/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [[0, 10, "疑问句", "Question"]]
+    },
+    {
+      "word": "mad",
+      "chinese": "他不可能按时完成的。他一定是疯了！",
+      "english": "He can’t possibly get that finished in time. He must be mad !",
+      "soundmark": "/mæd/",
+      "posTags": [[11, 11, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "宾语", "NP"],
+        [6, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "madam",
+      "chinese": "有人接待您吗，夫人？",
+      "english": "Are you being served, Madam?",
+      "soundmark": "/'mædəm/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 4, "疑问句", "Question"]]
+    },
+    {
+      "word": "magazine",
+      "chinese": "杂志中的文章",
+      "english": "a magazine article",
+      "soundmark": "/'mæɡəzin/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "magic",
+      "chinese": "你相信魔法吗？",
+      "english": "Do you believe in magic?",
+      "soundmark": "/'mædʒɪk/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 4, "疑问句", "Question"]]
+    },
+    {
+      "word": "magnet",
+      "chinese": "把一颗钉子挂在一个磁体上再用这颗钉子去吸起另一颗钉子是可能的。",
+      "english": "It's possible to hang a nail from a magnet and then use that nail to pick up another nail.",
+      "soundmark": "/'mægnɪt/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"],
+        [6, 18, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "magnetic",
+      "chinese": "磁力",
+      "english": "magnetic forces",
+      "soundmark": "/mæg'nɛtɪk/",
+      "posTags": [[0, 0, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "magnificent",
+      "chinese": "这个衣着华丽的花花公子在枝形吊灯灯光下翩翩起舞。",
+      "english": "The magnificent beau is dancing to the light of chandeliers.",
+      "soundmark": "/mæg'nɪfəsnt/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 5, "系动词", "VP"],
+        [6, 7, "表语", "NP"],
+        [8, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "maid",
+      "chinese": "厨房女佣人",
+      "english": "a kitchen maid",
+      "soundmark": "/med/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "mail",
+      "chinese": "你不应该看别人的信件。",
+      "english": "You shouldn’t read other people’s mail.",
+      "soundmark": "/mel/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "main",
+      "chinese": "居住在西班牙的主要原因是天气。",
+      "english": "The main reason for living in Spain is the weather.",
+      "soundmark": "/meɪn/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "mainland",
+      "chinese": "希腊一海岛和本土之间的航班",
+      "english": "flights between a Greek island and the mainland",
+      "soundmark": "/'menlænd/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [[0, 7, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "mainly",
+      "chinese": "她的病主要是由精神压力引起的。",
+      "english": "Her illness was caused mainly by stress.",
+      "soundmark": "/'menli/",
+      "posTags": [[4, 4, "副词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 4, "表语", "NP"],
+        [5, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "maintenance",
+      "chinese": "维修保养费",
+      "english": "the cost of repairs and maintenance",
+      "soundmark": "/'mentənəns/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "make",
+      "chinese": "我来教你怎么做一个箱子存放工具。",
+      "english": "I’m going to show you how to make a box for your tools.",
+      "soundmark": "/mek/",
+      "posTags": [[7, 7, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"],
+        [6, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "male",
+      "chinese": "低沉的男声",
+      "english": "a deep male voice",
+      "soundmark": "/mel/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "man",
+      "chinese": "车上有两男一女。",
+      "english": "There were two men and a woman in the car.",
+      "soundmark": "/mæn/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 6, "表语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "manage",
+      "chinese": "他被要求去管理一个新的部门。",
+      "english": "He was asked to manage a new department.",
+      "soundmark": "/'mænɪdʒ/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 4, "系动词", "VP"],
+        [5, 7, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "management",
+      "chinese": "缺乏管理技巧",
+      "english": "a lack of management skills",
+      "soundmark": "/'mænɪdʒmənt/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "manager",
+      "chinese": "我们的一位地区经理",
+      "english": "one of our regional managers",
+      "soundmark": "/'mænɪdʒɚ/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    }
+  ]
+}

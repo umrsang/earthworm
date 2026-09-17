@@ -1,0 +1,163 @@
+{
+  "title": "购物退税与突发求助",
+  "description": "商场购物试穿、免税退税单办理、走失寻物与紧急求助必备高频句。",
+  "data": [
+    {
+      "chinese": "请问你们提供游客退税服务吗？",
+      "english": "Do you offer tax free shopping for tourists?",
+      "soundmark": "/duː juː ˈɒfər tæks friː ˈʃɒpɪŋ fɔː ˈtʊərɪsts/",
+      "posTags": [
+        [0, 0, "助动词"],
+        [1, 1, "代词"],
+        [2, 2, "动词"],
+        [3, 3, "名词"],
+        [4, 4, "形容词"],
+        [5, 5, "名词"],
+        [6, 6, "介词"],
+        [7, 7, "名词"]
+      ],
+      "syntaxTags": [[0, 7, "退税服务疑问句", "Question"]]
+    },
+    {
+      "chinese": "请问试衣间在哪里？",
+      "english": "Where is the fitting room, please?",
+      "soundmark": "/weər ɪz ðə ˈfɪtɪŋ ruːm pliːz/",
+      "posTags": [
+        [0, 0, "疑问副词"],
+        [1, 1, "动词"],
+        [2, 2, "限定词"],
+        [3, 3, "名词"],
+        [4, 4, "名词"],
+        [5, 5, "副词"]
+      ],
+      "syntaxTags": [[0, 5, "特殊疑问句", "Question"]]
+    },
+    {
+      "chinese": "这件衣服有大一号的尺码吗？",
+      "english": "Do you have this in a larger size?",
+      "soundmark": "/duː juː hæv ðɪs ɪn ə ˈlɑːdʒər saɪz/",
+      "posTags": [
+        [0, 0, "助动词"],
+        [1, 1, "代词"],
+        [2, 2, "动词"],
+        [3, 3, "代词"],
+        [4, 4, "介词"],
+        [5, 5, "限定词"],
+        [6, 6, "形容词"],
+        [7, 7, "名词"]
+      ],
+      "syntaxTags": [[0, 7, "尺码询问疑问句", "Question"]]
+    },
+    {
+      "chinese": "我可以用信用卡或者手机支付吗？",
+      "english": "Can I pay by credit card or mobile payment?",
+      "soundmark": "/kæn aɪ peɪ baɪ ˈkredɪt kɑːd ɔː ˈməʊbaɪl ˈpeɪmənt/",
+      "posTags": [
+        [0, 0, "情态动词"],
+        [1, 1, "代词"],
+        [2, 2, "动词"],
+        [3, 3, "介词"],
+        [4, 4, "名词"],
+        [5, 5, "名词"],
+        [6, 6, "连词"],
+        [7, 7, "形容词"],
+        [8, 8, "名词"]
+      ],
+      "syntaxTags": [[0, 8, "支付方式疑问句", "Question"]]
+    },
+    {
+      "chinese": "我的护照刚才不小心弄丢了。",
+      "english": "I have lost my passport.",
+      "soundmark": "/aɪ hæv lɒst maɪ ˈpɑːspɔːt/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "助动词"],
+        [2, 2, "动词"],
+        [3, 3, "代词"],
+        [4, 4, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 4, "紧急陈述谓宾", "VP"]
+      ]
+    },
+    {
+      "chinese": "你能帮我报警叫警察过来吗？",
+      "english": "Could you please call the police for me?",
+      "soundmark": "/kʊd juː pliːz kɔːl ðə pəˈliːs fɔː miː/",
+      "posTags": [
+        [0, 0, "情态动词"],
+        [1, 1, "代词"],
+        [2, 2, "副词"],
+        [3, 3, "动词"],
+        [4, 4, "限定词"],
+        [5, 5, "名词"],
+        [6, 6, "介词"],
+        [7, 7, "代词"]
+      ],
+      "syntaxTags": [[0, 7, "紧急求助请求", "Question"]]
+    },
+    {
+      "chinese": "附近有全天营业的药店吗？",
+      "english": "Is there a pharmacy nearby?",
+      "soundmark": "/ɪz ðeər ə ˈfɑːməsi ˈnɪəbaɪ/",
+      "posTags": [
+        [0, 0, "动词"],
+        [1, 1, "代词"],
+        [2, 2, "限定词"],
+        [3, 3, "名词"],
+        [4, 4, "副词"]
+      ],
+      "syntaxTags": [[0, 4, "There be药店疑问句", "Question"]]
+    },
+    {
+      "chinese": "我感到头晕，需要看急诊医生。",
+      "english": "I feel dizzy and need to see a doctor.",
+      "soundmark": "/aɪ fiːl ˈdɪzi ænd niːd tə siː ə ˈdɒktər/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "动词"],
+        [2, 2, "形容词"],
+        [3, 3, "连词"],
+        [4, 4, "动词"],
+        [5, 5, "不定式标记"],
+        [6, 6, "动词"],
+        [7, 7, "限定词"],
+        [8, 8, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 2, "第一分句", "Clause"],
+        [3, 8, "第二并列分句", "Clause"]
+      ]
+    },
+    {
+      "chinese": "退换货政策是几天之内有效？",
+      "english": "What is your return policy?",
+      "soundmark": "/wɒt ɪz jɔː rɪˈtɜːn ˈpɒləsi/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "动词"],
+        [2, 2, "代词"],
+        [3, 3, "名词"],
+        [4, 4, "名词"]
+      ],
+      "syntaxTags": [[0, 4, "售后规则疑问句", "Question"]]
+    },
+    {
+      "chinese": "非常感谢您的热心相助！",
+      "english": "Thank you so much for your kind assistance.",
+      "soundmark": "/θæŋk juː səʊ mʌtʃ fɔː jɔː kaɪnd əˈsɪstəns/",
+      "posTags": [
+        [0, 0, "动词"],
+        [1, 1, "代词"],
+        [2, 2, "副词"],
+        [3, 3, "副词"],
+        [4, 4, "介词"],
+        [5, 5, "代词"],
+        [6, 6, "形容词"],
+        [7, 7, "名词"]
+      ],
+      "syntaxTags": [[0, 7, "深度致谢", "Formula"]]
+    }
+  ]
+}

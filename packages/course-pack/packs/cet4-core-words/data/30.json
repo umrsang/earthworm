@@ -1,0 +1,583 @@
+{
+  "title": "Unit 30: 四级核心词汇（bond ~ broken）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "bond",
+      "chinese": "我父亲把他所有的钱都投在上市债券上。",
+      "english": "My father put all his money into stock market bonds.",
+      "soundmark": "/bɑnd/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"],
+        [6, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "bone",
+      "chinese": "X光检查显示有两处骨折。",
+      "english": "The X-ray showed that the bone was broken in two places.",
+      "soundmark": "/bon/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 7, "宾语", "NP"],
+        [8, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "book",
+      "chinese": "我刚开始看格雷厄姆·格林写的一本书。",
+      "english": "I’ve just started reading a book by Graham Greene.",
+      "soundmark": "/bʊk/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "boot",
+      "chinese": "一双靴子",
+      "english": "a pair of boots",
+      "soundmark": "/but/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "booth",
+      "chinese": "我在酒吧入口附近的一个公用电话亭给她打了电话。",
+      "english": "I called her from a public phone booth near the entrance to the bar.",
+      "soundmark": "/bʊθ/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "border",
+      "chinese": "饰有黑边的信纸",
+      "english": "writing paper with a black border",
+      "soundmark": "",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 1, "宾语", "NP"],
+        [2, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "bore",
+      "chinese": "他这人会在派对上烦你。",
+      "english": "He’s the sort of person who bores you at parties.",
+      "soundmark": "/bɔr/",
+      "posTags": [[6, 6, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "born",
+      "chinese": "天生的表演技巧",
+      "english": "the skill of a born actor",
+      "soundmark": "/bɔrn/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "borrow",
+      "chinese": "我可以借你的笔用一下吗？",
+      "english": "Can I borrow your pen for a minute?",
+      "soundmark": "/'bɑro/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [[0, 7, "疑问句", "Question"]]
+    },
+    {
+      "word": "bosom",
+      "chinese": "她把那孩子抱入怀中。",
+      "english": "She cradled the child to her bosom.",
+      "soundmark": "/'bʊzəm/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "boss",
+      "chinese": "我得向老板请一天假。",
+      "english": "I’ll have to ask my boss for a day off.",
+      "soundmark": "/bɑs/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"],
+        [6, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "bottle",
+      "chinese": "一个空瓶子",
+      "english": "an empty bottle",
+      "soundmark": "/'bɑtl/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "bottom",
+      "chinese": "毒品藏在一个带假底板的行李箱里。",
+      "english": "The drugs had been hidden in a suitcase with a false bottom.",
+      "soundmark": "/'bɑtəm/",
+      "posTags": [[11, 11, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 4, "宾语", "NP"],
+        [5, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "bough",
+      "chinese": "我把我的鱼竿靠在松树的一个大树枝上。",
+      "english": "I rested my fishing rod against a pine bough.",
+      "soundmark": "/baʊ/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "bounce",
+      "chinese": "别在沙发上蹦来蹦去了。",
+      "english": "Stop bouncing up and down on the sofa.",
+      "soundmark": "/baʊns/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 1, "谓语动词", "VP"],
+        [2, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "boundary",
+      "chinese": "在全球经济中，国界已经变得越来越没有意义。",
+      "english": "National boundaries are becoming increasingly meaningless in the global economy.",
+      "soundmark": "/'baʊndri/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 5, "表语", "NP"],
+        [6, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "bowl",
+      "chinese": "将所有配料放在大碗里搅拌均匀。",
+      "english": "Mix all the ingredients thoroughly in a large bowl.",
+      "soundmark": "/bol/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 4, "宾语", "NP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "box",
+      "chinese": "吉姆在私人包厢里观看比赛。",
+      "english": "Jim watched the game from a private box.",
+      "soundmark": "/bɑks/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "boy",
+      "chinese": "男孩子们想踢足球。",
+      "english": "The boys wanted to play football.",
+      "soundmark": "/bɔɪ/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "谓语动词", "VP"],
+        [5, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "brain",
+      "chinese": "大脑发出的信息是通过中枢神经系统传递的。",
+      "english": "Messages from the brain are carried by the central nervous system.",
+      "soundmark": "/bren/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 5, "系动词", "VP"],
+        [6, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "brake",
+      "chinese": "车子涉水之后要检验一下刹车。",
+      "english": "Test your brakes after driving through water.",
+      "soundmark": "/brek/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "branch",
+      "chinese": "暴风雨过后，满地都是大大小小的树枝。",
+      "english": "After the storm, the ground was littered with twigs and branches.",
+      "soundmark": "/bræntʃ/",
+      "posTags": [[10, 10, "名词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 6, "系动词", "VP"],
+        [7, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "brand",
+      "chinese": "云斯顿是一种香烟品牌。",
+      "english": "Winston is a brand of cigarette.",
+      "soundmark": "/brænd/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 3, "表语", "NP"],
+        [4, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "brandy",
+      "chinese": "几杯白兰地酒过后,迈克尔开始向我讲述他的人生故事。",
+      "english": "After a couple of brandies Michael started telling me his life story.",
+      "soundmark": "/'brændi/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 7, "谓语动词", "VP"],
+        [8, 11, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "brass",
+      "chinese": "老式黄铜床架",
+      "english": "an old brass bedstead",
+      "soundmark": "/bræs/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "brave",
+      "chinese": "她与癌症的勇敢搏斗",
+      "english": "her brave fight against cancer",
+      "soundmark": "/brev/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "bread",
+      "chinese": "你喝汤时要吃点面包吗？",
+      "english": "Would you like some bread with your soup?",
+      "soundmark": "/brɛd/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 7, "疑问句", "Question"]]
+    },
+    {
+      "word": "breadth",
+      "chinese": "我们需要扩大学院课程的范围。",
+      "english": "We need to provide more breadth in the college curriculum.",
+      "soundmark": "/brɛdθ/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"],
+        [6, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "break",
+      "chinese": "一声尖叫打破了寂静。",
+      "english": "The silence was broken by a loud scream.",
+      "soundmark": "/brek/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "breakfast",
+      "chinese": "我们早餐吃了熏肉鸡蛋。",
+      "english": "We had bacon and eggs for breakfast .",
+      "soundmark": "/'brɛkfəst/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "breast",
+      "chinese": "这些胸罩专为乳房丰满的女性设计。",
+      "english": "These bras are specially designed for women with large breasts.",
+      "soundmark": "/brɛst/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 4, "表语", "NP"],
+        [5, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "breath",
+      "chinese": "慢一点，我要喘口气。",
+      "english": "Slow down, I need to catch my breath.",
+      "soundmark": "/brɛθ/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 5, "谓语动词", "VP"],
+        [6, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "breathe",
+      "chinese": "房间里全是烟，呼吸越来越困难。",
+      "english": "The room filled with smoke, and it was becoming difficult to breathe.",
+      "soundmark": "/brið/",
+      "posTags": [[11, 11, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "breed",
+      "chinese": "真正的牛仔现在已非常少见。",
+      "english": "Real cowboys are a dying breed (=  not many exist anymore  ) .",
+      "soundmark": "/brid/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 12, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "breeze",
+      "chinese": "在微风中摇曳的花儿",
+      "english": "flowers waving in the breeze",
+      "soundmark": "/briz/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "brick",
+      "chinese": "砖墙",
+      "english": "a brick wall",
+      "soundmark": "/brɪk/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "bridge",
+      "chinese": "他从铁路桥上走了回去。",
+      "english": "He walked back over the railway bridge.",
+      "soundmark": "/brɪdʒ/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "brief",
+      "chinese": "我们顺路在艾丽斯家小坐片刻。",
+      "english": "We stopped by Alice’s house for a brief visit.",
+      "soundmark": "/brif/",
+      "posTags": [[7, 7, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "bright",
+      "chinese": "明亮的光线刺痛了她的眼睛。",
+      "english": "Her eyes were hurting from the bright lights.",
+      "soundmark": "/braɪt/",
+      "posTags": [[6, 6, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "brighten",
+      "chinese": "用点金色的挑染，让你的发色明亮起来。",
+      "english": "Use blonde highlights to brighten your hair.",
+      "soundmark": "/'braɪtn/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "谓语动词", "VP"],
+        [5, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "brilliant",
+      "chinese": "强烈的光线下，她闭起了眼睛。",
+      "english": "She closed her eyes against the brilliant light .",
+      "soundmark": "/'brɪljənt/",
+      "posTags": [[6, 6, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "brim",
+      "chinese": "一顶旧的宽边草帽",
+      "english": "an old straw hat with a broad brim",
+      "soundmark": "/brɪm/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [[0, 7, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "bring",
+      "chinese": "黄金的发现把成千上万的人引到了德兰士瓦。",
+      "english": "The discovery of gold brought thousands of people to the Transvaal.",
+      "soundmark": "/brɪŋ/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 5, "宾语", "NP"],
+        [6, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "brisk",
+      "chinese": "轻快的行走",
+      "english": "a brisk walk",
+      "soundmark": "/brɪsk/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "bristle",
+      "chinese": "他满下巴都是胡茬。",
+      "english": "His chin was covered with bristles.",
+      "soundmark": "/'brɪsl/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "Britain",
+      "chinese": "这是从不列颠引进的种马。",
+      "english": "This is the stud  naturalized from Britain.",
+      "soundmark": "/'brɪtən/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 4, "表语", "NP"],
+        [5, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "British",
+      "chinese": "英国政府",
+      "english": "the British government",
+      "soundmark": "/'brɪtɪʃ/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "brittle",
+      "chinese": "但我们的屏幕都很脆弱，他们的却很柔软，而且价钱是我们的十分之一。",
+      "english": "But while our screens are brittle, theirs is flexible––at what they say is one tenth the price.",
+      "soundmark": "",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "谓语动词", "VP"],
+        [5, 16, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "broadcast",
+      "chinese": "一档新闻节目",
+      "english": "a news broadcast",
+      "soundmark": "/'brɔdkæst/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "broken",
+      "chinese": "严重骨折的腿",
+      "english": "a badly broken leg",
+      "soundmark": "/'brokən/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    }
+  ]
+}

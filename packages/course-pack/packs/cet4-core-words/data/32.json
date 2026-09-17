@@ -1,0 +1,558 @@
+{
+  "title": "Unit 32: 四级核心词汇（canal ~ certain）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "canal",
+      "chinese": "我们沿着运河边往前走。",
+      "english": "We walked along by the side of the canal.",
+      "soundmark": "/kə'næl/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "cancer",
+      "chinese": "现在许多癌症可以治愈。",
+      "english": "A lot of cancers can now be treated successfully.",
+      "soundmark": "/'kænsɚ/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "candle",
+      "chinese": "蜡烛只有半英寸长时，烛光忽闪忽闪地熄灭了，于是房间一片漆黑。",
+      "english": "When the candle was only half an inch high it flickered out and the room became dark.",
+      "soundmark": "/'kændl/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 16, "疑问句", "Question"]]
+    },
+    {
+      "word": "candy",
+      "chinese": "一盒糖果",
+      "english": "a box of candies",
+      "soundmark": "/'kændi/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "cannon",
+      "chinese": "炮声隆隆，鼓乐齐鸣。",
+      "english": "The cannons boom, the band plays.",
+      "soundmark": "/'kænən/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "canoe",
+      "chinese": "那年我在公园里做暑期兼职，我把独木舟翻转个身，然后我们一起合力将它推到岸边，这样我们就可以划船了。",
+      "english": "At a summer job working as park naturalists that year, I flipped the canoe Air and I were paddling and we had to push it to shore.",
+      "soundmark": "/kə'nu/",
+      "posTags": [[13, 13, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 21, "宾语", "NP"],
+        [22, 26, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "canvas",
+      "chinese": "帆布包",
+      "english": "a canvas bag",
+      "soundmark": "/'kænvəs/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "cap",
+      "chinese": "…一顶深蓝色的棒球帽。",
+      "english": "...a dark blue baseball cap.",
+      "soundmark": "/kæp/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "capacity",
+      "chinese": "这房间能坐80个人左右。",
+      "english": "The room had seating capacity for about 80.",
+      "soundmark": "/kə'pæsəti/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 4, "宾语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "capital",
+      "chinese": "美国首都华盛顿特区",
+      "english": "Washington D.C., the capital of the United States",
+      "soundmark": "/'kæpɪtl/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 6, "谓语动词", "VP"],
+        [7, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "captain",
+      "chinese": "机长和全体机组人员欢迎各位乘坐本次航班。",
+      "english": "The captain and crew welcome you aboard.",
+      "soundmark": "/ˈkæptən/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 6, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "captive",
+      "chinese": "他讲述了沦为阶下囚的4个月中生存的种种不易。",
+      "english": "He described the difficulties of surviving for four months as a captive.",
+      "soundmark": "/'kæptɪv/",
+      "posTags": [[11, 11, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "capture",
+      "chinese": "政府军已经成功抓获叛乱分子的头目。",
+      "english": "Government troops have succeeded in capturing the rebel leader.",
+      "soundmark": "/'kæptʃɚ/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"],
+        [4, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "car",
+      "chinese": "丹下了车，锁上车门。",
+      "english": "Dan got out of the car and locked the door.",
+      "soundmark": "/kɑr/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "carbon",
+      "chinese": "纵观全球，森林与它们脚下的土壤能吸收大约碳排放总量的四分之一。",
+      "english": "Across the world, forests and the soil beneath them absorb about a quarter of all carbon emissions.",
+      "soundmark": "/'kɑrbən/",
+      "posTags": [[15, 15, "名词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 6, "谓语动词", "VP"],
+        [7, 9, "宾语", "NP"],
+        [10, 16, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "card",
+      "chinese": "雇员在大门口必须出示自己的身份卡。",
+      "english": "Employees must show their identity cards at the gate.",
+      "soundmark": "/kɑrd/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "care",
+      "chinese": "她觉得没有人在乎。",
+      "english": "She felt that nobody cared.",
+      "soundmark": "/kɛr/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "career",
+      "chinese": "教学事业",
+      "english": "a teaching career",
+      "soundmark": "/kə'rɪr/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "careful",
+      "chinese": "学校的任何出游活动都需要周密的安排。",
+      "english": "Any school trip requires careful planning.",
+      "soundmark": "/'kɛrfl/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "cargo",
+      "chinese": "货机",
+      "english": "a cargo plane",
+      "soundmark": "/'kɑrɡo/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "carpet",
+      "chinese": "我卧室里的地毯是绿色的。",
+      "english": "My bedroom carpet is green.",
+      "soundmark": "/'kɑrpɪt/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "系动词", "VP"],
+        [4, 4, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "carriage",
+      "chinese": "新当选的总统紧随其后，坐着6匹灰色骏马开道的敞篷马车。",
+      "english": "The president-elect followed in an open carriage drawn by six beautiful grey horses.",
+      "soundmark": "/'kærɪdʒ/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "carrier",
+      "chinese": "跨国运输公司",
+      "english": "an international carrier",
+      "soundmark": "/'kærɪɚ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "carrot",
+      "chinese": "磨碎的胡萝卜",
+      "english": "grated carrots",
+      "soundmark": "/'kærət/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 1, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "carry",
+      "chinese": "这艘船上载有毒品。",
+      "english": "The ship was carrying drugs.",
+      "soundmark": "/'kæri/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 4, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "carve",
+      "chinese": "木雕椅子",
+      "english": "carved wooden chairs",
+      "soundmark": "/kɑrv/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 2, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "case",
+      "chinese": "蹩脚设计的典型例子",
+      "english": "a classic case (= typical example ) of poor design",
+      "soundmark": "/kes/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 8, "主语", "NP"],
+        [9, 9, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "cash",
+      "chinese": "在一次公寓盗窃案中现金被盗。",
+      "english": "Cash was taken during a burglary of the apartment.",
+      "soundmark": "/kæʃ/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "cassette",
+      "chinese": "他以磁带形式发行的两张专辑已售出1000万份。",
+      "english": "His two albums released on cassette have sold 10 million copies.",
+      "soundmark": "/kə'sɛt/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "cast",
+      "chinese": "低垂的树枝投下的阴影",
+      "english": "the shade cast by low-hanging branches",
+      "soundmark": "/kæst/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "castle",
+      "chinese": "破败的城堡",
+      "english": "a ruined castle",
+      "soundmark": "/'kæsl/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "cat",
+      "chinese": "警方跟他玩了一场精心布局的猫捉老鼠游戏，诱他落网。",
+      "english": "The police played an elaborate game of cat and mouse to trap him.",
+      "soundmark": "/kæt/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"],
+        [6, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "catch",
+      "chinese": "你捕到鱼了吗？",
+      "english": "Did you catch any fish?",
+      "soundmark": "/kætʃ/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [[0, 4, "疑问句", "Question"]]
+    },
+    {
+      "word": "cathedral",
+      "chinese": "圣保罗大教堂",
+      "english": "St Paul’s Cathedral",
+      "soundmark": "/kə'θidrəl/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "cattle",
+      "chinese": "成群的牛",
+      "english": "herds of cattle",
+      "soundmark": "/'kætl/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 2, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "cause",
+      "chinese": "查明起火原因是我们的责任。",
+      "english": "It’s our job to establish the cause of the fire.",
+      "soundmark": "/kɔz/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 6, "宾语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "cave",
+      "chinese": "洞穴的入口",
+      "english": "the entrance to a cave",
+      "soundmark": "/kev/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "cease",
+      "chinese": "雨过天晴。",
+      "english": "The rain ceased and the sky cleared.",
+      "soundmark": "/sis/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "ceiling",
+      "chinese": "天花板很高的房间",
+      "english": "rooms with high ceilings",
+      "soundmark": "/'silɪŋ/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "celebrate",
+      "chinese": "今天是爸爸的生日，我们打算出去吃饭庆祝一下。",
+      "english": "It’s Dad’s birthday and we’re going out for a meal to celebrate.",
+      "soundmark": "/'sɛlɪbret/",
+      "posTags": [[11, 11, "动词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "谓语动词", "VP"],
+        [6, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "cell",
+      "chinese": "胚胎通过细胞分裂而成长。",
+      "english": "Embryos grow by cell division (= the splitting of cells ) .",
+      "soundmark": "/sɛl/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "cellar",
+      "chinese": "煤窖",
+      "english": "a coal cellar",
+      "soundmark": "/'sɛlɚ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "cement",
+      "chinese": "一袋水泥",
+      "english": "a bag of cement",
+      "soundmark": "/sə'mɛnt/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "cent",
+      "chinese": "几周前价值30美分的1杯米如今卖到了1美元。",
+      "english": "A cup of rice which cost thirty cents a few weeks ago is now being sold for up to one dollar.",
+      "soundmark": "/sɛnt/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 11, "主语", "NP"],
+        [12, 12, "系动词", "VP"],
+        [13, 15, "表语", "NP"],
+        [16, 20, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "centigrade",
+      "chinese": "这种温度计是用摄氏百分度标定的。",
+      "english": "This thermometer is calibrated by centigrade.",
+      "soundmark": "/'sɛntɪɡred/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "centimetre",
+      "chinese": "…一块小小的植物化石，只有几厘米高。",
+      "english": "...a tiny fossil plant, only a few centimetres high.",
+      "soundmark": "/'sɛntɪmitɚ/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [[0, 8, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "central",
+      "chinese": "他住在伦敦市中心。",
+      "english": "He lives in central London.",
+      "soundmark": "/'sɛntrəl/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "centre",
+      "chinese": "从中心向外辐射的线条",
+      "english": "lines radiating out from the centre",
+      "soundmark": "/sɛntɚ/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "century",
+      "chinese": "讲述世纪初一个小农场生活的故事",
+      "english": "the story of life on a small farm at the turn of the century",
+      "soundmark": "/'sɛntʃəri/",
+      "posTags": [[13, 13, "名词"]],
+      "syntaxTags": [
+        [0, 9, "主语", "NP"],
+        [10, 10, "谓语动词", "VP"],
+        [11, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "certain",
+      "chinese": "我感觉自己肯定通过这次测验了。",
+      "english": "I felt certain that I’d passed the test.",
+      "soundmark": "/'sɝtn/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 7, "宾语", "NP"]
+      ]
+    }
+  ]
+}

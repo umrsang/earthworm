@@ -1,0 +1,43 @@
+{
+  "title": "鼓励支持与积极回应",
+  "description": "自然地安慰朋友、给予鼓励并回应好消息。",
+  "data": [
+    {
+      "chinese": "别灰心，你已经做得很好了。",
+      "english": "Keep your chin up, you are doing great."
+    },
+    {
+      "chinese": "我支持你，放手去做吧。",
+      "english": "I am behind you, so go for it."
+    },
+    {
+      "chinese": "慢慢来，一步一步做。",
+      "english": "Take your time and do it one step at a time."
+    },
+    {
+      "chinese": "失败一次不代表世界末日。",
+      "english": "One setback is not the end of the world."
+    },
+    { "chinese": "我就知道你能做到。", "english": "I knew you had it in you." },
+    {
+      "chinese": "你的努力终于有回报了。",
+      "english": "All your hard work has finally paid off."
+    },
+    {
+      "chinese": "听到这个消息我真替你高兴。",
+      "english": "I am over the moon for you."
+    },
+    {
+      "chinese": "继续保持，你进步很大。",
+      "english": "Keep it up, you have come a long way."
+    },
+    {
+      "chinese": "无论发生什么，我都会陪着你。",
+      "english": "Whatever happens, I will be there for you."
+    },
+    {
+      "chinese": "先好好庆祝一下，你值得。",
+      "english": "Take a moment to celebrate, you have earned it."
+    }
+  ]
+}

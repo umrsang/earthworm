@@ -1,0 +1,554 @@
+{
+  "title": "Unit 56: 四级核心词汇（juice ~ landing）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "juice",
+      "chinese": "一纸盒橙汁",
+      "english": "a carton of orange juice",
+      "soundmark": "/dʒus/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "July",
+      "chinese": "但是从二月到七月，乔伊又无事可做了。",
+      "english": "But from February through July, Joy sat around with nothing to do.",
+      "soundmark": "/dʒʊˈlaɪ/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 6, "谓语动词", "VP"],
+        [7, 7, "宾语", "NP"],
+        [8, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "jump",
+      "chinese": "这些猫跳下来，过来迎接我们。",
+      "english": "The cats jumped down and came to meet us.",
+      "soundmark": "/dʒʌmp/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "June",
+      "chinese": "1986年6月，他和我们呆了两个半星期。",
+      "english": "He spent two and a half weeks with us in June 1986.",
+      "soundmark": "/dʒun/",
+      "posTags": [[10, 10, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"],
+        [7, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "jungle",
+      "chinese": "亚马孙丛林",
+      "english": "the Amazon jungle",
+      "soundmark": "/'dʒʌŋɡl/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "junior",
+      "chinese": "青少年足球俱乐部",
+      "english": "the junior football club",
+      "soundmark": "/'dʒunɪɚ/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "jury",
+      "chinese": "陪审团成员",
+      "english": "the members of the jury",
+      "soundmark": "/'dʒʊri/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "just",
+      "chinese": "我现在正需要喝一杯浓浓的咖啡。",
+      "english": "A good strong cup of coffee is just what I need right now.",
+      "soundmark": "/dʒʌst/",
+      "posTags": [[7, 7, "副词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 6, "系动词", "VP"],
+        [7, 12, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "keen",
+      "chinese": "一个摄影迷",
+      "english": "a keen photographer",
+      "soundmark": "/kin/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "keep",
+      "chinese": "噪音使他一直醒着。",
+      "english": "The noise kept him awake.",
+      "soundmark": "/kip/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "keeper",
+      "chinese": "鲍勃是动物园养狮主管。",
+      "english": "Bob is head lion keeper at the zoo.",
+      "soundmark": "/'kipɚ/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 4, "表语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "kettle",
+      "chinese": "她把水壶灌满，打开了开关。",
+      "english": "She filled the kettle and switched it on.",
+      "soundmark": "/'kɛtl/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"],
+        [7, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "key",
+      "chinese": "他的皮带上挂着一串钥匙。",
+      "english": "A bunch of keys hung from his belt.",
+      "soundmark": "/kiː/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 7, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "keyboard",
+      "chinese": "计算机键盘",
+      "english": "a computer keyboard",
+      "soundmark": "/'ki'bɔrd/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "kick",
+      "chinese": "他用力踢门。",
+      "english": "He kicked the door hard.",
+      "soundmark": "/kɪk/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "kid",
+      "chinese": "她从小就喜爱动物。",
+      "english": "She’d always loved animals since she was a little kid.",
+      "soundmark": "/kɪd/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 9, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "kill",
+      "chinese": "她为什么杀死丈夫？",
+      "english": "Why did she kill her husband?",
+      "soundmark": "/kɪl/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [[0, 5, "疑问句", "Question"]]
+    },
+    {
+      "word": "kilogram",
+      "chinese": "相比之下，生产一公斤的番茄需要160升水。",
+      "english": "By comparison, one kilogram of tomatoes requires 160 litres of water.",
+      "soundmark": "/'kɪləɡræm/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 6, "谓语动词", "VP"],
+        [7, 8, "宾语", "NP"],
+        [9, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "kilometre",
+      "chinese": "暴风雨袭来时他离家有一公里远。",
+      "english": "He was a kilometre out from home when the storm struck.",
+      "soundmark": "/kɪ'lɔmɪtɚ/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 3, "表语", "NP"],
+        [4, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "kind",
+      "chinese": "给我一份三明治，随便哪种都可以。",
+      "english": "Get me a sandwich – any kind will do.",
+      "soundmark": "/kaɪnd/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "kindness",
+      "chinese": "你的好意我感激不尽。",
+      "english": "I can’t thank you enough for your kindness.",
+      "soundmark": "/'kaɪndnəs/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "king",
+      "chinese": "12月2日，亨利六世加冕为王。",
+      "english": "On 2 December Henry VI was crowned king (= made the king at an official ceremony ).",
+      "soundmark": "/kɪŋ/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 6, "系动词", "VP"],
+        [7, 11, "表语", "NP"],
+        [12, 16, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "kingdom",
+      "chinese": "联合王国",
+      "english": "the United Kingdom",
+      "soundmark": "/'kɪŋdəm/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "kiss",
+      "chinese": "玛吉俯身吻了她的脸颊。",
+      "english": "Maggie leaned forward and kissed her cheek.",
+      "soundmark": "/kɪs/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "kitchen",
+      "chinese": "萨姆走进厨房去沏一壶茶。",
+      "english": "Sam went into the kitchen to make a pot of tea.",
+      "soundmark": "/'kɪtʃɪn/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 6, "谓语动词", "VP"],
+        [7, 8, "宾语", "NP"],
+        [9, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "kite",
+      "chinese": "她有一只蓝色和绿色的风筝。",
+      "english": "She has a blue and green kite.",
+      "soundmark": "/kaɪt/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "knee",
+      "chinese": "露西的膝盖上缠着绷带。",
+      "english": "Lucy had a bandage round her knee.",
+      "soundmark": "/ni/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "kneel",
+      "chinese": "汤姆跪下来轻轻拍了拍那只狗。",
+      "english": "Tom knelt down and patted the dog.",
+      "soundmark": "/nil/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "knife",
+      "chinese": "一副刀叉",
+      "english": "a knife and fork",
+      "soundmark": "/naɪf/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "knit",
+      "chinese": "我有无数的时间来缝缝织织。",
+      "english": "I had endless hours to knit and sew.",
+      "soundmark": "/nɪt/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "knob",
+      "chinese": "他本以为门是锁住的，但是转了一下把手门就开了。",
+      "english": "He thought the door was locked, but he turned the knob and the door opened.",
+      "soundmark": "/nɑb/",
+      "posTags": [[10, 10, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 5, "系动词", "VP"],
+        [6, 14, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "knock",
+      "chinese": "我把门敲了又敲，但无人回应。",
+      "english": "I knocked and knocked but nobody answered.",
+      "soundmark": "/nɑk/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "knot",
+      "chinese": "一根带子已经断了，被打成一个结。",
+      "english": "One lace had broken and been tied in a knot.",
+      "soundmark": "/nɑt/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 6, "宾语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "know",
+      "chinese": "谁知道答案？",
+      "english": "Who knows the answer?",
+      "soundmark": "/no/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [[0, 3, "疑问句", "Question"]]
+    },
+    {
+      "word": "knowledge",
+      "chinese": "他对美国历史所知不多。",
+      "english": "He did not have much knowledge of American history.",
+      "soundmark": "/'nɑlɪdʒ/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"],
+        [6, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "lab",
+      "chinese": "学校的科学实验室",
+      "english": "the school science lab",
+      "soundmark": "/læb/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "label",
+      "chinese": "行李标签",
+      "english": "a luggage label",
+      "soundmark": "/ˈlebəl/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "laboratory",
+      "chinese": "研究实验室",
+      "english": "a research laboratory",
+      "soundmark": "/'læbrə'tɔri/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "labour",
+      "chinese": "汽车修理厂收取每小时30英镑的人工费。",
+      "english": "The garage charges £30 an hour for labour.",
+      "soundmark": "/'leibə/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"],
+        [6, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "lace",
+      "chinese": "饰有蕾丝花边的手绢",
+      "english": "a handkerchief trimmed with lace",
+      "soundmark": "/les/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "lack",
+      "chinese": "有太多老师得不到尊重。",
+      "english": "Too many teachers are treated with a lack of respect.",
+      "soundmark": "/læk/",
+      "posTags": [[7, 7, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "系动词", "VP"],
+        [5, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "ladder",
+      "chinese": "她爬上梯子。",
+      "english": "She climbed up the ladder.",
+      "soundmark": "/'lædɚ/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "lady",
+      "chinese": "女士们、先生们，请大家注意！",
+      "english": "Ladies and gentlemen, may I have your attention please?",
+      "soundmark": "/'ledi/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [[0, 8, "疑问句", "Question"]]
+    },
+    {
+      "word": "lag",
+      "chinese": "一个原因是一些国家仍很落后。",
+      "english": "One is that some countries still lag behind.",
+      "soundmark": "/læɡ/",
+      "posTags": [[6, 6, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 6, "表语", "NP"],
+        [7, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "lake",
+      "chinese": "密歇根湖",
+      "english": "Lake Michigan",
+      "soundmark": "/lek/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [[0, 1, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "lamb",
+      "chinese": "烤羊肉",
+      "english": "roast lamb",
+      "soundmark": "/læm/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 1, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "lame",
+      "chinese": "一条瘸腿的狗",
+      "english": "a lame dog",
+      "soundmark": "/lem/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "lamp",
+      "chinese": "她打开了床头灯。",
+      "english": "She switched on the bedside lamp.",
+      "soundmark": "/læmp/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "land",
+      "chinese": "他们拥有许多土地。",
+      "english": "They own a lot of land.",
+      "soundmark": "/lænd/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "landing",
+      "chinese": "起降程序",
+      "english": "take-off and landing procedures",
+      "soundmark": "/'lændɪŋ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,558 @@
+{
+  "title": "Unit 84: 四级核心词汇（preventive ~ machinery）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "preventive",
+      "chinese": "预防性的保健计划",
+      "english": "preventive health programs",
+      "soundmark": "/pri'vɛntɪv/",
+      "posTags": [[0, 0, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "allocate",
+      "chinese": "票数有限，将分配给那些先申请的人。",
+      "english": "Tickets are limited and will be allocated to those who apply first.",
+      "soundmark": "/'æləket/",
+      "posTags": [[6, 6, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 6, "表语", "NP"],
+        [7, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "theme",
+      "chinese": "本书的主题是爱与责任之间的冲突。",
+      "english": "The book’s theme is the conflict between love and duty.",
+      "soundmark": "/θiːm/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "系动词", "VP"],
+        [4, 5, "表语", "NP"],
+        [6, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "smash",
+      "chinese": "破坏分子打碎了所有的窗子。",
+      "english": "Vandals had smashed all the windows.",
+      "soundmark": "/smæʃ/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "wealth",
+      "chinese": "这个国家的财富来自石油。",
+      "english": "The country’s wealth comes from its oil.",
+      "soundmark": "/wɛlθ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "unfortunately",
+      "chinese": "很遗憾，我们来的时候你出去了。",
+      "english": "Unfortunately, you were out when we called.",
+      "soundmark": "/ʌn'fɔrtʃənətli/",
+      "posTags": [[0, 0, "副词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "heterogeneity",
+      "chinese": "这样的政治共同体的特征是不会共享别人的设计的异质性和区别。",
+      "english": "Such political communities are characterized by heterogeneity and difference with no shared object of design.",
+      "soundmark": "/ˌhetərədʒə'niːəti/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "系动词", "VP"],
+        [5, 14, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "alliance",
+      "chinese": "独立组织和联盟",
+      "english": "independent organizations and alliances",
+      "soundmark": "/ə'laɪəns/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "hip",
+      "chinese": "她站在那里，双手叉腰瞪着他。",
+      "english": "She stood there with her hands on her hips glaring at him.",
+      "soundmark": "/hɪp/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "format",
+      "chinese": "这些课程的编排是有连续性的。",
+      "english": "The courses were run to a consistent format.",
+      "soundmark": "/'fɔrmæt/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 3, "表语", "NP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "salesman",
+      "chinese": "…一位男保险推销员。",
+      "english": "...an insurance salesman.",
+      "soundmark": "/'selzmən/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "wagon",
+      "chinese": "在货车里。",
+      "english": "In the wagon.",
+      "soundmark": "/'wægən/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "soda",
+      "chinese": "一杯加苏打水的苏格兰威士忌",
+      "english": "a Scotch and soda",
+      "soundmark": "/'sodə/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "gratitude",
+      "chinese": "她眼里充满感激的泪水。",
+      "english": "Tears of gratitude filled her eyes.",
+      "soundmark": "/'ɡrætɪtud/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "developmental",
+      "chinese": "儿童时期的各个发育阶段",
+      "english": "the developmental stages of childhood",
+      "soundmark": "/dɪ,vɛləp'mɛntl/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "compassion",
+      "chinese": "我对这个医生如此缺乏同情心感到震惊。",
+      "english": "I was shocked by the doctor’s lack of compassion .",
+      "soundmark": "/kəm'pæʃən/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "dental",
+      "chinese": "无论年龄大小，良好的口腔卫生和定期的牙齿保健都非常重要。",
+      "english": "Good oral hygiene and regular dental care are important, whatever your age.",
+      "soundmark": "/'dɛntl/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 7, "谓语动词", "VP"],
+        [8, 11, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "predictable",
+      "chinese": "这场雪对交通造成的影响可以预见。",
+      "english": "The snow had a predictable effect on traffic.",
+      "soundmark": "/prɪ'dɪktəbl/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"],
+        [6, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "rally",
+      "chinese": "为政党争取支持的努力",
+      "english": "an attempt to rally support for the party",
+      "soundmark": "/'ræli/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 4, "谓语动词", "VP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "profile",
+      "chinese": "达尼的侧面轮廓很好看。",
+      "english": "Dani has a lovely profile.",
+      "soundmark": "/'profaɪl/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "whichever",
+      "chinese": "突然的增税不但会妨害经济复苏，而且无论哪个政党这样做都会受到选民指责。",
+      "english": "Letting taxes rise abruptly would hurt not only the recovery but also whichever party the electorate ended up blaming.",
+      "soundmark": "/wɪtʃ'ɛvɚ/",
+      "posTags": [[12, 12, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 16, "宾语", "NP"],
+        [17, 18, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "bucket",
+      "chinese": "我们用水桶从门外的井里提水。",
+      "english": "We drew water in a bucket from the well outside the door.",
+      "soundmark": "/'bʌkɪt/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "pluralism",
+      "chinese": "以多元文化为特色的国家",
+      "english": "a nation characterized by cultural pluralism",
+      "soundmark": "/'plʊər(ə)lɪz(ə)m/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "liquor",
+      "chinese": "房间里满是一箱箱的烈性酒。",
+      "english": "The room was filled with cases of liquor.",
+      "soundmark": "/'lɪkɚ/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "involvement",
+      "chinese": "校方说他们欢迎学生父母参与。",
+      "english": "School officials say they welcome parental involvement.",
+      "soundmark": "/ɪn'vɔlvmənt/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "hearing",
+      "chinese": "有听力障碍的儿童",
+      "english": "a child with a hearing disability",
+      "soundmark": "/'hɪrɪŋ/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "acquisition",
+      "chinese": "语言的习得",
+      "english": "the acquisition of language",
+      "soundmark": "/,ækwɪ'zɪʃən/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "so-called",
+      "chinese": "那些所谓的专家说不出问题出在哪里。",
+      "english": "The so-called experts couldn’t tell us what was wrong.",
+      "soundmark": "/,so'kɔld/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "谓语动词", "VP"],
+        [5, 8, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "chip",
+      "chinese": "芯片时代",
+      "english": "the age of the silicon chip",
+      "soundmark": "/tʃɪp/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "accountant",
+      "chinese": "你想让我把你的会计师也邀请到会议里么？",
+      "english": "Do you want me to invite your accountant to this meeting?",
+      "soundmark": "/ə'kaʊntənt/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [[0, 10, "疑问句", "Question"]]
+    },
+    {
+      "word": "recreational",
+      "chinese": "…公园及其它娱乐设施。",
+      "english": "...parks and other recreational facilities.",
+      "soundmark": "/,rɛkri'eʃənəl/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "bracket",
+      "chinese": "我认为你应该给这个字加上括号。",
+      "english": "I think you should bracket this word.",
+      "soundmark": "/'brækɪt/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "谓语动词", "VP"],
+        [5, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "conviction",
+      "chinese": "这解释合情合理，只是他的语气不坚定。",
+      "english": "It was a reasonable explanation, but his voice lacked conviction .",
+      "soundmark": "/kən'vɪkʃən/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 10, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "relativity",
+      "chinese": "他们宣扬一切道德观念的相对性。",
+      "english": "They teach the relativity of all ethical ideas.",
+      "soundmark": "/,rɛlə'tɪvəti/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 7, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "reckon",
+      "chinese": "“这件事我们无能为力。”“是吗？”",
+      "english": "‘There’s nothing we can do about it.’ ‘You reckon (= used to express doubt or disagreement ) ?’",
+      "soundmark": "/'rɛkən/",
+      "posTags": [[8, 8, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 4, "宾语", "NP"],
+        [5, 17, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "title",
+      "chinese": "《耐心与萨拉》于1969年以《我们的地方》为书名首次出版。",
+      "english": "\"Patience and Sarah\" was first published in 1969 under the title \"A Place for Us.\"",
+      "soundmark": "/'taɪtl/",
+      "posTags": [[10, 10, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "系动词", "VP"],
+        [4, 5, "表语", "NP"],
+        [6, 14, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "bloody",
+      "chinese": "你实在是活该。",
+      "english": "It serves you bloody well right.",
+      "soundmark": "/'blʌdi/",
+      "posTags": [[3, 3, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "spelling",
+      "chinese": "她的拼写进步了。",
+      "english": "Her spelling has improved.",
+      "soundmark": "/'spɛlɪŋ/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "priest",
+      "chinese": "他接受培训成了一名天主教神父。",
+      "english": "He had trained to be a Catholic priest.",
+      "soundmark": "/prist/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 4, "谓语动词", "VP"],
+        [5, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "universe",
+      "chinese": "爱因斯坦的方程式表明宇宙正在扩大。",
+      "english": "Einstein's equations showed the universe to be expanding.",
+      "soundmark": "/'junɪvɝs/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "spectacular",
+      "chinese": "景色壮丽的山区",
+      "english": "a mountainous area with spectacular scenery",
+      "soundmark": "/spɛk'tækjəlɚ/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "invincible",
+      "chinese": "无敌的军队",
+      "english": "an invincible army",
+      "soundmark": "/ɪn'vɪnsəbl/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "thick",
+      "chinese": "抹得很厚的花生酱",
+      "english": "peanut butter spread thick",
+      "soundmark": "/θɪk/",
+      "posTags": [[3, 3, "副词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "cigar",
+      "chinese": "他在抽一只大雪茄。",
+      "english": "He was smoking a big cigar.",
+      "soundmark": "/sɪ'ɡɑr/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 5, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "stadium",
+      "chinese": "新的奥林匹克体育场",
+      "english": "the new Olympic Stadium",
+      "soundmark": "/'stedɪəm/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "whereas",
+      "chinese": "旧系统相当复杂，而新系统却很简单。",
+      "english": "The old system was fairly complicated whereas the new system is really very simple.",
+      "soundmark": "/'wɛr'æz/",
+      "posTags": [[6, 6, "连词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "系动词", "VP"],
+        [4, 13, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "adoptive",
+      "chinese": "他是被他在肯塔基州的养父母抚养大的。",
+      "english": "He was brought up by adoptive parents in Kentucky.",
+      "soundmark": "/ə'dɑptɪv/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "underground",
+      "chinese": "这种动物一生中的大部分时间都待在地下。",
+      "english": "This animal spends most of its life underground.",
+      "soundmark": "/ʌndɚˈɡraʊnd/",
+      "posTags": [[7, 7, "副词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "baseball",
+      "chinese": "是的，我喜欢篮球和棒球。",
+      "english": "Yes, I like basketball and baseball.",
+      "soundmark": "/'besbɔl/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "machinery",
+      "chinese": "…优质工具和机械。",
+      "english": "...quality tools and machinery.",
+      "soundmark": "/mə'ʃinəri/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    }
+  ]
+}

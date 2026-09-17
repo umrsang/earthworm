@@ -1,0 +1,158 @@
+{
+  "title": "餐厅点餐与账单结账",
+  "description": "地道餐厅就餐、特色菜品推荐、过敏忌口说明、加水换餐具与买单结算。",
+  "data": [
+    {
+      "chinese": "两位，请问有空桌吗？",
+      "english": "A table for two, please.",
+      "soundmark": "/ə ˈteɪbl fɔː tuː pliːz/",
+      "posTags": [
+        [0, 0, "限定词"],
+        [1, 1, "名词"],
+        [2, 2, "介词"],
+        [3, 3, "数词"],
+        [4, 4, "副词"]
+      ],
+      "syntaxTags": [[0, 4, "就餐订位请求", "Formula"]]
+    },
+    {
+      "chinese": "主菜您有什么特色推荐吗？",
+      "english": "What do you recommend for the main course?",
+      "soundmark": "/wɒt duː juː ˌrekəˈmend fɔː ðə meɪn kɔːs/",
+      "posTags": [
+        [0, 0, "疑问代词"],
+        [1, 1, "助动词"],
+        [2, 2, "代词"],
+        [3, 3, "动词"],
+        [4, 4, "介词"],
+        [5, 5, "限定词"],
+        [6, 6, "形容词"],
+        [7, 7, "名词"]
+      ],
+      "syntaxTags": [[0, 7, "菜品推荐疑问句", "Question"]]
+    },
+    {
+      "chinese": "我对花生严重过敏。",
+      "english": "I am severely allergic to peanuts.",
+      "soundmark": "/aɪ æm sɪˈvɪəli əˈlɜːdʒɪk tə ˈpiːnʌts/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "动词"],
+        [2, 2, "副词"],
+        [3, 3, "形容词"],
+        [4, 4, "介词"],
+        [5, 5, "名词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 5, "过敏警示陈述", "VP"]
+      ]
+    },
+    {
+      "chinese": "我们可以买单结账吗？",
+      "english": "Could we have the check, please?",
+      "soundmark": "/kʊd wiː hæv ðə tʃek pliːz/",
+      "posTags": [
+        [0, 0, "情态动词"],
+        [1, 1, "代词"],
+        [2, 2, "动词"],
+        [3, 3, "限定词"],
+        [4, 4, "名词"],
+        [5, 5, "副词"]
+      ],
+      "syntaxTags": [[0, 5, "买单结账请求", "Question"]]
+    },
+    {
+      "chinese": "我们可以分开付账吗？",
+      "english": "Can we split the bill evenly?",
+      "soundmark": "/kæn wiː splɪt ðə bɪl ˈiːvnli/",
+      "posTags": [
+        [0, 0, "情态动词"],
+        [1, 1, "代词"],
+        [2, 2, "动词"],
+        [3, 3, "限定词"],
+        [4, 4, "名词"],
+        [5, 5, "副词"]
+      ],
+      "syntaxTags": [[0, 5, "分摊账单疑问句", "Question"]]
+    },
+    {
+      "chinese": "请问我们可以看一看甜品菜单吗？",
+      "english": "Could we see the dessert menu, please?",
+      "soundmark": "/kʊd wiː siː ðə dɪˈzɜːt ˈmenjuː pliːz/",
+      "posTags": [
+        [0, 0, "情态动词"],
+        [1, 1, "代词"],
+        [2, 2, "动词"],
+        [3, 3, "限定词"],
+        [4, 4, "名词"],
+        [5, 5, "名词"],
+        [6, 6, "副词"]
+      ],
+      "syntaxTags": [[0, 6, "菜单索要请求", "Question"]]
+    },
+    {
+      "chinese": "牛排我们要五分熟就好。",
+      "english": "We would like the steak medium.",
+      "soundmark": "/wiː wʊd laɪk ðə steɪk ˈmiːdiəm/",
+      "posTags": [
+        [0, 0, "代词"],
+        [1, 1, "情态动词"],
+        [2, 2, "动词"],
+        [3, 3, "限定词"],
+        [4, 4, "名词"],
+        [5, 5, "形容词"]
+      ],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 5, "熟度要求谓宾补", "VP"]
+      ]
+    },
+    {
+      "chinese": "能帮我们桌上加一点饮用水吗？",
+      "english": "Could we have some tap water for the table?",
+      "soundmark": "/kʊd wiː hæv sʌm tæp ˈwɔːtər fɔː ðə ˈteɪbl/",
+      "posTags": [
+        [0, 0, "情态动词"],
+        [1, 1, "代词"],
+        [2, 2, "动词"],
+        [3, 3, "限定词"],
+        [4, 4, "名词"],
+        [5, 5, "名词"],
+        [6, 6, "介词"],
+        [7, 7, "限定词"],
+        [8, 8, "名词"]
+      ],
+      "syntaxTags": [[0, 8, "加水礼貌请求", "Question"]]
+    },
+    {
+      "chinese": "账单里已经包含服务费了吗？",
+      "english": "Is service charge included in the total?",
+      "soundmark": "/ɪz ˈsɜːvɪs tʃɑːdʒ ɪnˈkluːdɪd ɪn ðə ˈtəʊtl/",
+      "posTags": [
+        [0, 0, "动词"],
+        [1, 1, "名词"],
+        [2, 2, "名词"],
+        [3, 3, "动词"],
+        [4, 4, "介词"],
+        [5, 5, "限定词"],
+        [6, 6, "名词"]
+      ],
+      "syntaxTags": [[0, 6, "服务费确认疑问句", "Question"]]
+    },
+    {
+      "chinese": "请不用找零了，留作小费吧。",
+      "english": "Keep the change as a tip.",
+      "soundmark": "/kiːp ðə tʃeɪndʒ æz ə tɪp/",
+      "posTags": [
+        [0, 0, "动词"],
+        [1, 1, "限定词"],
+        [2, 2, "名词"],
+        [3, 3, "介词"],
+        [4, 4, "限定词"],
+        [5, 5, "名词"]
+      ],
+      "syntaxTags": [[0, 5, "留小费祈使句", "Imperative"]]
+    }
+  ]
+}

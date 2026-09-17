@@ -1,0 +1,571 @@
+{
+  "title": "Unit 51: 四级核心词汇（hard ~ here）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "hard",
+      "chinese": "一把硬木椅",
+      "english": "a hard wooden chair",
+      "soundmark": "/hɑrd/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "harden",
+      "chinese": "胶水干透大约需要24小时。",
+      "english": "It will take about 24 hours for the glue to harden.",
+      "soundmark": "/'hɑrdn/",
+      "posTags": [[10, 10, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "hardly",
+      "chinese": "我六岁时父母离婚，我对父亲几乎一无所知。",
+      "english": "My parents divorced when I was six, and I hardly knew my father.",
+      "soundmark": "/'hɑrdli/",
+      "posTags": [[9, 9, "副词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 12, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "hardship",
+      "chinese": "造成许多人贫困的经济政策",
+      "english": "an economic policy that caused great hardship for many people",
+      "soundmark": "/'hɑrdʃɪp/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [[0, 9, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "hardware",
+      "chinese": "…一家叔叔曾经在那里卖五金器具和木材的店铺。",
+      "english": "...a shop from which an uncle had sold hardware and timber.",
+      "soundmark": "/'hɑrdwɛr/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 7, "谓语动词", "VP"],
+        [8, 10, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "hare",
+      "chinese": "他在草地上发现一根野兔的胫骨，骨头上有个洞；",
+      "english": "He found the shin-bone of a hare lying on the grass.",
+      "soundmark": "/hɛr/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "harness",
+      "chinese": "我们必须治理那些每年泛滥的河流。",
+      "english": "We must harness the rivers which overflow annually.",
+      "soundmark": "/'hɑrnɪs/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "haste",
+      "chinese": "我很快就对自己的仓促感到后悔。",
+      "english": "I soon regretted my haste.",
+      "soundmark": "/hest/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "hasten",
+      "chinese": "那个冬天异常寒冷，所以他们提前走了。",
+      "english": "Their departure was hastened by an abnormally cold winter.",
+      "soundmark": "/'hesn/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "hasty",
+      "chinese": "他很快就对自己仓促作出的决定感到后悔了。",
+      "english": "He soon regretted his hasty decision.",
+      "soundmark": "/'hesti/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "hat",
+      "chinese": "玛丽亚戴着一顶漂亮的新帽子。",
+      "english": "Maria was wearing a beautiful new hat.",
+      "soundmark": "/hæt/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 6, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "hatch",
+      "chinese": "这些蛋要三天时间才能孵化。",
+      "english": "The eggs take three days to hatch.",
+      "soundmark": "/hætʃ/",
+      "posTags": [[6, 6, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 4, "宾语", "NP"],
+        [5, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "hate",
+      "chinese": "这是那种你要么喜欢要么讨厌的电影。",
+      "english": "It’s the kind of movie you either love or hate.",
+      "soundmark": "/het/",
+      "posTags": [[9, 9, "动词"]],
+      "syntaxTags": [
+        [0, 6, "主语", "NP"],
+        [7, 7, "谓语动词", "VP"],
+        [8, 9, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "hateful",
+      "chinese": "都是那个可恶的人造的孽！",
+      "english": "It was all the fault of that hateful man!",
+      "soundmark": "/'hetfəl/",
+      "posTags": [[7, 7, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 4, "表语", "NP"],
+        [5, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "hatred",
+      "chinese": "她脸上闪过十足的仇恨表情。",
+      "english": "A look of pure hatred flashed across her face.",
+      "soundmark": "/'hetrɪd/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "have",
+      "chinese": "我们的客人到了。",
+      "english": "Our guests have arrived.",
+      "soundmark": "/hæv; (also, as before 'to') hæf/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "谓语动词", "VP"]
+      ]
+    },
+    {
+      "word": "hay",
+      "chinese": "…一捆捆的干草。",
+      "english": "...bales of hay.",
+      "soundmark": "/heɪ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "he",
+      "chinese": "“保罗在哪儿？”“他去看电影了。”",
+      "english": "‘Where’s Paul?’ ‘He’s gone to the cinema.’",
+      "soundmark": "/hi/",
+      "posTags": [[0, 0, "代词"]],
+      "syntaxTags": [[0, 6, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "head",
+      "chinese": "他吻了一下她的头顶。",
+      "english": "He kissed the top of her head.",
+      "soundmark": "/hɛd/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "headache",
+      "chinese": "要是头痛，你该吃点阿司匹林。",
+      "english": "If you have a headache, you should take some aspirin.",
+      "soundmark": "/ˈhɛdˌek/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 9, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "heading",
+      "chinese": "章节标题",
+      "english": "chapter headings",
+      "soundmark": "/'hɛdɪŋ/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [[0, 1, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "headline",
+      "chinese": "头版报道题为“天外来客会见总统”的报纸",
+      "english": "a paper carrying the front-page headline: ‘Space Aliens meet with President’",
+      "soundmark": "/'hɛdlaɪn/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 8, "宾语", "NP"],
+        [9, 10, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "headmaster",
+      "chinese": "这位校长很谦虚。",
+      "english": "This headmaster is very modest.",
+      "soundmark": "/,hɛd'mæstɚ/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 4, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "headquarters",
+      "chinese": "联合国总部",
+      "english": "the headquarters of the United Nations",
+      "soundmark": "/'hɛdkwɔrtɚz/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "heal",
+      "chinese": "自称可以治病的传道士",
+      "english": "a preacher who claims that he can heal the sick",
+      "soundmark": "/hil/",
+      "posTags": [[7, 7, "动词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 7, "谓语动词", "VP"],
+        [8, 9, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "health",
+      "chinese": "我担心我丈夫的健康状况。",
+      "english": "I’m worried about my husband’s health.",
+      "soundmark": "/hɛlθ/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "healthy",
+      "chinese": "健康的男婴",
+      "english": "a healthy baby boy",
+      "soundmark": "/'hɛlθi/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "heap",
+      "chinese": "垃圾堆",
+      "english": "a rubbish heap",
+      "soundmark": "/hip/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 2, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "hear",
+      "chinese": "布兰奇听见后门哗啦一声被推开。",
+      "english": "Blanche heard a crash as the back door was flung open.",
+      "soundmark": "/hɪr/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 10, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "heart",
+      "chinese": "经常锻炼对心脏有好处。",
+      "english": "Regular exercise is good for the heart.",
+      "soundmark": "/hɑrt/",
+      "posTags": [[6, 6, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 3, "宾语", "NP"],
+        [4, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "heat",
+      "chinese": "冰需要热才能融化。",
+      "english": "Ice needs heat to melt.",
+      "soundmark": "/hit/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 4, "谓语动词", "VP"]]
+    },
+    {
+      "word": "heating",
+      "chinese": "我们想减少供暖与空调的开支。",
+      "english": "We wanted to reduce the cost of heating and air-conditioning.",
+      "soundmark": "/'hitɪŋ/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"],
+        [6, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "heaven",
+      "chinese": "他仰望苍穹。",
+      "english": "He looked up towards the heavens.",
+      "soundmark": "/'hɛvn/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "heavily",
+      "chinese": "我深陷政治之中。",
+      "english": "I became heavily involved in politics.",
+      "soundmark": "/'hɛvɪli/",
+      "posTags": [[2, 2, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 3, "表语", "NP"],
+        [4, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "heavy",
+      "chinese": "衣橱太重，我一个人移不动。",
+      "english": "The wardrobe was too heavy for me to move on my own.",
+      "soundmark": "/'hɛvi/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 4, "表语", "NP"],
+        [5, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "heel",
+      "chinese": "有高跟的黑靴子",
+      "english": "black boots with high heels",
+      "soundmark": "/hil/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "height",
+      "chinese": "萨姆现在身高和他姐姐差不多了。",
+      "english": "Sam’s about the same height as his sister now.",
+      "soundmark": "/haɪt/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 8, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "heir",
+      "chinese": "琼森是他的政治接班人，他将担任该党派的领袖。",
+      "english": "Jonson was his political heir as leader of the party.",
+      "soundmark": "/ɛr/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 6, "表语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "helicopter",
+      "chinese": "你可以乘坐直升机去那个岛。",
+      "english": "You can helicopter to the island.",
+      "soundmark": "/'hɛlɪkɑptɚ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "hell",
+      "chinese": "战争是人间地狱。",
+      "english": "War is hell.",
+      "soundmark": "/hɛl/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 2, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "hello",
+      "chinese": "喂，约翰！你好吗？",
+      "english": "Hello, John! How are you?",
+      "soundmark": "/hɛˈlo, hə-/",
+      "posTags": [[0, 0, "名词"]],
+      "syntaxTags": [[0, 4, "疑问句", "Question"]]
+    },
+    {
+      "word": "helmet",
+      "chinese": "剑劈开了骑士的头盔并致命地刺进他。",
+      "english": "The Sword split the Knight's helmet and bit him fatally.",
+      "soundmark": "/'hɛlmɪt/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 9, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "help",
+      "chinese": "如果需要我帮忙，就给我打个电话。",
+      "english": "If there’s anything I can do to help, just give me a call.",
+      "soundmark": "/hɛlp/",
+      "posTags": [[7, 7, "动词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 5, "宾语", "NP"],
+        [6, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "helpful",
+      "chinese": "谢谢你的建议，它非常有用。",
+      "english": "Thank you for your advice; it’s been very helpful.",
+      "soundmark": "/'hɛlpfl/",
+      "posTags": [[8, 8, "形容词"]],
+      "syntaxTags": [
+        [0, 5, "主语", "NP"],
+        [6, 6, "系动词", "VP"],
+        [7, 8, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "helpless",
+      "chinese": "他开始觉得沮丧、无助。",
+      "english": "He began to feel depressed and helpless.",
+      "soundmark": "/'hɛlpləs/",
+      "posTags": [[6, 6, "形容词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "谓语动词", "VP"],
+        [5, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "hen",
+      "chinese": "小鸡聚集在母鸡翅膀下面。",
+      "english": "The chickens gathered under the hen.",
+      "soundmark": "/hɛn/",
+      "posTags": [[5, 5, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "hence",
+      "chinese": "运输成本是企业的一大支出，因此工厂选址是重要的考虑因素。",
+      "english": "The cost of transport is a major expense for an industry. Hence factory location is an important consideration.",
+      "soundmark": "/hɛns/",
+      "posTags": [[11, 11, "副词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 4, "谓语动词", "VP"],
+        [5, 7, "宾语", "NP"],
+        [8, 17, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "her",
+      "chinese": "简？我不太认识她。",
+      "english": "Jane? I don’t really know her.",
+      "soundmark": "/hɚ/",
+      "posTags": [[5, 5, "代词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "herd",
+      "chinese": "乔贝还以其大群的大象和水牛而闻名。",
+      "english": "Chobe is also renowned for its large herds of elephant and buffalo.",
+      "soundmark": "/hɝd/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 3, "表语", "NP"],
+        [4, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "here",
+      "chinese": "你们在这里干什么？",
+      "english": "What are you doing here?",
+      "soundmark": "/hɪr/",
+      "posTags": [[4, 4, "副词"]],
+      "syntaxTags": [[0, 4, "疑问句", "Question"]]
+    }
+  ]
+}

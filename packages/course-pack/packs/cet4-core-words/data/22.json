@@ -1,0 +1,595 @@
+{
+  "title": "Unit 22: 四级核心词汇（undervalue ~ imitate）",
+  "description": "收录大学英语四级考纲核心考词 50 个，配套原版权威词典与真题双语例句。",
+  "data": [
+    {
+      "word": "undervalue",
+      "chinese": "社会低估了待在家里照看孩子的意义。",
+      "english": "Society undervalues staying at home and looking after children.",
+      "soundmark": "/,ʌndɚ'vælju/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "evaluation",
+      "chinese": "我们要对新系统进行合理的评估。",
+      "english": "We need to carry out a proper evaluation of the new system.",
+      "soundmark": "/ɪ,væljʊ'eʃən/",
+      "posTags": [[7, 7, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "define",
+      "chinese": "确定客户需求的能力",
+      "english": "the ability to define clients’ needs",
+      "soundmark": "/dɪ'faɪn/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "backslide",
+      "chinese": "但假如你倒退了，海勒姆说，“那就重新开始。",
+      "english": "But if you backslide, Hiram says, “Start over.",
+      "soundmark": "/,bæk'slaid/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 6, "宾语", "NP"],
+        [7, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "offense",
+      "chinese": "这些努力增强了公众的信心，即人们相信，腐败在阿尔巴尼亚是严重犯罪，能够受到惩罚。",
+      "english": "These efforts have led to a growing confidence among the public that corruption is a serious punishable offense in Albania.",
+      "soundmark": "/ə'fɛns/",
+      "posTags": [[17, 17, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 4, "谓语动词", "VP"],
+        [5, 7, "宾语", "NP"],
+        [8, 19, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "convict",
+      "chinese": "已定罪的谋杀犯",
+      "english": "a convicted murderer",
+      "soundmark": "/kən'vɪkt/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "marginalize",
+      "chinese": "女性雇员抱怨被管理层边缘化。",
+      "english": "Female employees complained of being marginalized by management.",
+      "soundmark": "/'mɑrdʒɪnəlaɪz/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "desert",
+      "chinese": "海伦被丈夫遗弃了。",
+      "english": "Helen was deserted by her husband.",
+      "soundmark": "/(for v.) dɪˈzɝ​t; (for n.) 'dɛzɚt/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "sentence",
+      "chinese": "她被判八年徒刑。",
+      "english": "She received an eight-year prison sentence.",
+      "soundmark": "/'sɛntəns/",
+      "posTags": [[5, 5, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "reserve",
+      "chinese": "你必须预先订票吗？",
+      "english": "Do you have to reserve tickets in advance?",
+      "soundmark": "/rɪ'zɝv/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [[0, 7, "疑问句", "Question"]]
+    },
+    {
+      "word": "penalty",
+      "chinese": "禁止乱扔垃圾。 违者罚款500美元。",
+      "english": "No littering. Penalty $500.",
+      "soundmark": "/'pɛnəlti/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 3, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "abundant",
+      "chinese": "充足的淡水供应",
+      "english": "an abundant supply of fresh water",
+      "soundmark": "/ə'bʌndənt/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "overstate",
+      "chinese": "说所有驾驶员都在住宅区内超速行驶是言过其实了。",
+      "english": "To say that all motorists speed in residential areas is overstating the case.",
+      "soundmark": "/,ovɚ'stet/",
+      "posTags": [[0, 0, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 5, "宾语", "NP"],
+        [6, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "snack",
+      "chinese": "我赶紧吃了点零食。",
+      "english": "I grabbed a quick snack.",
+      "soundmark": "/snæk/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "via",
+      "chinese": "我们经由巴黎飞往雅典。",
+      "english": "We flew to Athens via Paris.",
+      "soundmark": "/ˈvaɪə, ˈviə/",
+      "posTags": [[4, 4, "介词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "fade",
+      "chinese": "达成和平协议的希望日渐渺茫。",
+      "english": "Hopes of a peace settlement are beginning to fade.",
+      "soundmark": "/fed/",
+      "posTags": [[8, 8, "动词"]],
+      "syntaxTags": [
+        [0, 0, "谓语动词", "VP"],
+        [1, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "resistant",
+      "chinese": "一些人对锻炼的主意非常抵制。",
+      "english": "Some people are very resistant to the idea of exercise.",
+      "soundmark": "/rɪ'zɪstənt/",
+      "posTags": [[4, 4, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 4, "表语", "NP"],
+        [5, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "theory",
+      "chinese": "弗洛伊德理论对心理学产生过巨大影响。",
+      "english": "Freudian theory has had a great influence on psychology.",
+      "soundmark": "/'θiəri/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 6, "宾语", "NP"],
+        [7, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "protest",
+      "chinese": "“我不明白为什么我要对此承担责任！”她抗议道。",
+      "english": "‘I don’t see why I should take the blame for this!’ she protested.",
+      "soundmark": "/ˈproʊtest/",
+      "posTags": [[12, 12, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 8, "宾语", "NP"],
+        [9, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "reject",
+      "chinese": "萨拉拒绝了她弟弟的帮助。",
+      "english": "Sarah rejected her brother’s offer of help.",
+      "soundmark": "/rɪ'dʒɛkt/",
+      "posTags": [[1, 1, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 6, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "flaw",
+      "chinese": "一个设计缺陷导致了引擎爆炸。",
+      "english": "A design flaw (= a mistake or weakness in the way something was made ) caused the engine to explode.",
+      "soundmark": "/flɔ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 7, "宾语", "NP"],
+        [8, 19, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "seemingly",
+      "chinese": "似乎互不相关的零星信息",
+      "english": "seemingly unrelated bits of information",
+      "soundmark": "/'simɪŋli/",
+      "posTags": [[0, 0, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 4, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "objection",
+      "chinese": "她反对的理由是他太小。",
+      "english": "Her objection was that he was too young.",
+      "soundmark": "/əb'dʒɛkʃən/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "系动词", "VP"],
+        [3, 7, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "fancy",
+      "chinese": "哈里带我去了一家豪华餐厅，庆祝我们的结婚纪念日。",
+      "english": "Harry took me to a fancy restaurant for our anniversary.",
+      "soundmark": "/'fænsi/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 2, "宾语", "NP"],
+        [3, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "hub",
+      "chinese": "该地区的商业中心",
+      "english": "the commercial hub of the region",
+      "soundmark": "/hʌb/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [[0, 5, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "incomparable",
+      "chinese": "圣马科美妙绝伦的景色",
+      "english": "an incomparable view of San Marco",
+      "soundmark": "/ɪn'kɑmprəbl/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 5, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "incentive",
+      "chinese": "给最优秀的队发一瓶香槟作为额外的鼓励。",
+      "english": "As an added incentive, there’s a bottle of champagne for the best team.",
+      "soundmark": "/ɪn'sɛntɪv/",
+      "posTags": [[3, 3, "名词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 6, "宾语", "NP"],
+        [7, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "startup",
+      "chinese": "启动后，您应该看到类似于  图 3 的画面。",
+      "english": "You should see something like  Figure 3 after startup.",
+      "soundmark": "/'stɑrt'ʌp/",
+      "posTags": [[8, 8, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 6, "宾语", "NP"],
+        [7, 8, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "reproduce",
+      "chinese": "这本精美的书里翻印了克里木特的艺术作品。",
+      "english": "Klimt’s artwork is reproduced in this exquisite book.",
+      "soundmark": "/,riprə'dus/",
+      "posTags": [[3, 3, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 3, "系动词", "VP"],
+        [4, 7, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "distinct",
+      "chinese": "两种完全不同的语言",
+      "english": "two entirely distinct languages",
+      "soundmark": "/dɪ'stɪŋkt/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [[0, 3, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "stake",
+      "chinese": "他们必须拿下这份合同，这关系到数千个工作岗位。",
+      "english": "They have to win the contract – thousands of jobs are at stake.",
+      "soundmark": "/stek/",
+      "posTags": [[12, 12, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 7, "宾语", "NP"],
+        [8, 12, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "moral",
+      "chinese": "人类天生有道德意识，能区分善与恶。",
+      "english": "Man is gifted with a moral sense by which he distinguishes good from evil.",
+      "soundmark": "/'mɔrəl/",
+      "posTags": [[5, 5, "形容词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "系动词", "VP"],
+        [3, 13, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "opponent",
+      "chinese": "格拉芙今天的决赛对手将是苏科娃。",
+      "english": "Graf’s opponent in today’s final will be Sukova.",
+      "soundmark": "/ə'ponənt/",
+      "posTags": [[1, 1, "名词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 6, "谓语动词", "VP"],
+        [7, 7, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "explicitly",
+      "chinese": "你们必须允许我们明确地控制。",
+      "english": "You have to grant us control explicitly.",
+      "soundmark": "/ɪk'splɪsɪtli/",
+      "posTags": [[6, 6, "副词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 3, "谓语动词", "VP"],
+        [4, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "rival",
+      "chinese": "这使该公司与其对手相比具有一项竞争优势。",
+      "english": "This gives the company a competitive advantage over its rivals.",
+      "soundmark": "/'raɪvl/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"],
+        [7, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "confrontation",
+      "chinese": "她待在自己的房间里，以避免再次发生冲突。",
+      "english": "She had stayed in her room to avoid another confrontation.",
+      "soundmark": "/,kɑnfrən'teʃən/",
+      "posTags": [[9, 9, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 2, "谓语动词", "VP"],
+        [3, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "stale",
+      "chinese": "法式面包极易变味。",
+      "english": "French bread goes stale (= becomes stale ) very quickly.",
+      "soundmark": "/stel/",
+      "posTags": [[3, 3, "形容词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "系动词", "VP"],
+        [6, 9, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "reinforce",
+      "chinese": "这部影片强化了这个观点——女人要漂亮，而且要笨一些。",
+      "english": "The film reinforces the idea that women should be pretty and dumb.",
+      "soundmark": "/,riɪn'fɔrs/",
+      "posTags": [[2, 2, "动词"]],
+      "syntaxTags": [
+        [0, 1, "主语", "NP"],
+        [2, 2, "谓语动词", "VP"],
+        [3, 11, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "attendance",
+      "chinese": "每场比赛平均有4,000名球迷来观战。",
+      "english": "We have an average attendance of 4,000 fans per game.",
+      "soundmark": "/ə'tɛndəns/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 4, "宾语", "NP"],
+        [5, 9, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "flow",
+      "chinese": "疏导市中心车流的新道路系统",
+      "english": "a new road system to improve traffic flow through the city centre",
+      "soundmark": "/flo/",
+      "posTags": [[7, 7, "动词"]],
+      "syntaxTags": [
+        [0, 4, "主语", "NP"],
+        [5, 5, "谓语动词", "VP"],
+        [6, 7, "宾语", "NP"],
+        [8, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "mood",
+      "chinese": "你今天早晨心情不错啊！",
+      "english": "You’re in a good mood this morning!",
+      "soundmark": "/mud/",
+      "posTags": [[4, 4, "名词"]],
+      "syntaxTags": [[0, 6, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "mutually",
+      "chinese": "请注意系统的不同用户有不同的目标，而且这些目标经常是相互排斥的。",
+      "english": "Note that different users of the system have different goals, and that these goals are often mutually exclusive.",
+      "soundmark": "/'mjutʃuəli/",
+      "posTags": [[16, 16, "副词"]],
+      "syntaxTags": [
+        [0, 6, "主语", "NP"],
+        [7, 7, "谓语动词", "VP"],
+        [8, 17, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "review",
+      "chinese": "将对过去六个月里所发生的事件进行回顾的记者",
+      "english": "a journalist who will review the events of the past six months",
+      "soundmark": "/rɪ'vju/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 3, "主语", "NP"],
+        [4, 4, "谓语动词", "VP"],
+        [5, 6, "宾语", "NP"],
+        [7, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "elegant",
+      "chinese": "身材高挑、举止优雅的年轻女子",
+      "english": "a tall, elegant young woman",
+      "soundmark": "/'ɛləgənt/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "hospitable",
+      "chinese": "当地人非常友好热情。",
+      "english": "The local people were very kind and hospitable.",
+      "soundmark": "/hɑ'spɪtəbl/",
+      "posTags": [[7, 7, "形容词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "系动词", "VP"],
+        [4, 7, "表语", "NP"]
+      ]
+    },
+    {
+      "word": "constitute",
+      "chinese": "我们必须对家庭的构成重新定义。",
+      "english": "We must redefine what constitutes a family.",
+      "soundmark": "/'kɑnstətut/",
+      "posTags": [[4, 4, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "谓语动词", "VP"],
+        [2, 6, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "programmer",
+      "chinese": "计算机程序设计员把文件弄坏了，只好重做。",
+      "english": "The computer programmer botched (up) the job and had to start over.",
+      "soundmark": "/'progræmɚ/",
+      "posTags": [[2, 2, "名词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 11, "状语修饰", "PP"]
+      ]
+    },
+    {
+      "word": "sophisticated",
+      "chinese": "非常精密的武器系统",
+      "english": "a highly sophisticated weapons system",
+      "soundmark": "/sə'fɪstɪketɪd/",
+      "posTags": [[2, 2, "形容词"]],
+      "syntaxTags": [[0, 4, "名词短语/固定搭配", "NP"]]
+    },
+    {
+      "word": "ignorant",
+      "chinese": "不学无术的人",
+      "english": "an ignorant and uneducated man",
+      "soundmark": "/'ɪɡnərənt/",
+      "posTags": [[1, 1, "形容词"]],
+      "syntaxTags": [
+        [0, 2, "主语", "NP"],
+        [3, 3, "谓语动词", "VP"],
+        [4, 4, "宾语", "NP"]
+      ]
+    },
+    {
+      "word": "imitate",
+      "chinese": "她是个出色的模仿者，喜欢模仿温斯顿·丘吉尔。",
+      "english": "She was a splendid mimic and loved to imitate Winston Churchill.",
+      "soundmark": "/'ɪmɪtet/",
+      "posTags": [[8, 8, "动词"]],
+      "syntaxTags": [
+        [0, 0, "主语", "NP"],
+        [1, 1, "系动词", "VP"],
+        [2, 6, "表语", "NP"],
+        [7, 10, "状语修饰", "PP"]
+      ]
+    }
+  ]
+}
